@@ -1710,6 +1710,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You may use the three filters at the top of the window to help you find the products you want.^^You intend to purchase products from the local seaports, so click the ~Suppliers~ filter box, as indicated.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T165738Z" creationid="Olivier" creationdate="20200422T165738Z">
+        <seg>Vous pouvez utiliser les trois filtres en haut de la fenêtre pour vous aider à trouver les produits que vous voulez.^^Vous avez l'intention d'acheter des produits dans les ports maritimes locaux, alors cliquez sur la case de filtre "Fournisseurs" comme indiqué.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You must confirm this before sending this Challenge Game to other players.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160526Z" creationid="Inrepublica" creationdate="20200422T160526Z">
@@ -2196,6 +2204,16 @@ Cick the ~Add Product icon~ now.</seg>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T165606Z" creationid="Olivier" creationdate="20200422T165606Z">
         <seg>[TEXT]
 Cliquer sur l'icône "Ajouter un produit" maintenant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
+Double-click ~Seaport~ from the drop-down list.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T165854Z" creationid="Olivier" creationdate="20200422T165854Z">
+        <seg>[TEXT]
+Double-cliquez sur "Port Maritime" dans la liste déroulante.</seg>
       </tuv>
     </tu>
     <tu>
