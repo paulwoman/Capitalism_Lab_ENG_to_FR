@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A lower insurance claims ratio means a higher profit margin for insurance companies.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T194508Z" creationid="Inrepublica" creationdate="20200422T194508Z">
+        <seg>Un taux de sinistralité plus faible signifie une marge bénéficiaire plus élevée pour les compagnies d'assurance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A lower value means an easier game.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T165025Z" creationid="Inrepublica" creationdate="20200422T165025Z">
@@ -1238,6 +1246,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Insurance Claims</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T194450Z" creationid="Inrepublica" creationdate="20200422T194412Z">
+        <seg>Indemnisations d'assurance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Insurance Premiums Modifier</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T194340Z" creationid="Inrepublica" creationdate="20200422T194340Z">
+        <seg>Modificateur de primes d'assurance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Internet Revenue Index</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164108Z" creationid="Inrepublica" creationdate="20200422T164108Z">
@@ -1758,6 +1782,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Setting this to a value higher than 100 will increase revenues of all insurance companies.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T194353Z" creationid="Inrepublica" creationdate="20200422T194353Z">
+        <seg>En fixant cette valeur à plus de 100, on augmente les revenus de toutes les compagnies d'assurance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Show competitors' trade secrets</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T155125Z" creationid="Inrepublica" creationdate="20200422T155125Z">
@@ -2130,6 +2162,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145642Z" creationid="Inrepublica" creationdate="20200422T145633Z">
         <seg>Vous pouvez également personnaliser ou laisser le hasard définir les paramètres de jeu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may customize the average amounts of insurance claims that insurance companies have to pay.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T194440Z" creationid="Inrepublica" creationdate="20200422T194440Z">
+        <seg>Vous pouvez personnaliser les montants moyens des demandes d'indemnisation que les compagnies d'assurance doivent payer.</seg>
       </tuv>
     </tu>
     <tu>
