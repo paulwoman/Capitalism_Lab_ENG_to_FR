@@ -4,7 +4,7 @@ Il s'agit d'un dépôt contenant la traduction pour le jeu Capitalism Lab de Enl
 # Participer
 Pour participer à la traduction nous allons utiliser le logiciel [OmegaT](https://omegat.org/) dans sa version 5.2.0.
 
-Tout d'abord faites une demande d'ajout dans les contributeurs. Pour cela ouvrez merci d'ouvrir une "issues".
+Tout d'abord faites une demande d'ajout dans les contributeurs. Pour cela merci d'ouvrir une "issues".
 
 Ensuite dans OmegaT cliquez sur Projet -> Télécharger projet en équipe:
 
