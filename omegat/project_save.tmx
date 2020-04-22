@@ -14,6 +14,54 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0001]&lt;VERS&gt;Version %1s|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T124929Z" creationid="Inrepublica" creationdate="20200422T124929Z">
+        <seg>[0001]&lt;VERS&gt;Version %1s|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0011]&lt;QUIT&gt;Quit|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T124949Z" creationid="Inrepublica" creationdate="20200422T124949Z">
+        <seg>[0011]&lt;QUIT&gt;Quitter|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0012]&lt;TRAN&gt;Training|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T125056Z" creationid="Inrepublica" creationdate="20200422T125056Z">
+        <seg>[0012]&lt;TRAN&gt;Entraînement|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0017]&lt;CANC&gt;Cancel|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T125119Z" creationid="Inrepublica" creationdate="20200422T125119Z">
+        <seg>[0017]&lt;CANC&gt;Annulez|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0019]&lt;NEWP&gt;New Player|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T125131Z" creationid="Inrepublica" creationdate="20200422T125131Z">
+        <seg>[0019]&lt;NEWP&gt;Nouveau Joueur|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0020]&lt;DELP&gt;Delete|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T125137Z" creationid="Inrepublica" creationdate="20200422T125137Z">
+        <seg>[0020]&lt;DELP&gt;Supprimer|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[BOX1]Ok</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T112202Z" creationid="Inrepublica" creationdate="20200422T112202Z">
