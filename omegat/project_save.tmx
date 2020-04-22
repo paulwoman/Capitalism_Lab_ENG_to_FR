@@ -830,6 +830,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you set this to a value greater than zero, rival political parties will receive donations from the general public over time.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T162402Z" creationid="Inrepublica" creationdate="20200422T162402Z">
+        <seg>Si vous fixez cette valeur à une valeur supérieure à zéro, les partis politiques rivaux recevront des dons du grand public au fil du temps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Import quality</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160437Z" creationid="Inrepublica" creationdate="20200422T160437Z">
@@ -1102,6 +1110,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Random Product Reinvention</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T162812Z" creationid="Inrepublica" creationdate="20200422T162812Z">
+        <seg>Réinvention aléatoire des produits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Randomly disable product classes</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161033Z" creationid="Inrepublica" creationdate="20200422T161033Z">
@@ -1290,6 +1306,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161652Z" creationid="Inrepublica" creationdate="20200422T161652Z">
         <seg>Cet indice détermine les dépenses pour des équipements publics, ce qui affecte la difficulté du jeu à jouer en tant que maire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This setting is mainly for increasing the difficulty level of the game.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T162409Z" creationid="Inrepublica" creationdate="20200422T162409Z">
+        <seg>Ce paramètre est principalement destiné à augmenter le niveau de difficulté du jeu si vous recherchez un plus grand défi.</seg>
       </tuv>
     </tu>
     <tu>
