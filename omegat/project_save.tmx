@@ -422,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GM_CCITY</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161258Z" creationid="Inrepublica" creationdate="20200422T161258Z">
+        <seg>GM_CCITY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GM_CEL</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145753Z" creationid="Inrepublica" creationdate="20200422T145753Z">
@@ -1046,6 +1054,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Product List</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161250Z" creationid="Inrepublica" creationdate="20200422T161250Z">
+        <seg>Liste de produits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Public Expenses Index</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161340Z" creationid="Inrepublica" creationdate="20200422T161340Z">
+        <seg>Indice des dépenses publiques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Random Events</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T151348Z" creationid="Inrepublica" creationdate="20200422T151348Z">
@@ -1166,6 +1190,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The first city's cash level at the beginning of the game.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161330Z" creationid="Inrepublica" creationdate="20200422T161330Z">
+        <seg>Niveau de cash de la première ville (City Economic Simulation DLC)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The number of subsidiaries that your company owns at the beginning of the game.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161233Z" creationid="Inrepublica" creationdate="20200422T161233Z">
@@ -1258,6 +1290,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145642Z" creationid="Inrepublica" creationdate="20200422T145633Z">
         <seg>Vous pouvez également personnaliser ou laisser le hasard définir les paramètres de jeu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may exclude specific products from the game by either selecting them manually, or using the 'Random Disable Product Classes' feature to select them automatically.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161256Z" creationid="Inrepublica" creationdate="20200422T161256Z">
+        <seg>Vous pouvez exclure certains produits du jeu en les sélectionnant manuellement ou en utilisant la fonction "Désactiver les classes de produits au hasard" pour les sélectionner automatiquement.</seg>
       </tuv>
     </tu>
     <tu>
