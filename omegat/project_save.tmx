@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As such, it will have the inflation artificially suppressed.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T153023Z" creationid="Inrepublica" creationdate="20200422T153023Z">
+        <seg>En tant que telle, l'inflation sera supprimée artificiellement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>BANKDIFF</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150005Z" creationid="Inrepublica" creationdate="20200422T150005Z">
@@ -202,6 +210,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145929Z" creationid="Inrepublica" creationdate="20200422T145929Z">
         <seg>COMME_SC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Choose 'Many' to allow specialist stores, such as supermarkets, furniture stores etc., or 'One' to have only department stores.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T153053Z" creationid="Inrepublica" creationdate="20200422T153053Z">
+        <seg>Choisissez «nombreux» pour permettre les magasins spécialisés, tels que les supermarchés, les magasins de meubles, etc., ou 'Un seul' pour avoir seulement les grands magasins.</seg>
       </tuv>
     </tu>
     <tu>
@@ -534,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Game starting year</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T153100Z" creationid="Inrepublica" creationdate="20200422T153100Z">
+        <seg>Date de départ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>INSCLAIM</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145936Z" creationid="Inrepublica" creationdate="20200422T145936Z">
@@ -618,6 +642,30 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T151322Z" creationid="Inrepublica" creationdate="20200422T151322Z">
         <seg>Si ce paramètre est réglé sur Oui, 1) le cours des actions n'est pas affectés par la situation économique actuelle, et 2) la négociation d'actions entre la société du joueur et ses filiales est interdite, ceci rend plus difficile la spéculation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you set it to a later year, there will be fewer types of technology that you have to research, as some of them will be already available when the game starts.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T153114Z" creationid="Inrepublica" creationdate="20200422T153114Z">
+        <seg>Définir une date ultérieure réduit le nombre de technologies que vous devrez rechercher avant que de les fabriquer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inflation</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T152930Z" creationid="Inrepublica" creationdate="20200422T152930Z">
+        <seg>Inflation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inflation Strength</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T152959Z" creationid="Inrepublica" creationdate="20200422T152959Z">
+        <seg>Niveau de l'inflation</seg>
       </tuv>
     </tu>
     <tu>
@@ -774,6 +822,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Retail store type</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T153038Z" creationid="Inrepublica" creationdate="20200422T153038Z">
+        <seg>Type de magasin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>SAVERATE</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145923Z" creationid="Inrepublica" creationdate="20200422T145923Z">
@@ -810,6 +866,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145810Z" creationid="Inrepublica" creationdate="20200422T145810Z">
         <seg>SUBCOUNT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select Reduced Inflation Strength if you prefer less strong inflation.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T153011Z" creationid="Inrepublica" creationdate="20200422T153011Z">
+        <seg>Sélectionnez inflation réduite pour une moins forte inflation.</seg>
       </tuv>
     </tu>
     <tu>
