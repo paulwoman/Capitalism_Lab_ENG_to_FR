@@ -328,8 +328,8 @@
       <tuv lang="en-US">
         <seg>Besides clicking the ~Select~ button, you may simply ~double-click~ a product on the list to select it.^^When you are ready to move on, ~RIGHT clicking anywhere~ on the screen to exit your store and return to the city view.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T170918Z" creationid="Olivier" creationdate="20200422T170918Z">
-        <seg>En plus de cliquer sur le bouton ~Select~, vous pouvez simplement ~double-cliquer~ sur un produit de la liste pour le sélectionner. Lorsque vous êtes prêt à passer à autre chose, ~cliquez à droite n'importe où~ sur l'écran pour quitter votre magasin et revenir à la vue de la ville.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T171315Z" creationid="Olivier" creationdate="20200422T170918Z">
+        <seg>En plus de cliquer sur le bouton "Select", vous pouvez simplement double-cliquer sur un produit de la liste pour le sélectionner. Lorsque vous êtes prêt à passer à autre chose, cliquez droit n'importe où sur l'écran pour quitter votre magasin et revenir à la vue de la ville.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1210,6 +1210,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160615Z" creationid="Inrepublica" creationdate="20200422T160615Z">
         <seg>Lance un navigateur Web et ouvre la page Web avec des instructions sur la façon de configurer un défi privé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let's click on the ~Mini Map~ icon now.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T171401Z" creationid="Olivier" creationdate="20200422T171401Z">
+        <seg>Cliquons maintenant sur l'icône "Mini Carte".</seg>
       </tuv>
     </tu>
     <tu>
@@ -2467,6 +2475,16 @@ La fenêtre se met à jour pour montrer tous les produits disponibles dans les p
     <tu>
       <tuv lang="en-US">
         <seg>[TEXT]
+There is a row of icons on the toolbar.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T171333Z" creationid="Olivier" creationdate="20200422T171333Z">
+        <seg>[TEXT]
+Il y a une rangée d'icônes sur la barre d'outils.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
 This is the ~Select a Supplier~ window.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T165638Z" creationid="Olivier" creationdate="20200422T165638Z">
@@ -2492,6 +2510,16 @@ You are now back in your department store.</seg>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T170114Z" creationid="Olivier" creationdate="20200422T170114Z">
         <seg>[TEXT]
 Vous êtes maintenant de retour dans votre grand magasin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
+You can see the current game date here.^^Note that the game runs in real time.You may change the game speed using the shortcut keys ~'1' (slowest) to '5' (fastest)~.^^You may also pause the game by pressing the ~key '0'~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T171205Z" creationid="Olivier" creationdate="20200422T171205Z">
+        <seg>[TEXT]
+Vous pouvez modifier la vitesse du jeu en utilisant les touches de raccourci ~'1' (le plus lent) à '5' (le plus rapide)~.^^Vous pouvez également mettre le jeu en pause en appuyant sur la touche ~'0'~.</seg>
       </tuv>
     </tu>
     <tu>
