@@ -742,6 +742,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Number of AI Competitors</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T153222Z" creationid="Inrepublica" creationdate="20200422T153222Z">
+        <seg>Nombre de compétiteurs IA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number of Cities</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150048Z" creationid="Inrepublica" creationdate="20200422T150048Z">
@@ -914,6 +922,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150823Z" creationid="Inrepublica" creationdate="20200422T150823Z">
         <seg>Le marché boursier permet la négociation d'actions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This determines the number of AI controlled corporations.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T153228Z" creationid="Inrepublica" creationdate="20200422T153228Z">
+        <seg>Détermine le nombre de compétiteurs contre lesquels vous allez jouer.</seg>
       </tuv>
     </tu>
     <tu>
