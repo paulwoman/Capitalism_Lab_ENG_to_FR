@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0023]If your name is not here, click on "New Player" below|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T144635Z" creationid="Inrepublica" creationdate="20200422T144635Z">
+        <seg>[0023]Si votre nom n’apparaît pas, cliquez sur "Nouveau Joueur" ci-dessous|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0024]&lt;PRFN&gt;Please enter your name|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T131722Z" creationid="Inrepublica" creationdate="20200422T131616Z">
@@ -186,6 +194,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T144006Z" creationid="Inrepublica" creationdate="20200422T144006Z">
         <seg>[0119]&lt;RFU1&gt;Ne peut rejoindre une nouvelle session de jeu|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0148]&lt;SV_G&gt;Save Game|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T144646Z" creationid="Inrepublica" creationdate="20200422T144646Z">
+        <seg>[0148]&lt;SV_G&gt;Sauvegarder|</seg>
       </tuv>
     </tu>
     <tu>
