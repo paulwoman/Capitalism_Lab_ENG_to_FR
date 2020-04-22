@@ -1,0 +1,398 @@
+[TEXT]
+NIL 
+
+[ACTION]
+Hide=Preview
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+In this tutorial, you will be introduced to the stock market and learn how to leverage it to meet the financial needs of your corporation. 
+
+[POS]
+Flex Text Box=300,280,400,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Well now, let's look at the current state of the stock market. Open the ~Information Center~ now.
+
+[POS]
+Extend Text Box=36,600,500,0
+Pointer=156,6,183,30
+Window=Bottom Toolbar 
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Click ~Stock Exchange~.
+
+[POS]
+Text Box=100,528,200,0 
+Pointer=36,494,148,508
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+The top area shows the public companies currently listed in the stock exchange. Your corporation is the first one on the list. 
+
+[POS]
+Text Box=200,300,500,0
+Pointer=170,53,560,270
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+The area below shows the shareholders of the selected public company.^^You hold 50% shares of your company and the rest of the shares are held by public shareholders, AI persons and AI companies. 
+
+[POS]
+Text Box=200,485,500,0
+Pointer=170,277,596,457
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+To expand your business, you would need to raise some cash. In previous tutorials you've already seen how to raise cash by taking out a loan.^^This time you'll use the expectations of investors to raise the much needed money.
+
+[POS]
+Text Box=200,485,500,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+You should now offer to issue new shares to the public. To do this, select ~Financial Actions~ from the menu.
+
+[POS]
+Text Box=200,513,500,0
+Pointer=37,466,151,477
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Now select ~Issue New Shares to the Public~. 
+
+[POS]
+Text Box=426,124,350,0
+Pointer=524,51,725,64
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Firstly, take a look at the ~Issuing Price~, which should always be lower than the ~Current Stock Price~, in order to attract new investors to buy your company's shares.
+
+[POS]
+Text Box=200,340,400,0
+Pointer=175,161,775,200
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Now set the ~Number of New Shares~ you want to issue, and click the ~Issue Now~ button to issue new shares to raise money.^^As a rule, the larger the quantity of new shares you wish to issue, the higher the discount in share prices you must offer, in order to attract enough investors to subscribe the new shares.  
+
+[POS]
+Text Box=200,10,500,0
+
+[CONDITION]
+Issued new shares=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Great! You have successfully raised the needed cash for growing your business.^^However, it did come with a price - the issuing of the new shares diluted your ownership of your corporation a bit.
+
+[POS]
+Text Box=200,370,500,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Now return to the stock market to view your latest stock holdings. This time, let's use the shortcut key ~F4~ to go to the Stock Exchange. 
+
+[POS]
+Text Box=200,510,500,0 
+
+[CONDITION]
+Active Interface=Stock Exchange
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+At the ~Ownership Details~ section, it shows that you now only own less than 50% of your corporation and the remainder is owned by ~Public Shareholders~, AI persons and AI corporations. 
+^^The floating shares may be purchased at stock price by any corporations or individual investors.
+
+[POS]
+Text Box=200,485,500,0
+Pointer=170,277,596,457
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Look at the ~Who section~. Via this interface, you may buy stocks on behalf of your corporation or invest as an individual.^^Please note that the names may be truncated if there is not enough space to display them in full.
+
+[POS]
+Text Box=200,280,500,0
+Pointer=170,467,376,591
+Next Arrow=Yes
+
+[ACTION]
+Game speed=0
+// to the stock price from fluctuating and displaying the Not Enough Cash message in a popup window 
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+It shows that you have $1,000,000 in personal cash at the moment. Let's do some stock investment with your personal money now.^^Simply ~click your name~ now to select yourself as the active investor.
+
+[POS]
+Text Box=300,280,400,0
+Pointer=180,472,312,486 
+
+[ACTION]
+Game speed=0
+// to the stock price from fluctuating and displaying the Not Enough Cash message in a popup window 
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Now look at the ~Buy/Sell shares section~ below.^^Using this interface, you may purchase up to 5% of the total number of shares of a listed company in a single transaction, so long as you have the cash. 
+
+[POS]
+Text Box=300,280,400,0
+Pointer=387,468,757,520
+Next Arrow=Yes
+
+[ACTION]
+Game speed=0
+// to the stock price from fluctuating and displaying the Not Enough Cash message in a popup window 
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+As a recap, to buy stocks, you should:^^1) Select the stock you want to buy.^^2) Select whether your corporation or yourself as an individual is going to buy the stock.^^3) Set the purchase amount.^^4) Click the ~Buy~ button. 
+
+[POS]
+Flex Text Box=300,280,400,0
+Next Arrow=Yes
+
+[ACTION]
+Game speed=0
+// to the stock price from fluctuating and displaying the Not Enough Cash message in a popup window 
+
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+You, as an individual, may either buy more shares of your own corporation or invest in other corporations.^^Currently your corporation is selected on the stock list situated at the top of the screen, and you may now click the ~Buy~ button to buy its shares. 
+
+[POS]
+Text Box=300,280,400,0
+Pointer=709,483,744,501
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Excellent! You've just used your idle personal cash to increase your shareholding of your corporation. That would be an excellent long-term investment. 
+
+[POS]
+Text Box=300,280,400,0
+Next Arrow=Yes
+
+[ACTION]
+Game speed=3
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+You may wonder how you can buy shares of other corporations. Well, it follows exactly the same principle.^^Let's select the second stock on the list and take a closer look at its financial data. 
+
+[POS]
+Text Box=300,280,400,0
+Pointer=170,96,471,106
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Picking the right stocks to invest is a skill that takes time to develop. First of all, you will have to learn how to read a company's financial data, which are displayed on the top right of the Stock Exchange screen. 
+
+[POS]
+Text Box=300,280,400,0
+Pointer=567,51,784,252
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Below the ~stock price~ and the ~total number of shares~ figures, you will see the ~Market Cap~, or the market capitalization of a corporation, which is equal to the ~share price~ times the ~total number of shares outstanding~. In other words, it is the total market value of a corporation in the stock market. 
+
+[POS]
+Text Box=300,280,400,0
+Pointer=571,96,773,112
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+~Earning Per Share~ is a company's operating profit over the past 365 days divided by the ~total number of outstanding shares~.^^When a company issues new shares, the ~Earning Per Share~ will be diluted as the company's profit will be divided by a larger number of shares. 
+
+[POS]
+Text Box=300,280,400,0
+Pointer=571,122,773,158
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Remember that your corporation has just issued some shares? It led to an increase in the ~total number of outstanding shares~ and a decrease in ~Earning per Share~.
+
+[POS]
+Text Box=300,280,400,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Your company's stock price can only go up in the long run if its ~Earning Per Share~ also goes up.^^Thus, for the fund that you have raised with issuing new shares, you should use them to invest into new business to generate more profits for your shareholders. 
+
+[POS]
+Text Box=300,280,400,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+The ~P/E Ratio~, or the ~Price-Earnings Ratio~ is an equity valuation multiple, defined as the ~stock price~ divided by ~earnings per share~.^^A high ~P/E ratio~ generally means the the stock is expensive as people are buying high prices to buy the stock, possibly driven by investors' confidence in the company's growth prospect. 
+
+[POS]
+Text Box=300,280,400,0
+Pointer=571,168,773,182
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+If you find all this a bit overwhelming, don't worry as you are not required to be proficient in stock analysis in order to enjoy your Capitalism game.^^You can choose to learn and practice stock investment at a pace you prefer in later games. For now, you have already done a pretty good job getting a grasp of the basics. 
+ 
+[POS]
+Text Box=300,280,400,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Another figure which you may find useful is the ~Dividend Yield~. This is a percentage calculated by dividing the latest dividend paid by the stock price.^^Put simply, the greater the dividend yield, the more cash is returned to each investor when the dividend is paid out each year.
+
+[POS]
+Text Box=300,280,400,0
+Pointer=571,212,773,227
+Next Arrow=Yes
+
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Besides buying stocks as an individual, you can also buy stocks on behalf of your company. Select your company on the ~Who section~. 
+
+[POS]
+Text Box=300,280,400,0
+Pointer=175,498,323,509
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Now you may use your company's money to buy shares of other publicly listed companies as an investment.^^To do so, simply select a company from the list at the top of the screen, then click on the ~Buy~ button to buy its shares. 
+
+[POS]
+Text Box=300,280,400,0
+
+[CONDITION]
+Bought other company stock=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Well done! From this point on, you should keep an eye on the stock's performance as changes in its stock price will affect your company's balance sheet as well. 
+
+[POS]
+Text Box=300,280,400,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+If your company owns more than ~50%~ of another company, it will be added to the ~Who section~ where you could select it and trade stocks on behalf of that company.
+
+[POS]
+Text Box=300,280,400,0
+Pointer=171,467,375,589
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+When your company owns more than ~75%~ of another company, you will be able to execute a marger which will merge all of its business operations into your company, including all of its technological know-how.^^This makes mergers a highly effective way to expand your business empire rapidly.
+[POS]
+Text Box=300,280,400,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Besides buying stocks of other companies, your company can also ~buy back its own stock~.^^The shares bought are taken out of circulation, therefore shrinking the number of outstanding shares. This can have a positive effect on earnings per share, which in turn can have ~a positive effect~ on the stock price.
+
+[POS]
+Text Box=300,280,400,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Before we progress here's a quick note on how to sell shares. The interface for selling shares is in fact very similar to that of buying shares.^^Depending on the current owner of the shares, select either yourself or your corporation (in the ~Who section~) and set the amount you wish to sell and click the ~Sell~ button.
+
+[POS]
+Text Box=300,280,400,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+If you find the stock list too cluttered, you may use the stock filters to limit the type of stock to be displayed on the screen.^^For example, you may choose to view only tech stocks that you currently own by clicking on the ~Tech~ button and then the ~Owned~ button.
+
+[POS]
+Text Box=180,110,500,0
+Pointer=173,22,696,44
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+At the bottom of the screen, you can view the ~performances of your stock holdings~, showing the gains or losses of individual stocks in your portfolio, as well as your total investment return to date.^^And this area can be switched to display the ~latest financial news~ by clicking the ~Stock News~ located at the bottom left of the screen.
+
+[POS]
+Text Box=180,400,500,0
+Pointer=170,600,766,647
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+You have done a great job familiarizing yourself with the stock market! Now it's time for you to use the recently raised fund to grow your business empire. 
+
+[POS]
+Text Box=300,280,400,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+The investors are expecting you to deliver a good return to their investment.^^You win this game when ~your company's stock price~ increases to ~$100~. Good luck!
+
+[POS]
+Text Box=300,280,400,0
+Next Arrow=Yes
