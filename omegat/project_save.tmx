@@ -678,10 +678,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Stock Market</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150754Z" creationid="Inrepublica" creationdate="20200422T150754Z">
+        <seg>Marché boursier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>TALENT</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145916Z" creationid="Inrepublica" creationdate="20200422T145916Z">
         <seg>TALENT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The stock market allows for stock trading.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150823Z" creationid="Inrepublica" creationdate="20200422T150823Z">
+        <seg>Le marché boursier permet la négociation d'actions.</seg>
       </tuv>
     </tu>
     <tu>
