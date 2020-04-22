@@ -1806,6 +1806,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The logic behind this is that Product Customization relies on technology levels to increase linearly to function properly, whereas Technology Disruption reduces all technology levels across the board by 10% annually.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T173105Z" creationid="Inrepublica" creationdate="20200422T173105Z">
+        <seg>La logique sous-jacente est que la personnalisation des produits repose sur une augmentation linéaire des niveaux technologiques pour fonctionner correctement, tandis que la rupture technologique réduit tous les niveaux technologiques de 10 % par an.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The number of subsidiaries that your company owns at the beginning of the game.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161233Z" creationid="Inrepublica" creationdate="20200422T161233Z">
@@ -1994,6 +2002,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T171026Z" creationid="Olivier" creationdate="20200422T171026Z">
         <seg>Nous sommes maintenant dans la vue de la ville.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When Product Customization is enabled, Technology Disruption will be automatically turned off.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T173042Z" creationid="Inrepublica" creationdate="20200422T173042Z">
+        <seg>Lorsque la personnalisation des produits est activée, la rupture technologique sera automatiquement désactivée.</seg>
       </tuv>
     </tu>
     <tu>
