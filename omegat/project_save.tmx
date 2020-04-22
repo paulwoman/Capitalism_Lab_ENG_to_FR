@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>("Technology Disruption" option is disabled when "Product Customization" is enabled.)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150901Z" creationid="Inrepublica" creationdate="20200422T150901Z">
+        <seg>(L'option "de perturbation de la technologie" est désactivée lorsque "Personnalisation du produit" est activé.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>AIBANKAG</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145922Z" creationid="Inrepublica" creationdate="20200422T145922Z">
@@ -534,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If this is set to On, you will find the Product Customization tool in the Manufacturer's Guide.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150855Z" creationid="Inrepublica" creationdate="20200422T150855Z">
+        <seg>Si cette option est activée, vous trouverez l'outil de personnalisation du produit dans le Guide du fabricant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LANDPRIC</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145818Z" creationid="Inrepublica" creationdate="20200422T145818Z">
@@ -626,6 +642,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145255Z" creationid="Inrepublica" creationdate="20200422T145255Z">
         <seg>Procéder ?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product Customization</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150843Z" creationid="Inrepublica" creationdate="20200422T150843Z">
+        <seg>Personnalisation du produit</seg>
       </tuv>
     </tu>
     <tu>
