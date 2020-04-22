@@ -382,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>E-commerce</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164456Z" creationid="Inrepublica" creationdate="20200422T164456Z">
+        <seg>Commerce électronique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ECOM_SET</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145826Z" creationid="Inrepublica" creationdate="20200422T145826Z">
@@ -822,6 +830,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If it is set to a value, AI companies will go public within the specified number of years.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164446Z" creationid="Inrepublica" creationdate="20200422T164446Z">
+        <seg>Si vous fixez une valeur, les sociétés AI vont entrer en bourse après un certain nombre d'années.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If this index is higher than 100, land prices in this game will be higher than normal.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T163054Z" creationid="Inrepublica" creationdate="20200422T163054Z">
@@ -842,6 +858,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T163254Z" creationid="Inrepublica" creationdate="20200422T163254Z">
         <seg>Si cet indice est supérieur à 100, la demande et les revenus générés par les logiciels de ce jeu seront supérieurs à la normale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If this is enabled, companies will be able to build e-commerce firms and sell products via e-commerce.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164507Z" creationid="Inrepublica" creationdate="20200422T164507Z">
+        <seg>Si cela est activé, les entreprises pourront créer des entreprises de commerce électronique et vendre des produits par le biais du commerce électronique.</seg>
       </tuv>
     </tu>
     <tu>
