@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -322,6 +322,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164720Z" creationid="Inrepublica" creationdate="20200422T164720Z">
         <seg>Taux d'intérêt du prêt de base</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Besides clicking the ~Select~ button, you may simply ~double-click~ a product on the list to select it.^^When you are ready to move on, ~RIGHT clicking anywhere~ on the screen to exit your store and return to the city view.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T170918Z" creationid="Olivier" creationdate="20200422T170918Z">
+        <seg>En plus de cliquer sur le bouton ~Select~, vous pouvez simplement ~double-cliquer~ sur un produit de la liste pour le sélectionner. Lorsque vous êtes prêt à passer à autre chose, ~cliquez à droite n'importe où~ sur l'écran pour quitter votre magasin et revenir à la vue de la ville.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1166,6 +1174,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Keep on adding more products to your store.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T170856Z" creationid="Olivier" creationdate="20200422T170856Z">
+        <seg>Continuez à ajouter de nouveaux produits dans votre magasin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LANDPRIC</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145818Z" creationid="Inrepublica" creationdate="20200422T145818Z">
@@ -1194,6 +1210,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160615Z" creationid="Inrepublica" creationdate="20200422T160615Z">
         <seg>Lance un navigateur Web et ouvre la page Web avec des instructions sur la façon de configurer un défi privé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let's explore.^^See the toolbar at the bottom of the screen?</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T171059Z" creationid="Olivier" creationdate="20200422T171059Z">
+        <seg>Explorons. Vous voyez la barre d'outils au bas de l'écran ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1814,6 +1838,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We are now in the city view.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T171026Z" creationid="Olivier" creationdate="20200422T171026Z">
+        <seg>Nous sommes maintenant dans la vue de la ville.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When it is set to a higher value, the same public facility incurs larger operating expenses.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T162048Z" creationid="Inrepublica" creationdate="20200422T162048Z">
@@ -2405,6 +2437,26 @@ Chaque magasin de détail dispose de quatre emplacements pour les produits.</seg
     <tu>
       <tuv lang="en-US">
         <seg>[TEXT]
+Good.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T171007Z" creationid="Olivier" creationdate="20200422T171007Z">
+        <seg>[TEXT]
+Bien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
+It shows the amount of cash your corporation currently has and its operating profit in the past 12 months.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T171138Z" creationid="Olivier" creationdate="20200422T171138Z">
+        <seg>[TEXT]
+Elle indique le montant des liquidités dont dispose actuellement votre société et son bénéfice d'exploitation au cours des 12 derniers mois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
 The window updates to show all products available from the local seaports.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T165923Z" creationid="Olivier" creationdate="20200422T165923Z">
@@ -2420,6 +2472,16 @@ This is the ~Select a Supplier~ window.</seg>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T165638Z" creationid="Olivier" creationdate="20200422T165638Z">
         <seg>[TEXT]
 Il s'agit de la fenêtre "Sélectionner un fournisseur".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
+Well done!</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T170819Z" creationid="Olivier" creationdate="20200422T170819Z">
+        <seg>[TEXT]
+Très bien !</seg>
       </tuv>
     </tu>
     <tu>
