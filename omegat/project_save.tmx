@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>AI Expansion Aggressiveness</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T154111Z" creationid="Inrepublica" creationdate="20200422T154111Z">
+        <seg>Agressivité des concurrents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>AI Friendly Merger</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T152420Z" creationid="Inrepublica" creationdate="20200422T152420Z">
@@ -938,6 +946,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T153959Z" creationid="Inrepublica" creationdate="20200422T153959Z">
         <seg>Il y aura des sociétés IA centrées sur l'immobilier, les médias et la technologie si cette dernière est fixée à un niveau élevé ou supérieur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This determines how aggressive AI companies are in pursuing business expansions.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T154126Z" creationid="Inrepublica" creationdate="20200422T154126Z">
+        <seg>Détermine l'agressivité économique des sociétés rivales.</seg>
       </tuv>
     </tu>
     <tu>
