@@ -1358,6 +1358,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If this is enabled, money supply is strictly simulated.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203930Z" creationid="Inrepublica" creationdate="20200422T203930Z">
+        <seg>Si cela est activé, la masse monétaire est strictement simulée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If this is enabled, private AI tech companies from the Digital Age DLC may go public on the stock exchange.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164337Z" creationid="Inrepublica" creationdate="20200422T164337Z">
@@ -1562,6 +1570,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T165658Z" creationid="Olivier" creationdate="20200422T165658Z">
         <seg>Elle répertorie tous les produits actuellement disponibles dans le jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It will be more difficult for player and AI companies to raise funds from IPO, issuing new shares and bonds.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203953Z" creationid="Inrepublica" creationdate="20200422T203953Z">
+        <seg>Il sera plus difficile pour les acteurs et les sociétés d'IA de lever des fonds lors de l'introduction en bourse, en émettant de nouvelles actions et obligations.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2162,6 +2178,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150754Z" creationid="Inrepublica" creationdate="20200422T150754Z">
         <seg>Marché boursier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Strict Money Supply</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203920Z" creationid="Inrepublica" creationdate="20200422T203920Z">
+        <seg>Strict approvisionnement en argent</seg>
       </tuv>
     </tu>
     <tu>
