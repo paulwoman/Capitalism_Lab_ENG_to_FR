@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A higher personal savings rate means that people will save and deposit more money into banks, thus boosting the profitability of banks in general.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T171015Z" creationid="Inrepublica" creationdate="20200422T171015Z">
+        <seg>Un taux d'épargne personnel plus élevé signifie que les gens vont épargner et déposer plus d'argent dans les banques, ce qui augmente la rentabilité des banques en général.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A higher value means that AI banks will aggressively lure customers from competitors by offering higher deposit interest rates, and AI insurance companies will offer more competitively priced insurance products.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T170933Z" creationid="Inrepublica" creationdate="20200422T170933Z">
@@ -1382,6 +1390,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Personal Savings Rate Modifier</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T170947Z" creationid="Inrepublica" creationdate="20200422T170947Z">
+        <seg>Modificateur du taux d'épargne personnel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Play with single or multiple cities.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150054Z" creationid="Inrepublica" creationdate="20200422T150054Z">
@@ -1754,6 +1770,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T162409Z" creationid="Inrepublica" creationdate="20200422T162409Z">
         <seg>Ce paramètre est principalement destiné à augmenter le niveau de difficulté du jeu si vous recherchez un plus grand défi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This slider modifies the personal savings rate.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T170959Z" creationid="Inrepublica" creationdate="20200422T170959Z">
+        <seg>Ce curseur modifie le taux d'épargne personnel.</seg>
       </tuv>
     </tu>
     <tu>
