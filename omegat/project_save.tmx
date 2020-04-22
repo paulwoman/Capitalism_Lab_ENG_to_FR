@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Proceed ?|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145255Z" creationid="Inrepublica" creationdate="20200422T145255Z">
+        <seg>Procéder ?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0001]&lt;VERS&gt;Version %1s|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T124929Z" creationid="Inrepublica" creationdate="20200422T124929Z">
@@ -258,6 +266,78 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145112Z" creationid="Inrepublica" creationdate="20200422T145017Z">
         <seg>[0149]&lt;0SAV&gt;Vous n'avez pas encore sauvegardé.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0150]&lt;SAVE&gt;Save|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145120Z" creationid="Inrepublica" creationdate="20200422T145120Z">
+        <seg>[0150]&lt;SAVE&gt;Sauvegarder|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0152]&lt;LOAD&gt;Load|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145123Z" creationid="Inrepublica" creationdate="20200422T145123Z">
+        <seg>[0152]&lt;LOAD&gt;Charger|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0154]&lt;EMGS&gt;Empty Game Slot|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145130Z" creationid="Inrepublica" creationdate="20200422T145130Z">
+        <seg>[0154]&lt;EMGS&gt;Emplacement libre|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0155]&lt;PAGE&gt;page %1d/%2d|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145139Z" creationid="Inrepublica" creationdate="20200422T145139Z">
+        <seg>[0155]&lt;PAGE&gt;page %1d/%2d|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0156]&lt;-DSL&gt;Cannot delete this slot|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145202Z" creationid="Inrepublica" creationdate="20200422T145202Z">
+        <seg>[0156]&lt;-DSL&gt;Impossible d'effacer cet emplacement|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0158]&lt;GDAT&gt;Game date: |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145224Z" creationid="Inrepublica" creationdate="20200422T145224Z">
+        <seg>[0158]&lt;GDAT&gt;Date jeux: |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0159]&lt;FDAT&gt;File date: |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145231Z" creationid="Inrepublica" creationdate="20200422T145231Z">
+        <seg>[0159]&lt;FDAT&gt;Date fichier: |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0160]&lt;FNAM&gt;File name: |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145236Z" creationid="Inrepublica" creationdate="20200422T145236Z">
+        <seg>[0160]&lt;FNAM&gt;Nom fichier: |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0161]&lt;AOVW&gt;It will overwrite the existing save game.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145327Z" creationid="Inrepublica" creationdate="20200422T145327Z">
+        <seg>[0161]&lt;AOVW&gt;Cela va supprimer la sauvegarde existante.</seg>
       </tuv>
     </tu>
     <tu>
