@@ -1446,6 +1446,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Number of AI Companies Focused on Banking</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T194006Z" creationid="Inrepublica" creationdate="20200422T193921Z">
+        <seg>Nombre de sociétés IA axées sur la banque</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of AI Companies Focused on Insurance</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T194033Z" creationid="Inrepublica" creationdate="20200422T194033Z">
+        <seg>Nombre de sociétés IA axées sur l'assurance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number of AI Competitors</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T153222Z" creationid="Inrepublica" creationdate="20200422T153222Z">
@@ -1866,6 +1882,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T155112Z" creationid="Inrepublica" creationdate="20200422T155112Z">
         <seg>Détermine la compétence des personnes IA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This determines the number of AI companies focused on banking in the beginning of the game.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T193950Z" creationid="Inrepublica" creationdate="20200422T193950Z">
+        <seg>Cela détermine le nombre de sociétés d'IA axées sur la banque au début du jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This determines the number of AI companies focused on insurance business in the beginning of the game.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T194051Z" creationid="Inrepublica" creationdate="20200422T194051Z">
+        <seg>Cela détermine le nombre de sociétés d'IA axées sur l'assurance au début du jeu.</seg>
       </tuv>
     </tu>
     <tu>
