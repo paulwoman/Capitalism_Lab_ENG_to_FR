@@ -3543,6 +3543,20 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[POS]
+Text Box=32,270,300,0
+Pointer=202,85,348,102
+Window=Select Supplier</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T221606Z" creationid="Olivier" creationdate="20200422T221606Z">
+        <seg>[POS]
+Text Box=32,270,300,0
+Pointer=202,85,348,102
+Window=Select Supplier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[SHRD]%2j{Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec} %1d, %3,4d</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T112743Z" creationid="Inrepublica" creationdate="20200422T112743Z">
@@ -3695,6 +3709,16 @@ It shows the amount of cash your corporation currently has and its operating pro
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T171138Z" creationid="Olivier" creationdate="20200422T171138Z">
         <seg>[TEXT]
 Elle indique le montant des liquidités dont dispose actuellement votre société et son bénéfice d'exploitation au cours des 12 derniers mois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
+NIL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T221517Z" creationid="Olivier" creationdate="20200422T221517Z">
+        <seg>[TEXT]
+NIL</seg>
       </tuv>
     </tu>
     <tu>
