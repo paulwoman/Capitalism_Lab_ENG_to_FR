@@ -6,6 +6,86 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>Choose one of eight pre-set difficulty levels.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145625Z" creationid="Inrepublica" creationdate="20200422T145625Z">
+        <seg>Choisissez l'un des huit niveaux de difficulté prédéfinis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_ADV</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145654Z" creationid="Inrepublica" creationdate="20200422T145654Z">
+        <seg>GM_ADV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_ASI</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145657Z" creationid="Inrepublica" creationdate="20200422T145657Z">
+        <seg>GM_ASI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_CA</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145752Z" creationid="Inrepublica" creationdate="20200422T145752Z">
+        <seg>GM_CA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_CEL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145753Z" creationid="Inrepublica" creationdate="20200422T145753Z">
+        <seg>GM_CEL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_CLC</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145755Z" creationid="Inrepublica" creationdate="20200422T145755Z">
+        <seg>GM_CLC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_CSC</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145750Z" creationid="Inrepublica" creationdate="20200422T145750Z">
+        <seg>GM_CSC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_CTS</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145754Z" creationid="Inrepublica" creationdate="20200422T145754Z">
+        <seg>GM_CTS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_CUST</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145701Z" creationid="Inrepublica" creationdate="20200422T145701Z">
+        <seg>GM_CUST</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_CUSTR</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145703Z" creationid="Inrepublica" creationdate="20200422T145703Z">
+        <seg>GM_CUSTR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GM_DIFF</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T111852Z" creationid="Inrepublica" creationdate="20200422T111852Z">
@@ -14,10 +94,130 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GM_FM</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145716Z" creationid="Inrepublica" creationdate="20200422T145716Z">
+        <seg>GM_FM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_GSY</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145738Z" creationid="Inrepublica" creationdate="20200422T145738Z">
+        <seg>GM_GSY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_INF</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145721Z" creationid="Inrepublica" creationdate="20200422T145721Z">
+        <seg>GM_INF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_INFS</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145724Z" creationid="Inrepublica" creationdate="20200422T145724Z">
+        <seg>GM_INFS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_MER</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145719Z" creationid="Inrepublica" creationdate="20200422T145719Z">
+        <seg>GM_MER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_NOC</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145648Z" creationid="Inrepublica" creationdate="20200422T145648Z">
+        <seg>GM_NOC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_NOCO</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145744Z" creationid="Inrepublica" creationdate="20200422T145744Z">
+        <seg>GM_NOCO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_PRI</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145706Z" creationid="Inrepublica" creationdate="20200422T145706Z">
+        <seg>GM_PRI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_RE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145711Z" creationid="Inrepublica" creationdate="20200422T145711Z">
+        <seg>GM_RE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_RST</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145728Z" creationid="Inrepublica" creationdate="20200422T145728Z">
+        <seg>GM_RST</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_SUC</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145652Z" creationid="Inrepublica" creationdate="20200422T145652Z">
+        <seg>GM_SUC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_SUE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145708Z" creationid="Inrepublica" creationdate="20200422T145708Z">
+        <seg>GM_SUE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_TEC</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145714Z" creationid="Inrepublica" creationdate="20200422T145714Z">
+        <seg>GM_TEC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Game difficulty level</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145553Z" creationid="Inrepublica" creationdate="20200422T145553Z">
+        <seg>Niveau de difficulté</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Proceed ?|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145255Z" creationid="Inrepublica" creationdate="20200422T145255Z">
         <seg>Procéder ?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may also Customize or Randomize the game settings</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145642Z" creationid="Inrepublica" creationdate="20200422T145633Z">
+        <seg>Vous pouvez également personnaliser ou laisser le hasard définir les paramètres de jeu</seg>
       </tuv>
     </tu>
     <tu>
