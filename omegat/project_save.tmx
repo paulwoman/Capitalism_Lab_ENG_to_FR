@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -42,6 +42,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164740Z" creationid="Inrepublica" creationdate="20200422T164740Z">
         <seg>Un taux d'intérêt plus élevé augmente les coûts d'emprunt, ce qui pose de plus grands défis aux entreprises qui s'endettent pour se développer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A higher value means that AI banks will aggressively lure customers from competitors by offering higher deposit interest rates, and AI insurance companies will offer more competitively priced insurance products.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T170933Z" creationid="Inrepublica" creationdate="20200422T170933Z">
+        <seg>Une valeur plus élevée signifie que les banques attireront agressivement les clients de leurs concurrents en offrant des taux d'intérêt sur les dépôts plus élevés, et que les compagnies d'assurance proposeront des produits d'assurance à des prix plus compétitifs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A higher value means that it increases at a faster rate.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T170837Z" creationid="Inrepublica" creationdate="20200422T170837Z">
+        <seg>Une valeur plus élevée signifie qu'elle augmente à un rythme plus rapide.</seg>
       </tuv>
     </tu>
     <tu>
@@ -178,6 +194,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145928Z" creationid="Inrepublica" creationdate="20200422T145928Z">
         <seg>APART_SC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Aggressiveness of AI banks and insurance companies</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T170858Z" creationid="Inrepublica" creationdate="20200422T170858Z">
+        <seg>Agressivité des banques et des compagnies d'assurance IA</seg>
       </tuv>
     </tu>
     <tu>
@@ -842,6 +866,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T153100Z" creationid="Inrepublica" creationdate="20200422T153100Z">
         <seg>Date de départ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Global Competitiveness Rating Increases</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T170734Z" creationid="Inrepublica" creationdate="20200422T170734Z">
+        <seg>Augmentation de la compétitivité mondiale</seg>
       </tuv>
     </tu>
     <tu>
@@ -1698,6 +1730,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164733Z" creationid="Inrepublica" creationdate="20200422T164733Z">
         <seg>Cela modifie le taux d'intérêt de base qui affecte les obligations et les prêts bancaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This option determines whether global competitiveness ratings will increase over time, progressively making the game more challenging.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T170824Z" creationid="Inrepublica" creationdate="20200422T170824Z">
+        <seg>Cette option détermine si la compétitivité mondiale augmentera au fil du temps, rendant ainsi le jeu progressivement plus difficile.</seg>
       </tuv>
     </tu>
     <tu>
