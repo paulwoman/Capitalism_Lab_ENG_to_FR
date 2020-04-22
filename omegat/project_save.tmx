@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -370,6 +370,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160305Z" creationid="Inrepublica" creationdate="20200422T160305Z">
         <seg>Autorise la création de nouveaux ports.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the ~Add Product icon~, then choose ~Seaport~ from the supplier list, and select a product to add to your store.^^This time, make sure that you select a different product than the one already on sale in your store.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T170748Z" creationid="Olivier" creationdate="20200422T170748Z">
+        <seg>Cliquez sur l'icône "Ajouter un produit", puis choisissez "Port maritime" dans la liste des fournisseurs et sélectionnez un produit à ajouter à votre magasin. Cette fois, assurez-vous de sélectionner un produit différent de celui qui est déjà en vente dans votre magasin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1058,6 +1066,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160437Z" creationid="Inrepublica" creationdate="20200422T160437Z">
         <seg>Qualité des importations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase the variety of products in your store and make use of the available slots.^^Repeat what you did just now.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T170547Z" creationid="Olivier" creationdate="20200422T170547Z">
+        <seg>Augmentez la variété des produits dans votre magasin et utiliser les créneaux disponibles.^^Répétez ce que vous venez de faire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2310,6 +2326,16 @@ Double-click ~Seaport~ from the drop-down list.</seg>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T165854Z" creationid="Olivier" creationdate="20200422T165854Z">
         <seg>[TEXT]
 Double-cliquez sur "Port Maritime" dans la liste déroulante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
+Each retail store has four product slots.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T170503Z" creationid="Olivier" creationdate="20200422T170503Z">
+        <seg>[TEXT]
+Chaque magasin de détail dispose de quatre emplacements pour les produits.</seg>
       </tuv>
     </tu>
     <tu>
