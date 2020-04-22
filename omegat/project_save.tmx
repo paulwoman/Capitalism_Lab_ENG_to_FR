@@ -710,6 +710,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Do you have enough money to build a second department store yet?</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T211314Z" creationid="Olivier" creationdate="20200422T211314Z">
+        <seg>Avez-vous assez d'argent pour construire un deuxième grand magasin ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Donations to Rival Political Parties</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T162346Z" creationid="Inrepublica" creationdate="20200422T162346Z">
@@ -1578,6 +1586,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T165658Z" creationid="Olivier" creationdate="20200422T165658Z">
         <seg>Elle répertorie tous les produits actuellement disponibles dans le jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It seems within your budget, so let's proceed.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T211404Z" creationid="Olivier" creationdate="20200422T211404Z">
+        <seg>Cela semble être dans les limites de votre budget, alors continuons.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3479,6 +3495,16 @@
     <tu>
       <tuv lang="en-US">
         <seg>[TEXT]
+A new department store costs $1,000,000 to build, plus the cost of the land, and a further $100,000 per month to operate.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T211343Z" creationid="Olivier" creationdate="20200422T211343Z">
+        <seg>[TEXT]
+Un nouveau grand magasin coûte 1 000 000 $ pour sa construction, plus le coût du terrain, et 100 000 $ supplémentaires par mois pour son fonctionnement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
 As your corporation currently only has one firm - your department store, only one dot in your corporate color is shown.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T210945Z" creationid="Olivier" creationdate="20200422T210945Z">
@@ -3494,6 +3520,16 @@ Cick the ~Add Product icon~ now.</seg>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T165606Z" creationid="Olivier" creationdate="20200422T165606Z">
         <seg>[TEXT]
 Cliquer sur l'icône "Ajouter un produit" maintenant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
+Click the ~Build Menu~ icon on the ~Game Tools Menu~ at the top-left of the screen.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T211453Z" creationid="Olivier" creationdate="20200422T211453Z">
+        <seg>[TEXT]
+Cliquez sur l'icône "Menu de construction" dans le "Menu des outils de jeu" en haut à gauche de l'écran.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3754,6 +3790,16 @@ You have graduated with an MBA from a renowned business school.</seg>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T165125Z" creationid="Olivier" creationdate="20200422T165125Z">
         <seg>[TEXT]
 Vous avez obtenu un MBA d'une école de commerce renommée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT] 
+While we were exploring the interfaces, your department store was already generating revenue.^^Take a look at the ~cash and profit figures~ on the toolbar.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T211255Z" creationid="Olivier" creationdate="20200422T211255Z">
+        <seg>[TEXT] 
+Pendant que nous explorions les interfaces, votre grand magasin générait déjà des revenus. Regardez les "chiffres de trésorerie et de bénéfices" sur la barre d'outils.</seg>
       </tuv>
     </tu>
     <tu>
