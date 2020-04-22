@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18,6 +18,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164906Z" creationid="Inrepublica" creationdate="20200422T164906Z">
         <seg>(Vous pouvez fixer les limites pour les logiciels et les sociétés Internet séparément à l'aide d'un script).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- help|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T172325Z" creationid="Inrepublica" creationdate="20200422T172325Z">
+        <seg>- aide|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>100 is the standard value.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T172604Z" creationid="Inrepublica" creationdate="20200422T172604Z">
+        <seg>100 est la valeur standard.</seg>
       </tuv>
     </tu>
     <tu>
@@ -242,6 +258,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T165408Z" creationid="Olivier" creationdate="20200422T165408Z">
         <seg>Vous pouvez également appuyer sur la touche ~Enter~ pour continuer lorsque l'icône Suivant clignote.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Apartment Capacity Modifier</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T172527Z" creationid="Inrepublica" creationdate="20200422T172527Z">
+        <seg>Modificateur de capacité des appartements</seg>
       </tuv>
     </tu>
     <tu>
@@ -686,6 +710,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GM_DONPP</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T172359Z" creationid="Inrepublica" creationdate="20200422T172359Z">
+        <seg>GM_DONPP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GM_FM</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145716Z" creationid="Inrepublica" creationdate="20200422T145716Z">
@@ -766,6 +798,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GM_PUBEX</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T172351Z" creationid="Inrepublica" creationdate="20200422T172351Z">
+        <seg>GM_PUBEX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GM_RDI1</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145807Z" creationid="Inrepublica" creationdate="20200422T145807Z">
@@ -790,6 +830,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GM_RFL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T172353Z" creationid="Inrepublica" creationdate="20200422T172353Z">
+        <seg>GM_RFL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_RINV1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T172400Z" creationid="Inrepublica" creationdate="20200422T172400Z">
+        <seg>GM_RINV1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GM_RINV2</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145817Z" creationid="Inrepublica" creationdate="20200422T145817Z">
@@ -806,10 +862,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GM_SCI</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T172348Z" creationid="Inrepublica" creationdate="20200422T172348Z">
+        <seg>GM_SCI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GM_SIQ</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160052Z" creationid="Inrepublica" creationdate="20200422T160052Z">
         <seg>GM_SIQ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_SN</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T172344Z" creationid="Inrepublica" creationdate="20200422T172344Z">
+        <seg>GM_SN</seg>
       </tuv>
     </tu>
     <tu>
@@ -1846,6 +1918,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use this slider to modify the capacity of all apartments.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T172549Z" creationid="Inrepublica" creationdate="20200422T172549Z">
+        <seg>Utilisez ce curseur pour modifier la capacité de tous les appartements.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use this slider to set the percentage of additional talents that you want the game to generate for this new game.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T172509Z" creationid="Inrepublica" creationdate="20200422T172509Z">
+        <seg>Utilisez ce curseur pour définir le pourcentage de talents supplémentaires que vous souhaitez que le jeu génère.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>VGADV</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145841Z" creationid="Inrepublica" creationdate="20200422T145841Z">
@@ -1914,6 +2002,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161256Z" creationid="Inrepublica" creationdate="20200422T161256Z">
         <seg>Vous pouvez exclure certains produits du jeu en les sélectionnant manuellement ou en utilisant la fonction "Désactiver les classes de produits au hasard" pour les sélectionner automatiquement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may have the game duplicate talent data to increase the supply of talents.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T172438Z" creationid="Inrepublica" creationdate="20200422T172438Z">
+        <seg>Vous pouvez demander au jeu de dupliquer les talents pour augmenter l'offre de talents.</seg>
       </tuv>
     </tu>
     <tu>
