@@ -1070,6 +1070,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It lists all the products currently available within the game.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T165658Z" creationid="Olivier" creationdate="20200422T165658Z">
+        <seg>Elle répertorie tous les produits actuellement disponibles dans le jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LANDPRIC</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145818Z" creationid="Inrepublica" creationdate="20200422T145818Z">
@@ -2178,6 +2186,26 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T112743Z" creationid="Inrepublica" creationdate="20200422T112743Z">
         <seg>[SHRD]%2j{Jan|Fev|Mar|Avr|Mai|Jun|Jul|Aou|Sep|Oct|Nov|Dec} %1d, %3,4d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
+Cick the ~Add Product icon~ now.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T165606Z" creationid="Olivier" creationdate="20200422T165606Z">
+        <seg>[TEXT]
+Cliquer sur l'icône "Ajouter un produit" maintenant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
+This is the ~Select a Supplier~ window.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T165638Z" creationid="Olivier" creationdate="20200422T165638Z">
+        <seg>[TEXT]
+Il s'agit de la fenêtre "Sélectionner un fournisseur".</seg>
       </tuv>
     </tu>
     <tu>
