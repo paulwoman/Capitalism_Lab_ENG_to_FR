@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>GM_DIFF</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T111852Z" creationid="Inrepublica" creationdate="20200422T111852Z">
+        <seg>GM_DIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[MON1]January</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T104321Z" creationid="Inrepublica" creationdate="20200422T104321Z">
@@ -18,6 +26,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T104332Z" creationid="Inrepublica" creationdate="20200422T104332Z">
         <seg>[MON2]Février</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T111930Z" creationid="Inrepublica" creationdate="20200422T111930Z">
+        <seg>`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T111915Z" creationid="Inrepublica" creationdate="20200422T111915Z">
+        <seg>~</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
