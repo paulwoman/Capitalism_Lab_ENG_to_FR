@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A higher value will allow a corporation to issue larger amounts of bonds.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202924Z" creationid="Inrepublica" creationdate="20200422T202924Z">
+        <seg>Une valeur plus élevée permettra à une société d'émettre des montants plus importants d'obligations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A lower insurance claims ratio means a higher profit margin for insurance companies.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T194508Z" creationid="Inrepublica" creationdate="20200422T194508Z">
@@ -398,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Bond Issue Limit</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202855Z" creationid="Inrepublica" creationdate="20200422T202855Z">
+        <seg>Limite d'émission d'obligations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Build Firm=Department Store, My Department Store</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202609Z" creationid="Inrepublica" creationdate="20200422T202609Z">
@@ -682,6 +698,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202618Z" creationid="Inrepublica" creationdate="20200422T202618Z">
         <seg>Extend Text Box=32,420,300,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Feature: Bond</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203007Z" creationid="Inrepublica" creationdate="20200422T203007Z">
+        <seg>Fonctionnalité : Obligation</seg>
       </tuv>
     </tu>
     <tu>
@@ -2098,6 +2122,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T173105Z" creationid="Inrepublica" creationdate="20200422T173105Z">
         <seg>La logique sous-jacente est que la personnalisation des produits repose sur une augmentation linéaire des niveaux technologiques pour fonctionner correctement, tandis que la rupture technologique réduit tous les niveaux technologiques de 10 % par an.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The maximum amounts of bonds that a corporation can issue is limited to a multiple of its capitalization, which is set here.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202908Z" creationid="Inrepublica" creationdate="20200422T202908Z">
+        <seg>Le montant maximum des obligations qu'une société peut émettre est limité à un multiple de sa capitalisation, qui est fixée ici.</seg>
       </tuv>
     </tu>
     <tu>
