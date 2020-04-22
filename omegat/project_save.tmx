@@ -366,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>First City Cash Level (City Economic Simulation DLC)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161614Z" creationid="Inrepublica" creationdate="20200422T161614Z">
+        <seg>Niveau de cash de la première ville (City Economic Simulation DLC)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GC_INC</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145921Z" creationid="Inrepublica" creationdate="20200422T145921Z">
@@ -1192,8 +1200,8 @@
       <tuv lang="en-US">
         <seg>The first city's cash level at the beginning of the game.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161330Z" creationid="Inrepublica" creationdate="20200422T161330Z">
-        <seg>Niveau de cash de la première ville (City Economic Simulation DLC)</seg>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161633Z" creationid="Inrepublica" creationdate="20200422T161633Z">
+        <seg>Niveau de cash de la première ville au début du jeu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1254,6 +1262,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This index affects the recurring expenses of public facilities, which impacts the game's difficulty when playing as a mayor.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161652Z" creationid="Inrepublica" creationdate="20200422T161652Z">
+        <seg>Cet indice détermine les dépenses pour des équipements publics, ce qui affecte la difficulté du jeu à jouer en tant que maire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This will make the competition more intense and improve gameplay, especially when playing a MOD game with a large variety of products.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161135Z" creationid="Inrepublica" creationdate="20200422T161135Z">
@@ -1274,6 +1290,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145823Z" creationid="Inrepublica" creationdate="20200422T145823Z">
         <seg>WEB_IDX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When it is set to a higher value, the same public facility incurs larger operating expenses.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T162048Z" creationid="Inrepublica" creationdate="20200422T162048Z">
+        <seg>Lorsqu'elle est fixée à une valeur élevée, la même installation publique entraînera des frais d'exploitation plus élevés.</seg>
       </tuv>
     </tu>
     <tu>
