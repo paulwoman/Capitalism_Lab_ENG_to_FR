@@ -1830,6 +1830,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The type of livestock being raised.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T173809Z" creationid="Inrepublica" creationdate="20200422T173809Z">
+        <seg>Le type d'élevage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The ~yellow SUPPLY bar~ indicates the quantity of the product you have in store and the ~orange DEMAND bar~ measures the consumer demand for that product.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T170239Z" creationid="Olivier" creationdate="20200422T170239Z">
@@ -2486,6 +2494,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[Livestock Raising Unit]</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T173732Z" creationid="Inrepublica" creationdate="20200422T173732Z">
+        <seg>[Unité d'élevage de bétail]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[MON1]January</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T104321Z" creationid="Inrepublica" creationdate="20200422T104321Z">
@@ -2782,6 +2798,14 @@ Vous avez obtenu un MBA d'une école de commerce renommée.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T111915Z" creationid="Inrepublica" creationdate="20200422T111915Z">
         <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~Livestock Name~</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T173813Z" creationid="Inrepublica" creationdate="20200422T173754Z">
+        <seg>~Livestock Name~</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
