@@ -2718,6 +2718,134 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0300]&lt;#?L0&gt;#r - ranking of players|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T200031Z" creationid="Inrepublica" creationdate="20200422T200031Z">
+        <seg>[0300]&lt;#?L0&gt;#r - classement des joueurs|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0326]&lt;CITY&gt;Number of Cities|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T200051Z" creationid="Inrepublica" creationdate="20200422T200051Z">
+        <seg>[0326]&lt;CITY&gt;Nombre de villes|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0327]&lt;SCAP&gt;Your Start-up Capital|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T200103Z" creationid="Inrepublica" creationdate="20200422T200103Z">
+        <seg>[0327]&lt;SCAP&gt;Votre capital de départ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0329]&lt;ALLS&gt;Stock Market|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T200114Z" creationid="Inrepublica" creationdate="20200422T200114Z">
+        <seg>[0329]&lt;ALLS&gt;Bourse|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0341]&lt;NCOM&gt;Number of Competitors|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T200126Z" creationid="Inrepublica" creationdate="20200422T200126Z">
+        <seg>[0341]&lt;NCOM&gt;Nombre de compétiteurs|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0352]&lt;IQUA&gt;Import Quality|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T200141Z" creationid="Inrepublica" creationdate="20200422T200141Z">
+        <seg>[0352]&lt;IQUA&gt;Qualité des importations|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0463]Many|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T200147Z" creationid="Inrepublica" creationdate="20200422T200147Z">
+        <seg>[0463]Souvent|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0464]One|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T200153Z" creationid="Inrepublica" creationdate="20200422T200153Z">
+        <seg>[0464]Un|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0467]&lt;GSYI&gt;Game Starting Year|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T200202Z" creationid="Inrepublica" creationdate="20200422T200202Z">
+        <seg>[0467]&lt;GSYI&gt;Année de départ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0506]Yes|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T200209Z" creationid="Inrepublica" creationdate="20200422T200209Z">
+        <seg>[0506]Oui|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0507]No|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T200215Z" creationid="Inrepublica" creationdate="20200422T200215Z">
+        <seg>[0507]Non|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0509]Yes|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T200225Z" creationid="Inrepublica" creationdate="20200422T200225Z">
+        <seg>[0509]Oui|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0510]No|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T200234Z" creationid="Inrepublica" creationdate="20200422T200234Z">
+        <seg>[0510]non|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0512]Yes|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T200242Z" creationid="Inrepublica" creationdate="20200422T200242Z">
+        <seg>[0512]Oui|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0513]No|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T200251Z" creationid="Inrepublica" creationdate="20200422T200251Z">
+        <seg>[0513]Non|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0515]Yes|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T200258Z" creationid="Inrepublica" creationdate="20200422T200258Z">
+        <seg>[0515]Oui|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[BOX1]Ok</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T112202Z" creationid="Inrepublica" creationdate="20200422T112202Z">
