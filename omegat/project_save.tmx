@@ -3479,6 +3479,16 @@ Bien.</seg>
     <tu>
       <tuv lang="en-US">
         <seg>[TEXT]
+In this mode, buildings represented by ~green dots are profitable~ whereas buildings shown in ~red dots are losing money~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T210314Z" creationid="Olivier" creationdate="20200422T210314Z">
+        <seg>[TEXT]
+Dans ce mode, les bâtiments représentés par les points verts sont rentables alors que les bâtiments représentés par les ~points rouges perdent de l'argent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
 It shows the amount of cash your corporation currently has and its operating profit in the past 12 months.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T171138Z" creationid="Olivier" creationdate="20200422T171138Z">
