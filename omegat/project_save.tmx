@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -48,8 +48,8 @@
       <tuv lang="en-US">
         <seg>A lower value means an easier game.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164833Z" creationid="Inrepublica" creationdate="20200422T164833Z">
-        <seg>Cette option limite le nombre maximum d'entreprises de logiciels d'IA et d'Internet dans un jeu.</seg>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T165025Z" creationid="Inrepublica" creationdate="20200422T165025Z">
+        <seg>Une valeur plus faible rend le jeu plus facile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -950,6 +950,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If this is set to Greatly Simplified, loyalty and headhunting features of the talent system are disabled too.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T165221Z" creationid="Inrepublica" creationdate="20200422T165221Z">
+        <seg>En très simplifié, les fonctions de loyauté et les chasseurs de têtes sont également désactivées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If this is set to On, you will find the Product Customization tool in the Manufacturer's Guide.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150855Z" creationid="Inrepublica" creationdate="20200422T150855Z">
@@ -962,6 +970,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T151157Z" creationid="Inrepublica" creationdate="20200422T151157Z">
         <seg>Si cette option est activée, votre société va commencer comme une entreprise privée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If this is set to Simplified, all talents start with a skill level of 50.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T165111Z" creationid="Inrepublica" creationdate="20200422T165111Z">
+        <seg>En simplifié, tout les talents commence à un niveau de 50.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1462,6 +1478,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Talent System</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164931Z" creationid="Inrepublica" creationdate="20200422T164931Z">
+        <seg>Système des talents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Technology Disruption</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T151908Z" creationid="Inrepublica" creationdate="20200422T151908Z">
@@ -1554,6 +1578,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164733Z" creationid="Inrepublica" creationdate="20200422T164733Z">
         <seg>Cela modifie le taux d'intérêt de base qui affecte les obligations et les prêts bancaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This option limits the maximum number of AI software and Internet companies in a game.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164958Z" creationid="Inrepublica" creationdate="20200422T164958Z">
+        <seg>Cette option limite le nombre maximum d'entreprises de logiciels d'IA et d'Internet dans un jeu.</seg>
       </tuv>
     </tu>
     <tu>
