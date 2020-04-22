@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A capital ratio is the ratio of a bank's equity capital to its total assets.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203240Z" creationid="Inrepublica" creationdate="20200422T203240Z">
+        <seg>Le ratio de fonds propres est le rapport entre les fonds propres d'une banque et le total de ses actifs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A conservative bank may set a lower Maximum Loans-to-Assets ratio on the bank HQ interface, provided that it does not exceed the one defined here.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T195630Z" creationid="Inrepublica" creationdate="20200422T195630Z">
@@ -106,6 +114,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202924Z" creationid="Inrepublica" creationdate="20200422T202924Z">
         <seg>Une valeur plus élevée permettra à une société d'émettre des montants plus importants d'obligations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A larger net interest spread means a greater profit margin for a bank.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203207Z" creationid="Inrepublica" creationdate="20200422T203207Z">
+        <seg>Un écart d'intérêt net plus important signifie une plus grande marge bénéficiaire pour une banque.</seg>
       </tuv>
     </tu>
     <tu>
@@ -702,10 +718,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Feature: Bank</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203036Z" creationid="Inrepublica" creationdate="20200422T203036Z">
+        <seg>Fonctionnalité : Banque</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Feature: Bond</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203007Z" creationid="Inrepublica" creationdate="20200422T203007Z">
         <seg>Fonctionnalité : Obligation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Feature: Insurance Business</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203253Z" creationid="Inrepublica" creationdate="20200422T203253Z">
+        <seg>Fonctionnalité : L'assurance</seg>
       </tuv>
     </tu>
     <tu>
@@ -1414,6 +1446,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Initial Net Interest Spread</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203151Z" creationid="Inrepublica" creationdate="20200422T203119Z">
+        <seg>Marge initial d'intérêt net</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Insurance Claims</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T194450Z" creationid="Inrepublica" creationdate="20200422T194412Z">
@@ -1618,6 +1658,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202550Z" creationid="Inrepublica" creationdate="20200422T202550Z">
         <seg>NIL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Net interest spread refers to the difference in the rate at which a bank takes deposits from customers and the rate at which it offers loans.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203138Z" creationid="Inrepublica" creationdate="20200422T203138Z">
+        <seg>La marge d'intérêt nette correspond à la différence entre le taux auquel une banque accepte les dépôts de ses clients et le taux auquel elle offre des prêts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1902,6 +1950,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Required Bank Capital Ratio</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203217Z" creationid="Inrepublica" creationdate="20200422T203217Z">
+        <seg>Ratio de capital bancaire requis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Retail Store Floors</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T162114Z" creationid="Inrepublica" creationdate="20200422T162114Z">
@@ -2110,6 +2166,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The central bank requires banks to set aside enough capital to cover unexpected losses and keep themselves solvent in a crisis.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203228Z" creationid="Inrepublica" creationdate="20200422T203228Z">
+        <seg>La banque centrale exige que les banques mettent de côté suffisamment de capitaux pour couvrir les pertes imprévues et rester solvables en cas de crise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The first city's cash level at the beginning of the game.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161633Z" creationid="Inrepublica" creationdate="20200422T161633Z">
@@ -2302,6 +2366,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This setting determines whether banks can be set up in the game or not.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203050Z" creationid="Inrepublica" creationdate="20200422T203050Z">
+        <seg>Ce paramètre détermine si les banques peuvent être mises en place dans le jeu ou non.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This setting determines whether insurance companies can be set up in the game or not.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203307Z" creationid="Inrepublica" creationdate="20200422T203307Z">
+        <seg>Ce paramètre détermine si les compagnies d'assurance peuvent être mises en place dans le jeu ou non.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This setting is mainly for increasing the difficulty level of the game.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T162409Z" creationid="Inrepublica" creationdate="20200422T162409Z">
@@ -2402,6 +2482,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T195520Z" creationid="Inrepublica" creationdate="20200422T195520Z">
         <seg>Lorsque le mode Express est activé, une nouvelle interface utilisateur simplifiée sera utilisée pour les magasins de détail, remplaçant la disposition originale 3x3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When this feature is enabled, corporations will able to able to issue bonds to raise capital, and the bond market will be accessible.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203020Z" creationid="Inrepublica" creationdate="20200422T203020Z">
+        <seg>Lorsque cette fonction sera activée, les entreprises pourront émettre des obligations pour lever des capitaux, et le marché obligataire sera accessible.</seg>
       </tuv>
     </tu>
     <tu>
