@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Competitors' Start-up Capital</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T153650Z" creationid="Inrepublica" creationdate="20200422T153650Z">
+        <seg>Capital de démarrage des concurrents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>DEPOSCAP</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145938Z" creationid="Inrepublica" creationdate="20200422T145938Z">
@@ -926,10 +934,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There will be AI corporations focused on real estate, media and technology if this is set to High or above.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T153959Z" creationid="Inrepublica" creationdate="20200422T153959Z">
+        <seg>Il y aura des sociétés IA centrées sur l'immobilier, les médias et la technologie si cette dernière est fixée à un niveau élevé ou supérieur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This determines the number of AI controlled corporations.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T153228Z" creationid="Inrepublica" creationdate="20200422T153228Z">
         <seg>Détermine le nombre de compétiteurs contre lesquels vous allez jouer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This determines the sizes of start-up capital of AI controlled corporations.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T153838Z" creationid="Inrepublica" creationdate="20200422T153838Z">
+        <seg>Détermine les réserves de liquidités initiales des sociétés rivales.</seg>
       </tuv>
     </tu>
     <tu>
