@@ -670,6 +670,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you select "Yes", you will be able to access the trade secrets of all AI companies in the game.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T155136Z" creationid="Inrepublica" creationdate="20200422T155136Z">
+        <seg>Si vous selectionnez oui, vous verrez le niveau de technologie des concurents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you set it to a later year, there will be fewer types of technology that you have to research, as some of them will be already available when the game starts.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T153114Z" creationid="Inrepublica" creationdate="20200422T153114Z">
@@ -918,6 +926,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Show competitors' trade secrets</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T155125Z" creationid="Inrepublica" creationdate="20200422T155125Z">
+        <seg>Montrer les secrets commerciaux des concurents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Stock Market</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150754Z" creationid="Inrepublica" creationdate="20200422T150754Z">
@@ -962,6 +978,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T154126Z" creationid="Inrepublica" creationdate="20200422T154126Z">
         <seg>Détermine l'agressivité économique des sociétés rivales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This determines the expertise levels of AI persons in the game.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T155112Z" creationid="Inrepublica" creationdate="20200422T155112Z">
+        <seg>Détermine la compétence des personnes IA.</seg>
       </tuv>
     </tu>
     <tu>
