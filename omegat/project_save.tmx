@@ -382,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Bond Credit Standard</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T195933Z" creationid="Inrepublica" creationdate="20200422T195933Z">
+        <seg>Norme de crédit obligataire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CHALCONF</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160054Z" creationid="Inrepublica" creationdate="20200422T160054Z">
@@ -458,6 +466,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160305Z" creationid="Inrepublica" creationdate="20200422T160305Z">
         <seg>Autorise la création de nouveaux ports.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City Initial Cash Level</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T195808Z" creationid="Inrepublica" creationdate="20200422T195808Z">
+        <seg>Niveau initial des liquidités de la ville</seg>
       </tuv>
     </tu>
     <tu>
@@ -1214,6 +1230,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you are an experienced player looking for greater challenge, you may set a percentage of your corporation's initial capital to be funded by a bond issue, requiring you to pay bond interests and repay the bond principal upon its maturity.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T195919Z" creationid="Inrepublica" creationdate="20200422T195919Z">
+        <seg>Si vous êtes un joueur expérimenté à la recherche d'un plus grand défi, vous pouvez fixer un pourcentage du capital initial de votre société qui sera financé par une émission d'obligations, ce qui vous obligera à payer les intérêts des obligations et à rembourser le capital de l'obligation à son échéance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you select "Yes", you will be able to access the trade secrets of all AI companies in the game.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T155136Z" creationid="Inrepublica" creationdate="20200422T155136Z">
@@ -1234,6 +1258,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T162402Z" creationid="Inrepublica" creationdate="20200422T162402Z">
         <seg>Si vous fixez cette valeur à une valeur supérieure à zéro, les partis politiques rivaux recevront des dons du grand public au fil du temps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you want to see cities issuing bonds more often, so that you could invest into municipal bonds, you may set this setting to 'Low'.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T195853Z" creationid="Inrepublica" creationdate="20200422T195853Z">
+        <seg>Si vous souhaitez que les villes émettent des obligations plus souvent, afin que vous puissiez investir dans des obligations municipales, vous pouvez régler ce paramètre sur "faible".</seg>
       </tuv>
     </tu>
     <tu>
@@ -1594,6 +1626,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150001Z" creationid="Inrepublica" creationdate="20200422T150001Z">
         <seg>PRICAGGR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Percentage of Player Capital Funded by Bond</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T195905Z" creationid="Inrepublica" creationdate="20200422T195905Z">
+        <seg>Pourcentage du capital des joueurs financé par des obligations</seg>
       </tuv>
     </tu>
     <tu>
@@ -2070,6 +2110,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is for setting the cash levels of cities at the beginning of the game.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T195826Z" creationid="Inrepublica" creationdate="20200422T195826Z">
+        <seg>Il s'agit de fixer les niveaux de liquidités des villes au début du jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This means that more apartments need to be built and the real estate business will be more profitable.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T172654Z" creationid="Inrepublica" creationdate="20200422T172654Z">
@@ -2234,6 +2282,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164254Z" creationid="Inrepublica" creationdate="20200422T164254Z">
         <seg>Les sociétés techs d'IA vont faire leur introduction en bourse?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With a loose credit assessment standard, all corporations will receive better credit ratings and benefit from lower bond interest expenses.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T195947Z" creationid="Inrepublica" creationdate="20200422T195947Z">
+        <seg>Grâce à une norme d'évaluation de crédit souple, toutes les entreprises bénéficieront de meilleures notations de crédit et de frais d'intérêts obligataires moins élevés.</seg>
       </tuv>
     </tu>
     <tu>
