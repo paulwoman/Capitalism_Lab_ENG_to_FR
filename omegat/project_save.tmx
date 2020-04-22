@@ -6,10 +6,138 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>AIBANKAG</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145922Z" creationid="Inrepublica" creationdate="20200422T145922Z">
+        <seg>AIBANKAG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AIBANKFO</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145931Z" creationid="Inrepublica" creationdate="20200422T145931Z">
+        <seg>AIBANKFO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AIBANKT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145933Z" creationid="Inrepublica" creationdate="20200422T145933Z">
+        <seg>AIBANKT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AIINSUFO</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145932Z" creationid="Inrepublica" creationdate="20200422T145932Z">
+        <seg>AIINSUFO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AIINSURT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145934Z" creationid="Inrepublica" creationdate="20200422T145934Z">
+        <seg>AIINSURT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>AIPRIVAT</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145809Z" creationid="Inrepublica" creationdate="20200422T145809Z">
         <seg>AIPRIVAT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AI_AC_PI</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145824Z" creationid="Inrepublica" creationdate="20200422T145824Z">
+        <seg>AI_AC_PI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AI_IPO</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145825Z" creationid="Inrepublica" creationdate="20200422T145825Z">
+        <seg>AI_IPO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>APART_SC</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145928Z" creationid="Inrepublica" creationdate="20200422T145928Z">
+        <seg>APART_SC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BANKDIFF</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150005Z" creationid="Inrepublica" creationdate="20200422T150005Z">
+        <seg>BANKDIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BANK_ON</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145955Z" creationid="Inrepublica" creationdate="20200422T145955Z">
+        <seg>BANK_ON</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BCAPREQ</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145957Z" creationid="Inrepublica" creationdate="20200422T145957Z">
+        <seg>BCAPREQ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BOND_CRE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145946Z" creationid="Inrepublica" creationdate="20200422T145946Z">
+        <seg>BOND_CRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BOND_LIM</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145947Z" creationid="Inrepublica" creationdate="20200422T145947Z">
+        <seg>BOND_LIM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BOND_ON</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145948Z" creationid="Inrepublica" creationdate="20200422T145948Z">
+        <seg>BOND_ON</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BOND_PCB</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145945Z" creationid="Inrepublica" creationdate="20200422T145945Z">
+        <seg>BOND_PCB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BOOMBUST</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150003Z" creationid="Inrepublica" creationdate="20200422T150003Z">
+        <seg>BOOMBUST</seg>
       </tuv>
     </tu>
     <tu>
@@ -22,10 +150,90 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CITCASH1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145943Z" creationid="Inrepublica" creationdate="20200422T145943Z">
+        <seg>CITCASH1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CITCASH2</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145944Z" creationid="Inrepublica" creationdate="20200422T145944Z">
+        <seg>CITCASH2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>COMME_SC</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145929Z" creationid="Inrepublica" creationdate="20200422T145929Z">
+        <seg>COMME_SC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145625Z" creationid="Inrepublica" creationdate="20200422T145625Z">
         <seg>Choisissez l'un des huit niveaux de difficulté prédéfinis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DEPOSCAP</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145938Z" creationid="Inrepublica" creationdate="20200422T145938Z">
+        <seg>DEPOSCAP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DEVCITY</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145941Z" creationid="Inrepublica" creationdate="20200422T145941Z">
+        <seg>DEVCITY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ECOM_SET</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145826Z" creationid="Inrepublica" creationdate="20200422T145826Z">
+        <seg>ECOM_SET</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ECOONDEF</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150002Z" creationid="Inrepublica" creationdate="20200422T150002Z">
+        <seg>ECOONDEF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>EXPRESS</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145939Z" creationid="Inrepublica" creationdate="20200422T145939Z">
+        <seg>EXPRESS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GC_INC</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145921Z" creationid="Inrepublica" creationdate="20200422T145921Z">
+        <seg>GC_INC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GC_RAND</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145920Z" creationid="Inrepublica" creationdate="20200422T145920Z">
+        <seg>GC_RAND</seg>
       </tuv>
     </tu>
     <tu>
@@ -214,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GM_RINV2</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145817Z" creationid="Inrepublica" creationdate="20200422T145817Z">
+        <seg>GM_RINV2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GM_RST</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145728Z" creationid="Inrepublica" creationdate="20200422T145728Z">
@@ -246,6 +462,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GM_TEC0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145930Z" creationid="Inrepublica" creationdate="20200422T145930Z">
+        <seg>GM_TEC0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GSTKINIT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150004Z" creationid="Inrepublica" creationdate="20200422T150004Z">
+        <seg>GSTKINIT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GSTOCKON</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150000Z" creationid="Inrepublica" creationdate="20200422T150000Z">
+        <seg>GSTOCKON</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GS_PLIST</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145811Z" creationid="Inrepublica" creationdate="20200422T145811Z">
@@ -262,10 +502,162 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>INSCLAIM</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145936Z" creationid="Inrepublica" creationdate="20200422T145936Z">
+        <seg>INSCLAIM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>INSUPREM</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145935Z" creationid="Inrepublica" creationdate="20200422T145935Z">
+        <seg>INSUPREM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>INSUR_ON</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145958Z" creationid="Inrepublica" creationdate="20200422T145958Z">
+        <seg>INSUR_ON</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>INT_SPRE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145956Z" creationid="Inrepublica" creationdate="20200422T145956Z">
+        <seg>INT_SPRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LANDPRIC</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145818Z" creationid="Inrepublica" creationdate="20200422T145818Z">
+        <seg>LANDPRIC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LOANINT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145831Z" creationid="Inrepublica" creationdate="20200422T145831Z">
+        <seg>LOANINT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MAXAIDIG</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145915Z" creationid="Inrepublica" creationdate="20200422T145915Z">
+        <seg>MAXAIDIG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MLOANDEP</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145940Z" creationid="Inrepublica" creationdate="20200422T145940Z">
+        <seg>MLOANDEP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MORETAL2</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145924Z" creationid="Inrepublica" creationdate="20200422T145924Z">
+        <seg>MORETAL2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MORE_TAL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145917Z" creationid="Inrepublica" creationdate="20200422T145917Z">
+        <seg>MORE_TAL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of Cities</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150048Z" creationid="Inrepublica" creationdate="20200422T150048Z">
+        <seg>Nombre de ville</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OSTECH</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145913Z" creationid="Inrepublica" creationdate="20200422T145913Z">
+        <seg>OSTECH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PORTRAIT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145919Z" creationid="Inrepublica" creationdate="20200422T145919Z">
+        <seg>PORTRAIT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PRICAGGR</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150001Z" creationid="Inrepublica" creationdate="20200422T150001Z">
+        <seg>PRICAGGR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Play with single or multiple cities.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150054Z" creationid="Inrepublica" creationdate="20200422T150054Z">
+        <seg>Jouez avec une ou plusieurs villes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Proceed ?|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145255Z" creationid="Inrepublica" creationdate="20200422T145255Z">
         <seg>Procéder ?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SAVERATE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145923Z" creationid="Inrepublica" creationdate="20200422T145923Z">
+        <seg>SAVERATE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SMONEYS</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150006Z" creationid="Inrepublica" creationdate="20200422T150006Z">
+        <seg>SMONEYS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SOFT_IDX</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145822Z" creationid="Inrepublica" creationdate="20200422T145822Z">
+        <seg>SOFT_IDX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SPADV</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145904Z" creationid="Inrepublica" creationdate="20200422T145827Z">
+        <seg>SPADV</seg>
       </tuv>
     </tu>
     <tu>
@@ -278,10 +670,42 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>TALENT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145916Z" creationid="Inrepublica" creationdate="20200422T145916Z">
+        <seg>TALENT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>VGADV</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145841Z" creationid="Inrepublica" creationdate="20200422T145841Z">
+        <seg>VGADV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>WEB_IDX</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145823Z" creationid="Inrepublica" creationdate="20200422T145823Z">
+        <seg>WEB_IDX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You may also Customize or Randomize the game settings</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145642Z" creationid="Inrepublica" creationdate="20200422T145633Z">
         <seg>Vous pouvez également personnaliser ou laisser le hasard définir les paramètres de jeu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your start-up capital</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150122Z" creationid="Inrepublica" creationdate="20200422T150122Z">
+        <seg>Votre capital de départ</seg>
       </tuv>
     </tu>
     <tu>
