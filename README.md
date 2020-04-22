@@ -15,8 +15,30 @@ Dans dossier Nouveau dossier du projet local choisissez un dossier sur votre PC:
 Une fois vos contributions effectuées, cliquez sur Enregistrer et ensuite indiquez votre nom d'utilisateur et votre mot de passe github:
 
 # Etat de la traduction
+1) Fichiers pouvant se mettre dans le dossier "translate"
 
 * t_basic.txt = 100%
 * t_game.txt = 0%
 * gm_help.txt = 100%
 * help.txt = 0%
+
+2) Fichiers qui doivent s'installer dans un dossier dédié
+
+2.1 Dossier "Tutorial"
+* tut01 : 95 %
+* tut02 : 0 %
+* tut03 : 0 %
+* tut04 : 0 %
+* tut05 : 0 %
+* tut06 : 0 %
+* tut07 : 0 %
+
+2.1.5 : Sous-dossier "script"
+* tutorial 1
+* tutorial 2 
+* tutorial 3
+* tutorial 4
+* tutorial 5 
+* tutorial 6
+* tutorial 7
+
