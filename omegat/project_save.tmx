@@ -14,6 +14,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[BOX1]Ok</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T112202Z" creationid="Inrepublica" creationdate="20200422T112202Z">
+        <seg>[BOX1]Ok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[BOX2]Cancel</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T112139Z" creationid="Inrepublica" creationdate="20200422T112139Z">
+        <seg>[BOX2]Annulez</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[LNGD]%2j{January|February|March|April|May|June|July|August|September|October|November|December} %1d, %3,4d</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T112247Z" creationid="Inrepublica" creationdate="20200422T112247Z">
+        <seg>[LNGD]%2j{Janvier|Février|Mars|Avril|Mai|Juin|Juillet|Août|Septembre|Octobre|Novembre|Décembre} %1d, %3,4d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[MON1]January</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T104321Z" creationid="Inrepublica" creationdate="20200422T104321Z">
@@ -26,6 +50,94 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T104332Z" creationid="Inrepublica" creationdate="20200422T104332Z">
         <seg>[MON2]Février</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MON3]March</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T112040Z" creationid="Inrepublica" creationdate="20200422T112040Z">
+        <seg>[MON3]Mars</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MON4]April</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T112044Z" creationid="Inrepublica" creationdate="20200422T112044Z">
+        <seg>[MON4]Avril</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MON5]May</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T112048Z" creationid="Inrepublica" creationdate="20200422T112048Z">
+        <seg>[MON5]Mai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MON6]June</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T112052Z" creationid="Inrepublica" creationdate="20200422T112052Z">
+        <seg>[MON6]Juin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MON7]July</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T112055Z" creationid="Inrepublica" creationdate="20200422T112055Z">
+        <seg>[MON7]Juillet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MON8]August</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T112114Z" creationid="Inrepublica" creationdate="20200422T112114Z">
+        <seg>[MON8]Août</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MON9]September</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T112117Z" creationid="Inrepublica" creationdate="20200422T112117Z">
+        <seg>[MON9]Septembre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MONA]October</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T112121Z" creationid="Inrepublica" creationdate="20200422T112121Z">
+        <seg>[MONA]Octrobre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MONB]November</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T112125Z" creationid="Inrepublica" creationdate="20200422T112125Z">
+        <seg>[MONB]Novembre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MONC]December</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T112128Z" creationid="Inrepublica" creationdate="20200422T112128Z">
+        <seg>[MONC]Décembre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[SHRD]%2j{Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec} %1d, %3,4d</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T112743Z" creationid="Inrepublica" creationdate="20200422T112743Z">
+        <seg>[SHRD]%2j{Jan|Fev|Mar|Avr|Mai|Jun|Jul|Aou|Sep|Oct|Nov|Dec} %1d, %3,4d</seg>
       </tuv>
     </tu>
     <tu>
