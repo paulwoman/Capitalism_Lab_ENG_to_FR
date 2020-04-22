@@ -462,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Commercial Capacity Modifier</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T172714Z" creationid="Inrepublica" creationdate="20200422T172714Z">
+        <seg>Modificateur de capacité des commerces</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Competence of local competitors</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T155819Z" creationid="Inrepublica" creationdate="20200422T155819Z">
@@ -1326,6 +1334,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Lowering it decreases the number of people each apartment houses.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T172636Z" creationid="Inrepublica" creationdate="20200422T172636Z">
+        <seg>En l'abaissant, on diminue le nombre de personnes dans chaque immeuble.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lowering it will decrease the amount of office space each commercial building provides.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T172748Z" creationid="Inrepublica" creationdate="20200422T172748Z">
+        <seg>En l'abaissant, on diminue l’espace commercial dans chaque immeuble.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MAXAIDIG</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145915Z" creationid="Inrepublica" creationdate="20200422T145915Z">
@@ -1858,6 +1882,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161652Z" creationid="Inrepublica" creationdate="20200422T161652Z">
         <seg>Cet indice détermine les dépenses pour des équipements publics, ce qui affecte la difficulté du jeu à jouer en tant que maire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This means that more apartments need to be built and the real estate business will be more profitable.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T172654Z" creationid="Inrepublica" creationdate="20200422T172654Z">
+        <seg>Cela signifie qu'il faut construire plus d'appartements et que l'activité immobilière sera plus rentable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This means that more commercial buildings need to be built and the real estate business will be more profitable.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T172821Z" creationid="Inrepublica" creationdate="20200422T172821Z">
+        <seg>Cela signifie qu'il faut construire plus d'espace commercial et que l'activité immobilière sera plus rentable.</seg>
       </tuv>
     </tu>
     <tu>
