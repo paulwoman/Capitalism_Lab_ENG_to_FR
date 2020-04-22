@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A conservative bank may set a lower Maximum Loans-to-Assets ratio on the bank HQ interface, provided that it does not exceed the one defined here.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T195630Z" creationid="Inrepublica" creationdate="20200422T195630Z">
+        <seg>Une banque conservatrice peut fixer un ratio maximum de prêts par rapport aux actifs plus faible sur l'interface du siège de la banque, à condition qu'il ne dépasse pas celui défini ici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A high number of consumer seaports increases the availability of consumer goods which companies may import and sell at retail.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160045Z" creationid="Inrepublica" creationdate="20200422T160045Z">
@@ -558,6 +566,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Developed City at the Beginning</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T195645Z" creationid="Inrepublica" creationdate="20200422T195645Z">
+        <seg>Ville développée au départ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Donations to Rival Political Parties</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T162346Z" creationid="Inrepublica" creationdate="20200422T162346Z">
@@ -594,6 +610,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145939Z" creationid="Inrepublica" creationdate="20200422T145939Z">
         <seg>EXPRESS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Express Mode</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T195501Z" creationid="Inrepublica" creationdate="20200422T195501Z">
+        <seg>Mode express</seg>
       </tuv>
     </tu>
     <tu>
@@ -1222,6 +1246,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In Survival mode, there is only one city in the beginning of the game.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T195710Z" creationid="Inrepublica" creationdate="20200422T195700Z">
+        <seg>En mode survie, il n'y a qu'une seule ville au début du jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Increase the variety of products in your store and make use of the available slots.^^Repeat what you did just now.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T170547Z" creationid="Olivier" creationdate="20200422T170547Z">
@@ -1434,6 +1466,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164815Z" creationid="Inrepublica" creationdate="20200422T164815Z">
         <seg>Nombre maximal d'entreprises de logiciels et d'Internet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Maximum Loans-to-Assets Ratio</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T195547Z" creationid="Inrepublica" creationdate="20200422T195547Z">
+        <seg>Ratio maximum de prêts / actifs</seg>
       </tuv>
     </tu>
     <tu>
@@ -1942,6 +1982,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There is a cap that limits the maximum amount of deposit each depositor can make.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T195449Z" creationid="Inrepublica" creationdate="20200422T195449Z">
+        <seg>Il existe un plafond qui limite le montant maximum de dépôt que chaque client peut effectuer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There will be AI corporations focused on real estate, media and technology if this is set to High or above.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T153959Z" creationid="Inrepublica" creationdate="20200422T153959Z">
@@ -1954,6 +2002,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T154126Z" creationid="Inrepublica" creationdate="20200422T154126Z">
         <seg>Détermine l'agressivité économique des sociétés rivales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This determines the Absolute Maximum amount of loans that a bank can lend out (including your bank and AI banks).</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T195608Z" creationid="Inrepublica" creationdate="20200422T195608Z">
+        <seg>Cela détermine le montant maximum absolu des prêts qu'une banque peut accorder (y compris votre banque et les banques IA).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2150,6 +2206,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When the Express mode is enabled, a new streamlined user interface will be used for retail stores, replacing the original 3x3 layout.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T195520Z" creationid="Inrepublica" creationdate="20200422T195520Z">
+        <seg>Lorsque le mode Express est activé, une nouvelle interface utilisateur simplifiée sera utilisée pour les magasins de détail, remplaçant la disposition originale 3x3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When you select this check box, the system will randomly disable a specific percentage of product classes in the new game.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161056Z" creationid="Inrepublica" creationdate="20200422T161056Z">
@@ -2202,6 +2266,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T172438Z" creationid="Inrepublica" creationdate="20200422T172438Z">
         <seg>Vous pouvez demander au jeu de dupliquer les talents pour augmenter l'offre de talents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may set it as a developed city or a new city created from scratch.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T195730Z" creationid="Inrepublica" creationdate="20200422T195730Z">
+        <seg>Vous pouvez la définir comme une ville développée ou une nouvelle ville créée à partir de zéro.</seg>
       </tuv>
     </tu>
     <tu>
