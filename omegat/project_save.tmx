@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Along its top border you see the ~City Select icon~ (represented by a down arrow), which is for showing a list of cities in the current game.^^The ~left and right arrow icons~ next to the city name allow you to cycle through the previous or next city.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T171612Z" creationid="Olivier" creationdate="20200422T171612Z">
+        <seg>Le long de sa bordure supérieure, vous voyez l'icône "Sélection de la ville" (représentée par une flèche vers le bas), qui sert à afficher une liste des villes du jeu en cours. Les icônes "flèches gauche et droite" à côté du nom de la ville vous permettent de passer en revue la ville précédente ou suivante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alternative Stock Sim</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T151230Z" creationid="Inrepublica" creationdate="20200422T151230Z">
@@ -322,6 +330,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164720Z" creationid="Inrepublica" creationdate="20200422T164720Z">
         <seg>Taux d'intérêt du prêt de base</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Besides clicking the ~Select~ button, you may simply ~double-click~ a product on the list to select it.^^When you are ready to move on, ~RIGHT clicking anywhere~ on the screen to exit your store and return to the city view.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T171315Z" creationid="Olivier" creationdate="20200422T170918Z">
+        <seg>En plus de cliquer sur le bouton "Select", vous pouvez simplement double-cliquer sur un produit de la liste pour le sélectionner. Lorsque vous êtes prêt à passer à autre chose, cliquez droit n'importe où sur l'écran pour quitter votre magasin et revenir à la vue de la ville.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1166,6 +1182,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Keep on adding more products to your store.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T170856Z" creationid="Olivier" creationdate="20200422T170856Z">
+        <seg>Continuez à ajouter de nouveaux produits dans votre magasin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LANDPRIC</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145818Z" creationid="Inrepublica" creationdate="20200422T145818Z">
@@ -1194,6 +1218,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160615Z" creationid="Inrepublica" creationdate="20200422T160615Z">
         <seg>Lance un navigateur Web et ouvre la page Web avec des instructions sur la façon de configurer un défi privé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let's click on the ~Mini Map~ icon now.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T171401Z" creationid="Olivier" creationdate="20200422T171401Z">
+        <seg>Cliquons maintenant sur l'icône "Mini Carte".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let's explore.^^See the toolbar at the bottom of the screen?</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T171059Z" creationid="Olivier" creationdate="20200422T171059Z">
+        <seg>Explorons. Vous voyez la barre d'outils au bas de l'écran ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1814,6 +1854,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We are now in the city view.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T171026Z" creationid="Olivier" creationdate="20200422T171026Z">
+        <seg>Nous sommes maintenant dans la vue de la ville.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When it is set to a higher value, the same public facility incurs larger operating expenses.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T162048Z" creationid="Inrepublica" creationdate="20200422T162048Z">
@@ -2405,11 +2453,71 @@ Chaque magasin de détail dispose de quatre emplacements pour les produits.</seg
     <tu>
       <tuv lang="en-US">
         <seg>[TEXT]
+Good.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T171007Z" creationid="Olivier" creationdate="20200422T171007Z">
+        <seg>[TEXT]
+Bien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
+It shows the amount of cash your corporation currently has and its operating profit in the past 12 months.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T171138Z" creationid="Olivier" creationdate="20200422T171138Z">
+        <seg>[TEXT]
+Elle indique le montant des liquidités dont dispose actuellement votre société et son bénéfice d'exploitation au cours des 12 derniers mois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
+The animated rectangle frame on the mini map represents the area displayed in the city view.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T171641Z" creationid="Olivier" creationdate="20200422T171641Z">
+        <seg>[TEXT]
+Le rectangle animé sur la mini-carte représente la zone affichée dans la vue de la ville..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
+The mini map shows the entire city.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T171459Z" creationid="Olivier" creationdate="20200422T171459Z">
+        <seg>[TEXT]
+La mini carte montre la ville entière.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
 The window updates to show all products available from the local seaports.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T165923Z" creationid="Olivier" creationdate="20200422T165923Z">
         <seg>[TEXT]
 La fenêtre se met à jour pour montrer tous les produits disponibles dans les ports maritimes locaux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
+There are several icons around the mini map for switching to different map modes.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T171702Z" creationid="Olivier" creationdate="20200422T171702Z">
+        <seg>[TEXT]
+Il y a plusieurs icônes autour de la mini-carte pour passer à différents modes de carte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
+There is a row of icons on the toolbar.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T171333Z" creationid="Olivier" creationdate="20200422T171333Z">
+        <seg>[TEXT]
+Il y a une rangée d'icônes sur la barre d'outils.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2425,11 +2533,31 @@ Il s'agit de la fenêtre "Sélectionner un fournisseur".</seg>
     <tu>
       <tuv lang="en-US">
         <seg>[TEXT]
+Well done!</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T170819Z" creationid="Olivier" creationdate="20200422T170819Z">
+        <seg>[TEXT]
+Très bien !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
 You are now back in your department store.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T170114Z" creationid="Olivier" creationdate="20200422T170114Z">
         <seg>[TEXT]
 Vous êtes maintenant de retour dans votre grand magasin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
+You can see the current game date here.^^Note that the game runs in real time.You may change the game speed using the shortcut keys ~'1' (slowest) to '5' (fastest)~.^^You may also pause the game by pressing the ~key '0'~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T171205Z" creationid="Olivier" creationdate="20200422T171205Z">
+        <seg>[TEXT]
+Vous pouvez modifier la vitesse du jeu en utilisant les touches de raccourci ~'1' (le plus lent) à '5' (le plus rapide)~.^^Vous pouvez également mettre le jeu en pause en appuyant sur la touche ~'0'~.</seg>
       </tuv>
     </tu>
     <tu>
