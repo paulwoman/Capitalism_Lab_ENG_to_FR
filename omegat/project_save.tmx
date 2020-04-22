@@ -470,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>But for now keep it active.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T211017Z" creationid="Olivier" creationdate="20200422T211017Z">
+        <seg>Mais pour l'instant, maintenez-le actif.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CHALCONF</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160054Z" creationid="Inrepublica" creationdate="20200422T160054Z">
@@ -2614,6 +2622,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Well now it is your chance to find that out.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T211054Z" creationid="Olivier" creationdate="20200422T211054Z">
+        <seg>Et bien maintenant, c'est votre chance de le découvrir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When Product Customization is enabled, Technology Disruption will be automatically turned off.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T173042Z" creationid="Inrepublica" creationdate="20200422T173042Z">
@@ -2690,6 +2706,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T195947Z" creationid="Inrepublica" creationdate="20200422T195947Z">
         <seg>Grâce à une norme d'évaluation de crédit souple, toutes les entreprises bénéficieront de meilleures notations de crédit et de frais d'intérêts obligataires moins élevés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can cancel this mode by clicking the ~My Firms~ button again.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T211005Z" creationid="Olivier" creationdate="20200422T211005Z">
+        <seg>Vous pouvez annuler ce mode en cliquant à nouveau sur le bouton "Mes entreprises".</seg>
       </tuv>
     </tu>
     <tu>
@@ -3455,11 +3479,41 @@
     <tu>
       <tuv lang="en-US">
         <seg>[TEXT]
+As your corporation currently only has one firm - your department store, only one dot in your corporate color is shown.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T210945Z" creationid="Olivier" creationdate="20200422T210945Z">
+        <seg>[TEXT]
+Comme votre société n'a actuellement qu'une seule entreprise - votre grand magasin, seul un point à la couleur de votre entreprise est affiché.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
 Cick the ~Add Product icon~ now.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T165606Z" creationid="Olivier" creationdate="20200422T165606Z">
         <seg>[TEXT]
 Cliquer sur l'icône "Ajouter un produit" maintenant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
+Click the ~My Firms~ button and the mini map display changes to show only ambient buildings and the firms you own.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T210920Z" creationid="Olivier" creationdate="20200422T210920Z">
+        <seg>[TEXT]
+Cliquez sur le bouton "Mes entreprises" et l'affichage de la mini-carte change pour ne montrer que les bâtiments environnants et les entreprises que vous possédez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
+Did you wonder which seaports are supplying products to your department store?</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T211043Z" creationid="Olivier" creationdate="20200422T211043Z">
+        <seg>[TEXT]
+Vous êtes-vous demandé quels ports maritimes fournissent des produits à votre grand magasin ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3530,6 +3584,16 @@ Now click the ~Profit~ icon to change to that mode.</seg>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T210239Z" creationid="Olivier" creationdate="20200422T210239Z">
         <seg>[TEXT]
 Cliquez maintenant sur l'icône "Profit" pour passer à ce mode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
+Now the display is updated to show from which seaports your department store is receiving the products that you are selling.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T211230Z" creationid="Olivier" creationdate="20200422T211230Z">
+        <seg>[TEXT]
+L'affichage est maintenant mis à jour pour indiquer les ports maritimes à partir desquels votre grand magasin reçoit les produits que vous vendez.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3640,6 +3704,16 @@ Well done!</seg>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T170819Z" creationid="Olivier" creationdate="20200422T170819Z">
         <seg>[TEXT]
 Très bien !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
+With the display still only showing your department store (as a colored square), click the ~Business Relationship~ mode icon.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T211120Z" creationid="Olivier" creationdate="20200422T211120Z">
+        <seg>[TEXT]
+L'écran n'affichant toujours que votre grand magasin (sous la forme d'un carré coloré), cliquez sur l'icône du mode "Relations d'affaires".</seg>
       </tuv>
     </tu>
     <tu>
