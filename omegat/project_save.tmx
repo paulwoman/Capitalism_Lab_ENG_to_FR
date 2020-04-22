@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -194,6 +194,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T151230Z" creationid="Inrepublica" creationdate="20200422T151230Z">
         <seg>Marché boursier alternatif </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Alternatively, you may press the ~Enter~ key to continue whenever the Next icon is flashing.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T165408Z" creationid="Olivier" creationdate="20200422T165408Z">
+        <seg>Vous pouvez également appuyer sur la touche ~Enter~ pour continuer lorsque l'icône Suivant clignote.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1182,6 +1190,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now it is your chance to prove your ability!^^Click the flashing Next icon to continue.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T165343Z" creationid="Olivier" creationdate="20200422T165343Z">
+        <seg>C'est maintenant votre chance de prouver votre capacité ! Cliquez sur l'icône clignotante Suivant pour continuer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now left click it to view its detail.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T165515Z" creationid="Olivier" creationdate="20200422T165515Z">
+        <seg>Cliquez maintenant sur le bouton gauche de la souris pour en voir le détail.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number of AI Competitors</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T153222Z" creationid="Inrepublica" creationdate="20200422T153222Z">
@@ -2154,6 +2178,16 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T112743Z" creationid="Inrepublica" creationdate="20200422T112743Z">
         <seg>[SHRD]%2j{Jan|Fev|Mar|Avr|Mai|Jun|Jul|Aou|Sep|Oct|Nov|Dec} %1d, %3,4d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
+You have been assigned to run this department store.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T165458Z" creationid="Olivier" creationdate="20200422T165458Z">
+        <seg>[TEXT]
+Vous avez reçu pour mission de gérer ce grand magasin.</seg>
       </tuv>
     </tu>
     <tu>
