@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0118]The host refuses you|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T144744Z" creationid="Inrepublica" creationdate="20200422T144744Z">
+        <seg>[0118]L'hôte vous refuse|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0119]&lt;RFU1&gt;Cannot join a new game session|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T144006Z" creationid="Inrepublica" creationdate="20200422T144006Z">
@@ -198,10 +206,58 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0119]Cannot join a new game session|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T144754Z" creationid="Inrepublica" creationdate="20200422T144754Z">
+        <seg>[0119]Ne peut rejoindre une nouvelle session|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0120]Cannot join a load game session|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T144826Z" creationid="Inrepublica" creationdate="20200422T144826Z">
+        <seg>[0120]Ne peut rejoindre une session de partie sauvegardée|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0121]You cannot join the game because the save game is different from the host|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T144900Z" creationid="Inrepublica" creationdate="20200422T144900Z">
+        <seg>[0121]Vous ne pouvez rejoindre une partie car la sauvegarde est différente|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0122]You cannot join the game because the host does not accept your game version|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T144957Z" creationid="Inrepublica" creationdate="20200422T144957Z">
+        <seg>[0122]Vous ne pouvez rejoindre car vous utilisez une version différente|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0123]You cannot join the game because the session is full|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T144933Z" creationid="Inrepublica" creationdate="20200422T144933Z">
+        <seg>[0123]Vous ne pouvez rejoindre car la partie est pleine|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0148]&lt;SV_G&gt;Save Game|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T144646Z" creationid="Inrepublica" creationdate="20200422T144646Z">
         <seg>[0148]&lt;SV_G&gt;Sauvegarder|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0149]&lt;0SAV&gt;You haven't saved any games yet.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145112Z" creationid="Inrepublica" creationdate="20200422T145017Z">
+        <seg>[0149]&lt;0SAV&gt;Vous n'avez pas encore sauvegardé.|</seg>
       </tuv>
     </tu>
     <tu>
