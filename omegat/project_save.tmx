@@ -6,10 +6,42 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>AIPRIVAT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145809Z" creationid="Inrepublica" creationdate="20200422T145809Z">
+        <seg>AIPRIVAT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CHALHOW</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145803Z" creationid="Inrepublica" creationdate="20200422T145803Z">
+        <seg>CHALHOW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145625Z" creationid="Inrepublica" creationdate="20200422T145625Z">
         <seg>Choisissez l'un des huit niveaux de difficulté prédéfinis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GENDER_F</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145806Z" creationid="Inrepublica" creationdate="20200422T145806Z">
+        <seg>GENDER_F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GENDER_M</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145805Z" creationid="Inrepublica" creationdate="20200422T145805Z">
+        <seg>GENDER_M</seg>
       </tuv>
     </tu>
     <tu>
@@ -158,6 +190,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GM_RDI1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145807Z" creationid="Inrepublica" creationdate="20200422T145807Z">
+        <seg>GM_RDI1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_RDI2</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145808Z" creationid="Inrepublica" creationdate="20200422T145808Z">
+        <seg>GM_RDI2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GM_RE</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145711Z" creationid="Inrepublica" creationdate="20200422T145711Z">
@@ -198,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GS_PLIST</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145811Z" creationid="Inrepublica" creationdate="20200422T145811Z">
+        <seg>GS_PLIST</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Game difficulty level</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145553Z" creationid="Inrepublica" creationdate="20200422T145553Z">
@@ -210,6 +266,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145255Z" creationid="Inrepublica" creationdate="20200422T145255Z">
         <seg>Procéder ?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SUBCOUNT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145810Z" creationid="Inrepublica" creationdate="20200422T145810Z">
+        <seg>SUBCOUNT</seg>
       </tuv>
     </tu>
     <tu>
