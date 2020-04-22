@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Choose 'Multiple' to allow for setting up multiple floors in a single retail store.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T162126Z" creationid="Inrepublica" creationdate="20200422T162126Z">
+        <seg>Choisissez "Multiple" pour permettre la configuration de plusieurs étages dans un même magasin de détail. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145625Z" creationid="Inrepublica" creationdate="20200422T145625Z">
@@ -330,6 +338,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145941Z" creationid="Inrepublica" creationdate="20200422T145941Z">
         <seg>DEVCITY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Donations to Rival Political Parties</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T162346Z" creationid="Inrepublica" creationdate="20200422T162346Z">
+        <seg>Dons aux partis politiques rivaux </seg>
       </tuv>
     </tu>
     <tu>
@@ -1090,6 +1106,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161033Z" creationid="Inrepublica" creationdate="20200422T161033Z">
         <seg>Désactivation aléatoire des classes de produits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Retail Store Floors</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T162114Z" creationid="Inrepublica" creationdate="20200422T162114Z">
+        <seg>Etages des magasins</seg>
       </tuv>
     </tu>
     <tu>
