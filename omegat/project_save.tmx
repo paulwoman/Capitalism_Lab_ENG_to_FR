@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>AI companies are randomly set up as private companies based on this preference.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161155Z" creationid="Inrepublica" creationdate="20200422T161155Z">
+        <seg>Les sociétés IA sont créées de manière aléatoire en tant que sociétés privées avec cette préférence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>AIBANKAG</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145922Z" creationid="Inrepublica" creationdate="20200422T145922Z">
@@ -982,6 +990,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Percentage of competitors that are private companies (Subsidiary DLC)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161151Z" creationid="Inrepublica" creationdate="20200422T161151Z">
+        <seg>Pourcentage de concurrents qui sont des entreprises privées (Subsidiary DLC)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Percentage of product classes to be disabled</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161105Z" creationid="Inrepublica" creationdate="20200422T161105Z">
+        <seg>Pourcentage des classes de produits à désactiver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Play with single or multiple cities.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150054Z" creationid="Inrepublica" creationdate="20200422T150054Z">
@@ -1026,6 +1050,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T151348Z" creationid="Inrepublica" creationdate="20200422T151348Z">
         <seg>Evénements aléatoires</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Randomly disable product classes</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161033Z" creationid="Inrepublica" creationdate="20200422T161033Z">
+        <seg>Désactivation aléatoire des classes de produits</seg>
       </tuv>
     </tu>
     <tu>
@@ -1094,6 +1126,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Set the percentage of product classes to be disabled.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161119Z" creationid="Inrepublica" creationdate="20200422T161119Z">
+        <seg>Définissez le pourcentage de classes de produits à désactiver.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Show competitors' trade secrets</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T155125Z" creationid="Inrepublica" creationdate="20200422T155125Z">
@@ -1122,6 +1162,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T151908Z" creationid="Inrepublica" creationdate="20200422T151908Z">
         <seg>Technologie disruptive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The number of subsidiaries that your company owns at the beginning of the game.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161233Z" creationid="Inrepublica" creationdate="20200422T161233Z">
+        <seg>Le nombre de filiales que votre entreprise possède au début du jeu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1174,6 +1222,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This will make the competition more intense and improve gameplay, especially when playing a MOD game with a large variety of products.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161135Z" creationid="Inrepublica" creationdate="20200422T161135Z">
+        <seg>Cela rendra la compétition plus intense et améliorera le gameplay, en particulier lorsque vous jouez avec un MOD d'une grande variété de produits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>VGADV</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145841Z" creationid="Inrepublica" creationdate="20200422T145841Z">
@@ -1186,6 +1242,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145823Z" creationid="Inrepublica" creationdate="20200422T145823Z">
         <seg>WEB_IDX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you select this check box, the system will randomly disable a specific percentage of product classes in the new game.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161056Z" creationid="Inrepublica" creationdate="20200422T161056Z">
+        <seg>Lorsque vous cochez cette case, le système désactive aléatoirement un pourcentage spécifique de classes de produits dans le nouveau jeu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1226,6 +1290,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150122Z" creationid="Inrepublica" creationdate="20200422T150122Z">
         <seg>Votre capital de départ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your subsidiaries (Subsidiary DLC)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161218Z" creationid="Inrepublica" creationdate="20200422T161218Z">
+        <seg>Vos filiales (Subsidiary DLC)</seg>
       </tuv>
     </tu>
     <tu>
