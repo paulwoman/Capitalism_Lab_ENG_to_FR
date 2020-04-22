@@ -18,5 +18,5 @@ Une fois vos contributions effectuées, cliquez sur Enregistrer et ensuite indiq
 
 * t_basic.txt = 100%
 * t_game.txt = 0%
-* gm_help.txt = 0%
+* gm_help.txt = 100%
 * help.txt = 0%
