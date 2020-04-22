@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>AI Friendly Merger</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T152420Z" creationid="Inrepublica" creationdate="20200422T152420Z">
+        <seg>Fusion amicale d'IA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>AIBANKAG</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145922Z" creationid="Inrepublica" creationdate="20200422T145922Z">
@@ -558,10 +566,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If it is set to High, the macro economy in the game will be simulated with a high level of realism.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T152449Z" creationid="Inrepublica" creationdate="20200422T152449Z">
+        <seg>Si elle est au plus élevé, la macro économie dans le jeu sera simulé avec un haut niveau de réalisme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If it is set to Inverse Inflation, monetary amounts are adjusted based on their net purchasing power.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T152515Z" creationid="Inrepublica" creationdate="20200422T152515Z">
+        <seg>Si elle est définie à inflation inverse, les montants sont ajustés en fonction du pouvoir d'achat net.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If it is set to On, technology disruption occurs constantly and all technology variables decrease by 10% every year.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T151944Z" creationid="Inrepublica" creationdate="20200422T151944Z">
         <seg>Si elle est activée, la disruption de technologie se produit en permanence et toutes les technos diminuent de 10% chaque année.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If it is set to On, two AI corporations may merge with each other on mutually beneficial terms.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T152426Z" creationid="Inrepublica" creationdate="20200422T152426Z">
+        <seg>Si elle est activée, deux sociétés d'IA peuvent fusionner pour des conditions mutuellement avantageuses.</seg>
       </tuv>
     </tu>
     <tu>
@@ -586,6 +618,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T151322Z" creationid="Inrepublica" creationdate="20200422T151322Z">
         <seg>Si ce paramètre est réglé sur Oui, 1) le cours des actions n'est pas affectés par la situation économique actuelle, et 2) la négociation d'actions entre la société du joueur et ses filiales est interdite, ceci rend plus difficile la spéculation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inflation is enabled when this option is set to On.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T152510Z" creationid="Inrepublica" creationdate="20200422T152510Z">
+        <seg>L'inflation est activée lorsque cette option est activée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -642,6 +682,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145917Z" creationid="Inrepublica" creationdate="20200422T145917Z">
         <seg>MORE_TAL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Macro Economy Realism</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T152439Z" creationid="Inrepublica" creationdate="20200422T152439Z">
+        <seg>Macro économie réaliste</seg>
       </tuv>
     </tu>
     <tu>
