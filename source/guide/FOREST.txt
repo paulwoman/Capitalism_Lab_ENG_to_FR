@@ -1,0 +1,7 @@
+[Logging Unit]
+~Raw Material Name~
+The raw material which the unit is currently producing.^
+~Raw Material Stock~
+This area shows the stock of the raw material in the unit. Each box represents one cargo of the raw material. Each cargo can store a certain quantity of the raw material.^
+~Utilization~
+This brown bar shows the utilization of the unit. If this bar reaches its full length, the unit has reached its full capacity. 
