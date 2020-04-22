@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3499,6 +3499,16 @@ Cliquez maintenant sur l'icône "Valeur du terrain" pour passer à ce mode.</seg
     <tu>
       <tuv lang="en-US">
         <seg>[TEXT]
+Now click the ~Profit~ icon to change to that mode.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T210239Z" creationid="Olivier" creationdate="20200422T210239Z">
+        <seg>[TEXT]
+Cliquez maintenant sur l'icône "Profit" pour passer à ce mode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
 The animated rectangle frame on the mini map represents the area displayed in the city view.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T171641Z" creationid="Olivier" creationdate="20200422T171641Z">
@@ -3514,6 +3524,16 @@ The first icon, the one that looks like a building, toggles the ~Ownership~ mode
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T171736Z" creationid="Olivier" creationdate="20200422T171736Z">
         <seg>[TEXT]
 La première icône, celle qui ressemble à un bâtiment, fait basculer le mode "propriété".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
+The mini map display changes to show Land Value data.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T210137Z" creationid="Olivier" creationdate="20200422T210137Z">
+        <seg>[TEXT]
+L'affichage de la mini-carte change pour montrer les données sur la valeur des terres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3638,6 +3658,14 @@ Vous avez obtenu un MBA d'une école de commerce renommée.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T173813Z" creationid="Inrepublica" creationdate="20200422T173754Z">
         <seg>~Livestock Name~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~The darker the color, the more valuable the land.~ Building in light areas may be expensive but it may provide your stores with a richer clientele willing to pay higher prices.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T210212Z" creationid="Olivier" creationdate="20200422T210212Z">
+        <seg>Plus la couleur est foncée, plus le terrain a de la valeur. Construire dans des zones claires peut être coûteux mais cela peut fournir à vos magasins une clientèle plus riche prête à payer des prix plus élevés.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
