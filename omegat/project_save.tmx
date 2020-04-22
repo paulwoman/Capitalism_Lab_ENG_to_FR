@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A high number of consumer seaports increases the availability of consumer goods which companies may import and sell at retail.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160045Z" creationid="Inrepublica" creationdate="20200422T160045Z">
+        <seg>Un grand nombre de port améliore la disponibilité des produits de consommation a vendre dans vos magasins (Réduit le besoin de fabriquer des produits).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>AI Expansion Aggressiveness</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T154111Z" creationid="Inrepublica" creationdate="20200422T154111Z">
@@ -246,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Competence of local competitors</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T155819Z" creationid="Inrepublica" creationdate="20200422T155819Z">
+        <seg>Compétence de la concurence locale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Competitors' Start-up Capital</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T153650Z" creationid="Inrepublica" creationdate="20200422T153650Z">
@@ -458,6 +474,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145744Z" creationid="Inrepublica" creationdate="20200422T145744Z">
         <seg>GM_NOCO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_NOSC</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T155911Z" creationid="Inrepublica" creationdate="20200422T155911Z">
+        <seg>GM_NOSC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_NOSI</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160046Z" creationid="Inrepublica" creationdate="20200422T160046Z">
+        <seg>GM_NOSI</seg>
       </tuv>
     </tu>
     <tu>
@@ -710,6 +742,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It determines the competence of local competitors - their general capabilities to sell high quality products at competitive prices.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T155909Z" creationid="Inrepublica" creationdate="20200422T155909Z">
+        <seg>Détermine le niveau de la concurence locale - leurs capacités générales à vendre des produits de haute qualité à des prix compétitifs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LANDPRIC</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145818Z" creationid="Inrepublica" creationdate="20200422T145818Z">
@@ -786,6 +826,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150048Z" creationid="Inrepublica" creationdate="20200422T150048Z">
         <seg>Nombre de ville</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of seaports Importing Consumer Goods per City</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T155954Z" creationid="Inrepublica" creationdate="20200422T155954Z">
+        <seg>Nombre de port important des produits de consomation par ville</seg>
       </tuv>
     </tu>
     <tu>
