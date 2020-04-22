@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0030]&lt;PREC&gt;Error creating profile|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T143802Z" creationid="Inrepublica" creationdate="20200422T143802Z">
+        <seg>[0030]&lt;PREC&gt;Erreur pendant la création du profile|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0038]&lt;NAH_&gt;Human|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T143621Z" creationid="Inrepublica" creationdate="20200422T143621Z">
@@ -162,6 +170,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T143657Z" creationid="Inrepublica" creationdate="20200422T143657Z">
         <seg>[0092]&lt;RNDE&gt;Evènement Aléatoire|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0118]&lt;RFU0&gt;The host refuses you|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T143845Z" creationid="Inrepublica" creationdate="20200422T143845Z">
+        <seg>[0118]&lt;RFU0&gt;L'hôte vous refuse|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0119]&lt;RFU1&gt;Cannot join a new game session|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T144006Z" creationid="Inrepublica" creationdate="20200422T144006Z">
+        <seg>[0119]&lt;RFU1&gt;Ne peut rejoindre une nouvelle session de jeu|</seg>
       </tuv>
     </tu>
     <tu>
