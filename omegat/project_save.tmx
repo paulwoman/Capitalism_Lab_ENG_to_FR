@@ -1390,6 +1390,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On the mini map, the white areas represent the city's buildings that are not owned by corporations, like houses and parks.^^Colored areas represent corporation owned buildings and are shown in the corporate color.^^~Seaports~ are represented by the letter 'C' or 'I' - ~'C' for Consumer products~ (like televisions or jeans) and ~'I' for industrial products~ (like coal or steel).</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T171855Z" creationid="Olivier" creationdate="20200422T171855Z">
+        <seg>Sur la mini carte, les zones blanches représentent les bâtiments de la ville qui n'appartiennent pas à des sociétés, comme les maisons et les parcs. Les zones colorées représentent les bâtiments appartenant à des sociétés et sont représentées par la couleur de la société. Les ports maritimes sont représentés par la lettre "C" ou "I" -  "C" pour les produits de consommation -  (comme les téléviseurs ou les jeans) et ~ "I" pour les produits industriels~ (comme le charbon ou l'acier).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>PORTRAIT</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145919Z" creationid="Inrepublica" creationdate="20200422T145919Z">
@@ -2473,11 +2481,31 @@ Elle indique le montant des liquidités dont dispose actuellement votre sociét�
     <tu>
       <tuv lang="en-US">
         <seg>[TEXT]
+Now click the ~Land Value~ icon to change to that mode.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T171940Z" creationid="Olivier" creationdate="20200422T171940Z">
+        <seg>[TEXT]
+Cliquez maintenant sur l'icône "Valeur du terrain" pour passer à ce mode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
 The animated rectangle frame on the mini map represents the area displayed in the city view.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T171641Z" creationid="Olivier" creationdate="20200422T171641Z">
         <seg>[TEXT]
 Le rectangle animé sur la mini-carte représente la zone affichée dans la vue de la ville..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
+The first icon, the one that looks like a building, toggles the ~Ownership~ mode.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T171736Z" creationid="Olivier" creationdate="20200422T171736Z">
+        <seg>[TEXT]
+La première icône, celle qui ressemble à un bâtiment, fait basculer le mode "propriété".</seg>
       </tuv>
     </tu>
     <tu>
