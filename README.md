@@ -14,3 +14,9 @@ Dans dossier Nouveau dossier du projet local choisissez un dossier sur votre PC:
 
 Une fois vos contributions effectuées, cliquez sur Enregistrer et ensuite indiquez votre nom d'utilisateur et votre mot de passe github:
 
+# Etat de la traduction
+
+* t_basic.txt = 100%
+* t_game.txt = 0%
+* gm_help.txt = 0%
+* help.txt = 0%
