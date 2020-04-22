@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A high number of industrial seaports increases the availability of manufacturing materials.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160218Z" creationid="Inrepublica" creationdate="20200422T160218Z">
+        <seg>Un grand nombre de port améliore la disponibilité des produits industriels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>AI Expansion Aggressiveness</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T154111Z" creationid="Inrepublica" creationdate="20200422T154111Z">
@@ -206,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CHALCONF</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160054Z" creationid="Inrepublica" creationdate="20200422T160054Z">
+        <seg>CHALCONF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CHALHOW</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145803Z" creationid="Inrepublica" creationdate="20200422T145803Z">
@@ -254,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Choose to allow the creation of new import sources.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160305Z" creationid="Inrepublica" creationdate="20200422T160305Z">
+        <seg>Autorise la création de nouveaux ports.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Competence of local competitors</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T155819Z" creationid="Inrepublica" creationdate="20200422T155819Z">
@@ -266,6 +290,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T153650Z" creationid="Inrepublica" creationdate="20200422T153650Z">
         <seg>Capital de démarrage des concurrents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Constant import supply</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160407Z" creationid="Inrepublica" creationdate="20200422T160407Z">
+        <seg>Importation de marchandise constante</seg>
       </tuv>
     </tu>
     <tu>
@@ -306,6 +338,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145939Z" creationid="Inrepublica" creationdate="20200422T145939Z">
         <seg>EXPRESS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Female</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160110Z" creationid="Inrepublica" creationdate="20200422T160110Z">
+        <seg>Femelle</seg>
       </tuv>
     </tu>
     <tu>
@@ -538,6 +578,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145728Z" creationid="Inrepublica" creationdate="20200422T145728Z">
         <seg>GM_RST</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GM_SIQ</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160052Z" creationid="Inrepublica" creationdate="20200422T160052Z">
+        <seg>GM_SIQ</seg>
       </tuv>
     </tu>
     <tu>
@@ -814,6 +862,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Male</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160106Z" creationid="Inrepublica" creationdate="20200422T160106Z">
+        <seg>Mâle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New seaports Emerge during the game</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160243Z" creationid="Inrepublica" creationdate="20200422T160239Z">
+        <seg>Nouveau Port pendant le jeu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number of AI Competitors</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T153222Z" creationid="Inrepublica" creationdate="20200422T153222Z">
@@ -834,6 +898,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T155954Z" creationid="Inrepublica" creationdate="20200422T155954Z">
         <seg>Nombre de port important des produits de consomation par ville</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of seaports Importing Industrial Goods per City</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160143Z" creationid="Inrepublica" creationdate="20200422T160143Z">
+        <seg>Nombre de port important des produits industriels par ville</seg>
       </tuv>
     </tu>
     <tu>
