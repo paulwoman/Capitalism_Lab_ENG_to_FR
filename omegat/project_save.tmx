@@ -558,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If it is set to On, technology disruption occurs constantly and all technology variables decrease by 10% every year.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T151944Z" creationid="Inrepublica" creationdate="20200422T151944Z">
+        <seg>Si elle est activée, la disruption de technologie se produit en permanence et toutes les technos diminuent de 10% chaque année.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If this is set to On, you will find the Product Customization tool in the Manufacturer's Guide.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150855Z" creationid="Inrepublica" creationdate="20200422T150855Z">
@@ -778,6 +786,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145916Z" creationid="Inrepublica" creationdate="20200422T145916Z">
         <seg>TALENT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Technology Disruption</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T151908Z" creationid="Inrepublica" creationdate="20200422T151908Z">
+        <seg>Technologie disruptive</seg>
       </tuv>
     </tu>
     <tu>
