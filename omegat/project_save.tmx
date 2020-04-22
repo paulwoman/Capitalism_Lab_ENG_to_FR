@@ -40,8 +40,8 @@
       <tuv lang="en-US">
         <seg>[0017]&lt;CANC&gt;Cancel|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T125119Z" creationid="Inrepublica" creationdate="20200422T125119Z">
-        <seg>[0017]&lt;CANC&gt;Annulez|</seg>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T125200Z" creationid="Inrepublica" creationdate="20200422T125119Z">
+        <seg>[0017]&lt;CANC&gt;Annuler|r</seg>
       </tuv>
     </tu>
     <tu>
@@ -56,8 +56,24 @@
       <tuv lang="en-US">
         <seg>[0020]&lt;DELP&gt;Delete|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T125137Z" creationid="Inrepublica" creationdate="20200422T125137Z">
-        <seg>[0020]&lt;DELP&gt;Supprimer|</seg>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T125141Z" creationid="Inrepublica" creationdate="20200422T125137Z">
+        <seg>[0020]&lt;DELP&gt;Supprimez|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0021]&lt;SELP&gt;Continue|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T125209Z" creationid="Inrepublica" creationdate="20200422T125209Z">
+        <seg>[0021]&lt;SELP&gt;Continuer|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0022]Please select your name from this list|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T125241Z" creationid="Inrepublica" creationdate="20200422T125241Z">
+        <seg>[0022]Svp sélectionner votre nom dans la liste|</seg>
       </tuv>
     </tu>
     <tu>
