@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>//-------------------------------------------------------------------//</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202559Z" creationid="Inrepublica" creationdate="20200422T202559Z">
+        <seg>//-------------------------------------------------------------------//</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>100 is the standard value.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T172604Z" creationid="Inrepublica" creationdate="20200422T172604Z">
@@ -390,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Build Firm=Department Store, My Department Store</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202609Z" creationid="Inrepublica" creationdate="20200422T202609Z">
+        <seg>Build Firm=Department Store, My Department Store</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CHALCONF</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160054Z" creationid="Inrepublica" creationdate="20200422T160054Z">
@@ -434,6 +450,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T165147Z" creationid="Olivier" creationdate="20200422T165147Z">
         <seg>Pouvez-vous appliquer ce que vous avez appris à la gestion d'une entreprise dans le monde réel ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Center on firm=My Department Store</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202611Z" creationid="Inrepublica" creationdate="20200422T202611Z">
+        <seg>Center on firm=My Department Store</seg>
       </tuv>
     </tu>
     <tu>
@@ -638,6 +662,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Extend Text Box=32,420,300,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202618Z" creationid="Inrepublica" creationdate="20200422T202618Z">
+        <seg>Extend Text Box=32,420,300,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Female</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160110Z" creationid="Inrepublica" creationdate="20200422T160110Z">
@@ -650,6 +682,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161614Z" creationid="Inrepublica" creationdate="20200422T161614Z">
         <seg>Niveau de cash de la première ville (City Economic Simulation DLC)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Flex Text Box=300,280,400,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202607Z" creationid="Inrepublica" creationdate="20200422T202607Z">
+        <seg>Flex Text Box=300,280,400,0</seg>
       </tuv>
     </tu>
     <tu>
@@ -1034,6 +1074,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T170734Z" creationid="Inrepublica" creationdate="20200422T170734Z">
         <seg>Augmentation de la compétitivité mondiale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hide=Minimap and Filter</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202557Z" creationid="Inrepublica" creationdate="20200422T202557Z">
+        <seg>Hide=Minimap and Filter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hide=Preview</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202602Z" creationid="Inrepublica" creationdate="20200422T202602Z">
+        <seg>Hide=Preview</seg>
       </tuv>
     </tu>
     <tu>
@@ -1518,10 +1574,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>NIL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202550Z" creationid="Inrepublica" creationdate="20200422T202550Z">
+        <seg>NIL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>New seaports Emerge during the game</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160243Z" creationid="Inrepublica" creationdate="20200422T160239Z">
         <seg>Nouveau Port pendant le jeu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Next Arrow=Yes</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202608Z" creationid="Inrepublica" creationdate="20200422T202608Z">
+        <seg>Next Arrow=Yes</seg>
       </tuv>
     </tu>
     <tu>
@@ -1682,6 +1754,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164749Z" creationid="Inrepublica" creationdate="20200422T164749Z">
         <seg>Le joueur commence avec les technologies du système d'exploitation (OS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Point at Firm=My Department Store</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202620Z" creationid="Inrepublica" creationdate="20200422T202620Z">
+        <seg>Point at Firm=My Department Store</seg>
       </tuv>
     </tu>
     <tu>
@@ -2878,6 +2958,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[ACTION]</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202555Z" creationid="Inrepublica" creationdate="20200422T202555Z">
+        <seg>[ACTION]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[BOX1]Ok</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T112202Z" creationid="Inrepublica" creationdate="20200422T112202Z">
@@ -2890,6 +2978,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T112139Z" creationid="Inrepublica" creationdate="20200422T112139Z">
         <seg>[BOX2]Annulez</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[CONDITION]</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202621Z" creationid="Inrepublica" creationdate="20200422T202621Z">
+        <seg>[CONDITION]</seg>
       </tuv>
     </tu>
     <tu>
@@ -3006,10 +3102,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[POS]</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202605Z" creationid="Inrepublica" creationdate="20200422T202605Z">
+        <seg>[POS]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[SHRD]%2j{Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec} %1d, %3,4d</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T112743Z" creationid="Inrepublica" creationdate="20200422T112743Z">
         <seg>[SHRD]%2j{Jan|Fev|Mar|Avr|Mai|Jun|Jul|Aou|Sep|Oct|Nov|Dec} %1d, %3,4d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202553Z" creationid="Inrepublica" creationdate="20200422T202553Z">
+        <seg>[TEXT]</seg>
       </tuv>
     </tu>
     <tu>
