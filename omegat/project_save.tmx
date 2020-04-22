@@ -126,6 +126,46 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0028]&lt;PRED&gt;Same profile has already been created|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T143545Z" creationid="Inrepublica" creationdate="20200422T143545Z">
+        <seg>[0028]&lt;PRED&gt;Un profile identique est déjà présent|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0029]&lt;PREI&gt;Error creating %1s directory|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T143615Z" creationid="Inrepublica" creationdate="20200422T143615Z">
+        <seg>[0029]&lt;PREI&gt;Erreur pendant la création du répertoire %1s|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0038]&lt;NAH_&gt;Human|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T143621Z" creationid="Inrepublica" creationdate="20200422T143621Z">
+        <seg>[0038]&lt;NAH_&gt;Humain|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0040]&lt;DIFF&gt;Difficulty Level|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T143641Z" creationid="Inrepublica" creationdate="20200422T143641Z">
+        <seg>[0040]&lt;DIFF&gt;Niveau de difficulté|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0092]&lt;RNDE&gt;Random Events|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T143657Z" creationid="Inrepublica" creationdate="20200422T143657Z">
+        <seg>[0092]&lt;RNDE&gt;Evènement Aléatoire|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[BOX1]Ok</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T112202Z" creationid="Inrepublica" creationdate="20200422T112202Z">
