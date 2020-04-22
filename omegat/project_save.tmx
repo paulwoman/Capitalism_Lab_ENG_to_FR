@@ -2334,6 +2334,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The white colored buildings on display are government owned and as such do not show a profit or a loss.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T210640Z" creationid="Olivier" creationdate="20200422T210640Z">
+        <seg>Les bâtiments visibles de couleur blanche, appartiennent au gouvernement et, en tant que tels, ne présentent ni bénéfice ni perte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The ~yellow SUPPLY bar~ indicates the quantity of the product you have in store and the ~orange DEMAND bar~ measures the consumer demand for that product.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T170239Z" creationid="Olivier" creationdate="20200422T170239Z">
@@ -3527,6 +3535,16 @@ Cliquez maintenant sur l'icône "Profit" pour passer à ce mode.</seg>
     <tu>
       <tuv lang="en-US">
         <seg>[TEXT]
+Now we are going to have a quick look at the ~Building Filter~ interface.^^The filter interface has five selection buttons labelled ~Firm~, ~Corp.~, ~This City~, ~My Firms~ and ~Product~.^^When any of these filters are enabled, only firms within the filter will be shown on the mini map at ~Profit~ or ~Ownership~ mode.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T210803Z" creationid="Olivier" creationdate="20200422T210803Z">
+        <seg>[TEXT]
+Nous allons maintenant jeter un coup d'œil rapide à l'interface du "Filtre de construction".L'interface du filtre comporte cinq boutons de sélection intitulés "Firme", "Compagnie", "Cette ville", "Mes entreprises" et "Produit". Lorsque l'un de ces filtres est activé, seules les entreprises du filtre seront affichées sur la mini-carte en mode "Profit" ou "Propriété".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
 The animated rectangle frame on the mini map represents the area displayed in the city view.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T171641Z" creationid="Olivier" creationdate="20200422T171641Z">
@@ -3602,6 +3620,16 @@ This is the ~Select a Supplier~ window.</seg>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T165638Z" creationid="Olivier" creationdate="20200422T165638Z">
         <seg>[TEXT]
 Il s'agit de la fenêtre "Sélectionner un fournisseur".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
+To browse the firms within the filter, use the up and down buttons.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T210844Z" creationid="Olivier" creationdate="20200422T210844Z">
+        <seg>[TEXT]
+Pour parcourir les entreprises dans le filtre, utilisez les boutons haut et bas.</seg>
       </tuv>
     </tu>
     <tu>
