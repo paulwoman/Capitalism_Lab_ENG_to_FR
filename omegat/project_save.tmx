@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(The boom-bust cycle is the expansion and contraction in the economic cycle that occurs repeatedly.)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203738Z" creationid="Inrepublica" creationdate="20200422T203738Z">
+        <seg>(Le cycle expansion-récession est l'expansion et la contraction du cycle économique qui se produisent de manière répétée).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(You may set the limits for software and Internet companies separately using a script.)</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164906Z" creationid="Inrepublica" creationdate="20200422T164906Z">
@@ -122,6 +130,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203207Z" creationid="Inrepublica" creationdate="20200422T203207Z">
         <seg>Un écart d'intérêt net plus important signifie une plus grande marge bénéficiaire pour une banque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A lower Modifier value leads to lower initial stock prices, which promise more gain for the global stock market down the road.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203831Z" creationid="Inrepublica" creationdate="20200422T203831Z">
+        <seg>Une valeur de modificateur plus faible entraîne une baisse du prix initial des actions, ce qui promet un gain plus important pour le marché boursier mondial à l'avenir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -438,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Boom-Bust Cycle Volatility</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203645Z" creationid="Inrepublica" creationdate="20200422T203645Z">
+        <seg>Volatilité du cycle expansion-récession</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Build Firm=Department Store, My Department Store</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202609Z" creationid="Inrepublica" creationdate="20200422T202609Z">
@@ -666,6 +690,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T195645Z" creationid="Inrepublica" creationdate="20200422T195645Z">
         <seg>Ville développée au départ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Difficulty Level for Banking and Finance DLC</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203853Z" creationid="Inrepublica" creationdate="20200422T203853Z">
+        <seg>Niveau de difficulté pour la banque et la finance DLC</seg>
       </tuv>
     </tu>
     <tu>
@@ -1478,6 +1510,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Initial Stock Price Modifier</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203749Z" creationid="Inrepublica" creationdate="20200422T203749Z">
+        <seg>Modificateur du prix initial de l'action</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Insurance Claims</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T194450Z" creationid="Inrepublica" creationdate="20200422T194412Z">
@@ -2214,6 +2254,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The initial prices of the global stocks are loaded from a database.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203801Z" creationid="Inrepublica" creationdate="20200422T203801Z">
+        <seg>Les prix initiaux des stocks mondiaux sont chargés à partir d'une base de données.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The logic behind this is that Product Customization relies on technology levels to increase linearly to function properly, whereas Technology Disruption reduces all technology levels across the board by 10% annually.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T173105Z" creationid="Inrepublica" creationdate="20200422T173105Z">
@@ -2274,6 +2322,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T153959Z" creationid="Inrepublica" creationdate="20200422T153959Z">
         <seg>Il y aura des sociétés IA centrées sur l'immobilier, les médias et la technologie si cette dernière est fixée à un niveau élevé ou supérieur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This adjusts the economy's impact on consumer demand, which affects GDP and in turn affects the volatility of the boom-bust cycle.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203657Z" creationid="Inrepublica" creationdate="20200422T203657Z">
+        <seg>Cela permet d'ajuster l'impact de l'économie sur la demande des consommateurs, ce qui affecte le PIB et, par conséquent, la volatilité du cycle d'expansion et d'effondrement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2486,6 +2542,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use this to set the overall difficulty level for operating banks and insurance companies.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203907Z" creationid="Inrepublica" creationdate="20200422T203907Z">
+        <seg>Utilisez-le pour fixer le niveau de difficulté global pour les banques et les compagnies d'assurance en activité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>VGADV</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145841Z" creationid="Inrepublica" creationdate="20200422T145841Z">
@@ -2538,6 +2602,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203020Z" creationid="Inrepublica" creationdate="20200422T203020Z">
         <seg>Lorsque cette fonction sera activée, les entreprises pourront émettre des obligations pour lever des capitaux, et le marché obligataire sera accessible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When this is set to a higher value, loan defaults will soar at a higher rate during an economic downturn, leading to a potential liquidity crisis.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203635Z" creationid="Inrepublica" creationdate="20200422T203635Z">
+        <seg>Lorsque cette valeur est fixée à un niveau supérieur, les défauts de remboursement des prêts s'envolent à un rythme plus élevé en période de ralentissement économique, ce qui peut entraîner une crise de liquidité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2634,6 +2706,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T165738Z" creationid="Olivier" creationdate="20200422T165738Z">
         <seg>Vous pouvez utiliser les trois filtres en haut de la fenêtre pour vous aider à trouver les produits que vous voulez.^^Vous avez l'intention d'acheter des produits dans les ports maritimes locaux, alors cliquez sur la case de filtre "Fournisseurs" comme indiqué.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may use this modifier to change the initial prices of all global stocks.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203819Z" creationid="Inrepublica" creationdate="20200422T203819Z">
+        <seg>Vous pouvez utiliser ce modificateur pour modifier les prix initiaux de tous les stocks mondiaux.</seg>
       </tuv>
     </tu>
     <tu>
