@@ -70,10 +70,42 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0022]&lt;PRF1&gt;Please select your name from this list|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T131710Z" creationid="Inrepublica" creationdate="20200422T131504Z">
+        <seg>[0022]&lt;PRF1&gt;Svp sélectionnez votre nom dans la liste|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0022]Please select your name from this list|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T125241Z" creationid="Inrepublica" creationdate="20200422T125241Z">
         <seg>[0022]Svp sélectionner votre nom dans la liste|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0023]&lt;PRF2&gt;If your name is not here, click on "New Player" below|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T131555Z" creationid="Inrepublica" creationdate="20200422T131555Z">
+        <seg>[0023]&lt;PRF2&gt;Si vôtre nom est absent, cliquez sur "Nouveau Joueur" ci-dessous|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0024]&lt;PRFN&gt;Please enter your name|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T131722Z" creationid="Inrepublica" creationdate="20200422T131616Z">
+        <seg>[0024]&lt;PRFN&gt;Svp entrez votre nom|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0025]&lt;PRFD&gt;Are you Certain that you wish to delete this person from the list?|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T131758Z" creationid="Inrepublica" creationdate="20200422T131758Z">
+        <seg>[0025]&lt;PRFD&gt;Etes-vous certain de vouloir supprimer cette personne de la liste?|</seg>
       </tuv>
     </tu>
     <tu>
