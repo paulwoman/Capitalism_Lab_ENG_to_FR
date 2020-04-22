@@ -2574,6 +2574,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Try to find a location close to residential buildings to benefit from high customer traffic.^^If the location is shaded in ~yellow~, it means a valid location for building your department store.^^When you have chosen a location, left click and the department store will be built.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T211649Z" creationid="Olivier" creationdate="20200422T211649Z">
+        <seg>Essayez de trouver un emplacement proche des immeubles résidentiels pour bénéficier d'une forte fréquentation. Si l'emplacement est coloré en jaune, cela signifie qu'il s'agit d'un emplacement valable pour la construction de votre grand magasin..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use the Male and Female icons (located below the arrow icons) to switch the gender of the portraits.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T165414Z" creationid="Inrepublica" creationdate="20200422T165414Z">
@@ -3505,6 +3513,16 @@ Un nouveau grand magasin coûte 1 000 000 $ pour sa construction, plus le coût 
     <tu>
       <tuv lang="en-US">
         <seg>[TEXT]
+And choose ~Department Store~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T211549Z" creationid="Olivier" creationdate="20200422T211549Z">
+        <seg>[TEXT]
+Et choisissez " Grand magasin ".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
 As your corporation currently only has one firm - your department store, only one dot in your corporate color is shown.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T210945Z" creationid="Olivier" creationdate="20200422T210945Z">
@@ -3540,6 +3558,16 @@ Click the ~My Firms~ button and the mini map display changes to show only ambien
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T210920Z" creationid="Olivier" creationdate="20200422T210920Z">
         <seg>[TEXT]
 Cliquez sur le bouton "Mes entreprises" et l'affichage de la mini-carte change pour ne montrer que les bâtiments environnants et les entreprises que vous possédez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
+Congratulations!</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T211745Z" creationid="Olivier" creationdate="20200422T211745Z">
+        <seg>[TEXT]
+Félicitations !</seg>
       </tuv>
     </tu>
     <tu>
@@ -3600,6 +3628,16 @@ It shows the amount of cash your corporation currently has and its operating pro
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T171138Z" creationid="Olivier" creationdate="20200422T171138Z">
         <seg>[TEXT]
 Elle indique le montant des liquidités dont dispose actuellement votre société et son bénéfice d'exploitation au cours des 12 derniers mois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
+Now choose ~Retail Store~ from the menu.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T211526Z" creationid="Olivier" creationdate="20200422T211526Z">
+        <seg>[TEXT]
+Choisissez maintenant "Magasin de détail" dans le menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3790,6 +3828,16 @@ You have graduated with an MBA from a renowned business school.</seg>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T165125Z" creationid="Olivier" creationdate="20200422T165125Z">
         <seg>[TEXT]
 Vous avez obtenu un MBA d'une école de commerce renommée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
+Your cursor now highlights a square on the city.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T211609Z" creationid="Olivier" creationdate="20200422T211609Z">
+        <seg>[TEXT]
+Votre curseur met maintenant en évidence une place sur la ville.</seg>
       </tuv>
     </tu>
     <tu>
