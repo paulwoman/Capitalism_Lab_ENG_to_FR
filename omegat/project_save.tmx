@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>At this stage you don't need to concern yourself with the information provided with each product (freight costs, ratings, brand and other information will explained in a later tutorial).^^For now, let's just purchase the first product on the list to get things moving.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T170000Z" creationid="Olivier" creationdate="20200422T170000Z">
+        <seg>À ce stade, vous n'avez pas besoin de vous préoccuper des informations fournies avec chaque produit (les frais de transport, les évaluations, la marque et d'autres informations seront expliquées dans un tutoriel ultérieur).^^Pour l'instant, achetons simplement le premier produit de la liste pour faire avancer les choses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>BANKDIFF</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150005Z" creationid="Inrepublica" creationdate="20200422T150005Z">
@@ -362,6 +370,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160305Z" creationid="Inrepublica" creationdate="20200422T160305Z">
         <seg>Autorise la création de nouveaux ports.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the ~SELECT~ button now.^^</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T170036Z" creationid="Olivier" creationdate="20200422T170036Z">
+        <seg>Cliquez sur le bouton "SELECT" maintenant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1438,6 +1454,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See the vertical yellow and orange bars?</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T170202Z" creationid="Olivier" creationdate="20200422T170202Z">
+        <seg>Vous voyez les barres verticales jaunes et orange ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select Reduced Inflation Strength if you prefer less strong inflation.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T153011Z" creationid="Inrepublica" creationdate="20200422T153011Z">
@@ -1546,6 +1570,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150823Z" creationid="Inrepublica" creationdate="20200422T150823Z">
         <seg>Le marché boursier permet la négociation d'actions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The ~yellow SUPPLY bar~ indicates the quantity of the product you have in store and the ~orange DEMAND bar~ measures the consumer demand for that product.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T170239Z" creationid="Olivier" creationdate="20200422T170239Z">
+        <seg>La barre jaune APPROVISIONNEMENT indique la quantité de produit que vous avez en magasin et la barre orange de DEMANDE mesure la demande du consommateur pour ce produit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1738,6 +1770,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150122Z" creationid="Inrepublica" creationdate="20200422T150122Z">
         <seg>Votre capital de départ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your store automatically purchases the product you selected from the seaport and makes it available for sale to your customers.^^Look at the left of the product image.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T170135Z" creationid="Olivier" creationdate="20200422T170135Z">
+        <seg>Votre magasin achète automatiquement le produit que vous avez sélectionné dans le port maritime et le met en vente pour vos clients. Regardez à gauche de l'image du produit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2219,11 +2259,31 @@ Double-cliquez sur "Port Maritime" dans la liste déroulante.</seg>
     <tu>
       <tuv lang="en-US">
         <seg>[TEXT]
+The window updates to show all products available from the local seaports.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T165923Z" creationid="Olivier" creationdate="20200422T165923Z">
+        <seg>[TEXT]
+La fenêtre se met à jour pour montrer tous les produits disponibles dans les ports maritimes locaux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
 This is the ~Select a Supplier~ window.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T165638Z" creationid="Olivier" creationdate="20200422T165638Z">
         <seg>[TEXT]
 Il s'agit de la fenêtre "Sélectionner un fournisseur".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TEXT]
+You are now back in your department store.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T170114Z" creationid="Olivier" creationdate="20200422T170114Z">
+        <seg>[TEXT]
+Vous êtes maintenant de retour dans votre grand magasin.</seg>
       </tuv>
     </tu>
     <tu>
