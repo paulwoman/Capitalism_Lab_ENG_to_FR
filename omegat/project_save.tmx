@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -950,10 +950,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If this is disabled, global competitiveness ratings will be initialized with a constant value of 30.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T170546Z" creationid="Inrepublica" creationdate="20200422T170546Z">
+        <seg>Si cela décoché, les notes de compétitivité mondiale seront initialisées avec une valeur constante de 30.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If this is enabled, companies will be able to build e-commerce firms and sell products via e-commerce.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164507Z" creationid="Inrepublica" creationdate="20200422T164507Z">
         <seg>Si cela est activé, les entreprises pourront créer des entreprises de commerce électronique et vendre des produits par le biais du commerce électronique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If this is enabled, global competitiveness ratings across industries will be randomized in the beginning of the game.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T170551Z" creationid="Inrepublica" creationdate="20200422T170513Z">
+        <seg>Si cela est coché, les notes de compétitivité mondiale des différentes industries seront randomisées au début du jeu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1198,6 +1214,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>More Talents</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T165227Z" creationid="Inrepublica" creationdate="20200422T165227Z">
+        <seg>Plus de talents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>New seaports Emerge during the game</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160243Z" creationid="Inrepublica" creationdate="20200422T160239Z">
@@ -1326,6 +1350,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Portrait Gender</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T165347Z" creationid="Inrepublica" creationdate="20200422T165347Z">
+        <seg>Portraits des genres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Private Company (Subsidiary DLC)</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T151144Z" creationid="Inrepublica" creationdate="20200422T151144Z">
@@ -1386,6 +1418,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T162812Z" creationid="Inrepublica" creationdate="20200422T162812Z">
         <seg>Réinvention aléatoire des produits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Randomize Global Competitiveness Ratings</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T165738Z" creationid="Inrepublica" creationdate="20200422T165738Z">
+        <seg>Randomiser la compétitivité globale</seg>
       </tuv>
     </tu>
     <tu>
@@ -1670,6 +1710,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use the Male and Female icons (located below the arrow icons) to switch the gender of the portraits.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T165414Z" creationid="Inrepublica" creationdate="20200422T165414Z">
+        <seg>Utilisez les icônes Homme et Femme (situées sous les flèches) pour changer le sexe des portraits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>VGADV</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145841Z" creationid="Inrepublica" creationdate="20200422T145841Z">
@@ -1746,6 +1794,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T165738Z" creationid="Olivier" creationdate="20200422T165738Z">
         <seg>Vous pouvez utiliser les trois filtres en haut de la fenêtre pour vous aider à trouver les produits que vous voulez.^^Vous avez l'intention d'acheter des produits dans les ports maritimes locaux, alors cliquez sur la case de filtre "Fournisseurs" comme indiqué.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may use this option to have the game duplicate talent data to increase the supply of talents.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T165329Z" creationid="Inrepublica" creationdate="20200422T165329Z">
+        <seg>Vous pouvez utiliser cette option pour que le jeu duplique les talents afin d'augmenter l'offre de talents.</seg>
       </tuv>
     </tu>
     <tu>
