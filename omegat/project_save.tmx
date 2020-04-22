@@ -110,6 +110,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0026]&lt;PRDY&gt;Yes|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T131801Z" creationid="Inrepublica" creationdate="20200422T131801Z">
+        <seg>[0026]&lt;PRDY&gt;Oui|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0027]&lt;PRDN&gt;No|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T131804Z" creationid="Inrepublica" creationdate="20200422T131804Z">
+        <seg>[0027]&lt;PRDN&gt;Non|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[BOX1]Ok</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T112202Z" creationid="Inrepublica" creationdate="20200422T112202Z">
