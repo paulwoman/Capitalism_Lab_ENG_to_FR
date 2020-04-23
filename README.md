@@ -27,7 +27,7 @@ Une fois vos contributions effectuées, cliquez sur Enregistrer et ensuite indiq
 * gm_help.txt = 100%
 * help.txt = 0%
 
-2) Fichiers qui doivent s'installer dans un dossier dédié
+2) Fichiers qui doivent s'installer dans un dossier dédié:
 
 2.1 Dossier "Tutorial"
 * tut01 : 95 %
