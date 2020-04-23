@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>//------------------------------------------------------------------------------------------------//</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124957Z" creationid="Olivier" creationdate="20200423T124957Z">
+        <seg>//------------------------------------------------------------------------------------------------//</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>//-------------------------------------------------------------------//</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202559Z" creationid="Inrepublica" creationdate="20200422T202559Z">
@@ -738,6 +746,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145941Z" creationid="Inrepublica" creationdate="20200422T145941Z">
         <seg>DEVCITY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=In this tutorial, you will be introduced to the basics of the game's interface.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124925Z" creationid="Olivier" creationdate="20200423T124925Z">
+        <seg>Description=Dans ce tutoriel, vous serez initié aux bases de l'interface du jeu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2912,6 +2928,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title=1.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124820Z" creationid="Olivier" creationdate="20200423T124820Z">
+        <seg>Title=1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To browse the firms within the filter, use the up and down buttons.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124113Z" creationid="Olivier" creationdate="20200423T124113Z">
@@ -3285,6 +3309,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T211815Z" creationid="Olivier" creationdate="20200422T211815Z">
         <seg>Vous devez maintenant installer les produits dans votre nouveau grand magasin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You will then learn how to build your first retail store, stock it with products from suppliers, and sell them to consumers to generate incomes.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124952Z" creationid="Olivier" creationdate="20200423T124952Z">
+        <seg>Vous apprendrez ensuite comment construire votre premier magasin de détail, l'approvisionner avec les produits des fournisseurs et les vendre aux consommateurs pour générer des revenus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4037,6 +4069,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202621Z" creationid="Inrepublica" creationdate="20200422T202621Z">
         <seg>[CONDITION]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[HEADER]</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124815Z" creationid="Olivier" creationdate="20200423T124815Z">
+        <seg>[HEADER]</seg>
       </tuv>
     </tu>
     <tu>
