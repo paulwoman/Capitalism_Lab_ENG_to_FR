@@ -39,8 +39,8 @@ Une fois vos contributions effectuées, cliquez sur Enregistrer et ensuite indiq
 * tut07 : 0 %
 
 2.1.5 : Sous-dossier "script"
-* tutorial 1 : 95 %
-* tutorial 2 : 0 %
+* tutorial 1 : 100 %
+* tutorial 2 : 100 %
 * tutorial 3 : 0 %
 * tutorial 4 : 0 %
 * tutorial 5 : 0 %
