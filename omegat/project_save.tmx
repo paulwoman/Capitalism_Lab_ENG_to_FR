@@ -382,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As you've got more experienced in retailing, you can now choose from a range of retail store types to build, including department stores, convenience stores, supermarkets, discount megastore, and various types of specialty stores.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T133450Z" creationid="Olivier" creationdate="20200423T133450Z">
+        <seg>Comme vous avez acquis plus d'expérience dans la vente au détail, vous pouvez maintenant choisir parmi une gamme de types de magasins à construire, y compris les grands magasins, les magasins de proximité, les supermarchés, les mégacentres discount et divers types de magasins spécialisés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As your corporation currently only has one firm - your department store, only one dot in your corporate color is shown.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124431Z" creationid="Olivier" creationdate="20200423T124431Z">
@@ -1736,6 +1744,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If, for whatever reason, the supply of a product to the store is interrupted, you can easily replace it with another product.^^On the other hand, ~a specialty store~ can only sell a specific range of products.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T133550Z" creationid="Olivier" creationdate="20200423T133550Z">
+        <seg>Si, pour une raison quelconque, l'approvisionnement d'un produit au magasin est interrompu, vous pouvez facilement le remplacer par un autre produit. D'autre part, ~un magasin spécialisé~ ne peut vendre qu'une gamme spécifique de produits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Import quality</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160437Z" creationid="Inrepublica" creationdate="20200422T160437Z">
@@ -2140,6 +2156,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T165515Z" creationid="Olivier" creationdate="20200422T165515Z">
         <seg>Cliquez maintenant sur le bouton gauche de la souris pour en voir le détail.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now select ~Retail Store~ from the menu.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T133323Z" creationid="Olivier" creationdate="20200423T133323Z">
+        <seg>Choisissez maintenant "Magasin de détail" dans le menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2780,6 +2804,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T131233Z" creationid="Inrepublica" creationdate="20200423T131233Z">
         <seg>Text Box=10,270,220,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Box=100,200,300,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T133335Z" creationid="Olivier" creationdate="20200423T133335Z">
+        <seg>Text Box=100,200,300,0</seg>
       </tuv>
     </tu>
     <tu>
@@ -4919,6 +4951,14 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T111915Z" creationid="Inrepublica" creationdate="20200422T111915Z">
         <seg>~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~Discount megastores~ can sell anything which makes them very versatile.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T133527Z" creationid="Olivier" creationdate="20200423T133527Z">
+        <seg>Les mégastores discount~ peuvent vendre n'importe quoi, ce qui les rend très polyvalents.</seg>
       </tuv>
     </tu>
     <tu>
