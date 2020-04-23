@@ -2152,6 +2152,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Notice anything different?</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T134400Z" creationid="Olivier" creationdate="20200423T134400Z">
+        <seg>Vous remarquez quelque chose de différent ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now choose ~Retail Store~ from the menu.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124636Z" creationid="Olivier" creationdate="20200423T124636Z">
@@ -3412,6 +3420,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T171026Z" creationid="Olivier" creationdate="20200422T171026Z">
         <seg>Nous sommes maintenant dans la vue de la ville.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We can now see the ~Layout~ of your store, which is a 3x3 grid of boxes.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T134435Z" creationid="Olivier" creationdate="20200423T134435Z">
+        <seg>Nous pouvons maintenant voir la "mise en page" de votre magasin, qui est une grille de 3x3 carrés.</seg>
       </tuv>
     </tu>
     <tu>
