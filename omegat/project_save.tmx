@@ -2784,6 +2784,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It was saved with a different version of Capitalism.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T162742Z" creationid="Inrepublica" creationdate="20200423T162742Z">
+        <seg>Il s'agit d'une version différente de CapitalismLab.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It will be more difficult for player and AI companies to raise funds from IPO, issuing new shares and bonds.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203953Z" creationid="Inrepublica" creationdate="20200422T203953Z">
@@ -5813,6 +5821,38 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T152720Z" creationid="Inrepublica" creationdate="20200423T152720Z">
         <seg>[0167]&lt;LE_H&gt;Ne peux lire l'en-tête du fichier|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0168]&lt;LE_P&gt;Cannot load the save game.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T162705Z" creationid="Inrepublica" creationdate="20200423T162705Z">
+        <seg>[0168]&lt;LE_P&gt;Ne peut charger la sauvegarde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0169]&lt;LE_G&gt;Load game error|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T162813Z" creationid="Inrepublica" creationdate="20200423T162813Z">
+        <seg>[0169]&lt;LE_G&gt;Erreur pendant le chargement|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0170]&lt;SE_C&gt;Error creating save game file.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T162839Z" creationid="Inrepublica" creationdate="20200423T162839Z">
+        <seg>[0170]&lt;SE_C&gt;Erreur pedant la sauvegarde.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0171]&lt;SE_H&gt;Error creating save game header.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T163008Z" creationid="Inrepublica" creationdate="20200423T163008Z">
+        <seg>[0171]&lt;SE_H&gt;Erreur pendant la sauvegarde de l'entête.|</seg>
       </tuv>
     </tu>
     <tu>
