@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// You may set the game starting year to any year between 1900 and 2100.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T130131Z" creationid="Olivier" creationdate="20200423T130131Z">
+        <seg>// Vous pouvez fixer l'année de début du jeu à n'importe quelle année entre 1900 et 2100.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>//------------------------------------------------------------------------------------------------//</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124957Z" creationid="Olivier" creationdate="20200423T124957Z">
