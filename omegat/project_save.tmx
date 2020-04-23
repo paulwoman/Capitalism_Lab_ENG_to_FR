@@ -710,6 +710,78 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>B_BACK</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T152128Z" creationid="Inrepublica" creationdate="20200423T152128Z">
+        <seg>B_BACK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>B_CASH</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T152131Z" creationid="Inrepublica" creationdate="20200423T152131Z">
+        <seg>B_CASH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>B_CHART</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T152133Z" creationid="Inrepublica" creationdate="20200423T152133Z">
+        <seg>B_CHART</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>B_DATE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T152136Z" creationid="Inrepublica" creationdate="20200423T152136Z">
+        <seg>B_DATE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>B_INFO</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T152126Z" creationid="Inrepublica" creationdate="20200423T152126Z">
+        <seg>B_INFO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>B_MINMAP</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T152123Z" creationid="Inrepublica" creationdate="20200423T152123Z">
+        <seg>B_MINMAP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>B_PROFIT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T152132Z" creationid="Inrepublica" creationdate="20200423T152132Z">
+        <seg>B_PROFIT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>B_WATCH</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T152127Z" creationid="Inrepublica" creationdate="20200423T152127Z">
+        <seg>B_WATCH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>B_WORLD</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T152125Z" creationid="Inrepublica" creationdate="20200423T152125Z">
+        <seg>B_WORLD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Base Loan Interest Rate</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164720Z" creationid="Inrepublica" creationdate="20200422T164720Z">
@@ -2848,6 +2920,38 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MMENUCSR</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T152147Z" creationid="Inrepublica" creationdate="20200423T152147Z">
+        <seg>MMENUCSR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MMENUFR</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T152148Z" creationid="Inrepublica" creationdate="20200423T152148Z">
+        <seg>MMENUFR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MMENUPSR</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T152146Z" creationid="Inrepublica" creationdate="20200423T152146Z">
+        <seg>MMENUPSR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MMENUSM</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T152205Z" creationid="Inrepublica" creationdate="20200423T152205Z">
+        <seg>MMENUSM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MORETAL2</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145924Z" creationid="Inrepublica" creationdate="20200422T145924Z">
@@ -3952,6 +4056,62 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>T_BUILD</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T152137Z" creationid="Inrepublica" creationdate="20200423T152137Z">
+        <seg>T_BUILD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>T_BUYLND</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T152138Z" creationid="Inrepublica" creationdate="20200423T152138Z">
+        <seg>T_BUYLND</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>T_GOAL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T152141Z" creationid="Inrepublica" creationdate="20200423T152141Z">
+        <seg>T_GOAL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>T_SETLND</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T152139Z" creationid="Inrepublica" creationdate="20200423T152139Z">
+        <seg>T_SETLND</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>T_ZOOM1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T152142Z" creationid="Inrepublica" creationdate="20200423T152142Z">
+        <seg>T_ZOOM1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>T_ZOOM2</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T152143Z" creationid="Inrepublica" creationdate="20200423T152143Z">
+        <seg>T_ZOOM2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>T_ZOOM3</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T152144Z" creationid="Inrepublica" creationdate="20200423T152144Z">
+        <seg>T_ZOOM3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Talent System</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164931Z" creationid="Inrepublica" creationdate="20200422T164931Z">
@@ -4188,6 +4348,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T152000Z" creationid="Olivier" creationdate="20200423T152000Z">
         <seg>La première façon est d'ouvrir la ~Carte du monde~ en cliquant sur son icône dans la barre d'outils inférieure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The game is not saved.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T152643Z" creationid="Inrepublica" creationdate="20200423T152643Z">
+        <seg>Partie non sauvegardée.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -4740,6 +4908,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T134609Z" creationid="Olivier" creationdate="20200423T134609Z">
         <seg>Pour mieux comprendre cela, nous allons simplement ajouter un produit au magasin en utilisant l'ancienne méthode que vous connaissez. Cliquez maintenant sur l'icône ~Ajouter un produit~ et choisissez un produit dans la liste d'approvisionnement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Toolbox</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T152121Z" creationid="Inrepublica" creationdate="20200423T152121Z">
+        <seg>Toolbox</seg>
       </tuv>
     </tu>
     <tu>
@@ -5605,6 +5781,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T123358Z" creationid="Inrepublica" creationdate="20200423T123358Z">
         <seg>[0163]&lt;ADLS&gt;Cette sauvegarde est supprimée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0164]&lt;DESV&gt;Description of the save game:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T152548Z" creationid="Inrepublica" creationdate="20200423T152548Z">
+        <seg>[0164]&lt;DESV&gt;Description de la sauvegarde:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0165]&lt;OUTD&gt;Insufficient disk space !</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T152601Z" creationid="Inrepublica" creationdate="20200423T152601Z">
+        <seg>[0165]&lt;OUTD&gt;Pas assez d'espace disque !</seg>
       </tuv>
     </tu>
     <tu>
