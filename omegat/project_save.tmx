@@ -3377,6 +3377,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0162]&lt;SE-L&gt;Cannot load in scenario editor|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T123309Z" creationid="Inrepublica" creationdate="20200423T123309Z">
+        <seg>[0162]&lt;SE-L&gt;Impossible de charger dans l'éditeur de scénario|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0163]&lt;ADLS&gt;This save game will be deleted.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T123358Z" creationid="Inrepublica" creationdate="20200423T123358Z">
+        <seg>[0163]&lt;ADLS&gt;Cette sauvegarde est supprimée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0300]&lt;#?L0&gt;#r - ranking of players|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T200031Z" creationid="Inrepublica" creationdate="20200422T200031Z">
