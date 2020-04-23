@@ -366,10 +366,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A product's ~overall rating~ is calculated based on its price, its quality, and its brand rating.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T150950Z" creationid="Olivier" creationdate="20200423T150950Z">
+        <seg>La "note globale" d'un produit est calculée en fonction de son prix, de sa qualité et de réputation de sa marque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A specialty stores is more attractive to customers interested in such products.^^For example, a computer store selling computers should outsell an adjacent department store selling the same product.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T133730Z" creationid="Olivier" creationdate="20200423T133730Z">
         <seg>Un magasin spécialisé est plus attrayant pour les clients intéressés par de tels produits. Par exemple, un magasin d'informatique qui vend des ordinateurs devrait vendre plus cher qu'un grand magasin voisin qui vend le même produit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A ~Purchasing Unit~ does just that - it purchases the product you have selected from the supplier.^^Upon delivery the ~Purchasing Unit~ passes the stock to the ~Sales Unit~ which offers the product to customers.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T150122Z" creationid="Olivier" creationdate="20200423T134820Z">
+        <seg>Une ~unité d'achat~ fait exactement cela : elle achète le produit que vous avez sélectionné auprès du fournisseur. À la livraison, l'unité d'achat transmet le stock à ~l'unité de vente~ qui offre le produit aux clients.</seg>
       </tuv>
     </tu>
     <tu>
@@ -514,6 +530,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145928Z" creationid="Inrepublica" creationdate="20200422T145928Z">
         <seg>APART_SC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Active Interface=Add Unit</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T144931Z" creationid="Olivier" creationdate="20200423T144931Z">
+        <seg>Active Interface=Add Unit</seg>
       </tuv>
     </tu>
     <tu>
@@ -894,6 +918,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Clearing the stock in effect free up your retail shelves for the new product immediately.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151402Z" creationid="Olivier" creationdate="20200423T151402Z">
+        <seg>La liquidation du stock en vigueur permet de libérer immédiatement les rayons de vos magasins pour le nouveau produit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the ~Add Product icon~, then choose ~Seaport~ from the supplier list, and select a product to add to your store.^^This time, make sure that you select a different product than the one already on sale in your store.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T170748Z" creationid="Olivier" creationdate="20200422T170748Z">
@@ -914,6 +946,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124727Z" creationid="Olivier" creationdate="20200423T124727Z">
         <seg>Cliquez sur l'option "Objectifs".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the ~Link~ button and select a product to order from the supplier list.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T145341Z" creationid="Olivier" creationdate="20200423T145341Z">
+        <seg>Cliquez sur le bouton ~Lien~ et sélectionnez un produit à commander dans la liste des fournisseurs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1206,6 +1246,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Excellent!</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T145223Z" creationid="Olivier" creationdate="20200423T145223Z">
+        <seg>Excellent !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Express Mode</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T195501Z" creationid="Inrepublica" creationdate="20200422T195501Z">
@@ -1226,6 +1274,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202618Z" creationid="Inrepublica" creationdate="20200422T202618Z">
         <seg>Extend Text Box=32,420,300,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Extend Text Box=36,600,700,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151542Z" creationid="Olivier" creationdate="20200423T151542Z">
+        <seg>Extend Text Box=36,600,700,0</seg>
       </tuv>
     </tu>
     <tu>
@@ -1290,6 +1346,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160110Z" creationid="Inrepublica" creationdate="20200422T160110Z">
         <seg>Femelle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Finally, the corporate logo, corporate color and the CEO's portrait are displayed.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151641Z" creationid="Olivier" creationdate="20200423T151641Z">
+        <seg>Enfin, le logo de l'entreprise, la couleur de l'entreprise et le portrait du PDG sont affichés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1498,6 +1562,38 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T133603Z" creationid="Olivier" creationdate="20200423T133603Z">
         <seg>Par exemple, un magasin de meubles ne peut vendre que des meubles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, when it comes to buying jeans, consumers generally pay more attention to the brand than the product's actual quality.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T150914Z" creationid="Olivier" creationdate="20200423T150914Z">
+        <seg>Par exemple, lorsqu'il s'agit d'acheter des jeans, les consommateurs accordent généralement plus d'attention à la marque qu'à la qualité réelle du produit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For now, keep it buying the current product.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151129Z" creationid="Olivier" creationdate="20200423T151129Z">
+        <seg>Pour l'instant, continuez à acheter le produit actuel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>From here you can view details about your corporation and rival corporations.^^For each corporation displayed you can immediately see cash, revenue and profit figures and accompanying bars, as well as an Operating Profit graph.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151626Z" creationid="Olivier" creationdate="20200423T151626Z">
+        <seg>Pour chaque société affichée, vous pouvez immédiatement voir les chiffres de trésorerie, de recettes et de bénéfices et les barres correspondantes, ainsi qu'un graphique des bénéfices d'exploitation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>From the menu options at the top right of the screen select ~Firm Overview~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151720Z" creationid="Olivier" creationdate="20200423T151720Z">
+        <seg>Dans les options de menu en haut à droite de l'écran, sélectionnez ~Vue d'ensemble de l'entreprise~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1936,6 +2032,30 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Great job!</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T145411Z" creationid="Olivier" creationdate="20200423T145411Z">
+        <seg>Bon travail !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Here it shows the product's ~quality~ and ~brand levels~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T150815Z" creationid="Olivier" creationdate="20200423T150815Z">
+        <seg>Cela indique les niveaux de ~qualité~ et de ~marque~ du produit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Here it shows the ~purchasing cost~ of the product and its ~freight cost~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T145747Z" creationid="Olivier" creationdate="20200423T145747Z">
+        <seg>Cela indique ici le ~coût d'achat~ du produit et son ~coût de transport~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hide, Minimap</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151452Z" creationid="Inrepublica" creationdate="20200423T151452Z">
@@ -2060,6 +2180,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164446Z" creationid="Inrepublica" creationdate="20200422T164446Z">
         <seg>Si vous fixez une valeur, les sociétés AI vont entrer en bourse après un certain nombre d'années.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the supplier is a business corporation, the color shown here is its ~corporate color~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T150612Z" creationid="Olivier" creationdate="20200423T145621Z">
+        <seg>Si le fournisseur est une société commerciale, la couleur indiquée ici est sa ~couleur d'entreprise~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the supply shortage is persistent, you should consider switching to a better supplier.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T142858Z" creationid="Olivier" creationdate="20200423T142858Z">
+        <seg>Si la pénurie d'approvisionnement est persistante, vous devriez envisager de passer à un meilleur fournisseur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2244,6 +2380,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T195710Z" creationid="Inrepublica" creationdate="20200422T195700Z">
         <seg>En mode survie, il n'y a qu'une seule ville au début du jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In a nutshell, ~a low price, high quality, and a high brand rating~ contribute to ~a high overall rating~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151008Z" creationid="Olivier" creationdate="20200423T151008Z">
+        <seg>En résumé, ~un prix bas, une qualité élevée et une bonne image de marque~ contribuent à ~une bonne note globale~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the previous tutorial, you only had to click the ~Add Product icon~ and select a product from the suppler list, and the selected product automatically appeared in your store.^^What you didn't see was the ~Purchasing and Sales units~ in your store.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T150009Z" creationid="Olivier" creationdate="20200423T134511Z">
+        <seg>Dans le tutoriel précédent, il vous suffisait de cliquer sur l'icône "Ajouter un produit" et de sélectionner un produit dans la liste des suppléments, et le produit sélectionné apparaissait automatiquement dans votre magasin. Ce que vous ne voyiez pas, c'étaient les ~Unités d'achat et de vente~ dans votre magasin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2584,6 +2736,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Let's get the new Purchasing Unit working by telling it which supplier you want to order products from.^^Click the ~Purchasing Unit~ to select it.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T150517Z" creationid="Olivier" creationdate="20200423T145311Z">
+        <seg>Faisons fonctionner la nouvelle unité d'achat en lui indiquant à quel fournisseur vous souhaitez commander des produits. Cliquez sur ~unité d'achat~ pour la sélectionner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let's have a closer look at each unit.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T134840Z" creationid="Olivier" creationdate="20200423T134840Z">
+        <seg>Examinons de plus près chaque unité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Low - product customization applies to your company only; Medium - it applies to your company and your subsidiaries; High - it applies to all companies.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T151132Z" creationid="Inrepublica" creationdate="20200422T151132Z">
@@ -2728,6 +2896,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Next, you will see the yellow Supply bar and the orange Demand bar.^^The ~yellow supply bar~ tells the amount of supply from the supplier, and the ~orange demand bar~ measures the consumer demand for the product.^^If the supply bar is shorter than the demand bar, there is a supply shortage.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T150219Z" creationid="Olivier" creationdate="20200423T142816Z">
+        <seg>Ensuite, vous verrez la barre jaune de l'offre et la barre orange de la demande. La ~barre jaune de l'offre~ indique la quantité d'offre du fournisseur, et la ~barre orange de la demande~ mesure la demande du consommateur pour le produit. Si la barre de l'offre est plus courte que la barre de la demande, il y a une pénurie d'offre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Note that the player person's expertise product class will not be locked.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T221200Z" creationid="Inrepublica" creationdate="20200422T163005Z">
@@ -2768,6 +2944,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now click your ~corporation's logo~ to view more information.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151824Z" creationid="Olivier" creationdate="20200423T151824Z">
+        <seg>Cliquez maintenant sur le logo de votre ~entreprise~ pour obtenir plus d'informations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now go and add products to your new department store and grow your business!</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T212122Z" creationid="Olivier" creationdate="20200422T212122Z">
@@ -2792,6 +2976,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now link the ~Purchasing Unit~ and the ~Sales Unit~ together by clicking the linkage line between them.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T150440Z" creationid="Olivier" creationdate="20200423T145212Z">
+        <seg>Liez maintenant ~l'unité d'achat~ et ~l'unité de vente~ ensemble en cliquant sur la ligne de liaison entre elles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now select ~Discount Megastore~ from the menu and choose a location to build your megastore.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T134312Z" creationid="Olivier" creationdate="20200423T134312Z">
@@ -2802,8 +2994,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Now select ~Retail Store~ from the menu.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T133323Z" creationid="Olivier" creationdate="20200423T133323Z">
-        <seg>Choisissez maintenant "Magasin de détail" dans le menu.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T145833Z" creationid="Olivier" creationdate="20200423T133323Z">
+        <seg>Choisissez maintenant ~Magasin~ dans le menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2828,6 +3020,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124059Z" creationid="Olivier" creationdate="20200423T124059Z">
         <seg>Nous allons maintenant jeter un coup d'œil rapide à l'interface du "Filtre de construction".L'interface du filtre comporte cinq boutons de sélection intitulés "Firme", "Compagnie", "Cette ville", "Mes entreprises" et "Produit". Lorsque l'un de ces filtres est activé, seules les entreprises du filtre seront affichées sur la mini-carte en mode "Profit" ou "Propriété".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now ~add one more group~ of ~Purchasing and Sales Units~ to increase the variety of your store's products.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151508Z" creationid="Olivier" creationdate="20200423T151508Z">
+        <seg>Ajoutez maintenant un groupe supplémentaire ~d'unités d'achat et de vente~ pour augmenter la variété des produits de votre magasin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2916,6 +3116,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T171855Z" creationid="Olivier" creationdate="20200422T171855Z">
         <seg>Sur la mini carte, les zones blanches représentent les bâtiments de la ville qui n'appartiennent pas à des sociétés, comme les maisons et les parcs. Les zones colorées représentent les bâtiments appartenant à des sociétés et sont représentées par la couleur de la société. Les ports maritimes sont représentés par la lettre "C" ou "I" -  "C" pour les produits de consommation -  (comme les téléviseurs ou les jeans) et ~ "I" pour les produits industriels~ (comme le charbon ou l'acier).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>One is labeled ~Purchase~ and it is connected to a ~Sales~ unit.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T150052Z" creationid="Olivier" creationdate="20200423T134650Z">
+        <seg>L'une d'entre elles est appelée ~Achat~ et est reliée à une unité ~Vente~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3064,6 +3272,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=202,385,246,400</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T145343Z" creationid="Olivier" creationdate="20200423T145343Z">
+        <seg>Pointer=202,385,246,400</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=202,85,348,102</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T131222Z" creationid="Inrepublica" creationdate="20200423T131222Z">
@@ -3072,10 +3288,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=255,386,312,400</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151022Z" creationid="Olivier" creationdate="20200423T151022Z">
+        <seg>Pointer=255,386,312,400</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=267, 10, 575,24</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T131307Z" creationid="Inrepublica" creationdate="20200423T131307Z">
         <seg>Pointer=267, 10, 575,24</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=267,386,370,400</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151405Z" creationid="Olivier" creationdate="20200423T151405Z">
+        <seg>Pointer=267,386,370,400</seg>
       </tuv>
     </tu>
     <tu>
@@ -3100,6 +3332,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T131314Z" creationid="Inrepublica" creationdate="20200423T131314Z">
         <seg>Pointer=31,30,79,58</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=321,386,418,400</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151131Z" creationid="Olivier" creationdate="20200423T151131Z">
+        <seg>Pointer=321,386,418,400</seg>
       </tuv>
     </tu>
     <tu>
@@ -3160,10 +3400,34 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=486,357,560,440</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T144943Z" creationid="Olivier" creationdate="20200423T144943Z">
+        <seg>Pointer=486,357,560,440</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=489,253,573,336</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T142627Z" creationid="Olivier" creationdate="20200423T142627Z">
+        <seg>Pointer=489,253,573,336</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=52,61,235,75</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T131319Z" creationid="Inrepublica" creationdate="20200423T131319Z">
         <seg>Pointer=52,61,235,75</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=55,120,165,230</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T134621Z" creationid="Olivier" creationdate="20200423T134621Z">
+        <seg>Pointer=55,120,165,230</seg>
       </tuv>
     </tu>
     <tu>
@@ -3176,6 +3440,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=595,360,675,440</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151204Z" creationid="Olivier" creationdate="20200423T151204Z">
+        <seg>Pointer=595,360,675,440</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=60,120,165,230</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202627Z" creationid="Inrepublica" creationdate="20200422T202627Z">
@@ -3184,10 +3456,42 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=636,110,735,123</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151723Z" creationid="Olivier" creationdate="20200423T151723Z">
+        <seg>Pointer=636,110,735,123</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=636,41,758,54</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151806Z" creationid="Olivier" creationdate="20200423T151806Z">
+        <seg>Pointer=636,41,758,54</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=636,87,754,100</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151748Z" creationid="Olivier" creationdate="20200423T151748Z">
+        <seg>Pointer=636,87,754,100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=65,6,94,30</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T122746Z" creationid="Inrepublica" creationdate="20200423T122746Z">
         <seg>Pointer=65,6,94,30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=69,377,190,400</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T145631Z" creationid="Olivier" creationdate="20200423T145631Z">
+        <seg>Pointer=69,377,190,400</seg>
       </tuv>
     </tu>
     <tu>
@@ -3344,6 +3648,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Right now as the unit is new that level is 1.^^With time and training the level will increase and the unit will become more efficient, being able to handle greater stock quantities and meeting higher demand levels.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T143443Z" creationid="Olivier" creationdate="20200423T143443Z">
+        <seg>Actuellement, comme l'unité est nouvelle, ce niveau est de 1. Avec le temps et la formation, le niveau augmentera et l'unité deviendra plus efficace, étant capable de gérer de plus grandes quantités de stocks et de répondre à des niveaux de demande plus élevés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>SAVERATE</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145923Z" creationid="Inrepublica" creationdate="20200422T145923Z">
@@ -3400,6 +3712,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See the two units that have appeared in your layout grid?</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T134637Z" creationid="Olivier" creationdate="20200423T134637Z">
+        <seg>Vous voyez les deux unités qui sont apparues dans votre grille de présentation ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See the vertical yellow and orange bars?</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T170202Z" creationid="Olivier" creationdate="20200422T170202Z">
@@ -3412,6 +3732,30 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T153011Z" creationid="Inrepublica" creationdate="20200422T153011Z">
         <seg>Sélectionnez inflation réduite pour une moins forte inflation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select a product to order from the supplier list.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T145358Z" creationid="Olivier" creationdate="20200423T145358Z">
+        <seg>Sélectionnez un produit à commander dans la liste des fournisseurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select ~Purchasing Unit~ from the list.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T150329Z" creationid="Olivier" creationdate="20200423T143535Z">
+        <seg>Sélectionnez ~Unité d'achat~ dans la liste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select ~Sales Unit~ from the list.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T150418Z" creationid="Olivier" creationdate="20200423T145102Z">
+        <seg>Sélectionnez ~Unité de vente~ dans la liste.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3460,6 +3804,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T155125Z" creationid="Inrepublica" creationdate="20200422T155125Z">
         <seg>Montrer les secrets commerciaux des concurents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Simple eh?</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T134829Z" creationid="Olivier" creationdate="20200423T134829Z">
+        <seg>Simple, n''est-ce pas ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Skip game interface=Yes</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151138Z" creationid="Olivier" creationdate="20200423T151138Z">
+        <seg>Skip game interface=Yes</seg>
       </tuv>
     </tu>
     <tu>
@@ -3600,6 +3960,30 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Text Box=285,480,350,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151649Z" creationid="Olivier" creationdate="20200423T151649Z">
+        <seg>Text Box=285,480,350,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Box=32,250,350,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T142623Z" creationid="Olivier" creationdate="20200423T142623Z">
+        <seg>Text Box=32,250,350,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Box=32,270,230,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T134613Z" creationid="Olivier" creationdate="20200423T134613Z">
+        <seg>Text Box=32,270,230,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Text Box=32,270,300,0</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124147Z" creationid="Olivier" creationdate="20200423T124147Z">
@@ -3620,6 +4004,30 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124229Z" creationid="Olivier" creationdate="20200423T124229Z">
         <seg>Text Box=40,270,350,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Box=400,12,250,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T145315Z" creationid="Olivier" creationdate="20200423T145315Z">
+        <seg>Text Box=400,12,250,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Box=400,12,350,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T145627Z" creationid="Olivier" creationdate="20200423T145627Z">
+        <seg>Text Box=400,12,350,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Box=60,280,250,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T145120Z" creationid="Olivier" creationdate="20200423T145120Z">
+        <seg>Text Box=60,280,250,0</seg>
       </tuv>
     </tu>
     <tu>
@@ -3664,6 +4072,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The figure in the top right corner of the unit is the ~unit's level~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T143421Z" creationid="Olivier" creationdate="20200423T143421Z">
+        <seg>Le chiffre dans le coin supérieur droit de l'unité est le "niveau de l'unité".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The first city's cash level at the beginning of the game.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161633Z" creationid="Inrepublica" creationdate="20200422T161633Z">
@@ -3680,6 +4096,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The first indicator, a ~blue line of dotted rectangles~, indicates the stock level of the product.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T134920Z" creationid="Olivier" creationdate="20200423T134920Z">
+        <seg>Le premier indicateur, une ~ligne bleue de rectangles pointillés~, indique le niveau de stock du produit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The greater the quality of your product, the more attractive it is to consumers.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T150649Z" creationid="Olivier" creationdate="20200423T150649Z">
+        <seg>Plus la qualité de votre produit est élevée, plus il est attrayant pour les consommateurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The initial prices of the global stocks are loaded from a database.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203801Z" creationid="Inrepublica" creationdate="20200422T203801Z">
@@ -3692,6 +4124,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T173105Z" creationid="Inrepublica" creationdate="20200422T173105Z">
         <seg>La logique sous-jacente est que la personnalisation des produits repose sur une augmentation linéaire des niveaux technologiques pour fonctionner correctement, tandis que la rupture technologique réduit tous les niveaux technologiques de 10 % par an.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The lower left hand of the screen now displays detail about your Purchasing Unit and the product it carries.^^Below the product image, you can see the color identity of the supplier.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T145503Z" creationid="Olivier" creationdate="20200423T145503Z">
+        <seg>La partie inférieure gauche de l'écran affiche maintenant des détails sur votre unité d'achat et le produit qu'elle transporte.^^Au-dessous de l'image du produit, vous pouvez voir l'identité de couleur du fournisseur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3728,10 +4168,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The products your purchasing unit has ordered should have been delivered to your store by now, and your Purchasing Unit should have started working with your Sales Unit by supplying stock to it.^^Let's take a look at your ~Sales Unit~ by selecting it now.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151202Z" creationid="Olivier" creationdate="20200423T151202Z">
+        <seg>Les produits que votre unité d'achat a commandés devraient déjà avoir été livrés à votre magasin, et votre unité d'achat devrait avoir commencé à travailler avec votre unité de vente en lui fournissant du stock.^^Regardons votre ~unité de vente~ en la sélectionnant maintenant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The stock market allows for stock trading.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150823Z" creationid="Inrepublica" creationdate="20200422T150823Z">
         <seg>Le marché boursier permet la négociation d'actions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The two units are now connected and are going to work with each other.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T145235Z" creationid="Olivier" creationdate="20200423T145235Z">
+        <seg>Les deux unités sont maintenant connectées et vont travailler ensemble.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3760,6 +4216,54 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The ~Clear Stock~ button here, as its name suggests, is for clearing the Sales Unit's product stock.^^This is useful if you have located a better supply of the same product type and you wish to sell the new one as soon as possible.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151347Z" creationid="Olivier" creationdate="20200423T151347Z">
+        <seg>Le bouton ~Enlever stock~, comme son nom l'indique, sert à enlever le stock de produits de l'unité de vente. C'est utile si vous avez trouvé une meilleure offre du même type de produit et que vous souhaitez vendre le nouveau dès que possible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The ~Firm Overview~ screen displays the a summary of the corporation's firms.^^Now select ~Business Relation~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151742Z" creationid="Olivier" creationdate="20200423T151742Z">
+        <seg>L'écran "Vue d'ensemble de l'entreprise" affiche un résumé des entreprises de la société.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The ~Sales Unit~ basically shows the same information as the Purchasing unit.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151228Z" creationid="Olivier" creationdate="20200423T151228Z">
+        <seg>L'unité "Ventes" affiche essentiellement les mêmes informations que l'unité "Achats".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The ~Stop Purchase~ button will do exactly that.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151102Z" creationid="Olivier" creationdate="20200423T151102Z">
+        <seg>Le bouton "Arrêter l'achat" fera exactement cela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The ~Supplier~ button displays information about the existing supplier.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151020Z" creationid="Olivier" creationdate="20200423T151020Z">
+        <seg>Le bouton ~Fournisseur~ affiche des informations sur le fournisseur existant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The ~brown bar~ represents the unit's utilization level.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T150231Z" creationid="Olivier" creationdate="20200423T143040Z">
+        <seg>La ~barre marron~ représente le niveau d'utilisation de l'unité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The ~yellow SUPPLY bar~ indicates the quantity of the product you have in store and the ~orange DEMAND bar~ measures the consumer demand for that product.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T170239Z" creationid="Olivier" creationdate="20200422T170239Z">
@@ -3772,6 +4276,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T123916Z" creationid="Olivier" creationdate="20200423T123916Z">
         <seg>Il y a plusieurs icônes autour de la mini-carte pour passer à différents modes de carte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There are several indicators on the ~Purchasing Unit~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T150149Z" creationid="Olivier" creationdate="20200423T134907Z">
+        <seg>Il existe plusieurs indicateurs dans ~Unité d'achat~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3800,10 +4312,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>These units actually do the real work!</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T134543Z" creationid="Olivier" creationdate="20200423T134543Z">
+        <seg>Ces unités font effectivement un véritable travail !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This adjusts the economy's impact on consumer demand, which affects GDP and in turn affects the volatility of the boom-bust cycle.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203657Z" creationid="Inrepublica" creationdate="20200422T203657Z">
         <seg>Cela permet d'ajuster l'impact de l'économie sur la demande des consommateurs, ce qui affecte le PIB et, par conséquent, la volatilité du cycle d'expansion et d'effondrement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This color is ~gray if the product is imported via a seaport~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T150553Z" creationid="Olivier" creationdate="20200423T145557Z">
+        <seg>Cette couleur est ~grise si le produit est importé via un port maritime~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3896,10 +4424,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is the ~Corporate Summary Report~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151606Z" creationid="Olivier" creationdate="20200423T151606Z">
+        <seg>Ceci est le ~Rapport synthétique de l'entreprise~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is the ~Select a Supplier~ window.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T123254Z" creationid="Olivier" creationdate="20200423T123254Z">
         <seg>Il s'agit de la fenêtre "Sélectionner un fournisseur".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is your basic commerce unit grouping.^^Neither unit has much effect on its own but linked they allow your store to function.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T134706Z" creationid="Olivier" creationdate="20200423T134706Z">
+        <seg>Il s'agit de votre groupement d'unités commerciales de base.^^Les deux unités n'ont pas beaucoup d'effet en soi, mais reliées entre elles, elles permettent à votre magasin de fonctionner.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3916,6 +4460,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T172821Z" creationid="Inrepublica" creationdate="20200422T172821Z">
         <seg>Cela signifie qu'il faut construire plus d'espace commercial et que l'activité immobilière sera plus rentable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This might be one of the reasons why your store is not making as much profit as it should be.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T143306Z" creationid="Olivier" creationdate="20200423T143306Z">
+        <seg>C'est peut-être l'une des raisons pour lesquelles votre magasin ne réalise pas autant de bénéfices qu'il le devrait.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3940,6 +4492,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164958Z" creationid="Inrepublica" creationdate="20200422T164958Z">
         <seg>Cette option limite le nombre maximum d'entreprises de logiciels d'IA et d'Internet dans un jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This screen shows which corporations have been trading with your own.^^Now select ~Financial Overview~ to return to the first screen.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151805Z" creationid="Olivier" creationdate="20200423T151805Z">
+        <seg>Cet écran indique les sociétés qui ont effectué des transactions avec la vôtre.^^Sélectionnez maintenant ~Aperçu financier~ pour revenir au premier écran.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3984,6 +4544,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This time, you are going to do what an experienced retail manager will do -- manually set up a pair of ~Purchasing and Sale Units~ for your retail store.^^~Double click~ an empty unit space on the layout grid now and select ~Purchasing Unit~ from the list.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T150319Z" creationid="Olivier" creationdate="20200423T143510Z">
+        <seg>Cette fois, vous allez faire ce qu'un directeur de vente au détail expérimenté fera : configurer manuellement une paire ~d'unités d'achat et de vente~ pour votre magasin. Double-cliquez sur un espace vide dans la grille de présentation et sélectionnez ~Unité d'achat~ dans la liste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This will make the competition more intense and improve gameplay, especially when playing a MOD game with a large variety of products.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161135Z" creationid="Inrepublica" creationdate="20200422T161135Z">
@@ -4008,6 +4576,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To become a competent business person, you should also learn to digest the information available to you about your corporation and your competitors.^^Click the ~Information icon~ on the bottom toolbar to open the ~Information Center~ screen now.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151540Z" creationid="Olivier" creationdate="20200423T151540Z">
+        <seg>Pour devenir un homme d'affaires compétent, vous devez également apprendre à assimiler les informations dont vous disposez sur votre entreprise et vos concurrents. Cliquez sur l'icône ~Information~ sur la barre d'outils inférieure pour ouvrir l'écran ~Centre d'information~ maintenant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To browse the firms within the filter, use the up and down buttons.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124113Z" creationid="Olivier" creationdate="20200423T124113Z">
@@ -4018,8 +4594,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>To build your first store, click the ~Build~ icon.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T133203Z" creationid="Olivier" creationdate="20200423T133203Z">
-        <seg>Pour construire votre premier magasin, cliquez sur l'icône "Construire".</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T145816Z" creationid="Olivier" creationdate="20200423T133203Z">
+        <seg>Pour construire votre premier magasin, cliquez sur l'icône ~Construire~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4036,6 +4612,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T211836Z" creationid="Olivier" creationdate="20200422T211836Z">
         <seg>Pour cela, il vous suffit de répéter les étapes que vous venez de suivre pour la création de votre premier grand magasin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To understand this better, we will just add a product to the store using the old method you are familiar with.^^Now click the ~Add Product icon~ and choose a product from the supply list.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T134609Z" creationid="Olivier" creationdate="20200423T134609Z">
+        <seg>Pour mieux comprendre cela, nous allons simplement ajouter un produit au magasin en utilisant l'ancienne méthode que vous connaissez. Cliquez maintenant sur l'icône ~Ajouter un produit~ et choisissez un produit dans la liste d'approvisionnement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4130,8 +4714,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>We can now see the ~Layout~ of your store, which is a 3x3 grid of boxes.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T134435Z" creationid="Olivier" creationdate="20200423T134435Z">
-        <seg>Nous pouvons maintenant voir la "mise en page" de votre magasin, qui est une grille de 3x3 carrés.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T145937Z" creationid="Olivier" creationdate="20200423T134435Z">
+        <seg>Nous pouvons maintenant voir la ~mise en page~ de votre magasin, qui est une grille de 3x3 carrés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4172,6 +4756,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T195520Z" creationid="Inrepublica" creationdate="20200422T195520Z">
         <seg>Lorsque le mode Express est activé, une nouvelle interface utilisateur simplifiée sera utilisée pour les magasins de détail, remplaçant la disposition originale 3x3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When this bar reaches its full length, it means that the unit has reached its full capacity and can process no more goods even if there is additional supply and demand.^^Conversely, if the unit is underutilized, its facilities and resources are not used effectively.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T143249Z" creationid="Olivier" creationdate="20200423T143249Z">
+        <seg>Lorsque cette barre arrive à sa longueur complète, cela signifie que l'unité a atteint sa pleine capacité et ne peut plus traiter de marchandises même s'il y a une offre et une demande supplémentaires.^^ Inversement, si l'unité est sous-utilisée, ses installations et ses ressources ne sont pas utilisées efficacement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4324,6 +4916,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T211802Z" creationid="Olivier" creationdate="20200422T211802Z">
         <seg>Vous venez de développer votre entreprise !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have just learned the advanced skills for retail management and how to order the right products that have strong appeals to your customers.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151421Z" creationid="Olivier" creationdate="20200423T151421Z">
+        <seg>Vous venez d'acquérir des compétences avancées en matière de gestion de la vente au détail et de commander les bons produits qui plaisent à vos clients.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have successfully upgraded your store's logistics and added a new product to your store.^^Next, let's have a look at the information available to you regarding the products your store is selling.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T145441Z" creationid="Olivier" creationdate="20200423T145441Z">
+        <seg>Vous avez réussi à améliorer la logistique de votre magasin et à y ajouter un nouveau produit. Ensuite, examinons les informations dont vous disposez concernant les produits que votre magasin vend.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4481,6 +5089,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Your purchasing unit will cease to buy the current product.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151116Z" creationid="Olivier" creationdate="20200423T151116Z">
+        <seg>Votre unité d'achat cessera d'acheter le produit actuel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Your start-up capital</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150122Z" creationid="Inrepublica" creationdate="20200422T150122Z">
@@ -4493,6 +5109,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T123600Z" creationid="Olivier" creationdate="20200422T170135Z">
         <seg>Votre magasin achète automatiquement le produit que vous avez sélectionné dans le port maritime et le met en vente pour vos clients. Regardez à gauche de l'image du produit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your store now has a new ~Purchasing Unit~.^^Proceed to add a ~Sales Unit~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T150349Z" creationid="Olivier" creationdate="20200423T144837Z">
+        <seg>Votre magasin a maintenant une nouvelle ~unité d'achat~. Procédez à l'ajout d'une ~unité de vente~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5835,10 +6459,26 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>~Brands~ can be a very important factor for consumers' purchase decisions, especially for luxury and fashion products.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T150857Z" creationid="Olivier" creationdate="20200423T150857Z">
+        <seg>~Les marques ~ peuvent être un facteur très important dans les décisions d'achat des consommateurs, en particulier pour les produits de luxe et de mode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>~Discount megastores~ can sell anything which makes them very versatile.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T133527Z" creationid="Olivier" creationdate="20200423T133527Z">
-        <seg>Les mégastores discount~ peuvent vendre n'importe quoi, ce qui les rend très polyvalents.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T145851Z" creationid="Olivier" creationdate="20200423T133527Z">
+        <seg>Les ~mégastores discount~ peuvent vendre n'importe quoi, ce qui les rend très polyvalents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~Double click~ an empty unit right next to the Purchasing Unit you have just set up.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T150402Z" creationid="Olivier" creationdate="20200423T144852Z">
+        <seg>~Double-cliquez~ sur une unité vide juste à côté de l'unité d'achat que vous venez de créer.</seg>
       </tuv>
     </tu>
     <tu>
