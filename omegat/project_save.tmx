@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>//-------------------------------------------------------------------//-------------------------------------------------------------------//</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T152101Z" creationid="Olivier" creationdate="20200423T152101Z">
+        <seg>//-------------------------------------------------------------------//-------------------------------------------------------------------//</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>100 is the standard value.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T172604Z" creationid="Inrepublica" creationdate="20200422T172604Z">
@@ -1266,6 +1274,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T122845Z" creationid="Inrepublica" creationdate="20200423T122845Z">
         <seg>Extend Text Box=120,500,450,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Extend Text Box=285,480,350,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T152002Z" creationid="Olivier" creationdate="20200423T152002Z">
+        <seg>Extend Text Box=285,480,350,0</seg>
       </tuv>
     </tu>
     <tu>
@@ -2320,6 +2336,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you double-click the name of another city that city is pinpointed on the world map and the city view on the main screen is updated to show that city.^^Close the World Map view by either clicking the X in the top right of its window, or by clicking the World Map icon on the bottom toolbar.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T152055Z" creationid="Olivier" creationdate="20200423T152055Z">
+        <seg>Si vous double-cliquez sur le nom d'une autre ville, cette ville est localisée sur la carte du monde et la vue de la ville sur l'écran principal est mise à jour pour montrer cette ville. Fermez la vue de la carte du monde soit en cliquant sur le X en haut à droite de sa fenêtre, soit en cliquant sur l'icône de la carte du monde dans la barre d'outils inférieure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you select "Yes", you will be able to access the trade secrets of all AI companies in the game.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T155136Z" creationid="Inrepublica" creationdate="20200422T155136Z">
@@ -3000,6 +3024,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now that you have learned how to build retail stores of different types, as well as how to navigate between cities.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T152234Z" creationid="Olivier" creationdate="20200423T152234Z">
+        <seg>Maintenant que vous avez appris à construire des magasins de détail de différents types, ainsi qu'à naviguer entre les villes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now the display is updated to show from which seaports your department store is receiving the products that you are selling.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124532Z" creationid="Olivier" creationdate="20200423T124532Z">
@@ -3232,6 +3264,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=110,6,137,30</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T152007Z" creationid="Olivier" creationdate="20200423T152007Z">
+        <seg>Pointer=110,6,137,30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=140,31,162,58</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124333Z" creationid="Olivier" creationdate="20200423T124333Z">
@@ -3376,6 +3416,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=4,5,182,18</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T152123Z" creationid="Olivier" creationdate="20200423T152123Z">
+        <seg>Pointer=4,5,182,18</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=43,5,165,20</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T131248Z" creationid="Inrepublica" creationdate="20200423T131248Z">
@@ -3436,6 +3484,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T131259Z" creationid="Inrepublica" creationdate="20200423T131259Z">
         <seg>Pointer=55,262,128,282</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=568,22,578,32</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T152057Z" creationid="Olivier" creationdate="20200423T152057Z">
+        <seg>Pointer=568,22,578,32</seg>
       </tuv>
     </tu>
     <tu>
@@ -4104,6 +4160,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The first way is to open the ~World Map~ by clicking its icon on the bottom toolbar.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T152000Z" creationid="Olivier" creationdate="20200423T152000Z">
+        <seg>La première façon est d'ouvrir la ~Carte du monde~ en cliquant sur son icône dans la barre d'outils inférieure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The greater the quality of your product, the more attractive it is to consumers.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T150649Z" creationid="Olivier" creationdate="20200423T150649Z">
@@ -4176,6 +4240,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The second way to view another city is by using the city selection interface on the ~Mini Map~, as explained in the previous tutorial.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T152121Z" creationid="Olivier" creationdate="20200423T152121Z">
+        <seg>La deuxième façon de visualiser une autre ville est d'utiliser l'interface de sélection de ville sur la ~Mini carte~, comme expliqué dans le tutoriel précédent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The stock market allows for stock trading.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150823Z" creationid="Inrepublica" creationdate="20200422T150823Z">
@@ -4220,6 +4292,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151347Z" creationid="Olivier" creationdate="20200423T151347Z">
         <seg>Le bouton ~Enlever stock~, comme son nom l'indique, sert à enlever le stock de produits de l'unité de vente. C'est utile si vous avez trouvé une meilleure offre du même type de produit et que vous souhaitez vendre le nouveau dès que possible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The ~Corporate Detail Report~ contains a lot of useful information about your corporation.^^Through the extensive menu options, you can glean detailed information about your own corporation and any rival corporation you select.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151905Z" creationid="Olivier" creationdate="20200423T151905Z">
+        <seg>Le ~Rapport détaillé sur les sociétés~ contient de nombreuses informations utiles sur votre société. Grâce aux options de menu étendues, vous pouvez glaner des informations détaillées sur votre propre société et sur toute société concurrente que vous sélectionnez.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4288,6 +4368,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There are two ways to view another city.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151944Z" creationid="Olivier" creationdate="20200423T151944Z">
+        <seg>Il y a deux façons de voir une autre ville.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There is a cap that limits the maximum amount of deposit each depositor can make.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T195449Z" creationid="Inrepublica" creationdate="20200422T195449Z">
@@ -4300,6 +4388,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124325Z" creationid="Olivier" creationdate="20200423T124325Z">
         <seg>Il y a une rangée d'icônes sur la barre d'outils.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There is more than one city in this tutorial.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151919Z" creationid="Olivier" creationdate="20200423T151919Z">
+        <seg>Il y a plus d'une ville dans ce tutoriel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5033,6 +5129,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You should consider expanding your business to other cities, to take advantage of the availabiility of different products or perhaps the absence of strong competition.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151934Z" creationid="Olivier" creationdate="20200423T151934Z">
+        <seg>Vous devriez envisager d'étendre votre activité à d'autres villes, pour profiter de la disponibilité de différents produits ou peut-être de l'absence d'une forte concurrence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You will then learn how to build your first retail store, stock it with products from suppliers, and sell them to consumers to generate incomes.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124952Z" creationid="Olivier" creationdate="20200423T124952Z">
@@ -5085,6 +5189,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T133108Z" creationid="Olivier" creationdate="20200423T133108Z">
         <seg>Vos objectifs dans ce jeu sont d'atteindre un revenu annuel de 50 millions de dollars et un bénéfice annuel de 5 millions de dollars.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your present city will be highlighted on the map when it first opens.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T152024Z" creationid="Olivier" creationdate="20200423T152024Z">
+        <seg>Votre ville actuelle sera mise en évidence sur la carte lors de sa première ouverture.</seg>
       </tuv>
     </tu>
     <tu>
