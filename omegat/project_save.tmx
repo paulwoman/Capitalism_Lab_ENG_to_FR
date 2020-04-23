@@ -502,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Budding Entrepreneur</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T132209Z" creationid="Olivier" creationdate="20200423T132209Z">
+        <seg>Entrepreneur en herbe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Build Firm=Department Store, My Department Store</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202609Z" creationid="Inrepublica" creationdate="20200422T202609Z">
@@ -778,6 +786,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124925Z" creationid="Olivier" creationdate="20200423T124925Z">
         <seg>Description=Dans ce tutoriel, vous serez initié aux bases de l'interface du jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=In this tutorial, you will learn advanced management skills for running a retail store and growing your retail chain by expanding into other cities.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T132718Z" creationid="Olivier" creationdate="20200423T132718Z">
+        <seg>Description=Dans ce tutoriel, vous acquerrez des compétences de gestion avancées pour gérer un magasin et développer votre chaîne de vente au détail en vous développant dans d'autres villes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1436,6 +1452,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T130139Z" creationid="Olivier" creationdate="20200423T130139Z">
         <seg>Goal Description=Réaliser un revenu annuel de 20 millions de dollars pour réaliser ce tutoriel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=Achieve an annual revenue of $50 million and an annual profit of $5 million to complete this tutorial.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T132854Z" creationid="Olivier" creationdate="20200423T132854Z">
+        <seg>Goal Description=Réalisez un revenu annuel de 50 millions de dollars et un profit annuel de 5 millions de dollars pour réaliser ce tutoriel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Tutorial Goal</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T132832Z" creationid="Olivier" creationdate="20200423T132832Z">
+        <seg>Goal Title=Objectif du tutoriel</seg>
       </tuv>
     </tu>
     <tu>
@@ -2148,6 +2180,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T090251Z" creationid="Inrepublica" creationdate="20200422T150048Z">
         <seg>Nombre de villes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of Cities=2</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T132731Z" creationid="Olivier" creationdate="20200423T132731Z">
+        <seg>Number of Cities=2</seg>
       </tuv>
     </tu>
     <tu>
@@ -3128,6 +3168,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title=2.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T132548Z" creationid="Olivier" creationdate="20200423T132548Z">
+        <seg>Title=2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To browse the firms within the filter, use the up and down buttons.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124113Z" creationid="Olivier" creationdate="20200423T124113Z">
@@ -3490,8 +3538,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>You must apply what you have just learned into running your company.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T212056Z" creationid="Olivier" creationdate="20200422T212056Z">
-        <seg>ous devez mettre en pratique ce que vous venez d'apprendre dans la gestion de votre entreprise.
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T131559Z" creationid="Olivier" creationdate="20200422T212056Z">
+        <seg>Vous devez mettre en pratique ce que vous venez d'apprendre dans la gestion de votre entreprise.
 </seg>
       </tuv>
     </tu>
@@ -4269,6 +4317,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202621Z" creationid="Inrepublica" creationdate="20200422T202621Z">
         <seg>[CONDITION]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[ENVIRONMENT]</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T132726Z" creationid="Olivier" creationdate="20200423T132726Z">
+        <seg>[ENVIRONMENT]</seg>
       </tuv>
     </tu>
     <tu>
