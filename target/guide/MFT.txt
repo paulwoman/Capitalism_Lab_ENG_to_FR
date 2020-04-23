@@ -1,0 +1,9 @@
+[Manufacturing Unit]
+~Product Name~
+The type of product that the unit is currently manufacturing.^
+~Product Stock~
+This area shows the stock of the product in the unit. Each box represents one cargo of the product. Each cargo can store a certain number of units of the product.^ 
+~Raw Material Stock~
+The stocks of raw materials are represented by a row of green bars here. The length of each bar indicates the quantity of the raw material stocked in the unit. During a manufacturing process, raw materials must first go into a manufacturing unit and then converted into products. The manufacturing process is suspended whenever any of its required raw materials is lacking. Thus, to have the unit operating at maximum efficiency, you must provide a consistent supply of raw materials.^
+~Utilization~
+This brown bar shows the utilization of the unit. If this bar reaches its full length, the unit has reached its full capacity. It can manufacture no more goods even if there is additional supply and demand. On the other hand, if this bar is short, this indicates that its facilities and resources are not being used effectively. This might contribute to the firm's low profitability.

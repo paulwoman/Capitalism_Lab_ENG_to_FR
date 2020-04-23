@@ -1,0 +1,7 @@
+[Livestock Processing Unit]
+~Product Name~
+The type of livestock product being produced.^
+~Product Stock~
+This area shows the stock of the product in the unit. Each box represents one cargo of the product. Each cargo can store a certain number of units of the product.^ 
+~Livestock Supply and Processing Capacity~
+The yellow bar is the livestock supply bar. The orange one is the processing capacity bar.^^If the livestock supply bar is shorter than the processing capacity bar, this means that the unit is underused and can process more livestock. You could link additional input units to it to exploit its capacity.^^Conversely, if the livestock supply bar is longer than the processing capacity bar, the unit has reached its full capacity and cannot process all livestock sent to it. You could set up a new livestock process unit to lessen the workload of the current one. You could also increase the training budget for the current unit, which would increase the unit's productivity in long term.
