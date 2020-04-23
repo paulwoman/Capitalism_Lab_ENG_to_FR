@@ -2082,8 +2082,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Game difficulty level</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145553Z" creationid="Inrepublica" creationdate="20200422T145553Z">
-        <seg>Niveau de difficulté</seg>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T173113Z" creationid="Inrepublica" creationdate="20200422T145553Z">
+        <seg>Niv. difficulté</seg>
       </tuv>
     </tu>
     <tu>
@@ -6205,6 +6205,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T200338Z" creationid="Inrepublica" creationdate="20200422T200338Z">
         <seg>[0518]Non|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0540]Confirm|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T172933Z" creationid="Inrepublica" creationdate="20200423T172933Z">
+        <seg>[0540]Confirmer|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0541]Cancel|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T172912Z" creationid="Inrepublica" creationdate="20200423T172912Z">
+        <seg>[0541]Annuler|</seg>
       </tuv>
     </tu>
     <tu>
