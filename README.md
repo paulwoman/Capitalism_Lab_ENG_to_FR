@@ -42,10 +42,9 @@ Une fois vos contributions effectuées, cliquez sur Enregistrer et ensuite indiq
 2.1.5 : Sous-dossier "script"
 * tutorial 1 : 95 %
 * tutorial 2 : 95 %
-* tutorial 3 : 0 %
-* tutorial 4 : 0 %
-* tutorial 5 : 0 %
-* tutorial 6 : 0 %
-* tutorial 7 : 0 %
-* tutorial 8 : 0 %
-
+* tutorial 3 : 95 %
+* tutorial 4 : 95 %
+* tutorial 5 : 95 %
+* tutorial 6 : 95 %
+* tutorial 7 : 95 %
+* tutorial 8 : 95 %
