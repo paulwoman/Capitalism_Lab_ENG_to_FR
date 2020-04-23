@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// Your Start-up Capital=&lt;Very Low, Low, Moderate, High, Very High&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T125330Z" creationid="Olivier" creationdate="20200423T125330Z">
+        <seg>// Votre capital de départ=&lt;Très faible, faible, modéré, élevé, très élevé&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>//------------------------------------------------------------------------------------------------//</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124957Z" creationid="Olivier" creationdate="20200423T124957Z">
@@ -2312,6 +2320,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Random Events=Never</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T125353Z" creationid="Olivier" creationdate="20200423T125353Z">
+        <seg>Evènements aléatoires=Jamais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Random Product Reinvention</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T162812Z" creationid="Inrepublica" creationdate="20200422T162812Z">
@@ -3333,6 +3349,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150149Z" creationid="Inrepublica" creationdate="20200422T150149Z">
         <seg>Votre avantage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your Start-up Capital=Very High</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T125219Z" creationid="Olivier" creationdate="20200423T125219Z">
+        <seg>Votre capital de départ=Très élevé</seg>
       </tuv>
     </tu>
     <tu>
