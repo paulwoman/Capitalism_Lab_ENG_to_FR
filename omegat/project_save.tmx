@@ -38,6 +38,118 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// AI Friendly Merger=&lt;On, Off&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151325Z" creationid="Inrepublica" creationdate="20200423T151325Z">
+        <seg>// AI Friendly Merger=&lt;On, Off&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// Competence of Local Competitors=&lt;Very Low, Low, Moderate, High, Very High&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151327Z" creationid="Inrepublica" creationdate="20200423T151327Z">
+        <seg>// Competence of Local Competitors=&lt;Very Low, Low, Moderate, High, Very High&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// Competitor Aggressiveness=&lt;Very Low, Low, Moderate, High, Very High&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151317Z" creationid="Inrepublica" creationdate="20200423T151317Z">
+        <seg>// Competitor Aggressiveness=&lt;Very Low, Low, Moderate, High, Very High&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// Competitor Expertise Level=&lt;None, Low, Moderate, High&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151320Z" creationid="Inrepublica" creationdate="20200423T151320Z">
+        <seg>// Competitor Expertise Level=&lt;None, Low, Moderate, High&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// Competitor Start-up Capital=&lt;Very Low, Low, Moderate, High, Very High&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151313Z" creationid="Inrepublica" creationdate="20200423T151313Z">
+        <seg>// Competitor Start-up Capital=&lt;Very Low, Low, Moderate, High, Very High&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// Constant Import Supply=&lt;Yes,No&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151357Z" creationid="Inrepublica" creationdate="20200423T151357Z">
+        <seg>// Constant Import Supply=&lt;Yes,No&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// Consumer Goods Seaports per City=&lt;0-4&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151350Z" creationid="Inrepublica" creationdate="20200423T151350Z">
+        <seg>// Consumer Goods Seaports per City=&lt;0-4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// Game Starting Year=&lt;1900 to 2100&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151518Z" creationid="Inrepublica" creationdate="20200423T151518Z">
+        <seg>// Game Starting Year=&lt;1900 to 2100&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// Import Quality=&lt;Low,Moderate,High&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151401Z" creationid="Inrepublica" creationdate="20200423T151401Z">
+        <seg>// Import Quality=&lt;Low,Moderate,High&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// Industrial Goods Seaports per City=&lt;0-4&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151352Z" creationid="Inrepublica" creationdate="20200423T151352Z">
+        <seg>// Industrial Goods Seaports per City=&lt;0-4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// Inflation=&lt;Off, On, Inverse&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151243Z" creationid="Inrepublica" creationdate="20200423T151243Z">
+        <seg>// Inflation=&lt;Off, On, Inverse&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// Macro Economy Realism=&lt;Low, High&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151241Z" creationid="Inrepublica" creationdate="20200423T151241Z">
+        <seg>// Macro Economy Realism=&lt;Low, High&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// Number of Competitors=&lt;1 to 30&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151303Z" creationid="Inrepublica" creationdate="20200423T151303Z">
+        <seg>// Number of Competitors=&lt;1 to 30&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// Please note that you may create a game up with no seaport using a game script.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151353Z" creationid="Inrepublica" creationdate="20200423T151353Z">
+        <seg>// Please note that you may create a game up with no seaport using a game script.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// Random Events=&lt;Never, Seldom, Occasional, Frequent&gt;</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151213Z" creationid="Inrepublica" creationdate="20200423T151213Z">
@@ -46,10 +158,50 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// Retail Store Type=&lt;One, Many&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151233Z" creationid="Inrepublica" creationdate="20200423T151233Z">
+        <seg>// Retail Store Type=&lt;One, Many&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// Show Competitor Trade Secrets=&lt;Yes, No&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151323Z" creationid="Inrepublica" creationdate="20200423T151323Z">
+        <seg>// Show Competitor Trade Secrets=&lt;Yes, No&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// Stock Market=&lt;Yes, No&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151239Z" creationid="Inrepublica" creationdate="20200423T151239Z">
+        <seg>// Stock Market=&lt;Yes, No&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// Technology Disruption=&lt;Yes, No&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151235Z" creationid="Inrepublica" creationdate="20200423T151235Z">
+        <seg>// Technology Disruption=&lt;Yes, No&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// You may set the game starting year to any year between 1900 and 2100.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T130131Z" creationid="Olivier" creationdate="20200423T130131Z">
-        <seg>// Vous pouvez fixer l'année de début du jeu à n'importe quelle année entre 1900 et 2100.</seg>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151228Z" creationid="Olivier" creationdate="20200423T130131Z">
+        <seg>// You may set the game starting year to any year between 1900 and 2100.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// You may set the number of competitors to any number between 1 and 30.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151307Z" creationid="Inrepublica" creationdate="20200423T151307Z">
+        <seg>// You may set the number of competitors to any number between 1 and 30.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58,6 +210,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151210Z" creationid="Inrepublica" creationdate="20200423T151210Z">
         <seg>// Your Start-up Capital=&lt;Very Low, Low, Moderate, High, Very High&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// this should only be used if you intend to create a game scenario with such characteristics.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151355Z" creationid="Inrepublica" creationdate="20200423T151355Z">
+        <seg>// this should only be used if you intend to create a game scenario with such characteristics.</seg>
       </tuv>
     </tu>
     <tu>
@@ -82,6 +242,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T172604Z" creationid="Inrepublica" creationdate="20200422T172604Z">
         <seg>100 est la valeur standard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>3x3 Layout</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151451Z" creationid="Inrepublica" creationdate="20200423T151451Z">
+        <seg>3x3 Layout</seg>
       </tuv>
     </tu>
     <tu>
@@ -234,6 +402,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T152420Z" creationid="Inrepublica" creationdate="20200422T152420Z">
         <seg>Fusion amicale d'IA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AI Friendly Merger=Off</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151324Z" creationid="Inrepublica" creationdate="20200423T151324Z">
+        <seg>AI Friendly Merger=Off</seg>
       </tuv>
     </tu>
     <tu>
@@ -558,6 +734,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>But the AI companies¡¯ performances will suffer and</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151354Z" creationid="Inrepublica" creationdate="20200423T151354Z">
+        <seg>But the AI companies¡¯ performances will suffer and</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Buy Land</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151429Z" creationid="Inrepublica" creationdate="20200423T151429Z">
+        <seg>Buy Land</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CHALCONF</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160054Z" creationid="Inrepublica" creationdate="20200422T160054Z">
@@ -670,6 +862,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>City=Dallas</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151520Z" creationid="Inrepublica" creationdate="20200423T151520Z">
+        <seg>City=Dallas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City=Melbourne</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151259Z" creationid="Inrepublica" creationdate="20200423T151259Z">
+        <seg>City=Melbourne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City=Philadelphia</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151258Z" creationid="Inrepublica" creationdate="20200423T151258Z">
+        <seg>City=Philadelphia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the ~Add Product icon~, then choose ~Seaport~ from the supplier list, and select a product to add to your store.^^This time, make sure that you select a different product than the one already on sale in your store.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T170748Z" creationid="Olivier" creationdate="20200422T170748Z">
@@ -718,10 +934,42 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Competence of Local Competitors=Very Low</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151326Z" creationid="Inrepublica" creationdate="20200423T151326Z">
+        <seg>Competence of Local Competitors=Very Low</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Competence of local competitors</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T155819Z" creationid="Inrepublica" creationdate="20200422T155819Z">
         <seg>Compétence de la concurence locale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Competitor Aggressiveness=Low</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151315Z" creationid="Inrepublica" creationdate="20200423T151315Z">
+        <seg>Competitor Aggressiveness=Low</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Competitor Expertise Level=None</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151319Z" creationid="Inrepublica" creationdate="20200423T151319Z">
+        <seg>Competitor Expertise Level=None</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Competitor Start-up Capital=Low</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151309Z" creationid="Inrepublica" creationdate="20200423T151309Z">
+        <seg>Competitor Start-up Capital=Low</seg>
       </tuv>
     </tu>
     <tu>
@@ -742,6 +990,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Constant Import Supply=Yes</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151356Z" creationid="Inrepublica" creationdate="20200423T151356Z">
+        <seg>Constant Import Supply=Yes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Constant import supply</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160407Z" creationid="Inrepublica" creationdate="20200422T160407Z">
@@ -754,6 +1010,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160419Z" creationid="Inrepublica" creationdate="20200422T160419Z">
         <seg>L'importation constante évite de devoir chercher de nouveaux fournisseurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Consumer Goods Seaports=3</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151349Z" creationid="Inrepublica" creationdate="20200423T151349Z">
+        <seg>Consumer Goods Seaports=3</seg>
       </tuv>
     </tu>
     <tu>
@@ -1034,6 +1298,134 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T131231Z" creationid="Inrepublica" creationdate="20200423T131231Z">
         <seg>Firm product count=My Department Store, 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm, Apartment</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151447Z" creationid="Inrepublica" creationdate="20200423T151447Z">
+        <seg>Firm, Apartment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm, Civic Building</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151449Z" creationid="Inrepublica" creationdate="20200423T151449Z">
+        <seg>Firm, Civic Building</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm, Commercial Building</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151448Z" creationid="Inrepublica" creationdate="20200423T151448Z">
+        <seg>Firm, Commercial Building</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm, Factory</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151434Z" creationid="Inrepublica" creationdate="20200423T151434Z">
+        <seg>Firm, Factory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm, Farm</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151432Z" creationid="Inrepublica" creationdate="20200423T151432Z">
+        <seg>Firm, Farm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm, Headquarters</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151442Z" creationid="Inrepublica" creationdate="20200423T151442Z">
+        <seg>Firm, Headquarters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm, Logging Camp</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151435Z" creationid="Inrepublica" creationdate="20200423T151435Z">
+        <seg>Firm, Logging Camp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm, Mansion</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151443Z" creationid="Inrepublica" creationdate="20200423T151443Z">
+        <seg>Firm, Mansion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm, Mine</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151437Z" creationid="Inrepublica" creationdate="20200423T151437Z">
+        <seg>Firm, Mine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm, Newspaper Publisher</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151440Z" creationid="Inrepublica" creationdate="20200423T151440Z">
+        <seg>Firm, Newspaper Publisher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm, Oil Well</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151438Z" creationid="Inrepublica" creationdate="20200423T151438Z">
+        <seg>Firm, Oil Well</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm, R&amp;D Center</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151431Z" creationid="Inrepublica" creationdate="20200423T151431Z">
+        <seg>Firm, R&amp;D Center</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm, Radio Station</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151441Z" creationid="Inrepublica" creationdate="20200423T151441Z">
+        <seg>Firm, Radio Station</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm, Sports Facilities</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151450Z" creationid="Inrepublica" creationdate="20200423T151450Z">
+        <seg>Firm, Sports Facilities</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm, TV Station</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151439Z" creationid="Inrepublica" creationdate="20200423T151439Z">
+        <seg>Firm, TV Station</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm, Warehouse</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151433Z" creationid="Inrepublica" creationdate="20200423T151433Z">
+        <seg>Firm, Warehouse</seg>
       </tuv>
     </tu>
     <tu>
@@ -1464,6 +1856,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Game Starting Year=1900</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151245Z" creationid="Inrepublica" creationdate="20200423T151245Z">
+        <seg>Game Starting Year=1900</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Game console companies run by AI will have higher initial capital.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164704Z" creationid="Inrepublica" creationdate="20200422T164704Z">
@@ -1524,6 +1924,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T123649Z" creationid="Olivier" creationdate="20200423T123649Z">
         <seg>Bien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hide, Minimap</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151452Z" creationid="Inrepublica" creationdate="20200423T151452Z">
+        <seg>Hide, Minimap</seg>
       </tuv>
     </tu>
     <tu>
@@ -1808,6 +2216,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Import Quality=High</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151400Z" creationid="Inrepublica" creationdate="20200423T151400Z">
+        <seg>Import Quality=High</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Import quality</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160437Z" creationid="Inrepublica" creationdate="20200422T160437Z">
@@ -1848,6 +2264,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Industrial Goods Seaports=3</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151351Z" creationid="Inrepublica" creationdate="20200423T151351Z">
+        <seg>Industrial Goods Seaports=3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Inflation</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T152930Z" creationid="Inrepublica" creationdate="20200422T152930Z">
@@ -1868,6 +2292,134 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T152510Z" creationid="Inrepublica" creationdate="20200422T152510Z">
         <seg>L'inflation est activée lorsque cette option est activée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inflation=Off</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151242Z" creationid="Inrepublica" creationdate="20200423T151242Z">
+        <seg>Inflation=Off</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Information Center, Billionaires 100</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151417Z" creationid="Inrepublica" creationdate="20200423T151417Z">
+        <seg>Information Center, Billionaires 100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Information Center, Cities</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151425Z" creationid="Inrepublica" creationdate="20200423T151425Z">
+        <seg>Information Center, Cities</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Information Center, Corporate Details</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151404Z" creationid="Inrepublica" creationdate="20200423T151404Z">
+        <seg>Information Center, Corporate Details</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Information Center, Farmer Guide</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151423Z" creationid="Inrepublica" creationdate="20200423T151423Z">
+        <seg>Information Center, Farmer Guide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Information Center, Financial Actions</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151426Z" creationid="Inrepublica" creationdate="20200423T151426Z">
+        <seg>Information Center, Financial Actions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Information Center, Financials</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151411Z" creationid="Inrepublica" creationdate="20200423T151411Z">
+        <seg>Information Center, Financials</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Information Center, Firms</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151409Z" creationid="Inrepublica" creationdate="20200423T151409Z">
+        <seg>Information Center, Firms</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Information Center, Manager Guide</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151424Z" creationid="Inrepublica" creationdate="20200423T151424Z">
+        <seg>Information Center, Manager Guide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Information Center, Manufacturer Guide</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151421Z" creationid="Inrepublica" creationdate="20200423T151421Z">
+        <seg>Information Center, Manufacturer Guide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Information Center, Persons</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151413Z" creationid="Inrepublica" creationdate="20200423T151413Z">
+        <seg>Information Center, Persons</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Information Center, Product Details</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151406Z" creationid="Inrepublica" creationdate="20200423T151406Z">
+        <seg>Information Center, Product Details</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Information Center, Products</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151403Z" creationid="Inrepublica" creationdate="20200423T151403Z">
+        <seg>Information Center, Products</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Information Center, Score</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151414Z" creationid="Inrepublica" creationdate="20200423T151414Z">
+        <seg>Information Center, Score</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Information Center, Stock Market</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151427Z" creationid="Inrepublica" creationdate="20200423T151427Z">
+        <seg>Information Center, Stock Market</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Information Center, The Economy</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151425Z" creationid="Inrepublica" creationdate="20200423T151425Z">
+        <seg>Information Center, The Economy</seg>
       </tuv>
     </tu>
     <tu>
@@ -2096,6 +2648,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Macro Economy Realism=Low</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151240Z" creationid="Inrepublica" creationdate="20200423T151240Z">
+        <seg>Macro Economy Realism=Low</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Male</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160106Z" creationid="Inrepublica" creationdate="20200422T160106Z">
@@ -2304,6 +2864,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Number of Competitors=3</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151302Z" creationid="Inrepublica" creationdate="20200423T151302Z">
+        <seg>Number of Competitors=3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number of seaports Importing Consumer Goods per City</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T155954Z" creationid="Inrepublica" creationdate="20200422T155954Z">
@@ -2404,6 +2972,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150054Z" creationid="Inrepublica" creationdate="20200422T150054Z">
         <seg>Jouez avec une ou plusieurs villes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player Company Annual Revenue=20</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151458Z" creationid="Inrepublica" creationdate="20200423T151458Z">
+        <seg>Player Company Annual Revenue=20</seg>
       </tuv>
     </tu>
     <tu>
@@ -2704,10 +3280,34 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Retail Management</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151515Z" creationid="Inrepublica" creationdate="20200423T151515Z">
+        <seg>Retail Management</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Retail Store Floors</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T162114Z" creationid="Inrepublica" creationdate="20200422T162114Z">
         <seg>Etages des magasins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Retail Store Type=Many</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151519Z" creationid="Inrepublica" creationdate="20200423T151519Z">
+        <seg>Retail Store Type=Many</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Retail Store Type=One</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151231Z" creationid="Inrepublica" creationdate="20200423T151231Z">
+        <seg>Retail Store Type=One</seg>
       </tuv>
     </tu>
     <tu>
@@ -2760,6 +3360,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Score change=50</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151500Z" creationid="Inrepublica" creationdate="20200423T151500Z">
+        <seg>Score change=50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See the vertical yellow and orange bars?</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T170202Z" creationid="Olivier" creationdate="20200422T170202Z">
@@ -2808,6 +3416,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Show Competitor Trade Secrets=Yes</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151322Z" creationid="Inrepublica" creationdate="20200423T151322Z">
+        <seg>Show Competitor Trade Secrets=Yes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Show competitors' trade secrets</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T155125Z" creationid="Inrepublica" creationdate="20200422T155125Z">
@@ -2840,6 +3456,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Stock Market=No</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151238Z" creationid="Inrepublica" creationdate="20200423T151238Z">
+        <seg>Stock Market=No</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Strict Money Supply</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203920Z" creationid="Inrepublica" creationdate="20200422T203920Z">
@@ -2868,6 +3492,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T151908Z" creationid="Inrepublica" creationdate="20200422T151908Z">
         <seg>Technologie disruptive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Technology Disruption=Off</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151234Z" creationid="Inrepublica" creationdate="20200423T151234Z">
+        <seg>Technology Disruption=Off</seg>
       </tuv>
     </tu>
     <tu>
@@ -3384,6 +4016,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Tutorial=TUT01</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151503Z" creationid="Inrepublica" creationdate="20200423T151503Z">
+        <seg>Tutorial=TUT01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use the Male and Female icons (located below the arrow icons) to switch the gender of the portraits.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T165414Z" creationid="Inrepublica" creationdate="20200422T165414Z">
@@ -3765,6 +4405,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150149Z" creationid="Inrepublica" creationdate="20200422T150149Z">
         <seg>Votre avantage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your Start-up Capital=High</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151517Z" creationid="Inrepublica" creationdate="20200423T151517Z">
+        <seg>Your Start-up Capital=High</seg>
       </tuv>
     </tu>
     <tu>
@@ -4513,6 +5161,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[CITIES]</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151257Z" creationid="Inrepublica" creationdate="20200423T151257Z">
+        <seg>[CITIES]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[COMPETITORS]</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151301Z" creationid="Inrepublica" creationdate="20200423T151301Z">
+        <seg>[COMPETITORS]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[CONDITION]</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202621Z" creationid="Inrepublica" creationdate="20200422T202621Z">
@@ -4537,6 +5201,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[IMPORTS]</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151347Z" creationid="Inrepublica" creationdate="20200423T151347Z">
+        <seg>[IMPORTS]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[LNGD]%2j{January|February|March|April|May|June|July|August|September|October|November|December} %1d, %3,4d</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T112247Z" creationid="Inrepublica" creationdate="20200422T112247Z">
@@ -4545,10 +5217,42 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[LOCKS]</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151402Z" creationid="Inrepublica" creationdate="20200423T151402Z">
+        <seg>[LOCKS]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Livestock Raising Unit]</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T064431Z" creationid="Inrepublica" creationdate="20200423T064431Z">
         <seg>[Livestock Raising Unit]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MAIN GOAL REWARDS]</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151459Z" creationid="Inrepublica" creationdate="20200423T151459Z">
+        <seg>[MAIN GOAL REWARDS]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MAIN GOAL VALUES]</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151458Z" creationid="Inrepublica" creationdate="20200423T151458Z">
+        <seg>[MAIN GOAL VALUES]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MAIN GOAL]</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151455Z" creationid="Inrepublica" creationdate="20200423T151455Z">
+        <seg>[MAIN GOAL]</seg>
       </tuv>
     </tu>
     <tu>
@@ -5063,6 +5767,14 @@ While we were exploring the interfaces, your department store was already genera
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T211255Z" creationid="Olivier" creationdate="20200422T211255Z">
         <seg>[TEXT] 
 Pendant que nous explorions les interfaces, votre grand magasin générait déjà des revenus. Regardez les "chiffres de trésorerie et de bénéfices" sur la barre d'outils.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[TUTORIAL]</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151502Z" creationid="Inrepublica" creationdate="20200423T151502Z">
+        <seg>[TUTORIAL]</seg>
       </tuv>
     </tu>
     <tu>
