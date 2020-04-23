@@ -1296,6 +1296,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Good.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T123649Z" creationid="Olivier" creationdate="20200423T123649Z">
+        <seg>Bien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hide=Minimap and Filter</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202557Z" creationid="Inrepublica" creationdate="20200422T202557Z">
@@ -1668,6 +1676,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T211404Z" creationid="Olivier" creationdate="20200422T211404Z">
         <seg>Cela semble être dans les limites de votre budget, alors continuons.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It shows the amount of cash your corporation currently has and its operating profit in the past 12 months.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T123715Z" creationid="Olivier" creationdate="20200423T123715Z">
+        <seg>Elle indique le montant des liquidités dont dispose actuellement votre société et son bénéfice d'exploitation au cours des 12 derniers mois.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2400,6 +2416,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The animated rectangle frame on the mini map represents the area displayed in the city view.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T123902Z" creationid="Olivier" creationdate="20200423T123902Z">
+        <seg>Le rectangle animé sur la mini-carte représente la zone affichée dans la vue de la ville.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The bank regulation stipulates that deposits should be not concentrated on a small number of large depositors.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T195422Z" creationid="Inrepublica" creationdate="20200422T195422Z">
@@ -2432,6 +2456,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The first icon, the one that looks like a building, toggles the ~Ownership~ mode.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T123930Z" creationid="Olivier" creationdate="20200423T123930Z">
+        <seg>La première icône, celle qui ressemble à un bâtiment, fait basculer le mode "propriété".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The initial prices of the global stocks are loaded from a database.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203801Z" creationid="Inrepublica" creationdate="20200422T203801Z">
@@ -2452,6 +2484,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202908Z" creationid="Inrepublica" creationdate="20200422T202908Z">
         <seg>Le montant maximum des obligations qu'une société peut émettre est limité à un multiple de sa capitalisation, qui est fixée ici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The mini map shows the entire city.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T123847Z" creationid="Olivier" creationdate="20200423T123847Z">
+        <seg>La mini carte montre la ville entière.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2500,6 +2540,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T170239Z" creationid="Olivier" creationdate="20200422T170239Z">
         <seg>La barre jaune APPROVISIONNEMENT indique la quantité de produit que vous avez en magasin et la barre orange de DEMANDE mesure la demande du consommateur pour ce produit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There are several icons around the mini map for switching to different map modes.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T123916Z" creationid="Olivier" creationdate="20200423T123916Z">
+        <seg>Il y a plusieurs icônes autour de la mini-carte pour passer à différents modes de carte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2800,6 +2848,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Well done!</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T123643Z" creationid="Olivier" creationdate="20200423T123643Z">
+        <seg>Très bien !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Well now it is your chance to find that out.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T211054Z" creationid="Olivier" creationdate="20200422T211054Z">
@@ -2916,6 +2972,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T211005Z" creationid="Olivier" creationdate="20200422T211005Z">
         <seg>Vous pouvez annuler ce mode en cliquant à nouveau sur le bouton "Mes entreprises".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can see the current game date here.^^Note that the game runs in real time.You may change the game speed using the shortcut keys ~'1' (slowest) to '5' (fastest)~.^^You may also pause the game by pressing the ~key '0'~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T123820Z" creationid="Olivier" creationdate="20200423T123820Z">
+        <seg>Vous pouvez modifier la vitesse du jeu en utilisant les touches de raccourci " 1 " (le plus lent) à "5 " (le plus rapide). Vous pouvez également mettre le jeu en pause en appuyant sur la touche "0". </seg>
       </tuv>
     </tu>
     <tu>
