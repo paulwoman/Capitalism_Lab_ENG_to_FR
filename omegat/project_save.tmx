@@ -5801,6 +5801,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0166]&lt;LE_O&gt;Cannot open the save game file|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T152658Z" creationid="Inrepublica" creationdate="20200423T152658Z">
+        <seg>[0166]&lt;LE_O&gt;Ne peut ouvrir la sauvegarde|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0167]&lt;LE_H&gt;Cannot read file header|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T152720Z" creationid="Inrepublica" creationdate="20200423T152720Z">
+        <seg>[0167]&lt;LE_H&gt;Ne peux lire l'en-tête du fichier|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0300]&lt;#?L0&gt;#r - ranking of players|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T200031Z" creationid="Inrepublica" creationdate="20200422T200031Z">
