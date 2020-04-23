@@ -782,6 +782,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Extend Text Box=450,50,300,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T122626Z" creationid="Inrepublica" creationdate="20200423T122626Z">
+        <seg>Extend Text Box=450,50,300,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Feature: Bank</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203036Z" creationid="Inrepublica" creationdate="20200422T203036Z">
@@ -1984,10 +1992,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=44,31,67,56</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T122632Z" creationid="Inrepublica" creationdate="20200423T122632Z">
+        <seg>Pointer=44,31,67,56</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=60,120,165,230</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202627Z" creationid="Inrepublica" creationdate="20200422T202627Z">
         <seg>Pointer=60,120,165,230</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=9,33,32,57</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T122627Z" creationid="Inrepublica" creationdate="20200423T122627Z">
+        <seg>Pointer=9,33,32,57</seg>
       </tuv>
     </tu>
     <tu>
@@ -2756,6 +2780,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164254Z" creationid="Inrepublica" creationdate="20200422T164254Z">
         <seg>Les sociétés techs d'IA vont faire leur introduction en bourse?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Window=Minimap</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T122628Z" creationid="Inrepublica" creationdate="20200423T122628Z">
+        <seg>Window=Minimap</seg>
       </tuv>
     </tu>
     <tu>
