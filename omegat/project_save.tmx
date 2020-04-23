@@ -1238,6 +1238,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=You have built a flourishing business empire.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T205913Z" creationid="Olivier" creationdate="20200423T205913Z">
+        <seg>Description=Vous avez construit un empire commercial florissant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=You realize that your products can only sell well when consumers are aware of them.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T205541Z" creationid="Olivier" creationdate="20200423T205541Z">
@@ -2141,6 +2149,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T205804Z" creationid="Olivier" creationdate="20200423T205804Z">
         <seg>Vous gagnez ce tutoriel lorsque vous dominez le marché de l'habillement tout en réalisant un bénéfice annuel d'au moins 2 millions de dollars.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=You win this tutorial game when your company's stock price increases to $100.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T210033Z" creationid="Olivier" creationdate="20200423T210033Z">
+        <seg>Goal Description=Vous gagnez ce tutoriel lorsque le cours de l'action de votre entreprise passe à 100 dollars.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3157,6 +3173,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T212122Z" creationid="Olivier" creationdate="20200422T212122Z">
         <seg>Maintenant, allez ajouter des produits à votre nouveau grand magasin et faites croître votre entreprise !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now it is time to take it to the next level by getting it listed as a public company on the Stock Exchange.^^You will learn how to raise funds by making new shares offerings to the public to finance your business expansion, and make long term investments by buying shares of other companies with promising growth prospects.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T205949Z" creationid="Olivier" creationdate="20200423T205949Z">
+        <seg>Il est maintenant temps de passer à l'étape suivante en la faisant coter en bourse en tant que société publique.^^ Vous apprendrez comment lever des fonds en faisant de nouvelles offres d'actions au public pour financer l'expansion de votre entreprise, et faire des investissements à long terme en achetant des actions d'autres sociétés aux perspectives de croissance prometteuses.</seg>
       </tuv>
     </tu>
     <tu>
