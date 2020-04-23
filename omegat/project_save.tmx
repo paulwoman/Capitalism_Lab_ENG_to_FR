@@ -5945,6 +5945,30 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0274]&lt;GOAW&gt;You will be victorious when you have:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T163917Z" creationid="Inrepublica" creationdate="20200423T163917Z">
+        <seg>[0274]&lt;GOAW&gt;Vous serez victorieux quand vous aurez fait:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0286]&lt;IPXL&gt;Join a local area network game|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T164020Z" creationid="Inrepublica" creationdate="20200423T164020Z">
+        <seg>[0286]&lt;IPXL&gt;Rejoindre une partie locale|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0287]&lt;TCPL&gt;Join a local area network or Internet game|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T164048Z" creationid="Inrepublica" creationdate="20200423T164048Z">
+        <seg>[0287]&lt;TCPL&gt;Rejoindre une partie locale ou internet|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0300]&lt;#?L0&gt;#r - ranking of players|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T200031Z" creationid="Inrepublica" creationdate="20200422T200031Z">
