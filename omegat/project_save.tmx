@@ -1576,6 +1576,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In this mode, buildings represented by ~green dots are profitable~ whereas buildings shown in ~red dots are losing money~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124030Z" creationid="Olivier" creationdate="20200423T124030Z">
+        <seg>Dans ce mode, les bâtiments représentés par les points verts sont rentables alors que les bâtiments représentés par les ~points rouges perdent de l'argent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Increase the variety of products in your store and make use of the available slots.^^Repeat what you did just now.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T170547Z" creationid="Olivier" creationdate="20200422T170547Z">
@@ -1896,6 +1904,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now click the ~Land Value~ icon to change to that mode.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T123940Z" creationid="Olivier" creationdate="20200423T123940Z">
+        <seg>Cliquez maintenant sur l'icône "Valeur du terrain" pour passer à ce mode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now click the ~Profit~ icon to change to that mode.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124005Z" creationid="Olivier" creationdate="20200423T124005Z">
+        <seg>Cliquez maintenant sur l'icône "Profit" pour passer à ce mode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now go and add products to your new department store and grow your business!</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T212122Z" creationid="Olivier" creationdate="20200422T212122Z">
@@ -1916,6 +1940,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T165515Z" creationid="Olivier" creationdate="20200422T165515Z">
         <seg>Cliquez maintenant sur le bouton gauche de la souris pour en voir le détail.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now we are going to have a quick look at the ~Building Filter~ interface.^^The filter interface has five selection buttons labelled ~Firm~, ~Corp.~, ~This City~, ~My Firms~ and ~Product~.^^When any of these filters are enabled, only firms within the filter will be shown on the mini map at ~Profit~ or ~Ownership~ mode.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124059Z" creationid="Olivier" creationdate="20200423T124059Z">
+        <seg>Nous allons maintenant jeter un coup d'œil rapide à l'interface du "Filtre de construction".L'interface du filtre comporte cinq boutons de sélection intitulés "Firme", "Compagnie", "Cette ville", "Mes entreprises" et "Produit". Lorsque l'un de ces filtres est activé, seules les entreprises du filtre seront affichées sur la mini-carte en mode "Profit" ou "Propriété".</seg>
       </tuv>
     </tu>
     <tu>
@@ -2068,6 +2100,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T122841Z" creationid="Inrepublica" creationdate="20200423T122841Z">
         <seg>Pointer=156,6,183,30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=200,40,353,57</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124202Z" creationid="Olivier" creationdate="20200423T124202Z">
+        <seg>Pointer=200,40,353,57</seg>
       </tuv>
     </tu>
     <tu>
@@ -2408,6 +2448,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Text Box=32,270,300,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124147Z" creationid="Olivier" creationdate="20200423T124147Z">
+        <seg>Text Box=32,270,300,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Text Box=32,420,300,0</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202625Z" creationid="Inrepublica" creationdate="20200422T202625Z">
@@ -2484,6 +2532,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202908Z" creationid="Inrepublica" creationdate="20200422T202908Z">
         <seg>Le montant maximum des obligations qu'une société peut émettre est limité à un multiple de sa capitalisation, qui est fixée ici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The mini map display changes to show Land Value data.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T123954Z" creationid="Olivier" creationdate="20200423T123954Z">
+        <seg>L'affichage de la mini-carte change pour montrer les données sur la valeur des terres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2756,6 +2812,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161135Z" creationid="Inrepublica" creationdate="20200422T161135Z">
         <seg>Cela rendra la compétition plus intense et améliorera le gameplay, en particulier lorsque vous jouez avec un MOD d'une grande variété de produits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To browse the firms within the filter, use the up and down buttons.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124113Z" creationid="Olivier" creationdate="20200423T124113Z">
+        <seg>Pour parcourir les entreprises dans le filtre, utilisez les boutons haut et bas.</seg>
       </tuv>
     </tu>
     <tu>
