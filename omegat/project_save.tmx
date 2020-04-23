@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As your corporation currently only has one firm - your department store, only one dot in your corporate color is shown.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124431Z" creationid="Olivier" creationdate="20200423T124431Z">
+        <seg>Comme votre société n'a actuellement qu'une seule entreprise - votre grand magasin, seul un point à la couleur de votre entreprise est affiché.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>At this stage you don't need to concern yourself with the information provided with each product (freight costs, ratings, brand and other information will explained in a later tutorial).^^For now, let's just purchase the first product on the list to get things moving.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T170000Z" creationid="Olivier" creationdate="20200422T170000Z">
@@ -590,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click the ~My Firms~ button and the mini map display changes to show only ambient buildings and the firms you own.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124416Z" creationid="Olivier" creationdate="20200423T124416Z">
+        <seg>Cliquez sur le bouton "Mes entreprises" et l'affichage de la mini-carte change pour ne montrer que les bâtiments environnants et les entreprises que vous possédez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the ~SELECT~ button now.^^</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T170036Z" creationid="Olivier" creationdate="20200422T170036Z">
@@ -706,6 +722,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T195645Z" creationid="Inrepublica" creationdate="20200422T195645Z">
         <seg>Ville développée au départ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Did you wonder which seaports are supplying products to your department store?</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124458Z" creationid="Olivier" creationdate="20200423T124458Z">
+        <seg>Vous êtes-vous demandé quels ports maritimes fournissent des produits à votre grand magasin ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1944,6 +1968,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now the display is updated to show from which seaports your department store is receiving the products that you are selling.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124532Z" creationid="Olivier" creationdate="20200423T124532Z">
+        <seg>L'affichage est maintenant mis à jour pour indiquer les ports maritimes à partir desquels votre grand magasin reçoit les produits que vous vendez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now we are going to have a quick look at the ~Building Filter~ interface.^^The filter interface has five selection buttons labelled ~Firm~, ~Corp.~, ~This City~, ~My Firms~ and ~Product~.^^When any of these filters are enabled, only firms within the filter will be shown on the mini map at ~Profit~ or ~Ownership~ mode.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124059Z" creationid="Olivier" creationdate="20200423T124059Z">
@@ -2096,6 +2128,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=140,31,162,58</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124333Z" creationid="Olivier" creationdate="20200423T124333Z">
+        <seg>Pointer=140,31,162,58</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=156,6,183,30</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T122841Z" creationid="Inrepublica" creationdate="20200423T122841Z">
@@ -2108,6 +2148,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124202Z" creationid="Olivier" creationdate="20200423T124202Z">
         <seg>Pointer=200,40,353,57</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=38,121,55,238</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124236Z" creationid="Olivier" creationdate="20200423T124236Z">
+        <seg>Pointer=38,121,55,238</seg>
       </tuv>
     </tu>
     <tu>
@@ -2464,6 +2512,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Text Box=40,270,350,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124229Z" creationid="Olivier" creationdate="20200423T124229Z">
+        <seg>Text Box=40,270,350,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The animated rectangle frame on the mini map represents the area displayed in the city view.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T123902Z" creationid="Olivier" creationdate="20200423T123902Z">
@@ -2612,6 +2668,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T195449Z" creationid="Inrepublica" creationdate="20200422T195449Z">
         <seg>Il existe un plafond qui limite le montant maximum de dépôt que chaque client peut effectuer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There is a row of icons on the toolbar.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124325Z" creationid="Olivier" creationdate="20200423T124325Z">
+        <seg>Il y a une rangée d'icônes sur la barre d'outils.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3020,6 +3084,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T195947Z" creationid="Inrepublica" creationdate="20200422T195947Z">
         <seg>Grâce à une norme d'évaluation de crédit souple, toutes les entreprises bénéficieront de meilleures notations de crédit et de frais d'intérêts obligataires moins élevés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With the display still only showing your department store (as a colored square), click the ~Business Relationship~ mode icon.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124518Z" creationid="Olivier" creationdate="20200423T124518Z">
+        <seg>L'écran n'affichant toujours que votre grand magasin (sous la forme d'un carré coloré), cliquez sur l'icône du mode "Relations d'affaires"..</seg>
       </tuv>
     </tu>
     <tu>
