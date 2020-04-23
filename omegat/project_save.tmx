@@ -38,10 +38,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// Random Events=&lt;Never, Seldom, Occasional, Frequent&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151213Z" creationid="Inrepublica" creationdate="20200423T151213Z">
+        <seg>// Random Events=&lt;Never, Seldom, Occasional, Frequent&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// You may set the game starting year to any year between 1900 and 2100.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T130131Z" creationid="Olivier" creationdate="20200423T130131Z">
         <seg>// Vous pouvez fixer l'année de début du jeu à n'importe quelle année entre 1900 et 2100.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// Your Start-up Capital=&lt;Very Low, Low, Moderate, High, Very High&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151210Z" creationid="Inrepublica" creationdate="20200423T151210Z">
+        <seg>// Your Start-up Capital=&lt;Very Low, Low, Moderate, High, Very High&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2648,6 +2664,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Random Events=Never</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151211Z" creationid="Inrepublica" creationdate="20200423T151211Z">
+        <seg>Random Events=Never</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Random Product Reinvention</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T162812Z" creationid="Inrepublica" creationdate="20200422T162812Z">
@@ -3741,6 +3765,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150149Z" creationid="Inrepublica" creationdate="20200422T150149Z">
         <seg>Votre avantage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your Start-up Capital=Very High</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151204Z" creationid="Inrepublica" creationdate="20200423T151204Z">
+        <seg>Your Start-up Capital=Very High</seg>
       </tuv>
     </tu>
     <tu>
