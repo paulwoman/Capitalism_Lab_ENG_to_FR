@@ -958,6 +958,16 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GM_DIFF
+Game difficulty level
+Choose one of eight pre-set difficulty levels.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T070111Z" creationid="Olivier" creationdate="20200423T070111Z">
+        <seg>Choisissez l'un des huit niveaux de difficulté prédéfinis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GM_DONPP</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T172359Z" creationid="Inrepublica" creationdate="20200422T172359Z">
