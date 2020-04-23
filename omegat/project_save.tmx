@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A new department store costs $1,000,000 to build, plus the cost of the land, and a further $100,000 per month to operate.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124555Z" creationid="Olivier" creationdate="20200423T124555Z">
+        <seg>Un nouveau grand magasin coûte 1 000 000 $ pour sa construction, plus le coût du terrain, et 100 000 $ supplémentaires par mois pour son fonctionnement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>AI Acquires Private Companies</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164141Z" creationid="Inrepublica" creationdate="20200422T164141Z">
@@ -594,6 +602,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T170748Z" creationid="Olivier" creationdate="20200422T170748Z">
         <seg>Cliquez sur l'icône "Ajouter un produit", puis choisissez "Port maritime" dans la liste des fournisseurs et sélectionnez un produit à ajouter à votre magasin. Cette fois, assurez-vous de sélectionner un produit différent de celui qui est déjà en vente dans votre magasin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the ~Build Menu~ icon on the ~Game Tools Menu~ at the top-left of the screen.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124623Z" creationid="Olivier" creationdate="20200423T124623Z">
+        <seg>Cliquez sur l'icône "Menu de construction" dans le "Menu des outils de jeu" en haut à gauche de l'écran.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the ~Goal~ option.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124727Z" creationid="Olivier" creationdate="20200423T124727Z">
+        <seg>Cliquez sur l'option "Objectifs".</seg>
       </tuv>
     </tu>
     <tu>
@@ -1928,6 +1952,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now choose ~Retail Store~ from the menu.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124636Z" creationid="Olivier" creationdate="20200423T124636Z">
+        <seg>Choisissez maintenant "Magasin de détail" dans le menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now click the ~Land Value~ icon to change to that mode.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T123940Z" creationid="Olivier" creationdate="20200423T123940Z">
@@ -3056,6 +3088,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>While we were exploring the interfaces, your department store was already generating revenue.^^Take a look at the ~cash and profit figures~ on the toolbar.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124546Z" creationid="Olivier" creationdate="20200423T124546Z">
+        <seg>Pendant que nous explorions les interfaces, votre grand magasin générait déjà des revenus. Regardez les "chiffres de trésorerie et de bénéfices" sur la barre d'outils.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Will AI tech companies go IPO?</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164254Z" creationid="Inrepublica" creationdate="20200422T164254Z">
@@ -3249,10 +3289,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You win this game when your company's annual revenue reaches $20 million.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124710Z" creationid="Olivier" creationdate="20200423T124710Z">
+        <seg>Vous gagnez ce jeu lorsque le chiffre d'affaires annuel de votre entreprise atteint 20 millions de dollars.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Your Advantage</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150149Z" creationid="Inrepublica" creationdate="20200422T150149Z">
         <seg>Votre avantage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your cursor now highlights a square on the city.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124651Z" creationid="Olivier" creationdate="20200423T124651Z">
+        <seg>Votre curseur met maintenant en évidence une place sur la ville.</seg>
       </tuv>
     </tu>
     <tu>
