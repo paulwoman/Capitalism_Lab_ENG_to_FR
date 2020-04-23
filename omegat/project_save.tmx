@@ -5913,6 +5913,38 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0196]&lt;ASRS&gt;Do you really want to restart?|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T163731Z" creationid="Inrepublica" creationdate="20200423T163731Z">
+        <seg>[0196]&lt;ASRS&gt;Voulez-vous vraiment redémarrer?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0241]&lt;CHEA&gt;Cheat Mode Enabled.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T163744Z" creationid="Inrepublica" creationdate="20200423T163744Z">
+        <seg>[0241]&lt;CHEA&gt;Mode triche activé.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0257]&lt;SVSU&gt;Game Saved Successfully|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T163824Z" creationid="Inrepublica" creationdate="20200423T163824Z">
+        <seg>[0257]&lt;SVSU&gt;Partie sauvegardée avec succès|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0258]&lt;WAIT&gt;Waiting for %1s %2s|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T163837Z" creationid="Inrepublica" creationdate="20200423T163837Z">
+        <seg>[0258]&lt;WAIT&gt;En attente pour %1s %2s|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0300]&lt;#?L0&gt;#r - ranking of players|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T200031Z" creationid="Inrepublica" creationdate="20200422T200031Z">
