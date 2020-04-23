@@ -5873,6 +5873,46 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0175]&lt;LOBC&gt;Cannot get connection string from lobby|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T163437Z" creationid="Inrepublica" creationdate="20200423T163437Z">
+        <seg>[0175]&lt;LOBC&gt;Impossible d'obtenir la chaîne de connexion du lobby|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0186]&lt;STAY&gt;Do you want to continue to stay in the game?|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T163449Z" creationid="Inrepublica" creationdate="20200423T163449Z">
+        <seg>[0186]&lt;STAY&gt;Voulez-vous restez dans le jeu?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0188]&lt;RSTT&gt;Restart Game|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T163505Z" creationid="Inrepublica" creationdate="20200423T163505Z">
+        <seg>[0188]&lt;RSTT&gt;Redémarrer une partie|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0189]&lt;RETI&gt;Retire|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T163606Z" creationid="Inrepublica" creationdate="20200423T163606Z">
+        <seg>[0189]&lt;RETI&gt;Se retirer|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0190]&lt;RETR&gt;Retreat|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T163636Z" creationid="Inrepublica" creationdate="20200423T163636Z">
+        <seg>[0190]&lt;RETR&gt;Battre en retraite|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0300]&lt;#?L0&gt;#r - ranking of players|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T200031Z" creationid="Inrepublica" creationdate="20200422T200031Z">
