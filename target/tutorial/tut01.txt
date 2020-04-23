@@ -15,7 +15,7 @@ Hide=Preview
 //-------------------------------------------------------------------//
 
 [TEXT]
-Vous avez obtenu un MBA d'une école de commerce renommée. Pouvez-vous appliquer ce que vous avez appris à la gestion d'une entreprise dans le monde réel ? C'est maintenant votre chance de prouver votre capacité ! Cliquez sur l'icône clignotante Suivant pour continuer. Vous pouvez également appuyer sur la touche ~Enter~ pour continuer lorsque l'icône Suivant clignote. 
+Vous avez obtenu un MBA d'une école de commerce renommée.  Pouvez-vous appliquer ce que vous avez appris à la gestion d'une entreprise dans le monde réel ? C'est maintenant votre chance de prouver votre capacité ! Cliquez sur l'icône clignotante Suivant pour continuer. Vous pouvez également appuyer sur la touche ~Enter~ pour continuer lorsque l'icône Suivant clignote. 
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -40,7 +40,7 @@ Current Firm=My Department Store
 //-------------------------------------------------------------------//
 
 [TEXT]
-Cliquer sur l'icône "Ajouter un produit" maintenant. 
+Cick the ~Add Product icon~ now. 
 
 [POS]
 Text Box=32,420,300,0
@@ -153,7 +153,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Vous pouvez modifier la vitesse du jeu en utilisant les touches de raccourci ~'1' (le plus lent) à '5' (le plus rapide)~.^^Vous pouvez également mettre le jeu en pause en appuyant sur la touche ~'0'~.  
+Vous pouvez modifier la vitesse du jeu en utilisant les touches de raccourci " 1 " (le plus lent) à "5 " (le plus rapide). Vous pouvez également mettre le jeu en pause en appuyant sur la touche "0".   
 
 [POS]
 Flex Text Box=80,500,400,0
@@ -185,7 +185,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Le rectangle animé sur la mini-carte représente la zone affichée dans la vue de la ville.. 
+Le rectangle animé sur la mini-carte représente la zone affichée dans la vue de la ville. 
 
 [POS]
 Extend Text Box=450,50,300,0
@@ -313,7 +313,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-L'écran n'affichant toujours que votre grand magasin (sous la forme d'un carré coloré), cliquez sur l'icône du mode "Relations d'affaires".
+L'écran n'affichant toujours que votre grand magasin (sous la forme d'un carré coloré), cliquez sur l'icône du mode "Relations d'affaires"..
 
 [POS]
 Extend Text Box=450,100,300,0
@@ -371,7 +371,7 @@ Pointer=52,61,235,75
 //-------------------------------------------------------------------//
 
 [TEXT]
-Et choisissez " Grand magasin ".
+And choose ~Department Store~.
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -411,7 +411,7 @@ Window=Bottom Toolbar
 //-------------------------------------------------------------------//
 
 [TEXT]
-Cliquez sur l'option "Objectifs"~.
+Cliquez sur l'option "Objectifs".
 
 [POS]
 Flex Text Box=150,280,250,0
@@ -420,7 +420,7 @@ Pointer=38,68,122,78
 //-------------------------------------------------------------------//
 
 [TEXT]
-Très bien ! Vous avez terminé ce tutoriel. ous devez mettre en pratique ce que vous venez d'apprendre dans la gestion de votre entreprise.
+Très bien ! Vous avez terminé ce tutoriel. Vous devez mettre en pratique ce que vous venez d'apprendre dans la gestion de votre entreprise.
  Maintenant, allez ajouter des produits à votre nouveau grand magasin et faites croître votre entreprise ! 
 
 [POS]

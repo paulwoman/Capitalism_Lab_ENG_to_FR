@@ -1,16 +1,16 @@
-[LNGD]%2j{January|February|March|April|May|June|July|August|September|October|November|December} %1d, %3,4d
-[SHRD]%2j{Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec} %1d, %3,4d
-[MON1]January
-[MON2]February
-[MON3]March
-[MON4]April
-[MON5]May
-[MON6]June
-[MON7]July
-[MON8]August
-[MON9]September
-[MONA]October
-[MONB]November
-[MONC]December
+[LNGD]%2j{Janvier|Février|Mars|Avril|Mai|Juin|Juillet|Août|Septembre|Octobre|Novembre|Décembre} %1d, %3,4d
+[SHRD]%2j{Jan|Fev|Mar|Avr|Mai|Jun|Jul|Aou|Sep|Oct|Nov|Dec} %1d, %3,4d
+[MON1]Janvier
+[MON2]Février
+[MON3]Mars
+[MON4]Avril
+[MON5]Mai
+[MON6]Juin
+[MON7]Juillet
+[MON8]Août
+[MON9]Septembre
+[MONA]Octrobre
+[MONB]Novembre
+[MONC]Décembre
 [BOX1]Ok
-[BOX2]Cancel
+[BOX2]Annulez

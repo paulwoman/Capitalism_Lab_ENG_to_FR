@@ -1,6 +1,6 @@
 [HEADER]
-Title=1. Budding Entrepreneur 
-Description=In this tutorial, you will be introduced to the basics of the game's interface. You will then learn how to build your first retail store, stock it with products from suppliers, and sell them to consumers to generate incomes. 
+Title=1. Entrepreneur en herbe 
+Description=Dans ce tutoriel, vous serez initié aux bases de l'interface du jeu. Vous apprendrez ensuite comment construire votre premier magasin de détail, l'approvisionner avec les produits des fournisseurs et les vendre aux consommateurs pour générer des revenus. 
 
 //------------------------------------------------------------------------------------------------//
 
@@ -128,8 +128,8 @@ Hide, Minimap
 //------------------------------------------------------------------------------------------------//
 
 [MAIN GOAL]
-Goal Title=Tutorial Goal
-Goal Description=Achieve an annual revenue of $20 million to complete this tutorial. 
+Goal Title=Objectif du tutoriel
+Goal Description=Réaliser un revenu annuel de 20 millions de dollars pour réaliser ce tutoriel. 
 
 [MAIN GOAL VALUES]
 Player Company Annual Revenue=20
