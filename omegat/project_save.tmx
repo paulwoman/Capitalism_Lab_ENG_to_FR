@@ -5857,6 +5857,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0172]&lt;SE_G&gt;Error writing save game data.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T163136Z" creationid="Inrepublica" creationdate="20200423T163136Z">
+        <seg>[0172]&lt;SE_G&gt;Erreur pendant la sauvegarde des données du jeu.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0174]&lt;LOB?&gt;Cannot connect to lobby|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T163354Z" creationid="Inrepublica" creationdate="20200423T163354Z">
+        <seg>[0174]&lt;LOB?&gt;impossible de se connecter au lobby|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0300]&lt;#?L0&gt;#r - ranking of players|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T200031Z" creationid="Inrepublica" creationdate="20200422T200031Z">
