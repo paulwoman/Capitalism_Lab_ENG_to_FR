@@ -9,9 +9,13 @@ Tout d'abord faites une demande d'ajout dans les contributeurs. Pour cela merci 
 Ensuite dans OmegaT cliquez sur Projet -> Télécharger projet en équipe:
 ![tuto01](https://i.ibb.co/DKPgLcw/cap-trad-01.png)
 
-Dans URL du référentiel mettre: https://github.com/inrepublica/Capitalism_Lab_ENG_to_FR/
+Remplir URL avec: https://github.com/inrepublica/Capitalism_Lab_ENG_to_FR/
+Et choisissez un dossier local pour la synchronisation.
 
-Dans dossier Nouveau dossier du projet local choisissez un dossier sur votre PC.
+Attention a bien régler les options de OmegaT comme ceci:
+![tuto02](https://i.ibb.co/6vJXQ96/cap-trad-02.png)
+
+En particulier attention au paramètre "segmenter le texte source en paragraphe sur:". Il faut bien choisir fin de lignes.
 
 Une fois vos contributions effectuées, cliquez sur Enregistrer et ensuite indiquez votre nom d'utilisateur et votre mot de passe github.
 
