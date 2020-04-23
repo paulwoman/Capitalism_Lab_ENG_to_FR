@@ -1,41 +1,41 @@
 [0001]<VERS>Version %1s|
-[0011]<QUIT>Quitter|
-[0012]<TRAN>Entraînement|
-[0017]<CANC>Annuler|r
-[0019]<NEWP>Nouveau Joueur|
-[0020]<DELP>Supprimez|
-[0021]<SELP>Continuer|
-[0022]Svp sélectionner votre nom dans la liste|<PRF1>
-[0023]Si votre nom n’apparaît pas, cliquez sur "Nouveau Joueur" ci-dessous|<PRF2>
-[0024]<PRFN>Svp entrez votre nom|
-[0025]<PRFD>Etes-vous certain de vouloir supprimer cette personne de la liste?|
-[0026]<PRDY>Oui|
-[0027]<PRDN>Non|
-[0028]<PRED>Un profile identique est déjà présent|
-[0029]<PREI>Erreur pendant la création du répertoire %1s|
-[0030]<PREC>Erreur pendant la création du profile|
-[0038]<NAH_>Humain|
-[0040]<DIFF>Niveau de difficulté|
-[0092]<RNDE>Evènement Aléatoire|
-[0118]L'hôte vous refuse|<RFU0>
-[0119]Ne peut rejoindre une nouvelle session|<RFU1>
-[0120]Ne peut rejoindre une session de partie sauvegardée|<RFU2>
-[0121]Vous ne pouvez rejoindre une partie car la sauvegarde est différente|<RFU3>
-[0122]Vous ne pouvez rejoindre car vous utilisez une version différente|<RFU4>
-[0123]Vous ne pouvez rejoindre car la partie est pleine|<RFU5>
-[0148]<SV_G>Sauvegarder|
-[0149]<0SAV>Vous n'avez pas encore sauvegardé.|
-[0150]<SAVE>Sauvegarder|
-[0152]<LOAD>Charger|
-[0154]<EMGS>Emplacement libre|
+[0011]<QUIT>Quit|
+[0012]<TRAN>Training|
+[0017]<CANC>Cancel|
+[0019]<NEWP>New Player|
+[0020]<DELP>Delete|
+[0021]<SELP>Continue|
+[0022]<PRF1>Please select your name from this list|
+[0023]<PRF2>If your name is not here, click on "New Player" below|
+[0024]<PRFN>Please enter your name|
+[0025]<PRFD>Are you Certain that you wish to delete this person from the list?|
+[0026]<PRDY>Yes|
+[0027]<PRDN>No|
+[0028]<PRED>Same profile has already been created|
+[0029]<PREI>Error creating %1s directory|
+[0030]<PREC>Error creating profile|
+[0038]<NAH_>Human|
+[0040]<DIFF>Difficulty Level|
+[0092]<RNDE>Random Events|
+[0118]<RFU0>The host refuses you|
+[0119]<RFU1>Cannot join a new game session|
+[0120]<RFU2>Cannot join a load game session|
+[0121]<RFU3>You cannot join the game because the save game is different from the host|
+[0122]<RFU4>You cannot join the game because the host does not accept your game version|
+[0123]<RFU5>You cannot join the game because the session is full|
+[0148]<SV_G>Save Game|
+[0149]<0SAV>You haven't saved any games yet.|
+[0150]<SAVE>Save|
+[0152]<LOAD>Load|
+[0154]<EMGS>Empty Game Slot|
 [0155]<PAGE>page %1d/%2d|
-[0156]<-DSL>Impossible d'effacer cet emplacement|
-[0158]<GDAT>Date jeux: |
-[0159]<FDAT>Date fichier: |
-[0160]<FNAM>Nom fichier: |
-[0161]<AOVW>Cela va supprimer la sauvegarde existante. Procéder ?|
+[0156]<-DSL>Cannot delete this slot|
+[0158]<GDAT>Game date: |
+[0159]<FDAT>File date: |
+[0160]<FNAM>File name: |
+[0161]<AOVW>It will overwrite the existing save game. Proceed ?|
 [0162]<SE-L>Cannot load in scenario editor|
-[0163]<ADLS>This save game will be deleted. Procéder ?|
+[0163]<ADLS>This save game will be deleted. Proceed ?|
 [0164]<DESV>Description of the save game:|
 [0165]<OUTD>Insufficient disk space ! The game is not saved.|
 [0166]<LE_O>Cannot open the save game file|
@@ -62,16 +62,16 @@
 [0289]<COML>Join with another player linked by serial cable|
 [0298]<PRFL>Warning: This will delete all information in your multiplayer lobby account that is linked to this player profile.|
 [0299]<#rL0>%1s %2s : P:%3d M:%4d E:%5d R:%6d FB:%7d Total:%8d|
-[0300]<#?L0>#r - classement des joueurs|
-[0301]<#?L1>#? - aide|
+[0300]<#?L0>#r - ranking of players|
+[0301]<#?L1>#? - help|
 [0322]<ENVI>ENVIRONMENT|
 [0323]<CMPT>COMPETITORS|
 [0324]<IMPT>PRODUCTS|
 [0325]<GOAL>GOALS|
-[0326]<CITY>Nombre de villes|
-[0327]<SCAP>Votre capital de départ|
-[0329]<ALLS>Bourse|
-[0341]<NCOM>Nombre de compétiteurs|
+[0326]<CITY>Number of Cities|
+[0327]<SCAP>Your Start-up Capital|
+[0329]<ALLS>Stock Market|
+[0341]<NCOM>Number of Competitors|
 [0342]<CCAP>Competitor Start-up Capital|
 [0343]<CAGG>AI Expansion Aggressiveness|
 [0344]<COML>AI Expertise Level|
@@ -80,27 +80,27 @@
 [0348]<CSEA>Seaports Importing Consumer Goods per City|
 [0349]<ISEA>Seaports Importing Industrial Goods per City|
 [0351]<ISUP>Constant Import Supply|
-[0352]<IQUA>Qualité des importations|
+[0352]<IQUA>Import Quality|
 [0460]<CCTI>Macro Economy Realism|
 [0462]<DSMI>Retail Store Type|
-[0463]Souvent|<DSM1>
-[0464]Un|<DSM2>
-[0467]<GSYI>Année de départ|
+[0463]<DSM1>Many|
+[0464]<DSM2>One|
+[0467]<GSYI>Game Starting Year|
 [0504]<AIG1>Grand strategy failed, cannot find location to build.|
 [0505]<GP41>Declare Bankruptcy, ARE YOU SURE ?|
-[0506]Oui|<GP42>
-[0507]Non|<GP43>
+[0506]<GP42>Yes|
+[0507]<GP43>No|
 [0508]<IGM1>Do you really want to retire?|
-[0509]Oui|<IGM2>
-[0510]non|<IGM3>
+[0509]<IGM2>Yes|
+[0510]<IGM3>No|
 [0511]<IGM4>Do you really want to quit to the Main Menu?|
-[0512]Oui|<IGM5>
-[0513]Non|<IGM6>
+[0512]<IGM5>Yes|
+[0513]<IGM6>No|
 [0514]<IGM7>Do you really want to quit to Windows?|
-[0515]Oui|<IGM8>
-[0516]Non|<IGM9>
-[0517]Oui|<PR31>
-[0518]Non|<PR32>
+[0515]<IGM8>Yes|
+[0516]<IGM9>No|
+[0517]<PR31>Yes|
+[0518]<PR32>No|
 [0519]<PLB1>The plan will replace the existing layout of the current firm. Proceed?|
 [0520]<PLB2>Delete the current plan, confirm ?|
 [0521]<PLB3>Replace the current plan with the highlighted firm's plan, confirm ?|
@@ -126,15 +126,15 @@
 [0558]<FIN6>Employment Policy|
 [0559]<FIN7>Cannot purchase the stock|
 [0560]<FIN8>Issue New Shares|
-[0561]OK|<FIN9>
+[0561]<FIN9>OK|
 [0562]<FMN1>Mansion Demolish|
 [0564]<FM21>Change Group Manager|
 [0567]<GAM1>GOAL|
 [0568]<GME1>Lost Ownership|
 [0569]<GP21>Stock Exchange News|
 [0570]<JMF1>Upgrade Production Technology|
-[0571]Oui|<JMF2>
-[0572]Non|<JMF3>
+[0571]<JMF2>Yes|
+[0572]<JMF3>No|
 [0573]<NGO1>Cannot purchase the mansion|
 [0574]<NGO2>Cannot purchase the firm|
 [0575]<NGO3>Cannot purchase the technology|
@@ -145,21 +145,21 @@
 [0580]<SK21>Stock Exchange News|
 [0581]<SK51>Tender Offer|
 [0582]<SYD1>CHEAT ENABLE|
-[0583]Sauvegarder Jeux|<SYF1>
+[0583]<SYF1>Save Game|
 [0584]<AIG0>Diversified|
 [0585]<AIG1>Retail Focused|
 [0586]<AIG2>Stock Focused|
 [0587]<AIG3>Real Estate Focused|
-[0588]Tous|<AIS0>
+[0588]<AIS0>All|
 [0589]<AIS1>Retail|
 [0590]<AIS2>Stock|
 [0591]<AIS3>Real Estate|
 [0592]<CET1>Sowing Month|
 [0593]<CET2>Harvesting Month|
 [0606]<DIJ1>Supplier|
-[0607]Ville|<DIJ2>
+[0607]<DIJ2>City|
 [0608]<DIJ3>Distance|
-[0609]Prix|<DIJ4>
+[0609]<DIJ4>Price|
 [0610]<DIJ5>Freight Cost|
 [0611]<DIJ6>Supply|
 [0612]<DIJ7>Demand|
@@ -170,7 +170,7 @@
 [0617]<DI12>SELECT SUPPLIER|
 [0619]<DI14>Select Building Location|
 [0620]<DI15>Cancel|
-[0621]Ok|<DI16>
+[0621]<DI16>Ok|
 [0622]<DI17>CLIENT LIST|
 [0624]<DI19>SELECT ADVERTISING MEDIA|
 [0625]<DI20>Go to Media|
@@ -390,7 +390,7 @@
 [0899]<A401>Stock Overview|
 [0900]<A402>Business Relations|
 [0901]<A403>Firm Overview|
-[0902]<0110>Acheter|
+[0902]<0110>Buy|
 [0903]<0111>Overview|
 [0904]<0112>Firms|
 [0905]<0113>Products|
@@ -490,10 +490,10 @@
 [1072]<0229>Total Assets|
 [1073]<0230>Total Loans|
 [1074]<0231>Stock Asset|
-[1075]<0231>Non. of Years of Operation|
+[1075]<0231>No. of Years of Operation|
 [1076]<0232>No. of Employees|
-[1077]<0233>Non. of Product Classes|
-[1078]<0234>Non. of Product Types|
+[1077]<0233>No. of Product Classes|
+[1078]<0234>No. of Product Types|
 [1079]<0235>Return on Equity|
 [1080]<0236>Return on Total Assets|
 [1081]<0237>Dividend Yield|
@@ -504,8 +504,8 @@
 [1086]<0242>Assets Turnover|
 [1087]<0243>Equity-to-Assets Ratio|
 [1088]<0244>Researching new product|
-[1089]<0245>années|
-[1090]<0246>ans|
+[1089]<0245>years|
+[1090]<0246>year|
 [1091]<0247>units|
 [1092]<0248>unit|
 [1093]<0249>Public Shareholders|
@@ -516,8 +516,8 @@
 [1100]<0256>Dividend Yield|
 [1102]<0257>Annual Return|
 [1104]<0259>Merger|
-[1105]<0260>Achat|
-[1106]<0261>Vente|
+[1105]<0260>Buy|
+[1106]<0261>Sell|
 [1107]<0262>Price    P/E    Owned%  Stock Value|
 [1108]<0263>Stock Price|
 [1109]<0264>Total Shares|
@@ -587,8 +587,8 @@
 [1201]<A802>Moderate|
 [1202]<A803>Plentiful|
 [1203]<0348>Warm, Cool or Cold|
-[1235]<0349>Non. of Employees|
-[1236]<0350>Non. of Units|
+[1235]<0349>No. of Employees|
+[1236]<0350>No. of Units|
 [1237]<0351>Average Unit Level|
 [1238]<0352>Average Utilization|
 [1239]<0353>Who manages this firm?|

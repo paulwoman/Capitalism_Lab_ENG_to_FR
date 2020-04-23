@@ -201,7 +201,7 @@ Unit Exists=4, Purchasing
 //-------------------------------------------------------------------//
 
 [TEXT]
-Well done! Your store now has a new ~Purchasing Unit~.^^Proceed to add a ~Sales Unit~. ~Double click~ an empty unit right next to the Purchasing Unit you have just set up.
+Très bien ! Your store now has a new ~Purchasing Unit~.^^Proceed to add a ~Sales Unit~. ~Double click~ an empty unit right next to the Purchasing Unit you have just set up.
 
 [POS]
 Text Box=32,250,350,0
@@ -391,7 +391,7 @@ Firm product count=My megastore, 3
 //-------------------------------------------------------------------//
 
 [TEXT]
-Well done! To become a competent business person, you should also learn to digest the information available to you about your corporation and your competitors.^^Click the ~Information icon~ on the bottom toolbar to open the ~Information Center~ screen now.
+Très bien ! To become a competent business person, you should also learn to digest the information available to you about your corporation and your competitors.^^Click the ~Information icon~ on the bottom toolbar to open the ~Information Center~ screen now.
 
 [POS]
 Extend Text Box=36,600,700,0

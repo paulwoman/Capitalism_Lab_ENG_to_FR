@@ -1,368 +1,368 @@
 GM_DIFF
-Niveau de difficulté
-Choisissez l'un des huit niveaux de difficulté prédéfinis. Vous pouvez également personnaliser ou laisser le hasard définir les paramètres de jeu
+Game difficulty level
+Choose one of eight pre-set difficulty levels. You may also Customize or Randomize the game settings
 ~
 GM_NOC
-Nombre de ville
-Jouez avec une ou plusieurs villes.
+Number of Cities
+Play with single or multiple cities.
 ~
 GM_SUC
-Votre capital de départ
-Réglez le niveau de trésorerie de votre société au début de la partie.
+Your start-up capital
+Set the level of cash your corporation has at the beginning of the game.
 ~
 GM_ADV
-Votre avantage
+Your Advantage
 `
 ~
 GM_ASI
-Marché boursier
-Le marché boursier permet la négociation d'actions. 
+Stock Market
+The stock market allows for stock trading. 
 ~
 GM_CUST
-Personnalisation du produit
-Si cette option est activée, vous trouverez l'outil de personnalisation du produit dans le Guide du fabricant. (L'option "de perturbation de la technologie" est désactivée lorsque "Personnalisation du produit" est activé.)
+Product Customization
+If this is set to On, you will find the Product Customization tool in the Manufacturer's Guide. ("Technology Disruption" option is disabled when "Product Customization" is enabled.)
 ~
 GM_CUSTR
-Personnalisation du produit par gamme
-Bas - La personnalisation des produits s'applique à votre société uniquement; Moyen - il applique à votre société et à vos filiales; Haute - il applique à toutes les sociétés. 
+Product Customization Range
+Low - product customization applies to your company only; Medium - it applies to your company and your subsidiaries; High - it applies to all companies. 
 ~
 GM_PRI
-Société privée (Subsidiary DLC)
-Si cette option est activée, votre société va commencer comme une entreprise privée.  
+Private Company (Subsidiary DLC)
+If this is set to On, your company will start as a private company.  
 ~
 GM_SUE
-Marché boursier alternatif  
-Si ce paramètre est réglé sur Oui, 1) le cours des actions n'est pas affectés par la situation économique actuelle, et 2) la négociation d'actions entre la société du joueur et ses filiales est interdite, ceci rend plus difficile la spéculation. 
+Alternative Stock Sim 
+If this is set to Yes, 1) stock prices are unaffected by the current economic state, and 2) stock trading between the player's company and its subsidiaries is prohibited, thus making it harder to speculate stocks for quick profits. 
 ~
 GM_RE
-Evénements aléatoires
-Autorise les événements comme des fléaux, maladies animales et pannes de courant géante et leurs conséquences économiques.
+Random Events
+Allow such occurences as plagues, animal disease and power black-outs and their economic consequences.
 ~
 GM_TEC
-Technologie disruptive
-Si elle est activée, la disruption de technologie se produit en permanence et toutes les technos diminuent de 10% chaque année. 
+Technology Disruption
+If it is set to On, technology disruption occurs constantly and all technology variables decrease by 10% every year. 
 ~
 GM_FM
-Fusion amicale d'IA 
-Si elle est activée, deux sociétés d'IA peuvent fusionner pour des conditions mutuellement avantageuses.
+AI Friendly Merger 
+If it is set to On, two AI corporations may merge with each other on mutually beneficial terms.
 ~
 GM_MER
-Macro économie réaliste 
-Si elle est au plus élevé, la macro économie dans le jeu sera simulé avec un haut niveau de réalisme.
+Macro Economy Realism 
+If it is set to High, the macro economy in the game will be simulated with a high level of realism.
 ~
 GM_INF
 Inflation 
-L'inflation est activée lorsque cette option est activée. Si elle est définie à inflation inverse, les montants sont ajustés en fonction du pouvoir d'achat net. 
+Inflation is enabled when this option is set to On. Si elle est définie à inflation inverse, les montants sont ajustés en fonction du pouvoir d'achat net. 
 ~
 GM_INFS
-Niveau de l'inflation 
-Sélectionnez inflation réduite pour une moins forte inflation. En tant que telle, l'inflation sera supprimée artificiellement. 
+Inflation Strength 
+Select Reduced Inflation Strength if you prefer less strong inflation. En tant que telle, l'inflation sera supprimée artificiellement. 
 ~
 GM_RST
-Type de magasin
-Choisissez «nombreux» pour permettre les magasins spécialisés, tels que les supermarchés, les magasins de meubles, etc., ou 'Un seul' pour avoir seulement les grands magasins. 
+Retail store type
+Choose 'Many' to allow specialist stores, such as supermarkets, furniture stores etc., or 'One' to have only department stores. 
 ~
 GM_GSY
-Date de départ
-Définir une date ultérieure réduit le nombre de technologies que vous devrez rechercher avant que de les fabriquer. 
+Game starting year
+If you set it to a later year, there will be fewer types of technology that you have to research, as some of them will be already available when the game starts. 
 ~
 GM_NOCO
-Nombre de compétiteurs IA
-Détermine le nombre de compétiteurs contre lesquels vous allez jouer.
+Number of AI Competitors
+This determines the number of AI controlled corporations.
 ~
 GM_CSC
-Capital de démarrage des concurrents
-Détermine les réserves de liquidités initiales des sociétés rivales. Il y aura des sociétés IA centrées sur l'immobilier, les médias et la technologie si cette dernière est fixée à un niveau élevé ou supérieur.  
+Competitors' Start-up Capital
+This determines the sizes of start-up capital of AI controlled corporations. Il y aura des sociétés IA centrées sur l'immobilier, les médias et la technologie si cette dernière est fixée à un niveau élevé ou supérieur.  
 ~
 GM_CA
-Agressivité des concurrents
-Détermine l'agressivité économique des sociétés rivales. 
+AI Expansion Aggressiveness
+This determines how aggressive AI companies are in pursuing business expansions. 
 ~
 GM_CEL
-Niveau d'expertise des IA
-Détermine la compétence des personnes IA.  
+AI Expertise Level
+This determines the expertise levels of AI persons in the game.  
 ~
 GM_CTS
-Montrer les secrets commerciaux des concurents
-Si vous selectionnez oui, vous verrez le niveau de technologie des concurents. 
+Show competitors' trade secrets
+If you select "Yes", you will be able to access the trade secrets of all AI companies in the game. 
 ~
 GM_CLC
-Compétence de la concurence locale
-Détermine le niveau de la concurence locale - leurs capacités générales à vendre des produits de haute qualité à des prix compétitifs. 
+Competence of local competitors
+It determines the competence of local competitors - their general capabilities to sell high quality products at competitive prices. 
 ~
 GM_NOSC
-Nombre de port important des produits de consomation par ville
-Un grand nombre de port améliore la disponibilité des produits de consommation a vendre dans vos magasins (Réduit le besoin de fabriquer des produits). 
+Number of seaports Importing Consumer Goods per City
+A high number of consumer seaports increases the availability of consumer goods which companies may import and sell at retail. 
 ~
 GM_NOSI
-Nombre de port important des produits industriels par ville
-Un grand nombre de port améliore la disponibilité des produits industriels.
+Number of seaports Importing Industrial Goods per City
+A high number of industrial seaports increases the availability of manufacturing materials.
 ~
 GM_SN
-Nouveau Port pendant le jeu
-Autorise la création de nouveaux ports.
+New seaports Emerge during the game
+Choose to allow the creation of new import sources.
 ~
 GM_SCI
-Importation de marchandise constante
-L'importation constante évite de devoir chercher de nouveaux fournisseurs.
+Constant import supply
+Constant supplies ease the problems of stockpiling products and the search for alternative supplies.
 ~
 GM_SIQ
-Qualité des importations
-Les produits de qualité médiocre offrent la possibilité aux jeunes fabricants locaux de rivaliser. Les produits de haute qualité offrent au consommateur une perspective commerciale plus attrayante.
+Import quality
+Low quality products offer the chance for fledgling local manufacturers to compete. Les produits de haute qualité offrent au consommateur une perspective commerciale plus attrayante.
 ~
 CHALCONF
-Vous devez confirmer avant d'envoyer ce Défi à d'autres joueurs.
+You must confirm this before sending this Challenge Game to other players.
 Vous pouvez commencer le jeu d'abord, puis ajuster le défi et les paramètres des objectifs au besoin, et enfin les confirmer. 
 ~ 
 CHALHOW
-Page Web "Comment Faire" 
-Lance un navigateur Web et ouvre la page Web avec des instructions sur la façon de configurer un défi privé.
+How-to web page 
+Launch a web browser and open the web page with instructions on how to set up a private challenge game.
 ~
 GENDER_M
-Mâle 
+Male 
 `
 ~
 GENDER_F
-Femelle 
+Female 
 `
 ~
 GM_RDI1
-Désactivation aléatoire des classes de produits
-Lorsque vous cochez cette case, le système désactive aléatoirement un pourcentage spécifique de classes de produits dans le nouveau jeu. 
+Randomly disable product classes
+When you select this check box, the system will randomly disable a specific percentage of product classes in the new game. 
 ~
 GM_RDI2
-Pourcentage des classes de produits à désactiver
-Définissez le pourcentage de classes de produits à désactiver. Cela rendra la compétition plus intense et améliorera le gameplay, en particulier lorsque vous jouez avec un MOD d'une grande variété de produits. 
+Percentage of product classes to be disabled
+Set the percentage of product classes to be disabled. Cela rendra la compétition plus intense et améliorera le gameplay, en particulier lorsque vous jouez avec un MOD d'une grande variété de produits. 
 ~
 AIPRIVAT
-Pourcentage de concurrents qui sont des entreprises privées (Subsidiary DLC)
-Les sociétés IA sont créées de manière aléatoire en tant que sociétés privées avec cette préférence. 
+Percentage of competitors that are private companies (Subsidiary DLC)
+AI companies are randomly set up as private companies based on this preference. 
 ~
 SUBCOUNT
-Vos filiales (Subsidiary DLC)
-Le nombre de filiales que votre entreprise possède au début du jeu. 
+Your subsidiaries (Subsidiary DLC)
+The number of subsidiaries that your company owns at the beginning of the game. 
 ~
 GS_PLIST
-Liste de produits 
-Vous pouvez exclure certains produits du jeu en les sélectionnant manuellement ou en utilisant la fonction "Désactiver les classes de produits au hasard" pour les sélectionner automatiquement. 
+Product List 
+You may exclude specific products from the game by either selecting them manually, or using the 'Random Disable Product Classes' feature to select them automatically. 
 ~
 GM_CCITY
-Niveau de cash de la première ville (City Economic Simulation DLC)
-Niveau de cash de la première ville au début du jeu.  
+First City Cash Level (City Economic Simulation DLC)
+The first city's cash level at the beginning of the game.  
 ~
 GM_PUBEX
-Indice des dépenses publiques
-Cet indice détermine les dépenses pour des équipements publics, ce qui affecte la difficulté du jeu à jouer en tant que maire. Lorsqu'elle est fixée à une valeur élevée, la même installation publique entraînera des frais d'exploitation plus élevés.
+Public Expenses Index
+This index affects the recurring expenses of public facilities, which impacts the game's difficulty when playing as a mayor. Lorsqu'elle est fixée à une valeur élevée, la même installation publique entraînera des frais d'exploitation plus élevés.
 ~
 GM_RFL
-Etages des magasins
-Choisissez "Multiple" pour permettre la configuration de plusieurs étages dans un même magasin de détail.  
+Retail Store Floors
+Choose 'Multiple' to allow for setting up multiple floors in a single retail store. 
 ~
 GM_DONPP
-Dons aux partis politiques rivaux  
-Si vous fixez cette valeur à une valeur supérieure à zéro, les partis politiques rivaux recevront des dons du grand public au fil du temps. Ce paramètre est principalement destiné à augmenter le niveau de difficulté du jeu si vous recherchez un plus grand défi. 
+Donations to Rival Political Parties 
+If you set this to a value greater than zero, rival political parties will receive donations from the general public over time. Ce paramètre est principalement destiné à augmenter le niveau de difficulté du jeu si vous recherchez un plus grand défi. 
 ~
 GM_RINV1
-Réinvention aléatoire des produits
-Lorsque vous cochez cette case, le système verrouillera aléatoirement un pourcentage spécifique de classes de produits dans le nouveau jeu et demandera au joueur de les "réinventer" dans les centres de R&D. 
+Random Product Reinvention
+When you select this check box, the system will randomly lock a specific percentage of product classes in the new game and require the player to "reinvent" them in R&D centers. 
 ~
 GM_RINV2
-Pourcentage de produits nécessitant une réinvention
-Définissez le pourcentage de produits à verrouiller initialement dans le jeu, qui peuvent être déverrouillés via des projets d'invention de R&D. Notez que l'expertise du joueur pour les produits n'est pas vérouillée. 
+Percentage of products requiring reinvention
+Set the percentage of products to be locked initially in the game, which can be unlocked via R&D invention projects. Notez que l'expertise du joueur pour les produits n'est pas vérouillée. 
 ~
 LANDPRIC
-Indice des prix du terrain
-Si cet indice est supérieur à 100, le prix des terrains de ce jeu sera supérieur à la normale. Inversement, si cet indice est inférieur à 100, les entreprises peuvent acheter des terrains à moindre coût.
+Land Price Index
+If this index is higher than 100, land prices in this game will be higher than normal. Inversement, si cet indice est inférieur à 100, les entreprises peuvent acheter des terrains à moindre coût.
 ~
 SOFT_IDX
-Indice des revenus des logiciels
-Si cet indice est supérieur à 100, la demande et les revenus générés par les logiciels de ce jeu seront supérieurs à la normale. Inversement, si cet indice est inférieur à 100, les entreprises de logiciels seront moins rentables.
+Software Revenue Index
+If this index is higher than 100, the demand and revenue from software products in this game will be higher than normal. Inversement, si cet indice est inférieur à 100, les entreprises de logiciels seront moins rentables.
 ~
 WEB_IDX
-Indice des revenus Internet
-Si cet indice est supérieur à 100, les revenus générés par les sociétés Internet seront supérieurs à la normale. Inversement, si cet indice est inférieur à 100, les sociétés Internet seront moins rentables.
+Internet Revenue Index
+If this index is higher than 100, revenue generated by Internet companies will be higher than normal. Inversement, si cet indice est inférieur à 100, les sociétés Internet seront moins rentables.
 ~
 AI_AC_PI
-L'IA acquiert des sociétés fermées
-Cela détermine si les sociétés d'IA peuvent acquérir des sociétés privées indépendantes ou non. 
+AI Acquires Private Companies
+This determines whether AI corporations may acquire independent private companies or not. 
 ~
 AI_IPO
-Les sociétés techs d'IA vont faire leur introduction en bourse?
+Will AI tech companies go IPO?
 Si cela est activé, les sociétés de technologie IA peuvent entrer en bourse (Digital Age DLC). Si vous fixez une valeur, les sociétés AI vont entrer en bourse après un certain nombre d'années. 
 ~
 ECOM_SET
-Commerce électronique 
-Si cela est activé, les entreprises pourront créer des entreprises de commerce électronique et vendre des produits par le biais du commerce électronique. 
+E-commerce 
+If this is enabled, companies will be able to build e-commerce firms and sell products via e-commerce. 
 ~
 SPADV
-Avantages pour les premiers arrivants dans le domaine des smartphones
-Les entreprises de smartphones intelligente gérées par l'IA disposeront d'un capital initial plus élevé et commenceront avec des technologies plus avancées pour les smartphones et les systèmes d'exploitation.
+AI Smart Phone Company First-mover Advantage
+Smart phone companies run by AI will have higher initial capital and start with more advanced tech for Smart Phone and OS.
 ~
 VGADV
-L'avantage des premiers pionniers de l'industrie des consoles de jeu d'IA
-Les sociétés de consoles de jeu gérées par IA disposeront d'un capital initial plus élevé.
+AI Game Console Company First-mover Advantage
+Game console companies run by AI will have higher initial capital.
 ~
 LOANINT
-Taux d'intérêt du prêt de base 
-Cela modifie le taux d'intérêt de base qui affecte les obligations et les prêts bancaires. Un taux d'intérêt plus élevé augmente les coûts d'emprunt, ce qui pose de plus grands défis aux entreprises qui s'endettent pour se développer.
+Base Loan Interest Rate 
+This modifies the base interest rate which affects bonds and bank loans. Un taux d'intérêt plus élevé augmente les coûts d'emprunt, ce qui pose de plus grands défis aux entreprises qui s'endettent pour se développer.
 ~
 OSTECH
-Le joueur commence avec les technologies du système d'exploitation (OS) 
-Si cette option est activée, le joueur possède des technologies dans le système d'exploitation (OS) au début du jeu. 
+Player Starts with Operating System (OS) Technologies 
+If this is enabled, the player will possess tech technologies in Operating System (OS) in the beginning of the game. 
 ~
 MAXAIDIG
-Nombre maximal d'entreprises de logiciels et d'Internet
-Cette option limite le nombre maximum d'entreprises de logiciels d'IA et d'Internet dans un jeu. Une valeur plus faible rend le jeu plus facile. (Vous pouvez fixer les limites pour les logiciels et les sociétés Internet séparément à l'aide d'un script).
+Max AI Software and Internet Companies
+This option limits the maximum number of AI software and Internet companies in a game. Une valeur plus faible rend le jeu plus facile. (You may set the limits for software and Internet companies separately using a script.)
 ~
 TALENT
-Système des talents 
-En simplifié, tout les talents commence à un niveau de 50. En très simplifié, les fonctions de loyauté et les chasseurs de têtes sont également désactivées. 
+Talent System 
+If this is set to Simplified, all talents start with a skill level of 50. En très simplifié, les fonctions de loyauté et les chasseurs de têtes sont également désactivées. 
 ~
 MORE_TAL
-Plus de talents
-Vous pouvez utiliser cette option pour que le jeu duplique les talents afin d'augmenter l'offre de talents. 
+More Talents
+You may use this option to have the game duplicate talent data to increase the supply of talents. 
 ~
 PORTRAIT 
-Sexe 
-Utilisez les icônes Homme et Femme (situées sous les flèches) pour changer le sexe des portraits. 
+Portrait Gender 
+Use the Male and Female icons (located below the arrow icons) to switch the gender of the portraits. 
 ~
 GC_RAND
-Randomiser la compétitivité globale
-Si cela est coché, les notes de compétitivité mondiale des différentes industries seront randomisées au début du jeu. Si cela décoché, les notes de compétitivité mondiale seront initialisées avec une valeur constante de 30. 
+Randomize Global Competitiveness Ratings
+If this is enabled, global competitiveness ratings across industries will be randomized in the beginning of the game. Si cela décoché, les notes de compétitivité mondiale seront initialisées avec une valeur constante de 30. 
 ~
 GC_INC
-Augmentation de la compétitivité mondiale
-Cette option détermine si la compétitivité mondiale augmentera au fil du temps, rendant ainsi le jeu progressivement plus difficile. Une valeur plus élevée signifie qu'elle augmente à un rythme plus rapide. 
+Global Competitiveness Rating Increases
+This option determines whether global competitiveness ratings will increase over time, progressively making the game more challenging. Une valeur plus élevée signifie qu'elle augmente à un rythme plus rapide. 
 ~
 AIBANKAG
-Agressivité des banques et des compagnies d'assurance IA
-Une valeur plus élevée signifie que les banques attireront agressivement les clients de leurs concurrents en offrant des taux d'intérêt sur les dépôts plus élevés, et que les compagnies d'assurance proposeront des produits d'assurance à des prix plus compétitifs.
+Aggressiveness of AI banks and insurance companies
+A higher value means that AI banks will aggressively lure customers from competitors by offering higher deposit interest rates, and AI insurance companies will offer more competitively priced insurance products.
 ~
 SAVERATE
-Modificateur du taux d'épargne personnel 
-Ce curseur modifie le taux d'épargne personnel. Un taux d'épargne personnel plus élevé signifie que les gens vont épargner et déposer plus d'argent dans les banques, ce qui augmente la rentabilité des banques en général. 
+Personal Savings Rate Modifier 
+This slider modifies the personal savings rate. A higher personal savings rate means that people will save and deposit more money into banks, thus boosting the profitability of banks in general. 
 ~
 MORETAL2
-Plus de talents
-Vous pouvez demander au jeu de dupliquer les talents pour augmenter l'offre de talents. Utilisez ce curseur pour définir le pourcentage de talents supplémentaires que vous souhaitez que le jeu génère. 
+More Talents
+You may have the game duplicate talent data to increase the supply of talents. Utilisez ce curseur pour définir le pourcentage de talents supplémentaires que vous souhaitez que le jeu génère. 
 ~
 APART_SC
-Modificateur de capacité des appartements
-Utilisez ce curseur pour modifier la capacité de tous les appartements. 100 est la valeur standard. En l'abaissant, on diminue le nombre de personnes dans chaque immeuble. Cela signifie qu'il faut construire plus d'appartements et que l'activité immobilière sera plus rentable. 
+Apartment Capacity Modifier
+Use this slider to modify the capacity of all apartments. 100 est la valeur standard. En l'abaissant, on diminue le nombre de personnes dans chaque immeuble. Cela signifie qu'il faut construire plus d'appartements et que l'activité immobilière sera plus rentable. 
 ~
 COMME_SC
-Modificateur de capacité des commerces
-Utilisez ce curseur pour modifier la capacité de tous les commerces. 100 est la valeur standard. En l'abaissant, on diminue l’espace commercial dans chaque immeuble. Cela signifie qu'il faut construire plus d'espace commercial et que l'activité immobilière sera plus rentable. 
+Commercial Capacity Modifier
+Use this slider to modify the capacity of all commercial buildings. 100 est la valeur standard. En l'abaissant, on diminue l’espace commercial dans chaque immeuble. Cela signifie qu'il faut construire plus d'espace commercial et que l'activité immobilière sera plus rentable. 
 ~
 GM_TEC0
-Technologie disruptive
-Lorsque la personnalisation des produits est activée, la rupture technologique sera automatiquement désactivée. La logique sous-jacente est que la personnalisation des produits repose sur une augmentation linéaire des niveaux technologiques pour fonctionner correctement, tandis que la rupture technologique réduit tous les niveaux technologiques de 10 % par an.
+Technology Disruption
+When Product Customization is enabled, Technology Disruption will be automatically turned off. La logique sous-jacente est que la personnalisation des produits repose sur une augmentation linéaire des niveaux technologiques pour fonctionner correctement, tandis que la rupture technologique réduit tous les niveaux technologiques de 10 % par an.
 ~
 AIBANKFO
-Nombre de sociétés IA axées sur la banque
-Cela détermine le nombre de sociétés d'IA axées sur la banque au début du jeu. 
+Number of AI Companies Focused on Banking
+This determines the number of AI companies focused on banking in the beginning of the game. 
 ~
 AIINSUFO
-Nombre de sociétés IA axées sur l'assurance
-Cela détermine le nombre de sociétés d'IA axées sur l'assurance au début du jeu. 
+Number of AI Companies Focused on Insurance
+This determines the number of AI companies focused on insurance business in the beginning of the game. 
 ~
 AIBANKT
-Tendance de l'IA pour créer des banques
-Tendance des IA ayant une stratégie commerciale de "diversification", qui peut s'étendre à tout type d'industrie, à créer des banques. 
+Tendency of AI to set up banks
+Tendency of AI companies with a diversification business strategy, which may expand into any types of industry, to set up banks. 
 ~
 AIINSURT
-Tendance de l'IA pour créer des assurances
-Tendance des IA ayant une stratégie commerciale de "diversification", qui peut s'étendre à tout type d'industrie, à créer des assurances.
+Tendency of AI to set up insurance companies
+Tendency of AI companies with a diversification business strategy, which may expand into any types of industry, to set up insurance companies.
 ~
 INSUPREM
-Modificateur de primes d'assurance
-En fixant cette valeur à plus de 100, on augmente les revenus de toutes les compagnies d'assurance.
+Insurance Premiums Modifier
+Setting this to a value higher than 100 will increase revenues of all insurance companies.
 ~
 INSCLAIM
-Indemnisations d'assurance 
-Vous pouvez personnaliser les montants moyens des demandes d'indemnisation que les compagnies d'assurance doivent payer. Un taux de sinistralité plus faible signifie une marge bénéficiaire plus élevée pour les compagnies d'assurance. 
+Insurance Claims 
+You may customize the average amounts of insurance claims that insurance companies have to pay. Un taux de sinistralité plus faible signifie une marge bénéficiaire plus élevée pour les compagnies d'assurance. 
 ~
 DEPOSCAP
-Plafond des dépôts des entreprises, en pourcentage du total des dépôts bancaires. 
+Corporate Deposit Cap, as a percentage of the total bank deposits. 
 Le règlement bancaire stipule que les dépôts ne doivent pas être concentrés sur un petit nombre de gros déposants. Il existe un plafond qui limite le montant maximum de dépôt que chaque client peut effectuer.
 ~
 EXPRESS
-Mode express 
-Lorsque le mode Express est activé, une nouvelle interface utilisateur simplifiée sera utilisée pour les magasins de détail, remplaçant la disposition originale 3x3.
+Express Mode 
+When the Express mode is enabled, a new streamlined user interface will be used for retail stores, replacing the original 3x3 layout.
 ~
 MLOANDEP
-Ratio maximum de prêts / actifs
-Cela détermine le montant maximum absolu des prêts qu'une banque peut accorder (y compris votre banque et les banques IA). Une banque conservatrice peut fixer un ratio maximum de prêts par rapport aux actifs plus faible sur l'interface du siège de la banque, à condition qu'il ne dépasse pas celui défini ici. 
+Maximum Loans-to-Assets Ratio
+This determines the Absolute Maximum amount of loans that a bank can lend out (including your bank and AI banks). Une banque conservatrice peut fixer un ratio maximum de prêts par rapport aux actifs plus faible sur l'interface du siège de la banque, à condition qu'il ne dépasse pas celui défini ici. 
 ~
 DEVCITY
-Ville développée au départ
-En mode survie, il n'y a qu'une seule ville au début du jeu. Vous pouvez la définir comme une ville développée ou une nouvelle ville créée à partir de zéro.
+Developed City at the Beginning
+In Survival mode, there is only one city in the beginning of the game. Vous pouvez la définir comme une ville développée ou une nouvelle ville créée à partir de zéro.
 ~
 CITCASH1
-Niveau initial des liquidités de la ville
-Il s'agit de fixer les niveaux de liquidités des villes au début du jeu.  
+City Initial Cash Level
+This is for setting the cash levels of cities at the beginning of the game.  
 ~
 CITCASH2
-Niveau initial des liquidités de la ville
-Il s'agit de fixer les niveaux de liquidités des villes au début du jeu. Si vous souhaitez que les villes émettent des obligations plus souvent, afin que vous puissiez investir dans des obligations municipales, vous pouvez régler ce paramètre sur "faible".  
+City Initial Cash Level
+This is for setting the cash levels of cities at the beginning of the game. Si vous souhaitez que les villes émettent des obligations plus souvent, afin que vous puissiez investir dans des obligations municipales, vous pouvez régler ce paramètre sur "faible".  
 ~
 BOND_PCB
-Pourcentage du capital des joueurs financé par des obligations
-Si vous êtes un joueur expérimenté à la recherche d'un plus grand défi, vous pouvez fixer un pourcentage du capital initial de votre société qui sera financé par une émission d'obligations, ce qui vous obligera à payer les intérêts des obligations et à rembourser le capital de l'obligation à son échéance. 
+Percentage of Player Capital Funded by Bond
+If you are an experienced player looking for greater challenge, you may set a percentage of your corporation's initial capital to be funded by a bond issue, requiring you to pay bond interests and repay the bond principal upon its maturity. 
 ~
 BOND_CRE
-Norme de crédit obligataire
-Grâce à une norme d'évaluation de crédit souple, toutes les entreprises bénéficieront de meilleures notations de crédit et de frais d'intérêts obligataires moins élevés. 
+Bond Credit Standard
+With a loose credit assessment standard, all corporations will receive better credit ratings and benefit from lower bond interest expenses. 
 ~
 BOND_LIM
-Limite d'émission d'obligations
-Le montant maximum des obligations qu'une société peut émettre est limité à un multiple de sa capitalisation, qui est fixée ici. Une valeur plus élevée permettra à une société d'émettre des montants plus importants d'obligations.
+Bond Issue Limit
+The maximum amounts of bonds that a corporation can issue is limited to a multiple of its capitalization, which is set here. Une valeur plus élevée permettra à une société d'émettre des montants plus importants d'obligations.
 ~
 BOND_ON
-Fonctionnalité : Obligation 
-Lorsque cette fonction sera activée, les entreprises pourront émettre des obligations pour lever des capitaux, et le marché obligataire sera accessible. 
+Feature: Bond 
+When this feature is enabled, corporations will able to able to issue bonds to raise capital, and the bond market will be accessible. 
 ~
 BANK_ON
-Fonctionnalité : Banque
-Ce paramètre détermine si les banques peuvent être mises en place dans le jeu ou non.
+Feature: Bank
+This setting determines whether banks can be set up in the game or not.
 ~
 INT_SPRE
-Marge initial d'intérêt net 
-La marge d'intérêt nette correspond à la différence entre le taux auquel une banque accepte les dépôts de ses clients et le taux auquel elle offre des prêts. Un écart d'intérêt net plus important signifie une plus grande marge bénéficiaire pour une banque. 
+Initial Net Interest Spread 
+Net interest spread refers to the difference in the rate at which a bank takes deposits from customers and the rate at which it offers loans. Un écart d'intérêt net plus important signifie une plus grande marge bénéficiaire pour une banque. 
 ~
 BCAPREQ
-Ratio de capital bancaire requis
-La banque centrale exige que les banques mettent de côté suffisamment de capitaux pour couvrir les pertes imprévues et rester solvables en cas de crise. Le ratio de fonds propres est le rapport entre les fonds propres d'une banque et le total de ses actifs. 
+Required Bank Capital Ratio
+The central bank requires banks to set aside enough capital to cover unexpected losses and keep themselves solvent in a crisis. Le ratio de fonds propres est le rapport entre les fonds propres d'une banque et le total de ses actifs. 
 ~
 INSUR_ON
-Fonctionnalité : L'assurance 
-Ce paramètre détermine si les compagnies d'assurance peuvent être mises en place dans le jeu ou non.
+Feature: Insurance Business 
+This setting determines whether insurance companies can be set up in the game or not.
 ~
 GSTOCKON
-Fonctionnalité : Marché boursier mondial 
-Ce paramètre détermine si le marché boursier mondial est activé dans le jeu ou non. 
+Feature: Global Stock Market 
+This setting determines whether the global stock market is enabled in the game or not. 
 ~
 PRICAGGR
-Agressivité des prix de l'IA
-Cela détermine jusqu'où les sociétés IA iront pour faire baisser les prix de leurs produits afin d'arracher des parts de marché à leurs concurrents. Sur faible, vous pouvez vous attendre à ce que la plupart des produits bénéficient de marges bénéficiaires saines et que les entreprises soient en général plus rentables. 
+AI Pricing Aggressiveness
+This determines how far the AI companies will go in lowering prices of their products in order to grab market share from competitors. Sur faible, vous pouvez vous attendre à ce que la plupart des produits bénéficient de marges bénéficiaires saines et que les entreprises soient en général plus rentables. 
 ~
 ECOONDEF
-Impact économique du défauts de remboursement des prêts
-Elle détermine l'impact de l'économie sur le taux de défaillance des prêts. Lorsque cette valeur est fixée à un niveau supérieur, les défauts de remboursement des prêts s'envolent à un rythme plus élevé en période de ralentissement économique, ce qui peut entraîner une crise de liquidité.
+Economy's Impact on Loan Defaults
+It determines the economy's impact on the loan default rate. Lorsque cette valeur est fixée à un niveau supérieur, les défauts de remboursement des prêts s'envolent à un rythme plus élevé en période de ralentissement économique, ce qui peut entraîner une crise de liquidité.
 ~
 BOOMBUST
-Volatilité du cycle expansion-récession
-Cela permet d'ajuster l'impact de l'économie sur la demande des consommateurs, ce qui affecte le PIB et, par conséquent, la volatilité du cycle d'expansion et d'effondrement. (Le cycle expansion-récession est l'expansion et la contraction du cycle économique qui se produisent de manière répétée). 
+Boom-Bust Cycle Volatility
+This adjusts the economy's impact on consumer demand, which affects GDP and in turn affects the volatility of the boom-bust cycle. (The boom-bust cycle is the expansion and contraction in the economic cycle that occurs repeatedly.) 
 ~
 GSTKINIT
-Modificateur du prix initial de l'action
-Les prix initiaux des stocks mondiaux sont chargés à partir d'une base de données. Vous pouvez utiliser ce modificateur pour modifier les prix initiaux de tous les stocks mondiaux. Une valeur de modificateur plus faible entraîne une baisse du prix initial des actions, ce qui promet un gain plus important pour le marché boursier mondial à l'avenir. 
+Initial Stock Price Modifier
+The initial prices of the global stocks are loaded from a database. Vous pouvez utiliser ce modificateur pour modifier les prix initiaux de tous les stocks mondiaux. Une valeur de modificateur plus faible entraîne une baisse du prix initial des actions, ce qui promet un gain plus important pour le marché boursier mondial à l'avenir. 
 ~
 BANKDIFF
-Niveau de difficulté pour la banque et la finance DLC 
-Utilisez-le pour fixer le niveau de difficulté global pour les banques et les compagnies d'assurance en activité. 
+Difficulty Level for Banking and Finance DLC 
+Use this to set the overall difficulty level for operating banks and insurance companies. 
 ~
 SMONEYS
-Strict approvisionnement en argent
-Si cela est activé, la masse monétaire est strictement simulée. Il sera plus difficile pour les acteurs et les sociétés d'IA de lever des fonds lors de l'introduction en bourse, en émettant de nouvelles actions et obligations. 
+Strict Money Supply
+If this is enabled, money supply is strictly simulated. Il sera plus difficile pour les acteurs et les sociétés d'IA de lever des fonds lors de l'introduction en bourse, en émettant de nouvelles actions et obligations. 
 ~

@@ -83,7 +83,7 @@ Headquarters
 `
 ~
 MMENUSM
-Marché boursier
+Stock Market
 Open the Stock Market screen
 ~
 MMENUGM
@@ -2009,7 +2009,7 @@ Exit this window (hotkey: ESC)
 `
 ~
 CUSTTECH 
-Personnalisation du produit 
+Product Customization 
 You can associate custom images to your products and assign a technology level to each custom product image. When your tech level has reached the assigned level, the custom image will be displayed. e.g. You have defined a custom image of Smart Phone with a tech level of 300. When your Smart Phone tech has reached 300, this custom image will be displayed. 
 ~
 CUSTHIGH
@@ -2169,7 +2169,7 @@ Land-use Plan and Business Relationship.
 Switch to this mode to show the Land-use Plan and the Business Relationship Mode - with a firm selected this mode will display linkage lines to firms in direct business with the selected firm.
 ~
 LANDPRIC
-Indice des prix du terrain 
+Land Price Index 
 This index determines the prices that the government sells its land and natural resource sites to corporations. 
 ~
 MFACTORY
@@ -2902,11 +2902,11 @@ Bank Capital Ratio
 The #Capital Ratio# is the ratio of a bank's #Equity Capital# to its total #Loans to Customers#. A bank must maintain a capital ratio that meets the central bank's requirement. 
 ~
 BCAPRAT2
-Ratio de capital bancaire requis
+Required Bank Capital Ratio
 The central bank requires banks to have set aside enough capital to cover unexpected losses and keep themselves solvent in a crisis.
 ~
 LOANDEPP
-Ratio maximum de prêts / actifs
+Maximum Loans-to-Assets Ratio
 The maximum amount of loans that the bank can lend out is restricted by this ratio. A higher ratio increases incomes from loan interests but it also increases the bank's liquidity risks. 
 ~
 INT_MARG
