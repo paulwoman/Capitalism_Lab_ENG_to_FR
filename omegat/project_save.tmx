@@ -734,6 +734,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Double-click ~Seaport~ from the drop-down list.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T123318Z" creationid="Olivier" creationdate="20200423T123318Z">
+        <seg>Double-cliquez sur "Port Maritime" dans la liste déroulante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>E-commerce</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164456Z" creationid="Inrepublica" creationdate="20200422T164456Z">
@@ -2588,6 +2596,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T195826Z" creationid="Inrepublica" creationdate="20200422T195826Z">
         <seg>Il s'agit de fixer les niveaux de liquidités des villes au début du jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is the ~Select a Supplier~ window.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T123254Z" creationid="Olivier" creationdate="20200423T123254Z">
+        <seg>Il s'agit de la fenêtre "Sélectionner un fournisseur".</seg>
       </tuv>
     </tu>
     <tu>
