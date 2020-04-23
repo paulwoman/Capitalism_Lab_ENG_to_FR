@@ -3720,6 +3720,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Proceed?|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T164354Z" creationid="Inrepublica" creationdate="20200423T164354Z">
+        <seg>Poursuivre?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Product Customization</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150843Z" creationid="Inrepublica" creationdate="20200422T150843Z">
@@ -5969,10 +5977,50 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0288]&lt;MODL&gt;Join with another player by Modem|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T164112Z" creationid="Inrepublica" creationdate="20200423T164112Z">
+        <seg>[0288]&lt;MODL&gt;Rejoindre un autre joueur par modem|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0289]&lt;COML&gt;Join with another player linked by serial cable|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T164153Z" creationid="Inrepublica" creationdate="20200423T164153Z">
+        <seg>[0289]&lt;COML&gt;Rejoindre un autre joueur par réseau série|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0298]&lt;PRFL&gt;Warning: This will delete all information in your multiplayer lobby account that is linked to this player profile.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T164224Z" creationid="Inrepublica" creationdate="20200423T164224Z">
+        <seg>[0298]&lt;PRFL&gt;Attention: Cela supprimera toutes les informations de votre compte de lobby multijoueur qui sont liées à ce profil de joueur.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0299]&lt;#rL0&gt;%1s %2s : P:%3d M:%4d E:%5d R:%6d FB:%7d Total:%8d|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T164226Z" creationid="Inrepublica" creationdate="20200423T164226Z">
+        <seg>[0299]&lt;#rL0&gt;%1s %2s : P:%3d M:%4d E:%5d R:%6d FB:%7d Total:%8d|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0300]&lt;#?L0&gt;#r - ranking of players|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T200031Z" creationid="Inrepublica" creationdate="20200422T200031Z">
         <seg>[0300]&lt;#?L0&gt;#r - classement des joueurs|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0301]&lt;#?L1&gt;#?</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T164229Z" creationid="Inrepublica" creationdate="20200423T164229Z">
+        <seg>[0301]&lt;#?L1&gt;#?</seg>
       </tuv>
     </tu>
     <tu>
@@ -6173,6 +6221,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T053625Z" creationid="Inrepublica" creationdate="20200423T053625Z">
         <seg>[0609]Prix|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0613]Seaports|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T164528Z" creationid="Inrepublica" creationdate="20200423T164528Z">
+        <seg>[0613]Ports maritimes|</seg>
       </tuv>
     </tu>
     <tu>
