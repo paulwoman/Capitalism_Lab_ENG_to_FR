@@ -606,10 +606,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Add Seaport Product=Steel</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200424T121325Z" creationid="Inrepublica" creationdate="20200424T121325Z">
+        <seg>Add Seaport Product=Steel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Add Seaport Product=Textiles</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T101323Z" creationid="Olivier" creationdate="20200424T101323Z">
         <seg>Add Seaport Product=Textiles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add Seaport Product=Timber</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200424T121324Z" creationid="Inrepublica" creationdate="20200424T121324Z">
+        <seg>Add Seaport Product=Timber</seg>
       </tuv>
     </tu>
     <tu>
@@ -682,6 +698,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T091958Z" creationid="Olivier" creationdate="20200424T091958Z">
         <seg>Parmi ces 60 %, ~bois~ représente 40 %, le ~coton~ 10 % et le ~lin~ les 10 % restants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>And choose ~Department Store~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200424T121239Z" creationid="Inrepublica" creationdate="20200424T121239Z">
+        <seg>And choose ~Department Store~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1734,6 +1758,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Firm Build Count=Discount Megastore, 1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200424T121243Z" creationid="Inrepublica" creationdate="20200424T121243Z">
+        <seg>Firm Build Count=Discount Megastore, 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Firm count=Factory, 1</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T092737Z" creationid="Olivier" creationdate="20200424T092737Z">
@@ -1746,6 +1778,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T131231Z" creationid="Inrepublica" creationdate="20200423T131231Z">
         <seg>Firm product count=My Department Store, 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm product count=My megastore, 1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200424T121251Z" creationid="Inrepublica" creationdate="20200424T121251Z">
+        <seg>Firm product count=My megastore, 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm product count=My megastore, 3</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200424T121320Z" creationid="Inrepublica" creationdate="20200424T121320Z">
+        <seg>Firm product count=My megastore, 3</seg>
       </tuv>
     </tu>
     <tu>
@@ -1922,6 +1970,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T122745Z" creationid="Inrepublica" creationdate="20200423T122745Z">
         <seg>Flex Text Box=60,550,300,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Flex Text Box=80,500,400,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200424T121216Z" creationid="Inrepublica" creationdate="20200424T121216Z">
+        <seg>Flex Text Box=80,500,400,0</seg>
       </tuv>
     </tu>
     <tu>
@@ -3409,6 +3465,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Loan=20000000</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200424T121327Z" creationid="Inrepublica" creationdate="20200424T121327Z">
+        <seg>Loan=20000000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Look for ~Timber~ in the list and double-click it.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T090639Z" creationid="Olivier" creationdate="20200424T090639Z">
@@ -4121,10 +4185,34 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=171,183,228,239</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200424T121322Z" creationid="Inrepublica" creationdate="20200424T121322Z">
+        <seg>Pointer=171,183,228,239</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=172,71,196,91</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T131347Z" creationid="Inrepublica" creationdate="20200423T131347Z">
         <seg>Pointer=172,71,196,91</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=193,280,380,300</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200424T121316Z" creationid="Inrepublica" creationdate="20200424T121316Z">
+        <seg>Pointer=193,280,380,300</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=193,300,380,330</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200424T121318Z" creationid="Inrepublica" creationdate="20200424T121318Z">
+        <seg>Pointer=193,300,380,330</seg>
       </tuv>
     </tu>
     <tu>
@@ -4169,6 +4257,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=262,0,580,30</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200424T121214Z" creationid="Inrepublica" creationdate="20200424T121214Z">
+        <seg>Pointer=262,0,580,30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=267, 10, 575,24</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T131307Z" creationid="Inrepublica" creationdate="20200423T131307Z">
@@ -4197,6 +4293,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T131324Z" creationid="Inrepublica" creationdate="20200423T131324Z">
         <seg>Pointer=282,52,450,100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=30,0,600,30</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200424T121204Z" creationid="Inrepublica" creationdate="20200424T121204Z">
+        <seg>Pointer=30,0,600,30</seg>
       </tuv>
     </tu>
     <tu>
@@ -4353,6 +4457,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=489,253,682,336</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200424T121253Z" creationid="Inrepublica" creationdate="20200424T121253Z">
+        <seg>Pointer=489,253,682,336</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=489,253,791,553</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200424T121248Z" creationid="Inrepublica" creationdate="20200424T121248Z">
+        <seg>Pointer=489,253,791,553</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=52,61,235,75</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T131319Z" creationid="Inrepublica" creationdate="20200423T131319Z">
@@ -4409,6 +4529,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=576,400,593,405</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200424T121302Z" creationid="Inrepublica" creationdate="20200424T121302Z">
+        <seg>Pointer=576,400,593,405</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=579,292,592,298</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T093833Z" creationid="Olivier" creationdate="20200424T093833Z">
@@ -4441,6 +4569,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=601,365,680,444</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200424T121335Z" creationid="Inrepublica" creationdate="20200424T121335Z">
+        <seg>Pointer=601,365,680,444</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=636,110,735,123</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151723Z" creationid="Olivier" creationdate="20200423T151723Z">
@@ -4469,6 +4605,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T122746Z" creationid="Inrepublica" creationdate="20200423T122746Z">
         <seg>Pointer=65,6,94,30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=680,0,764,30</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200424T121228Z" creationid="Inrepublica" creationdate="20200424T121228Z">
+        <seg>Pointer=680,0,764,30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=687,292,702,298</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200424T121332Z" creationid="Inrepublica" creationdate="20200424T121332Z">
+        <seg>Pointer=687,292,702,298</seg>
       </tuv>
     </tu>
     <tu>
@@ -4813,6 +4965,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T150418Z" creationid="Olivier" creationdate="20200423T145102Z">
         <seg>Sélectionnez ~Unité de vente~ dans la liste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Set firm description=My megastore</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200424T121246Z" creationid="Inrepublica" creationdate="20200424T121246Z">
+        <seg>Set firm description=My megastore</seg>
       </tuv>
     </tu>
     <tu>
@@ -5225,6 +5385,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Text Box=32,250,250,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200424T121257Z" creationid="Inrepublica" creationdate="20200424T121257Z">
+        <seg>Text Box=32,250,250,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Text Box=32,250,350,0</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T142623Z" creationid="Olivier" creationdate="20200423T142623Z">
@@ -5253,6 +5421,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202625Z" creationid="Inrepublica" creationdate="20200422T202625Z">
         <seg>Text Box=32,420,300,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Box=350,280,200,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200424T121330Z" creationid="Inrepublica" creationdate="20200424T121330Z">
+        <seg>Text Box=350,280,200,0</seg>
       </tuv>
     </tu>
     <tu>
@@ -5301,6 +5477,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T095527Z" creationid="Olivier" creationdate="20200424T095527Z">
         <seg>Text Box=424,124,330,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Box=500,100,250,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200424T121315Z" creationid="Inrepublica" creationdate="20200424T121315Z">
+        <seg>Text Box=500,100,250,0</seg>
       </tuv>
     </tu>
     <tu>
@@ -6081,14 +6265,6 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Toolbox</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T152121Z" creationid="Inrepublica" creationdate="20200423T152121Z">
-        <seg>Toolbox</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Try to find a location close to residential buildings to benefit from high customer traffic.^^If the location is shaded in ~yellow~, it means a valid location for building your department store.^^When you have chosen a location, left click and the department store will be built.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T211649Z" creationid="Olivier" creationdate="20200422T211649Z">
@@ -6137,10 +6313,42 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unit Exists=4, Purchasing</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200424T121258Z" creationid="Inrepublica" creationdate="20200424T121258Z">
+        <seg>Unit Exists=4, Purchasing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unit Exists=5, Sales</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200424T121300Z" creationid="Inrepublica" creationdate="20200424T121300Z">
+        <seg>Unit Exists=5, Sales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unit Linked=Manufacturing, Sales, 2, 3</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200424T121333Z" creationid="Inrepublica" creationdate="20200424T121333Z">
+        <seg>Unit Linked=Manufacturing, Sales, 2, 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unit Linked=Manufacturing, Sales, 5, 6</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T094430Z" creationid="Olivier" creationdate="20200424T094430Z">
         <seg>Unit Linked=Manufacturing, Sales, 5, 6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unit Linked=Purchasing, Manufacturing, 1, 2</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200424T121329Z" creationid="Inrepublica" creationdate="20200424T121329Z">
+        <seg>Unit Linked=Purchasing, Manufacturing, 1, 2</seg>
       </tuv>
     </tu>
     <tu>
@@ -6161,10 +6369,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unit Linked=Purchasing, Sales, 4, 5</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200424T121303Z" creationid="Inrepublica" creationdate="20200424T121303Z">
+        <seg>Unit Linked=Purchasing, Sales, 4, 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unit has item=1, Timber</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T094249Z" creationid="Olivier" creationdate="20200424T094249Z">
         <seg>Unit has item=1, Timber</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unit has item=4</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200424T121313Z" creationid="Inrepublica" creationdate="20200424T121313Z">
+        <seg>Unit has item=4</seg>
       </tuv>
     </tu>
     <tu>
