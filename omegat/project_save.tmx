@@ -744,8 +744,8 @@
       <tuv lang="en-US">
         <seg>Along its top border you see the ~City Select icon~ (represented by a down arrow), which is for showing a list of cities in the current game.^^The ~left and right arrow icons~ next to the city name allow you to cycle through the previous or next city.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T171612Z" creationid="Olivier" creationdate="20200422T171612Z">
-        <seg>Le long de sa bordure supérieure, vous voyez l'icône "Sélection de la ville" (représentée par une flèche vers le bas), qui sert à afficher une liste des villes du jeu en cours. Les icônes "flèches gauche et droite" à côté du nom de la ville vous permettent de passer en revue la ville précédente ou suivante.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T214240Z" creationid="Olivier" creationdate="20200422T171612Z">
+        <seg>Le long de sa bordure supérieure, vous voyez l'icône ~Sélection de la ville~ (représentée par une flèche vers le bas), qui sert à afficher une liste des villes du jeu en cours. Les icônes ~flèches gauche et droite~ à côté du nom de la ville vous permettent de passer en revue la ville précédente ou suivante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3683,8 +3683,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Let's click on the ~Mini Map~ icon now.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T171401Z" creationid="Olivier" creationdate="20200422T171401Z">
-        <seg>Cliquons maintenant sur l'icône "Mini Carte".</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T214202Z" creationid="Olivier" creationdate="20200422T171401Z">
+        <seg>Cliquons maintenant sur l'icône ~Mini carte~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3707,8 +3707,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Let's explore.^^See the toolbar at the bottom of the screen?</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T171059Z" creationid="Olivier" creationdate="20200422T171059Z">
-        <seg>Explorons. Vous voyez la barre d'outils au bas de l'écran ?</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T214016Z" creationid="Olivier" creationdate="20200422T171059Z">
+        <seg>Explorons.^^ Vous voyez la barre d'outils au bas de l'écran ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7579,8 +7579,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>You can see the current game date here.^^Note that the game runs in real time.You may change the game speed using the shortcut keys ~'1' (slowest) to '5' (fastest)~.^^You may also pause the game by pressing the ~key '0'~.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T123820Z" creationid="Olivier" creationdate="20200423T123820Z">
-        <seg>Vous pouvez modifier la vitesse du jeu en utilisant les touches de raccourci " 1 " (le plus lent) à "5 " (le plus rapide). Vous pouvez également mettre le jeu en pause en appuyant sur la touche "0". </seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T214140Z" creationid="Olivier" creationdate="20200423T123820Z">
+        <seg>Vous pouvez modifier la vitesse du jeu en utilisant les touches de raccourci ~"1" (le plus lent) à "5" (le plus rapide)~. Vous pouvez également mettre le jeu en pause en appuyant sur la touche ~0~. </seg>
       </tuv>
     </tu>
     <tu>
