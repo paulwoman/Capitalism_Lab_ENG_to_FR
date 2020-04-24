@@ -622,6 +622,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>And to the right of the Manufacturing Unit, build a ~Sales Unit~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T093750Z" creationid="Olivier" creationdate="20200424T093750Z">
+        <seg>Et à droite de l'unité de fabrication, construire une ~unité de vente~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Apartment Capacity Modifier</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T172527Z" creationid="Inrepublica" creationdate="20200422T172527Z">
@@ -1198,6 +1206,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Connect these units as well.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T093916Z" creationid="Olivier" creationdate="20200424T093916Z">
+        <seg>Connectez également ces unités.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Constant Import Supply=Yes</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151356Z" creationid="Inrepublica" creationdate="20200423T151356Z">
@@ -1394,6 +1410,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T162346Z" creationid="Inrepublica" creationdate="20200422T162346Z">
         <seg>Dons aux partis politiques rivaux </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Double click the top left hand unit space in the layout grid and build a ~Purchasing Unit~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T093042Z" creationid="Olivier" creationdate="20200424T093042Z">
+        <seg>Double-cliquez sur l'espace supérieur gauche de l'unité dans la grille de présentation et construisez une ~unité~ d'achat"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2329,6 +2353,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Great Job!</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T093933Z" creationid="Olivier" creationdate="20200424T093933Z">
+        <seg>Bon travail !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Great job!</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T145411Z" creationid="Olivier" creationdate="20200423T145411Z">
@@ -3121,6 +3153,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Let's get your factory producing something.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T092947Z" creationid="Olivier" creationdate="20200424T092947Z">
+        <seg>Faisons en sorte que votre usine produise quelque chose.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Let's have a closer look at each unit.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T134840Z" creationid="Olivier" creationdate="20200423T134840Z">
@@ -3361,6 +3401,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now click the link between the units to connect them.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T093830Z" creationid="Olivier" creationdate="20200424T093830Z">
+        <seg>Cliquez maintenant sur le lien entre les unités pour les connecter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now click the ~Land Value~ icon to change to that mode.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T123940Z" creationid="Olivier" creationdate="20200423T123940Z">
@@ -3485,6 +3533,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T092337Z" creationid="Olivier" creationdate="20200424T092337Z">
         <seg>Vous devez à présent constuire une usine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now you need to purchase raw materials.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T094007Z" creationid="Olivier" creationdate="20200424T094007Z">
+        <seg>Il faut maintenant acheter des matières premières.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3969,10 +4025,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=579,292,592,298</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T093833Z" creationid="Olivier" creationdate="20200424T093833Z">
+        <seg>Pointer=579,292,592,298</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=595,360,675,440</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151204Z" creationid="Olivier" creationdate="20200423T151204Z">
         <seg>Pointer=595,360,675,440</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=599,253,680,336</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T093708Z" creationid="Olivier" creationdate="20200424T093708Z">
+        <seg>Pointer=599,253,680,336</seg>
       </tuv>
     </tu>
     <tu>
@@ -4021,6 +4093,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T145631Z" creationid="Olivier" creationdate="20200423T145631Z">
         <seg>Pointer=69,377,190,400</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=709,253,790,336</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T093753Z" creationid="Olivier" creationdate="20200424T093753Z">
+        <seg>Pointer=709,253,790,336</seg>
       </tuv>
     </tu>
     <tu>
@@ -4921,6 +5001,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The third type you require is the ~Manufacturing Unit~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T092933Z" creationid="Olivier" creationdate="20200424T092827Z">
+        <seg>Le troisième type dont vous avez besoin est ~l'unité de fabrication~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The two units are now connected and are going to work with each other.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T145235Z" creationid="Olivier" creationdate="20200423T145235Z">
@@ -5393,6 +5481,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To the right of the Purchasing Unit, build a ~Manufacturing Unit~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T093705Z" creationid="Olivier" creationdate="20200424T093705Z">
+        <seg>À droite de l'unité d'achat, construisez une ~unité de fabrication~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To understand this better, we will just add a product to the store using the old method you are familiar with.^^Now click the ~Add Product icon~ and choose a product from the supply list.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T134609Z" creationid="Olivier" creationdate="20200423T134609Z">
@@ -5429,6 +5525,30 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151532Z" creationid="Inrepublica" creationdate="20200423T151532Z">
         <seg>Tutorial=TUT02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unit Exists=1, Purchasing</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T093044Z" creationid="Olivier" creationdate="20200424T093044Z">
+        <seg>Unit Exists=1, Purchasing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unit Exists=2, Manufacturing</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T093713Z" creationid="Olivier" creationdate="20200424T093713Z">
+        <seg>Unit Exists=2, Manufacturing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unit Exists=3, Sales</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T093758Z" creationid="Olivier" creationdate="20200424T093758Z">
+        <seg>Unit Exists=3, Sales</seg>
       </tuv>
     </tu>
     <tu>
