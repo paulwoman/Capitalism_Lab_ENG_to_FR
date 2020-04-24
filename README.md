@@ -21,7 +21,7 @@ Une fois vos contributions effectuées, cliquez sur Enregistrer et ensuite indiq
 
 Les fichiers traduits sont de temps en temps générés dans le dossier "target", mais vous pouvez vous servir d'OmegaT pour générer la dernière version en cours.
 
-Pour ce faire, faites ctrl L pour selectionner le fichier voulu, les plus importants étant : gm_help, help et t_game. Ensuite, générez le fichier en faisant ctrl maj D. Vous retrouverez les fichiers dans le dossier "target" du dossier que vous avez créé au début. 
+Pour ce faire, générez les fichiers en faisant ctrl maj D. Vous retrouverez les fichiers dans le dossier "target" du dossier que vous avez créé au début. 
 
 Il est à préciser que les fichiers proposés actuellement doivent encore être testés pour vérifier s'ils ne provoquent pas de BUG et / ou les actions à effectuer correspondent bien à ce qui est écrit.
 
@@ -29,37 +29,37 @@ Il est à préciser que les fichiers proposés actuellement doivent encore être
 
 ## Fichiers pouvant se mettre dans le dossier "translate"
 
-| Fichiers         | Progression     | Relecture Inrepublica | Relecture PaulWoman |
-| :--------------- |:--------------- |:---------------|:---------------|
-| t_basic.txt      | 100 %           | ok             |                |
-| t_game.txt       |   0 %           |                |                |
-| gm_help.txt      | 100 %           | ok             |                |
-| help.txt         |   0 %           |                |                |
+| Fichiers         | Progression     | Relecture Inrepublica | Relecture PaulWoman | Concordance avec t_game |
+| :--------------- |:--------------- |:---------------|:---------------|:---------------|
+| t_basic.txt      | 100 %           | ok             |                | ok             |
+| t_game.txt       |   0 %           |                |                | ok             |
+| gm_help.txt      | 100 %           | ok             |                |                |
+| help.txt         |   0 %           |                |                |                |
 
 ## Fichiers qui doivent s'installer dans un dossier dédié:
 
 ### Dossier "Tutorial"
 
-| Fichiers         | Progression     | Relecture Inrepublica | Relecture PaulWoman |
-| :--------------- |:--------------- |:---------------|:---------------|
-| tut01.txt        | 100 %           |                | ok             |
-| tut02.txt        | 100 %           |                | ok             |
-| tut03.txt        | 100 %           |                | ok             |
-| tut04.txt        |   0 %           |                |                |
-| tut05.txt        |   0 %           |                |                |
-| tut06.txt        |   0 %           |                |                |
-| tut07.txt        |   0 %           |                |                |
-| tut08.txt        |   0 %           |                |                |
+| Fichiers         | Progression     | Relecture Inrepublica | Relecture PaulWoman | Concordance avec t_game |
+| :--------------- |:--------------- |:---------------|:---------------|:---------------|
+| tut01.txt        | 100 %           | ok             | ok             |                |
+| tut02.txt        |  95 %           |                | ok             |                |
+| tut03.txt        | 95 %            |                | ok             |                |
+| tut04.txt        |   0 %           |                |                |                |
+| tut05.txt        |   0 %           |                |                |                |
+| tut06.txt        |   0 %           |                |                |                |
+| tut07.txt        |   0 %           |                |                |                |
+| tut08.txt        |   0 %           |                |                |                |
 
 ### Sous-dossier "script"
 
-| Fichiers         | Progression     | Relecture Inrepublica | Relecture PaulWoman |
-| :--------------- |:--------------- |:---------------|:---------------|
-| tutorial 1.txt   | 95 %            |                | ok             |
-| tutorial 1.txt   | 95 %            |                | ok             |
-| tutorial 1.txt   | 95 %            |                | ok             |
-| tutorial 1.txt   | 95 %            |                | ok             |
-| tutorial 1.txt   | 95 %            |                | ok             |
-| tutorial 1.txt   | 95 %            |                | ok             |
-| tutorial 1.txt   | 95 %            |                | ok             |
-| tutorial 1.txt   | 95 %            |                | ok             |
+| Fichiers         | Progression     | Relecture Inrepublica | Relecture PaulWoman | Concordance avec t_game |
+| :--------------- |:--------------- |:---------------|:---------------|:---------------|
+| tutorial 1.txt   | 95 %            |                | ok             |                |
+| tutorial 1.txt   | 95 %            |                | ok             |                |
+| tutorial 1.txt   | 95 %            |                | ok             |                |
+| tutorial 1.txt   | 95 %            |                | ok             |                |
+| tutorial 1.txt   | 95 %            |                | ok             |                |
+| tutorial 1.txt   | 95 %            |                | ok             |                |
+| tutorial 1.txt   | 95 %            |                | ok             |                |
+| tutorial 1.txt   | 95 %            |                | ok             |                |
