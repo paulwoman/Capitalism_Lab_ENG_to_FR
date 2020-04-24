@@ -32,7 +32,7 @@ Il est à préciser que les fichiers proposés actuellement doivent encore être
 | Fichiers         | Progression     | Relecture Inrepublica | Relecture PaulWoman | Concordance avec t_game |
 | :--------------- |:--------------- |:---------------|:---------------|:---------------|
 | t_basic.txt      | 100 %           | ok             |                | ok             |
-| t_game.txt       |   0 %           |                |                | ok             |
+| t_game.txt       |   0 %           |                |                |                |
 | gm_help.txt      | 100 %           | ok             |                |                |
 | help.txt         |   0 %           |                |                |                |
 
@@ -42,9 +42,9 @@ Il est à préciser que les fichiers proposés actuellement doivent encore être
 
 | Fichiers         | Progression     | Relecture Inrepublica | Relecture PaulWoman | Concordance avec t_game |
 | :--------------- |:--------------- |:---------------|:---------------|:---------------|
-| tut01.txt        | 100 %           | ok             | ok             |                |
-| tut02.txt        |  95 %           |                | ok             |                |
-| tut03.txt        | 95 %            |                | ok             |                |
+| tut01.txt        | 100 %           | ok             |                |                |
+| tut02.txt        | 100 %           |                |                |                |
+| tut03.txt        | 100 %           |                |                |                |
 | tut04.txt        |   0 %           |                |                |                |
 | tut05.txt        |   0 %           |                |                |                |
 | tut06.txt        |   0 %           |                |                |                |
@@ -56,10 +56,10 @@ Il est à préciser que les fichiers proposés actuellement doivent encore être
 | Fichiers         | Progression     | Relecture Inrepublica | Relecture PaulWoman | Concordance avec t_game |
 | :--------------- |:--------------- |:---------------|:---------------|:---------------|
 | tutorial 1.txt   | 95 %            |                | ok             |                |
-| tutorial 1.txt   | 95 %            |                | ok             |                |
-| tutorial 1.txt   | 95 %            |                | ok             |                |
-| tutorial 1.txt   | 95 %            |                | ok             |                |
-| tutorial 1.txt   | 95 %            |                | ok             |                |
-| tutorial 1.txt   | 95 %            |                | ok             |                |
-| tutorial 1.txt   | 95 %            |                | ok             |                |
-| tutorial 1.txt   | 95 %            |                | ok             |                |
+| tutorial 2.txt   | 95 %            |                | ok             |                |
+| tutorial 3.txt   | 95 %            |                | ok             |                |
+| tutorial 4.txt   | 95 %            |                | ok             |                |
+| tutorial 5.txt   | 95 %            |                | ok             |                |
+| tutorial 6.txt   | 95 %            |                | ok             |                |
+| tutorial 7.txt   | 95 %            |                | ok             |                |
+| tutorial 8.txt   | 95 %            |                | ok             |                |
