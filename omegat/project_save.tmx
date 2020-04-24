@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// 2 means range brand</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T154851Z" creationid="Acer" creationdate="20200424T154851Z">
+        <seg>// 2 means range brand</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// AI Friendly Merger=&lt;On, Off&gt;</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151325Z" creationid="Inrepublica" creationdate="20200423T151325Z">
@@ -986,6 +994,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T171037Z" creationid="Inrepublica" creationdate="20200422T203645Z">
         <seg>Volatilité du cycle expansion-récessionle </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Brand strategy=2</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T154849Z" creationid="Acer" creationdate="20200424T154849Z">
+        <seg>Brand strategy=2</seg>
       </tuv>
     </tu>
     <tu>
@@ -3347,6 +3363,14 @@ Traduit avec www.DeepL.com/Translator (version gratuite)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is important to decide upon your brand strategy at the start of a game as there is a heavy cost for switching your brand strategy - it resets all existing brand ratings to zero.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T155011Z" creationid="Acer" creationdate="20200424T155011Z">
+        <seg>Il est important de décider de votre stratégie de marque au début d'un jeu car le changement de stratégie de marque a un coût élevé ;  cela remet à zéro toutes les évaluations de marque existantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is true that different product types require different marketing strategies.^^As a rule, the higher the ~brand concern~ of the product you are selling, the more aggressively you should spend in its advertisement.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T122758Z" creationid="Olivier" creationdate="20200424T122758Z">
@@ -4263,6 +4287,14 @@ Traduit avec www.DeepL.com/Translator (version gratuite)</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T131347Z" creationid="Inrepublica" creationdate="20200423T131347Z">
         <seg>Pointer=172,71,196,91</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=185,255,271,271</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T154847Z" creationid="Acer" creationdate="20200424T154847Z">
+        <seg>Pointer=185,255,271,271</seg>
       </tuv>
     </tu>
     <tu>
@@ -5399,6 +5431,14 @@ Traduit avec www.DeepL.com/Translator (version gratuite)</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T092002Z" creationid="Olivier" creationdate="20200424T092002Z">
         <seg>Text Box=230,550,500,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Box=252,65,450,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T154844Z" creationid="Acer" creationdate="20200424T154844Z">
+        <seg>Text Box=252,65,450,0</seg>
       </tuv>
     </tu>
     <tu>
