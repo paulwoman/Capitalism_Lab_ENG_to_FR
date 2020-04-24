@@ -606,6 +606,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Among that 60%, ~Timber~ contributes 40%; ~Cotton~ contributes 10%; and ~Linen~ contributes the remaining 10%.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T091958Z" creationid="Olivier" creationdate="20200424T091958Z">
+        <seg>Parmi ces 60 %, ~bois~ représente 40 %, le ~coton~ 10 % et le ~lin~ les 10 % restants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Apartment Capacity Modifier</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T172527Z" creationid="Inrepublica" creationdate="20200422T172527Z">
@@ -2961,6 +2969,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It shows that ~Timber~ may also be combined with ~Cotton~ and ~Linen~ to produce ~Chair~.^^The quality of ~Chair~ is 60% influenced by the raw materials.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T091748Z" creationid="Olivier" creationdate="20200424T091748Z">
+        <seg>Il montre que le ~bois~ peut également être combiné avec le ~coton~ et le ~lin~ pour produire la ~chaise~. La qualité de la ~chaire~ est influencée à 60 % par les matières premières.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It shows the amount of cash your corporation currently has and its operating profit in the past 12 months.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T123715Z" creationid="Olivier" creationdate="20200423T123715Z">
@@ -3733,6 +3749,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T131314Z" creationid="Inrepublica" creationdate="20200423T131314Z">
         <seg>Pointer=31,30,79,58</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=318,184,398,200</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T091624Z" creationid="Olivier" creationdate="20200424T091624Z">
+        <seg>Pointer=318,184,398,200</seg>
       </tuv>
     </tu>
     <tu>
