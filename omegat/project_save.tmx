@@ -3161,6 +3161,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is true that different product types require different marketing strategies.^^As a rule, the higher the ~brand concern~ of the product you are selling, the more aggressively you should spend in its advertisement.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T122758Z" creationid="Olivier" creationdate="20200424T122758Z">
+        <seg>Il est vrai que des types de produits différents nécessitent des stratégies de marketing différentes. En règle générale, plus la ~ préoccupation de la marque~ du produit que vous vendez est élevée, plus vous devez dépenser énergiquement dans sa publicité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It lists all the products currently available within the game.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T165658Z" creationid="Olivier" creationdate="20200422T165658Z">
@@ -3853,6 +3861,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T171855Z" creationid="Olivier" creationdate="20200422T171855Z">
         <seg>Sur la mini carte, les zones blanches représentent les bâtiments de la ville qui n'appartiennent pas à des sociétés, comme les maisons et les parcs. Les zones colorées représentent les bâtiments appartenant à des sociétés et sont représentées par la couleur de la société. Les ports maritimes sont représentés par la lettre "C" ou "I" -  "C" pour les produits de consommation -  (comme les téléviseurs ou les jeans) et ~ "I" pour les produits industriels~ (comme le charbon ou l'acier).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the other hand, for some products like ~frozen meat~, consumers are concerned less about ~brands~, and are concerned more about ~quality~ and ~prices~.^^For such products, advertising should be limited and the focus should be on optimizing your business operations to offer consumers with products of lower prices and higher quality.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T122438Z" creationid="Olivier" creationdate="20200424T122438Z">
+        <seg>D'autre part, pour certains produits comme la ~viande congelée~, les consommateurs sont moins préoccupés par les ~marques~ et plus par la ~qualité~ et les ~prix~.^^Pour ces produits, la publicité doit être limitée et l'accent doit être mis sur l'optimisation de vos opérations commerciales afin d'offrir aux consommateurs des produits à prix plus bas et de meilleure qualité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5041,6 +5057,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Text Box=300,280,400,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T122441Z" creationid="Olivier" creationdate="20200424T122441Z">
+        <seg>Text Box=300,280,400,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Text Box=300,295,400,0</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T090432Z" creationid="Olivier" creationdate="20200424T090432Z">
@@ -5739,8 +5763,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>This means that the ~brand~ is a significantly more important factor for jeans.^^So if you plan to start a business selling jeans, it is critical that you spend aggressively on advertising your jeans, so long as your budget permits.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T113554Z" creationid="Olivier" creationdate="20200424T113554Z">
-        <seg>Cela signifie que la "marque" est un facteur nettement plus important pour les jeans.^^Si vous envisagez de créer une entreprise de vente de jeans, il est donc essentiel que vous dépensiez de manière agressive pour la publicité de vos jeans, tant que votre budget le permet.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T113645Z" creationid="Olivier" creationdate="20200424T113554Z">
+        <seg>Cela signifie que la ~marque~ est un facteur nettement plus important pour les jeans. Si vous envisagez de créer une entreprise de vente de jeans, il est donc essentiel que vous dépensiez de manière agressive pour la publicité de vos jeans, tant que votre budget le permet.</seg>
       </tuv>
     </tu>
     <tu>
