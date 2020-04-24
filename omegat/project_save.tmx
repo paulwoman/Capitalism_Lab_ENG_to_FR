@@ -592,8 +592,8 @@
       <tuv lang="en-US">
         <seg>Alternatively, you may press the ~Enter~ key to continue whenever the Next icon is flashing.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T165408Z" creationid="Olivier" creationdate="20200422T165408Z">
-        <seg>Vous pouvez également appuyer sur la touche ~Enter~ pour continuer lorsque l'icône Suivant clignote.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T090026Z" creationid="Olivier" creationdate="20200422T165408Z">
+        <seg>Vous pouvez également appuyer sur la touche ~Entrée~ pour continuer lorsque l'icône ~Suivant~ clignote.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1082,6 +1082,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T170036Z" creationid="Olivier" creationdate="20200422T170036Z">
         <seg>Cliquez sur le bouton "SELECT" maintenant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the ~[+]~ button next to the ~Borrow~ button.^^When you have increased the the amount to $20,000,000 or more, click the ~Borrow~ button.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T090111Z" creationid="Olivier" creationdate="20200424T090111Z">
+        <seg>Cliquez sur le bouton ~[+]~ à côté du bouton ~Emprunter~. Lorsque vous avez augmenté le montant à 20 millions ou plus, cliquez sur le bouton ~Emprunter~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click ~Manufacturer's Guide~ on the left of the screen to proceed.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T090427Z" creationid="Olivier" creationdate="20200424T090427Z">
+        <seg>Cliquez sur ~Guide du fabricant~ à gauche de l'écran pour continuer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5566,6 +5582,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T085550Z" creationid="Olivier" creationdate="20200424T085550Z">
         <seg>Vous devez d'abord obtenir un prêt pour financer vos grands projets. Cliquez sur l'icône ~Centre d'information~ sur la barre d'outils inférieure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You now have the funds to start your company.^^The next step is to get an understanding about the manufacturing process.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T090133Z" creationid="Olivier" creationdate="20200424T090133Z">
+        <seg>Vous avez maintenant les fonds nécessaires pour lancer votre entreprise.^^ La prochaine étape consiste à comprendre le processus de fabrication.</seg>
       </tuv>
     </tu>
     <tu>
