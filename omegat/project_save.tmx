@@ -1392,8 +1392,8 @@
       <tuv lang="en-US">
         <seg>Click ~Stock Exchange~.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T203813Z" creationid="Acer" creationdate="20200424T203813Z">
-        <seg>Cliquez sur ~Echange d'actions~.</seg>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T204158Z" creationid="Acer" creationdate="20200424T203813Z">
+        <seg>Cliquez sur ~Bourse~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4441,6 +4441,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=170,53,560,270</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T204228Z" creationid="Acer" creationdate="20200424T204228Z">
+        <seg>Pointer=170,53,560,270</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=171,183,228,239</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200424T121322Z" creationid="Inrepublica" creationdate="20200424T121322Z">
@@ -5681,6 +5689,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Text Box=200,300,500,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T204221Z" creationid="Acer" creationdate="20200424T204221Z">
+        <seg>Text Box=200,300,500,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Text Box=220,135,400,0</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T152608Z" creationid="Acer" creationdate="20200424T152608Z">
@@ -5973,6 +5989,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T123902Z" creationid="Olivier" creationdate="20200423T123902Z">
         <seg>Le rectangle animé sur la mini-carte représente la zone affichée dans la vue de la ville.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The area below shows the shareholders of the selected public company.^^You hold 50% shares of your company and the rest of the shares are held by public shareholders, AI persons and AI companies.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T204344Z" creationid="Acer" creationdate="20200424T204344Z">
+        <seg>La zone ci-dessous indique les actionnaires de la société publique sélectionnée. Vous détenez 50 % des actions de votre société et le reste des actions est détenu par des actionnaires publics, des personnes et des sociétés gérées par l'ordinateur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7598,6 +7622,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T085624Z" creationid="Olivier" creationdate="20200424T085624Z">
         <seg>La limite de crédit de votre entreprise varie tout au long du jeu en fonction de la situation de votre entreprise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your corporation is the first one on the list.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T204219Z" creationid="Acer" creationdate="20200424T204219Z">
+        <seg>Votre société est la première sur la liste.</seg>
       </tuv>
     </tu>
     <tu>
