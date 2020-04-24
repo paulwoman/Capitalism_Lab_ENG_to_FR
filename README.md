@@ -26,31 +26,40 @@ Pour ce faire, faites ctrl L pour selectionner le fichier voulu, les plus import
 Il est à préciser que les fichiers proposés actuellement doivent encore être testés pour vérifier s'ils ne provoquent pas de BUG et / ou les actions à effectuer correspondent bien à ce qui est écrit.
 
 # Etat de la traduction
-1) Fichiers pouvant se mettre dans le dossier "translate"
 
-* t_basic.txt = 100%
-* t_game.txt = 0%
-* gm_help.txt = 100%
-* help.txt = 0%
+## Fichiers pouvant se mettre dans le dossier "translate"
 
-2) Fichiers qui doivent s'installer dans un dossier dédié:
+| Fichiers         | Progression     | Relecture Inrepublica | Relecture PaulWoman |
+| :--------------- |:--------------- |:---------------|:---------------|
+| t_basic.txt      | 100 %           | Ok             |                |
+| t_game.txt       |   0 %           |                |                |
+| gm_help.txt      | 100 %           | Ok             |                |
+| help.txt         |   0 %           |                |                |
 
-2.1 Dossier "Tutorial"
-* tut01 : 100 %
-* tut02 : 100 %
-* tut03 : 100 %
-* tut04 : 0 %
-* tut05 : 0 %
-* tut06 : 0 %
-* tut07 : 0 %
-* tut08 : 0 %
+## Fichiers qui doivent s'installer dans un dossier dédié:
 
-2.1.5 : Sous-dossier "script"
-* tutorial 1 : 100 %
-* tutorial 2 : 100 %
-* tutorial 3 : 100 %
-* tutorial 4 : 95 %
-* tutorial 5 : 95 %
-* tutorial 6 : 95 %
-* tutorial 7 : 95 %
-* tutorial 8 : 95 %
+### Dossier "Tutorial"
+
+| Fichiers         | Progression     | Relecture Inrepublica | Relecture PaulWoman |
+| :--------------- |:--------------- |:---------------|:---------------|
+| tut01.txt        | 100 %           |                | ok             |
+| tut02.txt        | 100 %           |                | ok             |
+| tut03.txt        | 100 %           |                | ok             |
+| tut04.txt        |   0 %           |                |                |
+| tut05.txt        |   0 %           |                |                |
+| tut06.txt        |   0 %           |                |                |
+| tut07.txt        |   0 %           |                |                |
+| tut08.txt        |   0 %           |                |                |
+
+### Sous-dossier "script"
+
+| Fichiers         | Progression     | Relecture Inrepublica | Relecture PaulWoman |
+| :--------------- |:--------------- |:---------------|:---------------|
+| tutorial 1.txt   | 95 %            |                | ok             |
+| tutorial 1.txt   | 95 %            |                | ok             |
+| tutorial 1.txt   | 95 %            |                | ok             |
+| tutorial 1.txt   | 95 %            |                | ok             |
+| tutorial 1.txt   | 95 %            |                | ok             |
+| tutorial 1.txt   | 95 %            |                | ok             |
+| tutorial 1.txt   | 95 %            |                | ok             |
+| tutorial 1.txt   | 95 %            |                | ok             |
