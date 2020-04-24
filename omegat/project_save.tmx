@@ -822,6 +822,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As a recap, to buy stocks, you should:^^1) Select the stock you want to buy.^^2) Select whether your corporation or yourself as an individual is going to buy the stock.^^3) Set the purchase amount.^^4) Click the ~Buy~ button.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T210853Z" creationid="Acer" creationdate="20200424T210853Z">
+        <seg>En résumé, pour acheter des actions, vous devez:^1) Sélectionner l'action que vous voulez acheter.^^2) Choisir si votre société ou vous-même en tant que particulier allez acheter l'action.^^3) Fixer le montant de l'achat.^^4) Cliquer sur le bouton ~Acheter~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As soon as your factory receives Timber from the supplier, the Manufacturing Unit begins to produce Bed.^^Shortly afterwards, the Manufacturing Unit will send finished products to the Sales Unit and your Bed will be available for sale to the world.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T094322Z" creationid="Olivier" creationdate="20200424T094322Z">
@@ -4845,6 +4853,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T122835Z" creationid="Inrepublica" creationdate="20200423T122835Z">
         <seg>Pointer=38,68,122,78</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=387,468,757,520</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T210556Z" creationid="Acer" creationdate="20200424T210556Z">
+        <seg>Pointer=387,468,757,520</seg>
       </tuv>
     </tu>
     <tu>
