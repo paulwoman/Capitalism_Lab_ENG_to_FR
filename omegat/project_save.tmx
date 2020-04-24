@@ -2689,6 +2689,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Good luck!</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T203137Z" creationid="Acer" creationdate="20200424T203137Z">
+        <seg>Bonne chance !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Good work with your factory!</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T145339Z" creationid="Olivier" creationdate="20200424T145339Z">
@@ -3189,6 +3197,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124030Z" creationid="Olivier" creationdate="20200423T124030Z">
         <seg>Dans ce mode, les bâtiments représentés par les points verts sont rentables alors que les bâtiments représentés par les ~points rouges perdent de l'argent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In this tutorial, you will be introduced to the stock market and learn how to leverage it to meet the financial needs of your corporation.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T203318Z" creationid="Acer" creationdate="20200424T203318Z">
+        <seg>Dans ce tutoriel, vous serez initié au marché boursier et apprendrez comment en tirer parti pour répondre aux besoins financiers de votre société.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7025,6 +7041,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Well now, let's look at the current state of the stock market.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T203529Z" creationid="Acer" creationdate="20200424T203529Z">
+        <seg>Examinons maintenant l'état actuel du marché boursier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When Product Customization is enabled, Technology Disruption will be automatically turned off.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T165553Z" creationid="Inrepublica" creationdate="20200422T173042Z">
@@ -7460,10 +7484,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>You will complete this tutorial when you ~dominate the Apparel market~ while achieving ~an annual profit~ of not less than ~$2 million~.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T195913Z" creationid="Acer" creationdate="20200424T195913Z">
-        <seg>Vous terminerez ce tutoriel lorsque vous aurez dominé le marché de l'habillement tout en réalisant un bénéfice annuel d'au moins ~2 millions de dollars~.
-
-Bonne chance !</seg>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T203101Z" creationid="Acer" creationdate="20200424T195913Z">
+        <seg>Vous terminerez ce tutoriel lorsque vous aurez dominé le marché de l'habillement tout en réalisant un bénéfice annuel d'au moins ~2 millions de dollars~.</seg>
       </tuv>
     </tu>
     <tu>
