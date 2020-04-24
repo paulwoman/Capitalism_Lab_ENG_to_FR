@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// 2 means that the condition is met when your department store is selling 2 different products of the specified item class</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T174929Z" creationid="Acer" creationdate="20200424T174929Z">
+        <seg>// 2 means that the condition is met when your department store is selling 2 different products of the specified item class</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// AI Friendly Merger=&lt;On, Off&gt;</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151325Z" creationid="Inrepublica" creationdate="20200423T151325Z">
@@ -6507,6 +6515,14 @@ Traduit avec www.DeepL.com/Translator (version gratuite)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This time you do not need to link the new product to the advertising unit as it is already covered by your ~apparel product class~ brand.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T175434Z" creationid="Acer" creationdate="20200424T175434Z">
+        <seg>Cette fois-ci, vous n'avez pas besoin de lier le nouveau produit à l'unité de publicité car il est déjà couvert par votre marque ~ d'articles vestimentaires~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This time, you are going to do what an experienced retail manager will do -- manually set up a pair of ~Purchasing and Sale Units~ for your retail store.^^~Double click~ an empty unit space on the layout grid now and select ~Purchasing Unit~ from the list.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T150319Z" creationid="Olivier" creationdate="20200423T143510Z">
@@ -6519,6 +6535,14 @@ Traduit avec www.DeepL.com/Translator (version gratuite)</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T155201Z" creationid="Acer" creationdate="20200424T155201Z">
         <seg>Ce tutoriel se poursuivra lorsque vous l'aurez fait.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This tutorial will continue when you successful produce and sell a new ~apparel~ product in your department store.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T174923Z" creationid="Acer" creationdate="20200424T174923Z">
+        <seg>Ce tutoriel se poursuivra lorsque vous aurez réussi à produire et à vendre un nouveau produit ~vestimentaire~ dans votre grand magasin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7464,6 +7488,14 @@ Traduit avec www.DeepL.com/Translator (version gratuite)</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T150349Z" creationid="Olivier" creationdate="20200423T144837Z">
         <seg>Votre magasin a maintenant une nouvelle ~unité d'achat~. Procédez à l'ajout d'une ~unité de vente~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your store sells your product class=Apparel, 2</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T174925Z" creationid="Acer" creationdate="20200424T174925Z">
+        <seg>Your store sells your product class=Apparel, 2</seg>
       </tuv>
     </tu>
     <tu>
