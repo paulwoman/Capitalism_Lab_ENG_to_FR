@@ -582,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Active Interface=Corporate Detail Report</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T152726Z" creationid="Acer" creationdate="20200424T152726Z">
+        <seg>Active Interface=Corporate Detail Report</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Add Seaport Product=Dyestuff</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T101335Z" creationid="Olivier" creationdate="20200424T101335Z">
@@ -2969,6 +2977,16 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you wish to have a single brand covering every product you sell, then you should choose the ~Corporate brand strategy~.^^The ~advantage~ to this approach is that any new products you launch will instantly benefit from the recognition of the existing corporate brand.^^The ~disadvantage~ is that brand loyalty will suffer if any of your products fail to live up to consumers' quality expectations of your corporate brand.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T152902Z" creationid="Acer" creationdate="20200424T152902Z">
+        <seg>Si vous souhaitez avoir une marque unique couvrant tous les produits que vous vendez, vous devez alors choisir la ~stratégie de marque d'entreprise~. L'avantage~ de cette approche est que tout nouveau produit que vous lancez bénéficiera instantanément de la reconnaissance de la marque d'entreprise existante. L'inconvénient~ est que la fidélité à la marque souffrira si l'un de vos produits ne répond pas aux attentes des consommateurs en matière de qualité de votre marque d'entreprise.
+
+Traduit avec www.DeepL.com/Translator (version gratuite)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If, for whatever reason, the supply of a product to the store is interrupted, you can easily replace it with another product.^^On the other hand, ~a specialty store~ can only sell a specific range of products.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T133550Z" creationid="Olivier" creationdate="20200423T133550Z">
@@ -4641,6 +4659,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=643,107,680,119</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T152732Z" creationid="Acer" creationdate="20200424T152732Z">
+        <seg>Pointer=643,107,680,119</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=65,6,94,30</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T122746Z" creationid="Inrepublica" creationdate="20200423T122746Z">
@@ -5345,6 +5371,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Text Box=220,135,400,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T152608Z" creationid="Acer" creationdate="20200424T152608Z">
+        <seg>Text Box=220,135,400,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Text Box=230,510,500,0</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T090847Z" creationid="Olivier" creationdate="20200424T090847Z">
@@ -5501,6 +5535,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200424T121330Z" creationid="Inrepublica" creationdate="20200424T121330Z">
         <seg>Text Box=350,280,200,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Box=380,250,350,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T152729Z" creationid="Acer" creationdate="20200424T152729Z">
+        <seg>Text Box=380,250,350,0</seg>
       </tuv>
     </tu>
     <tu>
@@ -7070,6 +7112,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124651Z" creationid="Olivier" creationdate="20200423T124651Z">
         <seg>Votre curseur met maintenant en évidence une place sur la ville.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your factory sells product class=Apparel</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T152722Z" creationid="Acer" creationdate="20200424T152722Z">
+        <seg>Your factory sells product class=Apparel</seg>
       </tuv>
     </tu>
     <tu>
