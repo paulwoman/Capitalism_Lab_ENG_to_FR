@@ -3521,6 +3521,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Next to them you will see the ~Concern~ column.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T103018Z" creationid="Olivier" creationdate="20200424T103018Z">
+        <seg>À côté d'eux, vous verrez la colonne ~Préoccupation~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Next, you will see the yellow Supply bar and the orange Demand bar.^^The ~yellow supply bar~ tells the amount of supply from the supplier, and the ~orange demand bar~ measures the consumer demand for the product.^^If the supply bar is shorter than the demand bar, there is a supply shortage.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T150219Z" creationid="Olivier" creationdate="20200423T142816Z">
@@ -4237,6 +4245,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T131259Z" creationid="Inrepublica" creationdate="20200423T131259Z">
         <seg>Pointer=55,262,128,282</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=555,169,723,268</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T102903Z" creationid="Olivier" creationdate="20200424T102903Z">
+        <seg>Pointer=555,169,723,268</seg>
       </tuv>
     </tu>
     <tu>
@@ -4965,6 +4981,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T092002Z" creationid="Olivier" creationdate="20200424T092002Z">
         <seg>Text Box=230,550,500,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Box=280,320,400,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T102900Z" creationid="Olivier" creationdate="20200424T102900Z">
+        <seg>Text Box=280,320,400,0</seg>
       </tuv>
     </tu>
     <tu>
