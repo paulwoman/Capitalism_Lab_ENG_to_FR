@@ -19,6 +19,10 @@ En particulier attention au paramètre "segmenter le texte source en paragraphe 
 
 Une fois vos contributions effectuées, cliquez sur Enregistrer et ensuite indiquez votre nom d'utilisateur et votre mot de passe github.
 
+Les fichiers traduits sont de temps en temps générés dans le dossier "target", mais vous pouvez vous servir d'OmegaT pour générer la dernière version en cours.
+
+Pour ce faire, faites ctrl L pour selectionner le fichier voulu, les plus importants étant : gm_help, help et t_game. Ensuite, générez le fichier en faisant ctrl maj D. Vous retrouverez les fichiers dans le dossier "target" du dossier que vous avez créé au début. 
+
 # Etat de la traduction
 1) Fichiers pouvant se mettre dans le dossier "translate"
 
