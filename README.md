@@ -46,9 +46,9 @@ Il est à préciser que les fichiers proposés actuellement doivent encore être
 * tut08 : 0 %
 
 2.1.5 : Sous-dossier "script"
-* tutorial 1 : 95 %
-* tutorial 2 : 95 %
-* tutorial 3 : 95 %
+* tutorial 1 : 100 %
+* tutorial 2 : 100 %
+* tutorial 3 : 100 %
 * tutorial 4 : 95 %
 * tutorial 5 : 95 %
 * tutorial 6 : 95 %
