@@ -14,6 +14,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Hint: If you are already manufacturing and selling jeans, choose leather jacket).</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T174853Z" creationid="Acer" creationdate="20200424T174853Z">
+        <seg>(Conseil : si vous fabriquez et vendez déjà des jeans, choisissez une veste en cuir).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(Hint: If you are already manufacturing and selling jeans, choose leather jacket).^^This tutorial will continue when you successful produce and sell a new ~apparel~ product in your department store.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T174635Z" creationid="Acer" creationdate="20200424T174635Z">
+        <seg>(Astuce : si vous fabriquez et vendez déjà des jeans, choisissez une veste en cuir).^^Ce tutoriel se poursuivra lorsque vous aurez réussi à produire et à vendre un nouveau produit ~vestimentaire~ dans votre grand magasin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Otherwise they'd all be smelly wouldn't they?)</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T124016Z" creationid="Olivier" creationdate="20200424T124016Z">
@@ -1048,8 +1064,8 @@
       <tuv lang="en-US">
         <seg>Build another factory to produce a different ~apparel~ product.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T174542Z" creationid="Acer" creationdate="20200424T174542Z">
-        <seg>Construire une autre usine pour produire un autre article ~vestimentaire~ .</seg>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T174703Z" creationid="Acer" creationdate="20200424T174542Z">
+        <seg>Construisez une autre usine pour produire un autre article ~vestimentaire~ .</seg>
       </tuv>
     </tu>
     <tu>
