@@ -2593,6 +2593,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hide=Tutorial window</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T125023Z" creationid="Olivier" creationdate="20200424T125023Z">
+        <seg>Hide=Tutorial window</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>High quality products offer a more attractive retail prospect to the consumer.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160501Z" creationid="Inrepublica" creationdate="20200422T160501Z">
@@ -2653,6 +2661,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T133626Z" creationid="Olivier" creationdate="20200423T133626Z">
         <seg>Si un problème d'approvisionnement survient, vous ne pourrez peut-être pas le résoudre aussi facilement en raison des types limités de produits qu'un magasin spécialisé peut vendre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If at any point you are lost and you want to restart the tutorial, you can ~press the ESC key and select Restart Tutorial~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T125021Z" creationid="Olivier" creationdate="20200424T125021Z">
+        <seg>Si, à un moment donné, vous êtes perdu et que vous souhaitez redémarrer le tutoriel, vous pouvez ~appuyer sur la touche ESC et sélectionner Redémarrer le tutoriel~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3693,6 +3709,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151824Z" creationid="Olivier" creationdate="20200423T151824Z">
         <seg>Cliquez maintenant sur le logo de votre ~entreprise~ pour obtenir plus d'informations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now go ahead and build a factory.^^This tutorial will continue when you have built a factory.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T124939Z" creationid="Olivier" creationdate="20200424T124939Z">
+        <seg>Maintenant, construisez une usine.^^Ce tutoriel se poursuivra lorsque vous aurez construit une usine.</seg>
       </tuv>
     </tu>
     <tu>
