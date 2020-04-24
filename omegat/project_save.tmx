@@ -5203,6 +5203,14 @@ Traduit avec www.DeepL.com/Translator (version gratuite)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the ~Brand~ menu option to view the current brand ratings of your products.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T180408Z" creationid="Acer" creationdate="20200424T180408Z">
+        <seg>Sélectionnez l'option de menu ~Marque~ pour afficher les évaluations actuelles de la marque de vos produits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the ~Dominance~ option to see how your corporation is faring against the competition.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T175943Z" creationid="Acer" creationdate="20200424T175943Z">
@@ -5543,6 +5551,14 @@ Traduit avec www.DeepL.com/Translator (version gratuite)</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T133225Z" creationid="Olivier" creationdate="20200423T133225Z">
         <seg>Text Box=100,280,400,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Box=170,380,580,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T180347Z" creationid="Acer" creationdate="20200424T180347Z">
+        <seg>Text Box=170,380,580,0</seg>
       </tuv>
     </tu>
     <tu>
@@ -7011,6 +7027,14 @@ Traduit avec www.DeepL.com/Translator (version gratuite)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When it reads "1st", it means your corporation has achieved market dominance for the respective product class.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T180345Z" creationid="Acer" creationdate="20200424T180345Z">
+        <seg>Quand il est écrit "1er", cela signifie que votre société a atteint une position dominante sur le marché pour la classe de produits concernée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When the Express mode is enabled, a new streamlined user interface will be used for retail stores, replacing the original 3x3 layout.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T195520Z" creationid="Inrepublica" creationdate="20200422T195520Z">
@@ -7167,6 +7191,14 @@ Traduit avec www.DeepL.com/Translator (version gratuite)</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T123820Z" creationid="Olivier" creationdate="20200423T123820Z">
         <seg>Vous pouvez modifier la vitesse du jeu en utilisant les touches de raccourci " 1 " (le plus lent) à "5 " (le plus rapide). Vous pouvez également mettre le jeu en pause en appuyant sur la touche "0". </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can see your corporation's market shares for each product that it is currently selling.^^The ~rank~ columns indicates your company's sales ranking.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T180248Z" creationid="Acer" creationdate="20200424T180248Z">
+        <seg>Vous pouvez voir les parts de marché de votre société pour chaque produit qu'elle vend actuellement. Les colonnes ~classement~ indiquent le classement des ventes de votre société.</seg>
       </tuv>
     </tu>
     <tu>
