@@ -1254,6 +1254,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=To stay competitive in a fast-changing market, you must constantly invest into improving the quality of your products.^^In this tutorial, you will set up a Research and Development (R&amp;D) Center and start R&amp;D projects to invent more advanced technology for your products.^^The competition will be fierce, but your R&amp;D investment should pay off and give you a competitive edge against your rivals.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T210605Z" creationid="Olivier" creationdate="20200423T210605Z">
+        <seg>Description=Pour rester compétitif sur un marché en évolution permanente, vous devez constamment investir dans l'amélioration de la qualité de vos produits.^^Dans ce tutoriel, vous allez créer un centre de recherche et développement (R&amp;D) et lancer des projets de R&amp;D pour inventer une technologie plus avancée pour vos produits.^^La concurrence sera féroce, mais votre investissement en R&amp;D devrait porter ses fruits et vous donner un avantage concurrentiel sur vos concurrents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=With your retail business thriving, your next goal is to manufacture your own products and sell them until your own brand.^^This tutorial will guide you through the process of setting up factories, sourcing raw materials and getting manufacturing facilities running to churn out products for sale.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T172920Z" creationid="Olivier" creationdate="20200423T172920Z">
@@ -1266,6 +1274,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T205913Z" creationid="Olivier" creationdate="20200423T205913Z">
         <seg>Description=Vous avez construit un empire commercial florissant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=You have made impressive progresses thus far and earned yourself the reputation of being one of rising stars presently in the business world.^^In this final tutorial, you will learn how to build your corporate headquarters and set up various departments to enable you to manage your business empire even more effectively.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T210735Z" creationid="Olivier" creationdate="20200423T210735Z">
+        <seg>Description=Vous avez fait des progrès impressionnants jusqu'à présent et vous avez acquis la réputation d'être l'une des étoiles montantes du monde des affaires.^^Dans ce dernier tutoriel, vous apprendrez comment construire votre siège social et mettre en place différents départements pour vous permettre de gérer votre empire commercial encore plus efficacement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2169,6 +2185,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=To win this game, your company must achieve an annual revenue of $150 million and an annual profit of $15 million.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T210623Z" creationid="Olivier" creationdate="20200423T210623Z">
+        <seg>Goal Description=Pour gagner ce jeu, votre entreprise doit réaliser un chiffre d'affaires annuel de 150 millions de dollars et un bénéfice annuel de 15 millions de dollars..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=To win this game, your company must make at least 20 types of products to demonstrate its ability to produce a wide range of products.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T210340Z" creationid="Olivier" creationdate="20200423T210340Z">
@@ -2189,6 +2213,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T210033Z" creationid="Olivier" creationdate="20200423T210033Z">
         <seg>Goal Description=Vous gagnez ce tutoriel lorsque le cours de l'action de votre entreprise passe à 100 dollars.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=Your goal is to grow your company to a large corporation with ~1000 or more employees~, and achieve ~an annual revenue of $1 billion~ and ~an annual profit of $100 million~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T210851Z" creationid="Olivier" creationdate="20200423T210851Z">
+        <seg>Goal Description=Votre objectif est de faire de votre entreprise une grande société avec ~1000 employés ou plus~, et d'atteindre ~un chiffre d'affaires annuel d'un milliard de dollars~ et ~un bénéfice annuel de 100 millions de dollars~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3893,6 +3925,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161033Z" creationid="Inrepublica" creationdate="20200422T161033Z">
         <seg>Désactivation aléatoire des classes de produits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Remember to choose an apt brand strategy early on and invest wisely in advertising, R&amp;D and training.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T210838Z" creationid="Olivier" creationdate="20200423T210838Z">
+        <seg>N'oubliez pas de choisir très tôt une stratégie de marque adaptée et d'investir judicieusement dans la publicité, la R&amp;D et la formation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7360,6 +7400,14 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151502Z" creationid="Inrepublica" creationdate="20200423T151502Z">
         <seg>[TUTORIAL]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^^Try to apply what you have learned from previous tutorials into managing your company.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T210756Z" creationid="Olivier" creationdate="20200423T210756Z">
+        <seg>^^Essayez d'appliquer ce que vous avez appris dans les tutoriels précédents à la gestion de votre entreprise.</seg>
       </tuv>
     </tu>
     <tu>
