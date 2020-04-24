@@ -4035,6 +4035,14 @@ Traduit avec www.DeepL.com/Translator (version gratuite)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now the unit detail section of your advertising unit displays the media firm you have just selected.^^You may adjust the ~Monthly Spending Per Product~ slider but for now leave it set at $100,000.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T170647Z" creationid="Acer" creationdate="20200424T170647Z">
+        <seg>À présent, la section de détail de votre unité de publicité affiche l'entreprise médiatique que vous venez de sélectionner. Vous pouvez ajuster le curseur ~Dépenses mensuelles par produit~ mais pour l'instant, laissez le réglage à 100 000 dollars.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now waste no time and get started working towards this goal.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T133134Z" creationid="Olivier" creationdate="20200423T133134Z">
@@ -4767,6 +4775,14 @@ Traduit avec www.DeepL.com/Translator (version gratuite)</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151748Z" creationid="Olivier" creationdate="20200423T151748Z">
         <seg>Pointer=636,87,754,100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=641,342,646,357</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T170515Z" creationid="Acer" creationdate="20200424T170515Z">
+        <seg>Pointer=641,342,646,357</seg>
       </tuv>
     </tu>
     <tu>
@@ -5731,6 +5747,14 @@ Traduit avec www.DeepL.com/Translator (version gratuite)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Text Box=430,150,350,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T170510Z" creationid="Acer" creationdate="20200424T170510Z">
+        <seg>Text Box=430,150,350,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Text Box=500,100,250,0</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200424T121315Z" creationid="Inrepublica" creationdate="20200424T121315Z">
@@ -6671,6 +6695,14 @@ Traduit avec www.DeepL.com/Translator (version gratuite)</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200424T121303Z" creationid="Inrepublica" creationdate="20200424T121303Z">
         <seg>Unit Linked=Purchasing, Sales, 4, 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unit Linked=Sales, Advertising, 3, 5</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T170517Z" creationid="Acer" creationdate="20200424T170517Z">
+        <seg>Unit Linked=Sales, Advertising, 3, 5</seg>
       </tuv>
     </tu>
     <tu>
