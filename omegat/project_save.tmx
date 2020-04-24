@@ -646,6 +646,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>At this moment the maximum amount you may borrow is $30,000,000.^^</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T085649Z" creationid="Olivier" creationdate="20200424T085649Z">
+        <seg>À l'heure actuelle, le montant maximum que vous pouvez emprunter est de 30 millions de dollars.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>At this stage you don't need to concern yourself with the information provided with each product (freight costs, ratings, brand and other information will explained in a later tutorial).^^For now, let's just purchase the first product on the list to get things moving.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T170000Z" creationid="Olivier" creationdate="20200422T170000Z">
@@ -1434,6 +1442,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202618Z" creationid="Inrepublica" creationdate="20200422T202618Z">
         <seg>Extend Text Box=32,420,300,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Extend Text Box=36,600,500,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T085559Z" creationid="Olivier" creationdate="20200424T085559Z">
+        <seg>Extend Text Box=36,600,500,0</seg>
       </tuv>
     </tu>
     <tu>
@@ -3665,6 +3681,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=33,296,151,306</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T085608Z" creationid="Olivier" creationdate="20200424T085608Z">
+        <seg>Pointer=33,296,151,306</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=36,239,52,282</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T131258Z" creationid="Inrepublica" creationdate="20200423T131258Z">
@@ -4097,6 +4121,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select ~Financial Actions~ from the Information Center.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T085605Z" creationid="Olivier" creationdate="20200424T085605Z">
+        <seg>Select ~Financial Actions~ from the Information Center.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select ~Purchasing Unit~ from the list.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T150329Z" creationid="Olivier" creationdate="20200423T143535Z">
@@ -4189,6 +4221,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T163245Z" creationid="Inrepublica" creationdate="20200422T163245Z">
         <seg>Indice des revenus des logiciels</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Starting your own corporation takes money - and lot's of it.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T085526Z" creationid="Olivier" creationdate="20200424T085526Z">
+        <seg>Créer sa propre société demande de l'argent... beaucoup d'argent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4373,6 +4413,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151649Z" creationid="Olivier" creationdate="20200423T151649Z">
         <seg>Text Box=285,480,350,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Box=300,525,400,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T085658Z" creationid="Olivier" creationdate="20200424T085658Z">
+        <seg>Text Box=300,525,400,0</seg>
       </tuv>
     </tu>
     <tu>
@@ -4765,6 +4813,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T153959Z" creationid="Inrepublica" creationdate="20200422T153959Z">
         <seg>Il y aura des sociétés IA centrées sur l'immobilier, les médias et la technologie si cette dernière est fixée à un niveau élevé ou supérieur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There's high quality timber available for import, from which you can manufacture a variety of products.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T085459Z" creationid="Olivier" creationdate="20200424T085459Z">
+        <seg>Il y a du bois de haute qualité disponible pour l'importation, à partir duquel vous pouvez fabriquer une variété de produits.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5506,6 +5562,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You must first obtain a loan to finance your grand plans.^^Click the ~Information Center icon~ on the bottom toolbar.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T085550Z" creationid="Olivier" creationdate="20200424T085550Z">
+        <seg>Vous devez d'abord obtenir un prêt pour financer vos grands projets. Cliquez sur l'icône ~Centre d'information~ sur la barre d'outils inférieure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You now have to set up products in your new department store.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T211815Z" creationid="Olivier" creationdate="20200422T211815Z">
@@ -5566,6 +5630,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151204Z" creationid="Inrepublica" creationdate="20200423T151204Z">
         <seg>Your Start-up Capital=Very High</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your company's credit limit varies throughout the game depending on the state of your company.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T085624Z" creationid="Olivier" creationdate="20200424T085624Z">
+        <seg>La limite de crédit de votre entreprise varie tout au long du jeu en fonction de la situation de votre entreprise.</seg>
       </tuv>
     </tu>
     <tu>
