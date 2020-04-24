@@ -1598,6 +1598,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Firm count=Factory, 1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T092737Z" creationid="Olivier" creationdate="20200424T092737Z">
+        <seg>Firm count=Factory, 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Firm product count=My Department Store, 2</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T131231Z" creationid="Inrepublica" creationdate="20200423T131231Z">
@@ -2693,6 +2701,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151008Z" creationid="Olivier" creationdate="20200423T151008Z">
         <seg>En résumé, ~un prix bas, une qualité élevée et une bonne image de marque~ contribuent à ~une bonne note globale~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In order for your factory to manufacture goods and sell them, it requires three unit types to be linked within the layout grid.^^You already know ~Purchasing and Sales units~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T092809Z" creationid="Olivier" creationdate="20200424T092809Z">
+        <seg>Pour que votre usine puisse fabriquer des marchandises et les vendre, il faut que trois types d'unités soient liés dans la grille de présentation. Vous connaissez déjà ~les unités d'achat et de vente~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4273,6 +4289,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select ~Factory~ from the menu and find a location to build it.^^It's a good idea to build your factory in the rural area as the land is cheaper there.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T092729Z" creationid="Olivier" creationdate="20200424T092729Z">
+        <seg>Sélectionnez ~Usine~ dans le menu et trouvez un endroit pour la construire. C'est une bonne idée de construire votre usine dans la zone rurale car le terrain y est moins cher.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select ~Financial Actions~ from the Information Center.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T085605Z" creationid="Olivier" creationdate="20200424T085605Z">
@@ -4537,10 +4561,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Text Box=10,130,180,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T092732Z" creationid="Olivier" creationdate="20200424T092732Z">
+        <seg>Text Box=10,130,180,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Text Box=10,270,220,0</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T131233Z" creationid="Inrepublica" creationdate="20200423T131233Z">
         <seg>Text Box=10,270,220,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Box=100,150,400,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T092633Z" creationid="Olivier" creationdate="20200424T092633Z">
+        <seg>Text Box=100,150,400,0</seg>
       </tuv>
     </tu>
     <tu>
