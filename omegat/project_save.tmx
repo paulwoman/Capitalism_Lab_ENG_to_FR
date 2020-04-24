@@ -2417,6 +2417,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Here it shows the ~Quality Rating~ of your Golf Club, and the factors that contribute to this quality rating, which include ~raw material qualities~, and your ~production technology~ for this product.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T095156Z" creationid="Olivier" creationdate="20200424T095156Z">
+        <seg>Elle indique ici la "cote de qualité" de votre club de golf et les facteurs qui contribuent à cette cote de qualité, qui comprennent les "qualités des matériaux bruts" et votre "technologie de production" pour ce produit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Here it shows the ~purchasing cost~ of the product and its ~freight cost~.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T145747Z" creationid="Olivier" creationdate="20200423T145747Z">
@@ -3513,6 +3521,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now let's have a closer look at the ~Manufacturing unit~ itself.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T095116Z" creationid="Olivier" creationdate="20200424T095116Z">
+        <seg>Maintenant, regardons de plus près ~l'unité de fabrication elle-même~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now link the very first ~Purchasing unit~ to the new ~Manufacturing unit~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T094954Z" creationid="Olivier" creationdate="20200424T094954Z">
+        <seg>Reliez maintenant la toute première ~unité d'achat~ à la nouvelle ~unité de fabrication~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now link the ~Purchasing Unit~ and the ~Sales Unit~ together by clicking the linkage line between them.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T150440Z" creationid="Olivier" creationdate="20200423T145212Z">
@@ -4429,6 +4453,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T145358Z" creationid="Olivier" creationdate="20200423T145358Z">
         <seg>Sélectionnez un produit à commander dans la liste des fournisseurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select your Golf Club Manufacturing unit by clicking on it.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T095134Z" creationid="Olivier" creationdate="20200424T095134Z">
+        <seg>Sélectionnez votre unité de fabrication de clubs de golf en cliquant sur celle-ci.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5525,6 +5557,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161135Z" creationid="Inrepublica" creationdate="20200422T161135Z">
         <seg>Cela rendra la compétition plus intense et améliorera le gameplay, en particulier lorsque vous jouez avec un MOD d'une grande variété de produits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This ~Manufacturing unit~ will now produce ~Golf Club~.^^See how we utilized an existing ~Purchasing unit~ supplying ~Timber~, and in conjunction with a new unit purchasing ~Steel~, to manufacture a different product.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T095046Z" creationid="Olivier" creationdate="20200424T095046Z">
+        <seg>Cette ~unité de fabrication~ va maintenant produire le ~club de golf~. Découvrez comment nous avons utilisé une ~unité d'achat~ existante fournissant du bois~, et en conjonction avec une nouvelle unité d'achat ~acier~, pour fabriquer un produit différent.</seg>
       </tuv>
     </tu>
     <tu>
