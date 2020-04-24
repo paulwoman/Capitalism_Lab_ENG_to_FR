@@ -4121,6 +4121,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now set the ~Number of New Shares~ you want to issue, and click the ~Issue Now~ button to issue new shares to raise money.^^As a rule, the larger the quantity of new shares you wish to issue, the higher the discount in share prices you must offer, in order to attract enough investors to subscribe the new shares.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T205311Z" creationid="Acer" creationdate="20200424T205311Z">
+        <seg>Définissez maintenant le ~nombre de nouvelles actions~ que vous souhaitez émettre, et cliquez sur le bouton ~émettre maintenant~ pour émettre de nouvelles actions afin de collecter des fonds. En règle générale, plus la quantité de nouvelles actions que vous souhaitez émettre est importante, plus la réduction du prix des actions que vous devez offrir est importante, afin d'attirer suffisamment d'investisseurs pour souscrire les nouvelles actions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now that you have learned how to build retail stores of different types, as well as how to navigate between cities.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T152234Z" creationid="Olivier" creationdate="20200423T152234Z">
@@ -4493,6 +4501,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T131347Z" creationid="Inrepublica" creationdate="20200423T131347Z">
         <seg>Pointer=172,71,196,91</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=175,161,775,200</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T205005Z" creationid="Acer" creationdate="20200424T205005Z">
+        <seg>Pointer=175,161,775,200</seg>
       </tuv>
     </tu>
     <tu>
@@ -5741,6 +5757,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T204221Z" creationid="Acer" creationdate="20200424T204221Z">
         <seg>Text Box=200,300,500,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Box=200,340,400,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T205000Z" creationid="Acer" creationdate="20200424T205000Z">
+        <seg>Text Box=200,340,400,0</seg>
       </tuv>
     </tu>
     <tu>
