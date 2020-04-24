@@ -23,6 +23,8 @@ Les fichiers traduits sont de temps en temps générés dans le dossier "target"
 
 Pour ce faire, faites ctrl L pour selectionner le fichier voulu, les plus importants étant : gm_help, help et t_game. Ensuite, générez le fichier en faisant ctrl maj D. Vous retrouverez les fichiers dans le dossier "target" du dossier que vous avez créé au début. 
 
+Il est à préciser que les fichiers proposés actuellement doivent encore être testés pour vérifier s'ils ne provoquent pas de BUG et / ou les actions à effectuer correspondent bien à ce qui est écrit.
+
 # Etat de la traduction
 1) Fichiers pouvant se mettre dans le dossier "translate"
 
