@@ -672,8 +672,8 @@
       <tuv lang="en-US">
         <seg>As you've got more experienced in retailing, you can now choose from a range of retail store types to build, including department stores, convenience stores, supermarkets, discount megastore, and various types of specialty stores.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T133450Z" creationid="Olivier" creationdate="20200423T133450Z">
-        <seg>Comme vous avez acquis plus d'expérience dans la vente au détail, vous pouvez maintenant choisir parmi une gamme de types de magasins à construire, y compris les grands magasins, les magasins de proximité, les supermarchés, les mégacentres discount et divers types de magasins spécialisés.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T101014Z" creationid="Olivier" creationdate="20200423T133450Z">
+        <seg>Comme vous avez acquis plus d'expérience dans la vente au détail, vous pouvez maintenant choisir parmi une gamme de types de magasins à construire, y compris les grands magasins, les magasins de proximité, les supermarchés, les magasins de discounts et divers types de magasins spécialisés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3595,8 +3595,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Now select ~Retail Store~ from the menu.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T145833Z" creationid="Olivier" creationdate="20200423T133323Z">
-        <seg>Choisissez maintenant ~Magasin~ dans le menu.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T100551Z" creationid="Olivier" creationdate="20200423T133323Z">
+        <seg>Choisissez maintenant ~Magasin de détail~ dans le menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6109,6 +6109,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T211005Z" creationid="Olivier" creationdate="20200422T211005Z">
         <seg>Vous pouvez annuler ce mode en cliquant à nouveau sur le bouton "Mes entreprises".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can repay part or all of your loan by accessing the ~Financial Actions~ screen of the ~Information Center~ and using the ~Repay~ section of the screen.^^Good Luck!</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T100252Z" creationid="Olivier" creationdate="20200424T100252Z">
+        <seg>Vous pouvez rembourser une partie ou la totalité de votre prêt en accédant à l'écran "Actions financières" du "Centre d'informations" et en utilisant la section "Remboursement" de l'écran. Bonne chance !</seg>
       </tuv>
     </tu>
     <tu>
