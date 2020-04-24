@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// to the stock price from fluctuating and displaying the Not Enough Cash message in a popup window</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T210112Z" creationid="Acer" creationdate="20200424T210112Z">
+        <seg>// to the stock price from fluctuating and displaying the Not Enough Cash message in a popup window</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>//------------------------------------------------------------------------------------------------//</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124957Z" creationid="Olivier" creationdate="20200423T124957Z">
@@ -3561,6 +3569,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It shows that you have $1,000,000 in personal cash at the moment.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T210239Z" creationid="Acer" creationdate="20200424T210239Z">
+        <seg>Cela montre que vous disposez actuellement d'un million de dollars personnellement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It shows that ~Timber~ can be used to produce ~Bed~.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T090727Z" creationid="Olivier" creationdate="20200424T090727Z">
@@ -3717,6 +3733,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200424T121327Z" creationid="Inrepublica" creationdate="20200424T121327Z">
         <seg>Loan=20000000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Look at the ~Who section~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T210018Z" creationid="Acer" creationdate="20200424T210018Z">
+        <seg>Regardez la section ~Qui~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4509,6 +4533,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T204353Z" creationid="Acer" creationdate="20200424T204353Z">
         <seg>Pointer=170,277,596,457</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=170,467,376,591</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T210103Z" creationid="Acer" creationdate="20200424T210103Z">
+        <seg>Pointer=170,467,376,591</seg>
       </tuv>
     </tu>
     <tu>
@@ -5789,6 +5821,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T165459Z" creationid="Acer" creationdate="20200424T165459Z">
         <seg>Text Box=200,280,210,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Box=200,280,500,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T210100Z" creationid="Acer" creationdate="20200424T210100Z">
+        <seg>Text Box=200,280,500,0</seg>
       </tuv>
     </tu>
     <tu>
@@ -7205,6 +7245,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145841Z" creationid="Inrepublica" creationdate="20200422T145841Z">
         <seg>VGADV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Via this interface, you may buy stocks on behalf of your corporation or invest as an individual.^^Please note that the names may be truncated if there is not enough space to display them in full.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T210057Z" creationid="Acer" creationdate="20200424T210057Z">
+        <seg>Via cette interface, vous pouvez acheter des actions au nom de votre société ou investir en tant que particulier. Veuillez noter que les noms peuvent être tronqués s'il n'y a pas assez de place pour les afficher en entier.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9704,6 +9752,14 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151502Z" creationid="Inrepublica" creationdate="20200423T151502Z">
         <seg>[TUTORIAL]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^^The floating shares may be purchased at stock price by any corporations or individual investors.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T205946Z" creationid="Acer" creationdate="20200424T205946Z">
+        <seg>Les actions flottantes peuvent être achetées au prix de l'action par toute société ou tout investisseur individuel.</seg>
       </tuv>
     </tu>
     <tu>
