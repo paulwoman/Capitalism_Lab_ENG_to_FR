@@ -3041,6 +3041,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Look for ~Timber~ in the list and double-click it.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T090639Z" creationid="Olivier" creationdate="20200424T090639Z">
+        <seg>Look for ~Bois~ in the list and double-click it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Low - product customization applies to your company only; Medium - it applies to your company and your subsidiaries; High - it applies to all companies.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T153258Z" creationid="Inrepublica" creationdate="20200422T151132Z">
@@ -3705,6 +3713,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=35,223,138,249</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T090436Z" creationid="Olivier" creationdate="20200424T090436Z">
+        <seg>Pointer=35,223,138,249</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=36,239,52,282</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T131258Z" creationid="Inrepublica" creationdate="20200423T131258Z">
@@ -3789,6 +3805,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T131319Z" creationid="Inrepublica" creationdate="20200423T131319Z">
         <seg>Pointer=52,61,235,75</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=533, 473, 606, 486</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T090526Z" creationid="Olivier" creationdate="20200424T090526Z">
+        <seg>Pointer=533, 473, 606, 486</seg>
       </tuv>
     </tu>
     <tu>
@@ -4425,10 +4449,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Text Box=280,580,400,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T090522Z" creationid="Olivier" creationdate="20200424T090522Z">
+        <seg>Text Box=280,580,400,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Text Box=285,480,350,0</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151649Z" creationid="Olivier" creationdate="20200423T151649Z">
         <seg>Text Box=285,480,350,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Box=300,295,400,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T090432Z" creationid="Olivier" creationdate="20200424T090432Z">
+        <seg>Text Box=300,295,400,0</seg>
       </tuv>
     </tu>
     <tu>
@@ -5253,6 +5293,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T145937Z" creationid="Olivier" creationdate="20200423T134435Z">
         <seg>Nous pouvons maintenant voir la ~mise en page~ de votre magasin, qui est une grille de 3x3 carrés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We want to find out what products can be made from ~Timber~, so click the ~INPUT~ button.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T090520Z" creationid="Olivier" creationdate="20200424T090520Z">
+        <seg>Nous voulons savoir quels produits peuvent être fabriqués à partir du minerai, alors cliquez sur le bouton ~ENTREE~.</seg>
       </tuv>
     </tu>
     <tu>
