@@ -3449,6 +3449,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now click the new ~Purchasing unit~ and click the ~Link~ button to open the Supplier List.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T094703Z" creationid="Olivier" creationdate="20200424T094703Z">
+        <seg>Cliquez maintenant sur la nouvelle ~Unité d'achat~ et cliquez sur le bouton ~Lien~ pour ouvrir la liste des fournisseurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now click the ~Land Value~ icon to change to that mode.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T123940Z" creationid="Olivier" creationdate="20200423T123940Z">
@@ -4857,6 +4865,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Text Box=40,250,256,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T094750Z" creationid="Olivier" creationdate="20200424T094750Z">
+        <seg>Text Box=40,250,256,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Text Box=40,270,350,0</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124229Z" creationid="Olivier" creationdate="20200423T124229Z">
@@ -5187,10 +5203,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Then select ~Steel~ from the supplier list.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T094537Z" creationid="Olivier" creationdate="20200424T094537Z">
-        <seg>Cliquez maintenant sur la nouvelle ~Unité d'achat~ et cliquez sur le bouton ~Lien~ pour ouvrir la liste des fournisseurs.
-
-Sélectionnez ensuite ~Acier~ dans la liste des fournisseurs.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T094747Z" creationid="Olivier" creationdate="20200424T094537Z">
+        <seg>Sélectionnez ensuite ~Acier~ dans la liste des fournisseurs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5727,6 +5741,14 @@ Sélectionnez ensuite ~Acier~ dans la liste des fournisseurs.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145823Z" creationid="Inrepublica" creationdate="20200422T145823Z">
         <seg>WEB_IDX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wait until it is linked with Timber, to produce Golf club</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T094822Z" creationid="Olivier" creationdate="20200424T094637Z">
+        <seg>Attendre qu'il soit lié à Bois, pour produire le club de golf</seg>
       </tuv>
     </tu>
     <tu>
