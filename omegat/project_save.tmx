@@ -638,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As soon as your factory receives Timber from the supplier, the Manufacturing Unit begins to produce Bed.^^Shortly afterwards, the Manufacturing Unit will send finished products to the Sales Unit and your Bed will be available for sale to the world.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T094322Z" creationid="Olivier" creationdate="20200424T094322Z">
+        <seg>Dès que votre usine reçoit du bois du fournisseur, l'unité de fabrication commence à produire le lit. Peu de temps après, l'unité de fabrication envoie les produits finis à l'unité de vente et votre lit est disponible pour la vente dans le monde entier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As such, it will have the inflation artificially suppressed.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T153023Z" creationid="Inrepublica" creationdate="20200422T153023Z">
@@ -1102,6 +1110,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click the ~Link~ button to open the ~Select a Supplier~ interface.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T094140Z" creationid="Olivier" creationdate="20200424T094140Z">
+        <seg>Cliquez sur le bouton ~Lien~ pour ouvrir l'interface ~Sélectionner un fournisseur~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the ~MORE~ button below the image of the Timber.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T091621Z" creationid="Olivier" creationdate="20200424T091621Z">
@@ -1130,6 +1146,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T090111Z" creationid="Olivier" creationdate="20200424T090111Z">
         <seg>Cliquez sur le bouton ~[+]~ à côté du bouton ~Emprunter~. Lorsque vous avez augmenté le montant à 20 millions ou plus, cliquez sur le bouton ~Emprunter~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click your ~Purchasing Unit~ to select it.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T094025Z" creationid="Olivier" creationdate="20200424T094025Z">
+        <seg>Cliquez sur votre ~Unité d'achat~ pour la sélectionner.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3777,6 +3801,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=16,32,167,45</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T094242Z" creationid="Olivier" creationdate="20200424T094242Z">
+        <seg>Pointer=16,32,167,45</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=172,71,196,91</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T131347Z" creationid="Inrepublica" creationdate="20200423T131347Z">
@@ -4681,6 +4713,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Text Box=20,250,180,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T094239Z" creationid="Olivier" creationdate="20200424T094239Z">
+        <seg>Text Box=20,250,180,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Text Box=20,270,280,0</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T131230Z" creationid="Inrepublica" creationdate="20200423T131230Z">
@@ -5109,6 +5149,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T170239Z" creationid="Olivier" creationdate="20200422T170239Z">
         <seg>La barre jaune APPROVISIONNEMENT indique la quantité de produit que vous avez en magasin et la barre orange de DEMANDE mesure la demande du consommateur pour ce produit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then choose a supplier that sells timber.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T094237Z" creationid="Olivier" creationdate="20200424T094237Z">
+        <seg>Choisissez ensuite un fournisseur qui vend du bois.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5553,10 +5601,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unit has item=1, Timber</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T094249Z" creationid="Olivier" creationdate="20200424T094249Z">
+        <seg>Unit has item=1, Timber</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use the Male and Female icons (located below the arrow icons) to switch the gender of the portraits.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T165414Z" creationid="Inrepublica" creationdate="20200422T165414Z">
         <seg>Utilisez les icônes Homme et Femme (situées sous les flèches) pour changer le sexe des portraits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the ~Product~ filter to select ~Timber~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T094206Z" creationid="Olivier" creationdate="20200424T094206Z">
+        <seg>Utilisez le filtre ~Produit~ pour sélectionner ~Bois~.</seg>
       </tuv>
     </tu>
     <tu>
