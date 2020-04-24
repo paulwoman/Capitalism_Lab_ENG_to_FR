@@ -1056,8 +1056,8 @@
       <tuv lang="en-US">
         <seg>Besides clicking the ~Select~ button, you may simply ~double-click~ a product on the list to select it.^^When you are ready to move on, ~RIGHT clicking anywhere~ on the screen to exit your store and return to the city view.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T171315Z" creationid="Olivier" creationdate="20200422T170918Z">
-        <seg>En plus de cliquer sur le bouton "Select", vous pouvez simplement double-cliquer sur un produit de la liste pour le sélectionner. Lorsque vous êtes prêt à passer à autre chose, cliquez droit n'importe où sur l'écran pour quitter votre magasin et revenir à la vue de la ville.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T214006Z" creationid="Olivier" creationdate="20200422T170918Z">
+        <seg>En plus de cliquer sur le bouton ~Select~, vous pouvez simplement double-cliquer sur un produit de la liste pour le sélectionner. ^^Lorsque vous êtes prêt à passer à autre chose, cliquez droit n'importe où sur l'écran pour quitter votre magasin et revenir à la vue de la ville.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1304,8 +1304,8 @@
       <tuv lang="en-US">
         <seg>Click the ~Add Product icon~, then choose ~Seaport~ from the supplier list, and select a product to add to your store.^^This time, make sure that you select a different product than the one already on sale in your store.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T170748Z" creationid="Olivier" creationdate="20200422T170748Z">
-        <seg>Cliquez sur l'icône "Ajouter un produit", puis choisissez "Port maritime" dans la liste des fournisseurs et sélectionnez un produit à ajouter à votre magasin. Cette fois, assurez-vous de sélectionner un produit différent de celui qui est déjà en vente dans votre magasin.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T213909Z" creationid="Olivier" creationdate="20200422T170748Z">
+        <seg>Cliquez sur l'icône ~Ajouter un produit~, puis choisissez ~Port maritime~ dans la liste des fournisseurs et sélectionnez un produit à ajouter à votre magasin. ^^Cette fois, assurez-vous de sélectionner un produit différent de celui qui est déjà en vente dans votre magasin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6563,8 +6563,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>The ~yellow SUPPLY bar~ indicates the quantity of the product you have in store and the ~orange DEMAND bar~ measures the consumer demand for that product.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T170239Z" creationid="Olivier" creationdate="20200422T170239Z">
-        <seg>La barre jaune APPROVISIONNEMENT indique la quantité de produit que vous avez en magasin et la barre orange de DEMANDE mesure la demande du consommateur pour ce produit.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T213806Z" creationid="Olivier" creationdate="20200422T170239Z">
+        <seg>La ~barre jaune APPROVISIONNEMENT~ indique la quantité de produit que vous avez en magasin et la ~barre orange de DEMANDE~ mesure la demande du consommateur pour ce produit.</seg>
       </tuv>
     </tu>
     <tu>
