@@ -36,9 +36,9 @@ Il est à préciser que les fichiers proposés actuellement doivent encore être
 2) Fichiers qui doivent s'installer dans un dossier dédié:
 
 2.1 Dossier "Tutorial"
-* tut01 : 95 %
-* tut02 : 95 %
-* tut03 : 0 %
+* tut01 : 100 %
+* tut02 : 100 %
+* tut03 : 100 %
 * tut04 : 0 %
 * tut05 : 0 %
 * tut06 : 0 %
