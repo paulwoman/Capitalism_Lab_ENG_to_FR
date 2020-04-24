@@ -3251,8 +3251,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>In this mode, buildings represented by ~green dots are profitable~ whereas buildings shown in ~red dots are losing money~.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124030Z" creationid="Olivier" creationdate="20200423T124030Z">
-        <seg>Dans ce mode, les bâtiments représentés par les points verts sont rentables alors que les bâtiments représentés par les ~points rouges perdent de l'argent.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T215005Z" creationid="Olivier" creationdate="20200423T124030Z">
+        <seg>Dans ce mode, les bâtiments représentés par ~les points verts sont rentables alors que les bâtiments représentés par les ~points rouges perdent de l'argent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4259,8 +4259,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Now we are going to have a quick look at the ~Building Filter~ interface.^^The filter interface has five selection buttons labelled ~Firm~, ~Corp.~, ~This City~, ~My Firms~ and ~Product~.^^When any of these filters are enabled, only firms within the filter will be shown on the mini map at ~Profit~ or ~Ownership~ mode.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124059Z" creationid="Olivier" creationdate="20200423T124059Z">
-        <seg>Nous allons maintenant jeter un coup d'œil rapide à l'interface du "Filtre de construction".L'interface du filtre comporte cinq boutons de sélection intitulés "Firme", "Compagnie", "Cette ville", "Mes entreprises" et "Produit". Lorsque l'un de ces filtres est activé, seules les entreprises du filtre seront affichées sur la mini-carte en mode "Profit" ou "Propriété".</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T215138Z" creationid="Olivier" creationdate="20200423T124059Z">
+        <seg>Nous allons maintenant jeter un coup d'œil rapide à l'interface du ~Filtre de construction~. L'interface du filtre comporte cinq boutons de sélection intitulés ~Firme~, ~Compagnie~, ~Cette ville~, ~Mes entreprises~ et ~Produit~. Lorsque l'un de ces filtres est activé, seules les entreprises du filtre seront affichées sur la mini-carte en mode ~Profit~ ou ~Propriété~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6299,8 +6299,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>The first icon, the one that looks like a building, toggles the ~Ownership~ mode.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T214311Z" creationid="Olivier" creationdate="20200423T123930Z">
-        <seg>La première icône, celle qui ressemble à un bâtiment, fait basculer en mode ~propriété~.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T214850Z" creationid="Olivier" creationdate="20200423T123930Z">
+        <seg>La première icône, celle qui ressemble à un bâtiment, fait basculer en mode ~Propriété~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9902,8 +9902,8 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
       <tuv lang="en-US">
         <seg>~The darker the color, the more valuable the land.~ Building in light areas may be expensive but it may provide your stores with a richer clientele willing to pay higher prices.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T214602Z" creationid="Olivier" creationdate="20200422T210212Z">
-        <seg>~Plus la couleur est foncée, plus le terrain a de la valeur.~ Construire dans des zones claires peut être coûteux mais cela peut fournir à vos magasins une clientèle plus riche prête à payer des prix plus élevés.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T214928Z" creationid="Olivier" creationdate="20200422T210212Z">
+        <seg>~Plus la couleur est foncée, plus le terrain a de la valeur. ~Construire dans des zones claires peut être coûteux mais cela peut fournir à vos magasins une clientèle plus riche prête à payer des prix plus élevés.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
