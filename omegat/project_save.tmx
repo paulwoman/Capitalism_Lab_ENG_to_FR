@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// to prevent the mft unit from using Steel to produce Engine immediately.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T095435Z" creationid="Olivier" creationdate="20200424T095435Z">
+        <seg>// to prevent the mft unit from using Steel to produce Engine immediately.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>//------------------------------------------------------------------------------------------------//</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124957Z" creationid="Olivier" creationdate="20200423T124957Z">
@@ -632,8 +640,8 @@
       <tuv lang="en-US">
         <seg>And to the right of the Manufacturing Unit, build a ~Sales Unit~.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T093750Z" creationid="Olivier" creationdate="20200424T093750Z">
-        <seg>Et à droite de l'unité de fabrication, construire une ~unité de vente~.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T095343Z" creationid="Olivier" creationdate="20200424T093750Z">
+        <seg>Et à droite de l'unité de fabrication, construisez une ~unité de vente~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3361,6 +3369,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Manufacturer Guide=Chair</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T095233Z" creationid="Olivier" creationdate="20200424T095233Z">
+        <seg>Manufacturer Guide=Chair</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Manufacturer Guide=Sofa</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T095242Z" creationid="Olivier" creationdate="20200424T095242Z">
+        <seg>Manufacturer Guide=Sofa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Max AI Software and Internet Companies</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164815Z" creationid="Inrepublica" creationdate="20200422T164815Z">
@@ -4913,6 +4937,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Text Box=40,422,380,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T095506Z" creationid="Olivier" creationdate="20200424T095506Z">
+        <seg>Text Box=40,422,380,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Text Box=400,12,250,0</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T145315Z" creationid="Olivier" creationdate="20200423T145315Z">
@@ -5721,6 +5753,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unit has item=4, Steel</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T095501Z" creationid="Olivier" creationdate="20200424T095501Z">
+        <seg>Unit has item=4, Steel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use the Male and Female icons (located below the arrow icons) to switch the gender of the portraits.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T165414Z" creationid="Inrepublica" creationdate="20200422T165414Z">
@@ -5787,8 +5827,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Wait until it is linked with Timber, to produce Golf club</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T094822Z" creationid="Olivier" creationdate="20200424T094637Z">
-        <seg>Attendre qu'il soit lié à Bois, pour produire le club de golf</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T095443Z" creationid="Olivier" creationdate="20200424T095443Z">
+        <seg>Wait until it is linked with Timber, to produce Golf club</seg>
       </tuv>
     </tu>
     <tu>
