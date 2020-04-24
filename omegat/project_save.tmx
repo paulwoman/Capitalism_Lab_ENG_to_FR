@@ -1950,6 +1950,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For ~cameras~, it's 20%, which means that it is not an everyday necessity item.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T123259Z" creationid="Olivier" creationdate="20200424T123054Z">
+        <seg>Pour ~caméras~, c'est  20 %, ce qui signifie qu'il ne s'agit pas d'un objet de consommation courante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>From here you can view details about your corporation and rival corporations.^^For each corporation displayed you can immediately see cash, revenue and profit figures and accompanying bars, as well as an Operating Profit graph.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151626Z" creationid="Olivier" creationdate="20200423T151626Z">
@@ -6237,6 +6245,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T195520Z" creationid="Inrepublica" creationdate="20200422T195520Z">
         <seg>Lorsque le mode Express est activé, une nouvelle interface utilisateur simplifiée sera utilisée pour les magasins de détail, remplaçant la disposition originale 3x3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the economy is in a downturn, consumers will cut back spending on products of low necessity indices.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T123431Z" creationid="Olivier" creationdate="20200424T123431Z">
+        <seg>Lorsque l'économie est en récession, les consommateurs réduisent leurs dépenses sur les produits avec un faible indice de nécessité.</seg>
       </tuv>
     </tu>
     <tu>
