@@ -4993,6 +4993,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select ~Brand~ from the menu list.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T145610Z" creationid="Olivier" creationdate="20200424T145610Z">
+        <seg>Sélectionnez ~Marque~ dans la liste du menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select ~Factory~ from the menu and find a location to build it.^^It's a good idea to build your factory in the rural area as the land is cheaper there.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T092729Z" creationid="Olivier" creationdate="20200424T092729Z">
@@ -6267,8 +6275,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>To access the ~Brand Strategy~ screen, open the ~Corporate Detail~ report by pressing the shortcut key ~'D'~ now.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T145434Z" creationid="Olivier" creationdate="20200424T145434Z">
-        <seg></seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T145553Z" creationid="Olivier" creationdate="20200424T145553Z">
+        <seg>Pour accéder à l'écran ~Stratégie de marque~, ouvrez le rapport ~Détails de l'entreprise~ en appuyant sur la touche de raccourci ~'D'~ maintenant.</seg>
       </tuv>
     </tu>
     <tu>
