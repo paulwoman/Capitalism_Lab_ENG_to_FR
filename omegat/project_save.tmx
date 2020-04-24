@@ -1494,6 +1494,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fairly obvious eh?</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T090753Z" creationid="Olivier" creationdate="20200424T090753Z">
+        <seg>Assez évident, non ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fast forward days=5</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T131227Z" creationid="Inrepublica" creationdate="20200423T131227Z">
@@ -2937,6 +2945,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It shows that ~Timber~ can be used to produce ~Bed~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T090727Z" creationid="Olivier" creationdate="20200424T090727Z">
+        <seg>Il montre que ~Bois~ peut être utilisé pour produire ~Lit~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It shows the amount of cash your corporation currently has and its operating profit in the past 12 months.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T123715Z" creationid="Olivier" creationdate="20200423T123715Z">
@@ -3165,6 +3181,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160106Z" creationid="Inrepublica" creationdate="20200422T160106Z">
         <seg>Mâle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Manufacturer Guide=Bed</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T090658Z" creationid="Olivier" creationdate="20200424T090658Z">
+        <seg>Manufacturer Guide=Bed</seg>
       </tuv>
     </tu>
     <tu>
@@ -4235,8 +4259,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Simple eh?</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T134829Z" creationid="Olivier" creationdate="20200423T134829Z">
-        <seg>Simple, n''est-ce pas ?</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T090801Z" creationid="Olivier" creationdate="20200423T134829Z">
+        <seg>Simple, n'est-ce pas ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4361,6 +4385,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Take a close look at the information shown here.^^It tells that ~120 lbs of Timber~ is needed to make ~1 unit of Bed~.^^Notice that Timber has a ~quality influence of 50%~, which means that the quality of the finished product is 50% affected by the quality of Timber.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T090845Z" creationid="Olivier" creationdate="20200424T090845Z">
+        <seg>Regardez attentivement les informations présentées ici. Elles indiquent qu'il faut ~120 livres de bois~ pour fabriquer ~1 unité de lit~. Notez que le bois a une ~influence de qualité de 50%~, ce qui signifie que la qualité du produit fini est affectée à 50% par la qualité du bois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Talent System</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164931Z" creationid="Inrepublica" creationdate="20200422T164931Z">
@@ -4445,6 +4477,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T131230Z" creationid="Inrepublica" creationdate="20200423T131230Z">
         <seg>Text Box=20,270,280,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Box=230,510,500,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T090847Z" creationid="Olivier" creationdate="20200424T090847Z">
+        <seg>Text Box=230,510,500,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Box=280,530,400,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T090646Z" creationid="Olivier" creationdate="20200424T090646Z">
+        <seg>Text Box=280,530,400,0</seg>
       </tuv>
     </tu>
     <tu>
@@ -4805,6 +4853,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T150231Z" creationid="Olivier" creationdate="20200423T143040Z">
         <seg>La ~barre marron~ représente le niveau d'utilisation de l'unité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The ~quality of Bed~ is determined by two factors: ~Production Technology~ and ~Raw Material Quality~.^^The ~raw materials~, as just stated, represent ~50%~ of the Bed's quality and the remaining ~50%~ is determined by ~production technology of the manufacturer~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T091230Z" creationid="Olivier" creationdate="20200424T091230Z">
+        <seg>La ~qualité du lit~ est déterminée par deux facteurs : ~La technologie de production~ et la ~qualité des matières premières~. Les ~matières premières~, comme nous venons de le dire, représentent ~50 %~ de la qualité du lit et les ~50 %~ restants sont déterminés par la technologie de production du fabricant~.</seg>
       </tuv>
     </tu>
     <tu>
