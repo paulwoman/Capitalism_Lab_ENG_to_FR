@@ -630,6 +630,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Active Interface=Stock Exchange</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T205550Z" creationid="Acer" creationdate="20200424T205550Z">
+        <seg>Active Interface=Stock Exchange</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Add Seaport Product=Dyestuff</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T101335Z" creationid="Olivier" creationdate="20200424T101335Z">
@@ -842,6 +850,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T210410Z" creationid="Olivier" creationdate="20200423T210410Z">
         <seg>Dans le même temps, vous devez réaliser un revenu annuel de 100 millions de dollars et un bénéfice annuel de 10 millions de dollars.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>At the ~Ownership Details~ section, it shows that you now only own less than 50% of your corporation and the remainder is owned by ~Public Shareholders~, AI persons and AI corporations.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T205847Z" creationid="Acer" creationdate="20200424T205847Z">
+        <seg>La section ~Détails sur la propriété~ montre que vous ne possédez plus que moins de 50 % de votre société et que le reste est détenu par des ~actionnaires publics~, des personnes et des sociétés d'IA.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5805,6 +5821,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T204348Z" creationid="Acer" creationdate="20200424T204348Z">
         <seg>Text Box=200,485,500,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Box=200,510,500,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T205546Z" creationid="Acer" creationdate="20200424T205546Z">
+        <seg>Text Box=200,510,500,0</seg>
       </tuv>
     </tu>
     <tu>
