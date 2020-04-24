@@ -550,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Active Interface=City View</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T092255Z" creationid="Olivier" creationdate="20200424T092255Z">
+        <seg>Active Interface=City View</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Aggressiveness of AI banks and insurance companies</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T170858Z" creationid="Inrepublica" creationdate="20200422T170858Z">
@@ -1058,6 +1066,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124623Z" creationid="Olivier" creationdate="20200423T124623Z">
         <seg>Cliquez sur l'icône "Menu de construction" dans le "Menu des outils de jeu" en haut à gauche de l'écran.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the ~Build icon~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T092516Z" creationid="Olivier" creationdate="20200424T092516Z">
+        <seg>Cliquez sur l'icône ~Construire~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3097,6 +3113,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Let's proceed to set up your production facility.^^Right click anywhere on the screen to exit back to the city view.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T092250Z" creationid="Olivier" creationdate="20200424T092250Z">
+        <seg>Procédons à la mise en place de votre installation de production.^^Cliquez à droite n'importe où sur l'écran pour revenir à la vue de la ville.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Look for ~Timber~ in the list and double-click it.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T090639Z" creationid="Olivier" creationdate="20200424T090639Z">
@@ -3437,6 +3461,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T085406Z" creationid="Olivier" creationdate="20200424T085406Z">
         <seg>Vous avez maintenant la possibilité de fabriquer réellement des produits dans votre propre usine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now you must build a factory.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T092337Z" creationid="Olivier" creationdate="20200424T092337Z">
+        <seg>Vous devez à présent constuire une usine</seg>
       </tuv>
     </tu>
     <tu>
@@ -4589,6 +4621,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T092038Z" creationid="Olivier" creationdate="20200424T092038Z">
         <seg>Text Box=300,430,400,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Box=300,510,400,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T092252Z" creationid="Olivier" creationdate="20200424T092252Z">
+        <seg>Text Box=300,510,400,0</seg>
       </tuv>
     </tu>
     <tu>
