@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>----------------------------------------------------------------//</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T094324Z" creationid="Olivier" creationdate="20200424T094324Z">
+        <seg>----------------------------------------------------------------//</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// AI Friendly Merger=&lt;On, Off&gt;</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151325Z" creationid="Inrepublica" creationdate="20200423T151325Z">
@@ -2272,6 +2280,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Game speed=0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T094435Z" creationid="Olivier" creationdate="20200424T094435Z">
+        <seg>Game speed=0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Game starting year</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T153100Z" creationid="Inrepublica" creationdate="20200422T153100Z">
@@ -4257,6 +4273,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Remember to ~link~ the three new units as well.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T094422Z" creationid="Olivier" creationdate="20200424T094422Z">
+        <seg>N'oubliez pas de "lier" également les trois nouvelles unités.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Required Bank Capital Ratio</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203217Z" creationid="Inrepublica" creationdate="20200422T203217Z">
@@ -5161,6 +5185,16 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Then select ~Steel~ from the supplier list.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T094537Z" creationid="Olivier" creationdate="20200424T094537Z">
+        <seg>Cliquez maintenant sur la nouvelle ~Unité d'achat~ et cliquez sur le bouton ~Lien~ pour ouvrir la liste des fournisseurs.
+
+Sélectionnez ensuite ~Acier~ dans la liste des fournisseurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There are several icons around the mini map for switching to different map modes.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T123916Z" creationid="Olivier" creationdate="20200423T123916Z">
@@ -5213,6 +5247,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T153959Z" creationid="Inrepublica" creationdate="20200422T153959Z">
         <seg>Il y aura des sociétés IA centrées sur l'immobilier, les médias et la technologie si cette dernière est fixée à un niveau élevé ou supérieur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There's a lot of unused space in your factory - six empty units to be exact - so let's utilize them.^^In the row of empty units immediately below your existing units ~add~ another set of ~Purchasing Unit, Manufacturing unit and Sales unit~ from left to right.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T094406Z" creationid="Olivier" creationdate="20200424T094406Z">
+        <seg>Il y a beaucoup d'espace inutilisé dans votre usine - six unités vides pour être exact - alors utilisons les. Dans la rangée d'unités vides juste en dessous de vos unités existantes ~ajoutez~ un autre ensemble d'unités ~Achat, Fabrication et Vente~ de gauche à droite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5597,6 +5639,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T093758Z" creationid="Olivier" creationdate="20200424T093758Z">
         <seg>Unit Exists=3, Sales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unit Linked=Manufacturing, Sales, 5, 6</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T094430Z" creationid="Olivier" creationdate="20200424T094430Z">
+        <seg>Unit Linked=Manufacturing, Sales, 5, 6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unit Linked=Purchasing, Manufacturing, 4, 5</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T094425Z" creationid="Olivier" creationdate="20200424T094425Z">
+        <seg>Unit Linked=Purchasing, Manufacturing, 4, 5</seg>
       </tuv>
     </tu>
     <tu>
