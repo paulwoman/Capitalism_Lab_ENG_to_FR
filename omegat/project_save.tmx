@@ -2505,6 +2505,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Here you can see ratings for ~Price~, ~Quality~, ~Brand~ and the ~Overall rating~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T102018Z" creationid="Olivier" creationdate="20200424T102018Z">
+        <seg>Vous pouvez voir ici les évaluations pour ~Prix~, ~Qualité~, ~Marque~ et ~Evaluation globale~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Here's a reminder of your goal for this tutorial game: to achieve ~an annual revenue of $50 million~ and ~an annual profit of $5 million~.^^The ~Goal Report~ gives a summary of your goal status.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T152359Z" creationid="Olivier" creationdate="20200423T152321Z">
@@ -3105,6 +3113,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Interface Select=Product Details Report, Jeans</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T101905Z" creationid="Olivier" creationdate="20200424T101905Z">
+        <seg>Interface Select=Product Details Report, Jeans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Interface Select=Select Supplier, Seaport</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T131224Z" creationid="Inrepublica" creationdate="20200423T131224Z">
@@ -3565,6 +3581,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124005Z" creationid="Olivier" creationdate="20200423T124005Z">
         <seg>Cliquez maintenant sur l'icône "Profit" pour passer à ce mode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now click the ~Search Product~ button and select ~Jeans~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T101856Z" creationid="Olivier" creationdate="20200424T101856Z">
+        <seg>Cliquez maintenant sur le bouton ~Rechercher un produit~ et sélectionnez ~Jeans~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4089,6 +4113,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=36,125,146,136</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T101829Z" creationid="Olivier" creationdate="20200424T101829Z">
+        <seg>Pointer=36,125,146,136</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=36,239,52,282</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T131258Z" creationid="Inrepublica" creationdate="20200423T131258Z">
@@ -4101,6 +4133,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T131225Z" creationid="Inrepublica" creationdate="20200423T131225Z">
         <seg>Pointer=360, 649, 448, 665</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=360,127,512,144</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T101902Z" creationid="Olivier" creationdate="20200424T101902Z">
+        <seg>Pointer=360,127,512,144</seg>
       </tuv>
     </tu>
     <tu>
@@ -4953,6 +4993,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Text Box=300,280,350,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T101826Z" creationid="Olivier" creationdate="20200424T101826Z">
+        <seg>Text Box=300,280,350,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Text Box=300,295,400,0</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T090432Z" creationid="Olivier" creationdate="20200424T090432Z">
@@ -4965,6 +5013,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T092038Z" creationid="Olivier" creationdate="20200424T092038Z">
         <seg>Text Box=300,430,400,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Box=300,470,400,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T101859Z" creationid="Olivier" creationdate="20200424T101859Z">
+        <seg>Text Box=300,470,400,0</seg>
       </tuv>
     </tu>
     <tu>
@@ -5469,6 +5525,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T134543Z" creationid="Olivier" creationdate="20200423T134543Z">
         <seg>Ces unités font effectivement un véritable travail !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They are split into two columns.^^The ~Local~ column displays the ratings for local competitors - these are local small companies that you do not see in the corporation list.^^The ~Average~ column combines the ratings of local and corporate competitors.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T102308Z" creationid="Olivier" creationdate="20200424T102308Z">
+        <seg>Elles sont divisées en deux colonnes. La colonne ~Local~ affiche les notations des concurrents locaux - il s'agit de petites entreprises locales que vous ne voyez pas dans la liste des sociétés. La colonne ~Moyenne~ combine les notations des compétiteurs locaux et des sociétés.</seg>
       </tuv>
     </tu>
     <tu>
