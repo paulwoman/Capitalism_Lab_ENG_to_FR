@@ -1,6 +1,6 @@
 [HEADER]
 Title=3. Manufacturing 
-Description=With your retail business thriving, your next goal is to manufacture your own products and sell them until your own brand.^^This tutorial will guide you through the process of setting up factories, sourcing raw materials and getting manufacturing facilities running to churn out products for sale. 
+Description=Votre commerce de détail étant florissant, votre prochain objectif est de fabriquer vos propres produits et de les vendre sous votre propre marque.^^ Ce tutoriel vous guidera dans le processus de création d'usines, d'approvisionnement en matières premières et de mise en route des installations de fabrication pour produire des produits à vendre 
 
 //------------------------------------------------------------------------------------------------//
 
@@ -117,8 +117,9 @@ Firm, Sports Facilities
 //------------------------------------------------------------------------------------------------//
 
 [MAIN GOAL]
-Goal Title=Objectif du tutoriel
-Goal Description=Achieve an annual revenue of $30 million and an annual profit of $3 million to complete this tutorial. 
+Goal Title=Tutorial Goal
+Goal Description=Réalisez un revenu annuel de 30 millions de dollars et un profit annuel de 3 millions de dollars pour réaliser ce tutoriel.
+ 
 
 [MAIN GOAL VALUES]
 Player Company Annual Revenue=30

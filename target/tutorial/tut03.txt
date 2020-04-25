@@ -23,7 +23,7 @@ Add Seaport Product=Steel
 //-------------------------------------------------------------------//
 
 [TEXT]
-In the previous tutorials you have learned how to purchase products from suppliers and simply put them on sale in your stores. Now you get the chance to actually manufacture products in your own factory. 
+Dans les tutoriels précédents, vous avez appris comment acheter des produits auprès de fournisseurs et les mettre simplement en vente dans vos magasins. Vous avez maintenant la possibilité de fabriquer réellement des produits dans votre propre usine. 
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -32,7 +32,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-You have decided to leave your family-owned business and branch out on your own. You've spotted an opportunity in the market. There's high quality timber available for import, from which you can manufacture a variety of products.
+Vous avez décidé de quitter votre entreprise familiale et de vous lancer à votre compte. Vous avez repéré une opportunité sur le marché. Il y a du bois de haute qualité disponible pour l'importation, à partir duquel vous pouvez fabriquer une variété de produits.
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -41,7 +41,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Starting your own corporation takes money - and lot's of it. You must first obtain a loan to finance your grand plans.^^Click the ~Information Center icon~ on the bottom toolbar.
+Créer sa propre société demande de l'argent... beaucoup d'argent. Vous devez d'abord obtenir un prêt pour financer vos grands projets. Cliquez sur l'icône ~Centre d'informations~ sur la barre d'outils inférieure.
 
 [POS]
 Extend Text Box=36,600,500,0
@@ -51,7 +51,7 @@ Window=Bottom Toolbar
 //-------------------------------------------------------------------//
 
 [TEXT]
-Select ~Financial Actions~ from the Information Center.
+Sélectionnez ~Actions financières~ dans le centre d'informations
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -60,7 +60,7 @@ Pointer=33,296,151,306
 //-------------------------------------------------------------------//
 
 [TEXT]
-Your company's credit limit varies throughout the game depending on the state of your company. At this moment the maximum amount you may borrow is $30,000,000.^^ 
+La limite de crédit de votre entreprise varie tout au long du jeu en fonction de la situation de votre entreprise. À l'heure actuelle, le montant maximum que vous pouvez emprunter est de 30 millions de dollars. 
 
 [POS]
 Text Box=300,525,400,0
@@ -69,7 +69,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Click the ~[+]~ button next to the ~Borrow~ button.^^When you have increased the the amount to $20,000,000 or more, click the ~Borrow~ button.
+Cliquez sur le bouton ~[+]~ à côté du bouton ~Emprunter~. Lorsque vous avez augmenté le montant à 20 millions ou plus, cliquez sur le bouton ~Emprunter~.
 
 [POS]
 Text Box=300,525,400,0
@@ -80,7 +80,7 @@ Loan=20000000
 //-------------------------------------------------------------------//
 
 [TEXT]
-Excellent ! You now have the funds to start your company.^^The next step is to get an understanding about the manufacturing process. Click ~Manufacturer's Guide~ on the left of the screen to proceed.
+Excellent ! Vous avez maintenant les fonds nécessaires pour lancer votre entreprise.^^ La prochaine étape consiste à comprendre le processus de fabrication. Cliquez sur ~Guide de fabrication~ à gauche de l'écran pour continuer.
 
 [POS]
 Text Box=300,295,400,0
@@ -89,7 +89,7 @@ Pointer=35,223,138,249
 //-------------------------------------------------------------------//
 
 [TEXT]
-We want to find out what products can be made from ~Timber~, so click the ~INPUT~ button.
+Nous voulons savoir quels produits peuvent être fabriqués à partir du minerai, alors cliquez sur le bouton ~ENTREE~.
 
 [POS]
 Text Box=280,580,400,0
@@ -98,7 +98,7 @@ Pointer=533, 473, 606, 486
 //-------------------------------------------------------------------//
 
 [TEXT]
-Look for ~Timber~ in the list and double-click it. 
+Cherchez ~Bois~ dans la liste et double-cliquez dessus. 
 
 [POS]
 Text Box=280,530,400,0
@@ -109,7 +109,7 @@ Manufacturer Guide=Bed
 //-------------------------------------------------------------------//
 
 [TEXT]
-It shows that ~Timber~ can be used to produce ~Bed~. Fairly obvious eh? Take a close look at the information shown here.^^It tells that ~120 lbs of Timber~ is needed to make ~1 unit of Bed~.^^Notice that Timber has a ~quality influence of 50%~, which means that the quality of the finished product is 50% affected by the quality of Timber.  
+Cela montre que ~Bois~ peut être utilisé pour produire ~Lit~. Assez évident, non ? Regardez attentivement les informations présentées ici. Elles indiquent qu'il faut ~120 livres de bois~ pour fabriquer ~1 unité de lit~. Notez que le bois a une ~influence de qualité de 50 %~, ce qui signifie que la qualité du produit fini est affectée à 50 % par la qualité du bois.  
 
 [POS]
 Text Box=230,510,500,0
@@ -118,7 +118,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-The ~quality of Bed~ is determined by two factors: ~Production Technology~ and ~Raw Material Quality~.^^The ~raw materials~, as just stated, represent ~50%~ of the Bed's quality and the remaining ~50%~ is determined by ~production technology of the manufacturer~. We will discuss production technology later.
+La ~qualité du lit~ est déterminée par deux facteurs : ~La technologie de production~ et la ~qualité des matières premières~. Les ~matières premières~, comme nous venons de le dire, représentent ~50 %~ de la qualité du lit et les ~50 %~ restants sont déterminés par la technologie de production du fabricant~. Nous traiterons plus tard de la technologie de production.
 
 [POS]
 Text Box=230,510,500,0
@@ -127,7 +127,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Let's explore more products that can be made with Timber. Click the ~MORE~ button below the image of the Timber.
+Voyons d'autres produits qui peuvent être fabriqués à partir du bois. Cliquez sur le bouton ~PLUS~ sous l'image du bois.
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -139,7 +139,7 @@ Manufacturer Guide=Chair
 //-------------------------------------------------------------------//
 
 [TEXT]
-It shows that ~Timber~ may also be combined with ~Cotton~ and ~Linen~ to produce ~Chair~.^^The quality of ~Chair~ is 60% influenced by the raw materials. Among that 60%, ~Timber~ contributes 40%; ~Cotton~ contributes 10%; and ~Linen~ contributes the remaining 10%. 
+Cela montre que le ~bois~ peut également être combiné avec le ~coton~ et le ~lin~ pour produire la ~chaise~. La qualité de la ~chaire~ est influencée à 60 % par les matières premières. Parmi ces 60 %, ~bois~ représente 40 %, le ~coton~ 10 % et le ~lin~ les 10 % restants. 
 
 [POS]
 Text Box=230,550,500,0
@@ -148,7 +148,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-You may click the ~MORE~ button below the image of the Timber again to see more products that can be made with Timber.
+Vous pouvez cliquer à nouveau sur le bouton ~PLUS~ sous l'image du bois pour voir d'autres produits qui peuvent être fabriqués avec du bois.
 
 [POS]
 Text Box=300,430,400,0
@@ -160,7 +160,7 @@ Manufacturer Guide=Sofa
 //-------------------------------------------------------------------//
 
 [TEXT]
-Good! You've got a basic understanding about manufacturing. Let's proceed to set up your production facility.^^Right click anywhere on the screen to exit back to the city view.
+Bien ! Vous avez une connaissance de base de la fabrication. Procédons à la mise en place de votre installation de production.^^Cliquez à droite n'importe où sur l'écran pour revenir à la vue de la ville.
 
 [POS]
 Text Box=300,510,400,0
@@ -172,7 +172,7 @@ Active Interface=City View
 //-------------------------------------------------------------------//
 
 [TEXT]
-Now you must build a factory. Click the ~Build icon~. 
+Vous devez à présent construire une usine Cliquez sur l'icône ~Construire~. 
 
 [POS]
 Text Box=100,150,400,0
@@ -181,7 +181,7 @@ Pointer=31,30,79,58
 //-------------------------------------------------------------------//
 
 [TEXT]
-Select ~Factory~ from the menu and find a location to build it.^^It's a good idea to build your factory in the rural area as the land is cheaper there.
+Sélectionnez ~Usine~ dans le menu et trouvez un endroit pour la construire. C'est une bonne idée de construire votre usine dans la zone rurale car le terrain y est moins cher.
 
 [POS]
 Text Box=10,130,180,0
@@ -192,7 +192,7 @@ Firm count=Factory, 1
 //-------------------------------------------------------------------//
 
 [TEXT]
-In order for your factory to manufacture goods and sell them, it requires three unit types to be linked within the layout grid.^^You already know ~Purchasing and Sales units~. The third type you require is the ~Manufacturing Unit~.
+Pour que votre usine puisse fabriquer des marchandises et les vendre, il faut que trois types d'unités soient liés dans la grille de présentation. Vous connaissez déjà ~les unités d'achat et de vente~. Le troisième type dont vous avez besoin est ~l'unité de fabrication~.
 
 [POS]
 Text Box=32,250,350,0
@@ -201,7 +201,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Let's get your factory producing something. Double click the top left hand unit space in the layout grid and build a ~Purchasing Unit~. 
+Faisons en sorte que votre usine produise quelque chose. Double-cliquez sur l'espace supérieur gauche de l'unité dans la grille de présentation et construisez une ~unité d'achats~ 
 
 [POS]
 Text Box=32,250,350,0
@@ -213,7 +213,7 @@ Unit Exists=1, Purchasing
 //-------------------------------------------------------------------//
 
 [TEXT]
-To the right of the Purchasing Unit, build a ~Manufacturing Unit~.
+À droite de l'unité d'achat, construisez une ~unité de fabrications~.
 
 [POS]
 Text Box=32,250,350,0
@@ -225,7 +225,7 @@ Unit Exists=2, Manufacturing
 //-------------------------------------------------------------------//
 
 [TEXT]
-And to the right of the Manufacturing Unit, build a ~Sales Unit~. 
+Et à droite de l'unité de fabrication, construisez une ~unité de vente~. 
 
 [POS]
 Text Box=32,250,350,0
@@ -237,7 +237,7 @@ Unit Exists=3, Sales
 //-------------------------------------------------------------------//
 
 [TEXT]
-Now click the link between the units to connect them. 
+Cliquez maintenant sur le lien entre les unités pour les connecter. 
 
 [POS]
 Text Box=32,250,350,0
@@ -249,7 +249,7 @@ Unit Linked=Purchasing, Manufacturing, 1, 2
 //-------------------------------------------------------------------//
 
 [TEXT]
-Connect these units as well.
+Connectez également ces unités.
 
 [POS]
 Text Box=350,280,200,0
@@ -261,7 +261,7 @@ Unit Linked=Manufacturing, Sales, 2, 3
 //-------------------------------------------------------------------//
 
 [TEXT]
-Great Job! Now you need to purchase raw materials. Click your ~Purchasing Unit~ to select it.
+Bon travail ! Il faut maintenant acheter des matières premières. Cliquez sur votre ~Unité d'achats~ pour la sélectionner.
 
 [POS]
 Text Box=32,250,350,0
@@ -270,7 +270,7 @@ Pointer=489,253,573,336
 //-------------------------------------------------------------------//
 
 [TEXT]
-Click the ~Link~ button to open the ~Select a Supplier~ interface. 
+Cliquez sur le bouton ~Lien~ pour ouvrir l'interface ~Sélectionner un fournisseur~. 
 
 [POS]
 Text Box=32,250,350,0
@@ -279,7 +279,7 @@ Pointer=202,385,246,400
 //-------------------------------------------------------------------//
 
 [TEXT]
-Use the ~Product~ filter to select ~Timber~. Then choose a supplier that sells timber.
+Utilisez le filtre ~Tous les produits~ pour sélectionner ~Bois~. Choisissez ensuite un fournisseur qui vend du bois.
 
 [POS]
 Text Box=20,250,180,0
@@ -292,7 +292,7 @@ Unit has item=1, Timber
 //-------------------------------------------------------------------//
 
 [TEXT]
-As soon as your factory receives Timber from the supplier, the Manufacturing Unit begins to produce Bed.^^Shortly afterwards, the Manufacturing Unit will send finished products to the Sales Unit and your Bed will be available for sale to the world. 
+Dès que votre usine reçoit du bois du fournisseur, l'unité de fabrication commence à produire le lit. Peu de temps après, l'unité de fabrication envoie les produits finis à l'unité de vente et votre lit est disponible pour la vente dans le monde entier. 
 
 [POS]
 Text Box=32,250,350,0
@@ -301,7 +301,7 @@ Next Arrow=Yes
 ----------------------------------------------------------------//
 
 [TEXT]
-There's a lot of unused space in your factory - six empty units to be exact - so let's utilize them.^^In the row of empty units immediately below your existing units ~add~ another set of ~Purchasing Unit, Manufacturing unit and Sales unit~ from left to right. Remember to ~link~ the three new units as well. 
+Il y a beaucoup d'espace inutilisé dans votre usine - six unités vides pour être exact - alors utilisons les. Dans la rangée d'unités vides juste en dessous de vos unités existantes ~ajoutez~ un autre ensemble d'unités ~Achats, Fabrications et Ventes~ de gauche à droite. N'oubliez pas de ~lier~ également les trois nouvelles unités. 
 
 [POS]
 Text Box=32,250,350,0
@@ -312,7 +312,7 @@ Unit Linked=Purchasing, Manufacturing, 4, 5
 ----------------------------------------------------------------//
 
 [TEXT]
-There's a lot of unused space in your factory - six empty units to be exact - so let's utilize them.^^In the row of empty units immediately below your existing units ~add~ another set of ~Purchasing Unit, Manufacturing unit and Sales unit~ from left to right. Remember to ~link~ the three new units as well. 
+Il y a beaucoup d'espace inutilisé dans votre usine - six unités vides pour être exact - alors utilisons les. Dans la rangée d'unités vides juste en dessous de vos unités existantes ~ajoutez~ un autre ensemble d'unités ~Achats, Fabrications et Ventes~ de gauche à droite. N'oubliez pas de ~lier~ également les trois nouvelles unités. 
 
 [POS]
 Text Box=32,250,350,0
@@ -327,7 +327,7 @@ Game speed=0
 //-------------------------------------------------------------------//
 
 [TEXT]
-Now click the new ~Purchasing unit~ and click the ~Link~ button to open the Supplier List. Then select ~Steel~ from the supplier list. 
+Cliquez maintenant sur la nouvelle ~Unité d'achat~ et cliquez sur le bouton ~Lien~ pour ouvrir la liste des fournisseurs. Sélectionnez ensuite ~Acier~ dans la liste des fournisseurs. 
 
 [POS]
 Text Box=40,250,256,0
@@ -342,7 +342,7 @@ Unit has item=4, Steel
 //-------------------------------------------------------------------//
 
 [TEXT]
-Now link the very first ~Purchasing unit~ to the new ~Manufacturing unit~.
+Reliez maintenant la toute première ~unité d'achats~ à la nouvelle ~unité de fabrications~.
 
 [POS]
 Text Box=40,422,380,0
@@ -357,7 +357,7 @@ Game Speed=3
 //-------------------------------------------------------------------//
 
 [TEXT]
-This ~Manufacturing unit~ will now produce ~Golf Club~.^^See how we utilized an existing ~Purchasing unit~ supplying ~Timber~, and in conjunction with a new unit purchasing ~Steel~, to manufacture a different product. 
+Cette ~unité de fabrication~ va maintenant produire le ~club de golf~. Découvrez comment nous avons utilisé une ~unité d'achats~ existante fournissant du bois~, et en conjonction avec une nouvelle unité d'achat ~acier~, pour fabriquer un produit différent. 
 
 [POS]
 Text Box=70,422,380,0
@@ -366,7 +366,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Now let's have a closer look at the ~Manufacturing unit~ itself. Select your Golf Club Manufacturing unit by clicking on it. 
+Maintenant, regardons de plus près ~l'unité de fabrication elle-même~. Sélectionnez votre unité de fabrication de clubs de golf en cliquant sur celle-ci. 
 
 [POS]
 Text Box=70,422,380,0
@@ -375,7 +375,7 @@ Pointer=601,365,680,444
 //-------------------------------------------------------------------//
 
 [TEXT]
-Here it shows the ~Quality Rating~ of your Golf Club, and the factors that contribute to this quality rating, which include ~raw material qualities~, and your ~production technology~ for this product. 
+Elle indique ici la ~cote de qualité~ de votre club de golf et les facteurs qui contribuent à cette cote de qualité, qui comprennent les ~qualités des matériaux bruts~ et votre ~technologie de production~ pour ce produit. 
 
 [POS]
 Text Box=424,124,330,0
@@ -384,7 +384,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Remember the ~Manufacturer's Guide~ you looked at a moment ago? From it, you will see that the overall quality of Golf Club was ~45% affected by the qualities of its raw materials~ and ~55% affected by the production technology~.^^That corresponds to the display of ~Production Quality~ and ~Raw Material Quality~ on this screen.
+Vous souvenez-vous du ~Guide de fabrication~ que vous avez consulté il y a un instant ? Vous y verrez que la qualité globale du club de golf a été ~45 % affectée par les qualités de ses matières premières~ et ~55 % affectée par la technologie de production~. Cela correspond à l'affichage de la ~qualité de la production~ et de la ~qualité des matières premières~ sur cet écran.
 
 [POS]
 Text Box=424,124,330,0
@@ -393,7 +393,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-The ~Raw Material Quality~ can be increased by sourcing supplies of higher quality raw materials.^^The ~Production Quality~ can be increased by setting up R&D centers (research and development centers) to develop better technology. We will cover this in a later tutorial.
+La ~qualité des matières premières~ peut être améliorée en s'approvisionnant en matières premières de meilleure qualité.^^La ~qualité de la production~ peut être améliorée en créant des centres de R&D (centres de recherche et de développement) pour développer une meilleure technologie. Nous aborderons ce sujet dans un tutoriel ultérieur.
 
 [POS]
 Text Box=424,124,330,0
@@ -402,7 +402,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Now that your factory has been in operation, your products may already be purchased by other corporations for sale in their shops.^^To grow your business, you are advised to build retail stores to sell your own goods, and set up more factories to produce additional products. 
+Maintenant que votre usine est en activité, vos produits peuvent déjà être achetés par d'autres sociétés pour être vendus dans leurs magasins.^^Pour développer votre entreprise, il vous est conseillé de construire des magasins de détail pour vendre vos propres marchandises, et d'installer d'autres usines pour produire des produits supplémentaires. 
 
 
 [POS]
@@ -412,7 +412,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-To complete your objectives in this game, you need to achieve ~an annual revenue of $30 million~ and ~an annual profit of $3 million~.^^But remember that you still owe the bank money. You can repay part or all of your loan by accessing the ~Financial Actions~ screen of the ~Information Center~ and using the ~Repay~ section of the screen.^^Good Luck!
+Pour atteindre vos objectifs dans cette partie, vous devez réaliser ~un revenu annuel de 30 millions de dollars~ et ~un bénéfice annuel de 3 millions de dollars~. Mais n'oubliez pas que vous devez toujours de l'argent à la banque. Vous pouvez rembourser une partie ou la totalité de votre prêt en accédant à l'écran ~Actions financières~ du ~Centre d'informations~ et en utilisant la section ~Remboursement" de l'écran~. Bonne chance !
 
 [POS]
 Flex Text Box=300,280,400,0

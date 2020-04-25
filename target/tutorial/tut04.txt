@@ -47,7 +47,7 @@ Add Seaport Product=Leather
 //-------------------------------------------------------------------//
 
 [TEXT]
-Now that you know how to find suppliers, manufacture and sell products, it's time to look at ~advertising~ your products.^^Your corporation will be competing against other corporations selling the same product types. You will require a good advertising campaign if you want your business to succeed.^^Let's learn some basic concepts of brand and advertising now.  
+Maintenant que vous savez comment trouver des fournisseurs, fabriquer et vendre des produits, il est temps de vous pencher sur la ~publicité~ de vos produits. Votre entreprise sera en concurrence avec d'autres entreprises qui vendent les mêmes types de produits. Vous aurez besoin d'une bonne campagne publicitaire si vous voulez que votre entreprise réussisse. Apprenons maintenant quelques notions de base sur la marque et la publicité.  
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -56,7 +56,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-When a consumer buys a product they consider the ~price~, the ~quality~ and the ~brand~ of the product.^^For the ~quality~, it is affected by the qualities of raw materials used and the production technology, which you have already learned in the previous tutorial.^^For the ~price~, it is very straightforward - a lower price makes a product more competitive in the market.^^A ~brand~ is a distinguishing name intended to identify and differentiate a seller's products from competitor's products.
+Lorsqu'un consommateur achète un produit, il prend en compte le ~prix~, la ~qualité~ et la ~marque~ du produit. Pour la ~qualité~, il est influencé par les qualités des matières premières utilisées et la technologie de production, que vous avez déjà apprises dans le tutoriel précédent. Pour le ~prix~, c'est très simple : un prix plus bas rend un produit plus compétitif sur le marché. Une ~marque~ est un nom distinctif destiné à identifier et à différencier les produits d'un vendeur de ceux des concurrents.
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -65,7 +65,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-To gain a better understanding about how brands work, let's open the ~Product Detail Report~.^^Click the ~Information Center~ icon now. 
+Pour mieux comprendre le fonctionnement des marques, ouvrons le ~Rapport détaillé des produits~. Cliquez à présent sur l'icône ~Centre d'informations~. 
 
 [POS]
 Extend Text Box=36,600,500,0
@@ -75,7 +75,7 @@ Window=Bottom Toolbar
 //-------------------------------------------------------------------//
 
 [TEXT]
-Click ~Product Detail Report~.
+Cliquez sur ~Rapport détaillé des  produits~.
 
 [POS]
 Text Box=300,280,350,0
@@ -84,7 +84,7 @@ Pointer=36,125,146,136
 //-------------------------------------------------------------------//
 
 [TEXT]
-Now click the ~Search Product~ button and select ~Jeans~.
+Cliquez maintenant sur le bouton ~Rechercher un produit~ et sélectionnez ~Jeans~.
 
 [POS]
 Text Box=300,470,400,0
@@ -96,7 +96,7 @@ Interface Select=Product Details Report, Jeans
 //-------------------------------------------------------------------//
 
 [TEXT]
-Here you can see ratings for ~Price~, ~Quality~, ~Brand~ and the ~Overall rating~. They are split into two columns.^^The ~Local~ column displays the ratings for local competitors - these are local small companies that you do not see in the corporation list.^^The ~Average~ column combines the ratings of local and corporate competitors. 
+Vous pouvez voir ici les évaluations pour ~Prix~, ~Qualité~, ~Marque~ et ~Evaluation globale~. Elles sont divisées en deux colonnes. La colonne ~Local~ affiche les notations des concurrents locaux - il s'agit de petites entreprises locales que vous ne voyez pas dans la liste des sociétés. La colonne ~Moyenne~ combine les notations des concurents locaux et des sociétés. 
 
 [POS]
 Text Box=280,320,400,0
@@ -106,7 +106,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Next to them you will see the ~Concern~ column. The figures in this column indicate the factors that a consumer will consider when selecting a product to buy.
+À côté d'eux, vous verrez la colonne ~Préoccupation~. Les chiffres de cette colonne indiquent les facteurs dont un consommateur tiendra compte pour choisir un produit à acheter.
 
 [POS]
 Text Box=280,320,400,0
@@ -116,7 +116,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-For ~Jeans~, the concerns are: ~Price~ 27%, ~Quality~ 29% and ~Brand~ 44%. This means that the ~brand~ is a significantly more important factor for jeans.^^So if you plan to start a business selling jeans, it is critical that you spend aggressively on advertising your jeans, so long as your budget permits.  
+Pour ~Jeans~, les préoccupations sont : ~Prix~ 27 %, Qualité~ 29 % et Marque~ 44 %. Cela signifie que la ~marque~ est un facteur nettement plus important pour les jeans. Si vous envisagez de créer une entreprise de vente de jeans, il est donc essentiel que vous dépensiez de manière agressive pour la publicité de vos jeans, tant que votre budget le permet.  
 
 [POS]
 Text Box=300,320,400,0
@@ -126,7 +126,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-On the other hand, for some products like ~frozen meat~, consumers are concerned less about ~brands~, and are concerned more about ~quality~ and ~prices~.^^For such products, advertising should be limited and the focus should be on optimizing your business operations to offer consumers with products of lower prices and higher quality.
+D'autre part, pour certains produits comme la ~viande congelée~, les consommateurs sont moins préoccupés par les ~marques~ et plus par la ~qualité~ et les ~prix~. Pour ces produits, la publicité doit être limitée et l'accent doit être mis sur l'optimisation de vos opérations commerciales afin d'offrir aux consommateurs des produits à prix plus bas et de meilleure qualité.
 
 [POS]
 Text Box=300,280,400,0
@@ -135,7 +135,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-It is true that different product types require different marketing strategies.^^As a rule, the higher the ~brand concern~ of the product you are selling, the more aggressively you should spend in its advertisement. 
+Il est vrai que des types de produits différents nécessitent des stratégies de marketing différentes. En règle générale, plus la ~ préoccupation de la marque~ du produit que vous vendez est élevée, plus vous devez faire preuve d'agressivité dans sa publicité. 
 
 [POS]
 Text Box=300,280,400,0
@@ -144,7 +144,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Now click the ~Search Product~ button and select ~Camera~.
+Cliquez maintenant sur le bouton ~Rechercher un produit~ et sélectionnez ~Caméra~.
 
 [POS]
 Text Box=300,470,400,0
@@ -156,7 +156,7 @@ Interface Select=Product Details Report, Camera
 //-------------------------------------------------------------------//
 
 [TEXT]
-Another important piece of information you can see here is the ~Necessity Index~. For ~cameras~, it's 20%, which means that it is not an everyday necessity item. When the economy is in a downturn, consumers will cut back spending on products of low necessity indices.
+Un autre élément d'information important que vous pouvez voir ici est ~l'Indice des besoins~. Pour ~caméras~, c'est  20 %, ce qui signifie qu'il ne s'agit pas d'un produit de première nécessité. Lorsque l'économie est en récession, les consommateurs réduisent leurs dépenses sur les produits avec un faible indice de nécessité.
 
 [POS]
 Text Box=300,295,400,0
@@ -167,7 +167,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Now let's check out the ~Necessity Index~ for ~Bath Lotion~.^^Click the ~Search Product~ button again and this time select ~Bath Lotion~.
+Examinons maintenant ~l'indice des besoins~ pour ~la lotion de bain~. Cliquez à nouveau sur le bouton ~Rechercher un produit~ et sélectionnez à nouveau ~la lotion de bain~.
 
 [POS]
 Text Box=300,470,400,0
@@ -181,7 +181,7 @@ Interface Select=Product Details Report, Bath Lotion
 //-------------------------------------------------------------------//
 
 [TEXT]
-The ~Necessity Index~ of ~Bath Lotion~ is 80% and it means that it is an everyday necessity item.^^Even if the economy is in a recession, people will still buy bath lotions. (Otherwise they'd all be smelly wouldn't they?)
+~L'indice des besoins~ en ~lotion de bain~ est de 80 %, ce qui signifie qu'il s'agit d'un produit de première nécessité. Même si l'économie est en récession, les gens achèteront toujours des lotions de bain. (Sinon, ils seraient tous malodorants, n'est-ce pas ?)
 
 [POS]
 Text Box=300,295,400,0
@@ -192,7 +192,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Great! You have just learned concepts about brands. It's time to put them into use!^^ Let's build a factory to manufacture ~apparel products~.
+Super ! Vous venez d'apprendre des concepts sur les marques. Il est temps de les mettre en service ! Construisons une usine pour fabriquer des ~articles vestimentaires~.
 
 [POS]
 Text Box=300,295,400,0
@@ -201,7 +201,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Apparel products include ~Blazer~, ~Jeans~, ~Leather Jacket~ and ~Sweater~ and each will require different raw materials.^^Before you decide which apparel product to manufacture, you must look at what ~raw material supplies~ are available from the ~seaports~ and study the ~Manufacturer's Guide~ to see what products you can manufacture from the available supplies.^^Now go back to the city view by right-clicking anywhere on the screen.
+Les articles vestimentaires comprennent la ~veste~, le ~jeans~, la ~veste en cuir~ et le ~pull~ et chacun d'entre eux nécessite des matières premières différentes. Avant de choisir l'article vestimentaire à fabriquer, vous devez regarder quelles ~fournitures de matières premières~ sont disponibles dans les ~ports maritimes~ et étudier le ~guide de fabrication~ pour voir quels produits vous pouvez fabriquer à partir des fournitures disponibles. Retournez maintenant à la vue de la ville en faisant un clic droit n'importe où sur l'écran.
 
 [POS]
 Text Box=300,295,400,0
@@ -213,7 +213,7 @@ Active Interface=City View
 //-------------------------------------------------------------------//
 
 [TEXT]
-Now go ahead and build a factory.^^This tutorial will continue when you have built a factory. If at any point you are lost and you want to restart the tutorial, you can ~press the ESC key and select Restart Tutorial~.
+Maintenant, construisez une usine. Ce tutoriel se poursuivra lorsque vous aurez construit une usine. Si, à un moment donné, vous êtes perdu et que vous souhaitez redémarrer le tutoriel, vous pouvez ~appuyer sur la touche ESC et sélectionner Redémarrer le tutoriel~.
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -225,7 +225,7 @@ Hide=Tutorial window
 //-------------------------------------------------------------------//
 
 [TEXT]
-Now go ahead and build a factory.^^This tutorial will continue when you have built a factory. If at any point you are lost and you want to restart the tutorial, you can ~press the ESC key and select Restart Tutorial~.
+Maintenant, construisez une usine. Ce tutoriel se poursuivra lorsque vous aurez construit une usine. Si, à un moment donné, vous êtes perdu et que vous souhaitez redémarrer le tutoriel, vous pouvez ~appuyer sur la touche ESC et sélectionner Redémarrer le tutoriel~.
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -237,7 +237,7 @@ Firm count=Factory, 1
 //-------------------------------------------------------------------//
 
 [TEXT]
-In the previous tutorial, you have learned how to set up production facilities in a factory manually.^^This time, let's click the [+] icon to use the Manfacturer's Tool to set up the factory facilities for you automatically. 
+Dans le tutoriel précédent, vous avez appris à mettre en place manuellement les installations de production dans une usine. Cette fois, cliquez sur l'icône [+] pour utiliser les outils de fabrication afin de mettre en place automatiquement les installations de l'usine pour vous. 
 
 [POS]
 Text Box=220,135,400,0
@@ -247,7 +247,7 @@ Pointer=72,124,176,226
 //-------------------------------------------------------------------//
 
 [TEXT]
-Select an Apparel product from the list and click the [SET UP FACTORY] button.^^This tutorial will continue when your factory starts to produce Apparel products. 
+Sélectionnez un produit vestimentaire dans la liste et cliquez sur le bouton [CONSTUIRE USINE]. Ce tutoriel se poursuivra lorsque votre usine commencera à produire des articles vestimentaires. 
 
 [POS]
 Text Box=200,260,400,0
@@ -259,7 +259,7 @@ Hide=Tutorial window
 //-------------------------------------------------------------------//
 
 [TEXT]
-This tutorial will continue when your factory starts to produce Apparel products. 
+Ce tutoriel se poursuivra lorsque votre usine commencera à produire des produits vestimentaires. 
 
 [POS]
 Flex Text Box=200,280,400,0
@@ -271,7 +271,7 @@ Your factory sells product class=Apparel
 //-------------------------------------------------------------------//
 
 [TEXT]
-Good work with your factory! Now we will start dealing with branding and advertising.^^There are three different brand strategies available. Before starting to advertise, you should first decide which brand strategy you want to use. 
+Bon travail avec votre usine ! Nous allons maintenant aborder la question de l'image de marque et de la publicité. Avant de commencer à faire de la publicité, vous devez d'abord décider de la stratégie de marque que vous voulez utiliser. 
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -280,7 +280,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-To access the ~Brand Strategy~ screen, open the ~Corporate Detail~ report by pressing the shortcut key ~'D'~ now. 
+Pour accéder à l'écran ~Stratégie de marque~, ouvrez le rapport ~Détails de l'entreprise~ en appuyant sur la touche de raccourci ~'D'~ maintenant. 
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -291,7 +291,7 @@ Active Interface=Corporate Detail Report
 //-------------------------------------------------------------------//
 
 [TEXT]
-Select ~Brand~ from the menu list.
+Sélectionnez ~Marque~ dans la liste du menu.
 
 [POS]
 Text Box=380,250,350,0
@@ -300,7 +300,7 @@ Pointer=643,107,680,119
 //-------------------------------------------------------------------//
 
 [TEXT]
-If you wish to have a single brand covering every product you sell, then you should choose the ~Corporate brand strategy~.^^The ~advantage~ to this approach is that any new products you launch will instantly benefit from the recognition of the existing corporate brand.^^The ~disadvantage~ is that brand loyalty will suffer if any of your products fail to live up to consumers' quality expectations of your corporate brand. 
+Si vous souhaitez avoir une marque unique couvrant tous les produits que vous vendez, vous devez alors choisir la ~stratégie de marque d'entreprise~. L'avantage~ de cette approche est que tout nouveau produit que vous lancez bénéficiera instantanément de la reconnaissance de la marque d'entreprise existante. L'inconvénient~ est que la fidélité à la marque souffrira si l'un de vos produits ne répond pas aux attentes des consommateurs en matière de qualité de votre marque d'entreprise. 
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -309,7 +309,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-The second strategy, ~Range brand strategy~ is similar to corporate branding but its coverage is limited to product classes.^^For example ~leather bags~ and ~leather briefcases~ fall into the ~leather goods~ product class.^^If you decided to sell ~leather briefcases~ and ~bath lotions~ to accompany the ~leather bags~ you already sell, you ~leather briefcases~ would immediately inherit the brand rating of your ~leather bags~ (~same product class~) but your ~bath lotions~ would not. 
+La deuxième stratégie, ~la stratégie de marque de type de produit~ est similaire à la stratégie de marque d'entreprise mais sa couverture est limitée à des catégories de produits.  Par exemple, les ~sacs en cuir~ et les ~porte-documents en cuir~ appartiennent à la catégorie de produits ~maroquinerie~. Si vous décidez de vendre des ~porte-documents en cuir~ et des ~lotions de bain~ pour accompagner les ~sacs en cuir~ que vous vendez déjà, vos ~porte-documents en cuir~ hériteront immédiatement de la marque de vos ~sacs en cuir~ (~même catégorie de produits~) mais vos ~lotions de bain~ne le seront pas. 
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -318,7 +318,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-The default strategy is ~Unique brand strategy~ in which every product has a unique brand.^^It will cost more to promote each individual product but it may be worth it because you will never have to worry about existing brands being damaged by new but low quality products.
+La stratégie par défaut est la ~stratégie de marque unique~, dans laquelle chaque produit a une marque unique. Il sera plus coûteux de promouvoir chaque produit individuellement, mais cela peut en valoir la peine, car vous n'aurez jamais à vous inquiéter que des marques existantes soient endommagées par des produits nouveaux mais de mauvaise qualité.
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -328,7 +328,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-For the purpose of this tutorial you will adopt the ~range brand strategy~.^^Click ~Range Brand~ to set your company's brand strategy to the Range Brand strategy.
+Pour les besoins de ce tutoriel, vous allez adopter la ~stratégie de marque de type de produit~. Cliquez sur la ~marque de type de produit~ pour définir la stratégie de marque de votre entreprise à la stratégie de marque de type de produit.
 
 [POS]
 Text Box=252,65,450,0
@@ -341,7 +341,7 @@ Brand strategy=2
 //-------------------------------------------------------------------//
 
 [TEXT]
-It is important to decide upon your brand strategy at the start of a game as there is a heavy cost for switching your brand strategy - it resets all existing brand ratings to zero. 
+Il est important de décider de votre stratégie de marque au début d'un jeu car le changement de stratégie de marque a un coût élevé ;  cela remet à zéro toutes les évaluations de marque existantes. 
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -350,7 +350,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Now let's roll out your products to the market and set your range brand strategy in motion.^^~Build a department store~ and ~have it buy products from your factory~. This tutorial will continue when you have done so. 
+Maintenant, lançons vos produits sur le marché et mettons en place la stratégie de marque de votre type de produit. ~ Construisez un grand magasin~ et ~faites-lui acheter des produits de votre usine~. Ce tutoriel se poursuivra lorsque vous l'aurez fait. 
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -362,7 +362,7 @@ Hide=Tutorial window
 //-------------------------------------------------------------------//
 
 [TEXT]
-Now let's roll out your products to the market and set your range brand strategy in motion.^^~Build a department store~ and ~have it buy the apparel products from your factory~. This tutorial will continue when you have done so. 
+Maintenant, lançons vos produits sur le marché et mettons en place la stratégie de marque de type de produits~ .Construisez un grand magasin~ et ~faites-lui acheter les produits d'habillement de votre usine~. Ce tutoriel se poursuivra lorsque vous l'aurez fait. 
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -373,7 +373,7 @@ Your store sells your product class=Apparel
 //-------------------------------------------------------------------//
 
 [TEXT]
-Bon travail ! You should now add a new unit to your department store: the ~Advertising unit~, and link it to your sales unit.^^It is often a good idea to place the ~advertising unit~ in the center square of your layout so that it may link to any sales units.^^~Double click the center square~ and select ~Advertising Unit~.
+Bon travail ! Vous devez maintenant ajouter une nouvelle unité à votre grand magasin : ~l'unité publicitaire~, et la lier à votre unité de vente. Il est souvent judicieux de placer ~l'unité publicitaire~ dans le carré central de votre aménagement afin qu'elle puisse être liée à n'importe quelle unité de vente.~Double cliquez sur le carré central~ et sélectionnez ~l'unité publicitaire~.
 
 [POS]
 Text Box=32,250,350,0
@@ -385,7 +385,7 @@ Unit Exists=5, Advertising
 //-------------------------------------------------------------------//
 
 [TEXT]
-Click the ~Link Media~ button to link your ~advertising unit~ to a media. 
+Cliquez sur le bouton ~Lien avec les médias~ pour relier votre ~unité publicitaire~ à un média. 
 
 [POS]
 Text Box=200,280,210,0
@@ -394,7 +394,7 @@ Pointer=203,384,278,402
 //-------------------------------------------------------------------//
 
 [TEXT]
-All available media firms in the current city are displayed. When it comes to choosing a media to advertise, you should consider the ~Ratings Points~ and the ~Advertising Cost~ of each media.^^The higher the ~rating points~, the greater the ~audience share~.^^The ~advertising cost~ is simply the cost for your advertisement to be ~seen a thousand times~ by potential customers. 
+Toutes les entreprises de médias disponibles dans la ville actuelle sont affichées. Lorsqu'il s'agit de choisir un média pour faire de la publicité, vous devez tenir compte des ~points de classement~ et du ~coût publicitaire~ de chaque média. Plus les ~points de classement~ sont élevés, plus la ~part d'audience~ est importante. Le ~coût publicitaire~ est simplement le coût pour que votre publicité soit vue mille fois~ par des clients potentiels. 
 
 [POS]
 Text Box=20,230,310,0
@@ -404,7 +404,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Find a media firm with a high rating points score to maximize your advertising coverage. Be mindful not to choose a firm that charges too much though.^^When you have decided which media firm to advertise on, ~double-click it~ to select it. 
+Trouvez une entreprise médiatique avec un score de points élevé pour maximiser votre couverture publicitaire. Veillez toutefois à ne pas choisir une entreprise qui vous fait payer trop cher. Lorsque vous avez décidé auprès de quelle entreprise médiatique vous souhaitez faire de la publicité, double-cliquez dessus pour la sélectionner. 
 
 [POS]
 Text Box=20,230,310,0
@@ -415,7 +415,7 @@ Advertising unit is linked=5
 //-------------------------------------------------------------------//
 
 [TEXT]
-Now link your ~Advertising~ unit and your ~Sale~ unit by ~clicking the linkage line~ between them. 
+Maintenant, reliez votre unité ~Publicité~ et votre unité ~Vente~ en cliquant sur la ligne de liaison entre elles. 
 
 [POS]
 Text Box=430,150,350,0
@@ -427,7 +427,7 @@ Unit Linked=Sales, Advertising, 3, 5
 //-------------------------------------------------------------------//
 
 [TEXT]
-Now the unit detail section of your advertising unit displays the media firm you have just selected.^^You may adjust the ~Monthly Spending Per Product~ slider but for now leave it set at $100,000.
+À présent, la section de détail de votre unité de publicité affiche l'entreprise médiatique que vous venez de sélectionner. Vous pouvez ajuster le curseur ~Dépenses mensuelles par produit~ mais pour l'instant, laissez le réglage à 100 000 dollars.
 
 [POS]
 Text Box=330,120,450,0
@@ -436,7 +436,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Click your ~Sales~ unit now.
+Cliquez maintenant sur votre unité ~Ventes~.
 
 [POS]
 Text Box=430,150,350,0
@@ -445,7 +445,7 @@ Pointer=599,253,680,336
 //-------------------------------------------------------------------//
 
 [TEXT]
-You can see your product's ~brand rating~ on the ~Sales unit~. Currently it is zero but with the advertising, it should be increasing soon. 
+Vous pouvez voir le ~classement de la marque~ sur ~l'unité ventes~. Actuellement, elle est nulle, mais avec la publicité, elle devrait bientôt augmenter. 
 
 [POS]
 Text Box=330,130,450,0
@@ -455,7 +455,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-To leverage the effect of the ~Range Brand strategy~, you should add another product from one of the product classes you are already selling. 
+Pour exploiter l'effet de la ~stratégie de type de produits~, vous devez ajouter un autre produit de l'une des classes de produits que vous vendez déjà. 
 
 [POS]
 Text Box=330,130,450,0
@@ -464,7 +464,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Build another factory to produce a different ~apparel~ product. (Hint: If you are already manufacturing and selling jeans, choose leather jacket).^^This tutorial will continue when you successful produce and sell a new ~apparel~ product in your department store.  
+Construisez une autre usine pour produire un autre article ~vestimentaire~. (Astuce : si vous fabriquez et vendez déjà des jeans, choisissez une veste en cuir). Ce tutoriel se poursuivra lorsque vous aurez réussi à produire et à vendre un nouveau produit ~vestimentaire~ dans votre grand magasin.  
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -476,7 +476,7 @@ Hide=Tutorial window
 //-------------------------------------------------------------------//
 
 [TEXT]
-Build another factory to produce a different ~apparel~ product. (Hint: If you are already manufacturing and selling jeans, choose leather jacket). This tutorial will continue when you successful produce and sell a new ~apparel~ product in your department store.  
+Construisez une autre usine pour produire un autre article ~vestimentaire~. (Conseil : si vous fabriquez et vendez déjà des jeans, choisissez une veste en cuir). Ce tutoriel se poursuivra lorsque vous aurez réussi à produire et à vendre un nouveau produit ~vestimentaire~ dans votre grand magasin.  
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -489,7 +489,7 @@ Your store sells your product class=Apparel, 2
 //-------------------------------------------------------------------//
 
 [TEXT]
-Très bien ! This time you do not need to link the new product to the advertising unit as it is already covered by your ~apparel product class~ brand. 
+Très bien ! Cette fois-ci, vous n'avez pas besoin de lier le nouveau produit à l'unité de publicité car il est déjà couvert par votre marque ~d'articles vestimentaires~. 
 
 [POS]
 Text Box=32,250,350,0
@@ -498,7 +498,7 @@ Next Arrow=Yes
 ----------------------------------------------------------------//
 
 [TEXT]
-With the advertising delivering its effect, your products' ~brand ratings~ will continue to increase, which in turn will raise your products' ~overall ratings~ and thus drive their sales higher.^^While all this is happening, let's open the ~Corporate Details~ report by pressing the shortcut key ~'D'~ to access some useful market intelligence.
+Avec l'effet de la publicité, le ~classement de la marque de la marque~ de vos produits continueront à augmenter, ce qui à son tour augmentera les ~évaluations globales~ de vos produits et donc leurs ventes. Pendant que tout cela se produit, ouvrons le rapport ~Détails de l'entreprise~ en appuyant sur la touche de raccourci ~'D'~ pour accéder à des informations utiles sur le marché.
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -509,7 +509,7 @@ Active Interface=Corporate Detail Report
 ----------------------------------------------------------------//
 
 [TEXT]
-Select the ~Dominance~ option to see how your corporation is faring against the competition. 
+Sélectionnez l'option ~Domination~ pour voir comment votre société se positionne par rapport à la concurrence. 
 
 [POS]
 Text Box=32,250,350,0
@@ -518,7 +518,7 @@ Pointer=639,128,710,139
 ----------------------------------------------------------------//
 
 [TEXT]
-The report displays ~market dominance by industry~ as well as ~by product class~. You can see your corporation's market shares for each product that it is currently selling.^^The ~rank~ columns indicates your company's sales ranking. When it reads "1st", it means your corporation has achieved market dominance for the respective product class. 
+Le rapport montre la "domination du marché par industrie" ainsi que ~par classe de produits~. Vous pouvez voir les parts de marché de votre société pour chaque produit qu'elle vend actuellement. Les colonnes ~classement~ indiquent le classement des ventes de votre société. Quand il est écrit "1er", cela signifie que votre société a atteint une position dominante sur le marché pour la classe de produits concernée. 
 
 [POS]
 Text Box=170,380,580,0
@@ -527,7 +527,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Select the ~Brand~ menu option to view the current brand ratings of your products. 
+Sélectionnez l'option de menu ~Marque~ pour afficher les évaluations actuelles de la marque de vos produits. 
 
 [POS]
 Text Box=32,250,350,0
@@ -536,7 +536,7 @@ Pointer=639,108,710,119
 //-------------------------------------------------------------------//
 
 [TEXT]
-Here you will see that the advertising is slowly increasing brand ratings for your products.^^Notice that the ~brand rating~ equals to the sum of ~Brand Awareness~ and ~Brand Loyalty~. 
+Ici, vous verrez que la publicité augmente lentement la notoriété de vos produits. Notez que le ~classement de la marque~ est égale à la somme de la ~notoriété de la marque~ et de la ~fidélité à la marque~. 
 
 [POS]
 Text Box=170,380,580,0
@@ -545,7 +545,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-~Brand awareness~ is simply a measure the consumers' knowledge of the brand.^^Besides driven by advertising, it also increases automatically over time, if the products featuring the brand are widely distributed and enjoy constant retail exposure.
+~La notoriété de la marque ~ est simplement une mesure de la connaissance qu'ont les consommateurs de la marque. Outre la publicité, elle augmente automatiquement avec le temps, si les produits portant la marque sont largement distribués et bénéficient d'une exposition constante au détail.
 
 [POS]
 Text Box=170,380,580,0
@@ -554,7 +554,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-~Brand loyalty~ is a measure of the consumers' attachment to a brand.^^If you allow quality of your products to fluctuate, the brand loyalty will suffer as consumers can easily lose faith in products with inconsistent quality. 
+~La fidélité à la marque~ est une mesure de l'attachement des consommateurs à une marque. Si vous laissez la qualité de vos produits fluctuer, la fidélité à la marque en souffrira car les consommateurs peuvent facilement perdre confiance dans des produits de qualité inégale. 
 
 [POS]
 Text Box=170,380,580,0
@@ -563,7 +563,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-You have learned fast and had a great start with building brands for your products.^^To take it to the next level, you should expand your retail presence to other cities and make your brands global ones!
+Vous avez appris rapidement et avez pris un bon départ en créant des marques pour vos produits. Pour passer à l'étape suivante, vous devriez étendre votre présence dans le commerce de détail à d'autres villes et faire de vos marques des marques de renommée mondiale !
 
 [POS]
 Text Box=170,380,580,0
@@ -572,7 +572,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-A strategy advice for you: concentrate on the products you are already manufacturing, build new retail stores and ultimately dominate the market!^^And when you are ready to expand your business into other cities, remember to use the ~Mini map~ to switch between cities. 
+Un conseil stratégique pour vous : concentrez-vous sur les produits que vous fabriquez déjà, construisez de nouveaux magasins de détail et, en fin de compte, dominez le marché ! Et lorsque vous êtes prêt à étendre votre activité dans d'autres villes, n'oubliez pas d'utiliser la ~mini carte~ pour passer d'une ville à l'autre. 
 
 [POS]
 Text Box=170,380,580,0
@@ -581,7 +581,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-You will complete this tutorial when you ~dominate the Apparel market~ while achieving ~an annual profit~ of not less than ~$2 million~. Good luck!
+Vous terminerez ce tutoriel lorsque vous aurez dominé le marché de l'habillement tout en réalisant un bénéfice annuel d'au moins ~2 millions de dollars~. Bonne chance !
 
 [POS]
 Text Box=170,380,580,0

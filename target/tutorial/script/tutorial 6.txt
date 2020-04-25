@@ -1,6 +1,6 @@
 [HEADER]
 Title=6. Agricultural Business
-Description=As part of your effort to grow your company into a major conglomerate, you are going to expand your business into the agricultural sector and set up your own farms to supply livestock and crop products to your retail stores.^^Agricultural products play key roles in productions of a large number of products. By having your own agricultural production capability, you will further strengthen your company's competitiveness. 
+Description=Une partie de vos efforts pour faire de votre entreprise un grand conglomérat consiste à étendre votre activité au secteur agricole et à créer vos propres exploitations agricoles pour fournir des produits d'élevage et de culture à vos magasins de détail. Les produits agricoles jouent un rôle clé dans la production d'un grand nombre de produits.. En disposant de votre propre capacité de production agricole, vous renforcerez encore la compétitivité de votre entreprise. 
 
 //------------------------------------------------------------------------------------------------//
 
@@ -106,8 +106,8 @@ Firm, Sports Facilities
 //------------------------------------------------------------------------------------------------//
 
 [MAIN GOAL]
-Goal Title=Objectif du tutoriel
-Goal Description=To win this game, your company must make at least 20 types of products to demonstrate its ability to produce a wide range of products. At the same time you must achieve an annual revenue of $100 million and an annual profit of $10 million.
+Goal Title=Tutorial Goal
+Goal Description=Pour gagner cette partie, votre entreprise doit fabriquer au moins 20 types de produits afin de démontrer sa capacité à produire une large gamme de produits. Dans le même temps, vous devez réaliser un revenu annuel de 100 millions de dollars et un bénéfice annuel de 10 millions de dollars.
 
 [MAIN GOAL VALUES]
 Number of product types being produced=20

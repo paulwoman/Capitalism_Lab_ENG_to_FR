@@ -15,7 +15,7 @@ Hide=Preview
 //-------------------------------------------------------------------//
 
 [TEXT]
-Vous avez obtenu un MBA d'une école de commerce renommée.  Pouvez-vous appliquer ce que vous avez appris à la gestion d'une entreprise dans le monde réel ? C'est maintenant votre chance de prouver votre capacité ! Cliquez sur l'icône clignotante Suivant pour continuer. Vous pouvez également appuyer sur la touche ~Enter~ pour continuer lorsque l'icône Suivant clignote. 
+Vous avez obtenu un MBA d'une école de commerce renommée.  Pouvez-vous appliquer ce que vous avez appris à la gestion d'une entreprise dans le monde réel ? C'est maintenant votre chance de prouver votre capacité ! ^^Cliquez sur l'icône clignotante Suivant pour continuer. Vous pouvez également appuyer sur la touche ~Entrée~ pour continuer lorsque l'icône ~Suivant~ clignote. 
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -40,7 +40,7 @@ Current Firm=My Department Store
 //-------------------------------------------------------------------//
 
 [TEXT]
-Cick the ~Add Product icon~ now. 
+Cliquer sur l'icône ~Ajouter un produit~ maintenant. 
 
 [POS]
 Text Box=32,420,300,0
@@ -50,7 +50,7 @@ Pointer=60,120,165,230
 //-------------------------------------------------------------------//
 
 [TEXT]
-Il s'agit de la fenêtre "Sélectionner un fournisseur". Elle répertorie tous les produits actuellement disponibles dans le jeu. Vous pouvez utiliser les trois filtres en haut de la fenêtre pour vous aider à trouver les produits que vous voulez.^^Vous avez l'intention d'acheter des produits dans les ports maritimes locaux, alors cliquez sur la case de filtre "Fournisseurs" comme indiqué.
+Il s'agit de la fenêtre ~Sélectionner un fournisseur~. Elle répertorie tous les produits actuellement disponibles dans le jeu. Vous pouvez utiliser les trois filtres en haut de la fenêtre pour vous aider à trouver les produits que vous voulez.^^Vous avez l'intention d'acheter des produits dans les ports maritimes locaux, alors cliquez sur la case de filtre  ~Fournisseurs~ comme indiqué.
 
 [POS]
 Text Box=32,270,300,0
@@ -60,7 +60,7 @@ Window=Select Supplier
 //-------------------------------------------------------------------//
 
 [TEXT]
-Double-cliquez sur "Port Maritime" dans la liste déroulante.
+Double-cliquez sur  ~Port Maritime ~ dans la liste déroulante.
 
 [POS]
 Text Box=32,270,300,0
@@ -73,7 +73,7 @@ Interface Select=Select Supplier, Seaport
 //-------------------------------------------------------------------//
 
 [TEXT]
-La fenêtre se met à jour pour montrer tous les produits disponibles dans les ports maritimes locaux. À ce stade, vous n'avez pas besoin de vous préoccuper des informations fournies avec chaque produit (les frais de transport, les évaluations, la marque et d'autres informations seront expliquées dans un tutoriel ultérieur).^^Pour l'instant, achetons simplement le premier produit de la liste pour faire avancer les choses. Cliquez sur le bouton "SELECT" maintenant.
+La fenêtre se met à jour pour montrer tous les produits disponibles dans les ports maritimes locaux. À ce stade, vous n'avez pas besoin de vous préoccuper des informations fournies avec chaque produit (les frais de transport, les évaluations, la marque et d'autres informations seront expliquées dans un tutoriel ultérieur).^^Pour l'instant, achetons simplement le premier produit de la liste pour faire avancer les choses. Cliquez sur le bouton ~SELECT~ maintenant.
 
 [POS]
 Text Box=32,270,300,0
@@ -91,7 +91,7 @@ Fast forward days=5
 //-------------------------------------------------------------------//
 
 [TEXT]
-Vous êtes maintenant de retour dans votre grand magasin. Votre magasin achète automatiquement le produit que vous avez sélectionné dans le port maritime et le met en vente pour vos clients. Regardez à gauche de l'image du produit. Vous voyez les barres verticales jaunes et orange ? La barre jaune APPROVISIONNEMENT indique la quantité de produit que vous avez en magasin et la barre orange de DEMANDE mesure la demande du consommateur pour ce produit.
+Vous êtes maintenant de retour dans votre grand magasin. Votre magasin achète automatiquement le produit que vous avez sélectionné dans le port maritime et le met en vente pour vos clients. Regardez à gauche de l'image du produit. Vous voyez les barres verticales jaunes et orange ? La ~barre jaune APPROVISIONNEMENT~ indique la quantité de produit que vous avez en magasin et la ~barre orange de DEMANDE~ mesure la demande du consommateur pour ce produit.
 
 [POS]
 Text Box=40,270,350,0
@@ -101,7 +101,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Chaque magasin de détail dispose de quatre emplacements pour les produits. Augmentez la variété des produits dans votre magasin et utiliser les créneaux disponibles.^^Répétez ce que vous venez de faire. Cliquez sur l'icône "Ajouter un produit", puis choisissez "Port maritime" dans la liste des fournisseurs et sélectionnez un produit à ajouter à votre magasin. Cette fois, assurez-vous de sélectionner un produit différent de celui qui est déjà en vente dans votre magasin. 
+Chaque magasin de détail dispose de quatre emplacements pour les produits. Augmentez la variété des produits dans votre magasin et utiliser les créneaux disponibles.^^Répétez ce que vous venez de faire. Cliquez sur l'icône ~Ajouter un produit~, puis choisissez ~Port maritime~ dans la liste des fournisseurs et sélectionnez un produit à ajouter à votre magasin. ^^Cette fois, assurez-vous de sélectionner un produit différent de celui qui est déjà en vente dans votre magasin. 
 
 [POS]
 Text Box=20,270,280,0
@@ -120,7 +120,7 @@ Fast forward days=5
 //-------------------------------------------------------------------//
 
 [TEXT]
-Très bien ! Continuez à ajouter de nouveaux produits dans votre magasin. En plus de cliquer sur le bouton "Select", vous pouvez simplement double-cliquer sur un produit de la liste pour le sélectionner. Lorsque vous êtes prêt à passer à autre chose, cliquez droit n'importe où sur l'écran pour quitter votre magasin et revenir à la vue de la ville.
+Très bien ! Continuez à ajouter de nouveaux produits dans votre magasin. En plus de cliquer sur le bouton ~Select~, vous pouvez simplement double-cliquer sur un produit de la liste pour le sélectionner. ^^Lorsque vous êtes prêt à passer à autre chose, cliquez droit n'importe où sur l'écran pour quitter votre magasin et revenir à la vue de la ville.
 
 [POS]
 Text Box=10,270,220,0
@@ -131,7 +131,7 @@ Active Interface=City View
 //-------------------------------------------------------------------//
 
 [TEXT]
-Bien. Nous sommes maintenant dans la vue de la ville. Explorons. Vous voyez la barre d'outils au bas de l'écran ?
+Bien. Nous sommes maintenant dans la vue de la ville. Explorons.^^Vous voyez la barre d'outils en bas de l'écran ?
 
 [POS]
 Flex Text Box=80,550,400,0
@@ -153,7 +153,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Vous pouvez modifier la vitesse du jeu en utilisant les touches de raccourci " 1 " (le plus lent) à "5 " (le plus rapide). Vous pouvez également mettre le jeu en pause en appuyant sur la touche "0".   
+Vous pouvez modifier la vitesse du jeu en utilisant les touches de raccourci ~"1" (le plus lent) à "5" (le plus rapide)~. Vous pouvez également mettre le jeu en pause en appuyant sur la touche ~0~.   
 
 [POS]
 Flex Text Box=80,500,400,0
@@ -164,7 +164,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Il y a une rangée d'icônes sur la barre d'outils. Cliquons maintenant sur l'icône "Mini Carte". 
+Il y a une rangée d'icônes sur la barre d'outils. Cliquons maintenant sur l'icône ~Mini carte~. 
 
 [POS]
 Flex Text Box=60,550,300,0
@@ -174,7 +174,7 @@ Window=Bottom Toolbar
 //-------------------------------------------------------------------//
 
 [TEXT]
-La mini carte montre la ville entière. Le long de sa bordure supérieure, vous voyez l'icône "Sélection de la ville" (représentée par une flèche vers le bas), qui sert à afficher une liste des villes du jeu en cours. Les icônes "flèches gauche et droite" à côté du nom de la ville vous permettent de passer en revue la ville précédente ou suivante. 
+La mini carte montre la ville entière. Le long de sa bordure supérieure, vous voyez l'icône ~Sélection de la ville~ (représentée par une flèche vers le bas), qui sert à afficher une liste des villes du jeu en cours. ^^Les icônes ~flèches gauche et droite~ à côté du nom de la ville vous permettent de passer en revue la ville précédente ou suivante. 
 
 [POS]
 Extend Text Box=450,50,300,0
@@ -185,7 +185,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Le rectangle animé sur la mini-carte représente la zone affichée dans la vue de la ville. 
+Le rectangle animé sur la mini carte représente la zone affichée dans la vue de la ville. 
 
 [POS]
 Extend Text Box=450,50,300,0
@@ -195,7 +195,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Il y a plusieurs icônes autour de la mini-carte pour passer à différents modes de carte. 
+Il y a plusieurs icônes autour de la mini carte pour passer à différents modes de carte. 
 
 [POS]
 Extend Text Box=450,50,300,0
@@ -205,7 +205,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-La première icône, celle qui ressemble à un bâtiment, fait basculer le mode "propriété". Sur la mini carte, les zones blanches représentent les bâtiments de la ville qui n'appartiennent pas à des sociétés, comme les maisons et les parcs. Les zones colorées représentent les bâtiments appartenant à des sociétés et sont représentées par la couleur de la société. Les ports maritimes sont représentés par la lettre "C" ou "I" -  "C" pour les produits de consommation -  (comme les téléviseurs ou les jeans) et ~ "I" pour les produits industriels~ (comme le charbon ou l'acier). 
+La première icône, celle qui ressemble à un bâtiment, fait basculer en mode ~Propriété~. Sur la mini carte, les zones blanches représentent les bâtiments de la ville qui n'appartiennent pas à des sociétés, comme les maisons et les parcs.^^Les zones colorées représentent les bâtiments appartenant à des sociétés et sont représentées par la couleur de la société.^^Les ports maritimes sont représentés par la lettre "C" ou "I" -  ~"C" pour les produits de consommation ~(comme les téléviseurs ou les jeans) et ~ "I" pour les produits industriels~ (comme le charbon ou l'acier). 
 
 [POS]
 Extend Text Box=450,50,300,0
@@ -216,7 +216,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Cliquez maintenant sur l'icône "Valeur du terrain" pour passer à ce mode.
+Cliquez maintenant sur l'icône ~Valeur du terrain~ pour passer à ce mode.
 
 [POS]
 Extend Text Box=450,50,300,0
@@ -227,7 +227,7 @@ Window=Minimap
 //-------------------------------------------------------------------//
 
 [TEXT]
-L'affichage de la mini-carte change pour montrer les données sur la valeur des terres. Plus la couleur est foncée, plus le terrain a de la valeur. Construire dans des zones claires peut être coûteux mais cela peut fournir à vos magasins une clientèle plus riche prête à payer des prix plus élevés.
+L'affichage de la mini carte change pour montrer les données sur la valeur du terrain. ~Plus la couleur est foncée, plus le terrain a de la valeur. ~Construire dans des zones claires peut être coûteux mais cela peut fournir à vos magasins une clientèle plus riche prête à payer des prix plus élevés.
 
 [POS]
 Extend Text Box=450,50,300,0
@@ -247,7 +247,7 @@ Window=Minimap
 //-------------------------------------------------------------------//
 
 [TEXT]
-Dans ce mode, les bâtiments représentés par les points verts sont rentables alors que les bâtiments représentés par les ~points rouges perdent de l'argent. Plus la couleur est foncée, plus les profits ou les pertes sont importants. Les bâtiments visibles de couleur blanche, appartiennent au gouvernement et, en tant que tels, ne présentent ni bénéfice ni perte.
+Dans ce mode, les bâtiments représentés par ~les points verts sont rentables~ alors que les bâtiments représentés par les ~points rouges perdent de l'argent~. Plus la couleur est foncée, plus les profits ou les pertes sont importants. Les bâtiments visibles de couleur blanche, appartiennent au gouvernement et, en tant que tels, ne présentent ni bénéfice ni perte.
 
 [POS]
 Extend Text Box=450,50,300,0
@@ -257,7 +257,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Nous allons maintenant jeter un coup d'œil rapide à l'interface du "Filtre de construction".L'interface du filtre comporte cinq boutons de sélection intitulés "Firme", "Compagnie", "Cette ville", "Mes entreprises" et "Produit". Lorsque l'un de ces filtres est activé, seules les entreprises du filtre seront affichées sur la mini-carte en mode "Profit" ou "Propriété". 
+Nous allons maintenant jeter un coup d'œil rapide à l'interface du ~Filtre de construction~. L'interface du filtre comporte cinq boutons de sélection intitulés ~Établissement~, ~Société~, ~Cette ville~, ~Mes établissements~ et ~Produit~. Lorsque l'un de ces filtres est activé, seules les établissements du filtre seront affichées sur la mini-carte en mode ~Profit~ ou ~Propriété~. 
 
 [POS]
 Extend Text Box=450,100,300,0
@@ -269,7 +269,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Pour parcourir les entreprises dans le filtre, utilisez les boutons haut et bas. 
+Pour parcourir les établissements dans le filtre, utilisez les boutons haut et bas. 
 
 [POS]
 Extend Text Box=450,100,300,0
@@ -280,7 +280,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Cliquez sur le bouton "Mes entreprises" et l'affichage de la mini-carte change pour ne montrer que les bâtiments environnants et les entreprises que vous possédez. 
+Cliquez sur le bouton ~Mes établissements~ et l'affichage de la mini-carte change pour ne montrer que les bâtiments environnants et les établissements que vous possédez. 
 
 [POS]
 Extend Text Box=450,100,300,0
@@ -290,7 +290,7 @@ Window=Minimap
 //-------------------------------------------------------------------//
 
 [TEXT]
-Comme votre société n'a actuellement qu'une seule entreprise - votre grand magasin, seul un point à la couleur de votre entreprise est affiché. Vous pouvez annuler ce mode en cliquant à nouveau sur le bouton "Mes entreprises". Mais pour l'instant, maintenez-le actif. 
+Comme votre société n'a actuellement qu'un seul établissement - votre grand magasin, seul un point à la couleur de votre société est affiché. Vous pouvez annuler ce mode en cliquant à nouveau sur le bouton ~Mes établissements~. Mais pour l'instant, maintenez-le actif. 
 
 [POS]
 Extend Text Box=450,100,300,0
@@ -313,7 +313,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-L'écran n'affichant toujours que votre grand magasin (sous la forme d'un carré coloré), cliquez sur l'icône du mode "Relations d'affaires"..
+L'écran n'affichant toujours que votre grand magasin (sous la forme d'un carré coloré), cliquez sur l'icône du mode ~Relations d'affaires~.
 
 [POS]
 Extend Text Box=450,100,300,0
@@ -333,7 +333,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT] 
-Pendant que nous explorions les interfaces, votre grand magasin générait déjà des revenus. Regardez les "chiffres de trésorerie et de bénéfices" sur la barre d'outils. Avez-vous assez d'argent pour construire un deuxième grand magasin ?
+Pendant que nous explorions les interfaces, votre grand magasin générait déjà des revenus.^^ Regardez les ~chiffres de trésorerie et de bénéfices~ sur la barre d'outils. Avez-vous assez d'argent pour construire un deuxième grand magasin ?
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -344,7 +344,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Un nouveau grand magasin coûte 1 000 000 $ pour sa construction, plus le coût du terrain, et 100 000 $ supplémentaires par mois pour son fonctionnement. Cela semble être dans les limites de votre budget, alors continuons. 
+Un nouveau grand magasin coûte 1 million de dollars pour sa construction, plus le coût du terrain, et 100 000 $ supplémentaires par mois pour son fonctionnement. Cela semble être dans les limites de votre budget, alors continuons. 
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -353,7 +353,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Cliquez sur l'icône "Menu de construction" dans le "Menu des outils de jeu" en haut à gauche de l'écran.
+Cliquez sur l'icône ~Menu de construction~ dans le ~Menu des outils de jeu~ en haut à gauche de l'écran.
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -362,7 +362,7 @@ Pointer=31,30,79,58
 //-------------------------------------------------------------------//
 
 [TEXT]
-Choisissez maintenant "Magasin de détail" dans le menu.
+Choisissez maintenant ~Magasin de détail~ dans le menu.
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -371,7 +371,7 @@ Pointer=52,61,235,75
 //-------------------------------------------------------------------//
 
 [TEXT]
-And choose ~Department Store~.
+Et choisissez "Grand magasin".
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -380,7 +380,7 @@ Pointer=282,52,450,100
 //-------------------------------------------------------------------//
 
 [TEXT]
-Votre curseur met maintenant en évidence une place sur la ville. Essayez de trouver un emplacement proche des immeubles résidentiels pour bénéficier d'une forte fréquentation. Si l'emplacement est coloré en jaune, cela signifie qu'il s'agit d'un emplacement valable pour la construction de votre grand magasin.. 
+Votre curseur met maintenant en évidence un emplacement sur la ville. Essayez de trouver un emplacement proche des immeubles résidentiels pour bénéficier d'une forte fréquentation. Si l'emplacement est ombré en ~jaune~, cela signifie qu'il s'agit d'un emplacement valable pour la construction de votre grand magasin. Lorsque vous avez choisi un emplacement, cliquez sur le bouton gauche de la souris et le grand magasin sera construit. 
 
 [POS]
 Flex Text Box=400,16,400,0
@@ -401,7 +401,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Vous gagnez ce jeu lorsque le chiffre d'affaires annuel de votre entreprise atteint 20 millions de dollars. Pour voir le rapport d'objectifs, cliquez sur l'icône "Centre d'information" dans la barre de menu au bas de l'écran. 
+Vous gagnez ce jeu lorsque le chiffre d'affaires annuel de votre entreprise atteint 20 millions de dollars. Pour voir le rapport d'objectifs, cliquez sur l'icône ~Centre d'informations~ dans la barre de menu au bas de l'écran. 
 
 [POS]
 Extend Text Box=120,500,450,0
@@ -420,7 +420,7 @@ Pointer=38,68,122,78
 //-------------------------------------------------------------------//
 
 [TEXT]
-Très bien ! Vous avez terminé ce tutoriel. Vous devez mettre en pratique ce que vous venez d'apprendre dans la gestion de votre entreprise.
+Très bien ! Vous avez terminé ce tutoriel. Vous deverz mettre en pratique ce que vous venez d'apprendre dans la gestion de votre entreprise.
  Maintenant, allez ajouter des produits à votre nouveau grand magasin et faites croître votre entreprise ! 
 
 [POS]

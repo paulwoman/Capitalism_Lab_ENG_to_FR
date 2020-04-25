@@ -13,9 +13,9 @@
 [0027]<PRDN>Non|
 [0028]<PRED>Un profile identique est déjà présent|
 [0029]<PREI>Erreur pendant la création du répertoire %1s|
-[0030]<PREC>Erreur pendant la création du profile|
+[0030]<PREC>Erreur pendant la création du profil|
 [0038]<NAH_>Humain|
-[0040]<DIFF>Niveau de difficulté|
+[0040]<DIFF>Niv. de difficulté|
 [0092]<RNDE>Evènement Aléatoire|
 [0118]L'hôte vous refuse|<RFU0>
 [0119]Ne peut rejoindre une nouvelle session|<RFU1>
@@ -65,16 +65,16 @@
 [0300]<#?L0>#r - classement des joueurs|
 [0301]<#?L1>#? - aide|
 [0322]<ENVI>ENVIRONNEMENT|
-[0323]<CMPT>COMPETITORS|
-[0324]<IMPT>PRODUCTS|
-[0325]<GOAL>GOALS|
+[0323]<CMPT>COMPETITEURS|
+[0324]<IMPT>PRODUITS|
+[0325]<GOAL>OBJECTIFS|
 [0326]<CITY>Nombre de villes|
 [0327]<SCAP>Votre capital de départ|
 [0329]<ALLS>Bourse|
 [0341]<NCOM>Nombre de compétiteurs|
-[0342]<CCAP>Competitor Start-up Capital|
-[0343]<CAGG>AI Expansion Aggressiveness|
-[0344]<COML>AI Expertise Level|
+[0342]<CCAP>Capital de départ des concurents|
+[0343]<CAGG>Agressivité de l’expansion des IA|
+[0344]<COML>Niveau de compétence des IA|
 [0346]<CSEC>Show Competitor Trade Secrets|
 [0347]<CCOM>Competence of Local Competitors|
 [0348]<CSEA>Seaports Importing Consumer Goods per City|
@@ -82,7 +82,7 @@
 [0351]<ISUP>Constant Import Supply|
 [0352]<IQUA>Qualité des importations|
 [0460]<CCTI>Macro Economy Realism|
-[0462]<DSMI>Retail Store Type|
+[0462]<DSMI>Type de magasin de détail|
 [0463]Souvent|<DSM1>
 [0464]Un|<DSM2>
 [0467]<GSYI>Année de départ|
@@ -109,8 +109,8 @@
 [0536]<CHE1>Wrong Firm|
 [0537]<CHE2>Firm can not be taken by player!!|
 [0539]<FAP2>Null|
-[0540]<FAP3>Confirm|
-[0541]<FAP4>Cancel|
+[0540]Confirmer|<FAP3>
+[0541]Annuler|<FAP4>
 [0543]<FAP6>Sorry, you don't have enough cash.|
 [0546]<AII1>Game Design Mode Warning|
 [0547]<AII2>Grand strategy plan|
@@ -819,18 +819,18 @@
 [1639]<AK07>Donation to Public Facilities|
 [1640]<AK08>Write-offs|
 [1641]<AK09>Stock Return|
-[1642]<AL00>6 months|
-[1643]<AL01>1 year|
-[1644]<AL02>2 years|
-[1645]<AL03>3 years|
-[1646]<AL04>5 years|
-[1647]<AL05>10 years|
+[1642]6 mois|<AL00>
+[1643]1 an|<AL01>
+[1644]2 ans|<AL02>
+[1645]3 ans|<AL03>
+[1646]5 ans|<AL04>
+[1647]10 ans|<AL05>
 [1648]<0652>Stock Price Graph|
-[1650]<0654>Day|
-[1651]<0655>Month|
-[1652]<0656>Mansion|
-[1653]<0657> year|
-[1654]<0658> years|
+[1650]<0654>Jour|
+[1651]<0655>Mois|
+[1652]<0656>Manoir|
+[1653]<0657> an|
+[1654]<0658> ans|
 [1656]<0660>Your Personal Wealth|
 [1657]<0661>Net Worth of Your Corporation|
 [1658]<0662>Market Cap of Your Corporation|

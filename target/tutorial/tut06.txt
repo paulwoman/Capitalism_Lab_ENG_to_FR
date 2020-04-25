@@ -73,7 +73,7 @@ Unit has item=1, Cattle
 //-------------------------------------------------------------------//
 
 [TEXT]
-Good! Your farm has begun rearing cattle.^^To the right of the ~Livestock Raising Unit~, build a ~Livestock Processing Unit~.
+Bien ! Your farm has begun rearing cattle.^^To the right of the ~Livestock Raising Unit~, build a ~Livestock Processing Unit~.
 
 [POS]
 Text Box=32,250,350,0
@@ -85,7 +85,7 @@ Unit Exists=2, Livestock Processing
 //-------------------------------------------------------------------//
 
 [TEXT]
-Now click the link between the units to connect them. 
+Cliquez maintenant sur le lien entre les unités pour les connecter. 
 
 [POS]
 Text Box=32,250,350,0
@@ -129,7 +129,7 @@ Unit Exists=3, Sales
 //-------------------------------------------------------------------//
 
 [TEXT]
-Now click the link between the units to connect them. 
+Cliquez maintenant sur le lien entre les unités pour les connecter. 
 
 [POS]
 Text Box=32,250,350,0

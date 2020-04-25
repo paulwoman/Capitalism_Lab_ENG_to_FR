@@ -1,6 +1,6 @@
 [HEADER]
 Title=5. Marché boursier 
-Description=You have built a flourishing business empire. Now it is time to take it to the next level by getting it listed as a public company on the Stock Exchange.^^You will learn how to raise funds by making new shares offerings to the public to finance your business expansion, and make long term investments by buying shares of other companies with promising growth prospects.
+Description=Vous avez construit un empire commercial florissant. Il est maintenant temps de passer à l'étape suivante en la faisant coter en bourse en tant que société publique.^^ Vous apprendrez comment lever des fonds en faisant de nouvelles offres d'actions au public pour financer l'expansion de votre entreprise, et faire des investissements à long terme en achetant des actions d'autres sociétés aux perspectives de croissance prometteuses.
 
 
 //------------------------------------------------------------------------------------------------//
@@ -110,8 +110,8 @@ Firm, Sports Facilities
 //------------------------------------------------------------------------------------------------//
 
 [MAIN GOAL]
-Goal Title=Objectif du tutoriel
-Goal Description=You win this tutorial game when your company's stock price increases to $100.
+Goal Title=Tutorial Goal
+Goal Description=Vous gagnez ce tutoriel lorsque le cours de l'action de votre entreprise passe à 100 dollars.
 
 [MAIN GOAL VALUES]
 Stock Price=100
