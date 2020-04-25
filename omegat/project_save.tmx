@@ -1358,6 +1358,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Below the ~stock price~ and the ~total number of shares~ figures, you will see the ~Market Cap~, or the market capitalization of a corporation, which is equal to the ~share price~ times the ~total number of shares outstanding~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T151246Z" creationid="Olivier" creationdate="20200425T151210Z">
+        <seg>Sous les chiffres du ~prix de l'action~ et du ~nombre total d'actions~, vous verrez la ~Capitalisation boursière~, ou la capitalisation boursière d'une société, qui est égale au ~prix de l'action~ multiplié par le ~nombre total d'actions en circulation~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Besides clicking the ~Select~ button, you may simply ~double-click~ a product on the list to select it.^^When you are ready to move on, ~RIGHT clicking anywhere~ on the screen to exit your store and return to the city view.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T214006Z" creationid="Olivier" creationdate="20200422T170918Z">
@@ -3701,6 +3709,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T092809Z" creationid="Olivier" creationdate="20200424T092809Z">
         <seg>Pour que votre usine puisse fabriquer des marchandises et les vendre, il faut que trois types d'unités soient liés dans la grille de présentation. Vous connaissez déjà ~les unités d'achat et de vente~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In other words, it is the total market value of a corporation in the stock market.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T151303Z" creationid="Olivier" creationdate="20200425T151303Z">
+        <seg>En d'autres termes, il s'agit de la valeur marchande totale d'une société sur le marché boursier.</seg>
       </tuv>
     </tu>
     <tu>
