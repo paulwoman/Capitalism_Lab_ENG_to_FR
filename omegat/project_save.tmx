@@ -1366,6 +1366,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Before we progress here's a quick note on how to sell shares.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T154259Z" creationid="Olivier" creationdate="20200425T154259Z">
+        <seg>Avant d'aller plus loin, voici une petite information sur la façon de vendre des actions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Below the ~stock price~ and the ~total number of shares~ figures, you will see the ~Market Cap~, or the market capitalization of a corporation, which is equal to the ~share price~ times the ~total number of shares outstanding~.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T151246Z" creationid="Olivier" creationdate="20200425T151210Z">
@@ -1378,6 +1386,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T153003Z" creationid="Olivier" creationdate="20200425T153003Z">
         <seg>Outre l'achat d'actions à titre individuel, vous pouvez également acheter des actions au nom de votre entreprise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Besides buying stocks of other companies, your company can also ~buy back its own stock~.^^The shares bought are taken out of circulation, therefore shrinking the number of outstanding shares.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T154209Z" creationid="Olivier" creationdate="20200425T154209Z">
+        <seg>Outre l'achat d'actions d'autres entreprises, votre entreprise peut également ~racheter ses propres actions~.^^Les actions achetées sont retirées de la circulation, ce qui réduit le nombre d'actions en circulation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3673,6 +3689,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you find the stock list too cluttered, you may use the stock filters to limit the type of stock to be displayed on the screen.^^For example, you may choose to view only tech stocks that you currently own by clicking on the ~Tech~ button and then the ~Owned~ button.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T154437Z" creationid="Olivier" creationdate="20200425T154437Z">
+        <seg>Si vous trouvez la liste des actions trop chargée, vous pouvez utiliser les filtres d'actions pour limiter le type d'action à afficher à l'écran.^^ Par exemple, vous pouvez choisir de ne visualiser que les actions technologiques que vous possédez actuellement en cliquant sur le bouton ~Tech~ puis sur le bouton ~Propriété~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you select "Yes", you will be able to access the trade secrets of all AI companies in the game.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T155136Z" creationid="Inrepublica" creationdate="20200422T155136Z">
@@ -5181,6 +5205,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200424T121322Z" creationid="Inrepublica" creationdate="20200424T121322Z">
         <seg>Pointer=171,183,228,239</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=171,467,375,589</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T154044Z" creationid="Olivier" creationdate="20200425T154044Z">
+        <seg>Pointer=171,467,375,589</seg>
       </tuv>
     </tu>
     <tu>
@@ -7033,6 +7065,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The interface for selling shares is in fact very similar to that of buying shares.^^Depending on the current owner of the shares, select either yourself or your corporation (in the ~Who section~) and set the amount you wish to sell and click the ~Sell~ button.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T154323Z" creationid="Olivier" creationdate="20200425T154323Z">
+        <seg>L'interface de vente d'actions est en fait très similaire à celle de l'achat d'actions.^^Selon le propriétaire actuel des actions, sélectionnez soit vous-même, soit votre société (dans la section ~Qui~) et fixez le montant que vous souhaitez vendre et cliquez sur le bouton ~Vendre~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The logic behind this is that Product Customization relies on technology levels to increase linearly to function properly, whereas Technology Disruption reduces all technology levels across the board by 10% annually.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T173105Z" creationid="Inrepublica" creationdate="20200422T173105Z">
@@ -7373,6 +7413,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203657Z" creationid="Inrepublica" creationdate="20200422T203657Z">
         <seg>Cela permet d'ajuster l'impact de l'économie sur la demande des consommateurs, ce qui affecte le PIB et, par conséquent, la volatilité du cycle d'expansion et d'effondrement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This can have a positive effect on earnings per share, which in turn can have ~a positive effect~ on the stock price.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T154235Z" creationid="Olivier" creationdate="20200425T154235Z">
+        <seg>Cela peut avoir un effet positif sur le bénéfice par action, qui à son tour peut avoir un ~effet positif~ sur le cours de l'action.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8205,6 +8253,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T162828Z" creationid="Inrepublica" creationdate="20200422T162828Z">
         <seg>Lorsque vous cochez cette case, le système verrouillera aléatoirement un pourcentage spécifique de classes de produits dans le nouveau jeu et demandera au joueur de les "réinventer" dans les centres de R&amp;D.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When your company owns more than ~75%~ of another company, you will be able to execute a marger which will merge all of its business operations into your company, including all of its technological know-how.^^This makes mergers a highly effective way to expand your business empire rapidly.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T154141Z" creationid="Olivier" creationdate="20200425T154141Z">
+        <seg>Lorsque votre entreprise possède plus de ~75 %~ d'une autre entreprise, vous pourrez réaliser une fusion qui regroupera toutes ses opérations commerciales au sein de votre entreprise, y compris tout son savoir-faire technologique.^^ Cela fait des fusions un moyen très efficace de développer rapidement votre empire commercial.</seg>
       </tuv>
     </tu>
     <tu>
