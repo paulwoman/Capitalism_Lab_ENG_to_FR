@@ -1070,6 +1070,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Agricultural goods are essential to manufacture of a great number of products and you will find farming an indispensable business of your corporation.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T215159Z" creationid="Olivier" creationdate="20200425T215159Z">
+        <seg>Les produits agricoles sont essentiels à la fabrication d'un grand nombre de produits et vous trouverez que l'agriculture est une activité indispensable de votre société.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Agriculture|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150839Z" creationid="Inrepublica" creationdate="20200425T150839Z">
@@ -2134,6 +2142,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Congratulations, you are now selling frozen beef reared on your own farm.^^You may set up additional ~Livestock Processing Units~ to process ~milk~ and ~leather~ from cattle.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T214940Z" creationid="Olivier" creationdate="20200425T214940Z">
+        <seg>Félicitations, vous vendez maintenant du bœuf congelé élevé dans votre propre ferme.^^Vous pouvez créer des ~unités de traitement du bétail~ supplémentaires pour traiter le ~lait~ et le ~cuir~ du bétail.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Connect these units as well.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T093916Z" creationid="Olivier" creationdate="20200424T093916Z">
@@ -2442,6 +2458,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T123615Z" creationid="Olivier" creationdate="20200423T123615Z">
         <seg>Chaque magasin de détail dispose de quatre emplacements pour les produits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Each ~Livestock Processing Unit~ can only process one product at a time.^^Now click ~Select Product~ and select ~Frozen Beef~ from the available choices.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T214743Z" creationid="Olivier" creationdate="20200425T214743Z">
+        <seg>Chaque ~unité de transformation du bétail~ ne peut traiter qu'un seul produit à la fois.^^Cliquez maintenant sur ~Sélectionner le produit~ et sélectionnez ~Bœuf congelé~ parmi les choix disponibles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3589,6 +3613,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T124027Z" creationid="Olivier" creationdate="20200424T124027Z">
         <seg>Super !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Growing crops is a time consuming process and it has to go through sowing, growing and harvesting before you will see the products coming out from the unit.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T215112Z" creationid="Olivier" creationdate="20200425T215112Z">
+        <seg>La culture est un processus qui prend du temps et qui doit passer par l'ensemencement, la culture et la récolte avant de voir les produits sortir de l'unité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5737,6 +5769,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=265,384,372,401</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T214749Z" creationid="Olivier" creationdate="20200425T214749Z">
+        <seg>Pointer=265,384,372,401</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=266,386,374,400</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T214226Z" creationid="Olivier" creationdate="20200425T214226Z">
@@ -7121,6 +7161,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Text Box=142,462,690,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T214851Z" creationid="Olivier" creationdate="20200425T214851Z">
+        <seg>Text Box=142,462,690,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Box=150,120,600,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T214745Z" creationid="Olivier" creationdate="20200425T214745Z">
+        <seg>Text Box=150,120,600,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Text Box=170,380,580,0</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T180347Z" creationid="Acer" creationdate="20200424T180347Z">
@@ -8489,6 +8545,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To win this game, your company must make at least ~20 types of products~ to demonstrate its ability to produce a wide range of products.^^At the same time you must achieve ~an annual revenue of $100 million~ and ~an annual profit of $10 million~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T215243Z" creationid="Olivier" creationdate="20200425T215243Z">
+        <seg>Pour gagner cette partie, votre entreprise doit fabriquer au moins ~20 types de produits~ pour démontrer sa capacité à produire une large gamme de produits.^^En même temps, vous devez réaliser ~un revenu annuel de 100 millions de dollars~ et ~un bénéfice annuel de 10 millions de dollars~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tous les fournisseurs (F2)|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155558Z" creationid="Inrepublica" creationdate="20200425T155558Z">
@@ -8601,6 +8665,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unit Linked=Livestock Processing, Sales, 2, 3</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T214856Z" creationid="Olivier" creationdate="20200425T214856Z">
+        <seg>Unit Linked=Livestock Processing, Sales, 2, 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unit Linked=Livestock Raising, Livestock Processing, 1, 2</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T214431Z" creationid="Olivier" creationdate="20200425T214431Z">
@@ -8677,6 +8749,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T094249Z" creationid="Olivier" creationdate="20200424T094249Z">
         <seg>Unit has item=1, Timber</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unit has item=2, Frozen Beef</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T214755Z" creationid="Olivier" creationdate="20200425T214755Z">
+        <seg>Unit has item=2, Frozen Beef</seg>
       </tuv>
     </tu>
     <tu>
@@ -9185,6 +9265,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You may also grow crops in farms by using ~Crop Growing Units~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T215048Z" creationid="Olivier" creationdate="20200425T215048Z">
+        <seg>Vous pouvez également faire pousser des cultures dans des fermes en utilisant des ~Unités de culture~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You may click the ~MORE~ button below the image of the Timber again to see more products that can be made with Timber.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T092036Z" creationid="Olivier" creationdate="20200424T092036Z">
@@ -9422,6 +9510,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151204Z" creationid="Inrepublica" creationdate="20200423T151204Z">
         <seg>Your Start-up Capital=Very High</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your cattle will now be reared and processed as frozen beef.^^Add a ~Sales Unit~ and link it to the ~Livestock Processing Unit~ so that your farm can sell the frozen beef.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T214850Z" creationid="Olivier" creationdate="20200425T214850Z">
+        <seg>Votre bétail sera désormais élevé et transformé en viande bovine congelée. Ajoutez une ~unité de vente~ et reliez-la à ~l'unité de transformation du bétail~ pour que votre ferme puisse vendre la viande bovine congelée.</seg>
       </tuv>
     </tu>
     <tu>
