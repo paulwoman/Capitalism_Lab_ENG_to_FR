@@ -1174,6 +1174,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>At the bottom of the screen, you can view the ~performances of your stock holdings~, showing the gains or losses of individual stocks in your portfolio, as well as your total investment return to date.^^And this area can be switched to display the ~latest financial news~ by clicking the ~Stock News~ located at the bottom left of the screen.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T154720Z" creationid="Olivier" creationdate="20200425T154720Z">
+        <seg>En bas de l'écran, vous pouvez consulter les ~performances de vos actions~, en montrant les gains ou les pertes des différentes actions de votre portefeuille, ainsi que le rendement total de vos investissements à ce jour. Cette zone peut être modifiée pour afficher les ~dernières nouvelles financières~ en cliquant sur les ~nouvelles sur les actions~ situées en bas à gauche de l'écran.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>At the same time you must achieve an annual revenue of $100 million and an annual profit of $10 million.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T210410Z" creationid="Olivier" creationdate="20200423T210410Z">
@@ -5225,6 +5233,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=173,22,696,44</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T154443Z" creationid="Olivier" creationdate="20200425T154443Z">
+        <seg>Pointer=173,22,696,44</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=175,161,775,200</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T205005Z" creationid="Acer" creationdate="20200424T205005Z">
@@ -6533,6 +6549,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T180347Z" creationid="Acer" creationdate="20200424T180347Z">
         <seg>Text Box=170,380,580,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Box=180,110,500,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T154440Z" creationid="Olivier" creationdate="20200425T154440Z">
+        <seg>Text Box=180,110,500,0</seg>
       </tuv>
     </tu>
     <tu>
