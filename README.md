@@ -40,7 +40,7 @@ Il est à préciser que les fichiers proposés actuellement doivent encore être
 
 ### Dossier "Tutorial"
 
-| Fichiers         | Progression     | Relecture Inrepublica | Relecture PaulWoman | Concordance avec t_game |
+| Fichiers         | Progression     | Relecture Inrepublica | Relecture PaulWoman | Concordance |
 | :--------------- |:--------------- |:---------------|:---------------|:---------------|
 | tut01.txt        | 100 %           |                |                |                |
 | tut02.txt        | 100 %           |                |                |                |
@@ -53,7 +53,7 @@ Il est à préciser que les fichiers proposés actuellement doivent encore être
 
 ### Sous-dossier "script"
 
-| Fichiers         | Progression     | Relecture Inrepublica | Relecture PaulWoman | Concordance avec t_game |
+| Fichiers         | Progression     | Relecture Inrepublica | Relecture PaulWoman | Concordance |
 | :--------------- |:--------------- |:---------------|:---------------|:---------------|
 | tutorial 1.txt   | 95 %            |                | ok             |                |
 | tutorial 2.txt   | 95 %            |                | ok             |                |
