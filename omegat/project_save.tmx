@@ -5249,6 +5249,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now you need to set the type of animals to be raised.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T213309Z" creationid="Olivier" creationdate="20200425T213309Z">
+        <seg>Vous devez maintenant définir le type d'animaux à élever.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now ~add one more group~ of ~Purchasing and Sales Units~ to increase the variety of your store's products.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151508Z" creationid="Olivier" creationdate="20200423T151508Z">
@@ -8493,6 +8501,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T142345Z" creationid="Olivier" creationdate="20200425T142345Z">
         <seg>Tutorial=TUT04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unit Exists=1, Livestock Raising</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T213232Z" creationid="Olivier" creationdate="20200425T213232Z">
+        <seg>Unit Exists=1, Livestock Raising</seg>
       </tuv>
     </tu>
     <tu>
