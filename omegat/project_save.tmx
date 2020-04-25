@@ -1262,6 +1262,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>City=Bangkok</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T142102Z" creationid="Olivier" creationdate="20200425T142102Z">
+        <seg>City=Bangkok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>City=Dallas</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151520Z" creationid="Inrepublica" creationdate="20200423T151520Z">
@@ -1274,6 +1282,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151523Z" creationid="Inrepublica" creationdate="20200423T151523Z">
         <seg>City=Frankfurt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City=London</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T142056Z" creationid="Olivier" creationdate="20200425T142056Z">
+        <seg>City=London</seg>
       </tuv>
     </tu>
     <tu>
@@ -1656,8 +1672,8 @@
       <tuv lang="en-US">
         <seg>Description=You realize that your products can only sell well when consumers are aware of them.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T205541Z" creationid="Olivier" creationdate="20200423T205541Z">
-        <seg>Description=Vous réalisez que vos produits ne se vendent bien que lorsque les consommateurs les connaissent..</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T142246Z" creationid="Olivier" creationdate="20200425T142246Z">
+        <seg>Description=Vous réalisez que vos produits ne se vendent bien que lorsque les consommateurs les connaissent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2745,14 +2761,6 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Goal Title=Tutorial Goal</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T132832Z" creationid="Olivier" creationdate="20200423T132832Z">
-        <seg>Goal Title=Objectif du tutoriel</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Good luck!</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T203137Z" creationid="Acer" creationdate="20200424T203137Z">
@@ -3289,18 +3297,18 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>In today's crowded market, advertising is essential for building consumer awareness and making your products stand out from the competition.^^This tutorial explains how branding and advertising works in the game and how you can get most out of it by making smart marketing decisions.</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T141739Z" creationid="Olivier" creationdate="20200423T205720Z">
-        <seg>Dans le marché actuel, où la concurrence est très forte, la publicité est essentielle pour sensibiliser les consommateurs et faire en sorte que vos produits se démarquent de la concurrence.^^Ce tutoriel explique comment la marque et la publicité fonctionnent dans le jeu et comment vous pouvez en tirer le meilleur parti en prenant des décisions marketing intelligentes.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Increase the variety of products in your store and make use of the available slots.^^Repeat what you did just now.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T170547Z" creationid="Olivier" creationdate="20200422T170547Z">
         <seg>Augmentez la variété des produits dans votre magasin et utiliser les créneaux disponibles.^^Répétez ce que vous venez de faire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Industrial Goods Seaports=1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T142111Z" creationid="Olivier" creationdate="20200425T142111Z">
+        <seg>Industrial Goods Seaports=1</seg>
       </tuv>
     </tu>
     <tu>
