@@ -17,6 +17,8 @@ Attention a bien régler les options de OmegaT comme ceci:
 
 En particulier attention au paramètre "segmenter le texte source en paragraphe sur:". Il faut bien choisir fin de lignes.
 
+N'hésiter pas à jeter un coup d'oeil sur le wiki pour avoir quelques informations sur l'homogénéité de la traduction.
+
 Une fois vos contributions effectuées, cliquez sur Enregistrer et ensuite indiquez votre nom d'utilisateur et votre mot de passe github.
 
 Les fichiers traduits sont de temps en temps générés dans le dossier "target", mais vous pouvez vous servir d'OmegaT pour générer la dernière version en cours.
@@ -31,7 +33,7 @@ Il est à préciser que les fichiers proposés actuellement doivent encore être
 
 | Fichiers         | Progression     | Relecture Inrepublica | Relecture PaulWoman | Concordance |
 | :--------------- |:--------------- |:---------------|:---------------|:---------------|
-| t_basic.txt      | 100 %           |                |                |                |
+| t_basic.txt      | 100 %           | ok             | ok             | ok             |
 | t_game.txt       |   0 %           |                |                |                |
 | gm_help.txt      | 100 %           |                |                |                |
 | help.txt         |   0 %           |                |                |                |
