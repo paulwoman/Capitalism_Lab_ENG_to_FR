@@ -1990,6 +1990,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click the ~Raise Livestock~ button and then select ~Cattle~ from the popup menu.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T214221Z" creationid="Olivier" creationdate="20200425T214221Z">
+        <seg>Cliquez sur le bouton ~Élever du bétail~ et sélectionnez ensuite ~Bovins~ dans le menu contextuel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the ~SELECT~ button now.^^</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T220358Z" creationid="Olivier" creationdate="20200422T170036Z">
@@ -5729,6 +5737,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=266,386,374,400</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T214226Z" creationid="Olivier" creationdate="20200425T214226Z">
+        <seg>Pointer=266,386,374,400</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=267, 10, 575,24</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T131307Z" creationid="Inrepublica" creationdate="20200423T131307Z">
@@ -6325,6 +6341,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161250Z" creationid="Inrepublica" creationdate="20200422T161250Z">
         <seg>Liste de produits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Products of cattle include ~frozen beef~, ~milk~, and ~leather~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T214717Z" creationid="Olivier" creationdate="20200425T214717Z">
+        <seg>Les produits du bétail comprennent le ~bœuf congelé~, le ~lait~ et le ~cuir~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7389,6 +7413,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202625Z" creationid="Inrepublica" creationdate="20200422T202625Z">
         <seg>Text Box=32,420,300,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Box=32,460,350,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T214224Z" creationid="Olivier" creationdate="20200425T214224Z">
+        <seg>Text Box=32,460,350,0</seg>
       </tuv>
     </tu>
     <tu>
@@ -8521,6 +8553,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unit Exists=2, Livestock Processing</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T214428Z" creationid="Olivier" creationdate="20200425T214428Z">
+        <seg>Unit Exists=2, Livestock Processing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unit Exists=2, Manufacturing</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T093713Z" creationid="Olivier" creationdate="20200424T093713Z">
@@ -8557,6 +8597,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200424T121300Z" creationid="Inrepublica" creationdate="20200424T121300Z">
         <seg>Unit Exists=5, Sales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unit Linked=Livestock Raising, Livestock Processing, 1, 2</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T214431Z" creationid="Olivier" creationdate="20200425T214431Z">
+        <seg>Unit Linked=Livestock Raising, Livestock Processing, 1, 2</seg>
       </tuv>
     </tu>
     <tu>
@@ -8613,6 +8661,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T170517Z" creationid="Acer" creationdate="20200424T170517Z">
         <seg>Unit Linked=Sales, Advertising, 3, 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unit has item=1, Cattle</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T214229Z" creationid="Olivier" creationdate="20200425T214229Z">
+        <seg>Unit has item=1, Cattle</seg>
       </tuv>
     </tu>
     <tu>
@@ -9406,6 +9462,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T152722Z" creationid="Acer" creationdate="20200424T152722Z">
         <seg>Your factory sells product class=Apparel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your farm has begun rearing cattle.^^To the right of the ~Livestock Raising Unit~, build a ~Livestock Processing Unit~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T214426Z" creationid="Olivier" creationdate="20200425T214426Z">
+        <seg>Votre ferme a commencé à élever du bétail. ^^À droite de ~l'unité d'élevage~, construisez une ~unité de transformation du bétail~.</seg>
       </tuv>
     </tu>
     <tu>
