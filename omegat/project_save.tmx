@@ -1094,6 +1094,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Another figure which you may find useful is the ~Dividend Yield~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T152911Z" creationid="Olivier" creationdate="20200425T152911Z">
+        <seg>Un autre chiffre qui peut vous être utile est le ~Rendement des dividendes~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Another important piece of information you can see here is the ~Necessity Index~.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T143010Z" creationid="Olivier" creationdate="20200424T123044Z">
@@ -1362,6 +1370,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T151246Z" creationid="Olivier" creationdate="20200425T151210Z">
         <seg>Sous les chiffres du ~prix de l'action~ et du ~nombre total d'actions~, vous verrez la ~Capitalisation boursière~, ou la capitalisation boursière d'une société, qui est égale au ~prix de l'action~ multiplié par le ~nombre total d'actions en circulation~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Besides buying stocks as an individual, you can also buy stocks on behalf of your company.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T153003Z" creationid="Olivier" creationdate="20200425T153003Z">
+        <seg>Outre l'achat d'actions à titre individuel, vous pouvez également acheter des actions au nom de votre entreprise.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4817,6 +4833,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now you may use your company's money to buy shares of other publicly listed companies as an investment.^^To do so, simply select a company from the list at the top of the screen, then click on the ~Buy~ button to buy its shares.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T153855Z" creationid="Olivier" creationdate="20200425T153855Z">
+        <seg>Vous pouvez maintenant utiliser l'argent de votre société pour acheter des actions d'autres sociétés cotées en bourse à titre d'investissement.^^ Pour ce faire, il suffit de sélectionner une société dans la liste en haut de l'écran, puis de cliquer sur le bouton ~Acheter~ pour acheter ses actions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now you must build a factory.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T140237Z" creationid="Olivier" creationdate="20200424T092337Z">
@@ -5149,6 +5173,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T205005Z" creationid="Acer" creationdate="20200424T205005Z">
         <seg>Pointer=175,161,775,200</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=175,498,323,509</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T153033Z" creationid="Olivier" creationdate="20200425T153033Z">
+        <seg>Pointer=175,498,323,509</seg>
       </tuv>
     </tu>
     <tu>
@@ -5557,6 +5589,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T152719Z" creationid="Olivier" creationdate="20200425T152719Z">
         <seg>Pointer=571,168,773,182</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=571,212,773,227</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T152948Z" creationid="Olivier" creationdate="20200425T152948Z">
+        <seg>Pointer=571,212,773,227</seg>
       </tuv>
     </tu>
     <tu>
@@ -6085,6 +6125,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T095134Z" creationid="Olivier" creationdate="20200424T095134Z">
         <seg>Sélectionnez votre unité de fabrication de clubs de golf en cliquant sur celle-ci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select your company on the ~Who section~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T153031Z" creationid="Olivier" creationdate="20200425T153031Z">
+        <seg>Sélectionnez votre entreprise dans la section ~Qui~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7389,6 +7437,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161652Z" creationid="Inrepublica" creationdate="20200422T161652Z">
         <seg>Cet indice détermine les dépenses pour des équipements publics, ce qui affecte la difficulté du jeu à jouer en tant que maire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is a percentage calculated by dividing the latest dividend paid by the stock price.^^Put simply, the greater the dividend yield, the more cash is returned to each investor when the dividend is paid out each year.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T152946Z" creationid="Olivier" creationdate="20200425T152946Z">
+        <seg>Il s'agit d'un pourcentage calculé en divisant le dernier dividende versé par le cours de l'action. En résumé, plus le rendement du dividende est élevé, plus chaque investisseur reçoit de liquidités lors du versement du dividende chaque année.</seg>
       </tuv>
     </tu>
     <tu>
