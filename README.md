@@ -29,11 +29,11 @@ Il est à préciser que les fichiers proposés actuellement doivent encore être
 
 ## Fichiers pouvant se mettre dans le dossier "translate"
 
-| Fichiers         | Progression     | Relecture Inrepublica | Relecture PaulWoman | Concordance avec t_game |
+| Fichiers         | Progression     | Relecture Inrepublica | Relecture PaulWoman | Concordance |
 | :--------------- |:--------------- |:---------------|:---------------|:---------------|
-| t_basic.txt      | 100 %           | ok             |                | ok             |
+| t_basic.txt      | 100 %           |                |                |                |
 | t_game.txt       |   0 %           |                |                |                |
-| gm_help.txt      | 100 %           | ok             |                |                |
+| gm_help.txt      | 100 %           |                |                |                |
 | help.txt         |   0 %           |                |                |                |
 
 ## Fichiers qui doivent s'installer dans un dossier dédié:
@@ -42,7 +42,7 @@ Il est à préciser que les fichiers proposés actuellement doivent encore être
 
 | Fichiers         | Progression     | Relecture Inrepublica | Relecture PaulWoman | Concordance avec t_game |
 | :--------------- |:--------------- |:---------------|:---------------|:---------------|
-| tut01.txt        | 100 %           | ok             |                |                |
+| tut01.txt        | 100 %           |                |                |                |
 | tut02.txt        | 100 %           |                |                |                |
 | tut03.txt        | 100 %           |                |                |                |
 | tut04.txt        |   0 %           |                |                |                |
