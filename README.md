@@ -63,3 +63,7 @@ Il est à préciser que les fichiers proposés actuellement doivent encore être
 | tutorial 6.txt   | 95 %            |                | ok             |                |
 | tutorial 7.txt   | 95 %            |                | ok             |                |
 | tutorial 8.txt   | 95 %            |                | ok             |                |
+
+# Outils
+Dans le répertoire outils se trouve un petit fichier bat qui vous permet de copier directement la traduction en cours dans le répertoire du jeu Capitalism Lab.
+Pour ce faire éditer simplement copy_translation.bat avec un éditeur de texte et changer le paramètre source et cible par les vôtres. Par exemple: `source=C:\Users\Toto\Desktop\Capitalism_Lab\target` et `cible="C:\Users\Toto\AppData\Local\Capitalism Lab"`
