@@ -40,8 +40,6 @@ ownership details	détails sur la propriété
 banking and finance dlc	dlc banques et finances
 subsidiary dlc	dlc filiale
 city economic simulation dlc	dlc simulation économique de la ville
-dominance	domination
-market dominance by industry	domination du marché par l'industrie
 issue	émettre
 issue new shares to the public	emettre de nouvelles actions au public
 issue now	emettre maintenant
@@ -61,7 +59,6 @@ supplier	fournisseur
 suppliers	fournisseurs
 product customization range	gamme de personnalisation du produit
 large	grand
-departement store	grand magasin
 manufacturer's guide	guide de fabrication
 necessity index	indice des besoins
 day	jour
@@ -106,7 +103,6 @@ seaport	port maritime
 leather briefcase	porte-documents en cuir
 seaports	ports maritimes
 proceed	poursuivre
-concern	préocupation
 brand concern	préocupation de la marque	à vérifier
 price	prix
 current stock price	prix actuel de l'action
@@ -151,3 +147,7 @@ firm	établissement	éts
 firms	établissements
 corporation	société	Soc.
 Quality Rating	cote de qualité
+dominance	monopole
+market dominance by industry	monopole du marché par type d'industrie
+department store	grand magasin
+concern	préocupations
