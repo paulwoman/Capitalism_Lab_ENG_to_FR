@@ -44,7 +44,7 @@ Il est à préciser que les fichiers proposés actuellement doivent encore être
 
 | Fichiers         | Progression     | Relecture Inrepublica | Relecture PaulWoman | Concordance |
 | :--------------- |:--------------- |:---------------|:---------------|:---------------|
-| tut01.txt        | 100 %           |                |                |                |
+| tut01.txt        | 100 %           | ok             | ok             | ok             |
 | tut02.txt        | 100 %           |                |                |                |
 | tut03.txt        | 100 %           |                |                |                |
 | tut04.txt        |   0 %           |                |                |                |
