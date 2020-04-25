@@ -814,6 +814,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Apparel</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T142339Z" creationid="Olivier" creationdate="20200425T142339Z">
+        <seg>Apparel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Apparel products include ~Blazer~, ~Jeans~, ~Leather Jacket~ and ~Sweater~ and each will require different raw materials.^^Before you decide which apparel product to manufacture, you must look at what ~raw material supplies~ are available from the ~seaports~ and study the ~Manufacturer's Guide~ to see what products you can manufacture from the available supplies.^^Now go back to the city view by right-clicking anywhere on the screen.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T201219Z" creationid="Olivier" creationdate="20200424T124901Z">
@@ -2739,8 +2747,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Goal Description=You win this tutorial game when you dominate the Apparel market while achieving an annual profit of not less than $2 million.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T205804Z" creationid="Olivier" creationdate="20200423T205804Z">
-        <seg>Vous gagnez ce tutoriel lorsque vous dominez le marché de l'habillement tout en réalisant un bénéfice annuel d'au moins 2 millions de dollars.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T142317Z" creationid="Olivier" creationdate="20200423T205804Z">
+        <seg>Goal Description=Vous gagnez ce tutoriel lorsque vous dominez le marché de l'habillement tout en réalisant un bénéfice annuel d'au moins 2 millions de dollars.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2757,6 +2765,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T210851Z" creationid="Olivier" creationdate="20200423T210851Z">
         <seg>Goal Description=Votre objectif est de faire de votre entreprise une grande société avec ~1000 employés ou plus~, et d'atteindre ~un chiffre d'affaires annuel d'un milliard de dollars~ et ~un bénéfice annuel de 100 millions de dollars~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Tutorial Goal</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T142324Z" creationid="Olivier" creationdate="20200425T142324Z">
+        <seg>Goal Title=Tutorial Goal</seg>
       </tuv>
     </tu>
     <tu>
@@ -3293,6 +3309,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T062859Z" creationid="Olivier" creationdate="20200423T133032Z">
         <seg>Dans ce tutoriel, vous serez formé pour devenir un meilleur gestionnaire de magasins et apprendre à les personnaliser afin de maximiser leur efficacité opérationnelle et leur rentabilité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In today's crowded market, advertising is essential for building consumer awareness and making your products stand out from the competition.^^This tutorial explains how branding and advertising works in the game and how you can get most out of it by making smart marketing decisions.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T142305Z" creationid="Olivier" creationdate="20200425T142305Z">
+        <seg>Dans le marché actuel, où la concurrence est très forte, la publicité est essentielle pour sensibiliser les consommateurs et faire en sorte que vos produits se démarquent de la concurrence.^^Ce tutoriel explique comment la marque et la publicité fonctionnent dans le jeu et comment vous pouvez en tirer le meilleur parti en prenant des décisions marketing intelligentes</seg>
       </tuv>
     </tu>
     <tu>
@@ -5449,6 +5473,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Score change=150</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T142342Z" creationid="Olivier" creationdate="20200425T142342Z">
+        <seg>Score change=150</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Score change=50</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151500Z" creationid="Inrepublica" creationdate="20200423T151500Z">
@@ -7165,6 +7197,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151532Z" creationid="Inrepublica" creationdate="20200423T151532Z">
         <seg>Tutorial=TUT02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tutorial=TUT04</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T142345Z" creationid="Olivier" creationdate="20200425T142345Z">
+        <seg>Tutorial=TUT04</seg>
       </tuv>
     </tu>
     <tu>
@@ -9382,6 +9422,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T064431Z" creationid="Inrepublica" creationdate="20200423T064431Z">
         <seg>[Livestock Raising Unit]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[MAIN GOAL PRODUCTS]</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T142335Z" creationid="Olivier" creationdate="20200425T142335Z">
+        <seg>[MAIN GOAL PRODUCTS]</seg>
       </tuv>
     </tu>
     <tu>
