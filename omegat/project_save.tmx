@@ -614,6 +614,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ACIER|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155616Z" creationid="Inrepublica" creationdate="20200425T155616Z">
+        <seg>ACIER|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ACTUEL|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150739Z" creationid="Inrepublica" creationdate="20200425T150739Z">
@@ -786,6 +794,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150712Z" creationid="Inrepublica" creationdate="20200425T150712Z">
         <seg>Accord de prix|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Achats|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155549Z" creationid="Inrepublica" creationdate="20200425T155549Z">
+        <seg>Achats|</seg>
       </tuv>
     </tu>
     <tu>
@@ -1082,6 +1098,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T165523Z" creationid="Acer" creationdate="20200424T165523Z">
         <seg>Toutes les entreprises de médias disponibles dans la ville actuelle sont affichées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All products (F1)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155555Z" creationid="Inrepublica" creationdate="20200425T155555Z">
+        <seg>All products (F1)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All suppliers (F2)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155557Z" creationid="Inrepublica" creationdate="20200425T155557Z">
+        <seg>All suppliers (F2)|</seg>
       </tuv>
     </tu>
     <tu>
@@ -1494,6 +1526,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Bois|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155605Z" creationid="Inrepublica" creationdate="20200425T155605Z">
+        <seg>Bois|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Bond Credit Standard</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T195933Z" creationid="Inrepublica" creationdate="20200422T195933Z">
@@ -1690,6 +1730,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145929Z" creationid="Inrepublica" creationdate="20200422T145929Z">
         <seg>COMME_SC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CONTINUE GAME|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155529Z" creationid="Inrepublica" creationdate="20200425T155529Z">
+        <seg>CONTINUE GAME|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CONTINUER LA PARTIE|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155529Z" creationid="Inrepublica" creationdate="20200425T155529Z">
+        <seg>CONTINUER LA PARTIE|</seg>
       </tuv>
     </tu>
     <tu>
@@ -2142,6 +2198,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cuir|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155538Z" creationid="Inrepublica" creationdate="20200425T155538Z">
+        <seg>Cuir|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Current Firm=My Department Store</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202622Z" creationid="Inrepublica" creationdate="20200422T202622Z">
@@ -2270,6 +2334,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Do you accept?|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155515Z" creationid="Inrepublica" creationdate="20200425T155515Z">
+        <seg>Do you accept?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Do you have enough money to build a second department store yet?</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T211314Z" creationid="Olivier" creationdate="20200422T211314Z">
@@ -2294,10 +2366,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Double-click here to add a functionnal unit|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155601Z" creationid="Inrepublica" creationdate="20200425T155601Z">
+        <seg>Double-click here to add a functionnal unit|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Double-click ~Seaport~ from the drop-down list.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T213632Z" creationid="Olivier" creationdate="20200423T123318Z">
         <seg>Double-cliquez sur  ~Port Maritime ~ dans la liste déroulante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Double-cliquez ici pour ajouter une unité fonctionnelle|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155601Z" creationid="Inrepublica" creationdate="20200425T155601Z">
+        <seg>Double-cliquez ici pour ajouter une unité fonctionnelle|</seg>
       </tuv>
     </tu>
     <tu>
@@ -2322,6 +2410,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150002Z" creationid="Inrepublica" creationdate="20200422T150002Z">
         <seg>ECOONDEF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ENTREE|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155535Z" creationid="Inrepublica" creationdate="20200425T155535Z">
+        <seg>ENTREE|</seg>
       </tuv>
     </tu>
     <tu>
@@ -2442,6 +2538,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150830Z" creationid="Inrepublica" creationdate="20200425T150830Z">
         <seg>FROZEN LAMB|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fabrications|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155600Z" creationid="Inrepublica" creationdate="20200425T155600Z">
+        <seg>Fabrications|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fab|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155604Z" creationid="Inrepublica" creationdate="20200425T155604Z">
+        <seg>Fab|</seg>
       </tuv>
     </tu>
     <tu>
@@ -3465,6 +3577,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>HOTKEY LISTS (K)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155518Z" creationid="Inrepublica" creationdate="20200425T155518Z">
+        <seg>HOTKEY LISTS (K)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Here it shows the product's ~quality~ and ~brand levels~.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T150815Z" creationid="Olivier" creationdate="20200423T150815Z">
@@ -3565,6 +3685,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T133710Z" creationid="Olivier" creationdate="20200423T133710Z">
         <seg>Toutefois, les magasins spécialisés présentent des avantages par rapport aux magasins généraliste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>INPUT|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155534Z" creationid="Inrepublica" creationdate="20200425T155534Z">
+        <seg>INPUT|</seg>
       </tuv>
     </tu>
     <tu>
@@ -4377,6 +4505,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LISTE DES RACCOURCIS|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155519Z" creationid="Inrepublica" creationdate="20200425T155519Z">
+        <seg>LISTE DES RACCOURCIS|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LOANINT</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145831Z" creationid="Inrepublica" creationdate="20200422T145831Z">
@@ -4397,6 +4533,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160615Z" creationid="Inrepublica" creationdate="20200422T160615Z">
         <seg>Lance un navigateur Web et ouvre la page Web avec des instructions sur la façon de configurer un défi privé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Leather|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155538Z" creationid="Inrepublica" creationdate="20200425T155538Z">
+        <seg>Leather|</seg>
       </tuv>
     </tu>
     <tu>
@@ -4461,6 +4605,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T092250Z" creationid="Olivier" creationdate="20200424T092250Z">
         <seg>Procédons à la mise en place de votre installation de production.^^Cliquez à droite n'importe où sur l'écran pour revenir à la vue de la ville.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Liens|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155554Z" creationid="Inrepublica" creationdate="20200425T155554Z">
+        <seg>Liens|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Link|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155553Z" creationid="Inrepublica" creationdate="20200425T155553Z">
+        <seg>Link|</seg>
       </tuv>
     </tu>
     <tu>
@@ -4585,6 +4745,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MORE|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155532Z" creationid="Inrepublica" creationdate="20200425T155532Z">
+        <seg>MORE|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Macro Economy Realism</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T154159Z" creationid="Inrepublica" creationdate="20200422T152439Z">
@@ -4597,6 +4765,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151240Z" creationid="Inrepublica" creationdate="20200423T151240Z">
         <seg>Macro Economy Realism=Low</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Magasin de détail|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155531Z" creationid="Inrepublica" creationdate="20200425T155531Z">
+        <seg>Magasin de détail|</seg>
       </tuv>
     </tu>
     <tu>
@@ -4633,6 +4809,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Manufacturing|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155559Z" creationid="Inrepublica" creationdate="20200425T155559Z">
+        <seg>Manufacturing|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Max AI Software and Internet Companies</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164815Z" creationid="Inrepublica" creationdate="20200422T164815Z">
@@ -4645,6 +4829,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T195547Z" creationid="Inrepublica" creationdate="20200422T195547Z">
         <seg>Ratio maximum de prêts / actifs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mft|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155603Z" creationid="Inrepublica" creationdate="20200425T155603Z">
+        <seg>Mft|</seg>
       </tuv>
     </tu>
     <tu>
@@ -5113,6 +5305,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OUTPUT|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155536Z" creationid="Inrepublica" creationdate="20200425T155536Z">
+        <seg>OUTPUT|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Okay, enough of the theory.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T133808Z" creationid="Olivier" creationdate="20200423T133808Z">
@@ -5149,6 +5349,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T203650Z" creationid="Acer" creationdate="20200424T203610Z">
         <seg>Ouvrez à présent le ~centre d'informations~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PASSER TUTORIEL||</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155521Z" creationid="Inrepublica" creationdate="20200425T155521Z">
+        <seg>PASSER TUTORIEL||</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PLUS|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155533Z" creationid="Inrepublica" creationdate="20200425T155533Z">
+        <seg>PLUS|</seg>
       </tuv>
     </tu>
     <tu>
@@ -6073,6 +6289,62 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Purchasing|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155539Z" creationid="Inrepublica" creationdate="20200425T155539Z">
+        <seg>Purchasing|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>QUIT TO MAIN MENU|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155525Z" creationid="Inrepublica" creationdate="20200425T155525Z">
+        <seg>QUIT TO MAIN MENU|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>QUIT TO WINDOWS|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155527Z" creationid="Inrepublica" creationdate="20200425T155527Z">
+        <seg>QUIT TO WINDOWS|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>QUITTER VERS WINDOWS|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155528Z" creationid="Inrepublica" creationdate="20200425T155528Z">
+        <seg>QUITTER VERS WINDOWS|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>REDEMARRER TUTORIEL|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155524Z" creationid="Inrepublica" creationdate="20200425T155524Z">
+        <seg>REDEMARRER TUTORIEL|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>RESTART TUTORIAL|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155523Z" creationid="Inrepublica" creationdate="20200425T155523Z">
+        <seg>RESTART TUTORIAL|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>RETOURNER AU MENU PRINCIPAL|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155526Z" creationid="Inrepublica" creationdate="20200425T155526Z">
+        <seg>RETOURNER AU MENU PRINCIPAL|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Random Events</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T151348Z" creationid="Inrepublica" creationdate="20200422T151348Z">
@@ -6193,6 +6465,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Retail Store|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155530Z" creationid="Inrepublica" creationdate="20200425T155530Z">
+        <seg>Retail Store|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Retail store type</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T153038Z" creationid="Inrepublica" creationdate="20200422T153038Z">
@@ -6217,6 +6497,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SKIP TUTORIAL|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155520Z" creationid="Inrepublica" creationdate="20200425T155520Z">
+        <seg>SKIP TUTORIAL|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>SMONEYS</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150006Z" creationid="Inrepublica" creationdate="20200422T150006Z">
@@ -6233,6 +6521,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SORTIE|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155537Z" creationid="Inrepublica" creationdate="20200425T155537Z">
+        <seg>SORTIE|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>SPADV</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145904Z" creationid="Inrepublica" creationdate="20200422T145827Z">
@@ -6241,10 +6537,42 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>STEEL|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155606Z" creationid="Inrepublica" creationdate="20200425T155606Z">
+        <seg>STEEL|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>STOP PURCHASE|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155607Z" creationid="Inrepublica" creationdate="20200425T155607Z">
+        <seg>STOP PURCHASE|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>STOPPER L'ACHAT|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155608Z" creationid="Inrepublica" creationdate="20200425T155608Z">
+        <seg>STOPPER L'ACHAT|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>SUBCOUNT</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145810Z" creationid="Inrepublica" creationdate="20200422T145810Z">
         <seg>SUBCOUNT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sales|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155552Z" creationid="Inrepublica" creationdate="20200425T155552Z">
+        <seg>Sales|</seg>
       </tuv>
     </tu>
     <tu>
@@ -7897,6 +8225,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Timber|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155604Z" creationid="Inrepublica" creationdate="20200425T155604Z">
+        <seg>Timber|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Title=1.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124820Z" creationid="Olivier" creationdate="20200423T124820Z">
@@ -8013,6 +8349,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T134609Z" creationid="Olivier" creationdate="20200423T134609Z">
         <seg>Pour mieux comprendre cela, nous allons simplement ajouter un produit au magasin en utilisant l'ancienne méthode que vous connaissez. Cliquez maintenant sur l'icône ~Ajouter un produit~ et choisissez un produit dans la liste d'approvisionnement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tous les fournisseurs (F2)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155558Z" creationid="Inrepublica" creationdate="20200425T155558Z">
+        <seg>Tous les fournisseurs (F2)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tous les produits (F1)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155556Z" creationid="Inrepublica" creationdate="20200425T155556Z">
+        <seg>Tous les produits (F1)|</seg>
       </tuv>
     </tu>
     <tu>
@@ -8233,10 +8585,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ventes|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155552Z" creationid="Inrepublica" creationdate="20200425T155552Z">
+        <seg>Ventes|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Via this interface, you may buy stocks on behalf of your corporation or invest as an individual.^^Please note that the names may be truncated if there is not enough space to display them in full.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T210057Z" creationid="Acer" creationdate="20200424T210057Z">
         <seg>Via cette interface, vous pouvez acheter des actions au nom de votre société ou investir en tant que particulier. Veuillez noter que les noms peuvent être tronqués s'il n'y a pas assez de place pour les afficher en entier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vous acceptez ?|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155517Z" creationid="Inrepublica" creationdate="20200425T155517Z">
+        <seg>Vous acceptez ?|</seg>
       </tuv>
     </tu>
     <tu>
