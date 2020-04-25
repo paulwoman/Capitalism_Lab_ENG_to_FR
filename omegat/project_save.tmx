@@ -1414,6 +1414,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Bought other company stock=Yes</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T153858Z" creationid="Olivier" creationdate="20200425T153858Z">
+        <seg>Bought other company stock=Yes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Brand strategy=2</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T154849Z" creationid="Acer" creationdate="20200424T154849Z">
@@ -2750,6 +2758,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>From this point on, you should keep an eye on the stock's performance as changes in its stock price will affect your company's balance sheet as well.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T153919Z" creationid="Olivier" creationdate="20200425T153919Z">
+        <seg>À partir de ce moment, vous devez garder un œil sur les performances de l'action, car les variations de son cours affecteront également le bilan de votre entreprise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Frozen Lamb|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150832Z" creationid="Inrepublica" creationdate="20200425T150832Z">
@@ -3693,6 +3709,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T145105Z" creationid="Acer" creationdate="20200424T152902Z">
         <seg>Si vous souhaitez avoir une marque unique couvrant tous les produits que vous vendez, vous devez alors choisir la ~stratégie de marque d'entreprise~. L'avantage~ de cette approche est que tout nouveau produit que vous lancez bénéficiera instantanément de la reconnaissance de la marque d'entreprise existante. ^^~L'inconvénient~ est que la fidélité à la marque souffrira si l'un de vos produits ne répond pas aux attentes des consommateurs en matière de qualité de votre marque d'entreprise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If your company owns more than ~50%~ of another company, it will be added to the ~Who section~ where you could select it and trade stocks on behalf of that company.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T154042Z" creationid="Olivier" creationdate="20200425T154042Z">
+        <seg>Si votre société possède plus de ~50 %~ d'une autre société, elle sera ajoutée à la section ~Qui~ où vous pourrez la sélectionner et négocier des actions au nom de cette société.</seg>
       </tuv>
     </tu>
     <tu>
