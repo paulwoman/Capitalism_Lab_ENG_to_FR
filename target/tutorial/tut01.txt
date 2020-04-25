@@ -371,7 +371,7 @@ Pointer=52,61,235,75
 //-------------------------------------------------------------------//
 
 [TEXT]
-Et choisissez "Grand magasin".
+Et choisissez ~Grand magasin~.
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -420,7 +420,7 @@ Pointer=38,68,122,78
 //-------------------------------------------------------------------//
 
 [TEXT]
-Très bien ! Vous avez terminé ce tutoriel. Vous deverz mettre en pratique ce que vous venez d'apprendre dans la gestion de votre entreprise.
+Très bien ! Vous avez terminé ce tutoriel. Vous devez mettre en pratique ce que vous venez d'apprendre dans la gestion de votre entreprise.
  Maintenant, allez ajouter des produits à votre nouveau grand magasin et faites croître votre entreprise ! 
 
 [POS]

@@ -96,7 +96,7 @@ Interface Select=Product Details Report, Jeans
 //-------------------------------------------------------------------//
 
 [TEXT]
-Vous pouvez voir ici les évaluations pour ~Prix~, ~Qualité~, ~Marque~ et ~Evaluation globale~. Elles sont divisées en deux colonnes. La colonne ~Local~ affiche les notations des concurrents locaux - il s'agit de petites entreprises locales que vous ne voyez pas dans la liste des sociétés. La colonne ~Moyenne~ combine les notations des concurents locaux et des sociétés. 
+Vous pouvez voir ici les évaluations pour ~Prix~, ~Qualité~, ~Marque~ et ~Évaluation globale~. Elles sont divisées en deux colonnes. La colonne ~Local~ affiche les notations des concurrents locaux - il s'agit de petites entreprises locales que vous ne voyez pas dans la liste des sociétés. La colonne ~Moyenne~ combine les notations des concurrents locaux et des sociétés. 
 
 [POS]
 Text Box=280,320,400,0
@@ -106,7 +106,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-À côté d'eux, vous verrez la colonne ~Préoccupation~. Les chiffres de cette colonne indiquent les facteurs dont un consommateur tiendra compte pour choisir un produit à acheter.
+À côté d'eux, vous verrez la colonne ~Préoccupations~. Les chiffres de cette colonne indiquent les facteurs dont un consommateur tiendra compte pour choisir un produit à acheter.
 
 [POS]
 Text Box=280,320,400,0
@@ -144,7 +144,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Cliquez maintenant sur le bouton ~Rechercher un produit~ et sélectionnez ~Caméra~.
+Cliquez maintenant sur le bouton ~Rechercher un produit~ et sélectionnez ~Appareil photo~.
 
 [POS]
 Text Box=300,470,400,0
@@ -156,7 +156,7 @@ Interface Select=Product Details Report, Camera
 //-------------------------------------------------------------------//
 
 [TEXT]
-Un autre élément d'information important que vous pouvez voir ici est ~l'Indice des besoins~. Pour ~caméras~, c'est  20 %, ce qui signifie qu'il ne s'agit pas d'un produit de première nécessité. Lorsque l'économie est en récession, les consommateurs réduisent leurs dépenses sur les produits avec un faible indice de nécessité.
+Un autre élément d'information important que vous pouvez voir ici est ~l'indice des besoins~. Pour ~caméras~, c'est  20 %, ce qui signifie qu'il ne s'agit pas d'un produit de première nécessité. Lorsque l'économie est en récession, les consommateurs réduisent leurs dépenses sur les produits avec un faible indice de nécessité.
 
 [POS]
 Text Box=300,295,400,0
@@ -300,7 +300,7 @@ Pointer=643,107,680,119
 //-------------------------------------------------------------------//
 
 [TEXT]
-Si vous souhaitez avoir une marque unique couvrant tous les produits que vous vendez, vous devez alors choisir la ~stratégie de marque d'entreprise~. L'avantage~ de cette approche est que tout nouveau produit que vous lancez bénéficiera instantanément de la reconnaissance de la marque d'entreprise existante. L'inconvénient~ est que la fidélité à la marque souffrira si l'un de vos produits ne répond pas aux attentes des consommateurs en matière de qualité de votre marque d'entreprise. 
+Si vous souhaitez avoir une marque unique couvrant tous les produits que vous vendez, vous devez alors choisir la ~stratégie de marque d'entreprise~. L'avantage~ de cette approche est que tout nouveau produit que vous lancez bénéficiera instantanément de la reconnaissance de la marque d'entreprise existante. ^^~L'inconvénient~ est que la fidélité à la marque souffrira si l'un de vos produits ne répond pas aux attentes des consommateurs en matière de qualité de votre marque d'entreprise. 
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -309,7 +309,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-La deuxième stratégie, ~la stratégie de marque de type de produit~ est similaire à la stratégie de marque d'entreprise mais sa couverture est limitée à des catégories de produits.  Par exemple, les ~sacs en cuir~ et les ~porte-documents en cuir~ appartiennent à la catégorie de produits ~maroquinerie~. Si vous décidez de vendre des ~porte-documents en cuir~ et des ~lotions de bain~ pour accompagner les ~sacs en cuir~ que vous vendez déjà, vos ~porte-documents en cuir~ hériteront immédiatement de la marque de vos ~sacs en cuir~ (~même catégorie de produits~) mais vos ~lotions de bain~ne le seront pas. 
+La deuxième stratégie, ~la stratégie de marque de type de produit~ est similaire à la stratégie de marque d'entreprise mais sa couverture est limitée à des catégories de produits.  Par exemple, les ~sacs en cuir~ et les ~porte-documents en cuir~ appartiennent à la catégorie de produits ~maroquinerie~. Si vous décidez de vendre des ~porte-documents en cuir~ et des ~lotions de bain~ pour accompagner les ~sacs en cuir~ que vous vendez déjà, vos ~porte-documents en cuir~ hériteront immédiatement de la marque de vos ~sacs en cuir~ (~même catégorie de produits~) mais vos ~lotions de bain~ ne le seront pas. 
 
 [POS]
 Flex Text Box=300,280,400,0

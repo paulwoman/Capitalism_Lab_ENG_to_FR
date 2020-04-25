@@ -229,7 +229,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Below the ~stock price~ and the ~total number of shares~ figures, you will see the ~Market Cap~, or the market capitalization of a corporation, which is equal to the ~share price~ times the ~total number of shares outstanding~. In other words, it is the total market value of a corporation in the stock market. 
+Sous les chiffres du ~prix de l'action~ et du ~nombre total d'actions~, vous verrez la ~Capitalisation boursière~, ou la capitalisation boursière d'une société, qui est égale au ~prix de l'action~ multiplié par le ~nombre total d'actions en circulation~. En d'autres termes, il s'agit de la valeur marchande totale d'une société sur le marché boursier. 
 
 [POS]
 Text Box=300,280,400,0
@@ -239,7 +239,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-~Earning Per Share~ is a company's operating profit over the past 365 days divided by the ~total number of outstanding shares~.^^When a company issues new shares, the ~Earning Per Share~ will be diluted as the company's profit will be divided by a larger number of shares. 
+~Le bénéfice par action~ est le bénéfice d'exploitation d'une société au cours des 365 derniers jours divisé par le ~nombre total d'actions en circulation~. Lorsqu'une société émet de nouvelles actions, le ~bénéfice par action~ sera dilué car le bénéfice de la société sera divisé par un plus grand nombre d'actions. 
 
 [POS]
 Text Box=300,280,400,0
@@ -249,7 +249,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Remember that your corporation has just issued some shares? It led to an increase in the ~total number of outstanding shares~ and a decrease in ~Earning per Share~.
+Vous vous souvenez que votre société vient d'émettre des actions ? Cela a entraîné une augmentation du ~nombre total d'actions en circulation~ et une diminution du ~bénéfice par action~.
 
 [POS]
 Text Box=300,280,400,0
@@ -258,7 +258,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Your company's stock price can only go up in the long run if its ~Earning Per Share~ also goes up.^^Thus, for the fund that you have raised with issuing new shares, you should use them to invest into new business to generate more profits for your shareholders. 
+Le cours des actions de votre entreprise ne peut augmenter à long terme que si son ~Bénéfice par action~ augmente également.^^Ainsi, pour le financement que vous avez levé avec l'émission de nouvelles actions, vous devriez les utiliser pour investir dans de nouvelles activités afin de générer plus de profits pour vos actionnaires. 
 
 [POS]
 Text Box=300,280,400,0
@@ -267,7 +267,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-The ~P/E Ratio~, or the ~Price-Earnings Ratio~ is an equity valuation multiple, defined as the ~stock price~ divided by ~earnings per share~.^^A high ~P/E ratio~ generally means the the stock is expensive as people are buying high prices to buy the stock, possibly driven by investors' confidence in the company's growth prospect. 
+Le ~ratio C/B~, ou ~ratio cours/bénéfices~, est un multiple d'évaluation des actions, défini comme ~le cours de l'action~ divisé par ~le bénéfice par action~. ^^Un ratio C/B élevé signifie généralement que l'action est chère car les gens achètent à des prix élevés pour acheter l'action, peut-être en raison de la confiance des investisseurs dans les perspectives de croissance de l'entreprise. 
 
 [POS]
 Text Box=300,280,400,0
@@ -277,7 +277,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-If you find all this a bit overwhelming, don't worry as you are not required to be proficient in stock analysis in order to enjoy your Capitalism game.^^You can choose to learn and practice stock investment at a pace you prefer in later games. For now, you have already done a pretty good job getting a grasp of the basics. 
+Si vous trouvez tout cela un peu accablant, ne vous inquiétez pas car vous n'êtes pas obligé de maîtriser l'analyse boursière pour apprécier votre jeu CapitalismLab.^^Vous pouvez choisir d'apprendre et de pratiquer l'investissement boursier au rythme que vous préférez dans les parties suivantes. Pour l'instant, vous avez déjà fait un assez bon travail de compréhension des bases. 
  
 [POS]
 Text Box=300,280,400,0
@@ -286,7 +286,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Another figure which you may find useful is the ~Dividend Yield~. This is a percentage calculated by dividing the latest dividend paid by the stock price.^^Put simply, the greater the dividend yield, the more cash is returned to each investor when the dividend is paid out each year.
+Un autre chiffre qui peut vous être utile est le ~Rendement des dividendes~. Il s'agit d'un pourcentage calculé en divisant le dernier dividende versé par le cours de l'action. En résumé, plus le rendement du dividende est élevé, plus chaque investisseur reçoit de liquidités lors du versement du dividende chaque année.
 
 [POS]
 Text Box=300,280,400,0
@@ -297,7 +297,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Besides buying stocks as an individual, you can also buy stocks on behalf of your company. Select your company on the ~Who section~. 
+Outre l'achat d'actions à titre individuel, vous pouvez également acheter des actions au nom de votre entreprise. Sélectionnez votre entreprise dans la section ~Qui~. 
 
 [POS]
 Text Box=300,280,400,0
@@ -306,7 +306,7 @@ Pointer=175,498,323,509
 //-------------------------------------------------------------------//
 
 [TEXT]
-Now you may use your company's money to buy shares of other publicly listed companies as an investment.^^To do so, simply select a company from the list at the top of the screen, then click on the ~Buy~ button to buy its shares. 
+Vous pouvez maintenant utiliser l'argent de votre société pour acheter des actions d'autres sociétés cotées en bourse à titre d'investissement.^^ Pour ce faire, il suffit de sélectionner une société dans la liste en haut de l'écran, puis de cliquer sur le bouton ~Acheter~ pour acheter ses actions. 
 
 [POS]
 Text Box=300,280,400,0
@@ -317,7 +317,7 @@ Bought other company stock=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Très bien ! From this point on, you should keep an eye on the stock's performance as changes in its stock price will affect your company's balance sheet as well. 
+Très bien ! À partir de ce moment, vous devez garder un œil sur les performances de l'action, car les variations de son cours affecteront également le bilan de votre entreprise. 
 
 [POS]
 Text Box=300,280,400,0
@@ -326,7 +326,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-If your company owns more than ~50%~ of another company, it will be added to the ~Who section~ where you could select it and trade stocks on behalf of that company.
+Si votre société possède plus de ~50 %~ d'une autre société, elle sera ajoutée à la section ~Qui~ où vous pourrez la sélectionner et négocier des actions au nom de cette société.
 
 [POS]
 Text Box=300,280,400,0
@@ -336,7 +336,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-When your company owns more than ~75%~ of another company, you will be able to execute a marger which will merge all of its business operations into your company, including all of its technological know-how.^^This makes mergers a highly effective way to expand your business empire rapidly.
+Lorsque votre entreprise possède plus de ~75 %~ d'une autre entreprise, vous pourrez réaliser une fusion qui regroupera toutes ses opérations commerciales au sein de votre entreprise, y compris tout son savoir-faire technologique.^^ Cela fait des fusions un moyen très efficace de développer rapidement votre empire commercial.
 [POS]
 Text Box=300,280,400,0
 Next Arrow=Yes
@@ -344,16 +344,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Besides buying stocks of other companies, your company can also ~buy back its own stock~.^^The shares bought are taken out of circulation, therefore shrinking the number of outstanding shares. This can have a positive effect on earnings per share, which in turn can have ~a positive effect~ on the stock price.
-
-[POS]
-Text Box=300,280,400,0
-Next Arrow=Yes
-
-//-------------------------------------------------------------------//
-
-[TEXT]
-Before we progress here's a quick note on how to sell shares. The interface for selling shares is in fact very similar to that of buying shares.^^Depending on the current owner of the shares, select either yourself or your corporation (in the ~Who section~) and set the amount you wish to sell and click the ~Sell~ button.
+Outre l'achat d'actions d'autres entreprises, votre entreprise peut également ~racheter ses propres actions~.^^Les actions achetées sont retirées de la circulation, ce qui réduit le nombre d'actions en circulation. Cela peut avoir un effet positif sur le bénéfice par action, qui à son tour peut avoir un ~effet positif~ sur le cours de l'action.
 
 [POS]
 Text Box=300,280,400,0
@@ -362,7 +353,16 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-If you find the stock list too cluttered, you may use the stock filters to limit the type of stock to be displayed on the screen.^^For example, you may choose to view only tech stocks that you currently own by clicking on the ~Tech~ button and then the ~Owned~ button.
+Avant d'aller plus loin, voici une petite information sur la façon de vendre des actions. L'interface de vente d'actions est en fait très similaire à celle de l'achat d'actions.^^Selon le propriétaire actuel des actions, sélectionnez soit vous-même, soit votre société (dans la section ~Qui~) et fixez le montant que vous souhaitez vendre et cliquez sur le bouton ~Vendre~.
+
+[POS]
+Text Box=300,280,400,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Si vous trouvez la liste des actions trop chargée, vous pouvez utiliser les filtres d'actions pour limiter le type d'action à afficher à l'écran.^^ Par exemple, vous pouvez choisir de ne visualiser que les actions technologiques que vous possédez actuellement en cliquant sur le bouton ~Tech~ puis sur le bouton ~Propriété~.
 
 [POS]
 Text Box=180,110,500,0
@@ -372,7 +372,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-At the bottom of the screen, you can view the ~performances of your stock holdings~, showing the gains or losses of individual stocks in your portfolio, as well as your total investment return to date.^^And this area can be switched to display the ~latest financial news~ by clicking the ~Stock News~ located at the bottom left of the screen.
+En bas de l'écran, vous pouvez consulter les ~performances de vos actions~, en montrant les gains ou les pertes des différentes actions de votre portefeuille, ainsi que le rendement total de vos investissements à ce jour. Cette zone peut être modifiée pour afficher les ~dernières nouvelles financières~ en cliquant sur les ~nouvelles sur les actions~ situées en bas à gauche de l'écran.
 
 [POS]
 Text Box=180,400,500,0
@@ -382,7 +382,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-You have done a great job familiarizing yourself with the stock market! Now it's time for you to use the recently raised fund to grow your business empire. 
+Vous avez fait un excellent travail pour vous familiariser avec le marché boursier ! Il est à présent temps pour vous d'utiliser les fonds récemment levés pour développer votre empire commercial. 
 
 [POS]
 Text Box=300,280,400,0
@@ -391,7 +391,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-The investors are expecting you to deliver a good return to their investment.^^You win this game when ~your company's stock price~ increases to ~$100~. Bonne chance !
+Les investisseurs attendent de vous un bon retour sur investissement.^^Vous gagnez ce jeu lorsque ~le cours de l'action de votre entreprise~ passe à ~100 $~. Bonne chance !
 
 [POS]
 Text Box=300,280,400,0
