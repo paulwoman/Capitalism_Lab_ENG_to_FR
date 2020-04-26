@@ -108,24 +108,24 @@
 [0531]Échec dans le chargement de la partie|<SYF1>
 [0536]Mauvais établissement|<CHE1>
 [0537]L'établissement ne peut être pris par le joueur!!!|<CHE2>
-[0539]<FAP2>Null|
+[0539]Null|<FAP2>
 [0540]Confirmer|<FAP3>
 [0541]Annuler|<FAP4>
 [0543]Désolé, vous n'avez pas la trésorerie suffisante.|<FAP6>
 [0546]Attention mode Game Design|<AII1>
 [0547]Plan de grande stratégie|<AII2>
 [0548] la construction d'intrants agricoles a échoué.|<AII3>
-[0549]<AII4> building factory input failed.|
+[0549] échec de la mise en place d'une usine de construction.|<AII4>
 [0551]Acquisition de technologies d'une autre entreprise|<FHQ1>
-[0552]<FHQ2>You cannot acquire new technology now. None of the other companies have a technology more advanced than yours.|
-[0553]<FIN1>Switch Brand Strategy|
-[0554]When you switch your brand strategy, all products will be labeled with the new brand and their brand ratings will be reset to zero as a result. Poursuivre?|<FIN2>
-[0555]<FIN3>Employment Termination|
-[0556]<FIN4>Employment rejected|
-[0557]<FIN5>Employment|
+[0552]Vous ne pouvez pas acquérir une nouvelle technologie maintenant. Aucune des autres entreprises ne dispose d'une technologie plus avancée que la vôtre.<FHQ2>
+[0553]Stratégie de changement de marque|<FIN1>
+[0554]Quand vous changez de stratégie marketing, tous les produits seront étiquetés avec la nouvelle marque et leur cote sera par conséquent remise à zéro. Poursuivre?|<FIN2>
+[0555]Cessation d'emploi|<FIN3>
+[0556]Emploi refusé|<FIN4>
+[0557]Emploi|<FIN5>
 [0558]<FIN6>Employment Policy|
 [0559]<FIN7>Cannot purchase the stock|
-[0560]<FIN8>Issue New Shares|
+[0560]Émission de nouvelles actions|<FIN8>
 [0561]OK|<FIN9>
 [0562]Démolir le manoir|<FMN1>
 [0564]<FM21>Change Group Manager|
