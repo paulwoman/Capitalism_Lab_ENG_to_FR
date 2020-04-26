@@ -1,0 +1,8 @@
+[HEADER]
+Title=200% training effect 
+Description=This script doubles the training effect on your staff. In other words, the experience levels of your staff will increase twice as fast when the same amount of training expenditure. 
+
+//------------------------------------------------------------------------------------------------//
+
+[SPECIAL RULES]
+Training Effect Modifier=200

@@ -1,0 +1,48 @@
+[HEADER]
+Title=Sample script - Competitors 
+Description=This is a sample script for Capitalism Lab, listing all variables under the [COMPETITORS] section. 
+
+[COMPETITORS]
+Number of Competitors=20
+// Number of Competitors=<1 to 30>
+// You may set the number of competitors to any number between 1 and 30. 
+
+Competitor Start-up Capital=High
+// Competitor Start-up Capital=<Very Low, Low, Moderate, High, Very High>
+ 
+Competitor Aggressiveness=High
+// Competitor Aggressiveness=<Very Low, Low, Moderate, High, Very High>
+
+Competitor Expertise Level=Moderate
+// Competitor Expertise Level=<None, Low, Moderate, High>
+
+Show Competitor Trade Secrets=Yes
+// Show Competitor Trade Secrets=<Yes, No>
+
+AI Friendly Merger=On
+// AI Friendly Merger=<On, Off>
+
+Competence of Local Competitors=High 
+// Competence of Local Competitors=<Very Low, Low, Moderate, High, Very High>
+
+
+// You may set the business focuses of the AI companies using the following script lines:
+// (The total number of competitors defined here should not exceed the number  in the Number of Competitors line.)
+
+Retail Focused Companies=3
+Stock Focused Companies=2
+Real Estate Focused Companies=5
+Tech Focused Companies=2
+Media Focused Companies=2
+Diversified Companies=4
+
+AI Product Expertise=Apparel, 3
+// With the above statement, there will be 3 AI competitors possessing expertise in Apparel in the beginning of the game. 
+
+// AI Product Expertise=<Expertise Product Class>, <Number of AI competitors> 
+
+// Use this statement to assign a specified type of expertise to AI competitors. 
+// <Expertise Product Class> is the expertise product class. For example, ¡°apparel¡±
+// <Number of AI competitors> is the number of AI competitors possessing this type of expertise. 
+// Please note that this only applies to AI competitors with a diversified business strategy. (e.g. retail focused companies and companies with other focuses are not affected.)
+

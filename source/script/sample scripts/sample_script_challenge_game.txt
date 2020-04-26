@@ -1,0 +1,14 @@
+[HEADER]
+Title=Sample script - Challenge Game
+Description=This is a sample script for Capitalism Lab, listing all variables under the [CHALLENGE GAME] section. 
+
+[CHALLENGE GAME]
+Number of Game Years=30
+// Number of Game Years=<2 to 1000> 
+// This defines how long the challenge game will last.
+
+Ranking Method=Score
+// Ranking Method=<Score, Total Revenue, Total Profit, Industry Revenue, Product Revenue, Time to Achieve Goal>
+// e.g. Ranking Method=Industry Revenue 
+// This defines the ranking method of the challenge game. 
+

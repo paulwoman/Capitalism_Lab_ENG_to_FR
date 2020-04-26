@@ -1,0 +1,92 @@
+[HEADER]
+Title=Sample script - Main Goal
+Description=This is a sample script for Capitalism Lab, listing all variables under the [MAIN GOAL] section. 
+
+//---------------------------------------------------------------------------------------------//
+
+[MAIN GOAL]
+Goal Title=Main Goal 
+Goal Description=This is your main goal. 
+
+Goal Achieved Text=Congratulations! You have achieved your main goal.
+// If this is defined, when the player has achieved this goal, this text will be displayed on the goal screen.
+
+Goal Failed Text=Sorry, you have failed to achieve your goal within the time limit. 
+// If this is defined, when the player has failed this goal, this text will be displayed on the goal screen.
+
+Number of Game Years=20
+
+//---------------------------------------------------------------------------------------------//
+// The target values for the main goals and/or subgoals may contain any of the following lines:
+
+[MAIN GOAL VALUES]
+Player Wealth=50
+
+Player Company Annual Revenue=200
+Player Company Annual Profit=20
+Player Company Net Worth=80
+Player Company Market Cap=120
+//(value unit: million dollars)
+
+Controlled Companies Annual Revenue=500
+Controlled Companies Annual Profit=50
+Controlled Companies Net Worth=160
+Controlled Companies Market Cap=250 
+
+Number of Controlled Companies=2
+
+Total number of Employees=95
+Operating Profit Margin=10
+Return on Equity=10
+Stock Price=88
+Ownership=60
+Number of Product Classes Being Produced=3
+Number of Product Types Being Produced=10
+
+//---------------------------------------------------------------------------------------------//
+// You may include any of the following industry dominance goals in this section:
+
+[MAIN GOAL INDUSTRIES]
+Retail
+Manufacturing
+Farming
+Raw Material Production 
+Real Estate 
+Media 
+
+//---------------------------------------------------------------------------------------------//
+// You may include any of the following product market dominance goals in this section:
+// You may view all product classes in the game by accessing the Product Summary Report and look at the product class list at the top left of the report.
+
+[MAIN GOAL PRODUCTS]
+Apparel
+Automobile
+Beverage
+Computer
+
+
+//---------------------------------------------------------------------------------------------//
+// You may optionally define rewards for the main goal and subgoals. A subgoal may be set to
+// impose penalties when the player fails to achieve it within the time limit. 
+
+[MAIN GOAL REWARDS] 
+Score change=50
+Corporate Cash change=5000000
+Personal Cash change=100000
+
+// You may change either the person's skill based expertise or the person's product based expertise. 
+// For skill based expertise, <expertise type> can be: retail, manufacturing, farming, research and development, raw material production, marketing, training
+// For product based expertise, <product class> can be one of the product classes in the game, such as Apparel, Automobile, Beverage and etc. 
+
+Player expertise change=Computer, 30
+COO expertise change=Electronic Products, 50 
+CTO expertise change=research and development, 16
+CMO expertise change=marketing, 18
+
+Tech change=Notebook Computer, 30
+// Tech change=<product type>, <change value -1000 to 1000>
+// This will change your corporation's technology level of the specified product type when you have achieved the goal. 
+
+Instant invention=Smart Phone
+// Instant invention=<product type>
+// If this is defined, the product type will be invented instantly by your corporation when you have achieved the goal.
