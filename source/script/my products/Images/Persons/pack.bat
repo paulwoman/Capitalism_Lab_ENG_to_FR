@@ -1,1 +1,0 @@
-..\..\libresxl *.PNG PERSONS.RES

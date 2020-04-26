@@ -1,1 +1,0 @@
-..\..\libresxl *.PNG PRODUCTS.RES
