@@ -2366,6 +2366,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Contest Deadline=2020-12-31</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T145714Z" creationid="Olivier" creationdate="20200426T145714Z">
+        <seg>Contest Deadline=2020-12-31</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contest Started On=2020-03-16</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T145711Z" creationid="Olivier" creationdate="20200426T145711Z">
+        <seg>Contest Started On=2020-03-16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contest Started On=2020-03-17</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T145922Z" creationid="Olivier" creationdate="20200426T145922Z">
+        <seg>Contest Started On=2020-03-17</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Convenience Store|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T063920Z" creationid="Inrepublica" creationdate="20200426T063920Z">
@@ -2502,6 +2526,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=This script modifies technology acquisition costs to 200% of their original values.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T145402Z" creationid="Olivier" creationdate="20200426T145402Z">
+        <seg>Description=Ce script modifie les coûts d'acquisition des technologies à 200% de leur valeur d'origine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=To stay competitive in a fast-changing market, you must constantly invest into improving the quality of your products.^^In this tutorial, you will set up a Research and Development (R&amp;D) Center and start R&amp;D projects to invent more advanced technology for your products.^^The competition will be fierce, but your R&amp;D investment should pay off and give you a competitive edge against your rivals.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T210605Z" creationid="Olivier" creationdate="20200423T210605Z">
@@ -2518,10 +2550,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=You are one of those people who are gifted with extraordinary technical wizardry and you are going to put it into good use with your tech startup.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T145902Z" creationid="Olivier" creationdate="20200426T145902Z">
+        <seg>Description=Vous êtes l'une de ces personnes qui possèdent une extraordinaire magie sur le plan technique et vous allez la mettre à profit dans votre entreprise technologique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=You have built a flourishing business empire.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T205913Z" creationid="Olivier" creationdate="20200423T205913Z">
         <seg>Description=Vous avez construit un empire commercial florissant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=You have just assumed the role of CEO of a well funded startup.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T145547Z" creationid="Olivier" creationdate="20200426T145547Z">
+        <seg>Description=Vous venez d'assumer le rôle de PDG d'une startup bien financée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6185,6 +6233,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Player Skill Level=Advanced</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T145708Z" creationid="Olivier" creationdate="20200426T145708Z">
+        <seg>Player Skill Level=Advanced</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Player Starts with Operating System (OS) Technologies</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164749Z" creationid="Inrepublica" creationdate="20200422T164749Z">
@@ -9449,6 +9505,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title=Corporate Leadership</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T145519Z" creationid="Olivier" creationdate="20200426T145519Z">
+        <seg>Title=Responsabilité des entreprises</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Tech Leader</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T145757Z" creationid="Olivier" creationdate="20200426T145757Z">
+        <seg>Title=Responsable technique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To access the ~Brand Strategy~ screen, open the ~Corporate Detail~ report by pressing the shortcut key ~'D'~ now.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T145553Z" creationid="Olivier" creationdate="20200424T145553Z">
@@ -10542,6 +10614,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T152658Z" creationid="Olivier" creationdate="20200422T212056Z">
         <seg>Vous devez mettre en pratique ce que vous venez d'apprendre dans la gestion de votre entreprise.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You must build a solid management team by bringing great managers on board.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T145604Z" creationid="Olivier" creationdate="20200426T145604Z">
+        <seg>Vous devez constituer une équipe de direction solide en faisant appel à de grands managers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12754,6 +12834,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[Advertising Unit]</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T145928Z" creationid="Olivier" creationdate="20200426T145928Z">
+        <seg>[Advertising Unit]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[BOX1]Ok</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T112202Z" creationid="Inrepublica" creationdate="20200422T112202Z">
@@ -12766,6 +12854,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T112139Z" creationid="Inrepublica" creationdate="20200422T112139Z">
         <seg>[BOX2]Annulez</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[CHALLENGE GAME]</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T145758Z" creationid="Olivier" creationdate="20200426T145758Z">
+        <seg>[CHALLENGE GAME]</seg>
       </tuv>
     </tu>
     <tu>
@@ -13404,6 +13500,14 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>^^This scenario uses a special rule where costs of hiring management staff are only 20% of the normal rates.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T145635Z" creationid="Olivier" creationdate="20200426T145635Z">
+        <seg>^^Ce scénario utilise une règle spéciale selon laquelle les coûts de recrutement du personnel de gestion ne représentent que 20 % des taux habituels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>^^To see the effect of R&amp;D on your manufacturing operations, press ~shortcut key '5'~ to set the game speed to ~the Fastest~.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T135648Z" creationid="Olivier" creationdate="20200426T135415Z">
@@ -13416,6 +13520,22 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T210756Z" creationid="Olivier" creationdate="20200423T210756Z">
         <seg>^^Essayez d'appliquer ce que vous avez appris dans les tutoriels précédents à la gestion de votre entreprise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^^With the belief that it is technology that matters the most when it comes to high tech products, you are confident that becoming a leader in the high tech market is absolutely within your reach.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T145921Z" creationid="Olivier" creationdate="20200426T145921Z">
+        <seg>^^Avec la conviction que c'est la technologie qui compte le plus lorsqu'il s'agit de produits de haute technologie, vous êtes certain que devenir un leader sur le marché de la haute technologie est absolument à votre portée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^^You must demonstrate your leadership by aggressively expanding your business or your executive staff may lose confidence in the company and seek better career opportunities elsewhere.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T145704Z" creationid="Olivier" creationdate="20200426T145704Z">
+        <seg>^^Vous devez faire preuve de leadership en développant agressivement votre entreprise, sinon votre personnel de direction risque de perdre confiance dans l'entreprise et de chercher de meilleures perspectives de carrière ailleurs.</seg>
       </tuv>
     </tu>
     <tu>
