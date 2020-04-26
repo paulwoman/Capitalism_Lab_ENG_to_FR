@@ -5545,6 +5545,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>None of the other companies have a technology more advanced than yours.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T153610Z" creationid="Olivier" creationdate="20200426T153610Z">
+        <seg>Aucune des autres entreprises ne dispose d'une technologie plus avancée que la vôtre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Note that the player person's expertise product class will not be locked.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T221200Z" creationid="Inrepublica" creationdate="20200422T163005Z">
@@ -11858,6 +11866,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0539]Null|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T152956Z" creationid="Olivier" creationdate="20200426T152956Z">
+        <seg>[0539]Null|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0540]Confirm|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T172933Z" creationid="Inrepublica" creationdate="20200423T172933Z">
@@ -11906,10 +11922,34 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0549] building factory input failed.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T153056Z" creationid="Olivier" creationdate="20200426T153056Z">
+        <seg>[0549] échec de la mise en place d'une usine de construction.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0551]Acquire Technology From Other Companies|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T120316Z" creationid="Inrepublica" creationdate="20200426T120316Z">
         <seg>[0551]Acquisition de technologies d'une autre entreprise|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0552]You cannot acquire new technology now.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T153558Z" creationid="Olivier" creationdate="20200426T153558Z">
+        <seg>[0552]Vous ne pouvez pas acquérir une nouvelle technologie maintenant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0553]Switch Brand Strategy|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T153940Z" creationid="Olivier" creationdate="20200426T153940Z">
+        <seg>[0553]Stratégie de changement de marque|</seg>
       </tuv>
     </tu>
     <tu>
