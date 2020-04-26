@@ -78,3 +78,7 @@ Il est à préciser que les fichiers proposés actuellement doivent encore être
 # Outils
 Dans le répertoire outils se trouve un petit fichier bat qui vous permet de copier directement la traduction en cours dans le répertoire du jeu Capitalism Lab.
 Pour ce faire, éditez simplement copy_translation.bat avec un éditeur de texte et changer le paramètre source et cible par les vôtres. Par exemple: `source=C:\Users\Toto\Desktop\Capitalism_Lab\target` et `cible="C:\Users\Toto\AppData\Local\Capitalism Lab"`
+
+Il y a aussi la version "copy_translation_defaut" qui permets de copier la traduction si vous mis le fichier d'OmegaT dans le dossier par défaut. 
+
+Faites l'opération avec l'utilisateur qui a installé le jeu.
