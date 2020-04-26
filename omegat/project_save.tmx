@@ -3720,6 +3720,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Game speed=5</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T135649Z" creationid="Olivier" creationdate="20200426T135649Z">
+        <seg>Game speed=5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Game starting year</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T153100Z" creationid="Inrepublica" creationdate="20200422T153100Z">
@@ -5889,6 +5897,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On the ~Event Tracker~ window, you may click the ~Go~ button to access your R&amp;D center where the R&amp;D project is completed and decide if you want to continue to research better technology for the same product or direct your R&amp;D team to research on something else.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T140149Z" creationid="Olivier" creationdate="20200426T140149Z">
+        <seg>Dans la fenêtre ~Suivi des événements~, vous pouvez cliquer sur le bouton ~Aller~ pour accéder à votre centre de R&amp;D où le projet de R&amp;D est terminé et décider si vous voulez continuer à rechercher une meilleure technologie pour le même produit ou orienter votre équipe de R&amp;D vers la recherche dans un autre domaine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Once the ~Event Tracker~ icon (indicated by an ~'!'~ sign) appears, you can go ahead and click it.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T140013Z" creationid="Olivier" creationdate="20200426T140013Z">
+        <seg>Une fois que l'icône ~Suivi des événements~ (indiquée par un signe ~'!'~) apparaît, vous pouvez aller de l'avant et cliquer dessus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>One is labeled ~Purchase~ and it is connected to a ~Sales~ unit.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T095852Z" creationid="Olivier" creationdate="20200423T134650Z">
@@ -6249,6 +6273,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=200,6,228,30</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T140014Z" creationid="Olivier" creationdate="20200426T140014Z">
+        <seg>Pointer=200,6,228,30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=202,385,246,400</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T145343Z" creationid="Olivier" creationdate="20200423T145343Z">
@@ -6461,6 +6493,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T204741Z" creationid="Acer" creationdate="20200424T204741Z">
         <seg>Pointer=37,466,151,477</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=379,209,403,223</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T140151Z" creationid="Olivier" creationdate="20200426T140151Z">
+        <seg>Pointer=379,209,403,223</seg>
       </tuv>
     </tu>
     <tu>
@@ -7841,6 +7881,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Text Box=120,300,500,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T140054Z" creationid="Olivier" creationdate="20200426T140054Z">
+        <seg>Text Box=120,300,500,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Text Box=142,462,690,0</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T214851Z" creationid="Olivier" creationdate="20200425T214851Z">
@@ -8317,6 +8365,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T221427Z" creationid="Olivier" creationdate="20200424T221427Z">
         <seg>Ce serait un excellent investissement à long terme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The above ~Event Tracker~ message window indicates that the your R&amp;D project has been completed, increasing your production technology level for Air Conditioners to 33.^^All your factories producing air conditioners will benefit from the technological advancement, enabling them to produce air conditioners of higher quality.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T140053Z" creationid="Olivier" creationdate="20200426T140053Z">
+        <seg>La fenêtre de message ~Suivi des événements~ ci-dessus indique que votre projet de R&amp;D a été mené à bien, portant votre niveau de technologie de production de climatiseurs à 33.^^ Toutes vos usines produisant des climatiseurs bénéficieront de l'avancement technologique, leur permettant de produire des climatiseurs de meilleure qualité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9129,6 +9185,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This tutorial will continue when ~your factory starts to produce and sell Air Conditioners~.^^If at any point you are lost and you want to restart the tutorial, you can ~press the ESC key and select Restart Tutorial~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T135313Z" creationid="Olivier" creationdate="20200426T135313Z">
+        <seg>Ce tutoriel se poursuivra lorsque ~votre usine commencera à produire et à vendre des climatiseurs~.^^Si à un moment donné vous êtes perdu et que vous souhaitez redémarrer le tutoriel, vous pouvez ~appuyer sur la touche ESC et sélectionner Redémarrer le tutoriel~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This value will be updated whenever a company has achieved a higher tech level than the current top tech level.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T134246Z" creationid="Olivier" creationdate="20200426T134246Z">
@@ -9777,6 +9841,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When a R&amp;D project of yours is finished, you will see a flashing ~Event Tracker~ icon at the bottom menu bar.^^Keep your eyes on this area.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T135848Z" creationid="Olivier" creationdate="20200426T135848Z">
+        <seg>Lorsqu'un de vos projets de R&amp;D est terminé, vous verrez une icône clignotante ~Suivi d'événements~ dans la barre de menu inférieure.^^ Gardez les yeux sur cette zone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When a consumer buys a product they consider the ~price~, the ~quality~ and the ~brand~ of the product.^^For the ~quality~, it is affected by the qualities of raw materials used and the production technology, which you have already learned in the previous tutorial.^^For the ~price~, it is very straightforward - a lower price makes a product more competitive in the market.^^A ~brand~ is a distinguishing name intended to identify and differentiate a seller's products from competitor's products.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T101652Z" creationid="Olivier" creationdate="20200424T101652Z">
@@ -9969,6 +10041,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You are now in the business of selling air conditioners!</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T135332Z" creationid="Olivier" creationdate="20200426T135332Z">
+        <seg>Vous êtes maintenant dans le commerce de la vente de climatiseurs !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can cancel this mode by clicking the ~My Firms~ button again.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T140731Z" creationid="Olivier" creationdate="20200422T211005Z">
@@ -10029,6 +10109,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T085422Z" creationid="Olivier" creationdate="20200424T085422Z">
         <seg>Vous avez décidé de quitter votre entreprise familiale et de vous lancer à votre compte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have demonstrated your ability to manage R&amp;D projects and use them to boost your products' quality.^^Next we'll take a quick look at the managerial option of providing training to your employees, which is essential for improving the overall competitiveness of your company.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T140304Z" creationid="Olivier" creationdate="20200426T140304Z">
+        <seg>Vous avez démontré votre capacité à gérer des projets de R&amp;D et à les utiliser pour améliorer la qualité de vos produits.^^Nous allons maintenant examiner rapidement l'option managériale qui consiste à former vos employés, ce qui est essentiel pour améliorer la compétitivité globale de votre entreprise.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10430,6 +10518,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T152722Z" creationid="Acer" creationdate="20200424T152722Z">
         <seg>Your factory sells product class=Apparel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your factory sells product type=Air Conditioner</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T135315Z" creationid="Olivier" creationdate="20200426T135315Z">
+        <seg>Your factory sells product type=Air Conditioner</seg>
       </tuv>
     </tu>
     <tu>
@@ -13048,6 +13144,14 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T205946Z" creationid="Acer" creationdate="20200424T205946Z">
         <seg>Les actions flottantes peuvent être achetées au prix de l'action par toute société ou tout investisseur individuel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^^To see the effect of R&amp;D on your manufacturing operations, press ~shortcut key '5'~ to set the game speed to ~the Fastest~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T135648Z" creationid="Olivier" creationdate="20200426T135415Z">
+        <seg>^^Pour voir l'effet de la R&amp;D sur vos opérations de fabrication, appuyez sur la ~touche de raccourci '5' ~pour régler la vitesse du jeu sur 'le plus rapide'.</seg>
       </tuv>
     </tu>
     <tu>
