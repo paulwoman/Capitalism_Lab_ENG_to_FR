@@ -58,22 +58,47 @@ Il est à préciser que les fichiers proposés actuellement doivent encore être
 | tut03.txt        | 100 %           | ok             | ok             | ok             |
 | tut04.txt        | 100 %           |                |                |                |
 | tut05.txt        | 100 %           |                |                |                |
-| tut06.txt        |   0 %           |                |                |                |
-| tut07.txt        |   0 %           |                |                |                |
+| tut06.txt        | 100 %           |                |                |                |
+| tut07.txt        | 100 %           |                |                |                |
 | tut08.txt        |   0 %           |                |                |                |
 
 ### Sous-dossier "script"
 
 | Fichiers         | Progression     | Relecture Inrepublica | Relecture PaulWoman | Concordance |
 | :--------------- |:--------------- |:---------------|:---------------|:---------------|
-| tutorial 1.txt   | 100 %           | ok             | ok             | ok             |
-| tutorial 2.txt   | 100 %           | ok             | ok             | ok             |
-| tutorial 3.txt   | 95 %            |                | ok             |                |
-| tutorial 4.txt   | 95 %            |                | ok             |                |
-| tutorial 5.txt   | 95 %            |                | ok             |                |
-| tutorial 6.txt   | 95 %            |                | ok             |                |
-| tutorial 7.txt   | 95 %            |                | ok             |                |
-| tutorial 8.txt   | 95 %            |                | ok             |                |
+| tutorial 1.txt   | 100 %            | ok             | ok             | ok             |
+| tutorial 2.txt   | 100 %            | ok             | ok             | ok             |
+| tutorial 3.txt   |  95 %            |                | ok             |                |
+| tutorial 4.txt   |  95 %            |                | ok             |                |
+| tutorial 5.txt   |  95 %            |                | ok             |                |
+| tutorial 6.txt   |  95 %            |                | ok             |                |
+| tutorial 7.txt   |  95 %            |                | ok             |                |
+| tutorial 8.txt   |  95 %            |                | ok             |                |
+
+### Dossier "Guide"
+
+| Fichiers         | Progression     | Relecture Inrepublica | Relecture PaulWoman | Concordance |
+| :--------------- |:--------------- |:---------------|:---------------|:---------------|
+| EXTERN.txt       | 100 %           |                |                |                |
+| FARMCROP.txt     | 100 %           |                |                |                |
+| FARMLIVE.txt     | 100 %           |                |                |                |
+| FARMPROC.txt     |  50 %           |                |                |                |
+| FOREST.txt       |   0 %           |                |                |                |
+| INV.txt          |   0 %           |                |                |                |
+| LABEL.txt        |   0 %           |                |                |                |
+| MFT.txt          |   0 %           |                |                |                |
+| MINE.txt         |   0 %           |                |                |                |
+| OIL.txt          |   0 %           |                |                |                |
+| PROJCODE.txt     |   0 %           |                |                |                |
+| PROJECT.txt      |   0 %           |                |                |                |
+| PUR.txt          |   0 %           |                |                |                |
+| RADRD.txt        |   0 %           |                |                |                |
+| RD.txt           |   0 %           |                |                |                |
+| TECH.txt         |   0 %           |                |                |                |
+| TECHCODE.txt     |   0 %           |                |                |                |
+| WAREINV.txt      |   0 %           |                |                |                |
+| WAREPUR.txt      |   0 %           |                |                |                |
+| WARESALE.txt     |   0 %           |                |                |                |
 
 # Outils
 Dans le répertoire outils se trouve un petit fichier bat qui vous permet de copier directement la traduction en cours dans le répertoire du jeu Capitalism Lab.
