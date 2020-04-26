@@ -55,7 +55,7 @@ Il est à préciser que les fichiers proposés actuellement doivent encore être
 | :--------------- |:--------------- |:---------------|:---------------|:---------------|
 | tut01.txt        | 100 %           | ok             | ok             | ok             |
 | tut02.txt        | 100 %           | ok             | ok             | ok             |
-| tut03.txt        | 100 %           | ok             |                | ok             |
+| tut03.txt        | 100 %           | ok             | ok             | ok             |
 | tut04.txt        | 100 %           |                |                |                |
 | tut05.txt        | 100 %           |                |                |                |
 | tut06.txt        |   0 %           |                |                |                |
@@ -83,4 +83,4 @@ Il y a aussi la version "copy_translation_defaut" qui permets de copier la tradu
 
 Faites l'opération avec l'utilisateur qui a installé le jeu.
 
-Egalement, il y a copy_own_translate.bat qui permet de remettre dans le jeu votre propre version "translate.txt"
+Egalement, il y a copy_own_translate.bat qui permet de remettre dans le jeu votre propre version "translate.txt". Pour utiliser le .bat tel quel, vous devrez sauvegarder votre version AVANT D'UTILISER "copy_translation" dans le dossier D:\Cap mais vous pouvez le mettre autrepart.
