@@ -7,7 +7,7 @@ Hide=Preview
 //-------------------------------------------------------------------//
 
 [TEXT]
-Dans ce tutoriel, vous serez formé pour devenir un meilleur directeur de magasins et apprendre à les personnaliser afin de maximiser leur efficacité opérationnelle et leur rentabilité.
+Dans ce tutoriel, vous serez formé pour devenir un meilleur gérant et apprendre à les personnaliser afin de maximiser leur efficacité opérationnelle et leur rentabilité.
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -43,7 +43,7 @@ Pointer=52,61,235,75
 //-------------------------------------------------------------------//
 
 [TEXT]
-Comme vous avez acquis plus d'expérience dans la vente au détail, vous pouvez maintenant choisir un type de magasins à construire, y compris des grands magasins, des épicerie, des supermarchés, des centres commerciaux et divers types de magasins spécialisés. 
+Comme vous avez acquis plus d'expérience dans la vente au détail, vous pouvez maintenant choisir un type de magasins à construire, y compris des grands magasins, des épiceries, des supermarchés, des centres commerciaux et divers types de magasins spécialisés. 
 
 [POS]
 Text Box=610,318,380,0
@@ -52,7 +52,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Les ~centres commerciaux~ peuvent vendre n'importe quoi, ce qui les rend très polyvalents. Si, pour une raison quelconque, l'approvisionnement d'un produit venait a faire défaut, vous pouvez facilement le remplacer par un autre produit. D'autre part, ~un magasin spécialisé~ ne peut vendre qu'une gamme spécifique de produits. Par exemple, un magasin de meubles ne peut vendre que des meubles. Si un problème d'approvisionnement survient, vous ne pourrez peut-être pas le résoudre aussi facilement en raison des types limités de produits qu'un magasin spécialisé peut vendre.
+Les ~centres commerciaux~ peuvent vendre n'importe quoi, ce qui les rend très polyvalents. Si, pour une raison quelconque, l'approvisionnement d'un produit venait a faire défaut, vous pouvez facilement le remplacer par un autre produit.^^D'autre part, ~un magasin spécialisé~ ne peut vendre qu'une gamme spécifique de produits. Par exemple, un magasin de meubles ne peut vendre que des meubles. Si un problème d'approvisionnement survient, vous ne pourrez peut-être pas le résoudre aussi facilement en raison des types limités de produits qu'un magasin spécialisé peut vendre.
 
 [POS]
 Text Box=610,318,380,0
@@ -62,7 +62,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Toutefois, les magasins spécialisés présentent des avantages par rapport aux magasins généraliste. Un magasin spécialisé est plus attrayant pour les clients intéressés par de tels produits. Par exemple, un magasin d'informatique qui vend des ordinateurs peut vendre plus cher qu'un grand magasin voisin qui vend le même produit. Les différences de qualité, de prix et de marque peuvent égaliser les choses, mais c'est pour un tutoriel ultérieur. 
+Toutefois, les magasins spécialisés présentent des avantages par rapport aux magasins généraliste. Un magasin spécialisé est plus attrayant pour les clients intéressés par de tels produits.^^Par exemple, un magasin d'informatique qui vend des ordinateurs peut vendre plus cher qu'un grand magasin voisin qui vend le même produit. Les différences de qualité, de prix et de marque peuvent égaliser les choses, mais c'est pour un tutoriel ultérieur. 
 
 [POS]
 Text Box=610,318,380,0
@@ -72,7 +72,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Bon, assez de théorie. Sélectionnez maintenant ~centre commercial~ dans le menu et choisissez un emplacement pour construire votre centre. 
+Bon, assez de théorie. Sélectionnez maintenant ~Centre commercial~ dans le menu et choisissez un emplacement pour le construire. 
 
 [POS]
 Text Box=610,318,380,0
@@ -97,7 +97,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Dans le tutoriel précédent, il vous suffisait de cliquer sur l'icône "Ajouter un produit" et de sélectionner un produit dans la liste des fournisseurs, et le produit sélectionné apparaissait automatiquement dans votre magasin. Ce que vous ne voyiez pas, c'étaient les ~Unités d'achat et de vente~ dans votre magasin. Ces unités font effectivement le véritable travail ! 
+Dans le tutoriel précédent, il vous suffisait de cliquer sur l'icône ~Ajouter un produit~ et de sélectionner un produit dans la liste des fournisseurs, et le produit sélectionné apparaissait automatiquement dans votre magasin. Ce que vous ne voyiez pas, c'étaient les ~Unités d'achats et de ventes~ dans votre magasin. Ces unités font effectivement le véritable travail ! 
 
 [POS]
 Text Box=32,270,300,0
@@ -118,7 +118,7 @@ Firm product count=My megastore, 1
 //-------------------------------------------------------------------//
 
 [TEXT]
-Vous voyez les deux unités qui sont apparues dans votre grille de présentation ? L'une d'entre elles est appelée ~Achat~ et est reliée à une unité ~Vente~. Il s'agit de votre groupement d'unités commerciales de base.^^Les deux unités n'ont pas beaucoup d'effet en soi, mais reliées entre elles, elles permettent à votre magasin de fonctionner. 
+Vous voyez les deux unités qui sont apparues dans votre grille de présentation ? L'une d'entre elles est appelée ~Achats~ et est reliée à une unité ~Ventes~. Il s'agit de votre groupement d'unités commerciales de base.^^Les deux unités n'ont pas beaucoup d'effet en soi, mais reliées entre elles, elles permettent à votre magasin de fonctionner. 
 
 [POS]
 Text Box=32,250,350,0
@@ -128,7 +128,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Une ~unité d'achat~ fait exactement cela : elle achète le produit que vous avez sélectionné auprès du fournisseur. À la livraison, l'unité d'achat transmet le stock à ~l'unité de vente~ qui offre le produit aux clients. Simple, n'est-ce pas ? Examinons de plus près chaque unité.
+Une ~unité d'achats~ fait exactement cela : elle achète le produit que vous avez sélectionné auprès du fournisseur.^^ À la livraison, ~l'unité d'achats~ transmet le stock à ~l'unité de ventes~ qui offre le produit aux clients. Simple, n'est-ce pas ? Examinons de plus près chaque unité.
 
 [POS]
 Text Box=32,250,350,0
@@ -138,7 +138,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Il existe plusieurs indicateurs dans ~Unité d'achat~. Le premier indicateur, une ~ligne bleue de rectangles pointillés~, indique le niveau de stock du produit.
+Il existe plusieurs indicateurs dans ~Unité d'achats~. Le premier indicateur, une ~ligne bleue de rectangles pointillés~, indique le niveau de stock du produit.
 
 [POS]
 Text Box=32,250,350,0
@@ -148,7 +148,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Ensuite, vous verrez la barre jaune de l'offre et la barre orange de la demande. La ~barre jaune de l'offre~ indique la quantité d'offre du fournisseur, et la ~barre orange de la demande~ mesure la demande du consommateur pour le produit. Si la barre de l'offre est plus courte que la barre de la demande, il y a une pénurie. Si la pénurie est persistante, vous devriez envisager de passer à un meilleur fournisseur.  
+Ensuite, vous verrez la barre jaune de l'offre et la barre orange de la demande.^^La ~barre jaune de l'offre~ indique la quantité d'offre du fournisseur, et la ~barre orange de la demande~ mesure la demande du consommateur pour le produit.^^Si la barre de l'offre est plus courte que la barre de la demande, il y a une pénurie. Si la pénurie est persistante, vous devriez envisager de passer à un meilleur fournisseur.  
 
 [POS]
 Text Box=32,250,350,0
@@ -168,7 +168,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Le chiffre dans le coin supérieur droit de l'unité est le ~niveau de l'unité~. Actuellement, comme l'unité est nouvelle, ce niveau est de 1. Avec le temps et la formation, le niveau augmentera et l'unité deviendra plus efficace, étant capable de gérer de plus grandes quantités de stocks et de répondre à des niveaux de demande plus élevés.
+Le chiffre dans le coin supérieur droit de l'unité est le ~niveau de l'unité~. Actuellement, comme l'unité est nouvelle, ce niveau est de 1.^^ Avec le temps et la formation, le niveau augmentera et l'unité deviendra plus efficace, étant capable de gérer de plus grandes quantités de stocks et de répondre à des niveaux de demande plus élevés.
 
 [POS]
 Text Box=32,250,350,0
@@ -178,7 +178,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Cette fois, vous allez faire ce qu'un directeur des ventes expérimenté fera : configurer manuellement une paire ~d'unités d'achat et de vente~ pour votre magasin. Double-cliquez sur un espace vide dans la disposition et sélectionnez ~Unité d'achat~ dans la liste. 
+Cette fois, vous allez faire ce qu'un gérant expérimenté fait : configurer manuellement une paire ~d'unités d'achat et de vente~ pour votre magasin. Double-cliquez sur un espace vide dans la grille d'aménagement et sélectionnez ~Unité d'achat~ dans la liste. 
 
 [POS]
 Text Box=32,250,350,0
@@ -190,7 +190,7 @@ Active Interface=Add Unit
 //-------------------------------------------------------------------//
 
 [TEXT]
-Sélectionnez ~Unité d'achat~ dans la liste. 
+Sélectionnez ~Unité d'achats~ dans la liste. 
 
 [POS]
 Text Box=32,250,250,0
@@ -201,7 +201,7 @@ Unit Exists=4, Purchasing
 //-------------------------------------------------------------------//
 
 [TEXT]
-Très bien ! Votre magasin a maintenant une nouvelle ~unité d'achat~. Procédez à l'ajout d'une ~unité de vente~. ~Double-cliquez~ sur une unité vide juste à côté de l'unité d'achat que vous venez de créer.
+Très bien ! Votre magasin a maintenant une nouvelle ~unité d'achats~.^^Ajoutez une ~unité de ventes~. ~Double-cliquez~ sur une unité vide juste à côté de l'unité d'achats que vous venez de créer.
 
 [POS]
 Text Box=32,250,350,0
@@ -224,7 +224,7 @@ Unit Exists=5, Sales
 //-------------------------------------------------------------------//
 
 [TEXT]
-Liez maintenant ~l'unité d'achat~ et ~l'unité de vente~ ensemble en cliquant sur la ligne de liaison entre elles. 
+Liez maintenant ~l'unité d'achats~ et ~l'unité de ventes~ ensemble en cliquant sur la ligne de liaison entre elles. 
 
 [POS]
 Text Box=60,280,250,0
@@ -245,7 +245,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Faisons fonctionner la nouvelle unité d'achat en lui indiquant à quel fournisseur vous souhaitez commander des produits. Cliquez sur ~unité d'achat~ pour la sélectionner.
+Faisons fonctionner la nouvelle unité d'achat en lui indiquant à quel fournisseur vous souhaitez commander des produits.^^Cliquez sur ~unité d'achat~ pour la sélectionner.
 
 [POS]
 Text Box=400,12,250,0
@@ -274,7 +274,7 @@ Unit has item=4
 //-------------------------------------------------------------------//
 
 [TEXT]
-Bon travail ! Vous avez réussi à améliorer la logistique de votre magasin et à y ajouter un nouveau produit. Ensuite, examinons les informations dont vous disposez concernant les produits que votre magasin vend.
+Bon travail ! Vous avez réussi à améliorer la logistique de votre magasin et à y ajouter un nouveau produit.^^Ensuite, examinons les informations dont vous disposez concernant les produits que votre magasin vend.
 
 [POS]
 Text Box=400,12,250,0
@@ -283,7 +283,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-La partie inférieure gauche de l'écran affiche maintenant des détails sur votre unité d'achat et le produit qu'elle transporte.^^Au-dessous de l'image du produit, vous pouvez voir l'identité de couleur du fournisseur. Cette couleur est ~grise si le produit est importé via un port maritime~. Si le fournisseur est une société commerciale, la couleur indiquée ici est sa ~couleur d'entreprise~.
+La partie inférieure gauche de l'écran affiche maintenant des détails sur votre unité d'achat et le produit qu'elle transporte.^^En dessous de l'image du produit, vous pouvez voir l'identité de couleur du fournisseur. Cette couleur est ~grise si le produit est importé via un port maritime~. Si le fournisseur est une société commerciale, la couleur indiquée ici est sa ~couleur d'entreprise~.
 
 [POS]
 Text Box=400,12,350,0
@@ -342,7 +342,7 @@ Skip game interface=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Le bouton "Arrêter l'achat" fera exactement cela. Votre unité d'achat cessera d'acheter le produit actuel. Pour l'instant, continuez à acheter le produit actuel. 
+Le bouton ~Stopper l'achat l'achat~ fera exactement cela. Votre unité d'achat cessera d'acheter le produit actuel. Pour l'instant, continuez à acheter le produit actuel. 
 
 [POS]
 Text Box=400,12,250,0
@@ -353,7 +353,7 @@ Skip game interface=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Les produits que votre unité d'achat a commandé devraient déjà avoir été livrés à votre magasin, et votre unité d'achat devrait avoir commencé à travailler avec votre unité de vente en lui fournissant du stock.^^Regardons votre ~unité de vente~ en la sélectionnant maintenant. 
+Les produits que votre unité d'achats a commandé devraient déjà avoir été livrés à votre magasin, et votre unité d'achats devrait avoir commencé à travailler avec votre unité de vente en lui fournissant du stock.^^Regardons votre ~unité de ventes~ en la sélectionnant maintenant. 
 
 [POS]
 Text Box=400,12,250,0
@@ -380,7 +380,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Ajoutez maintenant un groupe supplémentaire ~d'unités d'achat et de vente~ pour augmenter la variété des produits de votre magasin.
+Ajoutez maintenant un groupe supplémentaire ~d'unités d'achats et de ventes~ pour augmenter la variété des produits de votre magasin.
 
 [POS]
 Text Box=400,12,350,0
@@ -419,7 +419,7 @@ Pointer=636,110,735,123
 //-------------------------------------------------------------------//
 
 [TEXT]
-L'écran "Vue d'ensemble des établissements" affiche un résumé des établissements de la société.
+L'écran ~Vue d'ensemble des établissements~ affiche un résumé des établissements de la société.^^Sélectionnez maintenant ~Relations d'affaires~ .
 
 [POS]
 Text Box=285,480,350,0
@@ -446,7 +446,7 @@ Pointer=171,183,228,239
 //-------------------------------------------------------------------//
 
 [TEXT]
-Le ~Rapport détaillé sur les sociétés~ contient de nombreuses informations utiles sur votre société. Grâce aux options de menu étendues, vous pouvez glaner des informations détaillées sur votre propre société et sur toute société concurrente que vous sélectionnez. 
+Le ~Rapport détaillé sur les sociétés~ contient de nombreuses informations utiles sur votre société.^^Grâce aux options de menu étendues, vous pouvez glaner des informations détaillées sur votre propre société et sur toute société concurrente que vous sélectionnez. 
 
 [POS]
 Text Box=285,480,350,0
@@ -503,7 +503,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Voici un rappel de votre objectif pour ce tutoriel : atteindre ~des recettes annuel de 50 millions de dollars~ et ~un bénéfice annuel de 5 millions de dollars~. Le ~Rapport d'objectif~ donne un résumé de l'état de votre objectif. Vous pouvez l'ouvrir à tout moment en ouvrant le ~Centre d'information~ puis en sélectionnant ~Rapport d'objectif~, ou en appuyant sur la touche de raccourci 'G'~. 
+Voici un rappel de votre objectif pour ce tutoriel : atteindre ~des recettes annuelles de 50 millions de dollars~ et ~un bénéfice annuel de 5 millions de dollars~. Le ~Rapport d'objectif~ donne un résumé de l'état de votre objectif. Vous pouvez l'ouvrir à tout moment en ouvrant le ~Centre d'informations~ puis en sélectionnant ~Rapport d'objectif~, ou en appuyant sur la touche de raccourci 'G'~. 
 
 [POS]
 Flex Text Box=300,280,400,0

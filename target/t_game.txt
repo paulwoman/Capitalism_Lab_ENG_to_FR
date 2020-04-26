@@ -75,48 +75,48 @@
 [0342]<CCAP>Capital de départ des concurents|
 [0343]<CAGG>Agressivité de l’expansion des IA|
 [0344]<COML>Niveau de compétence des IA|
-[0346]<CSEC>Show Competitor Trade Secrets|
-[0347]<CCOM>Competence of Local Competitors|
-[0348]<CSEA>Seaports Importing Consumer Goods per City|
-[0349]<ISEA>Seaports Importing Industrial Goods per City|
-[0351]<ISUP>Constant Import Supply|
+[0346]<CSEC>Montrer les secrets commerciaux des concurents|
+[0347]<CCOM>Compétence des concurents locaux|
+[0348]<CSEA>Ports maritimes important des biens de consommation|
+[0349]<ISEA>Ports maritimes important des biens industriel|
+[0351]<ISUP>Approvisionnement constant des importations|
 [0352]<IQUA>Qualité des importations|
-[0460]<CCTI>Macro Economy Realism|
+[0460]<CCTI>Réalisme macro-économique|
 [0462]<DSMI>Type de magasin de détail|
 [0463]Souvent|<DSM1>
 [0464]Un|<DSM2>
 [0467]<GSYI>Année de départ|
-[0504]<AIG1>Grand strategy failed, cannot find location to build.|
-[0505]<GP41>Declare Bankruptcy, ARE YOU SURE ?|
+[0504]Erreur sur la grande stratégie, ne peut trouver un terrain pour construire.|<AIG1>
+[0505]Déclarer la faillite, ÊTES VOUS SUR ?|<GP41>
 [0506]Oui|<GP42>
 [0507]Non|<GP43>
-[0508]<IGM1>Do you really want to retire?|
+[0508]Voulez-vous réellement vous retirer?|<IGM1>
 [0509]Oui|<IGM2>
 [0510]non|<IGM3>
-[0511]<IGM4>Do you really want to quit to the Main Menu?|
+[0511]Voulez-vous vraiment quitter pour le menu principal?|<IGM4>
 [0512]Oui|<IGM5>
 [0513]Non|<IGM6>
-[0514]<IGM7>Do you really want to quit to Windows?|
+[0514]Voulez-vous vraiment quitter pour Windows?|<IGM7>
 [0515]Oui|<IGM8>
 [0516]Non|<IGM9>
 [0517]Oui|<PR31>
 [0518]Non|<PR32>
-[0519]The plan will replace the existing layout of the current firm. Poursuivre?|<PLB1>
-[0520]<PLB2>Delete the current plan, confirm ?|
-[0521]<PLB3>Replace the current plan with the highlighted firm's plan, confirm ?|
-[0522]<STK1>Sorry, you don't have enough cash.|
-[0531]<SYF1>Fail Loading Game|
-[0536]<CHE1>Wrong Firm|
-[0537]<CHE2>Firm can not be taken by player!!|
+[0519]Ce plan va remplacer la disposition existante de cet établissement. Poursuivre?|<PLB1>
+[0520]Effacer le plan courant, confirmer ?|<PLB2>
+[0521]Remplacer le plan courant avec le plan de l'établissement en surbrillance, confirmer ?|<PLB3>
+[0522]Désolé, vous n'avez pas la trésorerie suffisante.|<STK1>
+[0531]Échec dans le chargement de la partie|<SYF1>
+[0536]Mauvais établissement|<CHE1>
+[0537]L'établissement ne peut être pris par le joueur!!!|<CHE2>
 [0539]<FAP2>Null|
 [0540]Confirmer|<FAP3>
 [0541]Annuler|<FAP4>
-[0543]<FAP6>Sorry, you don't have enough cash.|
-[0546]<AII1>Game Design Mode Warning|
-[0547]<AII2>Grand strategy plan|
-[0548]<AII3> building farm input failed.|
+[0543]Désolé, vous n'avez pas la trésorerie suffisante.|<FAP6>
+[0546]Attention mode Game Design|<AII1>
+[0547]Plan de grande stratégie|<AII2>
+[0548] la construction d'intrants agricoles a échoué.|<AII3>
 [0549]<AII4> building factory input failed.|
-[0551]<FHQ1>Acquire Technology From Other Companies|
+[0551]Acquisition de technologies d'une autre entreprise|<FHQ1>
 [0552]<FHQ2>You cannot acquire new technology now. None of the other companies have a technology more advanced than yours.|
 [0553]<FIN1>Switch Brand Strategy|
 [0554]When you switch your brand strategy, all products will be labeled with the new brand and their brand ratings will be reset to zero as a result. Poursuivre?|<FIN2>
@@ -127,9 +127,9 @@
 [0559]<FIN7>Cannot purchase the stock|
 [0560]<FIN8>Issue New Shares|
 [0561]OK|<FIN9>
-[0562]<FMN1>Mansion Demolish|
+[0562]Démolir le manoir|<FMN1>
 [0564]<FM21>Change Group Manager|
-[0567]<GAM1>GOAL|
+[0567]OBJECTIF|<GAM1>
 [0568]<GME1>Lost Ownership|
 [0569]<GP21>Stock Exchange News|
 [0570]<JMF1>Upgrade Production Technology|
@@ -139,10 +139,10 @@
 [0574]<NGO2>Cannot purchase the firm|
 [0575]<NGO3>Cannot purchase the technology|
 [0576]<PR31>Salary Raise Request|
-[0577]<PLB1>Layout Plan|
+[0577]Disposition du plan|<PLB1>
 [0578]<PLB2>The highlighted firm doesn't have a layout.|
 [0579]<PLB3>The firm type of the current plan is different from that of the highlighted firm.|
-[0580]<SK21>Stock Exchange News|
+[0580]Nouvelles de la bourse|<SK21>
 [0581]<SK51>Tender Offer|
 [0582]<SYD1>CHEAT ENABLE|
 [0583]Sauvegarder Jeux|<SYF1>
@@ -156,31 +156,31 @@
 [0591]<AIS3>Real Estate|
 [0592]<CET1>Sowing Month|
 [0593]<CET2>Harvesting Month|
-[0606]<DIJ1>Supplier|
+[0606]Fournisseur|<DIJ1>
 [0607]Ville|<DIJ2>
-[0608]<DIJ3>Distance|
+[0608]Distance|<DIJ3>
 [0609]Prix|<DIJ4>
 [0610]<DIJ5>Freight Cost|
-[0611]<DIJ6>Supply|
-[0612]<DIJ7>Demand|
+[0611]Approvisionnement|<DIJ6>
+[0612]Demande|<DIJ7>
 [0613]Ports maritimes|<DIJ8>
-[0614]<DIJ9>Quality|
+[0614]Qualité|<DIJ9>
 [0615]Marque|<DI10>
-[0616]<DI11>OVERALL|
+[0616]TOUS|<DI11>
 [0617]SÉLECTIONNER FOURNISSEUR|<DI12>
-[0619]<DI14>Select Building Location|
+[0619]Sélectionner un emplacement de construction|<DI14>
 [0620]Annuler|<DI15>
 [0621]Ok|<DI16>
 [0622]<DI17>CLIENT LIST|
 [0624]<DI19>SELECT ADVERTISING MEDIA|
-[0625]<DI20>Go to Media|
+[0625]Allez au Média|<DI20>
 [0626]Tous les produits|<DI21>
-[0627]<DI22>All cities|
+[0627]Toutes villes|<DI22>
 [0628]Tous les fournisseurs|<DI23>
 [0629]Client|<DI24>
 [0630]Média|<DI25>
 [0631]Points de classements|<DI26>
-[0632]<DI27>Advertising Cost (CPM)|
+[0632]Coût publicitaire (CPM)|<DI27>
 [0633]Vente au détail|<ECO0>
 [0634]Fabrication|<ECO1>
 [0635]Agriculture|<ECO2>
@@ -752,8 +752,8 @@
 [1494]<0559>Corporation Takeover and Merger|
 [1495]<0560>Strengthening Corporation Ownership|
 [1496]<0561>Endure Loss for Avoiding Layoff|
-[1497]<0562>Purchasing Goods from Own Firms|
-[1498]<0563>Personal Wealth|
+[1497]<0562>Acheter les produits de vos établissements|
+[1498]<0563>richesse personnelle|
 [1499]<0564>Market Cap of Companies Controlled|
 [1500]<0565>Score:|
 [1501]<0566> billion x 100|
