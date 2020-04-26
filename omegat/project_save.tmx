@@ -600,8 +600,8 @@
       <tuv lang="en-US">
         <seg>A ~Purchasing Unit~ does just that - it purchases the product you have selected from the supplier.^^Upon delivery the ~Purchasing Unit~ passes the stock to the ~Sales Unit~ which offers the product to customers.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T094910Z" creationid="Olivier" creationdate="20200423T134820Z">
-        <seg>Une ~unité d'achat~ fait exactement cela : elle achète le produit que vous avez sélectionné auprès du fournisseur.^^ À la livraison, ~l'unité d'achat~ transmet le stock à ~l'unité de vente~ qui offre le produit aux clients.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T095923Z" creationid="Olivier" creationdate="20200423T134820Z">
+        <seg>Une ~unité d'achats~ fait exactement cela : elle achète le produit que vous avez sélectionné auprès du fournisseur.^^ À la livraison, ~l'unité d'achats~ transmet le stock à ~l'unité de ventes~ qui offre le produit aux clients.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4307,8 +4307,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>In the previous tutorial, you only had to click the ~Add Product icon~ and select a product from the suppler list, and the selected product automatically appeared in your store.^^What you didn't see was the ~Purchasing and Sales units~ in your store.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T094304Z" creationid="Olivier" creationdate="20200423T134511Z">
-        <seg>Dans le tutoriel précédent, il vous suffisait de cliquer sur l'icône ~Ajouter un produit~ et de sélectionner un produit dans la liste des fournisseurs, et le produit sélectionné apparaissait automatiquement dans votre magasin. Ce que vous ne voyiez pas, c'étaient les ~Unités d'achat et de vente~ dans votre magasin.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T095835Z" creationid="Olivier" creationdate="20200423T134511Z">
+        <seg>Dans le tutoriel précédent, il vous suffisait de cliquer sur l'icône ~Ajouter un produit~ et de sélectionner un produit dans la liste des fournisseurs, et le produit sélectionné apparaissait automatiquement dans votre magasin. Ce que vous ne voyiez pas, c'étaient les ~Unités d'achats et de ventes~ dans votre magasin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4859,8 +4859,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Let's get the new Purchasing Unit working by telling it which supplier you want to order products from.^^Click the ~Purchasing Unit~ to select it.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T150517Z" creationid="Olivier" creationdate="20200423T145311Z">
-        <seg>Faisons fonctionner la nouvelle unité d'achat en lui indiquant à quel fournisseur vous souhaitez commander des produits. Cliquez sur ~unité d'achat~ pour la sélectionner.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T100119Z" creationid="Olivier" creationdate="20200423T145311Z">
+        <seg>Faisons fonctionner la nouvelle unité d'achat en lui indiquant à quel fournisseur vous souhaitez commander des produits.^^Cliquez sur ~unité d'achat~ pour la sélectionner.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5419,8 +5419,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Now link the ~Purchasing Unit~ and the ~Sales Unit~ together by clicking the linkage line between them.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T150440Z" creationid="Olivier" creationdate="20200423T145212Z">
-        <seg>Liez maintenant ~l'unité d'achat~ et ~l'unité de vente~ ensemble en cliquant sur la ligne de liaison entre elles.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T100104Z" creationid="Olivier" creationdate="20200423T145212Z">
+        <seg>Liez maintenant ~l'unité d'achats~ et ~l'unité de ventes~ ensemble en cliquant sur la ligne de liaison entre elles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5699,8 +5699,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>One is labeled ~Purchase~ and it is connected to a ~Sales~ unit.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T150052Z" creationid="Olivier" creationdate="20200423T134650Z">
-        <seg>L'une d'entre elles est appelée ~Achat~ et est reliée à une unité ~Vente~.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T095852Z" creationid="Olivier" creationdate="20200423T134650Z">
+        <seg>L'une d'entre elles est appelée ~Achats~ et est reliée à une unité ~Ventes~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7171,8 +7171,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Select ~Purchasing Unit~ from the list.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T150329Z" creationid="Olivier" creationdate="20200423T143535Z">
-        <seg>Sélectionnez ~Unité d'achat~ dans la liste.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T100040Z" creationid="Olivier" creationdate="20200423T143535Z">
+        <seg>Sélectionnez ~Unité d'achats~ dans la liste.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8163,8 +8163,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>The lower left hand of the screen now displays detail about your Purchasing Unit and the product it carries.^^Below the product image, you can see the color identity of the supplier.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T145503Z" creationid="Olivier" creationdate="20200423T145503Z">
-        <seg>La partie inférieure gauche de l'écran affiche maintenant des détails sur votre unité d'achat et le produit qu'elle transporte.^^Au-dessous de l'image du produit, vous pouvez voir l'identité de couleur du fournisseur.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T100358Z" creationid="Olivier" creationdate="20200423T145503Z">
+        <seg>La partie inférieure gauche de l'écran affiche maintenant des détails sur votre unité d'achat et le produit qu'elle transporte.^^En dessous de l'image du produit, vous pouvez voir l'identité de couleur du fournisseur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8203,8 +8203,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>The products your purchasing unit has ordered should have been delivered to your store by now, and your Purchasing Unit should have started working with your Sales Unit by supplying stock to it.^^Let's take a look at your ~Sales Unit~ by selecting it now.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T125539Z" creationid="Olivier" creationdate="20200423T151202Z">
-        <seg>Les produits que votre unité d'achat a commandé devraient déjà avoir été livrés à votre magasin, et votre unité d'achat devrait avoir commencé à travailler avec votre unité de vente en lui fournissant du stock.^^Regardons votre ~unité de vente~ en la sélectionnant maintenant.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T100623Z" creationid="Olivier" creationdate="20200423T151202Z">
+        <seg>Les produits que votre unité d'achats a commandé devraient déjà avoir été livrés à votre magasin, et votre unité d'achats devrait avoir commencé à travailler avec votre unité de vente en lui fournissant du stock.^^Regardons votre ~unité de ventes~ en la sélectionnant maintenant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8347,8 +8347,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>The ~Stop Purchase~ button will do exactly that.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151102Z" creationid="Olivier" creationdate="20200423T151102Z">
-        <seg>Le bouton "Arrêter l'achat" fera exactement cela.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T100553Z" creationid="Olivier" creationdate="20200423T151102Z">
+        <seg>Le bouton ~Stopper l'achat l'achat~ fera exactement cela.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8411,8 +8411,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>There are several indicators on the ~Purchasing Unit~.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T150149Z" creationid="Olivier" creationdate="20200423T134907Z">
-        <seg>Il existe plusieurs indicateurs dans ~Unité d'achat~.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T095933Z" creationid="Olivier" creationdate="20200423T134907Z">
+        <seg>Il existe plusieurs indicateurs dans ~Unité d'achats~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9667,8 +9667,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>You have successfully upgraded your store's logistics and added a new product to your store.^^Next, let's have a look at the information available to you regarding the products your store is selling.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T145441Z" creationid="Olivier" creationdate="20200423T145441Z">
-        <seg>Vous avez réussi à améliorer la logistique de votre magasin et à y ajouter un nouveau produit. Ensuite, examinons les informations dont vous disposez concernant les produits que votre magasin vend.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T100141Z" creationid="Olivier" creationdate="20200423T145441Z">
+        <seg>Vous avez réussi à améliorer la logistique de votre magasin et à y ajouter un nouveau produit.^^Ensuite, examinons les informations dont vous disposez concernant les produits que votre magasin vend.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10028,8 +10028,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Your store now has a new ~Purchasing Unit~.^^Proceed to add a ~Sales Unit~.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T095826Z" creationid="Olivier" creationdate="20200423T144837Z">
-        <seg>Votre magasin a maintenant une nouvelle ~unité d'achat~.^^Ajoutez une ~unité de ventes~.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T100045Z" creationid="Olivier" creationdate="20200423T144837Z">
+        <seg>Votre magasin a maintenant une nouvelle ~unité d'achats~.^^Ajoutez une ~unité de ventes~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12238,8 +12238,8 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
       <tuv lang="en-US">
         <seg>~Double click~ an empty unit right next to the Purchasing Unit you have just set up.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T150402Z" creationid="Olivier" creationdate="20200423T144852Z">
-        <seg>~Double-cliquez~ sur une unité vide juste à côté de l'unité d'achat que vous venez de créer.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T100056Z" creationid="Olivier" creationdate="20200423T144852Z">
+        <seg>~Double-cliquez~ sur une unité vide juste à côté de l'unité d'achats que vous venez de créer.</seg>
       </tuv>
     </tu>
     <tu>
