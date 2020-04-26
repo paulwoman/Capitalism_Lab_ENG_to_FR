@@ -1344,8 +1344,8 @@
       <tuv lang="en-US">
         <seg>As soon as your factory receives Timber from the supplier, the Manufacturing Unit begins to produce Bed.^^Shortly afterwards, the Manufacturing Unit will send finished products to the Sales Unit and your Bed will be available for sale to the world.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T125319Z" creationid="Olivier" creationdate="20200424T094322Z">
-        <seg>Dès que votre usine reçoit le bois du fournisseur, l'unité de fabrication commence à produire le lit. Peu de temps après, l'unité de fabrication envoie les produits finis à l'unité de vente et votre lit est disponible pour la vente dans le monde entier.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T154829Z" creationid="Olivier" creationdate="20200424T094322Z">
+        <seg>Dès que votre usine reçoit le bois du fournisseur, l'unité de fabrication commence à produire le lit.^^ Peu de temps après, l'unité de fabrication envoie les produits finis à l'unité de vente et votre lit est disponible pour la vente dans le monde entier.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2418,6 +2418,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T163259Z" creationid="Inrepublica" creationdate="20200422T163259Z">
         <seg>Inversement, si cet indice est inférieur à 100, les entreprises de logiciels seront moins rentables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Conversely, their lengths decrease when crops are being sold.^</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T155724Z" creationid="Olivier" creationdate="20200426T155724Z">
+        <seg>Inversement, leur longueur diminue lorsque les récoltes sont vendues.^</seg>
       </tuv>
     </tu>
     <tu>
@@ -8617,6 +8625,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The blue bars increases in length when crops are being harvested.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T155708Z" creationid="Olivier" creationdate="20200426T155708Z">
+        <seg>La longueur des barres bleues augmente au moment de la récolte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The central bank requires banks to set aside enough capital to cover unexpected losses and keep themselves solvent in a crisis.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203228Z" creationid="Inrepublica" creationdate="20200422T203228Z">
@@ -8873,6 +8889,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The type of crop that being grown.^</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T155522Z" creationid="Olivier" creationdate="20200426T155522Z">
+        <seg>Le type de produit cultivé.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The type of livestock being raised.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T173809Z" creationid="Inrepublica" creationdate="20200422T173809Z">
@@ -9099,8 +9123,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>There's a lot of unused space in your factory - six empty units to be exact - so let's utilize them.^^In the row of empty units immediately below your existing units ~add~ another set of ~Purchasing Unit, Manufacturing unit and Sales unit~ from left to right.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T134140Z" creationid="Olivier" creationdate="20200424T094406Z">
-        <seg>Il y a beaucoup d'espace inutilisé dans votre usine - six unités vides pour être exact - alors utilisons les. Dans la rangée d'unités vides juste en dessous de vos unités existantes ~ajoutez~ un autre ensemble d'unités ~Achats, Fabrications et Ventes~ de gauche à droite.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T154854Z" creationid="Olivier" creationdate="20200424T094406Z">
+        <seg>Il y a beaucoup d'espace inutilisé dans votre usine - six unités vides pour être exact - alors utilisons les.^^Dans la rangée d'unités vides juste en dessous de vos unités existantes ~ajoutez~ un autre ensemble d'unités ~Achats, Fabrications et Ventes~ de gauche à droite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10149,6 +10173,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T101652Z" creationid="Olivier" creationdate="20200424T101652Z">
         <seg>Lorsqu'un consommateur achète un produit, il prend en compte le ~prix~, la ~qualité~ et la ~marque~ du produit. Pour la ~qualité~, il est influencé par les qualités des matières premières utilisées et la technologie de production, que vous avez déjà apprises dans le tutoriel précédent. Pour le ~prix~, c'est très simple : un prix plus bas rend un produit plus compétitif sur le marché. Une ~marque~ est un nom distinctif destiné à identifier et à différencier les produits d'un vendeur de ceux des concurrents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When crops are harvested, they are stored in barns, which are represented by the blue bars.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T155651Z" creationid="Olivier" creationdate="20200426T155651Z">
+        <seg>Lorsque les cultures sont récoltées, elles sont stockées dans des granges, qui sont représentées par les barres bleues.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12930,6 +12962,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[Crop Growing Unit]</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T155407Z" creationid="Olivier" creationdate="20200426T155407Z">
+        <seg>[Crop Growing Unit]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ENVIRONMENT]</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T132726Z" creationid="Olivier" creationdate="20200423T132726Z">
@@ -13636,6 +13676,22 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>~Crop Name~</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T155418Z" creationid="Olivier" creationdate="20200426T155358Z">
+        <seg>~Nom de la culture~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~Crop in Barn~</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T155623Z" creationid="Olivier" creationdate="20200426T155600Z">
+        <seg>~Récolte dans une grange~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>~Discount megastores~ can sell anything which makes them very versatile.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T064602Z" creationid="Olivier" creationdate="20200423T133527Z">
@@ -13664,6 +13720,14 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T151451Z" creationid="Olivier" creationdate="20200425T151451Z">
         <seg>~Le bénéfice par action~ est le bénéfice d'exploitation d'une société au cours des 365 derniers jours divisé par le ~nombre total d'actions en circulation~. Lorsqu'une société émet de nouvelles actions, le ~bénéfice par action~ sera dilué car le bénéfice de la société sera divisé par un plus grand nombre d'actions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~Growth Progress~</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T155806Z" creationid="Olivier" creationdate="20200426T155806Z">
+        <seg>~Progression de la croissance~</seg>
       </tuv>
     </tu>
     <tu>
