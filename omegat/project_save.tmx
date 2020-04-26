@@ -576,8 +576,8 @@
       <tuv lang="en-US">
         <seg>A specialty stores is more attractive to customers interested in such products.^^For example, a computer store selling computers should outsell an adjacent department store selling the same product.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T063235Z" creationid="Olivier" creationdate="20200423T133730Z">
-        <seg>Un magasin spécialisé est plus attrayant pour les clients intéressés par de tels produits. Par exemple, un magasin d'informatique qui vend des ordinateurs peut vendre plus cher qu'un grand magasin voisin qui vend le même produit.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T094022Z" creationid="Olivier" creationdate="20200423T133730Z">
+        <seg>Un magasin spécialisé est plus attrayant pour les clients intéressés par de tels produits.^^Par exemple, un magasin d'informatique qui vend des ordinateurs peut vendre plus cher qu'un grand magasin voisin qui vend le même produit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -600,8 +600,8 @@
       <tuv lang="en-US">
         <seg>A ~Purchasing Unit~ does just that - it purchases the product you have selected from the supplier.^^Upon delivery the ~Purchasing Unit~ passes the stock to the ~Sales Unit~ which offers the product to customers.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T150122Z" creationid="Olivier" creationdate="20200423T134820Z">
-        <seg>Une ~unité d'achat~ fait exactement cela : elle achète le produit que vous avez sélectionné auprès du fournisseur. À la livraison, l'unité d'achat transmet le stock à ~l'unité de vente~ qui offre le produit aux clients.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T094910Z" creationid="Olivier" creationdate="20200423T134820Z">
+        <seg>Une ~unité d'achat~ fait exactement cela : elle achète le produit que vous avez sélectionné auprès du fournisseur.^^ À la livraison, ~l'unité d'achat~ transmet le stock à ~l'unité de vente~ qui offre le produit aux clients.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1304,8 +1304,8 @@
       <tuv lang="en-US">
         <seg>As you've got more experienced in retailing, you can now choose from a range of retail store types to build, including department stores, convenience stores, supermarkets, discount megastore, and various types of specialty stores.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T064515Z" creationid="Olivier" creationdate="20200423T133450Z">
-        <seg>Comme vous avez acquis plus d'expérience dans la vente au détail, vous pouvez maintenant choisir un type de magasins à construire, y compris des grands magasins, des épicerie, des supermarchés, des centres commerciaux et divers types de magasins spécialisés.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T093809Z" creationid="Olivier" creationdate="20200423T133450Z">
+        <seg>Comme vous avez acquis plus d'expérience dans la vente au détail, vous pouvez maintenant choisir un type de magasins à construire, y compris des grands magasins, des épiceries, des supermarchés, des centres commerciaux et divers types de magasins spécialisés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4227,8 +4227,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>If, for whatever reason, the supply of a product to the store is interrupted, you can easily replace it with another product.^^On the other hand, ~a specialty store~ can only sell a specific range of products.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T064755Z" creationid="Olivier" creationdate="20200423T133550Z">
-        <seg>Si, pour une raison quelconque, l'approvisionnement d'un produit venait a faire défaut, vous pouvez facilement le remplacer par un autre produit. D'autre part, ~un magasin spécialisé~ ne peut vendre qu'une gamme spécifique de produits.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T093900Z" creationid="Olivier" creationdate="20200423T133550Z">
+        <seg>Si, pour une raison quelconque, l'approvisionnement d'un produit venait a faire défaut, vous pouvez facilement le remplacer par un autre produit.^^D'autre part, ~un magasin spécialisé~ ne peut vendre qu'une gamme spécifique de produits.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4307,8 +4307,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>In the previous tutorial, you only had to click the ~Add Product icon~ and select a product from the suppler list, and the selected product automatically appeared in your store.^^What you didn't see was the ~Purchasing and Sales units~ in your store.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T065547Z" creationid="Olivier" creationdate="20200423T134511Z">
-        <seg>Dans le tutoriel précédent, il vous suffisait de cliquer sur l'icône "Ajouter un produit" et de sélectionner un produit dans la liste des fournisseurs, et le produit sélectionné apparaissait automatiquement dans votre magasin. Ce que vous ne voyiez pas, c'étaient les ~Unités d'achat et de vente~ dans votre magasin.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T094304Z" creationid="Olivier" creationdate="20200423T134511Z">
+        <seg>Dans le tutoriel précédent, il vous suffisait de cliquer sur l'icône ~Ajouter un produit~ et de sélectionner un produit dans la liste des fournisseurs, et le produit sélectionné apparaissait automatiquement dans votre magasin. Ce que vous ne voyiez pas, c'étaient les ~Unités d'achat et de vente~ dans votre magasin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4347,8 +4347,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>In this tutorial, you will be trained to become a better retail manager and learn how to customize your retail stores to maximize their operational efficiency and profitability.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T064326Z" creationid="Olivier" creationdate="20200423T133032Z">
-        <seg>Dans ce tutoriel, vous serez formé pour devenir un meilleur directeur de magasins et apprendre à les personnaliser afin de maximiser leur efficacité opérationnelle et leur rentabilité.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T093713Z" creationid="Olivier" creationdate="20200423T133032Z">
+        <seg>Dans ce tutoriel, vous serez formé pour devenir un meilleur gérant et apprendre à les personnaliser afin de maximiser leur efficacité opérationnelle et leur rentabilité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5243,8 +5243,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Next, you will see the yellow Supply bar and the orange Demand bar.^^The ~yellow supply bar~ tells the amount of supply from the supplier, and the ~orange demand bar~ measures the consumer demand for the product.^^If the supply bar is shorter than the demand bar, there is a supply shortage.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T065711Z" creationid="Olivier" creationdate="20200423T142816Z">
-        <seg>Ensuite, vous verrez la barre jaune de l'offre et la barre orange de la demande. La ~barre jaune de l'offre~ indique la quantité d'offre du fournisseur, et la ~barre orange de la demande~ mesure la demande du consommateur pour le produit. Si la barre de l'offre est plus courte que la barre de la demande, il y a une pénurie.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T095048Z" creationid="Olivier" creationdate="20200423T142816Z">
+        <seg>Ensuite, vous verrez la barre jaune de l'offre et la barre orange de la demande.^^La ~barre jaune de l'offre~ indique la quantité d'offre du fournisseur, et la ~barre orange de la demande~ mesure la demande du consommateur pour le produit.^^Si la barre de l'offre est plus courte que la barre de la demande, il y a une pénurie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5451,8 +5451,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Now select ~Discount Megastore~ from the menu and choose a location to build your megastore.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T064946Z" creationid="Olivier" creationdate="20200423T134312Z">
-        <seg>Sélectionnez maintenant ~centre commercial~ dans le menu et choisissez un emplacement pour construire votre centre.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T094321Z" creationid="Olivier" creationdate="20200423T134312Z">
+        <seg>Sélectionnez maintenant ~Centre commercial~ dans le menu et choisissez un emplacement pour le construire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6931,8 +6931,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Right now as the unit is new that level is 1.^^With time and training the level will increase and the unit will become more efficient, being able to handle greater stock quantities and meeting higher demand levels.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T143443Z" creationid="Olivier" creationdate="20200423T143443Z">
-        <seg>Actuellement, comme l'unité est nouvelle, ce niveau est de 1. Avec le temps et la formation, le niveau augmentera et l'unité deviendra plus efficace, étant capable de gérer de plus grandes quantités de stocks et de répondre à des niveaux de demande plus élevés.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T095210Z" creationid="Olivier" creationdate="20200423T143443Z">
+        <seg>Actuellement, comme l'unité est nouvelle, ce niveau est de 1.^^ Avec le temps et la formation, le niveau augmentera et l'unité deviendra plus efficace, étant capable de gérer de plus grandes quantités de stocks et de répondre à des niveaux de demande plus élevés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8763,8 +8763,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>This time, you are going to do what an experienced retail manager will do -- manually set up a pair of ~Purchasing and Sale Units~ for your retail store.^^~Double click~ an empty unit space on the layout grid now and select ~Purchasing Unit~ from the list.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T065844Z" creationid="Olivier" creationdate="20200423T143510Z">
-        <seg>Cette fois, vous allez faire ce qu'un directeur des ventes expérimenté fera : configurer manuellement une paire ~d'unités d'achat et de vente~ pour votre magasin. Double-cliquez sur un espace vide dans la disposition et sélectionnez ~Unité d'achat~ dans la liste.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T095440Z" creationid="Olivier" creationdate="20200423T143510Z">
+        <seg>Cette fois, vous allez faire ce qu'un gérant expérimenté fait : configurer manuellement une paire ~d'unités d'achat et de vente~ pour votre magasin. Double-cliquez sur un espace vide dans la grille d'aménagement et sélectionnez ~Unité d'achat~ dans la liste.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10028,8 +10028,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Your store now has a new ~Purchasing Unit~.^^Proceed to add a ~Sales Unit~.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T150349Z" creationid="Olivier" creationdate="20200423T144837Z">
-        <seg>Votre magasin a maintenant une nouvelle ~unité d'achat~. Procédez à l'ajout d'une ~unité de vente~.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T095826Z" creationid="Olivier" creationdate="20200423T144837Z">
+        <seg>Votre magasin a maintenant une nouvelle ~unité d'achat~.^^Ajoutez une ~unité de ventes~.</seg>
       </tuv>
     </tu>
     <tu>
