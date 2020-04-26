@@ -158,7 +158,6 @@ supermarkets	supermarchés
 Tech	Tech	A laisser tel quel ?
 production technology	technologie de production
 land	terrainunit's level	niveau de l'unité
-purchasing unit	unité d'achat
 manufacturing unit	unité fabrication
 advertising unit	unité publicité
 sales unit	unité ventes
@@ -186,3 +185,7 @@ annual revenue	recettes annuelles
 retail manager	gérant
 farming	agriculture
 occupancy	occupation
+purchasing unit	unité d'achats
+stock	stock, action	quand cela partle de marchandise
+stock	action	Quand cela parle "finance"
+layout grid	grille d'aménagement
