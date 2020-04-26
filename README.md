@@ -19,6 +19,14 @@ En particulier attention au paramètre "segmenter le texte source en paragraphe 
 
 N'hésiter pas à jeter un coup d'oeil sur le wiki pour avoir quelques informations sur l'homogénéité de la traduction.
 
+Attention également au fichier translate.txt qui est particulier et qui est très mal géré par OmegaT. En conséquence celui-ci doit être édité d'abord directement sur github. Il sera ainsi importé lors de la prochaine synchronisation dans OmegaT. Attention a ne pas modifier la première occurence en anglais qui sert de référence au logiciel pour la tradcution. Ainsi un formatage correct ressemble à ceci:
+```
+~
+You|
+Vous|
+~
+```
+
 Une fois vos contributions effectuées, cliquez sur Enregistrer et ensuite indiquez votre nom d'utilisateur et votre mot de passe github.
 
 Les fichiers traduits sont de temps en temps générés dans le dossier "target", mais vous pouvez vous servir d'OmegaT pour générer la dernière version en cours.
