@@ -1958,6 +1958,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>City=New York City</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T085530Z" creationid="Olivier" creationdate="20200426T085530Z">
+        <seg>City=New York City</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>City=Philadelphia</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151258Z" creationid="Inrepublica" creationdate="20200423T151258Z">
@@ -6977,6 +6985,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Score change=170</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T085539Z" creationid="Olivier" creationdate="20200426T085539Z">
+        <seg>Score change=170</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Score change=50</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151500Z" creationid="Inrepublica" creationdate="20200423T151500Z">
@@ -7245,6 +7261,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151238Z" creationid="Inrepublica" creationdate="20200423T151238Z">
         <seg>Stock Market=No</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stock Market=Yes</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T085528Z" creationid="Olivier" creationdate="20200426T085528Z">
+        <seg>Stock Market=Yes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stock Price=100</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T085536Z" creationid="Olivier" creationdate="20200426T085536Z">
+        <seg>Stock Price=100</seg>
       </tuv>
     </tu>
     <tu>
@@ -8753,6 +8785,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title=5.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T085525Z" creationid="Olivier" creationdate="20200426T085525Z">
+        <seg>Title=5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To access the ~Brand Strategy~ screen, open the ~Corporate Detail~ report by pressing the shortcut key ~'D'~ now.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T145553Z" creationid="Olivier" creationdate="20200424T145553Z">
@@ -8917,6 +8957,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T142345Z" creationid="Olivier" creationdate="20200425T142345Z">
         <seg>Tutorial=TUT04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tutorial=TUT05</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T085542Z" creationid="Olivier" creationdate="20200426T085542Z">
+        <seg>Tutorial=TUT05</seg>
       </tuv>
     </tu>
     <tu>
