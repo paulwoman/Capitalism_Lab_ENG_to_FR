@@ -10850,6 +10850,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0511]Do you really want to quit to the Main Menu?|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T101056Z" creationid="Inrepublica" creationdate="20200426T101056Z">
+        <seg>[0511]Voulez-vous vraiment quitter pour le menu principal?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0512]Yes|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T200242Z" creationid="Inrepublica" creationdate="20200422T200242Z">
@@ -10862,6 +10870,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T200251Z" creationid="Inrepublica" creationdate="20200422T200251Z">
         <seg>[0513]Non|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0514]Do you really want to quit to Windows?|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T101125Z" creationid="Inrepublica" creationdate="20200426T101125Z">
+        <seg>[0514]Voulez-vous vraiment quitter pour Windows?|</seg>
       </tuv>
     </tu>
     <tu>
@@ -10894,6 +10910,30 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T200338Z" creationid="Inrepublica" creationdate="20200422T200338Z">
         <seg>[0518]Non|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0519]The plan will replace the existing layout of the current firm.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T101234Z" creationid="Inrepublica" creationdate="20200426T101234Z">
+        <seg>[0519]Ce plan va remplacer la disposition existante de cet établissement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0520]Delete the current plan, confirm ?|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T101305Z" creationid="Inrepublica" creationdate="20200426T101305Z">
+        <seg>[0520]Effacer le plan courant, confirmer ?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0521]Replace the current plan with the highlighted firm's plan, confirm ?|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T101343Z" creationid="Inrepublica" creationdate="20200426T101343Z">
+        <seg>[0521]Remplacer le plan courant avec le plan de l'établissement en surbrillance, confirmer ?|</seg>
       </tuv>
     </tu>
     <tu>
