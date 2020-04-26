@@ -55,7 +55,7 @@ Il est à préciser que les fichiers proposés actuellement doivent encore être
 | :--------------- |:--------------- |:---------------|:---------------|:---------------|
 | tut01.txt        | 100 %           | ok             | ok             | ok             |
 | tut02.txt        | 100 %           | ok             | ok             | ok             |
-| tut03.txt        | 100 %           |                |                |                |
+| tut03.txt        | 100 %           | ok             |                | ok             |
 | tut04.txt        | 100 %           |                |                |                |
 | tut05.txt        | 100 %           |                |                |                |
 | tut06.txt        |   0 %           |                |                |                |
