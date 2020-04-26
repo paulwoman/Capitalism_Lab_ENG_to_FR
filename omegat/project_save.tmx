@@ -4857,6 +4857,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It tells you how many people are watching the media.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T143913Z" creationid="Olivier" creationdate="20200426T143913Z">
+        <seg>Elle vous indique combien de personnes regardent les médias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It was saved with a different version of Capitalism.|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T162742Z" creationid="Inrepublica" creationdate="20200423T162742Z">
@@ -8657,6 +8665,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The rating points of the media in which the product is being advertised.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T143858Z" creationid="Olivier" creationdate="20200426T143858Z">
+        <seg>Les points de classement des médias qui font la publicité du produit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The report displays ~market dominance by industry~ as well as ~by product class~.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T180156Z" creationid="Acer" creationdate="20200424T180156Z">
@@ -8985,6 +9001,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This bar represents what the unit spends advertising the product monthly.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T144007Z" creationid="Olivier" creationdate="20200426T144007Z">
+        <seg>Cette barre représente ce que l'unité dépense mensuellement en publicité pour le produit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This can have a positive effect on earnings per share, which in turn can have ~a positive effect~ on the stock price.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T154235Z" creationid="Olivier" creationdate="20200425T154235Z">
@@ -9301,6 +9325,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T134223Z" creationid="Olivier" creationdate="20200424T095046Z">
         <seg>Cette ~unité de fabrication~ va maintenant produire le ~club de golf~. Découvrez comment nous avons utilisé une ~unité d'achats~ existante fournissant du bois~, et en conjonction avec une nouvelle unité d'achat ~acier~, pour fabriquer un produit différent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thus, the higher the rating points, the greater the effect of the advertising.^</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T143928Z" creationid="Olivier" creationdate="20200426T143928Z">
+        <seg>Ainsi, plus les points de classement sont élevés, plus l'effet de la publicité est important.^</seg>
       </tuv>
     </tu>
     <tu>
@@ -13392,6 +13424,22 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T084644Z" creationid="Inrepublica" creationdate="20200422T173754Z">
         <seg>~Nom du bétail~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~Monthly Advertising Expense~</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T143953Z" creationid="Olivier" creationdate="20200426T143953Z">
+        <seg>~Dépenses mensuelles de publicité~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~Rating Points~</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T143715Z" creationid="Olivier" creationdate="20200426T143715Z">
+        <seg>~Points de classements~</seg>
       </tuv>
     </tu>
     <tu>
