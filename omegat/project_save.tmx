@@ -10730,10 +10730,34 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0349]&lt;ISEA&gt;Seaports Importing Industrial Goods per City|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T100642Z" creationid="Inrepublica" creationdate="20200426T100642Z">
+        <seg>[0349]&lt;ISEA&gt;Ports maritimes important des biens industriel|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0351]&lt;ISUP&gt;Constant Import Supply|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T100705Z" creationid="Inrepublica" creationdate="20200426T100705Z">
+        <seg>[0351]&lt;ISUP&gt;Approvisionnement constant des importations|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0352]&lt;IQUA&gt;Import Quality|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T200141Z" creationid="Inrepublica" creationdate="20200422T200141Z">
         <seg>[0352]&lt;IQUA&gt;Qualité des importations|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0460]&lt;CCTI&gt;Macro Economy Realism|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T100715Z" creationid="Inrepublica" creationdate="20200426T100715Z">
+        <seg>[0460]&lt;CCTI&gt;Réalisme macro-économique|</seg>
       </tuv>
     </tu>
     <tu>
@@ -10766,6 +10790,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T200202Z" creationid="Inrepublica" creationdate="20200422T200202Z">
         <seg>[0467]&lt;GSYI&gt;Année de départ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0504]Grand strategy failed, cannot find location to build.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T100806Z" creationid="Inrepublica" creationdate="20200426T100806Z">
+        <seg>[0504]Erreur sur la grande stratégie, ne peut trouver un terrain pour construire.|</seg>
       </tuv>
     </tu>
     <tu>
