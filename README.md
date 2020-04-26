@@ -45,6 +45,7 @@ Il est à préciser que les fichiers proposés actuellement doivent encore être
 | t_game.txt       |   0 %           |                |                |                |
 | gm_help.txt      | 100 %           |                |                |                |
 | help.txt         |   0 %           |                |                |                |
+| translate.txt    |                 |                |                |                |
 
 ## Fichiers qui doivent s'installer dans un dossier dédié:
 
