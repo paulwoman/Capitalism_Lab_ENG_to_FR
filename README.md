@@ -82,3 +82,5 @@ Pour ce faire, éditez simplement copy_translation.bat avec un éditeur de texte
 Il y a aussi la version "copy_translation_defaut" qui permets de copier la traduction si vous mis le fichier d'OmegaT dans le dossier par défaut. 
 
 Faites l'opération avec l'utilisateur qui a installé le jeu.
+
+Egalement, il y a copy_own_translate.bat qui permet de remettre dans le jeu votre propre version "translate.txt"
