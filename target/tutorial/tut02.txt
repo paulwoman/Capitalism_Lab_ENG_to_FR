@@ -7,7 +7,7 @@ Hide=Preview
 //-------------------------------------------------------------------//
 
 [TEXT]
-Dans ce tutoriel, vous serez formé pour devenir un meilleur gestionnaire de magasins et apprendre à les personnaliser afin de maximiser leur efficacité opérationnelle et leur rentabilité.
+Dans ce tutoriel, vous serez formé pour devenir un meilleur directeur de magasins et apprendre à les personnaliser afin de maximiser leur efficacité opérationnelle et leur rentabilité.
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -43,7 +43,7 @@ Pointer=52,61,235,75
 //-------------------------------------------------------------------//
 
 [TEXT]
-Comme vous avez acquis plus d'expérience dans la vente au détail, vous pouvez maintenant choisir un type de magasins à construire, y compris des grands magasins, des magasins de proximité, des supermarchés, des magasins de discounts et divers types de magasins spécialisés. 
+Comme vous avez acquis plus d'expérience dans la vente au détail, vous pouvez maintenant choisir un type de magasins à construire, y compris des grands magasins, des épicerie, des supermarchés, des centres commerciaux et divers types de magasins spécialisés. 
 
 [POS]
 Text Box=610,318,380,0
@@ -52,7 +52,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Les ~magasin de discount~ peuvent vendre n'importe quoi, ce qui les rend très polyvalents. Si, pour une raison quelconque, l'approvisionnement d'un produit au magasin est interrompu, vous pouvez facilement le remplacer par un autre produit. D'autre part, ~un magasin spécialisé~ ne peut vendre qu'une gamme spécifique de produits. Par exemple, un magasin de meubles ne peut vendre que des meubles. Si un problème d'approvisionnement survient, vous ne pourrez peut-être pas le résoudre aussi facilement en raison des types limités de produits qu'un magasin spécialisé peut vendre.
+Les ~centres commerciaux~ peuvent vendre n'importe quoi, ce qui les rend très polyvalents. Si, pour une raison quelconque, l'approvisionnement d'un produit venait a faire défaut, vous pouvez facilement le remplacer par un autre produit. D'autre part, ~un magasin spécialisé~ ne peut vendre qu'une gamme spécifique de produits. Par exemple, un magasin de meubles ne peut vendre que des meubles. Si un problème d'approvisionnement survient, vous ne pourrez peut-être pas le résoudre aussi facilement en raison des types limités de produits qu'un magasin spécialisé peut vendre.
 
 [POS]
 Text Box=610,318,380,0
@@ -72,7 +72,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Bon, assez de théorie. Sélectionnez maintenant ~Magasin de discount~ dans le menu et choisissez un emplacement pour construire votre mégastore. 
+Bon, assez de théorie. Sélectionnez maintenant ~centre commercial~ dans le menu et choisissez un emplacement pour construire votre centre. 
 
 [POS]
 Text Box=610,318,380,0
@@ -87,7 +87,7 @@ Set firm description=My megastore
 //-------------------------------------------------------------------//
 
 [TEXT]
-Vous remarquez quelque chose de différent ? Nous pouvons maintenant voir la ~mise en page~ de votre magasin, qui est une grille de 3x3 carrés. 
+Vous remarquez quelque chose de différent ? Nous pouvons maintenant voir la ~disposition~ de votre magasin, qui est une grille de 3x3 carrés. 
 
 [POS]
 Text Box=32,270,300,0
@@ -97,7 +97,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Dans le tutoriel précédent, il vous suffisait de cliquer sur l'icône "Ajouter un produit" et de sélectionner un produit dans la liste des suppléments, et le produit sélectionné apparaissait automatiquement dans votre magasin. Ce que vous ne voyiez pas, c'étaient les ~Unités d'achat et de vente~ dans votre magasin. Ces unités font effectivement un véritable travail ! 
+Dans le tutoriel précédent, il vous suffisait de cliquer sur l'icône "Ajouter un produit" et de sélectionner un produit dans la liste des fournisseurs, et le produit sélectionné apparaissait automatiquement dans votre magasin. Ce que vous ne voyiez pas, c'étaient les ~Unités d'achat et de vente~ dans votre magasin. Ces unités font effectivement le véritable travail ! 
 
 [POS]
 Text Box=32,270,300,0
@@ -148,7 +148,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Ensuite, vous verrez la barre jaune de l'offre et la barre orange de la demande. La ~barre jaune de l'offre~ indique la quantité d'offre du fournisseur, et la ~barre orange de la demande~ mesure la demande du consommateur pour le produit. Si la barre de l'offre est plus courte que la barre de la demande, il y a une pénurie d'offre. Si la pénurie d'approvisionnement est persistante, vous devriez envisager de passer à un meilleur fournisseur.  
+Ensuite, vous verrez la barre jaune de l'offre et la barre orange de la demande. La ~barre jaune de l'offre~ indique la quantité d'offre du fournisseur, et la ~barre orange de la demande~ mesure la demande du consommateur pour le produit. Si la barre de l'offre est plus courte que la barre de la demande, il y a une pénurie. Si la pénurie est persistante, vous devriez envisager de passer à un meilleur fournisseur.  
 
 [POS]
 Text Box=32,250,350,0
@@ -178,7 +178,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Cette fois, vous allez faire ce qu'un directeur de vente au détail expérimenté fera : configurer manuellement une paire ~d'unités d'achat et de vente~ pour votre magasin. Double-cliquez sur un espace vide dans la grille de présentation et sélectionnez ~Unité d'achat~ dans la liste. 
+Cette fois, vous allez faire ce qu'un directeur des ventes expérimenté fera : configurer manuellement une paire ~d'unités d'achat et de vente~ pour votre magasin. Double-cliquez sur un espace vide dans la disposition et sélectionnez ~Unité d'achat~ dans la liste. 
 
 [POS]
 Text Box=32,250,350,0
@@ -371,7 +371,7 @@ Pointer=267,386,370,400
 //-------------------------------------------------------------------//
 
 [TEXT]
-Vous venez d'acquérir des compétences avancées en matière de gestion de la vente au détail et de commander les bons produits qui plaisent à vos clients. 
+Vous venez d'acquérir des compétences avancées en matière de vente au détail et de commande de bons produits qui plaisent à vos clients. 
 
 [POS]
 Text Box=400,12,250,0
@@ -401,7 +401,7 @@ Window=Bottom Toolbar
 //-------------------------------------------------------------------//
 
 [TEXT]
-Ceci est le ~Rapport synthétique de l'entreprise~. Pour chaque société affichée, vous pouvez immédiatement voir les chiffres de trésorerie, de recettes et de bénéfices et les barres correspondantes, ainsi qu'un graphique des bénéfices d'exploitation. Enfin, le logo de l'entreprise, la couleur de l'entreprise et le portrait du PDG sont affichés.
+Ceci est le ~Rapport synthétique de l'entreprise~. Pour chaque société affichée, vous pouvez immédiatement voir les chiffres de la trésorerie, des recettes et des bénéfices et les barres correspondantes, ainsi qu'un graphique des bénéfices d'exploitation. Enfin, le logo de l'entreprise, la couleur de l'entreprise et le portrait du PDG sont affichés.
 
 [POS]
 Text Box=285,480,350,0
@@ -410,7 +410,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Dans les options de menu en haut à droite de l'écran, sélectionnez ~Vue d'ensemble de l'entreprise~.
+Dans les options de menu en haut à droite de l'écran, sélectionnez ~Vue d'ensemble des établissements~.
 
 [POS]
 Text Box=285,480,350,0
@@ -419,7 +419,7 @@ Pointer=636,110,735,123
 //-------------------------------------------------------------------//
 
 [TEXT]
-L'écran "Vue d'ensemble de l'entreprise" affiche un résumé des entreprises de la société.
+L'écran "Vue d'ensemble des établissements" affiche un résumé des établissements de la société.
 
 [POS]
 Text Box=285,480,350,0
@@ -503,7 +503,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Voici un rappel de votre objectif pour ce tutoriel : atteindre ~un revenu annuel de 50 millions de dollars~ et ~un bénéfice annuel de 5 millions de dollars~. Le ~Rapport d'objectif~ donne un résumé de l'état de votre objectif. Vous pouvez l'ouvrir à tout moment en ouvrant le ~Centre d'information~ puis en sélectionnant ~Rapport d'objectif~, ou en appuyant sur la touche de raccourci 'G'~. 
+Voici un rappel de votre objectif pour ce tutoriel : atteindre ~des recettes annuel de 50 millions de dollars~ et ~un bénéfice annuel de 5 millions de dollars~. Le ~Rapport d'objectif~ donne un résumé de l'état de votre objectif. Vous pouvez l'ouvrir à tout moment en ouvrant le ~Centre d'information~ puis en sélectionnant ~Rapport d'objectif~, ou en appuyant sur la touche de raccourci 'G'~. 
 
 [POS]
 Flex Text Box=300,280,400,0

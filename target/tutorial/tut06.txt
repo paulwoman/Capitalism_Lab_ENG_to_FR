@@ -7,7 +7,7 @@ Hide=Preview
 //-------------------------------------------------------------------//
 
 [TEXT]
-In this tutorial you will set up a farm to supply your supermarkets with your own agriculural products. Such backward integration will create a more reliable supply chain and increase your profit margins. 
+Dans ce tutoriel, vous créerez une ferme pour approvisionner vos supermarchés avec vos propres produits agricoles. Cette intégration en amont permettra de créer une chaîne d'approvisionnement plus fiable et augmentera vos marges bénéficiaires. 
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -16,7 +16,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-In Capitalism, a farm can produce meat, milk, eggs, leather and a variety of crops.^^To build your first farm, click the ~Build~ icon.  
+Dans CapitalismLab, une ferme peut produire de la viande, du lait, des œufs, du cuir et une variété de cultures.^^Pour construire votre première ferme, cliquez sur l'icône ~Construire~.  
 
 [POS]
 Text Box=100,180,400,0
@@ -25,7 +25,7 @@ Pointer=31,30,79,58
 //-------------------------------------------------------------------//
 
 [TEXT]
-Select ~Farm~ from the menu. 
+Sélectionnez ~Ferme~ depuis le menu. 
 
 [POS]
 Text Box=100,200,300,0
@@ -34,7 +34,7 @@ Pointer=52,104,235,120
 //-------------------------------------------------------------------//
 
 [TEXT]
-There are two sizes of farms available. Select ~Farm - Medium~ from the menu and choose a location in a rural area to build your farm. 
+Il existe deux tailles d'exploitations agricoles. Sélectionnez ~Ferme moyenne~ dans le menu et choisissez un emplacement dans une zone rurale pour construire votre ferme. 
 
 [POS]
 Text Box=610,318,380,0
@@ -49,7 +49,7 @@ Set firm description=My Farm
 //-------------------------------------------------------------------//
 
 [TEXT]
-The first thing we are going to do is to raise some livestock.^^~Double click the top left slot~ and build a ~Livestock Raising Unit~ unit. 
+La première chose à faire est de faire de l'élevage. ^^~Double cliquez sur la case en haut à gauche~ et construisez une unité d'élevage de bétail.. 
 
 [POS]
 Text Box=32,250,350,0
@@ -61,7 +61,7 @@ Unit Exists=1, Livestock Raising
 //-------------------------------------------------------------------//
 
 [TEXT]
-Now you need to set the type of animals to be raised. Click the ~Raise Livestock~ button and then select ~Cattle~ from the popup menu.
+Vous devez maintenant définir le type d'animaux à élever. Cliquez sur le bouton ~Élever du bétail~ et sélectionnez ensuite ~Bovins~ dans le menu contextuel.
 
 [POS]
 Text Box=32,460,350,0
@@ -73,7 +73,7 @@ Unit has item=1, Cattle
 //-------------------------------------------------------------------//
 
 [TEXT]
-Bien ! Your farm has begun rearing cattle.^^To the right of the ~Livestock Raising Unit~, build a ~Livestock Processing Unit~.
+Bien ! Votre ferme a commencé à élever du bétail. ^^À droite de ~l'unité d'élevage~, construisez une ~unité de transformation du bétail~.
 
 [POS]
 Text Box=32,250,350,0
@@ -105,7 +105,7 @@ Fast forward days=5
 //-------------------------------------------------------------------//
 
 [TEXT]
-Products of cattle include ~frozen beef~, ~milk~, and ~leather~. Each ~Livestock Processing Unit~ can only process one product at a time.^^Now click ~Select Product~ and select ~Frozen Beef~ from the available choices. 
+Les produits du bétail comprennent le ~bœuf congelé~, le ~lait~ et le ~cuir~. Chaque ~unité de transformation du bétail~ ne peut traiter qu'un seul produit à la fois.^^Cliquez maintenant sur ~Sélectionner le produit~ et sélectionnez ~Bœuf congelé~ parmi les choix disponibles. 
 
 [POS]
 Text Box=150,120,600,0
@@ -117,7 +117,7 @@ Unit has item=2, Frozen Beef
 //-------------------------------------------------------------------//
 
 [TEXT]
-Your cattle will now be reared and processed as frozen beef.^^Add a ~Sales Unit~ and link it to the ~Livestock Processing Unit~ so that your farm can sell the frozen beef.
+Votre bétail sera désormais élevé et transformé en viande bovine congelée. Ajoutez une ~unité de vente~ et reliez-la à ~l'unité de transformation du bétail~ pour que votre ferme puisse vendre la viande bovine congelée.
 
 [POS]
 Text Box=142,462,690,0
@@ -149,7 +149,7 @@ Fast forward days=5
 //-------------------------------------------------------------------//
 
 [TEXT]
-Congratulations, you are now selling frozen beef reared on your own farm.^^You may set up additional ~Livestock Processing Units~ to process ~milk~ and ~leather~ from cattle.
+Félicitations, vous vendez maintenant du bœuf congelé élevé dans votre propre ferme.^^Vous pouvez créer des ~unités de traitement du bétail~ supplémentaires pour traiter le ~lait~ et le ~cuir~ du bétail.
 
 [POS]
 Text Box=300,280,400,0
@@ -158,7 +158,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-You may also grow crops in farms by using ~Crop Growing Units~. Growing crops is a time consuming process and it has to go through sowing, growing and harvesting before you will see the products coming out from the unit.
+Vous pouvez également faire pousser des cultures dans des fermes en utilisant des ~Unités de culture~. La culture est un processus qui prend du temps et qui doit passer par l'ensemencement, la culture et la récolte avant de voir les produits sortir de l'unité.
 
 [POS]
 Text Box=300,280,400,0
@@ -167,7 +167,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Agricultural goods are essential to manufacture of a great number of products and you will find farming an indispensable business of your corporation. 
+Les produits agricoles sont essentiels à la fabrication d'un grand nombre de produits et vous trouverez que l'agriculture est une activité indispensable de votre société. 
 
 [POS]
 Text Box=300,280,400,0
@@ -176,7 +176,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-To win this game, your company must make at least ~20 types of products~ to demonstrate its ability to produce a wide range of products.^^At the same time you must achieve ~an annual revenue of $100 million~ and ~an annual profit of $10 million~.
+Pour gagner cette partie, votre entreprise doit fabriquer au moins ~20 types de produits~ pour démontrer sa capacité à produire une large gamme de produits.^^En même temps, vous devez réaliser ~un revenu annuel de 100 millions de dollars~ et ~un bénéfice annuel de 10 millions de dollars~.
 
 [POS]
 Text Box=300,280,400,0
