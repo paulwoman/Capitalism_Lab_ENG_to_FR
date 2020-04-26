@@ -2766,6 +2766,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each cargo can store a certain number of units of the product.^</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T170449Z" creationid="Olivier" creationdate="20200426T170449Z">
+        <seg>Chaque cargaison peut stocker un certain nombre d'unités du produit.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Each retail store has four product slots.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T123615Z" creationid="Olivier" creationdate="20200423T123615Z">
@@ -8825,6 +8833,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The orange one is the processing capacity bar.^^If the livestock supply bar is shorter than the processing capacity bar, this means that the unit is underused and can process more livestock.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T170919Z" creationid="Olivier" creationdate="20200426T170919Z">
+        <seg>La barre orange est la barre de capacité de traitement.^^Si la barre d'approvisionnement en bétail est plus courte que la barre de capacité de traitement, cela signifie que l'unité est sous-utilisée et peut traiter plus de bétail.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The products your purchasing unit has ordered should have been delivered to your store by now, and your Purchasing Unit should have started working with your Sales Unit by supplying stock to it.^^Let's take a look at your ~Sales Unit~ by selecting it now.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T100623Z" creationid="Olivier" creationdate="20200423T151202Z">
@@ -8941,6 +8957,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T123418Z" creationid="Olivier" creationdate="20200423T123418Z">
         <seg>La fenêtre se met à jour pour montrer tous les produits disponibles dans les ports maritimes locaux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The yellow bar is the livestock supply bar.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T170820Z" creationid="Olivier" creationdate="20200426T170820Z">
+        <seg>La barre jaune est la barre d'approvisionnement du bétail.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10461,6 +10485,30 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T202559Z" creationid="Acer" creationdate="20200424T170742Z">
         <seg>Vous pouvez voir le ~classement de la marque~ sur ~l'unité ventes~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You could also increase the training budget for the current unit, which would increase the unit's productivity in long term.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T171012Z" creationid="Olivier" creationdate="20200426T171012Z">
+        <seg>Vous pourriez également augmenter le budget de formation de l'unité actuelle, ce qui augmenterait la productivité de l'unité à long terme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You could link additional input units to it to exploit its capacity.^^Conversely, if the livestock supply bar is longer than the processing capacity bar, the unit has reached its full capacity and cannot process all livestock sent to it.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T170942Z" creationid="Olivier" creationdate="20200426T170942Z">
+        <seg>Vous pourriez lui associer des unités d'entrée supplémentaires pour exploiter sa capacité.^^ Inversement, si la barre d'approvisionnement en bétail est plus longue que la barre de capacité de traitement, l'unité a atteint sa pleine capacité et ne peut pas traiter tout le bétail qui lui est envoyé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You could set up a new livestock process unit to lessen the workload of the current one.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T170959Z" creationid="Olivier" creationdate="20200426T170959Z">
+        <seg>Vous pourriez mettre en place une nouvelle unité de transformation du bétail afin d'alléger la charge de travail de l'unité actuelle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13808,6 +13856,14 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T084644Z" creationid="Inrepublica" creationdate="20200422T173754Z">
         <seg>~Nom du bétail~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~Livestock Supply and Processing Capacity~</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T170806Z" creationid="Olivier" creationdate="20200426T170617Z">
+        <seg>~Approvisionnement en bétail et capacité de transformation~</seg>
       </tuv>
     </tu>
     <tu>
