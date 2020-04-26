@@ -2758,6 +2758,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each box represents one cargo of the product.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T164930Z" creationid="Olivier" creationdate="20200426T164930Z">
+        <seg>Chaque boîte représente une cargaison du produit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Each retail store has four product slots.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T123615Z" creationid="Olivier" creationdate="20200423T123615Z">
@@ -8625,6 +8633,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The bar indicates the growth progress of the crop.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T155821Z" creationid="Olivier" creationdate="20200426T155821Z">
+        <seg>La barre indique la progression de la croissance de la culture.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The blue bars increases in length when crops are being harvested.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T155708Z" creationid="Olivier" creationdate="20200426T155708Z">
@@ -8905,6 +8921,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The type of livestock product being produced.^</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T160110Z" creationid="Olivier" creationdate="20200426T160110Z">
+        <seg>Le type de produit d'origine animale fabriquée.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The white colored buildings on display are government owned and as such do not show a profit or a loss.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T210640Z" creationid="Olivier" creationdate="20200422T210640Z">
@@ -9157,6 +9181,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203657Z" creationid="Inrepublica" creationdate="20200422T203657Z">
         <seg>Cela permet d'ajuster l'impact de l'économie sur la demande des consommateurs, ce qui affecte le PIB et, par conséquent, la volatilité du cycle d'expansion et d'effondrement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This area shows the stock of the product in the unit.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T160138Z" creationid="Olivier" creationdate="20200426T160138Z">
+        <seg>Cette zone indique le stock du produit dans l'unité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13784,6 +13816,22 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T143953Z" creationid="Olivier" creationdate="20200426T143953Z">
         <seg>~Dépenses mensuelles de publicité~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~Product Name~</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T155913Z" creationid="Olivier" creationdate="20200426T155913Z">
+        <seg>~Nom du produit~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~Product Stock~</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T160126Z" creationid="Olivier" creationdate="20200426T160126Z">
+        <seg>~Stock de produits~</seg>
       </tuv>
     </tu>
     <tu>
