@@ -1,0 +1,35 @@
+[HEADER]
+Title=Capitalism Lab script for products 
+Description=This is a testing script for custom products.
+Folder=My Products
+MOD=CAPMOD, local 
+
+[ENVIRONMENT]
+Number of Cities=4
+Your Start-up Capital=Moderate 
+Random Events=Occasional 
+Game Starting Year=1990
+Retail Store Type=Many
+Technology Disruption=On
+Macro Economy Realism=High 
+Inflation=Inverse
+Inflation Strength=Normal
+
+[COMPETITORS]
+Number of Competitors=30
+Competitor Start-up Capital=High
+Competitor Aggressiveness=High
+Competitor Expertise Level=Moderate
+Show Competitor Trade Secrets=Yes
+Competence of Local Competitors=Moderate
+
+[IMPORTS]
+Consumer Goods Seaports=2
+Industrial Goods Seaports=2
+Constant Import Supply=No
+Import Quality=Moderate 
+
+[PRODUCTS]
+Sweater=iBlouseW001, 31
+Sweater=iBlouseW002, 50
+Sweater=iBlouseW003, 80
