@@ -60,7 +60,7 @@ Pointer=33,296,151,306
 //-------------------------------------------------------------------//
 
 [TEXT]
-La limite de crédit de votre entreprise varie tout au long du jeu en fonction de la situation de votre entreprise. À l'heure actuelle, le montant maximum que vous pouvez emprunter est de 30 millions de dollars. 
+La limite de crédit de votre entreprise varie tout au long du jeu en fonction de la situation de votre entreprise. À l'heure actuelle, le montant maximum que vous pouvez emprunter est de $30,000,000.^^ 
 
 [POS]
 Text Box=300,525,400,0
@@ -69,7 +69,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Cliquez sur le bouton ~[+]~ à côté du bouton ~Emprunter~. Lorsque vous avez augmenté le montant à 20 millions ou plus, cliquez sur le bouton ~Emprunter~.
+Cliquez sur le bouton ~[+]~ à côté du bouton ~Emprunter~. Lorsque vous avez augmenté le montant à $20,000,000 ou plus, cliquez sur le bouton ~Emprunter~.
 
 [POS]
 Text Box=300,525,400,0
@@ -89,7 +89,7 @@ Pointer=35,223,138,249
 //-------------------------------------------------------------------//
 
 [TEXT]
-Nous voulons savoir quels produits peuvent être fabriqués à partir du minerai, alors cliquez sur le bouton ~ENTREE~.
+Nous voulons savoir quels produits peuvent être fabriqués à partir du bois, alors cliquez sur le bouton ~ENTREE~.
 
 [POS]
 Text Box=280,580,400,0
@@ -109,7 +109,7 @@ Manufacturer Guide=Bed
 //-------------------------------------------------------------------//
 
 [TEXT]
-Cela montre que ~Bois~ peut être utilisé pour produire ~Lit~. Assez évident, non ? Regardez attentivement les informations présentées ici. Elles indiquent qu'il faut ~120 livres de bois~ pour fabriquer ~1 unité de lit~. Notez que le bois a une ~influence de qualité de 50 %~, ce qui signifie que la qualité du produit fini est affectée à 50 % par la qualité du bois.  
+Cela montre que le ~Bois~ peut être utilisé pour produire des ~Lits~. Assez évident, non ? Regardez attentivement les informations présentées ici. Elles indiquent qu'il faut ~120 livres de bois~ pour fabriquer ~1 unité de lit~. Notez que le bois a une ~influence de qualité de 50 %~, ce qui signifie que la qualité du produit fini est affectée à 50 % par la qualité du bois.  
 
 [POS]
 Text Box=230,510,500,0
@@ -139,7 +139,7 @@ Manufacturer Guide=Chair
 //-------------------------------------------------------------------//
 
 [TEXT]
-Cela montre que le ~bois~ peut également être combiné avec le ~coton~ et le ~lin~ pour produire la ~chaise~. La qualité de la ~chaire~ est influencée à 60 % par les matières premières. Parmi ces 60 %, ~bois~ représente 40 %, le ~coton~ 10 % et le ~lin~ les 10 % restants. 
+Cela montre que le ~bois~ peut également être combiné avec le ~coton~ et le ~lin~ pour produire la ~chaise~. La qualité de la ~chaise~ est influencée à 60 % par les matières premières. Parmi ces 60 %, ~bois~ représente 40 %, le ~coton~ 10 % et le ~lin~ les 10 % restants. 
 
 [POS]
 Text Box=230,550,500,0
@@ -160,7 +160,7 @@ Manufacturer Guide=Sofa
 //-------------------------------------------------------------------//
 
 [TEXT]
-Bien ! Vous avez une connaissance de base de la fabrication. Procédons à la mise en place de votre installation de production.^^Cliquez à droite n'importe où sur l'écran pour revenir à la vue de la ville.
+Bien ! Vous avez connaissance des bases de la fabrication. Procédons à la mise en place de votre installation de production.^^Cliquez à droite n'importe où sur l'écran pour revenir à la vue de la ville.
 
 [POS]
 Text Box=300,510,400,0
@@ -192,7 +192,7 @@ Firm count=Factory, 1
 //-------------------------------------------------------------------//
 
 [TEXT]
-Pour que votre usine puisse fabriquer des marchandises et les vendre, il faut que trois types d'unités soient liés dans la grille de présentation. Vous connaissez déjà ~les unités d'achat et de vente~. Le troisième type dont vous avez besoin est ~l'unité de fabrication~.
+Pour que votre usine puisse fabriquer des marchandises et les vendre, il faut que trois types d'unités soient liés dans la disposition. Vous connaissez déjà ~les unités d'achat et de vente~. Le troisième type dont vous avez besoin est ~l'unité de fabrication~.
 
 [POS]
 Text Box=32,250,350,0
@@ -201,7 +201,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Faisons en sorte que votre usine produise quelque chose. Double-cliquez sur l'espace supérieur gauche de l'unité dans la grille de présentation et construisez une ~unité d'achats~ 
+Faisons en sorte que votre usine produise quelque chose. Double-cliquez sur l'espace supérieur gauche de l'unité dans la disposition et construisez une ~unité d'achats~ 
 
 [POS]
 Text Box=32,250,350,0
@@ -292,7 +292,7 @@ Unit has item=1, Timber
 //-------------------------------------------------------------------//
 
 [TEXT]
-Dès que votre usine reçoit du bois du fournisseur, l'unité de fabrication commence à produire le lit. Peu de temps après, l'unité de fabrication envoie les produits finis à l'unité de vente et votre lit est disponible pour la vente dans le monde entier. 
+Dès que votre usine reçoit le bois du fournisseur, l'unité de fabrication commence à produire le lit. Peu de temps après, l'unité de fabrication envoie les produits finis à l'unité de vente et votre lit est disponible pour la vente dans le monde entier. 
 
 [POS]
 Text Box=32,250,350,0
@@ -375,7 +375,7 @@ Pointer=601,365,680,444
 //-------------------------------------------------------------------//
 
 [TEXT]
-Elle indique ici la ~cote de qualité~ de votre club de golf et les facteurs qui contribuent à cette cote de qualité, qui comprennent les ~qualités des matériaux bruts~ et votre ~technologie de production~ pour ce produit. 
+Elle indique ici la ~cote de qualité~ de votre club de golf et les facteurs qui contribuent à cette cote, qui comprennent les ~qualités des matériaux bruts~ et votre ~technologie de production~ pour ce produit. 
 
 [POS]
 Text Box=424,124,330,0
@@ -412,7 +412,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Pour atteindre vos objectifs dans cette partie, vous devez réaliser ~un revenu annuel de 30 millions de dollars~ et ~un bénéfice annuel de 3 millions de dollars~. Mais n'oubliez pas que vous devez toujours de l'argent à la banque. Vous pouvez rembourser une partie ou la totalité de votre prêt en accédant à l'écran ~Actions financières~ du ~Centre d'informations~ et en utilisant la section ~Remboursement" de l'écran~. Bonne chance !
+Pour atteindre vos objectifs dans cette partie, vous devez réaliser ~des recettes annuelles $30 millions~ et ~un bénéfice annuel de 3 millions de dollars~. Mais n'oubliez pas que vous devez toujours de l'argent à la banque. Vous pouvez rembourser une partie ou la totalité de votre prêt en accédant à l'écran ~Actions financières~ du ~Centre d'informations~ et en utilisant la section ~Remboursement~ de l'écran. ^^Bonne chance !
 
 [POS]
 Flex Text Box=300,280,400,0
