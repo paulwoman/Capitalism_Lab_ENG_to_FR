@@ -11002,6 +11002,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0562]Mansion Demolish|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T102656Z" creationid="Inrepublica" creationdate="20200426T102656Z">
+        <seg>[0562]Démolir le manoir|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0567]GOAL|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T101908Z" creationid="Inrepublica" creationdate="20200426T101908Z">
@@ -11026,6 +11034,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0577]Layout Plan|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T102716Z" creationid="Inrepublica" creationdate="20200426T102716Z">
+        <seg>[0577]Disposition du plan|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0580]Stock Exchange News|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T102730Z" creationid="Inrepublica" creationdate="20200426T102730Z">
+        <seg>[0580]Nouvelles de la bourse|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0583]Save Game|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T053612Z" creationid="Inrepublica" creationdate="20200423T053612Z">
@@ -11042,10 +11066,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0606]Supplier|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T102820Z" creationid="Inrepublica" creationdate="20200426T102820Z">
+        <seg>[0606]Fournisseur|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0607]City|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T053621Z" creationid="Inrepublica" creationdate="20200423T053621Z">
         <seg>[0607]Ville|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0608]Distance|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T102835Z" creationid="Inrepublica" creationdate="20200426T102835Z">
+        <seg>[0608]Distance|</seg>
       </tuv>
     </tu>
     <tu>
