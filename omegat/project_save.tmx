@@ -10938,6 +10938,30 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0522]Sorry, you don't have enough cash.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T101408Z" creationid="Inrepublica" creationdate="20200426T101408Z">
+        <seg>[0522]Désolé, vous n'avez pas la trésorerie suffisante.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0531]Fail Loading Game|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T101427Z" creationid="Inrepublica" creationdate="20200426T101427Z">
+        <seg>[0531]Échec dans le chargement de la partie|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0536]Wrong Firm|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T101442Z" creationid="Inrepublica" creationdate="20200426T101442Z">
+        <seg>[0536]Mauvais établissement|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0540]Confirm|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T172933Z" creationid="Inrepublica" creationdate="20200423T172933Z">
@@ -10958,6 +10982,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T053532Z" creationid="Inrepublica" creationdate="20200423T053532Z">
         <seg>[0561]OK|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0567]GOAL|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T101908Z" creationid="Inrepublica" creationdate="20200426T101908Z">
+        <seg>[0567]OBJECTIF|</seg>
       </tuv>
     </tu>
     <tu>
