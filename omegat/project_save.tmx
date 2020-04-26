@@ -2766,10 +2766,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each box represents one cargo of the raw material.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T171645Z" creationid="Olivier" creationdate="20200426T171645Z">
+        <seg>Chaque boîte représente une cargaison de la matière première.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Each cargo can store a certain number of units of the product.^</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T170449Z" creationid="Olivier" creationdate="20200426T170449Z">
         <seg>Chaque cargaison peut stocker un certain nombre d'unités du produit.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Each cargo can store a certain number of units of the product.^^The number of units a cargo can hold varies from product to product.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T171901Z" creationid="Olivier" creationdate="20200426T171901Z">
+        <seg>Chaque cargaison peut contenir un certain nombre d'unités du produit.^^Le nombre d'unités qu'une cargaison peut contenir varie d'un produit à l'autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Each cargo can store a certain quantity of the raw material.^</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T171700Z" creationid="Olivier" creationdate="20200426T171700Z">
+        <seg>Chaque cargaison peut stocker une certaine quantité de la matière première.^</seg>
       </tuv>
     </tu>
     <tu>
@@ -3350,6 +3374,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For lower-cost products, such as shampoo, one cargo can hold up to several thousand units of the product.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T172244Z" creationid="Olivier" creationdate="20200426T172244Z">
+        <seg>Pour les produits à bas prix, comme le shampoing, une cargaison peut contenir jusqu'à plusieurs milliers d'unités du produit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For now, keep it buying the current product.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151129Z" creationid="Olivier" creationdate="20200423T151129Z">
@@ -3362,6 +3394,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T152836Z" creationid="Olivier" creationdate="20200425T152836Z">
         <seg>Pour l'instant, vous avez déjà fait un assez bon travail de compréhension des bases.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For some expensive products, such as cars, one cargo can hold only a few units of the product.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T171913Z" creationid="Olivier" creationdate="20200426T171913Z">
+        <seg>Pour certains produits coûteux, tels que les voitures, une cargaison ne peut contenir que quelques unités du produit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4261,6 +4301,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T065722Z" creationid="Olivier" creationdate="20200423T142858Z">
         <seg>Si la pénurie est persistante, vous devriez envisager de passer à un meilleur fournisseur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If this bar reaches its full length, the unit has reached its full capacity.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T171730Z" creationid="Olivier" creationdate="20200426T171730Z">
+        <seg>Si cette barre atteint sa pleine longueur, l'unité a atteint sa pleine capacité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8657,6 +8705,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The blue bars indicate the quantity of products in the inventory.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T171800Z" creationid="Olivier" creationdate="20200426T171800Z">
+        <seg>Les barres bleues indiquent la quantité de produits dans l'inventaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The central bank requires banks to set aside enough capital to cover unexpected losses and keep themselves solvent in a crisis.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203228Z" creationid="Inrepublica" creationdate="20200422T203228Z">
@@ -8857,6 +8913,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The raw material which the unit is currently producing.^</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T171555Z" creationid="Olivier" creationdate="20200426T171555Z">
+        <seg>La matière première que l'unité produit actuellement.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The report displays ~market dominance by industry~ as well as ~by product class~.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T180156Z" creationid="Acer" creationdate="20200424T180156Z">
@@ -8941,6 +9005,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T160110Z" creationid="Olivier" creationdate="20200426T160110Z">
         <seg>Le type de produit d'origine animale fabriquée.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The type of product in the inventory unit.^</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T171750Z" creationid="Olivier" creationdate="20200426T171750Z">
+        <seg>Le type de produit dans l'unité d'inventaire.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The type of product that is being processing.^</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T171829Z" creationid="Olivier" creationdate="20200426T171829Z">
+        <seg>Le type de produit qui est transformé.^</seg>
       </tuv>
     </tu>
     <tu>
@@ -9217,10 +9297,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This area shows the stock of the raw material in the unit.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T171629Z" creationid="Olivier" creationdate="20200426T171629Z">
+        <seg>Cette zone indique le stock de la matière première dans l'unité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This bar represents what the unit spends advertising the product monthly.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T144007Z" creationid="Olivier" creationdate="20200426T144007Z">
         <seg>Cette barre représente ce que l'unité dépense mensuellement en publicité pour le produit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This brown bar shows the utilization of the unit.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T171718Z" creationid="Olivier" creationdate="20200426T171718Z">
+        <seg>Cette barre marron montre l'utilisation de l'unité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13288,6 +13384,14 @@ Window=Select Supplier</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[Private Labelling Unit]</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T171805Z" creationid="Olivier" creationdate="20200426T171805Z">
+        <seg>[Private Labelling Unit]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[SHRD]%2j{Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec} %1d, %3,4d</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T112743Z" creationid="Inrepublica" creationdate="20200422T112743Z">
@@ -13900,10 +14004,34 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>~Raw Material Name~</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T171056Z" creationid="Olivier" creationdate="20200426T171056Z">
+        <seg>~Nom des matières premières~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~Raw Material Stock~</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T171614Z" creationid="Olivier" creationdate="20200426T171614Z">
+        <seg>~Stock de matières premieres~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>~The darker the color, the more valuable the land.~ Building in light areas may be expensive but it may provide your stores with a richer clientele willing to pay higher prices.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T214928Z" creationid="Olivier" creationdate="20200422T210212Z">
         <seg>~Plus la couleur est foncée, plus le terrain a de la valeur. ~Construire dans des zones claires peut être coûteux mais cela peut fournir à vos magasins une clientèle plus riche prête à payer des prix plus élevés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~Utilization~</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T171708Z" creationid="Olivier" creationdate="20200426T171708Z">
+        <seg>~Utilisation~</seg>
       </tuv>
     </tu>
     <tu>
