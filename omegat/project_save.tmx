@@ -942,6 +942,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Active Interface=Manufacturer Guide</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T132814Z" creationid="Olivier" creationdate="20200426T132814Z">
+        <seg>Active Interface=Manufacturer Guide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Active Interface=Stock Exchange</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T205550Z" creationid="Acer" creationdate="20200424T205550Z">
@@ -958,10 +966,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Add Seaport Product=Aluminum</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T132356Z" creationid="Olivier" creationdate="20200426T132356Z">
+        <seg>Add Seaport Product=Aluminum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Add Seaport Product=Dyestuff</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T101335Z" creationid="Olivier" creationdate="20200424T101335Z">
         <seg>Add Seaport Product=Dyestuff</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add Seaport Product=Electronic Components</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T132349Z" creationid="Olivier" creationdate="20200426T132349Z">
+        <seg>Add Seaport Product=Electronic Components</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add Seaport Product=Glass</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T132352Z" creationid="Olivier" creationdate="20200426T132352Z">
+        <seg>Add Seaport Product=Glass</seg>
       </tuv>
     </tu>
     <tu>
@@ -1098,6 +1130,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150839Z" creationid="Inrepublica" creationdate="20200425T150839Z">
         <seg>Agriculture|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Air conditioners are manufactured using ~Electronic Components~ and ~Steel~.^^Take a look at the percentage points that the ~Production Technology~ and the ~Raw Material Quality~ contribute to Air Conditioners' ~Quality~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T133018Z" creationid="Olivier" creationdate="20200426T133018Z">
+        <seg>Les climatiseurs sont fabriqués à l'aide de ~composants électroniques~ et de ~l'acier~.^^Regardez les points de pourcentage que la ~technologie de production~ et la ~qualité des matières premières~ contribuent à la ~qualité~ des climatiseurs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1298,6 +1338,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T153023Z" creationid="Inrepublica" creationdate="20200422T153023Z">
         <seg>En tant que telle, l'inflation sera supprimée artificiellement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As you may recall, a product's rating is based on two factors: the company's production technology rating for the product and the raw material quality.^^Research advances your company's production technology and thus increases your products' quality.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T132641Z" creationid="Olivier" creationdate="20200426T132641Z">
+        <seg>Comme vous vous en souvenez peut-être, l'évaluation d'un produit est basée sur deux facteurs : l'évaluation de la technologie de production de l'entreprise pour le produit et la qualité de la matière première.^^La recherche fait progresser la technologie de production de votre entreprise et augmente ainsi la qualité de vos produits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As you see here, ~Technology~ contributes 80% to Air Conditioners' ~Quality~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T133113Z" creationid="Olivier" creationdate="20200426T133113Z">
+        <seg>Comme vous le voyez ici, la ~Technologie~ contribue à 80 % à la ~Qualité~ des climatiseurs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4329,6 +4385,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In this tutorial you will learn how to improve the quality of your products by conducting research in R&amp;D Centers (Research and Development Centers).</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T132608Z" creationid="Olivier" creationdate="20200426T132608Z">
+        <seg>Dans ce tutoriel, vous apprendrez comment améliorer la qualité de vos produits en menant des recherches dans des centres de R&amp;D (centres de recherche et de développement).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In this tutorial you will set up a farm to supply your supermarkets with your own agriculural products.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T212615Z" creationid="Olivier" creationdate="20200425T212615Z">
@@ -5129,6 +5193,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Manufacturer Guide=Air Conditioner</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T132854Z" creationid="Olivier" creationdate="20200426T132854Z">
+        <seg>Manufacturer Guide=Air Conditioner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Manufacturer Guide=Bed</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T090658Z" creationid="Olivier" creationdate="20200424T090658Z">
@@ -5325,6 +5397,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151824Z" creationid="Olivier" creationdate="20200423T151824Z">
         <seg>Cliquez maintenant sur le logo de votre ~entreprise~ pour obtenir plus d'informations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now click ~OUTPUT~ and select ~Air Conditioner~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T132847Z" creationid="Olivier" creationdate="20200426T132847Z">
+        <seg>Cliquez maintenant sur ~SORTIE~ et sélectionnez ~Climatiseur~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6345,6 +6425,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=503,175,682,225</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T133024Z" creationid="Olivier" creationdate="20200426T133024Z">
+        <seg>Pointer=503,175,682,225</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=52,104,235,120</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T212848Z" creationid="Olivier" creationdate="20200425T212848Z">
@@ -6513,6 +6601,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=624,474, 696, 486</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T132850Z" creationid="Olivier" creationdate="20200426T132850Z">
+        <seg>Pointer=624,474, 696, 486</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=636,110,735,123</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151723Z" creationid="Olivier" creationdate="20200423T151723Z">
@@ -6645,6 +6741,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T205604Z" creationid="Inrepublica" creationdate="20200422T165347Z">
         <seg>Sexe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Press the shortcut key ~F1~ to open it now.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T132813Z" creationid="Olivier" creationdate="20200426T132813Z">
+        <seg>Appuyez sur la touche de raccourci ~F1~ pour l'ouvrir maintenant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6877,6 +6981,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203217Z" creationid="Inrepublica" creationdate="20200422T203217Z">
         <seg>Ratio de capital bancaire requis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Research and Development, or R&amp;D, is aptly conducted in ~R&amp;D Centers~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T133157Z" creationid="Olivier" creationdate="20200426T133157Z">
+        <seg>La recherche et le développement, ou R&amp;D, sont menés de manière appropriée dans des ~centres de R&amp;D~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Research projects can take some time to complete, so it's a good idea to begin research as soon as possible.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T133215Z" creationid="Olivier" creationdate="20200426T133215Z">
+        <seg>Les projets de recherche peuvent prendre un certain temps pour être menés à bien, c'est donc une bonne idée de commencer les recherches le plus tôt possible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7869,6 +7989,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T214224Z" creationid="Olivier" creationdate="20200425T214224Z">
         <seg>Text Box=32,460,350,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Box=320,280,390,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T133021Z" creationid="Olivier" creationdate="20200426T133021Z">
+        <seg>Text Box=320,280,390,0</seg>
       </tuv>
     </tu>
     <tu>
@@ -8881,6 +9009,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To demonstrate how research works, we are going to set up a factory manufacturing ~Air Conditioners~.^^First, you should view the ~Manufacturer's Guide~ to see what materials are required.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T132753Z" creationid="Olivier" creationdate="20200426T132753Z">
+        <seg>Pour montrer comment fonctionne la recherche, nous allons mettre en place une usine de fabrication de ~Climatiseurs~.^^Tout d'abord, vous devez consulter le ~Guide de fabrication~ pour voir quels sont les matériaux nécessaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To do this, select ~Financial Actions~ from the menu.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T204557Z" creationid="Acer" creationdate="20200424T204557Z">
@@ -9806,6 +9942,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T125757Z" creationid="Olivier" creationdate="20200424T085550Z">
         <seg>Vous devez d'abord obtenir un prêt pour financer vos grands projets. Cliquez sur l'icône ~Centre d'informations~ sur la barre d'outils inférieure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You must invest into technological development if you want your Air Conditioners to be competitive in the market.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T133141Z" creationid="Olivier" creationdate="20200426T133141Z">
+        <seg>Vous devez investir dans le développement technologique si vous voulez que vos climatiseurs soient compétitifs sur le marché.</seg>
       </tuv>
     </tu>
     <tu>
