@@ -926,6 +926,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Active Interface=Build Menu</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T133313Z" creationid="Olivier" creationdate="20200426T133313Z">
+        <seg>Active Interface=Build Menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Active Interface=City View</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T092255Z" creationid="Olivier" creationdate="20200424T092255Z">
@@ -1178,6 +1186,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155557Z" creationid="Inrepublica" creationdate="20200425T155557Z">
         <seg>All suppliers (F2)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All they need is your direction.^^Click the "leader" unit of your R&amp;D team, which is the one with connections to all other R&amp;D units in the team.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T133958Z" creationid="Olivier" creationdate="20200426T133958Z">
+        <seg>Tout ce dont ils ont besoin, c'est de votre direction.^^Cliquez sur l'unité "responsable" de votre équipe de R&amp;D, qui est celle qui a des connexions avec toutes les autres unités de R&amp;D de l'équipe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2126,6 +2142,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click the ~Start R&amp;D~ button.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T134031Z" creationid="Olivier" creationdate="20200426T134031Z">
+        <seg>Cliquez sur le bouton ~Démarrer la R&amp;D~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the ~[+]~ button next to the ~Borrow~ button.^^When you have increased the the amount to $20,000,000 or more, click the ~Borrow~ button.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T124058Z" creationid="Olivier" creationdate="20200424T090111Z">
@@ -2906,6 +2930,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T092737Z" creationid="Olivier" creationdate="20200424T092737Z">
         <seg>Firm count=Factory, 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm count=R&amp;D Center, 1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T133423Z" creationid="Olivier" creationdate="20200426T133423Z">
+        <seg>Firm count=R&amp;D Center, 1</seg>
       </tuv>
     </tu>
     <tu>
@@ -4889,10 +4921,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Let's build an ~R&amp;D Center~ now.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T133234Z" creationid="Olivier" creationdate="20200426T133234Z">
+        <seg>Construisons maintenant un ~Centre de R&amp;D~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Let's click on the ~Mini Map~ icon now.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T214202Z" creationid="Olivier" creationdate="20200422T171401Z">
         <seg>Cliquons maintenant sur l'icône ~Mini carte~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let's create an R&amp;D team with ~3 R&amp;D units~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T133521Z" creationid="Olivier" creationdate="20200426T133521Z">
+        <seg>Créons une équipe de R&amp;D avec ~3 unités de R&amp;D~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4957,6 +5005,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155554Z" creationid="Inrepublica" creationdate="20200425T155554Z">
         <seg>Liens|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Link it to the first one as well.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T133756Z" creationid="Olivier" creationdate="20200426T133756Z">
+        <seg>Reliez-la également à la première.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5561,6 +5617,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now set up the third one.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T133736Z" creationid="Olivier" creationdate="20200426T133736Z">
+        <seg>Installez maintenant la troisième.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now that you have learned how to build retail stores of different types, as well as how to navigate between cities.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T110702Z" creationid="Olivier" creationdate="20200423T152234Z">
@@ -5661,6 +5725,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T213309Z" creationid="Olivier" creationdate="20200425T213309Z">
         <seg>Vous devez maintenant définir le type d'animaux à élever.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now your R&amp;D team is ready to commence research.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T133848Z" creationid="Olivier" creationdate="20200426T133848Z">
+        <seg>Votre équipe de R&amp;D est maintenant prête à commencer ses recherches.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6153,6 +6225,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=203,387,278,402</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T134035Z" creationid="Olivier" creationdate="20200426T134035Z">
+        <seg>Pointer=203,387,278,402</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=255,386,312,400</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151022Z" creationid="Olivier" creationdate="20200423T151022Z">
@@ -6425,6 +6505,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=489,363,573,446</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T133738Z" creationid="Olivier" creationdate="20200426T133738Z">
+        <seg>Pointer=489,363,573,446</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=503,175,682,225</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T133024Z" creationid="Olivier" creationdate="20200426T133024Z">
@@ -6453,6 +6541,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T204748Z" creationid="Acer" creationdate="20200424T204748Z">
         <seg>Pointer=524,51,725,64</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=528,344,534,359</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T133758Z" creationid="Olivier" creationdate="20200426T133758Z">
+        <seg>Pointer=528,344,534,359</seg>
       </tuv>
     </tu>
     <tu>
@@ -6741,6 +6837,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T205604Z" creationid="Inrepublica" creationdate="20200422T165347Z">
         <seg>Sexe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Press the shortcut key ~B~ to open the the Build menu now.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T133311Z" creationid="Olivier" creationdate="20200426T133311Z">
+        <seg>Appuyez sur la touche de raccourci ~B~ pour ouvrir le menu Construire maintenant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7293,6 +7397,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T100040Z" creationid="Olivier" creationdate="20200423T143535Z">
         <seg>Sélectionnez ~Unité d'achats~ dans la liste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select ~R&amp;D Center~ from the menu and find a location to build it.^^It's a good idea to build your R&amp;D Center on the outskirts of the city as the land is cheaper there.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T133421Z" creationid="Olivier" creationdate="20200426T133421Z">
+        <seg>Sélectionnez ~Centre de R&amp;D~ dans le menu et trouvez un emplacement pour le construire.^^C'est une bonne idée de construire votre centre de R&amp;D à la périphérie de la ville car le terrain y est moins cher.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8105,6 +8217,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Text Box=60,250,200,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T134033Z" creationid="Olivier" creationdate="20200426T134033Z">
+        <seg>Text Box=60,250,200,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Text Box=60,280,250,0</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T145120Z" creationid="Olivier" creationdate="20200423T145120Z">
@@ -8317,6 +8437,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T123847Z" creationid="Olivier" creationdate="20200423T123847Z">
         <seg>La mini carte montre la ville entière.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The next column ~Top Tech~ indicates the top technology level for each product type.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T134206Z" creationid="Olivier" creationdate="20200426T134206Z">
+        <seg>La colonne suivante ~Technologie de pointe~ indique le niveau de technologie de pointe pour chaque type de produit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8581,6 +8709,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151919Z" creationid="Olivier" creationdate="20200423T151919Z">
         <seg>Il y a plus d'une ville dans ce tutoriel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There is only one type of functional unit to build in an R&amp;D Center, which is the ~R&amp;D unit~.^^You can set up a maximum of ~nine~ R&amp;D units in an R&amp;D center.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T133450Z" creationid="Olivier" creationdate="20200426T133450Z">
+        <seg>Il n'y a qu'un seul type d'unité fonctionnelle à mettre en place dans un centre de R&amp;D, qui est l'unité de R&amp;D. Vous pouvez mettre en place un maximum de neuf unités de R&amp;D dans un centre de R&amp;D.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8921,6 +9057,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This value will be updated whenever a company has achieved a higher tech level than the current top tech level.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T134246Z" creationid="Olivier" creationdate="20200426T134246Z">
+        <seg>Cette valeur sera actualisée chaque fois qu'une entreprise aura atteint un niveau technologique supérieur au niveau de pointe actuel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This will make the competition more intense and improve gameplay, especially when playing a MOD game with a large variety of products.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161135Z" creationid="Inrepublica" creationdate="20200422T161135Z">
@@ -9161,6 +9305,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unit Exists=1, Product R&amp;D</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T133558Z" creationid="Olivier" creationdate="20200426T133558Z">
+        <seg>Unit Exists=1, Product R&amp;D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unit Exists=1, Purchasing</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T093044Z" creationid="Olivier" creationdate="20200424T093044Z">
@@ -9185,10 +9337,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unit Exists=2, Product R&amp;D</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T133652Z" creationid="Olivier" creationdate="20200426T133652Z">
+        <seg>Unit Exists=2, Product R&amp;D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unit Exists=3, Sales</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T093758Z" creationid="Olivier" creationdate="20200424T093758Z">
         <seg>Unit Exists=3, Sales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unit Exists=4, Product R&amp;D</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T133741Z" creationid="Olivier" creationdate="20200426T133741Z">
+        <seg>Unit Exists=4, Product R&amp;D</seg>
       </tuv>
     </tu>
     <tu>
@@ -9245,6 +9413,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T094430Z" creationid="Olivier" creationdate="20200424T094430Z">
         <seg>Unit Linked=Manufacturing, Sales, 5, 6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unit Linked=Product R&amp;D, Product R&amp;D, 1, 2</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T133656Z" creationid="Olivier" creationdate="20200426T133656Z">
+        <seg>Unit Linked=Product R&amp;D, Product R&amp;D, 1, 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unit Linked=Product R&amp;D, Product R&amp;D, 1, 4</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T133812Z" creationid="Olivier" creationdate="20200426T133812Z">
+        <seg>Unit Linked=Product R&amp;D, Product R&amp;D, 1, 4</seg>
       </tuv>
     </tu>
     <tu>
@@ -9609,6 +9793,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When you start an R&amp;D project with more R&amp;D units linked together, you get a boost in R&amp;D performance and thus get a bigger tech gain.^^Now ~Double-click~ here to set up the second R&amp;D unit.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T133650Z" creationid="Olivier" creationdate="20200426T133650Z">
+        <seg>Lorsque vous démarrez un projet de R&amp;D avec plusieurs unités de R&amp;D reliées entre elles, vous obtenez une augmentation des performances de la R&amp;D et donc un gain technologique plus important.^^Maintenant ~Double cliquez ici~ pour mettre en place la deuxième unité de R&amp;D.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When your company owns more than ~75%~ of another company, you will be able to execute a marger which will merge all of its business operations into your company, including all of its technological know-how.^^This makes mergers a highly effective way to expand your business empire rapidly.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T154141Z" creationid="Olivier" creationdate="20200425T154141Z">
@@ -9865,6 +10057,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You may have them work independently as ~nine separate teams~ or link them into ~a large, single team~ for increased performance.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T133507Z" creationid="Olivier" creationdate="20200426T133507Z">
+        <seg>Vous pouvez les faire travailler indépendamment en ~neuf équipes séparées~ ou les relier en ~une seule grande équipe~ pour une meilleure performance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You may open it anytime by opening the ~Information Center~ and then selecting ~Goal Report~, or by pressing the ~shortcut key 'G'~.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T101608Z" creationid="Olivier" creationdate="20200423T152342Z">
@@ -9990,6 +10190,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T204526Z" creationid="Acer" creationdate="20200424T204526Z">
         <seg>Vous devriez maintenant proposer d'émettre de nouvelles actions au public.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You use this interface to select the type of product you want to conduct R&amp;D for.^^The column ~Current Tech~ indicates your current production technology level.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T134116Z" creationid="Olivier" creationdate="20200426T134116Z">
+        <seg>Vous utilisez cette interface pour sélectionner le type de produit pour lequel vous souhaitez mener des activités de R&amp;D.^^La colonne ~Technologie actuelle~ indique votre niveau actuel de technologie de production.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12824,6 +13032,14 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T100056Z" creationid="Olivier" creationdate="20200423T144852Z">
         <seg>~Double-cliquez~ sur une unité vide juste à côté de l'unité d'achats que vous venez de créer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~Double-click~ here to set up the first R&amp;D unit.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T133556Z" creationid="Olivier" creationdate="20200426T133556Z">
+        <seg>~Double-cliquez~ ici pour mettre en place la première unité de R&amp;D.</seg>
       </tuv>
     </tu>
     <tu>
