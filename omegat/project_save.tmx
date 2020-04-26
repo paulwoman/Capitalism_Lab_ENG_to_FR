@@ -5697,6 +5697,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Output Product</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T092842Z" creationid="Inrepublica" creationdate="20200426T092842Z">
+        <seg>Produit en sortie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>PASSER TUTORIEL||</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155521Z" creationid="Inrepublica" creationdate="20200425T155521Z">
@@ -11118,6 +11126,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T092344Z" creationid="Inrepublica" creationdate="20200426T092344Z">
         <seg>[1384]&lt;0449&gt;ENTRÉE|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1385]&lt;0450&gt;OUTPUT|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T092358Z" creationid="Inrepublica" creationdate="20200426T092358Z">
+        <seg>[1385]&lt;0450&gt;SORTIE|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1386]&lt;0451&gt;MORE|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T092405Z" creationid="Inrepublica" creationdate="20200426T092405Z">
+        <seg>[1386]&lt;0451&gt;PLUS|</seg>
       </tuv>
     </tu>
     <tu>
