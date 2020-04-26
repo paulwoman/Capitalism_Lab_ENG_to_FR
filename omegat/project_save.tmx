@@ -1280,8 +1280,8 @@
       <tuv lang="en-US">
         <seg>And to the right of the Manufacturing Unit, build a ~Sales Unit~.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T095343Z" creationid="Olivier" creationdate="20200424T093750Z">
-        <seg>Et à droite de l'unité de fabrication, construisez une ~unité de vente~.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T154740Z" creationid="Olivier" creationdate="20200424T093750Z">
+        <seg>Et à droite de l'unité de fabrication, construisez une ~unité de ventes~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1416,8 +1416,8 @@
       <tuv lang="en-US">
         <seg>At this moment the maximum amount you may borrow is $30,000,000.^^</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T124040Z" creationid="Olivier" creationdate="20200424T085649Z">
-        <seg>À l'heure actuelle, le montant maximum que vous pouvez emprunter est de $30,000,000.^^</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T154158Z" creationid="Olivier" creationdate="20200424T085649Z">
+        <seg>À l'heure actuelle, le montant maximum que vous pouvez emprunter est de 30 millions de dollars.^^</seg>
       </tuv>
     </tu>
     <tu>
@@ -4483,8 +4483,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>In order for your factory to manufacture goods and sell them, it requires three unit types to be linked within the layout grid.^^You already know ~Purchasing and Sales units~.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T124941Z" creationid="Olivier" creationdate="20200424T092809Z">
-        <seg>Pour que votre usine puisse fabriquer des marchandises et les vendre, il faut que trois types d'unités soient liés dans la disposition. Vous connaissez déjà ~les unités d'achat et de vente~.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T154713Z" creationid="Olivier" creationdate="20200424T092809Z">
+        <seg>Pour que votre usine puisse fabriquer des marchandises et les vendre, il faut que trois types d'unités soient liés dans la disposition. Vous connaissez déjà ~les unités d'achats et de ventes~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7651,8 +7651,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Select ~Factory~ from the menu and find a location to build it.^^It's a good idea to build your factory in the rural area as the land is cheaper there.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T092729Z" creationid="Olivier" creationdate="20200424T092729Z">
-        <seg>Sélectionnez ~Usine~ dans le menu et trouvez un endroit pour la construire. C'est une bonne idée de construire votre usine dans la zone rurale car le terrain y est moins cher.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T154621Z" creationid="Olivier" creationdate="20200424T092729Z">
+        <seg>Sélectionnez ~Usine~ dans le menu et trouvez un endroit pour la construire.^^C'est une bonne idée de construire votre usine dans la zone rurale car le terrain y est moins cher.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7963,8 +7963,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Take a close look at the information shown here.^^It tells that ~120 lbs of Timber~ is needed to make ~1 unit of Bed~.^^Notice that Timber has a ~quality influence of 50%~, which means that the quality of the finished product is 50% affected by the quality of Timber.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T140138Z" creationid="Olivier" creationdate="20200424T090845Z">
-        <seg>Regardez attentivement les informations présentées ici. Elles indiquent qu'il faut ~120 livres de bois~ pour fabriquer ~1 unité de lit~. Notez que le bois a une ~influence de qualité de 50 %~, ce qui signifie que la qualité du produit fini est affectée à 50 % par la qualité du bois.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T154500Z" creationid="Olivier" creationdate="20200424T090845Z">
+        <seg>Regardez attentivement les informations présentées ici.^^ Elles indiquent qu'il faut ~120 livres de bois~ pour fabriquer ~1 unité de lit~. Notez que le bois a une ~influence de qualité de 50 %~, ce qui signifie que la qualité du produit fini est affectée à 50 % par la qualité du bois.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9627,8 +9627,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>To the right of the Purchasing Unit, build a ~Manufacturing Unit~.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T132206Z" creationid="Olivier" creationdate="20200424T093705Z">
-        <seg>À droite de l'unité d'achat, construisez une ~unité de fabrications~.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T154728Z" creationid="Olivier" creationdate="20200424T093705Z">
+        <seg>À droite de l'unité d'achat, construisez une ~unité de fabrication~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10075,8 +10075,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>We want to find out what products can be made from ~Timber~, so click the ~INPUT~ button.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T124208Z" creationid="Olivier" creationdate="20200424T090520Z">
-        <seg>Nous voulons savoir quels produits peuvent être fabriqués à partir du bois, alors cliquez sur le bouton ~ENTREE~.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T154406Z" creationid="Olivier" creationdate="20200424T090520Z">
+        <seg>Nous voulons savoir quels produits peuvent être fabriqués à partir du ~bois~, alors cliquez sur le bouton ~ENTREE~.</seg>
       </tuv>
     </tu>
     <tu>
