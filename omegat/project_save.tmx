@@ -2054,6 +2054,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click an R&amp;D unit to see the details of the staff.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T140736Z" creationid="Olivier" creationdate="20200426T140736Z">
+        <seg>Cliquez sur une unité de R&amp;D pour voir les détails du personnel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the ~Add Product icon~, then choose ~Seaport~ from the supplier list, and select a product to add to your store.^^This time, make sure that you select a different product than the one already on sale in your store.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T213909Z" creationid="Olivier" creationdate="20200422T170748Z">
@@ -2434,6 +2442,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T063915Z" creationid="Inrepublica" creationdate="20200426T063915Z">
         <seg>Department Store|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Depending on the type of the functional unit, training may increase its productivity and/or its capacity.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T141014Z" creationid="Olivier" creationdate="20200426T141014Z">
+        <seg>Selon le type d'unité fonctionnelle, la formation peut augmenter sa productivité et/ou sa capacité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2830,6 +2846,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fast forward days=190</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T140954Z" creationid="Olivier" creationdate="20200426T140954Z">
+        <seg>Fast forward days=190</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fast forward days=5</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T131227Z" creationid="Inrepublica" creationdate="20200423T131227Z">
@@ -3186,6 +3210,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T063931Z" creationid="Inrepublica" creationdate="20200426T063931Z">
         <seg>Footwear Store|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For R&amp;D units, training improves their R&amp;D efficiency.^^For ~manufacturing units~, training increases their productivity and capacities.^^For ~livestock raising units~ and ~crop growing units~, training improves the quality of their output as well as their capacities.^^For ~purchasing units~ and ~sale units~, training increases their efficiency and capacities.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T140538Z" creationid="Olivier" creationdate="20200426T140538Z">
+        <seg>Pour les unités de R&amp;D, la formation améliore leur efficacité en matière de R&amp;D.^^Pour les ~unités de fabrication~, la formation augmente leur productivité et leurs capacités.^^Pour les ~unités d'élevage~ et les ~unités de culture~, la formation améliore la qualité de leur production ainsi que leurs capacités.^^Pour les ~unités d'achats~ et les ~unités de ventes~, la formation augmente leur efficacité et leurs capacités.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5433,6 +5465,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now all the staff in the firm will receive training.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T140724Z" creationid="Olivier" creationdate="20200426T140724Z">
+        <seg>Désormais, tout le personnel de l'entreprise va recevoir une formation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now choose ~Retail Store~ from the menu.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T215432Z" creationid="Olivier" creationdate="20200423T124636Z">
@@ -6561,6 +6601,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=450,484,459,534</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T140709Z" creationid="Olivier" creationdate="20200426T140709Z">
+        <seg>Pointer=450,484,459,534</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=461,232,643,285</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T133752Z" creationid="Olivier" creationdate="20200423T133752Z">
@@ -7601,6 +7649,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>So feel free to set the training slider to maximum.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T140912Z" creationid="Olivier" creationdate="20200426T140912Z">
+        <seg>N'hésitez donc pas à régler le curseur de formation au maximum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Software Revenue Index</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T163245Z" creationid="Inrepublica" creationdate="20200422T163245Z">
@@ -7901,6 +7957,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T214745Z" creationid="Olivier" creationdate="20200425T214745Z">
         <seg>Text Box=150,120,600,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Box=150,160,500,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T140740Z" creationid="Olivier" creationdate="20200426T140740Z">
+        <seg>Text Box=150,160,500,0</seg>
       </tuv>
     </tu>
     <tu>
@@ -8769,6 +8833,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The ~training bar~ is situated at the lower center of the firm detail window.^^You may adjust the amount of training the current firm receives by clicking a point on the training bar.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T140601Z" creationid="Olivier" creationdate="20200426T140601Z">
+        <seg>La ~barre de formation~ est située au centre inférieur de la fenêtre de détail de l'entreprise.^^Vous pouvez ajuster la quantité de formation reçue par l'entreprise actuelle en cliquant sur un point de la barre de formation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The ~yellow SUPPLY bar~ indicates the quantity of the product you have in store and the ~orange DEMAND bar~ measures the consumer demand for that product.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T213806Z" creationid="Olivier" creationdate="20200422T170239Z">
@@ -8789,6 +8861,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T094747Z" creationid="Olivier" creationdate="20200424T094537Z">
         <seg>Sélectionnez ensuite ~Acier~ dans la liste des fournisseurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There are 12 staff members in each R&amp;D unit, represented by 12 figures in red overalls.^^During training, those who have been trained already will be shown wearing blue overalls.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T140800Z" creationid="Olivier" creationdate="20200426T140800Z">
+        <seg>Chaque unité de R&amp;D compte 12 membres du personnel, représentés par 12 chiffres dans des combinaisons rouges.^^Au cours de la formation, ceux qui ont déjà été formés seront montrés portant des combinaisons bleues.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9401,6 +9481,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Training can be costly for a company with limited cash but the end results are worth the initial outlay of money.^^In this tutorial game, you are fortune to start with ample cash.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T140858Z" creationid="Olivier" creationdate="20200426T140858Z">
+        <seg>La formation peut être coûteuse pour une entreprise disposant de peu de liquidités, mais les résultats finaux valent la mise de fonds initiale.^^ Dans cette partie de tutoriel, vous avez la chance de commencer avec beaucoup d'argent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Try to find a location close to residential buildings to benefit from high customer traffic.^^If the location is shaded in ~yellow~, it means a valid location for building your department store.^^When you have chosen a location, left click and the department store will be built.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T215657Z" creationid="Olivier" creationdate="20200422T211649Z">
@@ -9897,10 +9985,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When the bar is set to full, it means you have allocated the maximum possible training budget to it.^^Try it now by setting the training for the current firm.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T140707Z" creationid="Olivier" creationdate="20200426T140707Z">
+        <seg>Lorsque la barre est pleine, cela signifie que vous lui avez alloué le budget de formation maximum possible.^^ Essayez de le faire maintenant en définissant la formation pour l'entreprise actuelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When the economy is in a downturn, consumers will cut back spending on products of low necessity indices.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T123431Z" creationid="Olivier" creationdate="20200424T123431Z">
         <seg>Lorsque l'économie est en récession, les consommateurs réduisent leurs dépenses sur les produits avec un faible indice de nécessité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the entire staff of a functional unit has been trained (all in blue overalls), the unit's experience level will increase by one point and the staff's overall color will revert to red.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T140831Z" creationid="Olivier" creationdate="20200426T140831Z">
+        <seg>Lorsque l'ensemble du personnel d'une unité fonctionnelle a été formé (tous en bleu de travail), le niveau d'expérience de l'unité augmente d'un point et la couleur générale du personnel redevient rouge.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10133,6 +10237,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T154740Z" creationid="Olivier" creationdate="20200425T154740Z">
         <seg>Vous avez fait un excellent travail pour vous familiariser avec le marché boursier !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have done a great job laying a solid foundation for your business to grow with sound R&amp;D facilities and familiarized yourself with the training interface.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T141148Z" creationid="Olivier" creationdate="20200426T141148Z">
+        <seg>Vous avez fait un excellent travail en établissant une base solide pour que votre entreprise puisse se développer avec des installations de R&amp;D solides et vous vous êtes familiarisé avec l'interface de formation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10522,6 +10634,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Your efforts will pay off as you attempt to take your business to the next level.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T141202Z" creationid="Olivier" creationdate="20200426T141202Z">
+        <seg>Vos efforts seront récompensés lorsque vous essaierez de faire passer votre entreprise au niveau supérieur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Your factory sells product class=Apparel</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T152722Z" creationid="Acer" creationdate="20200424T152722Z">
@@ -10542,6 +10662,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T214426Z" creationid="Olivier" creationdate="20200425T214426Z">
         <seg>Votre ferme a commencé à élever du bétail. ^^À droite de ~l'unité d'élevage~, construisez une ~unité de transformation du bétail~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your goal in this tutorial game is to grow your business from a humble manufacturer of Air Conditioners to a successful enterprise ~dominating the entire Home Appliances market~, and at the same time generating ~an annual profit of at least $20 million~.^^Good Luck!</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T141240Z" creationid="Olivier" creationdate="20200426T141240Z">
+        <seg>Votre objectif dans ce tutoriel est de faire passer votre entreprise d'un modeste fabricant de climatiseurs à une entreprise florissante ~dominant l'ensemble du marché des appareils ménagers~, tout en générant ~un profit annuel d'au moins 20 millions de dollars~.^^Bonne chance !</seg>
       </tuv>
     </tu>
     <tu>
