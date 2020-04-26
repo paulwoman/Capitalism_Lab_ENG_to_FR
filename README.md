@@ -67,7 +67,7 @@ Il est à préciser que les fichiers proposés actuellement doivent encore être
 | Fichiers         | Progression     | Relecture Inrepublica | Relecture PaulWoman | Concordance |
 | :--------------- |:--------------- |:---------------|:---------------|:---------------|
 | tutorial 1.txt   | 100 %           | ok             | ok             | ok             |
-| tutorial 2.txt   | 95 %            |                | ok             |                |
+| tutorial 2.txt   | 100 %           | ok             | ok             | ok             |
 | tutorial 3.txt   | 95 %            |                | ok             |                |
 | tutorial 4.txt   | 95 %            |                | ok             |                |
 | tutorial 5.txt   | 95 %            |                | ok             |                |
