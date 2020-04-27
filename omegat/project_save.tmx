@@ -1582,6 +1582,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Back to previous firm (hotkey: q)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T131830Z" creationid="Olivier" creationdate="20200427T131803Z">
+        <seg>Revenir à l'entreprise précédente (touche de raccourci : q)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Base Loan Interest Rate</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164720Z" creationid="Inrepublica" creationdate="20200422T164720Z">
@@ -2672,16 +2680,24 @@
       <tuv lang="en-US">
         <seg>Display the Mini Map</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T120300Z" creationid="Olivier" creationdate="20200427T120300Z">
-        <seg>Afficher la mini carte</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T131723Z" creationid="Olivier" creationdate="20200427T120300Z">
+        <seg>Affiche la mini carte</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Display the Toolbox menu.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T120206Z" creationid="Olivier" creationdate="20200427T120206Z">
-        <seg>Afficher le menu de la boîte à outils.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T131719Z" creationid="Olivier" creationdate="20200427T120206Z">
+        <seg>Affiche le menu de la boîte à outils.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Display the World Map</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T131730Z" creationid="Olivier" creationdate="20200427T131556Z">
+        <seg>Affiche la carte du monde</seg>
       </tuv>
     </tu>
     <tu>
@@ -2854,6 +2870,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each department has a unique function and enable you to run your corporation with greater efficiency.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T132043Z" creationid="Olivier" creationdate="20200427T132043Z">
+        <seg>Chaque service a une fonction unique et vous permet de gérer votre entreprise avec une plus grande efficacité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Each retail store has four product slots.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T123615Z" creationid="Olivier" creationdate="20200423T123615Z">
@@ -2890,6 +2914,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T063929Z" creationid="Inrepublica" creationdate="20200426T063929Z">
         <seg>Electronics Store|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Event Tracker (hotkey: F5)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T131646Z" creationid="Olivier" creationdate="20200427T131646Z">
+        <seg>Suivi des événements (touche de raccourci : F5)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3146,6 +3178,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T092737Z" creationid="Olivier" creationdate="20200424T092737Z">
         <seg>Firm count=Factory, 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm count=Headquarters, 1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T132240Z" creationid="Olivier" creationdate="20200427T132240Z">
+        <seg>Firm count=Headquarters, 1</seg>
       </tuv>
     </tu>
     <tu>
@@ -4000,6 +4040,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go back to the previously selected firm</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T131820Z" creationid="Olivier" creationdate="20200427T131820Z">
+        <seg>Revenir à l'entreprise sélectionnée précédemment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=Achieve an annual revenue of $20 million to complete this tutorial.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T124733Z" creationid="Olivier" creationdate="20200427T124733Z">
@@ -4729,6 +4777,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In this tutorial, you will learn about setting up various useful departments in ~your headquarters~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T132009Z" creationid="Olivier" creationdate="20200427T132009Z">
+        <seg>Dans ce tutoriel, vous apprendrez à mettre en place divers services utiles dans ~votre siège social~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In today's crowded market, advertising is essential for building consumer awareness and making your products stand out from the competition.^^This tutorial explains how branding and advertising works in the game and how you can get most out of it by making smart marketing decisions.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T142305Z" creationid="Olivier" creationdate="20200425T142305Z">
@@ -4789,6 +4845,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151242Z" creationid="Inrepublica" creationdate="20200423T151242Z">
         <seg>Inflation=Off</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Information Center</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T131606Z" creationid="Olivier" creationdate="20200427T131606Z">
+        <seg>Centre d'informations</seg>
       </tuv>
     </tu>
     <tu>
@@ -6257,10 +6321,34 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open the Event Tracker Window</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T131742Z" creationid="Olivier" creationdate="20200427T131742Z">
+        <seg>Affiche la fenêtre de suivi des événements</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the Information Center screen</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T131735Z" creationid="Olivier" creationdate="20200427T131629Z">
+        <seg>Affiche l'écran du centre d'informations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open the ~Information Center~ now.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T203650Z" creationid="Acer" creationdate="20200424T203610Z">
         <seg>Ouvrez à présent le ~centre d'informations~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Otherwise, you may simply choose a less expensive location and save the money for future business expansions.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T132236Z" creationid="Olivier" creationdate="20200427T132236Z">
+        <seg>Sinon, vous pouvez simplement choisir un emplacement moins cher et économiser l'argent pour de futures expansions de votre entreprise.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7897,6 +7985,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select ~Headquarters~ from the building menu and find a location to build it.^^If your corporation is flush in cash, you may choose a prime location in the downtown for building your headquarters.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T132111Z" creationid="Olivier" creationdate="20200427T132111Z">
+        <seg>Sélectionnez ~Siège social~ dans le menu des bâtiments et trouvez un endroit pour le construire.^^Si votre société est riche en argent, vous pouvez choisir un emplacement de choix dans le centre-ville pour construire votre siège social.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select ~Purchasing Unit~ from the list.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T100040Z" creationid="Olivier" creationdate="20200423T143535Z">
@@ -8749,6 +8845,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T170510Z" creationid="Acer" creationdate="20200424T170510Z">
         <seg>Text Box=430,150,350,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Box=50,240,350,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T132237Z" creationid="Olivier" creationdate="20200427T132237Z">
+        <seg>Text Box=50,240,350,0</seg>
       </tuv>
     </tu>
     <tu>
@@ -9782,6 +9886,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164154Z" creationid="Inrepublica" creationdate="20200422T164154Z">
         <seg>Cela détermine si les sociétés d'IA peuvent acquérir des sociétés privées indépendantes ou non.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This figure is the amount of cash your corporation currently has.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T131911Z" creationid="Olivier" creationdate="20200427T131911Z">
+        <seg>Ce chiffre correspond au montant des liquidités dont dispose actuellement votre société.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11407,6 +11519,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150149Z" creationid="Inrepublica" creationdate="20200422T150149Z">
         <seg>Votre avantage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your Corporation's Cash</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T131850Z" creationid="Olivier" creationdate="20200427T131850Z">
+        <seg>La trésorerie de votre entreprise.</seg>
       </tuv>
     </tu>
     <tu>
