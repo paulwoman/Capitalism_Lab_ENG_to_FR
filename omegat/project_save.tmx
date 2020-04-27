@@ -9081,6 +9081,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The orange bar indicates the demand of the product from the current firm.^</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T113658Z" creationid="Olivier" creationdate="20200427T113658Z">
+        <seg>La barre orange indique la demande du produit auprès de l'entreprise actuelle.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The orange one is the processing capacity bar.^^If the livestock supply bar is shorter than the processing capacity bar, this means that the unit is underused and can process more livestock.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T170919Z" creationid="Olivier" creationdate="20200426T170919Z">
@@ -9265,6 +9273,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The type of product that is being brought into the warehouse.^</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T104111Z" creationid="Olivier" creationdate="20200427T104111Z">
+        <seg>Le type de produit qui est introduit dans l'entrepôt.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The type of product that is being processing.^</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T171829Z" creationid="Olivier" creationdate="20200426T171829Z">
@@ -9341,6 +9357,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T102131Z" creationid="Olivier" creationdate="20200427T102131Z">
         <seg>La barre jaune indique la fourniture du produit par le fournisseur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The yellow bar indicates the supply of the product from the source.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T104125Z" creationid="Olivier" creationdate="20200427T104125Z">
+        <seg>La barre jaune indique l'approvisionnement du produit à partir de la source.</seg>
       </tuv>
     </tu>
     <tu>
