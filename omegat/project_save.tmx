@@ -4000,6 +4000,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=Achieve an annual revenue of $20 million to complete this tutorial.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T124733Z" creationid="Olivier" creationdate="20200427T124733Z">
+        <seg>Goal Description=Réalisez un revenu annuel de 20 millions de dollars pour réaliser ce tutoriel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=Achieve an annual revenue of $30 million and an annual profit of $3 million to complete this tutorial.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T205408Z" creationid="Olivier" creationdate="20200423T205408Z">
@@ -4053,6 +4061,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T210851Z" creationid="Olivier" creationdate="20200423T210851Z">
         <seg>Goal Description=Votre objectif est de faire de votre entreprise une grande société avec ~1000 employés ou plus~, et d'atteindre ~un chiffre d'affaires annuel d'un milliard de dollars~ et ~un bénéfice annuel de 100 millions de dollars~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Tutorial Goal</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T124711Z" creationid="Olivier" creationdate="20200427T124711Z">
+        <seg>Goal Title=Objectif du tutoriel</seg>
       </tuv>
     </tu>
     <tu>
