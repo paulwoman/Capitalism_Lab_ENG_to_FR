@@ -9089,6 +9089,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The orange bar indicates the external demand of the product.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T114311Z" creationid="Olivier" creationdate="20200427T114311Z">
+        <seg>The orange bar indicates the external demand of the product.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The orange one is the processing capacity bar.^^If the livestock supply bar is shorter than the processing capacity bar, this means that the unit is underused and can process more livestock.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T170919Z" creationid="Olivier" creationdate="20200426T170919Z">
@@ -9269,6 +9277,15 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T103852Z" creationid="Olivier" creationdate="20200427T103852Z">
         <seg>Le type de produit dans cette unité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The type of product that is available from this warehouse unit.^</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T113745Z" creationid="Olivier" creationdate="20200427T113745Z">
+        <seg>
+Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</seg>
       </tuv>
     </tu>
     <tu>
@@ -14608,6 +14625,14 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T103016Z" creationid="Olivier" creationdate="20200427T103016Z">
         <seg>[Technology Research and Development Unit]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Warehouse Output]</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T113705Z" creationid="Olivier" creationdate="20200427T113705Z">
+        <seg>[Warehouse Output]</seg>
       </tuv>
     </tu>
     <tu>
