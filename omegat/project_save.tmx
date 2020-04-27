@@ -2742,6 +2742,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>During a manufacturing process, raw materials must first go into a manufacturing unit and then converted into products.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T101040Z" creationid="Olivier" creationdate="20200427T101040Z">
+        <seg>Au cours d'un processus de fabrication, les matières premières doivent d'abord entrer dans une unité de fabrication, puis être transformées en produits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>E-commerce</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164456Z" creationid="Inrepublica" creationdate="20200422T164456Z">
@@ -4953,6 +4961,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It can manufacture no more goods even if there is additional supply and demand.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T101137Z" creationid="Olivier" creationdate="20200427T101137Z">
+        <seg>Elle ne peut plus fabriquer de biens même si l'offre et la demande augmentent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It determines the competence of local competitors - their general capabilities to sell high quality products at competitive prices.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T155909Z" creationid="Inrepublica" creationdate="20200422T155909Z">
@@ -6149,6 +6165,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T200413Z" creationid="Olivier" creationdate="20200424T122438Z">
         <seg>D'autre part, pour certains produits comme la ~viande congelée~, les consommateurs sont moins préoccupés par les ~marques~ et plus par la ~qualité~ et les ~prix~. Pour ces produits, la publicité doit être limitée et l'accent doit être mis sur l'optimisation de vos opérations commerciales afin d'offrir aux consommateurs des produits à prix plus bas et de meilleure qualité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the other hand, if this bar is short, this indicates that its facilities and resources are not being used effectively.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T101249Z" creationid="Olivier" creationdate="20200427T101249Z">
+        <seg>D'autre part, si cette barre est courte, cela indique que ses installations et ses ressources ne sont pas utilisées efficacement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8793,6 +8817,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The duration of the project.^</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T101758Z" creationid="Olivier" creationdate="20200427T101758Z">
+        <seg>La durée du projet.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The employee loyalty of the team lead.^</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T101518Z" creationid="Olivier" creationdate="20200427T101518Z">
+        <seg>La loyauté des employés de l'équipe dirigeante.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The figure in the top right corner of the unit is the ~unit's level~.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T110119Z" creationid="Olivier" creationdate="20200423T143421Z">
@@ -8889,6 +8929,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The length of each bar indicates the quantity of the raw material stocked in the unit.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T101025Z" creationid="Olivier" creationdate="20200427T101025Z">
+        <seg>La longueur de chaque barre indique la quantité de matière première stockée dans l'unité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The logic behind this is that Product Customization relies on technology levels to increase linearly to function properly, whereas Technology Disruption reduces all technology levels across the board by 10% annually.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T173105Z" creationid="Inrepublica" creationdate="20200422T173105Z">
@@ -8901,6 +8949,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T100358Z" creationid="Olivier" creationdate="20200423T145503Z">
         <seg>La partie inférieure gauche de l'écran affiche maintenant des détails sur votre unité d'achat et le produit qu'elle transporte.^^En dessous de l'image du produit, vous pouvez voir l'identité de couleur du fournisseur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The manufacturing process is suspended whenever any of its required raw materials is lacking.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T101053Z" creationid="Olivier" creationdate="20200427T101053Z">
+        <seg>Le processus de fabrication est suspendu lorsqu'une des matières premières nécessaires fait défaut.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8961,6 +9017,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The progress of the project.^</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T101839Z" creationid="Olivier" creationdate="20200427T101839Z">
+        <seg>La progression du projet.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The rating points of the media in which the product is being advertised.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T143858Z" creationid="Olivier" creationdate="20200426T143858Z">
@@ -9001,10 +9065,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The skill level of the team lead.^</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T101637Z" creationid="Olivier" creationdate="20200427T101436Z">
+        <seg>Le niveau de compétence du chef d'équipe de l'équipe dirigeante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The stock market allows for stock trading.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150823Z" creationid="Inrepublica" creationdate="20200422T150823Z">
         <seg>Le marché boursier permet la négociation d'actions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The stocks of raw materials are represented by a row of green bars here.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T101000Z" creationid="Olivier" creationdate="20200427T101000Z">
+        <seg>Les stocks de matières premières sont représentés ici par une rangée de barres vertes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9077,6 +9157,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T171829Z" creationid="Olivier" creationdate="20200426T171829Z">
         <seg>Le type de produit qui est transformé.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The type of product that the unit is currently manufacturing.^</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T100945Z" creationid="Olivier" creationdate="20200427T100945Z">
+        <seg>Le type de produit que l'unité fabrique actuellement.^</seg>
       </tuv>
     </tu>
     <tu>
@@ -9553,6 +9641,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This might contribute to the firm's low profitability.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T101302Z" creationid="Olivier" creationdate="20200427T101302Z">
+        <seg>Cela pourrait contribuer à la faible rentabilité de l'entreprise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This modifies the base interest rate which affects bonds and bank loans.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164733Z" creationid="Inrepublica" creationdate="20200422T164733Z">
@@ -9709,6 +9805,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T143928Z" creationid="Olivier" creationdate="20200426T143928Z">
         <seg>Ainsi, plus les points de classement sont élevés, plus l'effet de la publicité est important.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thus, to have the unit operating at maximum efficiency, you must provide a consistent supply of raw materials.^</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T101115Z" creationid="Olivier" creationdate="20200427T101115Z">
+        <seg>Ainsi, pour que l'unité fonctionne au maximum de son efficacité, vous devez assurer un approvisionnement constant en matières premières.^</seg>
       </tuv>
     </tu>
     <tu>
@@ -13626,6 +13730,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[Inventory Unit]</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T100921Z" creationid="Olivier" creationdate="20200427T100921Z">
+        <seg>[Inventory Unit]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[LNGD]%2j{January|February|March|April|May|June|July|August|September|October|November|December} %1d, %3,4d</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T112247Z" creationid="Inrepublica" creationdate="20200422T112247Z">
@@ -13642,10 +13754,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[Livestock Processing Unit]</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T100914Z" creationid="Olivier" creationdate="20200427T100914Z">
+        <seg>[Livestock Processing Unit]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Livestock Raising Unit]</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T084659Z" creationid="Inrepublica" creationdate="20200423T064431Z">
         <seg>[Unité d'élevage de bétail]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Logging Unit]</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T100918Z" creationid="Olivier" creationdate="20200427T100918Z">
+        <seg>[Logging Unit]</seg>
       </tuv>
     </tu>
     <tu>
@@ -13778,6 +13906,30 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[Manufacturing Unit]</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T100928Z" creationid="Olivier" creationdate="20200427T100928Z">
+        <seg>[Manufacturing Unit]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Mining Unit]</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T101330Z" creationid="Olivier" creationdate="20200427T101330Z">
+        <seg>[Mining Unit]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Oil Extraction Unit]</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T101332Z" creationid="Olivier" creationdate="20200427T101332Z">
+        <seg>[Oil Extraction Unit]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[POS]</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202605Z" creationid="Inrepublica" creationdate="20200422T202605Z">
@@ -13804,6 +13956,22 @@ Window=Select Supplier</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T171805Z" creationid="Olivier" creationdate="20200426T171805Z">
         <seg>[Private Labelling Unit]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Project Management Unit]</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T101646Z" creationid="Olivier" creationdate="20200427T101646Z">
+        <seg>[Project Management Unit]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Project Programming Unit]</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T101640Z" creationid="Olivier" creationdate="20200427T101640Z">
+        <seg>[Project Programming Unit]</seg>
       </tuv>
     </tu>
     <tu>
@@ -14388,6 +14556,14 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>~Loyalty~</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T101451Z" creationid="Olivier" creationdate="20200427T101451Z">
+        <seg>~Loyauté~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>~Monthly Advertising Expense~</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T143953Z" creationid="Olivier" creationdate="20200426T143953Z">
@@ -14412,6 +14588,22 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>~Project Duration~</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T101735Z" creationid="Olivier" creationdate="20200427T101735Z">
+        <seg>~Project Duration~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~Project Progress~</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T101858Z" creationid="Olivier" creationdate="20200427T101820Z">
+        <seg>~Progression du projet~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>~Rating Points~</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T143715Z" creationid="Olivier" creationdate="20200426T143715Z">
@@ -14432,6 +14624,14 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T171614Z" creationid="Olivier" creationdate="20200426T171614Z">
         <seg>~Stock de matières premieres~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~Skill Level~</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T101422Z" creationid="Olivier" creationdate="20200427T101422Z">
+        <seg>~Niveau de compétence~</seg>
       </tuv>
     </tu>
     <tu>
