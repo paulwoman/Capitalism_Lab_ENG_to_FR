@@ -82,29 +82,29 @@ Il est à préciser que les fichiers proposés actuellement doivent encore être
 | EXTERN.txt       | 100 %           |                |                |                |
 | FARMCROP.txt     | 100 %           |                |                |                |
 | FARMLIVE.txt     | 100 %           |                |                |                |
-| FARMPROC.txt     |  50 %           |                |                |                |
-| FOREST.txt       |   0 %           |                |                |                |
-| INV.txt          |   0 %           |                |                |                |
-| LABEL.txt        |   0 %           |                |                |                |
-| MFT.txt          |   0 %           |                |                |                |
-| MINE.txt         |   0 %           |                |                |                |
-| OIL.txt          |   0 %           |                |                |                |
-| PROJCODE.txt     |   0 %           |                |                |                |
-| PROJECT.txt      |   0 %           |                |                |                |
-| PUR.txt          |   0 %           |                |                |                |
-| RADRD.txt        |   0 %           |                |                |                |
-| RD.txt           |   0 %           |                |                |                |
-| TECH.txt         |   0 %           |                |                |                |
-| TECHCODE.txt     |   0 %           |                |                |                |
-| WAREINV.txt      |   0 %           |                |                |                |
-| WAREPUR.txt      |   0 %           |                |                |                |
-| WARESALE.txt     |   0 %           |                |                |                |
+| FARMPROC.txt     | 100 %           |                |                |                |
+| FOREST.txt       | 100 %           |                |                |                |
+| INV.txt          | 100 %           |                |                |                |
+| LABEL.txt        | 100 %           |                |                |                |
+| MFT.txt          | 100 %           |                |                |                |
+| MINE.txt         | 100 %           |                |                |                |
+| OIL.txt          | 100 %           |                |                |                |
+| PROJCODE.txt     | 100 %           |                |                |                |
+| PROJECT.txt      | 100 %           |                |                |                |
+| PUR.txt          | 100 %           |                |                |                |
+| RADRD.txt        | 100 %           |                |                |                |
+| RD.txt           | 100 %           |                |                |                |
+| TECH.txt         | 100 %           |                |                |                |
+| TECHCODE.txt     | 100 %           |                |                |                |
+| WAREINV.txt      | 100 %           |                |                |                |
+| WAREPUR.txt      | 100 %           |                |                |                |
+| WARESALE.txt     | 100 %           |                |                |                |
 
 # Outils
 Dans le répertoire outils se trouve un petit fichier bat qui vous permet de copier directement la traduction en cours dans le répertoire du jeu Capitalism Lab.
 Pour ce faire, éditez simplement copy_translation.bat avec un éditeur de texte et changer le paramètre source et cible par les vôtres. Par exemple: `source=C:\Users\Toto\Desktop\Capitalism_Lab\target` et `cible="C:\Users\Toto\AppData\Local\Capitalism Lab"`
 
-Il y a aussi la version "copy_translation_defaut" qui permets de copier la traduction si vous mis le fichier d'OmegaT dans le dossier par défaut. 
+Il y a aussi la version "copy_translation_defaut" qui permets de copier la traduction si vous avez mis le fichier d'OmegaT dans le dossier par défaut. 
 
 Faites l'opération avec l'utilisateur qui a installé le jeu.
 
