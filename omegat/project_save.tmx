@@ -2846,6 +2846,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each software company can only have one Project Management unit.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T102010Z" creationid="Olivier" creationdate="20200427T102010Z">
+        <seg>Chaque société de logiciels ne peut avoir qu'une seule unité de gestion de projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Each ~Livestock Processing Unit~ can only process one product at a time.^^Now click ~Select Product~ and select ~Frozen Beef~ from the available choices.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T214743Z" creationid="Olivier" creationdate="20200425T214743Z">
@@ -4337,6 +4345,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the supply bar is shorter than the demand bar, that means there is a lack of supply.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T102159Z" creationid="Olivier" creationdate="20200427T102159Z">
+        <seg>Si la barre de l'offre est plus courte que celle de la demande, cela signifie qu'il y a un manque d'offre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the supply shortage is persistent, you should consider switching to a better supplier.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T065722Z" creationid="Olivier" creationdate="20200423T142858Z">
@@ -4637,6 +4653,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T085046Z" creationid="Olivier" creationdate="20200424T085046Z">
         <seg>Dans les tutoriels précédents, vous avez appris comment acheter des produits auprès de fournisseurs et les mettre simplement en vente dans vos magasins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In this case, you should consider switching to a better supplier.^</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T102227Z" creationid="Olivier" creationdate="20200427T102227Z">
+        <seg>Dans ce cas, vous devriez envisager de passer à un meilleur fournisseur.^</seg>
       </tuv>
     </tu>
     <tu>
@@ -6213,6 +6237,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T092842Z" creationid="Inrepublica" creationdate="20200426T092842Z">
         <seg>Produit en sortie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overall firm performance may be affected by the lack of the supply.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T102211Z" creationid="Olivier" creationdate="20200427T102211Z">
+        <seg>La performance globale de l'entreprise peut être affectée par le manque d'approvisionnement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8817,6 +8849,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The duration of the R&amp;D project.^</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T102518Z" creationid="Olivier" creationdate="20200427T102518Z">
+        <seg>La durée du projet de R&amp;D.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The duration of the project.^</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T101758Z" creationid="Olivier" creationdate="20200427T101758Z">
@@ -9001,6 +9041,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The orange bar indicates the demand of the product from the current firm.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T102144Z" creationid="Olivier" creationdate="20200427T102144Z">
+        <seg>La barre orange indique la demande du produit auprès de l'entreprise actuelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The orange one is the processing capacity bar.^^If the livestock supply bar is shorter than the processing capacity bar, this means that the unit is underused and can process more livestock.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T170919Z" creationid="Olivier" creationdate="20200426T170919Z">
@@ -9013,6 +9061,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T100623Z" creationid="Olivier" creationdate="20200423T151202Z">
         <seg>Les produits que votre unité d'achats a commandé devraient déjà avoir été livrés à votre magasin, et votre unité d'achats devrait avoir commencé à travailler avec votre unité de vente en lui fournissant du stock.^^Regardons votre ~unité de ventes~ en la sélectionnant maintenant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The progress of the current R&amp;D project.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T102736Z" creationid="Olivier" creationdate="20200427T102736Z">
+        <seg>L'état d'avancement du projet de R&amp;D en cours.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9145,6 +9201,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The type of product currently being researched.^</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T102325Z" creationid="Olivier" creationdate="20200427T102325Z">
+        <seg>Le type de produit faisant actuellement l'objet de recherches.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The type of product in the inventory unit.^</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T171750Z" creationid="Olivier" creationdate="20200426T171750Z">
@@ -9169,6 +9233,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The type of product that the unit is currently purchasing.^</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T102036Z" creationid="Olivier" creationdate="20200427T102036Z">
+        <seg>Le type de produit que l'unité achète actuellement.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The type of product which the unit is currently selling.^</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T102838Z" creationid="Olivier" creationdate="20200427T102838Z">
+        <seg>Le type de produit que l'unité vend actuellement.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The white colored buildings on display are government owned and as such do not show a profit or a loss.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T210640Z" creationid="Olivier" creationdate="20200422T210640Z">
@@ -9181,6 +9261,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T123418Z" creationid="Olivier" creationdate="20200423T123418Z">
         <seg>La fenêtre se met à jour pour montrer tous les produits disponibles dans les ports maritimes locaux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The yellow bar indicates the supply of the product by the supplier.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T102131Z" creationid="Olivier" creationdate="20200427T102131Z">
+        <seg>La barre jaune indique la fourniture du produit par le fournisseur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13960,6 +14048,14 @@ Window=Select Supplier</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[Product Research and Development Unit]</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T102800Z" creationid="Olivier" creationdate="20200427T102800Z">
+        <seg>[Product Research and Development Unit]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Project Management Unit]</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T101646Z" creationid="Olivier" creationdate="20200427T101646Z">
@@ -13976,10 +14072,34 @@ Window=Select Supplier</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[Purchasing Unit]</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T102021Z" creationid="Olivier" creationdate="20200427T102021Z">
+        <seg>[Purchasing Unit]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Radical Research and Development Unit]</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T102546Z" creationid="Olivier" creationdate="20200427T102546Z">
+        <seg>[Radical Research and Development Unit]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[SHRD]%2j{Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec} %1d, %3,4d</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T112743Z" creationid="Inrepublica" creationdate="20200422T112743Z">
         <seg>[SHRD]%2j{Jan|Fev|Mar|Avr|Mai|Jun|Jul|Aou|Sep|Oct|Nov|Dec} %1d, %3,4d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Sales Unit]</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T102823Z" creationid="Olivier" creationdate="20200427T102823Z">
+        <seg>[Sales Unit]</seg>
       </tuv>
     </tu>
     <tu>
@@ -14588,6 +14708,14 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>~Progress Indicator~</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T102545Z" creationid="Olivier" creationdate="20200427T102545Z">
+        <seg>~Indicateur de progrès~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>~Project Duration~</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T101735Z" creationid="Olivier" creationdate="20200427T101735Z">
@@ -14600,6 +14728,14 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T101858Z" creationid="Olivier" creationdate="20200427T101820Z">
         <seg>~Progression du projet~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~R&amp;D Duration~</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T102454Z" creationid="Olivier" creationdate="20200427T102454Z">
+        <seg>~Durée du R&amp;D ~</seg>
       </tuv>
     </tu>
     <tu>
@@ -14632,6 +14768,22 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T101422Z" creationid="Olivier" creationdate="20200427T101422Z">
         <seg>~Niveau de compétence~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~Supply and Demand Bar~</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T102119Z" creationid="Olivier" creationdate="20200427T102119Z">
+        <seg>~Barre de l'offre et de la demande~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>~Supply and Demand~</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T102909Z" creationid="Olivier" creationdate="20200427T102909Z">
+        <seg>~L'offre et la demande~</seg>
       </tuv>
     </tu>
     <tu>
