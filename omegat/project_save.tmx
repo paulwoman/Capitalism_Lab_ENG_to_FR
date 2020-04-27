@@ -2670,6 +2670,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Display the Mini Map</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T120300Z" creationid="Olivier" creationdate="20200427T120300Z">
+        <seg>Afficher la mini carte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Display the Toolbox menu.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T120206Z" creationid="Olivier" creationdate="20200427T120206Z">
+        <seg>Afficher le menu de la boîte à outils.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Do you accept?|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155515Z" creationid="Inrepublica" creationdate="20200425T155515Z">
@@ -5633,6 +5649,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mini Map (hotkey: 'M')</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T120241Z" creationid="Olivier" creationdate="20200427T120241Z">
+        <seg>Mini carte (touche de raccourci : "M")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>More Talents</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T165227Z" creationid="Inrepublica" creationdate="20200422T165227Z">
@@ -7301,6 +7325,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T205604Z" creationid="Inrepublica" creationdate="20200422T165347Z">
         <seg>Sexe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Press Ctrl-T to toggle between the standard menu and the extended menu.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T120220Z" creationid="Olivier" creationdate="20200427T120220Z">
+        <seg>Appuyez sur Ctrl-T pour basculer entre le menu standard et le menu étendu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10194,6 +10226,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Toolbox</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T120152Z" creationid="Olivier" creationdate="20200427T120152Z">
+        <seg>Boite à outils</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tous les fournisseurs (F2)|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155558Z" creationid="Inrepublica" creationdate="20200425T155558Z">
@@ -10902,6 +10942,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T215255Z" creationid="Olivier" creationdate="20200423T124518Z">
         <seg>L'écran n'affichant toujours que votre grand magasin (sous la forme d'un carré coloré), cliquez sur l'icône du mode ~Relations d'affaires~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>World Map (hotkey: Ctrl-W)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T120315Z" creationid="Olivier" creationdate="20200427T120315Z">
+        <seg>Carte du monde (touche de raccourci : Ctrl-W)</seg>
       </tuv>
     </tu>
     <tu>
