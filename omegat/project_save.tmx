@@ -12306,10 +12306,50 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0574]Cannot purchase the firm|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200427T074854Z" creationid="Inrepublica" creationdate="20200427T074854Z">
+        <seg>[0574]Impossible d’acheter l'établissement|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0575]Cannot purchase the technology|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200427T074910Z" creationid="Inrepublica" creationdate="20200427T074910Z">
+        <seg>[0575]Impossible d'acheter la technologie|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0576]Salary Raise Request|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200427T074925Z" creationid="Inrepublica" creationdate="20200427T074925Z">
+        <seg>[0576]Demande d'augmentation de salaire|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0577]Layout Plan|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T102716Z" creationid="Inrepublica" creationdate="20200426T102716Z">
         <seg>[0577]Disposition du plan|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0578]The highlighted firm doesn't have a layout.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200427T074954Z" creationid="Inrepublica" creationdate="20200427T074954Z">
+        <seg>[0578]L'établissement en surbrillance n'a pas de disposition.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0579]The firm type of the current plan is different from that of the highlighted firm.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200427T075112Z" creationid="Inrepublica" creationdate="20200427T075112Z">
+        <seg>[0579]Le type d'établissement pour cette disposition est différent de l'établissement en surbrillance.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -12322,10 +12362,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0582]CHEAT ENABLE|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200427T075126Z" creationid="Inrepublica" creationdate="20200427T075126Z">
+        <seg>[0582]TRICHE ACTIVÉ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0583]Save Game|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T053612Z" creationid="Inrepublica" creationdate="20200423T053612Z">
         <seg>[0583]Sauvegarder Jeux|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0584]Diversified|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200427T075135Z" creationid="Inrepublica" creationdate="20200427T075135Z">
+        <seg>[0584]Diversifié|</seg>
       </tuv>
     </tu>
     <tu>
