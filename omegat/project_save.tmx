@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>//---MAIN GOAL-------------------------------------------------------//</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170709Z" creationid="Olivier" creationdate="20200427T170709Z">
+        <seg>//---MAIN GOAL-------------------------------------------------------//</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>//---PLAYER EXPERTISE------------------------------------------------//</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170638Z" creationid="Olivier" creationdate="20200427T170638Z">
@@ -342,10 +350,50 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>//---PRODUCT EXPERTISE-----------------------------------------------//</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170658Z" creationid="Olivier" creationdate="20200427T170658Z">
+        <seg>//---PRODUCT EXPERTISE-----------------------------------------------//</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>//---SPECIAL RULES---------------------------------------------------//</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170618Z" creationid="Olivier" creationdate="20200427T170618Z">
         <seg>//---SPECIAL RULES---------------------------------------------------//</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>//---SUBGOAL---------------------------------------------------------//</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170836Z" creationid="Olivier" creationdate="20200427T170836Z">
+        <seg>//---SUBGOAL---------------------------------------------------------//</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>//Firm, Department Store</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171450Z" creationid="Olivier" creationdate="20200427T171450Z">
+        <seg>//Firm, Department Store</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>//Firm, Farm</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171455Z" creationid="Olivier" creationdate="20200427T171455Z">
+        <seg>//Firm, Farm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>//Firm, R&amp;D Center</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171454Z" creationid="Olivier" creationdate="20200427T171454Z">
+        <seg>//Firm, R&amp;D Center</seg>
       </tuv>
     </tu>
     <tu>
@@ -714,6 +762,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151324Z" creationid="Inrepublica" creationdate="20200423T151324Z">
         <seg>AI Friendly Merger=Off</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AI Friendly Merger=Yes</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171343Z" creationid="Olivier" creationdate="20200427T171343Z">
+        <seg>AI Friendly Merger=Yes</seg>
       </tuv>
     </tu>
     <tu>
@@ -1274,6 +1330,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T151230Z" creationid="Inrepublica" creationdate="20200422T151230Z">
         <seg>Marché boursier alternatif </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Alternative Stock Sim=Yes</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171301Z" creationid="Olivier" creationdate="20200427T171301Z">
+        <seg>Alternative Stock Sim=Yes</seg>
       </tuv>
     </tu>
     <tu>
@@ -1910,6 +1974,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CEO Salary Modifier=50</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171307Z" creationid="Olivier" creationdate="20200427T171307Z">
+        <seg>CEO Salary Modifier=50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CHALCONF</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160054Z" creationid="Inrepublica" creationdate="20200422T160054Z">
@@ -1958,6 +2030,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CMO Salary Modifier=50</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171311Z" creationid="Olivier" creationdate="20200427T171311Z">
+        <seg>CMO Salary Modifier=50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>COMME_SC</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145929Z" creationid="Inrepublica" creationdate="20200422T145929Z">
@@ -1990,10 +2070,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>COO Salary Modifier=50</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171309Z" creationid="Olivier" creationdate="20200427T171309Z">
+        <seg>COO Salary Modifier=50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CTO Salary Modifier=1</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170631Z" creationid="Olivier" creationdate="20200427T170631Z">
         <seg>CTO Salary Modifier=1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CTO Salary Modifier=50</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171310Z" creationid="Olivier" creationdate="20200427T171310Z">
+        <seg>CTO Salary Modifier=50</seg>
       </tuv>
     </tu>
     <tu>
@@ -2118,10 +2214,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>City=Athens</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171332Z" creationid="Olivier" creationdate="20200427T171332Z">
+        <seg>City=Athens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>City=Bangkok</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T142102Z" creationid="Olivier" creationdate="20200425T142102Z">
         <seg>City=Bangkok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City=Chicago</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171331Z" creationid="Olivier" creationdate="20200427T171331Z">
+        <seg>City=Chicago</seg>
       </tuv>
     </tu>
     <tu>
@@ -2142,6 +2254,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>City=Hong Kong</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171329Z" creationid="Olivier" creationdate="20200427T171329Z">
+        <seg>City=Hong Kong</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City=Istanbul</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171328Z" creationid="Olivier" creationdate="20200427T171328Z">
+        <seg>City=Istanbul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>City=London</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T142056Z" creationid="Olivier" creationdate="20200425T142056Z">
@@ -2158,10 +2286,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>City=Moscow</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171326Z" creationid="Olivier" creationdate="20200427T171326Z">
+        <seg>City=Moscow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>City=New York City</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T085530Z" creationid="Olivier" creationdate="20200426T085530Z">
         <seg>City=New York City</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City=Paris</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171335Z" creationid="Olivier" creationdate="20200427T171335Z">
+        <seg>City=Paris</seg>
       </tuv>
     </tu>
     <tu>
@@ -2182,10 +2326,42 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>City=San Francisco</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171333Z" creationid="Olivier" creationdate="20200427T171333Z">
+        <seg>City=San Francisco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City=Shanghai</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171314Z" creationid="Olivier" creationdate="20200427T171314Z">
+        <seg>City=Shanghai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>City=Toronto</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T145216Z" creationid="Olivier" creationdate="20200426T145216Z">
         <seg>City=Toronto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City=Warsaw</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171322Z" creationid="Olivier" creationdate="20200427T171322Z">
+        <seg>City=Warsaw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City=Washington DC</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171325Z" creationid="Olivier" creationdate="20200427T171325Z">
+        <seg>City=Washington DC</seg>
       </tuv>
     </tu>
     <tu>
@@ -2358,6 +2534,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Competence of Local Competitors=High</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171346Z" creationid="Olivier" creationdate="20200427T171346Z">
+        <seg>Competence of Local Competitors=High</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Competence of Local Competitors=Very Low</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151326Z" creationid="Inrepublica" creationdate="20200423T151326Z">
@@ -2382,6 +2566,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Competitor Aggressiveness=Very High</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171339Z" creationid="Olivier" creationdate="20200427T171339Z">
+        <seg>Competitor Aggressiveness=Very High</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Competitor Aggressiveness|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150836Z" creationid="Inrepublica" creationdate="20200425T150836Z">
@@ -2390,10 +2582,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Competitor Expertise Level=Moderate</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171340Z" creationid="Olivier" creationdate="20200427T171340Z">
+        <seg>Competitor Expertise Level=Moderate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Competitor Expertise Level=None</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151319Z" creationid="Inrepublica" creationdate="20200423T151319Z">
         <seg>Competitor Expertise Level=None</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Competitor Start-up Capital=High</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171338Z" creationid="Olivier" creationdate="20200427T171338Z">
+        <seg>Competitor Start-up Capital=High</seg>
       </tuv>
     </tu>
     <tu>
@@ -2462,6 +2670,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Constant Import Supply=No</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171348Z" creationid="Olivier" creationdate="20200427T171348Z">
+        <seg>Constant Import Supply=No</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Constant Import Supply=Yes</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151356Z" creationid="Inrepublica" creationdate="20200423T151356Z">
@@ -2490,6 +2706,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151349Z" creationid="Inrepublica" creationdate="20200423T151349Z">
         <seg>Consumer Goods Seaports=3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Consumer Goods Seaports=4</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171319Z" creationid="Olivier" creationdate="20200427T171319Z">
+        <seg>Consumer Goods Seaports=4</seg>
       </tuv>
     </tu>
     <tu>
@@ -2554,6 +2778,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T155724Z" creationid="Olivier" creationdate="20200426T155724Z">
         <seg>Inversement, leur longueur diminue lorsque les récoltes sont vendues.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Corporate Cash change=1000000</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171059Z" creationid="Olivier" creationdate="20200427T171059Z">
+        <seg>Corporate Cash change=1000000</seg>
       </tuv>
     </tu>
     <tu>
@@ -2638,6 +2870,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Deadline=1990-01-02</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170920Z" creationid="Olivier" creationdate="20200427T170920Z">
+        <seg>Deadline=1990-01-02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Deadline=1991-01-02</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171108Z" creationid="Olivier" creationdate="20200427T171108Z">
+        <seg>Deadline=1991-01-02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Department Store|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T063915Z" creationid="Inrepublica" creationdate="20200426T063915Z">
@@ -2690,6 +2938,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T132718Z" creationid="Olivier" creationdate="20200423T132718Z">
         <seg>Description=Dans ce tutoriel, vous acquerrez des compétences de gestion avancées pour gérer un magasin et développer votre chaîne de vente au détail en vous développant dans d'autres villes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=Jol omg.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171239Z" creationid="Olivier" creationdate="20200427T171239Z">
+        <seg>Description=Jol omg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=This is a script with Lock parameters</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171440Z" creationid="Olivier" creationdate="20200427T171440Z">
+        <seg>Description=Ceci est un script avec le paramètre de verrouillages</seg>
       </tuv>
     </tu>
     <tu>
@@ -4233,6 +4497,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=Own all the companies, whoo-hoo!</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170827Z" creationid="Olivier" creationdate="20200427T170812Z">
+        <seg>Goal Description=Possédez toutes les entreprises, whoo-hoo !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=Own your first company</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170918Z" creationid="Olivier" creationdate="20200427T170918Z">
+        <seg>Goal Description=Possédez votre propre entreprise</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=To win this game, your company must achieve an annual revenue of $150 million and an annual profit of $15 million.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T210623Z" creationid="Olivier" creationdate="20200423T210623Z">
@@ -4269,6 +4549,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T210851Z" creationid="Olivier" creationdate="20200423T210851Z">
         <seg>Goal Description=Votre objectif est de faire de votre entreprise une grande société avec ~1000 employés ou plus~, et d'atteindre ~un chiffre d'affaires annuel d'un milliard de dollars~ et ~un bénéfice annuel de 100 millions de dollars~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Conquer All Company</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170756Z" creationid="Olivier" creationdate="20200427T170756Z">
+        <seg>Goal Title=À la conquête de toute les entreprises</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Conquer Your Company</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170900Z" creationid="Olivier" creationdate="20200427T170900Z">
+        <seg>Goal Title=Possédez toutes les entreprises, whoo-hoo !</seg>
       </tuv>
     </tu>
     <tu>
@@ -4833,6 +5129,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Import Quality=Moderate</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171351Z" creationid="Olivier" creationdate="20200427T171351Z">
+        <seg>Import Quality=Moderate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Import quality</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160437Z" creationid="Inrepublica" creationdate="20200422T160437Z">
@@ -4997,6 +5301,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151351Z" creationid="Inrepublica" creationdate="20200423T151351Z">
         <seg>Industrial Goods Seaports=3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Industrial Goods Seaports=4</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171321Z" creationid="Olivier" creationdate="20200427T171321Z">
+        <seg>Industrial Goods Seaports=4</seg>
       </tuv>
     </tu>
     <tu>
@@ -5205,6 +5517,30 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T134346Z" creationid="Olivier" creationdate="20200427T134346Z">
         <seg>À l'intérieur de votre siège social, vous verrez la grille d'aménagement habituelle en 3x3.^^Il y a des unités fonctionnelles spécifiques au QG.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Instant invention=Notebook Computer</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171035Z" creationid="Olivier" creationdate="20200427T171035Z">
+        <seg>Instant invention=Notebook Computer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Instant invention=Smart Phone</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171039Z" creationid="Olivier" creationdate="20200427T171039Z">
+        <seg>Instant invention=Smart Phone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Instant invention=Tablet Computer</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171037Z" creationid="Olivier" creationdate="20200427T171037Z">
+        <seg>Instant invention=Tablet Computer</seg>
       </tuv>
     </tu>
     <tu>
@@ -5777,6 +6113,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Macro Economy Realism=High</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171302Z" creationid="Olivier" creationdate="20200427T171302Z">
+        <seg>Macro Economy Realism=High</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Macro Economy Realism=Low</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151240Z" creationid="Inrepublica" creationdate="20200423T151240Z">
@@ -5901,6 +6245,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155559Z" creationid="Inrepublica" creationdate="20200425T155559Z">
         <seg>Manufacturing|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Marketing=100</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170653Z" creationid="Olivier" creationdate="20200427T170653Z">
+        <seg>Marketing=100</seg>
       </tuv>
     </tu>
     <tu>
@@ -6465,6 +6817,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Number of Cities=1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171446Z" creationid="Olivier" creationdate="20200427T171446Z">
+        <seg>Number of Cities=1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number of Cities=10</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170556Z" creationid="Olivier" creationdate="20200427T170556Z">
@@ -6485,6 +6845,30 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151302Z" creationid="Inrepublica" creationdate="20200423T151302Z">
         <seg>Number of Competitors=3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of Competitors=30</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171336Z" creationid="Olivier" creationdate="20200427T171336Z">
+        <seg>Number of Competitors=30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of Controlled Companies=31</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170833Z" creationid="Olivier" creationdate="20200427T170833Z">
+        <seg>Number of Controlled Companies=31</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of Game Years=1000</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170829Z" creationid="Olivier" creationdate="20200427T170829Z">
+        <seg>Number of Game Years=1000</seg>
       </tuv>
     </tu>
     <tu>
@@ -6625,6 +7009,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ownership=1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170924Z" creationid="Olivier" creationdate="20200427T170924Z">
+        <seg>Ownership=1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>PASSER TUTORIEL||</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155521Z" creationid="Inrepublica" creationdate="20200425T155521Z">
@@ -6709,6 +7101,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T162902Z" creationid="Inrepublica" creationdate="20200422T162902Z">
         <seg>Pourcentage de produits nécessitant une réinvention</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Personal Cash change=1000000</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171104Z" creationid="Olivier" creationdate="20200427T171104Z">
+        <seg>Personal Cash change=1000000</seg>
       </tuv>
     </tu>
     <tu>
@@ -7761,6 +8161,38 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Product Expertise=Communication Devices, 100</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170701Z" creationid="Olivier" creationdate="20200427T170701Z">
+        <seg>Product Expertise=Communication Devices, 100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product Expertise=Computer, 100</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170703Z" creationid="Olivier" creationdate="20200427T170703Z">
+        <seg>Product Expertise=Computer, 100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product Expertise=Electronic Products, 100</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170705Z" creationid="Olivier" creationdate="20200427T170705Z">
+        <seg>Product Expertise=Electronic Products, 100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product Expertise=Snacks, 100</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171354Z" creationid="Olivier" creationdate="20200427T171354Z">
+        <seg>Product Expertise=Snacks, 100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Product List</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161250Z" creationid="Inrepublica" creationdate="20200422T161250Z">
@@ -8441,6 +8873,30 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Staff attitude change=CMO, 100</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171055Z" creationid="Olivier" creationdate="20200427T171055Z">
+        <seg>Staff attitude change=CMO, 100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Staff attitude change=COO, 100</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171052Z" creationid="Olivier" creationdate="20200427T171052Z">
+        <seg>Staff attitude change=COO, 100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Staff attitude change=CTO, 100</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171057Z" creationid="Olivier" creationdate="20200427T171057Z">
+        <seg>Staff attitude change=CTO, 100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Starting your own corporation takes money - and lot's of it.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T085526Z" creationid="Olivier" creationdate="20200424T085526Z">
@@ -8613,6 +9069,70 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164931Z" creationid="Inrepublica" creationdate="20200422T164931Z">
         <seg>Système des talents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tech Cost Modifier=1000</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171306Z" creationid="Olivier" creationdate="20200427T171306Z">
+        <seg>Tech Cost Modifier=1000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tech change=Electronic Components, 1000</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171045Z" creationid="Olivier" creationdate="20200427T171045Z">
+        <seg>Tech change=Electronic Components, 1000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tech change=Glass, 1000</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171043Z" creationid="Olivier" creationdate="20200427T171043Z">
+        <seg>Tech change=Glass, 1000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tech change=Notebook Computer, 1000</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171040Z" creationid="Olivier" creationdate="20200427T171040Z">
+        <seg>Tech change=Notebook Computer, 1000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tech change=Plastic, 1000</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171047Z" creationid="Olivier" creationdate="20200427T171047Z">
+        <seg>Tech change=Plastic, 1000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tech change=Smart Phone, 1000</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171042Z" creationid="Olivier" creationdate="20200427T171042Z">
+        <seg>Tech change=Smart Phone, 1000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tech change=Steel, 1000</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171048Z" creationid="Olivier" creationdate="20200427T171048Z">
+        <seg>Tech change=Steel, 1000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tech change=Tablet Computer, 1000</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171041Z" creationid="Olivier" creationdate="20200427T171041Z">
+        <seg>Tech change=Tablet Computer, 1000</seg>
       </tuv>
     </tu>
     <tu>
@@ -10586,6 +11106,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title=Capitalism Lab script #05</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171416Z" creationid="Olivier" creationdate="20200427T171416Z">
+        <seg>Title=Script Capitalism Lab #05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Title=Capitalism Lab tutorial #4 script</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T145244Z" creationid="Olivier" creationdate="20200426T145244Z">
@@ -10598,6 +11126,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T145519Z" creationid="Olivier" creationdate="20200426T145519Z">
         <seg>Title=Responsabilité des entreprises</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Jol Hard</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171253Z" creationid="Olivier" creationdate="20200427T171253Z">
+        <seg>Title=Jol Difficile</seg>
       </tuv>
     </tu>
     <tu>
@@ -10766,6 +11302,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T140858Z" creationid="Olivier" creationdate="20200426T140858Z">
         <seg>La formation peut être coûteuse pour une entreprise disposant de peu de liquidités, mais les résultats finaux valent la mise de fonds initiale.^^ Dans cette partie de tutoriel, vous avez la chance de commencer avec beaucoup d'argent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Training=100</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170655Z" creationid="Olivier" creationdate="20200427T170655Z">
+        <seg>Training=100</seg>
       </tuv>
     </tu>
     <tu>
@@ -11999,6 +12543,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151517Z" creationid="Inrepublica" creationdate="20200423T151517Z">
         <seg>Your Start-up Capital=High</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your Start-up Capital=Moderate</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171256Z" creationid="Olivier" creationdate="20200427T171256Z">
+        <seg>Your Start-up Capital=Moderate</seg>
       </tuv>
     </tu>
     <tu>
@@ -13363,6 +13915,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0581]Tender Offer|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171602Z" creationid="Olivier" creationdate="20200427T171602Z">
+        <seg>[0581]Offre publique d'achat|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0582]CHEAT ENABLE|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200427T075126Z" creationid="Inrepublica" creationdate="20200427T075126Z">
@@ -13743,6 +14303,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T093926Z" creationid="Inrepublica" creationdate="20200426T093926Z">
         <seg>[0644]Occupation|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0645]You bought this Apartment at|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171922Z" creationid="Olivier" creationdate="20200427T171922Z">
+        <seg>[0645]Vous avez acheté cet appartement à|</seg>
       </tuv>
     </tu>
     <tu>
@@ -14841,6 +15409,30 @@ Window=Select Supplier</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[SUBGOAL REWARDS]</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170927Z" creationid="Olivier" creationdate="20200427T170927Z">
+        <seg>[SUBGOAL REWARDS]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[SUBGOAL VALUES]</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170923Z" creationid="Olivier" creationdate="20200427T170923Z">
+        <seg>[SUBGOAL VALUES]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[SUBGOAL]</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170839Z" creationid="Olivier" creationdate="20200427T170839Z">
+        <seg>[SUBGOAL]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Sales Unit]</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T102823Z" creationid="Olivier" creationdate="20200427T102823Z">
@@ -15337,6 +15929,14 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150704Z" creationid="Inrepublica" creationdate="20200425T150704Z">
         <seg>at|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>city=Hong Kong</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171448Z" creationid="Olivier" creationdate="20200427T171448Z">
+        <seg>city=Hong Kong</seg>
       </tuv>
     </tu>
     <tu>
