@@ -14315,10 +14315,50 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0646]Land and Building Cost|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T172112Z" creationid="Olivier" creationdate="20200427T172112Z">
+        <seg>[0646]Coût des terrains et des bâtiments|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0647]Market Value|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200427T075612Z" creationid="Inrepublica" creationdate="20200427T075612Z">
         <seg>[0647]Valeur marchande|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0648]Profit Graph|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T172241Z" creationid="Olivier" creationdate="20200427T172241Z">
+        <seg>[0648]Graphique des bénéfices|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0649]Past 12 months|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T172257Z" creationid="Olivier" creationdate="20200427T172257Z">
+        <seg>[0649]Les 12 derniers mois|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0650]Occupancy graph|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T172412Z" creationid="Olivier" creationdate="20200427T172321Z">
+        <seg>[0650]Graphique d'occupation|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0651]Put this apartment on sale|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T172446Z" creationid="Olivier" creationdate="20200427T172446Z">
+        <seg>[0651]Mettre cet appartement en vente|</seg>
       </tuv>
     </tu>
     <tu>
