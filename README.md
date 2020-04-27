@@ -1,6 +1,10 @@
 # Traduction Française pour Capitalism Lab
 Il s'agit d'un dépôt contenant la traduction pour le jeu Capitalism Lab de Enlight Software.
 
+# le discord francophone 
+
+Vous pouvez venir nous dire bonjour ou aider à la traduction avec https://discord.gg/Epz3NP9
+
 # Participer
 Pour participer à la traduction, nous allons utiliser le logiciel [OmegaT](https://omegat.org/download#latest) dans sa version 5.2.0.
 
