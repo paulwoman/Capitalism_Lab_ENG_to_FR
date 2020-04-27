@@ -326,6 +326,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>//---ENVIRONMENT-----------------------------------------------------//</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170553Z" creationid="Olivier" creationdate="20200427T170553Z">
+        <seg>//---ENVIRONMENT-----------------------------------------------------//</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>//---PLAYER EXPERTISE------------------------------------------------//</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170638Z" creationid="Olivier" creationdate="20200427T170638Z">
+        <seg>//---PLAYER EXPERTISE------------------------------------------------//</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>//---SPECIAL RULES---------------------------------------------------//</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170618Z" creationid="Olivier" creationdate="20200427T170618Z">
+        <seg>//---SPECIAL RULES---------------------------------------------------//</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>1 an|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150653Z" creationid="Inrepublica" creationdate="20200425T150653Z">
@@ -1878,6 +1902,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CEO Salary Modifier=200</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170624Z" creationid="Olivier" creationdate="20200427T170624Z">
+        <seg>CEO Salary Modifier=200</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CHALCONF</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160054Z" creationid="Inrepublica" creationdate="20200422T160054Z">
@@ -1918,6 +1950,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CMO Salary Modifier=1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170632Z" creationid="Olivier" creationdate="20200427T170632Z">
+        <seg>CMO Salary Modifier=1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>COMME_SC</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145929Z" creationid="Inrepublica" creationdate="20200422T145929Z">
@@ -1938,6 +1978,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155529Z" creationid="Inrepublica" creationdate="20200425T155529Z">
         <seg>CONTINUER LA PARTIE|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>COO Salary Modifier=1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170628Z" creationid="Olivier" creationdate="20200427T170628Z">
+        <seg>COO Salary Modifier=1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CTO Salary Modifier=1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170631Z" creationid="Olivier" creationdate="20200427T170631Z">
+        <seg>CTO Salary Modifier=1</seg>
       </tuv>
     </tu>
     <tu>
@@ -2606,6 +2662,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=Bello Industries Modifiers</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170550Z" creationid="Olivier" creationdate="20200427T170550Z">
+        <seg>Description=Modifications des industries Bello</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=Capitalism Lab tutorial #4 script</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T145247Z" creationid="Olivier" creationdate="20200426T145247Z">
@@ -3122,6 +3186,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T090753Z" creationid="Olivier" creationdate="20200424T090753Z">
         <seg>Assez évident, non ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Farming=100</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170643Z" creationid="Olivier" creationdate="20200427T170643Z">
+        <seg>Farming=100</seg>
       </tuv>
     </tu>
     <tu>
@@ -4056,6 +4128,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Game Starting Year=1990</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170559Z" creationid="Olivier" creationdate="20200427T170559Z">
+        <seg>Game Starting Year=1990</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Game console companies run by AI will have higher initial capital.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164704Z" creationid="Inrepublica" creationdate="20200422T164704Z">
@@ -4937,6 +5017,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Inflation Strength=Reduced</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170610Z" creationid="Olivier" creationdate="20200427T170610Z">
+        <seg>Inflation Strength=Reduced</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Inflation is enabled when this option is set to On.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T152510Z" creationid="Inrepublica" creationdate="20200422T152510Z">
@@ -4949,6 +5037,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151242Z" creationid="Inrepublica" creationdate="20200423T151242Z">
         <seg>Inflation=Off</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inflation=On</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170606Z" creationid="Olivier" creationdate="20200427T170606Z">
+        <seg>Inflation=On</seg>
       </tuv>
     </tu>
     <tu>
@@ -5793,6 +5889,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Manufacturing=100</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170646Z" creationid="Olivier" creationdate="20200427T170646Z">
+        <seg>Manufacturing=100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Manufacturing|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155559Z" creationid="Inrepublica" creationdate="20200425T155559Z">
@@ -6345,10 +6449,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Number of AI Persons=63</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170613Z" creationid="Olivier" creationdate="20200427T170613Z">
+        <seg>Number of AI Persons=63</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number of Cities</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T090251Z" creationid="Inrepublica" creationdate="20200422T150048Z">
         <seg>Nombre de villes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of Cities=10</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170556Z" creationid="Olivier" creationdate="20200427T170556Z">
+        <seg>Number of Cities=10</seg>
       </tuv>
     </tu>
     <tu>
@@ -7785,6 +7905,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Raw Material Production=100</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170651Z" creationid="Olivier" creationdate="20200427T170651Z">
+        <seg>Raw Material Production=100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Remember that your corporation has just issued some shares?</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T151507Z" creationid="Olivier" creationdate="20200425T151507Z">
@@ -7829,6 +7957,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T133157Z" creationid="Olivier" creationdate="20200426T133157Z">
         <seg>La recherche et le développement, ou R&amp;D, sont menés de manière appropriée dans des ~centres de R&amp;D~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Research and Development=100</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170648Z" creationid="Olivier" creationdate="20200427T170648Z">
+        <seg>Research and Development=100</seg>
       </tuv>
     </tu>
     <tu>
@@ -7885,6 +8021,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T153038Z" creationid="Inrepublica" creationdate="20200422T153038Z">
         <seg>Type de magasin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Retailing=100</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170642Z" creationid="Olivier" creationdate="20200427T170642Z">
+        <seg>Retailing=100</seg>
       </tuv>
     </tu>
     <tu>
@@ -8485,6 +8629,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151234Z" creationid="Inrepublica" creationdate="20200423T151234Z">
         <seg>Technology Disruption=Off</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Technology Disruption=On</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170603Z" creationid="Olivier" creationdate="20200427T170603Z">
+        <seg>Technology Disruption=On</seg>
       </tuv>
     </tu>
     <tu>
@@ -14595,6 +14747,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[PLAYER EXPERTISE]</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170641Z" creationid="Olivier" creationdate="20200427T170641Z">
+        <seg>[PLAYER EXPERTISE]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[POS]</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202605Z" creationid="Inrepublica" creationdate="20200422T202605Z">
@@ -14669,6 +14829,14 @@ Window=Select Supplier</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T112743Z" creationid="Inrepublica" creationdate="20200422T112743Z">
         <seg>[SHRD]%2j{Jan|Fev|Mar|Avr|Mai|Jun|Jul|Aou|Sep|Oct|Nov|Dec} %1d, %3,4d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[SPECIAL RULES]</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170620Z" creationid="Olivier" creationdate="20200427T170620Z">
+        <seg>[SPECIAL RULES]</seg>
       </tuv>
     </tu>
     <tu>
