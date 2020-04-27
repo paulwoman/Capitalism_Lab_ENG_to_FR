@@ -1350,6 +1350,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Are you using any anti-virus software that runs in background?</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T160150Z" creationid="Olivier" creationdate="20200427T160150Z">
+        <seg>Utilisez-vous un logiciel anti-virus qui fonctionne en arrière-plan ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As a recap, to buy stocks, you should:^^1) Select the stock you want to buy.^^2) Select whether your corporation or yourself as an individual is going to buy the stock.^^3) Set the purchase amount.^^4) Click the ~Buy~ button.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T210853Z" creationid="Acer" creationdate="20200424T210853Z">
@@ -1382,6 +1390,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As you have seen throughout the tutorial series, there are so many possible ways to expand your business.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T140027Z" creationid="Olivier" creationdate="20200427T140027Z">
+        <seg>Comme vous l'avez vu tout au long de la série de tutoriels, il y a de nombreuses façons possibles de développer votre entreprise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As you may recall, a product's rating is based on two factors: the company's production technology rating for the product and the raw material quality.^^Research advances your company's production technology and thus increases your products' quality.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T132641Z" creationid="Olivier" creationdate="20200426T132641Z">
@@ -1410,6 +1426,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T140715Z" creationid="Olivier" creationdate="20200423T124431Z">
         <seg>Comme votre société n'a actuellement qu'un seul établissement - votre grand magasin, seul un point à la couleur de votre société est affiché.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Asides from mines, you may also build ~Oil Wells~ for extracting ~Crude Oil~ (represented by letter ~O~ on the mini-map), and ~Logging Camps~ for processing ~Timber~ (represented by letter ~T~ on the mini-map).</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T140006Z" creationid="Olivier" creationdate="20200427T140006Z">
+        <seg>Outre les mines, vous pouvez également construire des ~puits de pétrole~ pour l'extraction du ~pétrole brut~ (représenté par la lettre ~O~ sur la mini-carte), et des ~camps d'enregistrement~ pour le traitement du ~bois~ (représenté par la lettre ~T~ sur la mini-carte).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1618,6 +1642,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T170127Z" creationid="Acer" creationdate="20200424T170127Z">
         <seg>Veillez toutefois à ne pas choisir une entreprise qui vous fait payer trop cher. Lorsque vous avez décidé auprès de quelle entreprise médiatique vous souhaitez faire de la publicité, double-cliquez dessus pour la sélectionner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Becoming a producer of natural resources on your own to strengthen your supply chain is just one of them.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T140040Z" creationid="Olivier" creationdate="20200427T140040Z">
+        <seg>Devenir producteur de ressources naturelles par ses propres moyens pour renforcer sa chaîne d'approvisionnement n'est que l'une d'entre elles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3526,6 +3558,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, ~A~ means Aluminum.^^You can always click on the mini-map to bring the city view's focus to a resource site, where you will be able to see details of the resource site by hovering your mouse over it.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T135836Z" creationid="Olivier" creationdate="20200427T135836Z">
+        <seg>Par exemple, ~A~ signifie Aluminium.^^Vous pouvez toujours cliquer sur la mini carte pour amener la mise au point de la vue de la ville sur un site de ressources, où vous pourrez voir les détails du site de ressources en passant votre souris dessus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For lower-cost products, such as shampoo, one cargo can hold up to several thousand units of the product.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T172244Z" creationid="Olivier" creationdate="20200426T172244Z">
@@ -4449,6 +4489,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If so, add MOD tool EXE files "LibResDir.EXE" and "LibResXL.EXE" into your anti-virus software exception list to prevent it from blocking the tools or slow down their executions</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T160215Z" creationid="Olivier" creationdate="20200427T160215Z">
+        <seg>Si c'est le cas, ajoutez les fichiers MOD tool EXE "LibResDir.EXE" et "LibResXL.EXE" dans la liste des exceptions de votre logiciel anti-virus pour l'empêcher de bloquer les outils ou de ralentir leur exécution.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the supplier is a business corporation, the color shown here is its ~corporate color~.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T150612Z" creationid="Olivier" creationdate="20200423T145621Z">
@@ -4625,6 +4673,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you manage to pull it off, it will prove to the world that you have emerged as a formidable force in the business world!^^Good luck!</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T140133Z" creationid="Olivier" creationdate="20200427T140133Z">
+        <seg>Si vous y parvenez, vous prouverez au monde entier que vous êtes devenu une force formidable dans le monde des affaires !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you select "Yes", you will be able to access the trade secrets of all AI companies in the game.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T155136Z" creationid="Inrepublica" creationdate="20200422T155136Z">
@@ -4645,6 +4701,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T162402Z" creationid="Inrepublica" creationdate="20200422T162402Z">
         <seg>Si vous fixez cette valeur à une valeur supérieure à zéro, les partis politiques rivaux recevront des dons du grand public au fil du temps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you update files in other subfolders (e.g. IMAGES\PERSONS folder), you should run the PACK.BAT in those folders to pack the respective files.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T160318Z" creationid="Olivier" creationdate="20200427T160318Z">
+        <seg>Si vous mettez à jour des fichiers dans d'autres sous-dossiers (par exemple le dossier IMAGES\PERSONNES), vous devez exécuter le PACK.BAT dans ces dossiers pour empaqueter les fichiers respectifs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6161,6 +6225,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now the tutorial series has come to an end.^^You have done a magnificent job broadening your business knowledge and sharpening your business skills while going through the tutorials!</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T140058Z" creationid="Olivier" creationdate="20200427T140058Z">
+        <seg>Maintenant, la série de tutoriels est terminée.^^Vous avez fait un travail magnifique en élargissant vos connaissances et en affinant vos compétences commerciales tout en suivant les tutoriels !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now the unit detail section of your advertising unit displays the media firm you have just selected.^^You may adjust the ~Monthly Spending Per Product~ slider but for now leave it set at $100,000.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T170647Z" creationid="Acer" creationdate="20200424T170647Z">
@@ -6725,6 +6797,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T154443Z" creationid="Olivier" creationdate="20200425T154443Z">
         <seg>Pointer=173,22,696,44</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=174,34,197,57</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T135601Z" creationid="Olivier" creationdate="20200427T135601Z">
+        <seg>Pointer=174,34,197,57</seg>
       </tuv>
     </tu>
     <tu>
@@ -7817,6 +7897,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Run PACK.BAT to pack files under the current MOD Kit folder into a MOD file.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T160301Z" creationid="Olivier" creationdate="20200427T160301Z">
+        <seg>Lancez PACK.BAT pour regrouper les fichiers se trouvant dans le dossier actuel du kit MOD dans un fichier MOD.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Run PACKALL.BAT to pack all files in all subfolders under the current MOD Kit folder into a MOD file.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T160228Z" creationid="Olivier" creationdate="20200427T160228Z">
+        <seg>Lancez PACKALL.BAT pour regrouper tous les fichiers de tous les sous-dossiers du dossier actuel du kit MOD dans un fichier MOD.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>SAVERATE</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145923Z" creationid="Inrepublica" creationdate="20200422T145923Z">
@@ -8577,6 +8673,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Text Box=200,250,500,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T140134Z" creationid="Olivier" creationdate="20200427T140134Z">
+        <seg>Text Box=200,250,500,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Text Box=200,260,400,0</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T144422Z" creationid="Olivier" creationdate="20200424T144422Z">
@@ -9241,6 +9345,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The letters on the mini-map indicate the types of natural resources available.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T135623Z" creationid="Olivier" creationdate="20200427T135623Z">
+        <seg>Les lettres sur la mini carte indiquent les types de ressources naturelles disponibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The logic behind this is that Product Customization relies on technology levels to increase linearly to function properly, whereas Technology Disruption reduces all technology levels across the board by 10% annually.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T173105Z" creationid="Inrepublica" creationdate="20200422T173105Z">
@@ -9804,8 +9916,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>There is a handy tool at the mini map that enables you to find natural resource sites easily.^^Click the ~Resource Mode~ icon and all natural resources sites currently available will be shown on the mini map.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T135559Z" creationid="Olivier" creationdate="20200427T135559Z">
-        <seg>Il existe un outil pratique sur la mini-carte qui vous permet de trouver facilement des sites de ressources naturelles.^^Cliquez sur l'icône ~Mode ressource~ et tous les sites de ressources naturelles actuellement disponibles seront affichés sur la mini-carte.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T135627Z" creationid="Olivier" creationdate="20200427T135559Z">
+        <seg>Il existe un outil pratique sur la mini carte qui vous permet de trouver facilement des sites de ressources naturelles.^^Cliquez sur l'icône ~Mode ressource~ et tous les sites de ressources naturelles actuellement disponibles seront affichés sur la mini-carte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10250,6 +10362,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This will take a longer time to run but will ensure every MOD file that you have updated will be packed into the new MOD resource file.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T160248Z" creationid="Olivier" creationdate="20200427T160248Z">
+        <seg>Cette opération prendra plus de temps mais garantira que chaque fichier MOD que vous avez mis à jour sera intégré dans le nouveau fichier de ressources MOD.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This ~Manufacturing unit~ will now produce ~Golf Club~.^^See how we utilized an existing ~Purchasing unit~ supplying ~Timber~, and in conjunction with a new unit purchasing ~Steel~, to manufacture a different product.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T134223Z" creationid="Olivier" creationdate="20200424T095046Z">
@@ -10302,6 +10422,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T085525Z" creationid="Olivier" creationdate="20200426T085525Z">
         <seg>Title=5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Bello Industries</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170259Z" creationid="Olivier" creationdate="20200427T170259Z">
+        <seg>Title=Modifications des industries Bello</seg>
       </tuv>
     </tu>
     <tu>
@@ -11074,6 +11202,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When you have located a natural resource site which you intend to buy, you may go ahead and select ~Mine~ from the build menu and build a mine on the resource site.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T135918Z" creationid="Olivier" creationdate="20200427T135918Z">
+        <seg>Lorsque vous avez trouvé un site de ressources naturelles que vous avez l'intention d'acheter, vous pouvez choisir ~Mine~ dans le menu de construction et construire une mine sur le site de ressources.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When you select this check box, the system will randomly disable a specific percentage of product classes in the new game.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161056Z" creationid="Inrepublica" creationdate="20200422T161056Z">
@@ -11791,6 +11927,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T214426Z" creationid="Olivier" creationdate="20200425T214426Z">
         <seg>Votre ferme a commencé à élever du bétail. ^^À droite de ~l'unité d'élevage~, construisez une ~unité de transformation du bétail~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your final goal is to grow your company to a large corporation with ~1000 or more employees~, and achieve ~an annual revenue of $1 billion~ and ~an annual profit of $100 million~.^^This is a lofty goal, for sure.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T140116Z" creationid="Olivier" creationdate="20200427T140116Z">
+        <seg>Votre objectif final est de faire de votre entreprise une grande société avec ~1000 employés ou plus~, et d'atteindre ~un revenu annuel d'un milliard de dollars~ et ~un bénéfice annuel de 100 millions de dollars~.^^ C'est un objectif ambitieux, c'est certain.</seg>
       </tuv>
     </tu>
     <tu>
