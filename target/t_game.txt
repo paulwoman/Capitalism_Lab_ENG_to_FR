@@ -123,44 +123,44 @@
 [0555]Cessation d'emploi|<FIN3>
 [0556]Emploi refusé|<FIN4>
 [0557]Emploi|<FIN5>
-[0558]<FIN6>Employment Policy|
-[0559]<FIN7>Cannot purchase the stock|
+[0558]Politique de l'emploi|<FIN6>
+[0559]Impossible d'acheter des actions|<FIN7>
 [0560]Émission de nouvelles actions|<FIN8>
 [0561]OK|<FIN9>
 [0562]Démolir le manoir|<FMN1>
-[0564]<FM21>Change Group Manager|
+[0564]Changer le groupe du manager|<FM21>
 [0567]OBJECTIF|<GAM1>
-[0568]<GME1>Lost Ownership|
-[0569]<GP21>Stock Exchange News|
-[0570]<JMF1>Upgrade Production Technology|
+[0568]Perte de propriété|<GME1>
+[0569]Nouvelles de la bourse|<GP21>
+[0570]Améliorer la technologie de production|<JMF1>
 [0571]Oui|<JMF2>
 [0572]Non|<JMF3>
-[0573]<NGO1>Cannot purchase the mansion|
-[0574]<NGO2>Cannot purchase the firm|
-[0575]<NGO3>Cannot purchase the technology|
-[0576]<PR31>Salary Raise Request|
+[0573]Impossible d'acheter le manoir|<NGO1>
+[0574]Impossible d’acheter l'établissement|<NGO2>
+[0575]Impossible d'acheter la technologie|<NGO3>
+[0576]Demande d'augmentation de salaire|<PR31>
 [0577]Disposition du plan|<PLB1>
-[0578]<PLB2>The highlighted firm doesn't have a layout.|
-[0579]<PLB3>The firm type of the current plan is different from that of the highlighted firm.|
+[0578]L'établissement en surbrillance n'a pas de disposition.|<PLB2>
+[0579]Le type d'établissement pour cette disposition est différent de l'établissement en surbrillance.|<PLB3>
 [0580]Nouvelles de la bourse|<SK21>
 [0581]<SK51>Tender Offer|
-[0582]<SYD1>CHEAT ENABLE|
+[0582]TRICHE ACTIVÉ|<SYD1>
 [0583]Sauvegarder Jeux|<SYF1>
-[0584]<AIG0>Diversified|
-[0585]<AIG1>Retail Focused|
-[0586]<AIG2>Stock Focused|
-[0587]<AIG3>Real Estate Focused|
+[0584]Diversifié|<AIG0>
+[0585]Centré sur la vente au détail|<AIG1>
+[0586]Centré sur la bourse|<AIG2>
+[0587]Centré sur l'immobilier|<AIG3>
 [0588]Tous|<AIS0>
-[0589]<AIS1>Retail|
-[0590]<AIS2>Stock|
-[0591]<AIS3>Real Estate|
-[0592]<CET1>Sowing Month|
-[0593]<CET2>Harvesting Month|
+[0589]Vente au détail|<AIS1>
+[0590]Actions|<AIS2>
+[0591]Immobilier|<AIS3>
+[0592]Mois des semences|<CET1>
+[0593]Mois de récolte|<CET2>
 [0606]Fournisseur|<DIJ1>
 [0607]Ville|<DIJ2>
 [0608]Distance|<DIJ3>
 [0609]Prix|<DIJ4>
-[0610]<DIJ5>Freight Cost|
+[0610]Coûts transport|<DIJ5>
 [0611]Approvisionnement|<DIJ6>
 [0612]Demande|<DIJ7>
 [0613]Ports maritimes|<DIJ8>
@@ -171,8 +171,8 @@
 [0619]Sélectionner un emplacement de construction|<DI14>
 [0620]Annuler|<DI15>
 [0621]Ok|<DI16>
-[0622]<DI17>CLIENT LIST|
-[0624]<DI19>SELECT ADVERTISING MEDIA|
+[0622]LISTE CLIENTS|<DI17>
+[0624]SELECTIONNER MÉDIA|<DI19>
 [0625]Allez au Média|<DI20>
 [0626]Tous les produits|<DI21>
 [0627]Toutes villes|<DI22>
@@ -190,17 +190,17 @@
 [0640]Démolir l'appartement et vendre le terrain|<FAT4>
 [0641]Mettre l'appartement en vente pour|<FAT5>
 [0642]Propriétaire|<FAT6>
-[0643]<FAT7>Annual rent per square foot|
+[0643]Rente annuel par pied au carré|<FAT7>
 [0644]Occupation|<FAT8>
 [0645]<FAT9>You bought this Apartment at|
 [0646]<FA10>Land and Building Cost|
-[0647]<FA11>Market Value|
+[0647]Valeur marchande|<FA11>
 [0648]<FA12>Profit Graph|
 [0649]<FA13>Past 12 months|
 [0650]<FA14>Occupancy graph|
 [0651]<FA15>Put this apartment on sale|
 [0652]<FA16>Buy this apartment|
-[0653]<FA17>Offer now|
+[0653]Offrir maintenant|<FA17>
 [0655]<FA19>Demolish the building and sell the land |
 [0656]<FA20>Put this building on sale for:|
 [0658]<FA22>This commercial building is for sale at|
