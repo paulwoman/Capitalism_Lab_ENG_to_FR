@@ -12386,10 +12386,74 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0585]Retail Focused|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200427T075152Z" creationid="Inrepublica" creationdate="20200427T075152Z">
+        <seg>[0585]Centré sur la vente au détail|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0586]Stock Focused|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200427T075213Z" creationid="Inrepublica" creationdate="20200427T075213Z">
+        <seg>[0586]Centré sur la bourse|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0587]Real Estate Focused|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200427T075241Z" creationid="Inrepublica" creationdate="20200427T075241Z">
+        <seg>[0587]Centré sur l'immobilier|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0588]All|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T053558Z" creationid="Inrepublica" creationdate="20200423T053558Z">
         <seg>[0588]Tous|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0589]Retail|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200427T075247Z" creationid="Inrepublica" creationdate="20200427T075247Z">
+        <seg>[0589]Vente au détail|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0590]Stock|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200427T075310Z" creationid="Inrepublica" creationdate="20200427T075252Z">
+        <seg>[0590]Actions|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0591]Real Estate|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200427T075319Z" creationid="Inrepublica" creationdate="20200427T075319Z">
+        <seg>[0591]Immobilier|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0592]Sowing Month|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200427T075412Z" creationid="Inrepublica" creationdate="20200427T075355Z">
+        <seg>[0592]Mois des semences|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0593]Harvesting Month|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200427T075404Z" creationid="Inrepublica" creationdate="20200427T075404Z">
+        <seg>[0593]Mois de récolte|</seg>
       </tuv>
     </tu>
     <tu>
@@ -12422,6 +12486,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T053625Z" creationid="Inrepublica" creationdate="20200423T053625Z">
         <seg>[0609]Prix|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0610]Freight Cost|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200427T075438Z" creationid="Inrepublica" creationdate="20200427T075430Z">
+        <seg>[0610]Coûts transport|</seg>
       </tuv>
     </tu>
     <tu>
