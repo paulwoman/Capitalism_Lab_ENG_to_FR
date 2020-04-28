@@ -42,7 +42,6 @@ monthly spending per product	dépenses mensuelle par produits
 corporate detail	détails de l'entreprise
 ownership details	détails sur la propriété
 banking and finance dlc	dlc banques et finances
-subsidiary dlc	dlc filiale
 city economic simulation dlc	dlc simulation économique de la ville
 Livestock Raising	Elevage de bétail
 issue	émettre
@@ -295,3 +294,4 @@ header	en-tête	[header] à laisser tel quel
 SPECIAL RULES	REGLES SPECIALES
 subgoal	sous-objectif
 Capitalism Lab script #	Script # pour Capitalism Lab
+subsidiary dlc	dlc Filiale
