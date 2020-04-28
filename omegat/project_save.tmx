@@ -3094,6 +3094,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to toggle Business Relationship Mode - with a firm selected this mode will display linkage lines to firms in direct business with the selected firm.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T211810Z" creationid="Olivier" creationdate="20200428T211810Z">
+        <seg>Cliquez pour basculer le mode de relation d'affaires - si une entreprise est sélectionnée, ce mode affichera les lignes de liaison avec les entreprises en relation directe avec l'entreprise sélectionnée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to toggle Land Ownership and Resources Mode - land ownership and natural resources are displayed.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T173530Z" creationid="Olivier" creationdate="20200428T173530Z">
