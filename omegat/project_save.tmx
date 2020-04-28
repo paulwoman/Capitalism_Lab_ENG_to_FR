@@ -2142,6 +2142,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Brief Help Information</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T163324Z" creationid="Olivier" creationdate="20200428T163324Z">
+        <seg>Informations d'aide abrégée</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Budding Entrepreneur</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T132209Z" creationid="Olivier" creationdate="20200423T132209Z">
@@ -2938,6 +2946,38 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T123158Z" creationid="Olivier" creationdate="20200428T123158Z">
         <seg>Cliquez pour changer la vue de la ville au plus petit niveau de zoom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to disable in-game help information</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T163236Z" creationid="Olivier" creationdate="20200428T163236Z">
+        <seg>Cliquez pour désactiver les informations d'aide dans le jeu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to disable sound effects</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T163113Z" creationid="Olivier" creationdate="20200428T163113Z">
+        <seg>Cliquez pour désactiver les effets sonores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to enable brief in-game help information</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T170103Z" creationid="Olivier" creationdate="20200428T170103Z">
+        <seg>Cliquez pour activer une aide abrégée dans le jeu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to hear sound effects</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T163208Z" creationid="Olivier" creationdate="20200428T163208Z">
+        <seg>Cliquez pour entendre les effets sonores</seg>
       </tuv>
     </tu>
     <tu>
@@ -4322,6 +4362,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150838Z" creationid="Inrepublica" creationdate="20200425T150838Z">
         <seg>Farming|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fast</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T162956Z" creationid="Olivier" creationdate="20200428T162956Z">
+        <seg>Rapide</seg>
       </tuv>
     </tu>
     <tu>
@@ -6993,6 +7041,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Latest R&amp;D results will automatically be applied to your factories without asking your permission.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T162935Z" creationid="Olivier" creationdate="20200428T162935Z">
+        <seg>Les derniers résultats de la R&amp;D seront automatiquement appliqués à vos usines sans que vous ayez à en demander la permission.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Launch a web browser and open the web page with instructions on how to set up a private challenge game.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160615Z" creationid="Inrepublica" creationdate="20200422T160615Z">
@@ -7553,6 +7609,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Music Off</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T163027Z" creationid="Olivier" creationdate="20200428T163027Z">
+        <seg>Musique désactivée</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Music On</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T163037Z" creationid="Olivier" creationdate="20200428T163037Z">
+        <seg>Musique activée</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>NIL</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202550Z" creationid="Inrepublica" creationdate="20200422T202550Z">
@@ -7617,6 +7689,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No Help Information</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T163225Z" creationid="Olivier" creationdate="20200428T163225Z">
+        <seg>Pas d'informations d'aide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Nom de votre société|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200427T080112Z" creationid="Inrepublica" creationdate="20200427T080112Z">
@@ -7629,6 +7709,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T153610Z" creationid="Olivier" creationdate="20200426T153610Z">
         <seg>Aucune des autres entreprises ne dispose d'une technologie plus avancée que la vôtre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Normal</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T162948Z" creationid="Olivier" creationdate="20200428T162948Z">
+        <seg>Normal</seg>
       </tuv>
     </tu>
     <tu>
@@ -8337,6 +8425,62 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OM_GS_A</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T162936Z" creationid="Olivier" creationdate="20200428T162936Z">
+        <seg>OM_GS_A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OM_GS_B</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T162938Z" creationid="Olivier" creationdate="20200428T162938Z">
+        <seg>OM_GS_B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OM_GS_C</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T162946Z" creationid="Olivier" creationdate="20200428T162946Z">
+        <seg>OM_GS_C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OM_GS_D</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T162950Z" creationid="Olivier" creationdate="20200428T162950Z">
+        <seg>OM_GS_D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OM_GS_E</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T162957Z" creationid="Olivier" creationdate="20200428T162957Z">
+        <seg>OM_GS_E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OM_HE_A</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T163209Z" creationid="Olivier" creationdate="20200428T163209Z">
+        <seg>OM_HE_A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OM_HE_B</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T163238Z" creationid="Olivier" creationdate="20200428T163238Z">
+        <seg>OM_HE_B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OM_IS_A</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144919Z" creationid="Olivier" creationdate="20200428T144919Z">
@@ -8353,6 +8497,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OM_MU_A</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T163008Z" creationid="Olivier" creationdate="20200428T163008Z">
+        <seg>OM_MU_A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OM_MU_B</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T163116Z" creationid="Olivier" creationdate="20200428T163116Z">
+        <seg>OM_MU_B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OM_NEWS</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144759Z" creationid="Olivier" creationdate="20200428T144759Z">
@@ -8365,6 +8525,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144901Z" creationid="Olivier" creationdate="20200428T144901Z">
         <seg>OM_OK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OM_SE_A</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T163039Z" creationid="Olivier" creationdate="20200428T163039Z">
+        <seg>OM_SE_A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OM_SE_B</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T163153Z" creationid="Olivier" creationdate="20200428T163153Z">
+        <seg>OM_SE_B</seg>
       </tuv>
     </tu>
     <tu>
@@ -10705,6 +10881,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Slow</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T162944Z" creationid="Olivier" creationdate="20200428T162944Z">
+        <seg>Lent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Smallest zoom level (hotkey: ',')</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T123147Z" creationid="Olivier" creationdate="20200428T123147Z">
@@ -10741,6 +10925,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T163245Z" creationid="Inrepublica" creationdate="20200422T163245Z">
         <seg>Indice des revenus des logiciels</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sound Effects Off</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T163150Z" creationid="Olivier" creationdate="20200428T163101Z">
+        <seg>Effets sonores désactivés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sound Effects On</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T163129Z" creationid="Olivier" creationdate="20200428T163129Z">
+        <seg>Actn</seg>
       </tuv>
     </tu>
     <tu>
@@ -13926,6 +14126,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T120131Z" creationid="Olivier" creationdate="20200428T120131Z">
         <seg>Les barres verticales représentent les bénéfices ou les pertes mensuels de votre société.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Very Fast</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T163006Z" creationid="Olivier" creationdate="20200428T163006Z">
+        <seg>Très rapide</seg>
       </tuv>
     </tu>
     <tu>
