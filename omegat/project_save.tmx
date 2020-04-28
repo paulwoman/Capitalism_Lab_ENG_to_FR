@@ -2190,6 +2190,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Business Relationship Mode</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T211735Z" creationid="Olivier" creationdate="20200428T211735Z">
+        <seg>Mode de relation d'affaires</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>But for now keep it active.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T211017Z" creationid="Olivier" creationdate="20200422T211017Z">
@@ -3082,6 +3090,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T172246Z" creationid="Olivier" creationdate="20200428T172246Z">
         <seg>Cliquez pour basculer le mode de propriété des entreprises - Les bâtiments sont affichés dans leurs couleurs d'entreprise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to toggle Land Ownership and Resources Mode - land ownership and natural resources are displayed.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T173530Z" creationid="Olivier" creationdate="20200428T173530Z">
+        <seg>Cliquez pour basculer le mode Propriété foncière et ressources - la propriété foncière et les ressources naturelles sont affichées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7161,6 +7177,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Land Ownership and Resources Mode</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T173515Z" creationid="Olivier" creationdate="20200428T173515Z">
+        <seg>Mode de propriété des terrains et des ressources</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Land Price Index</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T163044Z" creationid="Inrepublica" creationdate="20200422T163020Z">
@@ -7437,6 +7461,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T171917Z" creationid="Olivier" creationdate="20200428T171917Z">
         <seg>MMAPCM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MMAPMMB</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T173532Z" creationid="Olivier" creationdate="20200428T173532Z">
+        <seg>MMAPMMB</seg>
       </tuv>
     </tu>
     <tu>
