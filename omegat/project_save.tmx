@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(the same firm type and the same company/subsidiary)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122928Z" creationid="Olivier" creationdate="20200428T122928Z">
+        <seg>(même type d'entreprise et même entreprise / filiale)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>- help|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T172325Z" creationid="Inrepublica" creationdate="20200422T172325Z">
@@ -702,6 +710,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>9.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122613Z" creationid="Olivier" creationdate="20200428T122613Z">
+        <seg>9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A VENDRE|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150709Z" creationid="Inrepublica" creationdate="20200425T150709Z">
@@ -834,6 +850,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150707Z" creationid="Inrepublica" creationdate="20200425T150707Z">
         <seg>A propos|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A red bar indicates a loss; a green bar indicates a profit.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122324Z" creationid="Olivier" creationdate="20200428T122324Z">
+        <seg>Une barre rouge indique une perte ; une barre verte indique un bénéfice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1234,6 +1258,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150737Z" creationid="Inrepublica" creationdate="20200425T150737Z">
         <seg>Actions financières|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Activate the mode for buying plots of land.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T123036Z" creationid="Olivier" creationdate="20200428T123036Z">
+        <seg>Activez le mode d'achat de parcelles de terrain.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2118,6 +2150,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Build Menu (hotkey: B)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122853Z" creationid="Olivier" creationdate="20200428T122555Z">
+        <seg>Menu ~Construction~ (touche de raccourci : B / Build)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Build another factory to produce a different ~apparel~ product.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T202633Z" creationid="Acer" creationdate="20200424T174542Z">
@@ -2178,6 +2218,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150723Z" creationid="Inrepublica" creationdate="20200425T150723Z">
         <seg>Buy Stock|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Buy plots of land (hotkey: CTRL-L)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122959Z" creationid="Olivier" creationdate="20200428T122959Z">
+        <seg>Acheter des parcelles de terrain (touche de raccourci : CTRL-L / Land)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2846,6 +2894,38 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to change city view to largest zoom level</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T123301Z" creationid="Olivier" creationdate="20200428T123301Z">
+        <seg>Cliquez pour changer la vue de la ville au plus grand niveau de zoom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to change city view to normal zoom level.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T123240Z" creationid="Olivier" creationdate="20200428T123240Z">
+        <seg>Cliquez pour changer la vue de la ville au niveau de zoom normal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to change city view to smallest zoom level.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T123158Z" creationid="Olivier" creationdate="20200428T123158Z">
+        <seg>Cliquez pour changer la vue de la ville au plus petit niveau de zoom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to open the Build Menu.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122803Z" creationid="Olivier" creationdate="20200428T122803Z">
+        <seg>Cliquez pour ouvrir le menu ~Construction~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click your ~Purchasing Unit~ to select it.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T140440Z" creationid="Olivier" creationdate="20200424T094025Z">
@@ -3298,6 +3378,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155538Z" creationid="Inrepublica" creationdate="20200425T155538Z">
         <seg>Cuir|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Current Date</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122346Z" creationid="Olivier" creationdate="20200428T122346Z">
+        <seg>Date actuelle</seg>
       </tuv>
     </tu>
     <tu>
@@ -5265,6 +5353,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Report (hotkey: G)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T123121Z" creationid="Olivier" creationdate="20200428T123121Z">
+        <seg>Rapport sur les objectifs (touche de raccourci : G / Goal)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Title=Conquer All Company</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170756Z" creationid="Olivier" creationdate="20200427T170756Z">
@@ -6689,6 +6785,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Land-use planning</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T123049Z" creationid="Olivier" creationdate="20200428T123049Z">
+        <seg>Aménagement du territoire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Largest zoom level (hotkey: '/')</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T123251Z" creationid="Olivier" creationdate="20200428T123251Z">
+        <seg>Plus grand niveau de zoom (touche de raccourci : '/')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Launch a web browser and open the web page with instructions on how to set up a private challenge game.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160615Z" creationid="Inrepublica" creationdate="20200422T160615Z">
@@ -7285,6 +7397,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T153610Z" creationid="Olivier" creationdate="20200426T153610Z">
         <seg>Aucune des autres entreprises ne dispose d'une technologie plus avancée que la vôtre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Normal zoom level (hotkey: '.')</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T123220Z" creationid="Olivier" creationdate="20200428T123220Z">
+        <seg>Niveau de zoom normal (touche de raccourci : '.')</seg>
       </tuv>
     </tu>
     <tu>
@@ -8021,6 +8141,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T131742Z" creationid="Olivier" creationdate="20200427T131742Z">
         <seg>Affiche la fenêtre de suivi des événements</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the Goal report</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T123133Z" creationid="Olivier" creationdate="20200428T123133Z">
+        <seg>Ouvrir le rapport sur l'objectif</seg>
       </tuv>
     </tu>
     <tu>
@@ -9337,6 +9465,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Press Ctrl-Z to open the same sub-menu on the Build interface as the last time.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122826Z" creationid="Olivier" creationdate="20200428T122826Z">
+        <seg>Appuyez sur Ctrl-Z pour ouvrir le même sous-menu sur l'interface de construction que la dernière fois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Press the shortcut key ~B~ to open the the Build menu now.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T133311Z" creationid="Olivier" creationdate="20200426T133311Z">
@@ -9437,6 +9573,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161250Z" creationid="Inrepublica" creationdate="20200422T161250Z">
         <seg>Liste de produits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product Summary Report (hotkey: 'P')</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T123320Z" creationid="Olivier" creationdate="20200428T123320Z">
+        <seg>Rapport de synthèse sur le produit (touche de raccourci : "P" / Product)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10181,6 +10325,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151138Z" creationid="Olivier" creationdate="20200423T151138Z">
         <seg>Skip game interface=Yes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Smallest zoom level (hotkey: ',')</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T123147Z" creationid="Olivier" creationdate="20200428T123147Z">
+        <seg>Plus petit niveau de zoom (touche de raccourci : ',')</seg>
       </tuv>
     </tu>
     <tu>
@@ -12338,6 +12490,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is the current game date</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122503Z" creationid="Olivier" creationdate="20200428T122503Z">
+        <seg>Ceci est la date de la partie en cours </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is the ~Corporate Summary Report~.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151606Z" creationid="Olivier" creationdate="20200423T151606Z">
@@ -13266,6 +13426,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Untitled Document</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122610Z" creationid="Olivier" creationdate="20200428T122610Z">
+        <seg>Untitled Document</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use the Male and Female icons (located below the arrow icons) to switch the gender of the portraits.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T165414Z" creationid="Inrepublica" creationdate="20200422T165414Z">
@@ -13310,6 +13478,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203907Z" creationid="Inrepublica" creationdate="20200422T203907Z">
         <seg>Utilisez-le pour fixer le niveau de difficulté global pour les banques et les compagnies d'assurance en activité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use this tool to restrict different areas of your city to specific uses.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T123101Z" creationid="Olivier" creationdate="20200428T123101Z">
+        <seg>Utilisez cet outil pour restreindre différentes zones de votre ville à des usages spécifiques.</seg>
       </tuv>
     </tu>
     <tu>
