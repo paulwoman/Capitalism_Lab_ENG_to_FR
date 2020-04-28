@@ -2182,6 +2182,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Business Ownership Mode</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T172158Z" creationid="Olivier" creationdate="20200428T172158Z">
+        <seg>Mode de fonctionnement des entreprises</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>But for now keep it active.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T211017Z" creationid="Olivier" creationdate="20200422T211017Z">
@@ -2638,6 +2646,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>City Selection Mode</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T171958Z" creationid="Olivier" creationdate="20200428T171958Z">
+        <seg>Mode de sélection de la ville</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>City=Athens</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171332Z" creationid="Olivier" creationdate="20200427T171332Z">
@@ -2950,6 +2966,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to close Mini Map</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T171940Z" creationid="Olivier" creationdate="20200428T171940Z">
+        <seg>Cliquer pour fermer la mini carte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to disable Auto Save</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T170304Z" creationid="Olivier" creationdate="20200428T170304Z">
@@ -2970,6 +2994,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T163113Z" creationid="Olivier" creationdate="20200428T163113Z">
         <seg>Cliquez pour désactiver les effets sonores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to display next city</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T171915Z" creationid="Olivier" creationdate="20200428T171915Z">
+        <seg>Cliquez pour afficher la ville suivante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to display previous city</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T171745Z" creationid="Olivier" creationdate="20200428T171745Z">
+        <seg>Cliquez pour afficher la ville précédente</seg>
       </tuv>
     </tu>
     <tu>
@@ -3038,6 +3078,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to toggle Business Ownership Mode - Buildings are displayed in their corporate colors.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T172246Z" creationid="Olivier" creationdate="20200428T172246Z">
+        <seg>Cliquez pour basculer le mode de propriété des entreprises - Les bâtiments sont affichés dans leurs couleurs d'entreprise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click your ~Purchasing Unit~ to select it.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T140440Z" creationid="Olivier" creationdate="20200424T094025Z">
@@ -3074,6 +3122,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T204158Z" creationid="Acer" creationdate="20200424T203813Z">
         <seg>Cliquez sur ~Bourse~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Close Mini Map</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T171926Z" creationid="Olivier" creationdate="20200428T171926Z">
+        <seg>Fermer la mini carte</seg>
       </tuv>
     </tu>
     <tu>
@@ -3894,6 +3950,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Disable the enhanced hotkey system.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T171707Z" creationid="Olivier" creationdate="20200428T171624Z">
+        <seg>Désactiver le système de raccourcis clavier amélioré.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Disclaimer of Warranty.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122131Z" creationid="Olivier" creationdate="20200428T122131Z">
@@ -4224,8 +4288,8 @@
       <tuv lang="en-US">
         <seg>Enable Auto Save</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T170315Z" creationid="Olivier" creationdate="20200428T170315Z">
-        <seg>Activer la </seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T171714Z" creationid="Olivier" creationdate="20200428T170315Z">
+        <seg>Activer la sauvegarde automatique </seg>
       </tuv>
     </tu>
     <tu>
@@ -4242,6 +4306,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T145027Z" creationid="Olivier" creationdate="20200428T145027Z">
         <seg>Permettre la vente interne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enable the enhanced hotkey system.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T171656Z" creationid="Olivier" creationdate="20200428T171656Z">
+        <seg>Désactiver le système de raccourcis clavier amélioré.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4530,6 +4602,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T213021Z" creationid="Olivier" creationdate="20200425T213021Z">
         <seg>Firm Build Count=Farm, 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm Filter</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T172049Z" creationid="Olivier" creationdate="20200428T172049Z">
+        <seg>Filtre des établissements</seg>
       </tuv>
     </tu>
     <tu>
@@ -7073,6 +7153,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Land Value Mode</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T172425Z" creationid="Olivier" creationdate="20200428T172305Z">
+        <seg>Mode de valeur des terrains</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Land-use planning</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T123049Z" creationid="Olivier" creationdate="20200428T123049Z">
@@ -7317,6 +7405,70 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145940Z" creationid="Inrepublica" creationdate="20200422T145940Z">
         <seg>MLOANDEP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MMAPBF</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T172030Z" creationid="Olivier" creationdate="20200428T172030Z">
+        <seg>MMAPBF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MMAPCM</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T171917Z" creationid="Olivier" creationdate="20200428T171917Z">
+        <seg>MMAPCM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MMAPMMO</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T172125Z" creationid="Olivier" creationdate="20200428T172125Z">
+        <seg>MMAPMMO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MMAPMMV</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T172248Z" creationid="Olivier" creationdate="20200428T172248Z">
+        <seg>MMAPMMV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MMAPNT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T171747Z" creationid="Olivier" creationdate="20200428T171747Z">
+        <seg>MMAPNT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MMAPPT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T171717Z" creationid="Olivier" creationdate="20200428T171717Z">
+        <seg>MMAPPT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MMAPTB</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T171941Z" creationid="Olivier" creationdate="20200428T171941Z">
+        <seg>MMAPTB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MMAPTS</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T172002Z" creationid="Olivier" creationdate="20200428T172002Z">
+        <seg>MMAPTS</seg>
       </tuv>
     </tu>
     <tu>
@@ -7709,6 +7861,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202608Z" creationid="Inrepublica" creationdate="20200422T202608Z">
         <seg>Next Arrow=Yes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Next City (hotkey: ']')</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T171900Z" creationid="Olivier" creationdate="20200428T171816Z">
+        <seg>Ville suivante (touche de raccourci : " ] "</seg>
       </tuv>
     </tu>
     <tu>
@@ -8597,6 +8757,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144901Z" creationid="Olivier" creationdate="20200428T144901Z">
         <seg>OM_OK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OM_QK_A</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T171613Z" creationid="Olivier" creationdate="20200428T171613Z">
+        <seg>OM_QK_A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OM_QK_B</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T171625Z" creationid="Olivier" creationdate="20200428T171625Z">
+        <seg>OM_QK_B</seg>
       </tuv>
     </tu>
     <tu>
@@ -10105,6 +10281,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Previous City (hotkey: '[')</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T171905Z" creationid="Olivier" creationdate="20200428T171736Z">
+        <seg>Ville précédente (touche de raccourci : " [ ")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Price Agreement|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150712Z" creationid="Inrepublica" creationdate="20200425T150712Z">
@@ -10561,6 +10745,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Right-click to set the filter based on the current firm.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T172119Z" creationid="Olivier" creationdate="20200428T172119Z">
+        <seg>Cliquez avec le bouton droit de la souris pour définir le filtre basé sur l'entreprise actuelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Run PACK.BAT to pack files under the current MOD Kit folder into a MOD file.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T160301Z" creationid="Olivier" creationdate="20200427T160301Z">
@@ -10745,6 +10937,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select City</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T172012Z" creationid="Olivier" creationdate="20200428T172012Z">
+        <seg>Sélectionner la ville</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select Reduced Inflation Strength if you prefer less strong inflation.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T153011Z" creationid="Inrepublica" creationdate="20200422T153011Z">
@@ -10765,6 +10965,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T144420Z" creationid="Olivier" creationdate="20200424T144420Z">
         <seg>Sélectionnez un produit vestimentaire dans la liste et cliquez sur le bouton [CONSTUIRE USINE]. Ce tutoriel se poursuivra lorsque votre usine commencera à produire des articles vestimentaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select city and update main city view</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T172023Z" creationid="Olivier" creationdate="20200428T172023Z">
+        <seg>Sélectionner une ville et mettre à jour la vue principale de la ville</seg>
       </tuv>
     </tu>
     <tu>
@@ -13734,6 +13942,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T215243Z" creationid="Olivier" creationdate="20200425T215243Z">
         <seg>Pour gagner cette partie, votre entreprise doit fabriquer au moins ~20 types de produits~ pour démontrer sa capacité à produire une large gamme de produits.^^En même temps, vous devez réaliser ~un revenu annuel de 100 millions de dollars~ et ~un bénéfice annuel de 10 millions de dollars~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Toggle Firm Filter to select only specific firms for the map display.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T172123Z" creationid="Olivier" creationdate="20200428T172101Z">
+        <seg>Bascule le filtre d'entreprise pour ne sélectionner que des entreprises spécifiques pour l'affichage de la carte.</seg>
       </tuv>
     </tu>
     <tu>
