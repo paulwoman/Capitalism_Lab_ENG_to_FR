@@ -2950,6 +2950,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to disable Auto Save</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T170304Z" creationid="Olivier" creationdate="20200428T170304Z">
+        <seg>Cliquez pour désactiver la fonction de sauvegarde automatique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to disable in-game help information</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T163236Z" creationid="Olivier" creationdate="20200428T163236Z">
@@ -2966,10 +2974,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to enable Auto Save</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T170342Z" creationid="Olivier" creationdate="20200428T170342Z">
+        <seg>Cliquez pour activer la sauvegarde automatique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to enable brief in-game help information</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T170103Z" creationid="Olivier" creationdate="20200428T170103Z">
         <seg>Cliquez pour activer une aide abrégée dans le jeu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to enable detailed in-game help information</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T170211Z" creationid="Olivier" creationdate="20200428T170211Z">
+        <seg>Cliquez pour activer les informations d'aide détaillées dans le jeu</seg>
       </tuv>
     </tu>
     <tu>
@@ -3798,6 +3822,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Detailed Help Information</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T170155Z" creationid="Olivier" creationdate="20200428T170155Z">
+        <seg>Informations sur l'aide détaillée</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Developed City at the Beginning</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T195645Z" creationid="Inrepublica" creationdate="20200422T195645Z">
@@ -3834,6 +3866,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T145903Z" creationid="Olivier" creationdate="20200428T145903Z">
         <seg>Désactiver l'application automatique des résultats de la R&amp;D aux unités de fabrication de vos usines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Disable Auto Save</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T170247Z" creationid="Olivier" creationdate="20200428T170247Z">
+        <seg>Désactiver la sauvegarde automatiquement</seg>
       </tuv>
     </tu>
     <tu>
@@ -4178,6 +4218,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T150004Z" creationid="Olivier" creationdate="20200428T150004Z">
         <seg>Activer l'application automatique des résultats de la R&amp;D aux unités de fabrication de vos usines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enable Auto Save</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T170315Z" creationid="Olivier" creationdate="20200428T170315Z">
+        <seg>Activer la </seg>
       </tuv>
     </tu>
     <tu>
@@ -8417,6 +8465,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OM_AS_A</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T170212Z" creationid="Olivier" creationdate="20200428T170212Z">
+        <seg>OM_AS_A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OM_AS_B</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T170306Z" creationid="Olivier" creationdate="20200428T170306Z">
+        <seg>OM_AS_B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OM_CN</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144908Z" creationid="Olivier" creationdate="20200428T144908Z">
@@ -8477,6 +8541,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T163238Z" creationid="Olivier" creationdate="20200428T163238Z">
         <seg>OM_HE_B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OM_HE_C</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T170109Z" creationid="Olivier" creationdate="20200428T170109Z">
+        <seg>OM_HE_C</seg>
       </tuv>
     </tu>
     <tu>
