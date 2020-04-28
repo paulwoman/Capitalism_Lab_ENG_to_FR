@@ -2478,6 +2478,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144917Z" creationid="Olivier" creationdate="20200428T144917Z">
+        <seg>Annuler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Capitalism Lab is an expansion for Capitalism 2 with a host of new features and improvements, for experienced users of Capitalism 2.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102104Z" creationid="Olivier" creationdate="20200428T102104Z">
@@ -2790,6 +2798,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click the speed dial to alter the game speed.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144757Z" creationid="Olivier" creationdate="20200428T144757Z">
+        <seg>Cliquez sur la touche de numérotation rapide pour modifier la vitesse du jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the ~Add Product icon~, then choose ~Seaport~ from the supplier list, and select a product to add to your store.^^This time, make sure that you select a different product than the one already on sale in your store.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T213909Z" creationid="Olivier" creationdate="20200422T170748Z">
@@ -3090,6 +3106,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151309Z" creationid="Inrepublica" creationdate="20200423T151309Z">
         <seg>Competitor Start-up Capital=Low</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Competitors are allowed to buy your products.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T145007Z" creationid="Olivier" creationdate="20200428T145007Z">
+        <seg>Les concurrents sont autorisés à acheter vos produits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Competitors are not allowed to buy your products.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T145045Z" creationid="Olivier" creationdate="20200428T145045Z">
+        <seg>Les concurrents ne sont pas autorisés à acheter vos produits.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3734,6 +3766,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Disable AutoLink to Supplier</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T145133Z" creationid="Olivier" creationdate="20200428T145109Z">
+        <seg>Désactiver le lien automatique avec le fournisseur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Disable Internal Sale</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144934Z" creationid="Olivier" creationdate="20200428T144934Z">
+        <seg>Désactiver la vente interne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Disclaimer of Warranty.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122131Z" creationid="Olivier" creationdate="20200428T122131Z">
@@ -3770,6 +3818,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T131730Z" creationid="Olivier" creationdate="20200427T131556Z">
         <seg>Affiche la carte du monde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Display the game options menu.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144554Z" creationid="Olivier" creationdate="20200428T144554Z">
+        <seg>Permet d'afficher le menu des options du jeu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4026,6 +4082,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T063929Z" creationid="Inrepublica" creationdate="20200426T063929Z">
         <seg>Electronics Store|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enable AutoLink to Supplier</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T145313Z" creationid="Olivier" creationdate="20200428T145313Z">
+        <seg>Activer le lien automatique avec le fournisseur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enable Internal Sale</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T145027Z" creationid="Olivier" creationdate="20200428T145027Z">
+        <seg>Permettre la vente interne</seg>
       </tuv>
     </tu>
     <tu>
@@ -5148,6 +5220,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145811Z" creationid="Inrepublica" creationdate="20200422T145811Z">
         <seg>GS_PLIST</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Game Menu (hotkey: ESC)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144530Z" creationid="Olivier" creationdate="20200428T144402Z">
+        <seg>Menu de jeu (Raccourci : ESC)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Game Speed (hotkey: '1' to '5')</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144704Z" creationid="Olivier" creationdate="20200428T144704Z">
+        <seg>Vitesse de la partie  (raccourcis: '1' à '5')</seg>
       </tuv>
     </tu>
     <tu>
@@ -7089,10 +7177,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MMENUGM</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144344Z" creationid="Olivier" creationdate="20200428T144344Z">
+        <seg>MMENUGM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MMENUHQ (hotkey: 'H')</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144144Z" creationid="Olivier" creationdate="20200428T144144Z">
         <seg>MMENUHQ (hotkey: 'H')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MMENUOM</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144456Z" creationid="Olivier" creationdate="20200428T144456Z">
+        <seg>MMENUOM</seg>
       </tuv>
     </tu>
     <tu>
@@ -7109,6 +7213,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T152205Z" creationid="Inrepublica" creationdate="20200423T152205Z">
         <seg>MMENUSM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MMENUSP</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144556Z" creationid="Olivier" creationdate="20200428T144556Z">
+        <seg>MMENUSP</seg>
       </tuv>
     </tu>
     <tu>
@@ -7405,6 +7517,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T155254Z" creationid="Inrepublica" creationdate="20200422T160239Z">
         <seg>Nouveau port maritimes pendant le jeu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>News Display Option (hotkey: 'N')</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144823Z" creationid="Olivier" creationdate="20200428T144823Z">
+        <seg>Option d'affichage des nouvelles (touche de raccourci : 'N' / News)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8121,6 +8241,62 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OM_AL_A</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T145105Z" creationid="Olivier" creationdate="20200428T145105Z">
+        <seg>OM_AL_A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OM_AL_B</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T145256Z" creationid="Olivier" creationdate="20200428T145256Z">
+        <seg>OM_AL_B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OM_CN</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144908Z" creationid="Olivier" creationdate="20200428T144908Z">
+        <seg>OM_CN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OM_IS_A</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144919Z" creationid="Olivier" creationdate="20200428T144919Z">
+        <seg>OM_IS_A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OM_IS_B</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T145014Z" creationid="Olivier" creationdate="20200428T145014Z">
+        <seg>OM_IS_B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OM_NEWS</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144759Z" creationid="Olivier" creationdate="20200428T144759Z">
+        <seg>OM_NEWS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OM_OK</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144901Z" creationid="Olivier" creationdate="20200428T144901Z">
+        <seg>OM_OK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OSTECH</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145913Z" creationid="Inrepublica" creationdate="20200422T145913Z">
@@ -8133,6 +8309,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155536Z" creationid="Inrepublica" creationdate="20200425T155536Z">
         <seg>OUTPUT|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ok</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144905Z" creationid="Olivier" creationdate="20200428T144905Z">
+        <seg>Ok</seg>
       </tuv>
     </tu>
     <tu>
@@ -8217,6 +8401,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open the News Display options screen</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144859Z" creationid="Olivier" creationdate="20200428T144859Z">
+        <seg>Ouvre la fenêtre des options d'affichage des actualités</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open the Stock Market screen</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144341Z" creationid="Olivier" creationdate="20200428T144341Z">
@@ -8245,6 +8437,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102405Z" creationid="Olivier" creationdate="20200428T102405Z">
         <seg>Operating Profit Margin=5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Options Menu (hotkey: 'O')</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144523Z" creationid="Olivier" creationdate="20200428T144523Z">
+        <seg>Menu Options (Raccourci : 'O')</seg>
       </tuv>
     </tu>
     <tu>
@@ -10113,6 +10313,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Save, Load, Retire, return to main menu or return to Windows.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144427Z" creationid="Olivier" creationdate="20200428T144427Z">
+        <seg>Enregistrer, Charger, prendre sa retraite, revenir au menu principal ou revenir à Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Score change=-10</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102445Z" creationid="Olivier" creationdate="20200428T102445Z">
@@ -11581,6 +11789,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T210521Z" creationid="Olivier" creationdate="20200422T210521Z">
         <seg>Plus la couleur est foncée, plus les profits ou les pertes sont importants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The default setting of #AutoLink to Supplier# is #Disabled#.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T145238Z" creationid="Olivier" creationdate="20200428T145238Z">
+        <seg>Le paramètre par défaut de #Lien automatique avec le fournisseur# est #Désactivé#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The default setting of #Internal Sale# is #Disabled#.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144948Z" creationid="Olivier" creationdate="20200428T144948Z">
+        <seg>Le paramètre par défaut de #Vente interne# est #Désactivé#.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14399,6 +14623,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T121729Z" creationid="Olivier" creationdate="20200428T121729Z">
         <seg>Vous devez conserver, sous la forme d'une source tous les Travaux dérivés que vous avez distribués, tous les avis de copyright, de brevet, de marque commerciale, et d'attribution de la forme Source du Travail, à l'exclusion des déclarations ne se rapportant à aucune partie des Travaux dérivés, et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You must select suppliers manually.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T145255Z" creationid="Olivier" creationdate="20200428T145255Z">
+        <seg>Vous devez sélectionner les fournisseurs manuellement.</seg>
       </tuv>
     </tu>
     <tu>
