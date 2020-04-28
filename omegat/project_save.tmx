@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>"Contribution" shall mean any work of authorship, including the original version of the Work and any modifications or additions to that Work or Derivative Works thereof, that is intentionally submitted to Licensor for inclusion in the Work by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T121304Z" creationid="Olivier" creationdate="20200428T121304Z">
+        <seg>L’appellation "Contribution" désigne toute œuvre d'auteur, y compris la version originale du Travail et toutes modifications ou ajouts éventuels à ce Travail ou Travaux dérivés de celui-ci, intentionnellement envoyé au Concédant de licence pour inclusion dans le Travail par le détenteur du copyright ou par un individu ou une entité juridique autorisée à présenter au nom du détenteur du copyright. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Contributor" shall mean Licensor and any individual or Legal Entity on behalf of whom a Contribution has been received by Licensor and subsequently incorporated within the Work.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T121329Z" creationid="Olivier" creationdate="20200428T121329Z">
+        <seg>L’appellation "Contributeur" désigne le Concédant et toute personne physique ou morale pour le compte de laquelle une contribution a été reçue par le Concédant et ensuite incorporée dans le travail.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>"Derivative Works" shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T121235Z" creationid="Olivier" creationdate="20200428T121235Z">
@@ -574,6 +590,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>2.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T121331Z" creationid="Olivier" creationdate="20200428T121331Z">
+        <seg>2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>3 ans|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150659Z" creationid="Inrepublica" creationdate="20200425T150659Z">
@@ -586,6 +610,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150659Z" creationid="Inrepublica" creationdate="20200425T150659Z">
         <seg>3 years|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>3.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T121421Z" creationid="Olivier" creationdate="20200428T121421Z">
+        <seg>3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -594,6 +626,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151451Z" creationid="Inrepublica" creationdate="20200423T151451Z">
         <seg>3x3 Layout</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>4.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T121558Z" creationid="Olivier" creationdate="20200428T121558Z">
+        <seg>4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -614,6 +654,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>5.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122002Z" creationid="Olivier" creationdate="20200428T122002Z">
+        <seg>5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>6 mois|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150703Z" creationid="Inrepublica" creationdate="20200425T150703Z">
@@ -626,6 +674,30 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150702Z" creationid="Inrepublica" creationdate="20200425T150702Z">
         <seg>6 months|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>6.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122053Z" creationid="Olivier" creationdate="20200428T122053Z">
+        <seg>6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>7.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122120Z" creationid="Olivier" creationdate="20200428T122120Z">
+        <seg>7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>8.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122153Z" creationid="Olivier" creationdate="20200428T122153Z">
+        <seg>8.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1034,6 +1106,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150706Z" creationid="Inrepublica" creationdate="20200425T150706Z">
         <seg>About|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Accepting Warranty or Additional Liability.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122223Z" creationid="Olivier" creationdate="20200428T122223Z">
+        <seg>Acceptation de garantie ou de responsabilité supplémentaire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3534,6 +3614,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Disclaimer of Warranty.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122131Z" creationid="Olivier" creationdate="20200428T122131Z">
+        <seg>Exclusion de garantie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Discount Megastore|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T063922Z" creationid="Inrepublica" creationdate="20200426T063922Z">
@@ -4470,10 +4558,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For the purposes of this License, Derivative Works shall not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the Work and Derivative Works thereof.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T121249Z" creationid="Olivier" creationdate="20200428T121249Z">
+        <seg>Aux fins de la présente Licence, les Travaux dérivés ne comprennent pas les travaux qui restent dissociables, ou simplement liés à (ou liés par dénomination) aux interfaces du Travail et des Travaux dérivés de celui-ci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For the purposes of this definition, "control" means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T121109Z" creationid="Olivier" creationdate="20200428T121109Z">
         <seg> Aux fins de cette définition, "contrôle" désigne (i) le pouvoir, direct ou indirect, de diriger ou gérer de telles entités, que ce soit par contrat ou autrement, ou (ii) la détention de cinquante pour cent (50 %) ou plus des actions en circulation, ou (iii) un droit de propriété à titre bénéficiaire de cette entité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For the purposes of this definition, "submitted" means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and improving the Work, but excluding communication that is conspicuously marked or otherwise designated in writing by the copyright owner as "Not a Contribution."</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T121325Z" creationid="Olivier" creationdate="20200428T121325Z">
+        <seg>Aux fins de cette définition, "envoyé" désigne toute forme de communication électronique, communication verbale ou écrite adressée au Concédant ou ses représentants, notamment toute communication sur listes de diffusion électroniques, systèmes de contrôle de code source et systèmes de suivi des problèmes gérés par, ou au nom du, le Concédant dans le but de discuter du travail et de l’améliorer , mais à l'exclusion de toute communication clairement indiquée ou désignée par écrit et par le détenteur du copyright sous l’intitulé "Pas une contribution".</seg>
       </tuv>
     </tu>
     <tu>
@@ -5241,6 +5345,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Grant of Copyright License.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T121851Z" creationid="Olivier" creationdate="20200428T121344Z">
+        <seg>Délivrance d’une licence de copyright.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Grant of Patent License.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T121433Z" creationid="Olivier" creationdate="20200428T121433Z">
+        <seg>Délivrance d’une Licence de brevet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Great Job!</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T093933Z" creationid="Olivier" creationdate="20200424T093933Z">
@@ -5377,6 +5497,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122249Z" creationid="Olivier" creationdate="20200428T122249Z">
+        <seg> Cependant, en acceptant ces obligations, vous ne pouvez agir qu’en votre propre nom et serez tenu seul responsable, et non au nom de tout autre Contributeur, et seulement si Vous acceptez d'indemniser, de défendre et de dégager chaque Contributeur de toute responsabilité encourue par ou toute réclamation présentée contre, un tel Contributeur une fois toute garantie ou responsabilité supplémentaire acceptée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, specialty stores do have advantages over general stores.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T133710Z" creationid="Olivier" creationdate="20200423T133710Z">
@@ -5421,6 +5549,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145956Z" creationid="Inrepublica" creationdate="20200422T145956Z">
         <seg>INT_SPRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If You institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Work or a Contribution incorporated within the Work constitutes direct or contributory patent infringement, then any patent licenses granted to You under this License for that Work shall terminate as of the date such litigation is filed.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T121557Z" creationid="Olivier" creationdate="20200428T121557Z">
+        <seg>Si vous engagez une quelconque instance judiciaire (y compris une demande connexe ou reconventionnelle dans un procès) en alléguant que le Travail ou une Contribution reprise dans ce Travail constitue une quelconque violation de brevet, directe ou décisive, alors toute licence de brevet Vous ayant été accordée selon les termes de cette Licence pour ledit Travail sera révoquée et ce, dès la date de demande de ladite instance.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5485,6 +5621,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T160215Z" creationid="Olivier" creationdate="20200427T160215Z">
         <seg>Si c'est le cas, ajoutez les fichiers MOD tool EXE "LibResDir.EXE" et "LibResXL.EXE" dans la liste des exceptions de votre logiciel anti-virus pour l'empêcher de bloquer les outils ou de ralentir leur exécution.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the Work includes a "NOTICE" text file as part of its distribution, then any Derivative Works that You distribute must include a readable copy of the attribution notices contained within such NOTICE file, excluding those notices that do not pertain to any part of the Derivative Works, in at least one of the following places: within a NOTICE text file distributed as part of the Derivative Works; within the Source form or documentation, if provided along with the Derivative Works; or, within a display generated by the Derivative Works, if and wherever such third-party notices normally appear.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122000Z" creationid="Olivier" creationdate="20200428T122000Z">
+        <seg>Si le travail contient un fichier texte "DÉCLARATION" dans le cadre de sa distribution, alors tout travail dérivé que Vous distribuez doit inclure une copie lisible des déclarations d'attribution reprise dans ledit fichier DÉCLARATION, à l'exception des déclarations ne se rapportant à aucune partie des Travaux dérivés, au moins dans l'un des endroits suivants : dans un fichier texte DÉCLARATION distribué conjointement aux travaux dérivés, dans la forme Source ou la documentation, le cas échéant, ainsi que les Travaux dérivés, ou dans un encart généré par les Travaux dérivés, si et où de tels avis tiers apparaissent généralement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5789,6 +5933,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151008Z" creationid="Olivier" creationdate="20200423T151008Z">
         <seg>En résumé, ~un prix bas, une qualité élevée et une bonne image de marque~ contribuent à ~une bonne note globale~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall any Contributor be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the Work (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if such Contributor has been advised of the possibility of such damages.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122219Z" creationid="Olivier" creationdate="20200428T122219Z">
+        <seg>En aucun cas, et sous aucune base juridique que ce soit en matière délictuelle (incluant la négligence), contractuelle ou autre, sauf si requis par la loi applicable (comme des actes délibérés et de négligence grave) ou accepté par écrit, un Contributeur ne sera tenu responsable envers Vous d’aucun dommage, y compris tout dommage direct, indirect, spécial, fortuit ou consécutif, de quelque nature découlant du fait de cette Licence ou de l'utilisation ou de l'impossibilité d'utiliser le Travail (notamment les dommages pour perte de clientèle, arrêt de travail, panne ou dysfonctionnement informatique, ou tout autre dommage ou perte commerciale), même si le Contributeur a été avisé de la possibilité de tels dommages et intérêts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6649,6 +6801,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Limitation of Liability.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122209Z" creationid="Olivier" creationdate="20200428T122209Z">
+        <seg>Limitation de responsabilité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Link it to the first one as well.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T133756Z" creationid="Olivier" creationdate="20200426T133756Z">
@@ -7149,6 +7309,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T120806Z" creationid="Olivier" creationdate="20200428T120806Z">
         <seg>Noto est la famille de polices de Google qui vise à soutenir toutes les langues du monde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Notwithstanding the above, nothing herein shall supersede or modify the terms of any separate license agreement you may have executed with Licensor regarding such Contributions.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122051Z" creationid="Olivier" creationdate="20200428T122051Z">
+        <seg>Nonobstant ce qui précède, rien dans la présente ne remplacera ni ne modifiera les conditions générales d'un contrat de licence distinct que vous avez signé avec le Concédant en ce qui concerne ces Contributions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9457,6 +9625,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Redistribution.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T121607Z" creationid="Olivier" creationdate="20200428T121607Z">
+        <seg>Redistribution </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Remember that your corporation has just issued some shares?</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T151507Z" creationid="Olivier" creationdate="20200425T151507Z">
@@ -10165,6 +10341,30 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T171334Z" creationid="Inrepublica" creationdate="20200422T203920Z">
         <seg>Approvisionnement en argent rigoureuse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Work, where such license applies only to those patent claims licensable by such Contributor that are necessarily infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Work to which such Contribution(s) was submitted.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T121545Z" creationid="Olivier" creationdate="20200428T121545Z">
+        <seg>Sous réserve de respect des modalités et conditions générales de la présente Licence, chaque Contributeur Vous accorde par une licence de brevet perpétuelle, mondiale, non exclusive, sans frais, libre de redevances, irrévocable (exception faite des indications reprises dans cette section) vous autorisant à réaliser, faire réaliser, utiliser, offrir à la vente, vendre, importer et transférer le Travail, pour autant qu’une telle licence ne s'applique qu'aux revendications de brevet sous licence par ledit Contributeur qui sont nécessairement lésés par leur(s) contribution (s) propre(s) ou par une combinaison de leur(s) contribution (s) avec le Travail pour lequel une ou de telles Contributions ont été présentées. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T121442Z" creationid="Olivier" creationdate="20200428T121412Z">
+        <seg>Sous réserve de respect des modalités et conditions générales de la présente Licence, chaque Contributeur Vous accorde par la présente une licence de copyright perpétuelle, mondiale, non exclusive, sans frais, libre de redevances, irrévocable vous autorisant à reproduire, élaborer des travaux dérivés, afficher publiquement, exécuter publiquement, sous-licencier et distribuer le Travail et les Travaux dérivés qui y sont associés sous forme Source ou Objet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Submission of Contributions.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122014Z" creationid="Olivier" creationdate="20200428T122014Z">
+        <seg>Soumission des contributions</seg>
       </tuv>
     </tu>
     <tu>
@@ -11145,6 +11345,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The contents of the NOTICE file are for informational purposes only and do not modify the License.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T121954Z" creationid="Olivier" creationdate="20200428T121954Z">
+        <seg>Le contenu du fichier DÉCLARATION est repris à titre informatif uniquement et ne modifie en rien la Licence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The darker the color, the greater the profit or loss.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T210521Z" creationid="Olivier" creationdate="20200422T210521Z">
@@ -11946,6 +12154,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for reasonable and customary use in describing the origin of the Work and reproducing the content of the NOTICE file.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122118Z" creationid="Olivier" creationdate="20200428T122118Z">
+        <seg>Cette licence n'accorde pas l'autorisation d'utiliser le nom commercial, les marques commerciales, les marques de service ou le nom d’un produit du Concédant, sauf tel que requis pour une utilisation raisonnable et usuelle de description de l'origine du Travail et de reproduction du contenu du fichier de la DÉCLARATION.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This adjusts the economy's impact on consumer demand, which affects GDP and in turn affects the volatility of the boom-bust cycle.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203657Z" creationid="Inrepublica" creationdate="20200422T203657Z">
@@ -12714,6 +12930,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Trademarks.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122102Z" creationid="Olivier" creationdate="20200428T122102Z">
+        <seg>Marques commerciales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Training Effect Modifier=50</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T101952Z" creationid="Olivier" creationdate="20200428T101952Z">
@@ -13014,6 +13238,22 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T095501Z" creationid="Olivier" creationdate="20200424T095501Z">
         <seg>Unit has item=4, Steel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unless You explicitly state otherwise, any Contribution intentionally submitted for inclusion in the Work by You to the Licensor shall be under the terms and conditions of this License, without any additional terms or conditions.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122047Z" creationid="Olivier" creationdate="20200428T122047Z">
+        <seg>À moins que vous ne l’indiquiez explicitement autrement, toute contribution intentionnellement envoyée pour inclusion dans le Travail par Vous au Concédant doit l’être conformément aux conditions générales de la présente Licence, sans aucune modalité ou condition supplémentaire. .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unless required by applicable law or agreed to in writing, Licensor provides the Work (and each Contributor provides its Contributions) on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122141Z" creationid="Olivier" creationdate="20200428T122141Z">
+        <seg>Sauf si requis par la loi applicable ou convenu par écrit, le Concédant fournit le Travail (et chaque Contributeur fournit ses Contributions) sur une base "TEL QUEL", SANS GARANTIE NI CONDITION DE QUELQUE NATURE QUE CE SOIT, explicite ou implicite, notamment les garanties ou conditions de TITRE, D'ABSENCE DE CONTREFAÇON, DE QUALITÉ MARCHANDE, ou D'ADÉQUATION À UN USAGE PARTICULIER. </seg>
       </tuv>
     </tu>
     <tu>
@@ -13370,6 +13610,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122234Z" creationid="Olivier" creationdate="20200428T122234Z">
+        <seg>Lors de la redistribution du Travail ou des Travaux dérivés de celui-ci, vous pouvez choisir de proposer, et même à titre payant, une acceptation d’assistance, de garantie, d’indemnité, ou toute autre obligation de responsabilité et /ou de droit compatible avec la présente Licence. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>While waiting for the R&amp;D project to complete, let's go ahead and ~set up a factory~ to manufacture ~Air Conditioners~.^^Right click anywhere on the screen to exit back to the city view.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T135232Z" creationid="Olivier" creationdate="20200426T135232Z">
@@ -13486,6 +13734,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T135332Z" creationid="Olivier" creationdate="20200426T135332Z">
         <seg>Vous êtes maintenant dans le commerce de la vente de climatiseurs !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You are solely responsible for determining the appropriateness of using or redistributing the Work and assume any risks associated with Your exercise of permissions under this License.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122152Z" creationid="Olivier" creationdate="20200428T122152Z">
+        <seg> Il incombe à vous seul de déterminer la pertinence d'utilisation ou de redistribution du Travail et d’assumer tous les risques liés à votre usage des autorisations prévues par la présente Licence.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13674,6 +13930,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You may add Your own attribution notices within Derivative Works that You distribute, alongside or as an addendum to the NOTICE text from the Work, provided that such additional attribution notices cannot be construed as modifying the License.   You may add Your own copyright statement to Your modifications and may provide additional or different license terms and conditions for use, reproduction, or distribution of Your modifications, or for any such Derivative Works as a whole, provided Your use, reproduction, and distribution of the Work otherwise complies with the conditions stated in this License.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T121846Z" creationid="Olivier" creationdate="20200428T121846Z">
+        <seg>Vous pouvez ajouter votre propre déclaration de copyright relative à vos modifications et pouvez fournir des conditions générales supplémentaires ou différentes de la licence en matière d’utilisation, de reproduction ou de distribution de vos modifications, ou pour tout Travail dérivé dans son ensemble, à condition que cette utilisation, reproduction et distribution du Travail soit conforme par ailleurs aux conditions énoncées dans cette Licence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You may also Customize or Randomize the game settings</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145642Z" creationid="Inrepublica" creationdate="20200422T145633Z">
@@ -13770,6 +14034,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You may reproduce and distribute copies of the Work or Derivative Works thereof in any medium, with or without modifications, and in Source or Object form, provided that You meet the following conditions:</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T121620Z" creationid="Olivier" creationdate="20200428T121620Z">
+        <seg>Vous pouvez reproduire et distribuer des exemplaires du Travail ou des Travaux dérivés de celui-ci quel que soit le support, avec ou sans modifications, et sous forme Source ou Objet, à condition que Vous répondiez aux conditions suivantes : </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You may set it as a developed city or a new city created from scratch.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T195730Z" creationid="Inrepublica" creationdate="20200422T195730Z">
@@ -13835,6 +14107,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You must cause any modified files to carry prominent notices stating that You changed the files; and</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T121720Z" creationid="Olivier" creationdate="20200428T121720Z">
+        <seg>Tous les fichiers modifiés doivent comporter, en évidence, des déclarations établissant que Vous avez modifié les fichiers, et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You must confirm this before sending this Challenge Game to other players.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160526Z" creationid="Inrepublica" creationdate="20200422T160526Z">
@@ -13851,10 +14131,26 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You must give any other recipients of the Work or Derivative Works a copy of this License; and</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T121710Z" creationid="Olivier" creationdate="20200428T121710Z">
+        <seg>Avec toute copie du Travail ou des Travaux Modifiés, vous devez fournir une copie de la présente Licence, et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You must invest into technological development if you want your Air Conditioners to be competitive in the market.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T133141Z" creationid="Olivier" creationdate="20200426T133141Z">
         <seg>Vous devez investir dans le développement technologique si vous voulez que vos climatiseurs soient compétitifs sur le marché.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You must retain, in the Source form of any Derivative Works that You distribute, all copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T121729Z" creationid="Olivier" creationdate="20200428T121729Z">
+        <seg>Vous devez conserver, sous la forme d'une source tous les Travaux dérivés que vous avez distribués, tous les avis de copyright, de brevet, de marque commerciale, et d'attribution de la forme Source du Travail, à l'exclusion des déclarations ne se rapportant à aucune partie des Travaux dérivés, et</seg>
       </tuv>
     </tu>
     <tu>
