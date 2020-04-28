@@ -2542,6 +2542,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Competence of Local Competitors=Moderate</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T101651Z" creationid="Olivier" creationdate="20200428T101651Z">
+        <seg>Competence of Local Competitors=Moderate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Competence of Local Competitors=Very Low</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151326Z" creationid="Inrepublica" creationdate="20200423T151326Z">
@@ -2554,6 +2562,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T155819Z" creationid="Inrepublica" creationdate="20200422T155819Z">
         <seg>Compétence de la concurence locale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Competitor Aggressiveness=High</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T101647Z" creationid="Olivier" creationdate="20200428T101647Z">
+        <seg>Competitor Aggressiveness=High</seg>
       </tuv>
     </tu>
     <tu>
@@ -2698,6 +2714,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160419Z" creationid="Inrepublica" creationdate="20200422T160419Z">
         <seg>L'importation constante évite de devoir chercher de nouveaux fournisseurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Consumer Goods Seaports=2</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T101653Z" creationid="Olivier" creationdate="20200428T101653Z">
+        <seg>Consumer Goods Seaports=2</seg>
       </tuv>
     </tu>
     <tu>
@@ -2954,6 +2978,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171440Z" creationid="Olivier" creationdate="20200427T171440Z">
         <seg>Description=Ceci est un script avec le paramètre de verrouillages</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=This is a testing script for custom products.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T101619Z" creationid="Olivier" creationdate="20200428T101619Z">
+        <seg>Description=Il s'agit d'un script de test pour les produits personnalisés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3850,6 +3882,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T131238Z" creationid="Inrepublica" creationdate="20200423T131238Z">
         <seg>Flex Text Box=80,550,400,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Folder=My Products</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T101630Z" creationid="Olivier" creationdate="20200428T101630Z">
+        <seg>Folder=My Products</seg>
       </tuv>
     </tu>
     <tu>
@@ -5297,6 +5337,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Industrial Goods Seaports=2</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T101656Z" creationid="Olivier" creationdate="20200428T101656Z">
+        <seg>Industrial Goods Seaports=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Industrial Goods Seaports=3</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151351Z" creationid="Inrepublica" creationdate="20200423T151351Z">
@@ -5329,6 +5377,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Inflation Strength=Normal</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T101644Z" creationid="Olivier" creationdate="20200428T101644Z">
+        <seg>Inflation Strength=Normal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Inflation Strength=Reduced</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170610Z" creationid="Olivier" creationdate="20200427T170610Z">
@@ -5341,6 +5397,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T152510Z" creationid="Inrepublica" creationdate="20200422T152510Z">
         <seg>L'inflation est activée lorsque cette option est activée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inflation=Inverse</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T101642Z" creationid="Olivier" creationdate="20200428T101642Z">
+        <seg>Inflation=Inverse</seg>
       </tuv>
     </tu>
     <tu>
@@ -6077,6 +6141,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T152205Z" creationid="Inrepublica" creationdate="20200423T152205Z">
         <seg>MMENUSM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MOD=CAPMOD, local</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T101634Z" creationid="Olivier" creationdate="20200428T101634Z">
+        <seg>MOD=CAPMOD, local</seg>
       </tuv>
     </tu>
     <tu>
@@ -6837,6 +6909,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T132731Z" creationid="Olivier" creationdate="20200423T132731Z">
         <seg>Number of Cities=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of Cities=4</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T101636Z" creationid="Olivier" creationdate="20200428T101636Z">
+        <seg>Number of Cities=4</seg>
       </tuv>
     </tu>
     <tu>
@@ -8301,6 +8381,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151211Z" creationid="Inrepublica" creationdate="20200423T151211Z">
         <seg>Random Events=Never</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Random Events=Occasional</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T101639Z" creationid="Olivier" creationdate="20200428T101639Z">
+        <seg>Random Events=Occasional</seg>
       </tuv>
     </tu>
     <tu>
@@ -11110,6 +11198,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171416Z" creationid="Olivier" creationdate="20200427T171416Z">
         <seg>Title=Script Capitalism Lab #05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Capitalism Lab script for products</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T101604Z" creationid="Olivier" creationdate="20200428T101604Z">
+        <seg>Title=Scénario de Capitalism Lab pour les produits</seg>
       </tuv>
     </tu>
     <tu>
@@ -16069,6 +16165,14 @@ Window=Select Supplier</seg>
 Text Box=32,270,300,0
 Pointer=202,85,348,102
 Window=Select Supplier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[PRODUCTS]</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T101659Z" creationid="Olivier" creationdate="20200428T101659Z">
+        <seg>[PRODUCTS]</seg>
       </tuv>
     </tu>
     <tu>
