@@ -982,6 +982,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>AI Friendly Merger=No</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T215721Z" creationid="Olivier" creationdate="20200428T215721Z">
+        <seg>AI Friendly Merger=No</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>AI Friendly Merger=Off</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151324Z" creationid="Inrepublica" creationdate="20200423T151324Z">
@@ -3230,6 +3238,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Competitor Aggressiveness=Moderate</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T215718Z" creationid="Olivier" creationdate="20200428T215718Z">
+        <seg>Competitor Aggressiveness=Moderate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Competitor Aggressiveness=Very High</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171339Z" creationid="Olivier" creationdate="20200427T171339Z">
@@ -3274,6 +3290,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151309Z" creationid="Inrepublica" creationdate="20200423T151309Z">
         <seg>Competitor Start-up Capital=Low</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Competitor Start-up Capital=Moderate</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T215716Z" creationid="Olivier" creationdate="20200428T215716Z">
+        <seg>Competitor Start-up Capital=Moderate</seg>
       </tuv>
     </tu>
     <tu>
@@ -3878,6 +3902,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=Years of research in training methodology by a consortium of leading business schools have finally produced astonishing results.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T213904Z" creationid="Olivier" creationdate="20200428T213904Z">
+        <seg>Description=Des années de recherche en méthodologie de formation par un consortium de grandes écoles de commerce ont finalement donné des résultats étonnants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=You are one of those people who are gifted with extraordinary technical wizardry and you are going to put it into good use with your tech startup.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T145902Z" creationid="Olivier" creationdate="20200426T145902Z">
@@ -3954,6 +3986,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T171143Z" creationid="Inrepublica" creationdate="20200422T203853Z">
         <seg>Niveau de difficulté pour le DLC Banques et Finances</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Difficulty Rating=90</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T215711Z" creationid="Olivier" creationdate="20200428T215711Z">
+        <seg>Difficulty Rating=90</seg>
       </tuv>
     </tu>
     <tu>
@@ -5729,6 +5769,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=With the breakthrough in training, you now have the tool to improve the operating efficiency of your corporation to new heights and deliver truly outstanding financial returns to your shareholders.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T215847Z" creationid="Olivier" creationdate="20200428T215847Z">
+        <seg>Goal Description=Grâce à cette percée dans le domaine de la formation, vous disposez désormais de l'outil nécessaire pour améliorer l'efficacité opérationnelle de votre société et offrir à vos actionnaires un rendement financier vraiment exceptionnel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=You win this tutorial game when you dominate the Apparel market while achieving an annual profit of not less than $2 million.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T142317Z" creationid="Olivier" creationdate="20200423T205804Z">
@@ -5757,6 +5805,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T123121Z" creationid="Olivier" creationdate="20200428T123121Z">
         <seg>Rapport sur les objectifs (touche de raccourci : G / Goal)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Aggressive Growth Plan</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T215822Z" creationid="Olivier" creationdate="20200428T215822Z">
+        <seg>Goal Title=Plan de croissance agressif</seg>
       </tuv>
     </tu>
     <tu>
@@ -8529,6 +8585,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Number of Competitors=20</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T215713Z" creationid="Olivier" creationdate="20200428T215713Z">
+        <seg>Number of Competitors=20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number of Competitors=22</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T103800Z" creationid="Olivier" creationdate="20200428T103800Z">
@@ -8613,6 +8677,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102135Z" creationid="Olivier" creationdate="20200428T102135Z">
         <seg>Number of Game Years=50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of Game Years=70</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T215848Z" creationid="Olivier" creationdate="20200428T215848Z">
+        <seg>Number of Game Years=70</seg>
       </tuv>
     </tu>
     <tu>
@@ -9325,6 +9397,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151528Z" creationid="Inrepublica" creationdate="20200423T151528Z">
         <seg>Player Company Annual Revenue=50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player Company Annual Revenue=800</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T215851Z" creationid="Olivier" creationdate="20200428T215851Z">
+        <seg>Player Company Annual Revenue=800</seg>
       </tuv>
     </tu>
     <tu>
@@ -14094,6 +14174,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122102Z" creationid="Olivier" creationdate="20200428T122102Z">
         <seg>Marques commerciales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Training Effect Modifier=200</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T215805Z" creationid="Olivier" creationdate="20200428T215805Z">
+        <seg>Training Effect Modifier=200</seg>
       </tuv>
     </tu>
     <tu>
@@ -19661,6 +19749,14 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>^^The new training methodology is able to increase corporate training efficiency by as much as 100% and companies around the globe are rapidly adopting this new training methodology.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T213922Z" creationid="Olivier" creationdate="20200428T213922Z">
+        <seg>^^La nouvelle méthodologie de formation est capable d'augmenter l'efficacité de la formation en entreprise jusqu'à 100% et les entreprises du monde entier adoptent rapidement cette nouvelle méthodologie de formation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>^^This scenario uses a special rule where costs of hiring management staff are only 20% of the normal rates.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T145635Z" creationid="Olivier" creationdate="20200426T145635Z">
@@ -19697,6 +19793,14 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T145704Z" creationid="Olivier" creationdate="20200426T145704Z">
         <seg>^^Vous devez faire preuve de leadership en développant agressivement votre entreprise, sinon votre personnel de direction risque de perdre confiance dans l'entreprise et de chercher de meilleures perspectives de carrière ailleurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^^Your company has jumped on this bandwagon as well and you are planning to leverage it to greatly improve the productivity of your workforce.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T214114Z" creationid="Olivier" creationdate="20200428T214114Z">
+        <seg>^^Votre entreprise a elle aussi pris le train en marche et vous comptez l'exploiter pour améliorer considérablement la productivité de votre personnel.</seg>
       </tuv>
     </tu>
     <tu>
