@@ -1,8 +1,7 @@
 # Traduction Française pour Capitalism Lab
 Il s'agit d'un dépôt contenant la traduction pour le jeu Capitalism Lab de Enlight Software.
 
-# le discord francophone 
-
+# Le discord francophone 
 Vous pouvez venir nous dire bonjour ou aider à la traduction avec https://discord.gg/Epz3NP9
 
 # Participer
@@ -103,6 +102,19 @@ Il est à préciser que les fichiers proposés actuellement doivent encore être
 | WAREINV.txt      | 100 %           |                |                |                |
 | WAREPUR.txt      | 100 %           |                |                |                |
 | WARESALE.txt     | 100 %           |                |                |                |
+
+## Fichiers divers
+
+### Notice.html du dossier "font"
+### ReadMe.txt des dossiers "Mod" et "Mod_kit
+
+### Fichiers pour la beta 6.4.03
+| Fichiers         | Progression     | Relecture Inrepublica | Relecture PaulWoman | Concordance |
+| :--------------- |:--------------- |:---------------|:---------------|:---------------|
+| t_game.txt       |   0 %           |                |                |                |
+| gm_help.txt      | 100 %           |                |                |                |
+| help.txt         |   0 %           |                |                |                |
+
 
 # Outils
 Dans le répertoire outils se trouve un petit fichier bat qui vous permet de copier directement la traduction en cours dans le répertoire du jeu Capitalism Lab.
