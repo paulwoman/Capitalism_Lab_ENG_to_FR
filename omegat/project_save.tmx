@@ -2038,6 +2038,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CEO Salary Modifier=20</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102512Z" creationid="Olivier" creationdate="20200428T102512Z">
+        <seg>CEO Salary Modifier=20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CEO Salary Modifier=200</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170624Z" creationid="Olivier" creationdate="20200427T170624Z">
@@ -2150,10 +2158,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>COO Salary Modifier=30</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102513Z" creationid="Olivier" creationdate="20200428T102513Z">
+        <seg>COO Salary Modifier=30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>COO Salary Modifier=50</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171309Z" creationid="Olivier" creationdate="20200427T171309Z">
         <seg>COO Salary Modifier=50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>COO expertise change=farming, 12</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102442Z" creationid="Olivier" creationdate="20200428T102442Z">
+        <seg>COO expertise change=farming, 12</seg>
       </tuv>
     </tu>
     <tu>
@@ -2166,10 +2190,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>COO salary modifier=60</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102449Z" creationid="Olivier" creationdate="20200428T102449Z">
+        <seg>COO salary modifier=60</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CTO Salary Modifier=1</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170631Z" creationid="Olivier" creationdate="20200427T170631Z">
         <seg>CTO Salary Modifier=1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CTO Salary Modifier=40</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102514Z" creationid="Olivier" creationdate="20200428T102514Z">
+        <seg>CTO Salary Modifier=40</seg>
       </tuv>
     </tu>
     <tu>
@@ -2306,6 +2346,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150728Z" creationid="Inrepublica" creationdate="20200425T150728Z">
         <seg>Citric Acid|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City Competitiveness Effect on Factory Modifier=1000</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102520Z" creationid="Olivier" creationdate="20200428T102520Z">
+        <seg>City Competitiveness Effect on Factory Modifier=1000</seg>
       </tuv>
     </tu>
     <tu>
@@ -3142,6 +3190,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=Capitalism Lab tutorial #1 script</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T103026Z" creationid="Olivier" creationdate="20200428T102731Z">
+        <seg>Description=Script du Tutoriel #1 de Capitalism Lab</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=Capitalism Lab tutorial #2 script</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T103120Z" creationid="Olivier" creationdate="20200428T103120Z">
+        <seg>Description=Script du Tutoriel #2 de Capitalism Lab</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=Capitalism Lab tutorial #3 script</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T103210Z" creationid="Olivier" creationdate="20200428T103210Z">
+        <seg>Description=Script du Tutoriel #3 de Capitalism Lab</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=Capitalism Lab tutorial #4 script</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T145247Z" creationid="Olivier" creationdate="20200426T145247Z">
@@ -3170,6 +3242,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171239Z" creationid="Olivier" creationdate="20200427T171239Z">
         <seg>Description=Jol omg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=This is a sample script for Capitalism Lab, illustrating how to use [CITIES] variables to customize cities for a new game.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T103517Z" creationid="Olivier" creationdate="20200428T103517Z">
+        <seg>Description=Ceci est un exemple de script pour Capitalism Lab, illustrant comment utiliser les variables [VILLES] pour personnaliser les villes pour un nouveau jeu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3210,6 +3290,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T145402Z" creationid="Olivier" creationdate="20200426T145402Z">
         <seg>Description=Ce script modifie les coûts d'acquisition des technologies à 200% de leur valeur d'origine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=This script modifies technology acquisition costs to 50% of their original values.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T103421Z" creationid="Olivier" creationdate="20200428T103421Z">
+        <seg>Description=Ce script modifie les coûts d'acquisition des technologies à 50 % de leur valeur d'origine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3418,6 +3506,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T063924Z" creationid="Inrepublica" creationdate="20200426T063924Z">
         <seg>Drug Store|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Drugs</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102431Z" creationid="Olivier" creationdate="20200428T102431Z">
+        <seg>Drugs</seg>
       </tuv>
     </tu>
     <tu>
@@ -5793,10 +5889,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Information Center, Manager¡¯s Guide</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102735Z" creationid="Olivier" creationdate="20200428T102735Z">
+        <seg>Information Center, Manager¡¯s Guide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Information Center, Manufacturer Guide</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151421Z" creationid="Inrepublica" creationdate="20200423T151421Z">
         <seg>Information Center, Manufacturer Guide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Information Center, Manufacturer¡¯s Guide</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102733Z" creationid="Olivier" creationdate="20200428T102733Z">
+        <seg>Information Center, Manufacturer¡¯s Guide</seg>
       </tuv>
     </tu>
     <tu>
@@ -7609,6 +7721,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Personal cash change=-1000000</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102447Z" creationid="Olivier" creationdate="20200428T102447Z">
+        <seg>Personal cash change=-1000000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Personal cash change=1000000</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102440Z" creationid="Olivier" creationdate="20200428T102440Z">
+        <seg>Personal cash change=1000000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Perso|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200427T075739Z" creationid="Inrepublica" creationdate="20200427T075739Z">
@@ -7773,6 +7901,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102137Z" creationid="Olivier" creationdate="20200428T102137Z">
         <seg>Player Wealth=50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player expertise change=retail, 10</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102441Z" creationid="Olivier" creationdate="20200428T102441Z">
+        <seg>Player expertise change=retail, 10</seg>
       </tuv>
     </tu>
     <tu>
@@ -9201,6 +9337,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Score change=-10</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102445Z" creationid="Olivier" creationdate="20200428T102445Z">
+        <seg>Score change=-10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Score change=10</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102438Z" creationid="Olivier" creationdate="20200428T102438Z">
+        <seg>Score change=10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Score change=100</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T145252Z" creationid="Olivier" creationdate="20200426T145252Z">
@@ -9513,6 +9665,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Staff attitude change=COO, -100</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102450Z" creationid="Olivier" creationdate="20200428T102450Z">
+        <seg>Staff attitude change=COO, -100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Staff attitude change=COO, 100</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171052Z" creationid="Olivier" creationdate="20200427T171052Z">
@@ -9525,6 +9685,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171057Z" creationid="Olivier" creationdate="20200427T171057Z">
         <seg>Staff attitude change=CTO, 100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Staff resign=COO</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102451Z" creationid="Olivier" creationdate="20200428T102451Z">
+        <seg>Staff resign=COO</seg>
       </tuv>
     </tu>
     <tu>
@@ -9753,10 +9921,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Tech Cost Modifier=200</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T103259Z" creationid="Olivier" creationdate="20200428T103259Z">
+        <seg>Tech Cost Modifier=200</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tech Cost Modifier=50</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T101949Z" creationid="Olivier" creationdate="20200428T101949Z">
         <seg>Tech Cost Modifier=50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tech Cost Modifier=500</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102517Z" creationid="Olivier" creationdate="20200428T102517Z">
+        <seg>Tech Cost Modifier=500</seg>
       </tuv>
     </tu>
     <tu>
@@ -11770,6 +11954,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title=200% technology acquisition costs</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T103257Z" creationid="Olivier" creationdate="20200428T103257Z">
+        <seg>Title=200% des coûts d'acquisition des technologies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Title=5.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T085525Z" creationid="Olivier" creationdate="20200426T085525Z">
@@ -11778,10 +11970,26 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title=50% technology acquisition costs</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T103325Z" creationid="Olivier" creationdate="20200428T103325Z">
+        <seg>Title=50 % des coûts d'acquisition des technologies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Title=Bello Industries</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170259Z" creationid="Olivier" creationdate="20200427T170259Z">
         <seg>Title=Modifications des industries Bello</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Capitalism Lab script #03</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102510Z" creationid="Olivier" creationdate="20200428T102510Z">
+        <seg>Title=Script Capitalism Lab  #03</seg>
       </tuv>
     </tu>
     <tu>
@@ -11798,6 +12006,30 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T101604Z" creationid="Olivier" creationdate="20200428T101604Z">
         <seg>Title=Scénario de Capitalism Lab pour les produits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Capitalism Lab tutorial #1 script</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T103018Z" creationid="Olivier" creationdate="20200428T102608Z">
+        <seg>Title=Script du Tutoriel #1 de Capitalism Lab </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Capitalism Lab tutorial #2 script</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T103111Z" creationid="Olivier" creationdate="20200428T102811Z">
+        <seg>Title=Script du Tutoriel #2 de Capitalism Lab </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Capitalism Lab tutorial #3 script</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T103200Z" creationid="Olivier" creationdate="20200428T103200Z">
+        <seg>Title=Script du Tutoriel #3 de Capitalism Lab</seg>
       </tuv>
     </tu>
     <tu>
@@ -11838,6 +12070,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T145757Z" creationid="Olivier" creationdate="20200426T145757Z">
         <seg>Title=Responsable technique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=User script - 60 competitors</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T103439Z" creationid="Olivier" creationdate="20200428T103439Z">
+        <seg>Title=Scénario utilisateur - 60 concurrents</seg>
       </tuv>
     </tu>
     <tu>
@@ -16885,6 +17125,22 @@ Window=Select Supplier</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170620Z" creationid="Olivier" creationdate="20200427T170620Z">
         <seg>[SPECIAL RULES]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[SUBGOAL PENALTIES]</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102444Z" creationid="Olivier" creationdate="20200428T102444Z">
+        <seg>[SUBGOAL PENALTIES]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[SUBGOAL PRODUCTS]</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102435Z" creationid="Olivier" creationdate="20200428T102435Z">
+        <seg>[SUBGOAL PRODUCTS]</seg>
       </tuv>
     </tu>
     <tu>
