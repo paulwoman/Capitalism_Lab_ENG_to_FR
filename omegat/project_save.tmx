@@ -2934,6 +2934,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to open the Firm Summary Report</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144135Z" creationid="Olivier" creationdate="20200428T144135Z">
+        <seg>Cliquez pour ouvrir le rapport de synthèse l'établissement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to open the Product Summary Report</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T123338Z" creationid="Olivier" creationdate="20200428T123338Z">
@@ -4302,6 +4310,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Firm Summary Report (hotkey: 'F')</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144042Z" creationid="Olivier" creationdate="20200428T144042Z">
+        <seg>Rapport de synthèse de l'entreprise (touche de raccourci : "F" / Firm)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Firm count=Factory, 1</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T092737Z" creationid="Olivier" creationdate="20200424T092737Z">
@@ -5525,6 +5541,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155518Z" creationid="Inrepublica" creationdate="20200425T155518Z">
         <seg>HOTKEY LISTS (K)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Headquarters</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144248Z" creationid="Olivier" creationdate="20200428T144248Z">
+        <seg>Sièges Sociaux</seg>
       </tuv>
     </tu>
     <tu>
@@ -7065,6 +7089,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MMENUHQ (hotkey: 'H')</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144144Z" creationid="Olivier" creationdate="20200428T144144Z">
+        <seg>MMENUHQ (hotkey: 'H')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MMENUPSR</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T152146Z" creationid="Inrepublica" creationdate="20200423T152146Z">
@@ -8181,6 +8213,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T131735Z" creationid="Olivier" creationdate="20200427T131629Z">
         <seg>Affiche l'écran du centre d'informations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the Stock Market screen</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144341Z" creationid="Olivier" creationdate="20200428T144341Z">
+        <seg>Ouvre l'écran Bourse</seg>
       </tuv>
     </tu>
     <tu>
