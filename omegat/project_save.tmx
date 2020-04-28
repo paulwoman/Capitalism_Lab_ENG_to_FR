@@ -14771,10 +14771,194 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0727]Quality|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T084934Z" creationid="Olivier" creationdate="20200428T084934Z">
+        <seg>[0727]Qualité|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0728]Land Cost|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T084943Z" creationid="Olivier" creationdate="20200428T084943Z">
+        <seg>[0728]Prix du terrain|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0729]Cannot set up here:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T085005Z" creationid="Olivier" creationdate="20200428T085005Z">
+        <seg>[0729]Impossible de s'installer ici :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0730]The area does not have enough trees.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T085038Z" creationid="Olivier" creationdate="20200428T085038Z">
+        <seg>[0730]La région n'a pas assez d'arbres.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0731]The area does not have any mineral deposit.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T085121Z" creationid="Olivier" creationdate="20200428T085121Z">
+        <seg>[0731]La région ne possède aucun gisement minéral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0732]The area does not have any oil deposit.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T085202Z" creationid="Olivier" creationdate="20200428T085202Z">
+        <seg>[0732]La région ne possède aucun gisement de pétrole.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0733]The land is not available.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T085302Z" creationid="Olivier" creationdate="20200428T085302Z">
+        <seg>[0733]Le terrain est indisponible.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0734]Location is not next to roads|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T085329Z" creationid="Olivier" creationdate="20200428T085329Z">
+        <seg>[0734]L'emplacement n'est pas à côté des routes|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0736]Cannot set up:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T085349Z" creationid="Olivier" creationdate="20200428T085349Z">
+        <seg>[0736]Impossible de s'installer|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0737]Your company does not have enough cash.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T085409Z" creationid="Olivier" creationdate="20200428T085409Z">
+        <seg>[0737]Votre entreprise n'a pas suffisamment de trésorerie|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0740]Link This Item|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T085442Z" creationid="Olivier" creationdate="20200428T085442Z">
+        <seg>[0740]Relier cet article|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0741]Can be sold in:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T085609Z" creationid="Olivier" creationdate="20200428T085516Z">
+        <seg>[0741]Peut y être vendu :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0742]Cannot be sold in:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T085600Z" creationid="Olivier" creationdate="20200428T085600Z">
+        <seg>[0742]Ne peut pas y être vendu:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0743]retail stores.|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T091919Z" creationid="Inrepublica" creationdate="20200426T091919Z">
         <seg>[0743]magasins de détail.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0744]Double-click here to view the product detail report.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T085656Z" creationid="Olivier" creationdate="20200428T085656Z">
+        <seg>[0744]Double-cliquez ici pour voir le rapport détaillé du produit.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0745]Profit|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T085702Z" creationid="Olivier" creationdate="20200428T085702Z">
+        <seg>[0745]Bénéfice|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0746]Revenue|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T085711Z" creationid="Olivier" creationdate="20200428T085711Z">
+        <seg>[0746]Recette|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0747]Quantity|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T085729Z" creationid="Olivier" creationdate="20200428T085729Z">
+        <seg>[0747]Quantité|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0748]Market Share|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T085759Z" creationid="Olivier" creationdate="20200428T085759Z">
+        <seg>[0748]Part de marché|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0749]Price|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T085806Z" creationid="Olivier" creationdate="20200428T085806Z">
+        <seg>[0749]Prix|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0750]Cost|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T085815Z" creationid="Olivier" creationdate="20200428T085815Z">
+        <seg>[0750]Coût|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0751]Price Agreement|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T085829Z" creationid="Olivier" creationdate="20200428T085829Z">
+        <seg>[0751]Accord sur les prix|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0752]New Price|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T085838Z" creationid="Olivier" creationdate="20200428T085838Z">
+        <seg>[0752]Nouveau prix|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0753]Brand|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T085844Z" creationid="Olivier" creationdate="20200428T085844Z">
+        <seg>[0753]Marque|</seg>
       </tuv>
     </tu>
     <tu>
