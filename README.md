@@ -112,7 +112,7 @@ Il est à préciser que les fichiers proposés actuellement doivent encore être
 | Fichiers         | Progression     | Relecture Inrepublica | Relecture PaulWoman | Concordance |
 | :--------------- |:--------------- |:---------------|:---------------|:---------------|
 | t_game.txt       |   0 %           |                |                |                |
-| gm_help.txt      | 100 %           |                |                |                |
+| gm_help.txt      |   0 %           |                |                |                |
 | help.txt         |   0 %           |                |                |                |
 
 
