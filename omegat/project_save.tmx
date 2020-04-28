@@ -6,6 +6,70 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>"Derivative Works" shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T121235Z" creationid="Olivier" creationdate="20200428T121235Z">
+        <seg>L’appellation "Travaux dérivés" désigne tout travail, que ce soit dans la source ou la forme de l'objet, basé sur (ou dérivé du) le travail et pour lequel les révisions, annotations, élaborations, ou autres modifications éditoriales représentent, dans leur ensemble, un travail original d'un auteur. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Legal Entity" shall mean the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T121054Z" creationid="Olivier" creationdate="20200428T121054Z">
+        <seg>L’appellation "Entité juridique" désigne l'association de l'entité agissante avec toutes les autres entités qui contrôlent, sont contrôlées par, ou sont sous le contrôle commun de cette entité. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"License" shall mean the terms and conditions for use, reproduction, and distribution as defined by Sections 1 through 9 of this document.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T120954Z" creationid="Olivier" creationdate="20200428T120954Z">
+        <seg>L’appellation "Licence" désigne les conditions générales et d'utilisation, de reproduction et de distribution telles que définies par les articles 1 à 9 du présent document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Licensor" shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T121008Z" creationid="Olivier" creationdate="20200428T121008Z">
+        <seg>L’appellation "Concédant" désigne le propriétaire du copyright ou l’entité autorisée par le détenteur du copyright qui accorde la licence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Object" form shall mean any form resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T121137Z" creationid="Olivier" creationdate="20200428T121137Z">
+        <seg>La forme "Objet" désigne toute forme résultant de la transformation mécanique ou de la traduction d'une forme source, notamment le code objet compilé, la documentation générée et les conversions vers d'autres types de supports.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Source" form shall mean the preferred form for making modifications, including but not limited to software source code, documentation source, and configuration files.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T121127Z" creationid="Olivier" creationdate="20200428T121127Z">
+        <seg>La forme "Source" désigne la forme préférée pour procéder à des modifications, notamment le code source du logiciel, la source de la documentation et les fichiers de configuration.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Work" shall mean the work of authorship, whether in Source or Object form, made available under the License, as indicated by a copyright notice that is included in or attached to the work (an example is provided in the Appendix below).</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T121147Z" creationid="Olivier" creationdate="20200428T121147Z">
+        <seg>L’appellation "Travail" désigne le travail de l'auteur, que ce soit dans la source ou la forme de l'objet, mis à disposition sous licence, comme indiqué par une déclaration de copyright reprise ou jointe au travail (un exemple en est donné dans l’Annexe ci-dessous).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"You" (or "Your") shall mean an individual or Legal Entity exercising permissions granted by this License.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T121118Z" creationid="Olivier" creationdate="20200428T121118Z">
+        <seg>L’appellation "Vous" (ou "votre") désigne une personne physique ou morale faisant usage des autorisations accordées par la présente Licence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>("Technology Disruption" option is disabled when "Product Customization" is enabled.)</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150901Z" creationid="Inrepublica" creationdate="20200422T150901Z">
@@ -458,6 +522,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150652Z" creationid="Inrepublica" creationdate="20200425T150652Z">
         <seg>1 year|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T120935Z" creationid="Olivier" creationdate="20200428T120935Z">
+        <seg>1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1482,6 +1554,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T143010Z" creationid="Olivier" creationdate="20200424T123044Z">
         <seg>Un autre élément d'information important que vous pouvez voir ici est ~l'indice des besoins~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Apache License, Version 2.0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T120849Z" creationid="Olivier" creationdate="20200428T120849Z">
+        <seg>Apache License, Version 2.0</seg>
       </tuv>
     </tu>
     <tu>
@@ -3206,6 +3286,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Definitions.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T120942Z" creationid="Olivier" creationdate="20200428T120942Z">
+        <seg>Définitions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Department Store|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T063915Z" creationid="Inrepublica" creationdate="20200426T063915Z">
@@ -4378,6 +4466,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T201858Z" creationid="Acer" creationdate="20200424T154841Z">
         <seg>Pour les besoins de ce tutoriel, vous allez adopter la ~stratégie de marque de type de produit~. Cliquez sur la ~marque de type de produit~ pour définir la stratégie de marque de votre entreprise à la stratégie de marque de type de produit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For the purposes of this definition, "control" means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T121109Z" creationid="Olivier" creationdate="20200428T121109Z">
+        <seg> Aux fins de cette définition, "contrôle" désigne (i) le pouvoir, direct ou indirect, de diriger ou gérer de telles entités, que ce soit par contrat ou autrement, ou (ii) la détention de cinquante pour cent (50 %) ou plus des actions en circulation, ou (iii) un droit de propriété à titre bénéficiaire de cette entité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6345,10 +6441,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Its design goal is to achieve visual harmonization across languages.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T120817Z" creationid="Olivier" creationdate="20200428T120817Z">
+        <seg>Son objectif est de parvenir à une harmonisation visuelle entre les langues.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Its progress can be viewed in the unit detail section.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T134607Z" creationid="Olivier" creationdate="20200426T134607Z">
         <seg>Sa progression peut être consultée dans la section détail de l'unité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>January 2004  http://www.apache.org/licenses/</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T120918Z" creationid="Olivier" creationdate="20200428T120918Z">
+        <seg>Janvier 2004 http://www.apache.org/licenses/</seg>
       </tuv>
     </tu>
     <tu>
@@ -7021,6 +7133,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T134400Z" creationid="Olivier" creationdate="20200423T134400Z">
         <seg>Vous remarquez quelque chose de différent ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Noto fonts are under Apache License 2.0.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T120828Z" creationid="Olivier" creationdate="20200428T120828Z">
+        <seg>Les polices Noto sont sous licence Apache 2.0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Noto is Google’s font family that aims to support all the world’s languages.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T120806Z" creationid="Olivier" creationdate="20200428T120806Z">
+        <seg>Noto est la famille de polices de Google qui vise à soutenir toutes les langues du monde.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10113,6 +10241,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T120929Z" creationid="Olivier" creationdate="20200428T120929Z">
+        <seg>CONDITIONS GÉNÉRALES ET D'UTILISATION, DE REPRODUCTION ET DE DISTRIBUTION</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>T_BUILD</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T152137Z" creationid="Inrepublica" creationdate="20200423T152137Z">
@@ -12070,6 +12206,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164958Z" creationid="Inrepublica" creationdate="20200422T164958Z">
         <seg>Cette option limite le nombre maximum d'entreprises de logiciels d'IA et d'Internet dans un jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This product uses Noto fonts from Google.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T120847Z" creationid="Olivier" creationdate="20200428T120614Z">
+        <seg>This product uses Noto fonts from Google.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18073,6 +18217,22 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171448Z" creationid="Olivier" creationdate="20200427T171448Z">
         <seg>city=Hong Kong</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>http://www.apache.org/licenses/</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T120853Z" creationid="Olivier" creationdate="20200428T120853Z">
+        <seg>http://www.apache.org/licenses/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>http://www.apache.org/licenses/LICENSE-2.0.html</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T120841Z" creationid="Olivier" creationdate="20200428T120841Z">
+        <seg>http://www.apache.org/licenses/LICENSE-2.0.html</seg>
       </tuv>
     </tu>
     <tu>
