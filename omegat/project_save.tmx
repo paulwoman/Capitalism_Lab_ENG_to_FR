@@ -3598,6 +3598,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Corporate Cash Change=100</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T220040Z" creationid="Olivier" creationdate="20200428T220040Z">
+        <seg>Corporate Cash Change=100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Corporate Cash change=1000000</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171059Z" creationid="Olivier" creationdate="20200427T171059Z">
@@ -3806,6 +3814,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=In the 1990s, China continues its economic reform with great strides, attracting tens of billions of dollars of foreign investments each year.^^You must set up factories to take advantage of the low labor cost, and at the same time establish a retail presence and start cultivating brand awareness for your products.^^While the wage rate and local demands for high-end products are still low, they are increasing rapidly.^^If you can successfully secure a foothold in the market, you will be in a strong position to reap the benefits when the consumer market in China grows to a substantial size in the near future.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T220308Z" creationid="Olivier" creationdate="20200428T220256Z">
+        <seg>Description=Dans les années 1990, la Chine poursuit sa réforme économique à grands pas, attirant chaque année des dizaines de milliards de dollars d'investissements étrangers.^^ Vous devez créer des usines pour profiter du faible coût de la main-d'œuvre, tout en établissant une présence dans le commerce de détail et en commençant à cultiver la notoriété de vos produits. ^^Même si le taux de rémunération et la demande locale de produits haut de gamme sont encore faibles, ils augmentent rapidement.^^ Si vous parvenez à vous implanter sur le marché, vous serez en bonne position pour en récolter les fruits lorsque le marché de la consommation en Chine atteindra une taille substantielle dans un avenir proche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=In this tutorial, you will be introduced to the basics of the game's interface.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124925Z" creationid="Olivier" creationdate="20200423T124925Z">
@@ -3986,6 +4002,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T171143Z" creationid="Inrepublica" creationdate="20200422T203853Z">
         <seg>Niveau de difficulté pour le DLC Banques et Finances</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Difficulty Rating=110</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T220310Z" creationid="Olivier" creationdate="20200428T220310Z">
+        <seg>Difficulty Rating=110</seg>
       </tuv>
     </tu>
     <tu>
@@ -5672,6 +5696,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Achieved Text=Congratulations!</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T220003Z" creationid="Olivier" creationdate="20200428T215951Z">
+        <seg>Goal Achieved Text=Félicitations !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Available Date=1990-02-02</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102347Z" creationid="Olivier" creationdate="20200428T102347Z">
@@ -5717,6 +5749,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T084507Z" creationid="Olivier" creationdate="20200423T132854Z">
         <seg>Goal Description=Réalisez des recettes annuel de 50 millions de dollars et un bénéfice annuel de 5 millions de dollars pour réaliser ce tutoriel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=Be more aggressive in hiring and look for new talents to join your corporation.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T220116Z" creationid="Olivier" creationdate="20200428T220116Z">
+        <seg>Goal Description=Soyez plus agressif dans le recrutement et recherchez de nouveaux talents pour rejoindre votre entreprise..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=Leverage the new training methodology to improve your corporation's operating profit margin.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T215933Z" creationid="Olivier" creationdate="20200428T215933Z">
+        <seg>Goal Description=Tirez parti de la nouvelle méthodologie de formation pour améliorer la marge bénéficiaire d'exploitation de votre entreprise.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5841,10 +5889,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Title=Growing the Talent Base.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T220056Z" creationid="Olivier" creationdate="20200428T220056Z">
+        <seg>Goal Title=Développer la base de talents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Title=Main Goal</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102027Z" creationid="Olivier" creationdate="20200428T102027Z">
         <seg>Goal Title=Objectif principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Operating Performance Target</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T215916Z" creationid="Olivier" creationdate="20200428T215916Z">
+        <seg>Goal Title=Objectif de performance opérationnelle</seg>
       </tuv>
     </tu>
     <tu>
@@ -7409,6 +7473,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Lifetime shareholder return=1000</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T215858Z" creationid="Olivier" creationdate="20200428T215858Z">
+        <seg>Lifetime shareholder return=1000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Limitation of Liability.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122209Z" creationid="Olivier" creationdate="20200428T122209Z">
@@ -8673,6 +8745,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Number of Game Years=30</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T220136Z" creationid="Olivier" creationdate="20200428T220136Z">
+        <seg>Number of Game Years=30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number of Game Years=50</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102135Z" creationid="Olivier" creationdate="20200428T102135Z">
@@ -9105,6 +9185,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Operating Profit Margin=15</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T220037Z" creationid="Olivier" creationdate="20200428T220037Z">
+        <seg>Operating Profit Margin=15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Operating Profit Margin=5</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102405Z" creationid="Olivier" creationdate="20200428T102405Z">
@@ -9325,6 +9413,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102354Z" creationid="Olivier" creationdate="20200428T102354Z">
         <seg>Player Company Annual Profit=10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player Company Annual Profit=100</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T215854Z" creationid="Olivier" creationdate="20200428T215854Z">
+        <seg>Player Company Annual Profit=100</seg>
       </tuv>
     </tu>
     <tu>
@@ -10689,6 +10785,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ranking Method=Score</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T220140Z" creationid="Olivier" creationdate="20200428T220140Z">
+        <seg>Ranking Method=Score</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Raw Material Production</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102235Z" creationid="Olivier" creationdate="20200428T102235Z">
@@ -11061,6 +11165,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T085539Z" creationid="Olivier" creationdate="20200426T085539Z">
         <seg>Score change=170</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Score change=200</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T215901Z" creationid="Olivier" creationdate="20200428T215901Z">
+        <seg>Score change=200</seg>
       </tuv>
     </tu>
     <tu>
@@ -13946,6 +14058,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title=China Opening Up</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T220157Z" creationid="Olivier" creationdate="20200428T220157Z">
+        <seg>Title=L'ouverture de la Chine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Title=Corporate Leadership</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T145519Z" creationid="Olivier" creationdate="20200426T145519Z">
@@ -14126,6 +14246,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T120152Z" creationid="Olivier" creationdate="20200427T120152Z">
         <seg>Boite à outils</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Total Number of Employees=1000</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T220129Z" creationid="Olivier" creationdate="20200428T220129Z">
+        <seg>Total Number of Employees=1000</seg>
       </tuv>
     </tu>
     <tu>
@@ -15178,6 +15306,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You have significantly improved your corporation's operating profit margin.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T220035Z" creationid="Olivier" creationdate="20200428T220035Z">
+        <seg>Vous avez considérablement amélioré la marge bénéficiaire de votre entreprise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You have successfully raised the needed cash for growing your business.^^However, it did come with a price - the issuing of the new shares diluted your ownership of your corporation a bit.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T205404Z" creationid="Acer" creationdate="20200424T205404Z">
@@ -15647,6 +15783,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T151658Z" creationid="Olivier" creationdate="20200425T151658Z">
         <seg>Le cours des actions de votre entreprise ne peut augmenter à long terme que si son ~Bénéfice par action~ augmente également.^^Ainsi, pour le financement que vous avez levé avec l'émission de nouvelles actions, vous devriez les utiliser pour investir dans de nouvelles activités afin de générer plus de profits pour vos actionnaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your corporation has reached the milestone of having a staff size surpassing 1000 people.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T220127Z" creationid="Olivier" creationdate="20200428T220127Z">
+        <seg>Votre entreprise a atteint l'objectif d'un effectif de plus de 1000 personnes.</seg>
       </tuv>
     </tu>
     <tu>
