@@ -2926,6 +2926,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to open the Corporate Summary Report</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144010Z" creationid="Olivier" creationdate="20200428T144010Z">
+        <seg>Cliquez pour ouvrir le rapport de synthèse de la société</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to open the Product Summary Report</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T123338Z" creationid="Olivier" creationdate="20200428T123338Z">
+        <seg>Cliquez pour ouvrir le rapport de synthèse du produit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click your ~Purchasing Unit~ to select it.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T140440Z" creationid="Olivier" creationdate="20200424T094025Z">
@@ -3354,6 +3370,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T195408Z" creationid="Inrepublica" creationdate="20200422T195408Z">
         <seg>Plafond des dépôts des entreprises, en pourcentage du total des dépôts bancaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Corporate Summary Report (hotkey: 'C')</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T123356Z" creationid="Olivier" creationdate="20200428T123356Z">
+        <seg>Rapport de synthèse de l'entreprise (touche de raccourci : "C" / Corporate) </seg>
       </tuv>
     </tu>
     <tu>
