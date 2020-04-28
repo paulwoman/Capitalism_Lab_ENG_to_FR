@@ -878,6 +878,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A tender offer is an offer to buy shares of a corporation, usually at a price in excess of the value of the shares on the stock market.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T145627Z" creationid="Olivier" creationdate="20200428T145627Z">
+        <seg>Une offre publique d'achat est une offre d'achat d'actions d'une société, généralement à un prix supérieur à la valeur des actions sur le marché boursier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A vendre|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150711Z" creationid="Inrepublica" creationdate="20200425T150711Z">
@@ -3120,8 +3128,8 @@
       <tuv lang="en-US">
         <seg>Competitors are not allowed to buy your products.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T145045Z" creationid="Olivier" creationdate="20200428T145045Z">
-        <seg>Les concurrents ne sont pas autorisés à acheter vos produits.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T150156Z" creationid="Olivier" creationdate="20200428T145045Z">
+        <seg>Les concurrents sont autorisés à acheter vos produits.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3186,6 +3194,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T093916Z" creationid="Olivier" creationdate="20200424T093916Z">
         <seg>Connectez également ces unités.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Consider Tender Offers from other players.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T145738Z" creationid="Olivier" creationdate="20200428T145724Z">
+        <seg>Tenir compte des Offres Publiques d'achat d'autres joueurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Consider offers from other companies for buying your technology.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T145839Z" creationid="Olivier" creationdate="20200428T145839Z">
+        <seg>Tenir compte des offres d'autres joueurs pour l'achat de votre technologie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3766,6 +3790,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Disable Auto Apply R&amp;D Results to your factories' manufacturing units.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T145903Z" creationid="Olivier" creationdate="20200428T145903Z">
+        <seg>Désactiver l'application automatique des résultats de la R&amp;D aux unités de fabrication de vos usines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Disable AutoLink to Supplier</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T145133Z" creationid="Olivier" creationdate="20200428T145109Z">
@@ -3842,6 +3874,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T101940Z" creationid="Olivier" creationdate="20200428T101940Z">
         <seg>Diversified Companies=10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do not consider Tender Offers from other players.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T145734Z" creationid="Olivier" creationdate="20200428T145612Z">
+        <seg>Ne pas tenir compte des Offres Public d'Achat (OPA) d'autres joueurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do not consider offers from other companies for buying your technology.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T145755Z" creationid="Olivier" creationdate="20200428T145755Z">
+        <seg>Ne tenez pas compte des offres d'autres entreprises pour l'achat de votre technologie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4082,6 +4130,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T063929Z" creationid="Inrepublica" creationdate="20200426T063929Z">
         <seg>Electronics Store|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enable Auto Apply R&amp;D Results to your factories' manufacturing units.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T150004Z" creationid="Olivier" creationdate="20200428T150004Z">
+        <seg>Activer l'application automatique des résultats de la R&amp;D aux unités de fabrication de vos usines.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8257,6 +8313,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OM_AR_A</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T145841Z" creationid="Olivier" creationdate="20200428T145841Z">
+        <seg>OM_AR_A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OM_AR_B</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T145944Z" creationid="Olivier" creationdate="20200428T145944Z">
+        <seg>OM_AR_B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OM_CN</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144908Z" creationid="Olivier" creationdate="20200428T144908Z">
@@ -8293,6 +8365,38 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144901Z" creationid="Olivier" creationdate="20200428T144901Z">
         <seg>OM_OK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OM_TE_A</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T145740Z" creationid="Olivier" creationdate="20200428T145740Z">
+        <seg>OM_TE_A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OM_TE_B</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T145757Z" creationid="Olivier" creationdate="20200428T145757Z">
+        <seg>OM_TE_B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OM_TO_A</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T145456Z" creationid="Olivier" creationdate="20200428T145456Z">
+        <seg>OM_TO_A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OM_TO_B</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T145629Z" creationid="Olivier" creationdate="20200428T145629Z">
+        <seg>OM_TO_B</seg>
       </tuv>
     </tu>
     <tu>
@@ -11793,10 +11897,34 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The default setting of #Auto Apply R&amp;D Results# is #Disabled#.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T145931Z" creationid="Olivier" creationdate="20200428T145931Z">
+        <seg>Le paramètre par défaut de #Appliquer automatiquement les résultats de la R&amp;D# est #Désactivé#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The default setting of #Auto Apply R&amp;D Results# is #Enabled#.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T150052Z" creationid="Olivier" creationdate="20200428T150052Z">
+        <seg>Le paramètre par défaut de #Appliquer automatiquement les résultats de la R&amp;D# est #Activer#.&lt;segment 0858 ¶&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The default setting of #AutoLink to Supplier# is #Disabled#.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T145238Z" creationid="Olivier" creationdate="20200428T145238Z">
         <seg>Le paramètre par défaut de #Lien automatique avec le fournisseur# est #Désactivé#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The default setting of #AutoLink to Supplier# is #Enabled#.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T145443Z" creationid="Olivier" creationdate="20200428T145443Z">
+        <seg>Le paramètre par défaut de #Lien automatique vers le fournisseur# est #Activé#.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14562,6 +14690,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You must apply R&amp;D results to your factories manually.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T145942Z" creationid="Olivier" creationdate="20200428T145942Z">
+        <seg>Vous devez appliquer manuellement les résultats de la R&amp;D dans vos usines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You must apply what you have just learned into running your company.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T152658Z" creationid="Olivier" creationdate="20200422T212056Z">
@@ -14927,6 +15063,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151116Z" creationid="Olivier" creationdate="20200423T151116Z">
         <seg>Votre unité d'achat cessera d'acheter le produit actuel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your purchasing units will attempt to find suppliers automatically.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T145454Z" creationid="Olivier" creationdate="20200428T145454Z">
+        <seg>Vos unités d'achat tenteront de trouver des fournisseurs automatiquement.</seg>
       </tuv>
     </tu>
     <tu>
