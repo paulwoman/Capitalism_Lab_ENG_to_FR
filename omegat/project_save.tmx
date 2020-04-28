@@ -1774,6 +1774,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>B_TOOL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T115426Z" creationid="Olivier" creationdate="20200428T115426Z">
+        <seg>B_TOOL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>B_WATCH</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T152127Z" creationid="Inrepublica" creationdate="20200423T152127Z">
@@ -11938,6 +11946,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This figure is your corporation's operating profit over the past 12 months.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T115503Z" creationid="Olivier" creationdate="20200428T115503Z">
+        <seg>Ce chiffre correspond au bénéfice d'exploitation de votre société au cours des 12 derniers mois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This index affects the recurring expenses of public facilities, which impacts the game's difficulty when playing as a mayor.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161652Z" creationid="Inrepublica" creationdate="20200422T161652Z">
@@ -12922,6 +12938,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Vertical bars represent your corporation's monthly profit or loss.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T120131Z" creationid="Olivier" creationdate="20200428T120131Z">
+        <seg>Les barres verticales représentent les bénéfices ou les pertes mensuels de votre société.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Very Slow</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T123824Z" creationid="Inrepublica" creationdate="20200426T123824Z">
@@ -13815,6 +13839,22 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T131850Z" creationid="Olivier" creationdate="20200427T131850Z">
         <seg>La trésorerie de votre entreprise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your Corporation's Monthly Profit &amp; Loss Chart</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T115524Z" creationid="Olivier" creationdate="20200428T115524Z">
+        <seg>Le tableau des pertes et profits mensuels de votre société</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your Corporation's Operating Profit</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T115447Z" creationid="Olivier" creationdate="20200428T115447Z">
+        <seg>Le bénéfice d'exploitation de votre société</seg>
       </tuv>
     </tu>
     <tu>
@@ -17079,6 +17119,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202555Z" creationid="Inrepublica" creationdate="20200422T202555Z">
         <seg>[ACTION]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Advertising Unit]</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T115422Z" creationid="Olivier" creationdate="20200428T115422Z">
+        <seg>[Advertising Unit]</seg>
       </tuv>
     </tu>
     <tu>
