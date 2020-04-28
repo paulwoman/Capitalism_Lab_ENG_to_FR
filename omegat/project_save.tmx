@@ -3086,6 +3086,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to toggle Land Value Mode - darker colors indicate high land values.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T172433Z" creationid="Olivier" creationdate="20200428T172433Z">
+        <seg>Cliquez pour basculer en mode "Valeur des terrains" - les couleurs foncées indiquent une valeur élevée des terrains.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to toggle Profit Mode - brighter colors indicate profitable firms.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T172502Z" creationid="Olivier" creationdate="20200428T172502Z">
+        <seg>Cliquez pour basculer en mode bénéfice - les couleurs vives indiquent les entreprises rentables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click your ~Purchasing Unit~ to select it.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T140440Z" creationid="Olivier" creationdate="20200424T094025Z">
@@ -7433,6 +7449,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MMAPMMP</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T172435Z" creationid="Olivier" creationdate="20200428T172435Z">
+        <seg>MMAPMMP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MMAPMMR</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T172503Z" creationid="Olivier" creationdate="20200428T172503Z">
+        <seg>MMAPMMR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MMAPMMV</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T172248Z" creationid="Olivier" creationdate="20200428T172248Z">
@@ -10389,6 +10421,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T214717Z" creationid="Olivier" creationdate="20200425T214717Z">
         <seg>Les produits du bétail comprennent le ~bœuf congelé~, le ~lait~ et le ~cuir~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Profit Mode</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T172443Z" creationid="Olivier" creationdate="20200428T172443Z">
+        <seg>Mode bénéfice</seg>
       </tuv>
     </tu>
     <tu>
