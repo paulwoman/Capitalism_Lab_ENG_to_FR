@@ -3422,6 +3422,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Communication Devices</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T165432Z" creationid="Olivier" creationdate="20200429T165432Z">
+        <seg>Communication Devices</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Competence of Local Competitors=High</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171346Z" creationid="Olivier" creationdate="20200427T171346Z">
@@ -4642,6 +4650,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203527Z" creationid="Inrepublica" creationdate="20200422T203527Z">
         <seg>Impact économique du défauts de remboursement des prêts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Electronic Products</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T165438Z" creationid="Olivier" creationdate="20200429T165438Z">
+        <seg>Electronic Products</seg>
       </tuv>
     </tu>
     <tu>
@@ -6157,6 +6173,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T215847Z" creationid="Olivier" creationdate="20200428T215847Z">
         <seg>Goal Description=Grâce à cette percée dans le domaine de la formation, vous disposez désormais de l'outil nécessaire pour améliorer l'efficacité opérationnelle de votre société et offrir à vos actionnaires un rendement financier vraiment exceptionnel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=With your success in the photography product market, you have the capital and resources to diversify your business into the consumer electronics market and take your corporation to new heights.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T165041Z" creationid="Olivier" creationdate="20200429T165041Z">
+        <seg>Goal Description=Grâce à votre succès sur le marché des produits photographiques, vous disposez des capitaux et des ressources nécessaires pour diversifier votre activité sur le marché de l'électronique grand public et pour mener votre entreprise vers de nouveaux sommets.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9209,6 +9233,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Number of Game Years=40</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T165043Z" creationid="Olivier" creationdate="20200429T165043Z">
+        <seg>Number of Game Years=40</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number of Game Years=50</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102135Z" creationid="Olivier" creationdate="20200428T102135Z">
@@ -9785,6 +9817,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Parent Goal=Market Leader</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T165046Z" creationid="Olivier" creationdate="20200429T165046Z">
+        <seg>Parent Goal=Market Leader</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Parfumerie|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T063943Z" creationid="Inrepublica" creationdate="20200426T063943Z">
@@ -9891,8 +9931,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Photography Products</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164955Z" creationid="Olivier" creationdate="20200429T164955Z">
-        <seg>Produits de la photographie</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T165424Z" creationid="Olivier" creationdate="20200429T165424Z">
+        <seg>Photography Products</seg>
       </tuv>
     </tu>
     <tu>
@@ -9925,6 +9965,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T215854Z" creationid="Olivier" creationdate="20200428T215854Z">
         <seg>Player Company Annual Profit=100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player Company Annual Profit=150</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T165051Z" creationid="Olivier" creationdate="20200429T165051Z">
+        <seg>Player Company Annual Profit=150</seg>
       </tuv>
     </tu>
     <tu>
@@ -9981,6 +10029,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100239Z" creationid="Olivier" creationdate="20200429T100239Z">
         <seg>Player Company Annual Revenue=1000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player Company Annual Revenue=1500</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T165049Z" creationid="Olivier" creationdate="20200429T165049Z">
+        <seg>Player Company Annual Revenue=1500</seg>
       </tuv>
     </tu>
     <tu>
@@ -21999,8 +22055,8 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
       <tuv lang="en-US">
         <seg>^^While traditional film cameras still dominate the market at the moment, development in digital photography technology has been gaining momentum.^^You see a great opportunity here but it requires committing a long term investment in research and development before any commercial products will materialize.^^Should you dedicate your resources to it at the outset or start with traditional film cameras and transit to digital cameras later for a hopefully smoother ride?</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164753Z" creationid="Olivier" creationdate="20200429T164753Z">
-        <seg>^^Tandis que les appareils photo argentiques traditionnels dominent encore le marché à l'heure actuelle, le développement de la technologie de la photographie numérique a pris de l'ampleur.^^Vous y voyez une grande opportunité, mais elle nécessite un investissement à long terme dans la recherche et le développement avant que tout produit commercial ne se concrétise.^^Devriez-vous y consacrer vos ressources dès le départ ou commencer avec des appareils photo argentiques traditionnels et passer ensuite aux appareils numériques pour une meilleure fluidité, espérons-le ?</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T170623Z" creationid="Olivier" creationdate="20200429T170623Z">
+        <seg>^^Tandis que les appareils photo argentiques traditionnels dominent encore le marché pour le moment, le développement de la technologie de la photographie numérique a pris de l'ampleur.^^Vous y voyez une grande opportunité, mais il faut investir à long terme dans la recherche et le développement avant de pouvoir réaliser des produits commerciaux.^^Devriez-vous y consacrer vos ressources dès le départ ou commencer par les appareils photo argentiques traditionnels et passer ensuite aux appareils numériques pour une conduite plus souple ?</seg>
       </tuv>
     </tu>
     <tu>
