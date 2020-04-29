@@ -3038,6 +3038,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>City=Vancouver</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T213708Z" creationid="Olivier" creationdate="20200429T213708Z">
+        <seg>City=Vancouver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>City=Warsaw</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171322Z" creationid="Olivier" creationdate="20200427T171322Z">
@@ -3846,6 +3854,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Corporate Cash Change=50</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T213831Z" creationid="Olivier" creationdate="20200429T213831Z">
+        <seg>Corporate Cash Change=50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Corporate Cash change=1000000</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171059Z" creationid="Olivier" creationdate="20200427T171059Z">
@@ -4202,6 +4218,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T173311Z" creationid="Olivier" creationdate="20200429T173311Z">
         <seg>Description=Vous venez d'une entreprise agricole familiale avec une forte expertise dans le domaine de l'agriculture.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=You have been trying to raise capital for your fashion startup for years.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214121Z" creationid="Olivier" creationdate="20200429T214121Z">
+        <seg>Description=Vous essayez depuis des années de réunir des capitaux pour votre start-up de mode.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4882,6 +4906,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170643Z" creationid="Olivier" creationdate="20200427T170643Z">
         <seg>Farming=100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Farming=80</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T213710Z" creationid="Olivier" creationdate="20200429T213710Z">
+        <seg>Farming=80</seg>
       </tuv>
     </tu>
     <tu>
@@ -6089,6 +6121,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=Grow your business into a leading company in farming and retail.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T213752Z" creationid="Olivier" creationdate="20200429T213752Z">
+        <seg>Goal Description=Faites de votre entreprise une entreprise leader dans le domaine de l'agriculture et du commerce de détail.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=In order to receive permission to invest in the natural resource business, your company's net worth must be at least $150 million and have an annual revenue of $200 million.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100600Z" creationid="Olivier" creationdate="20200429T100600Z">
@@ -6133,6 +6173,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100520Z" creationid="Olivier" creationdate="20200429T100520Z">
         <seg>Goal Description=Saisissez les opportunités qui se présentent lors de l'ouverture de la Chine et développez votre entreprise pour devenir une force dominante sur le marché.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=Surpass your family's expectation by not only building a thriving farming and retail business, but growing it into a multinational corporation with a diversified product portfolio.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214010Z" creationid="Olivier" creationdate="20200429T214010Z">
+        <seg>Goal Description=Dépassez les attentes de votre famille en développant non seulement un commerce agricole et de détail prospère, mais aussi une multinationale avec un portefeuille de produits diversifié.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6281,6 +6329,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Title=Farming and Retail Dominance</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T213735Z" creationid="Olivier" creationdate="20200429T213735Z">
+        <seg>Goal Title=L'agriculture et la position dominante dans le commerce de détail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Title=First Subgoal</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102317Z" creationid="Olivier" creationdate="20200428T102317Z">
@@ -6349,6 +6405,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100505Z" creationid="Olivier" creationdate="20200429T100505Z">
         <seg>Goal Title=Saisir les opportunités</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Surpassing Family Expectation</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T213909Z" creationid="Olivier" creationdate="20200429T213909Z">
+        <seg>Goal Title=Dépasser les attentes de la famille</seg>
       </tuv>
     </tu>
     <tu>
@@ -9305,6 +9369,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Number of product classes being produced=7</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214025Z" creationid="Olivier" creationdate="20200429T214025Z">
+        <seg>Number of product classes being produced=7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number of product types being produced=20</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100116Z" creationid="Olivier" creationdate="20200429T100116Z">
@@ -9825,6 +9897,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Parent Goal=Farming and Retail Dominance</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214018Z" creationid="Olivier" creationdate="20200429T214018Z">
+        <seg>Parent Goal=Farming and Retail Dominance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Parent Goal=Market Leader</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T165046Z" creationid="Olivier" creationdate="20200429T165046Z">
@@ -10149,6 +10229,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102144Z" creationid="Olivier" creationdate="20200428T102144Z">
         <seg>Player Company Net Worth=80</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player Company Net Worth=800</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214021Z" creationid="Olivier" creationdate="20200429T214021Z">
+        <seg>Player Company Net Worth=800</seg>
       </tuv>
     </tu>
     <tu>
@@ -11885,6 +11973,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151531Z" creationid="Inrepublica" creationdate="20200423T151531Z">
         <seg>Score change=80</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See prospect in setting up retail outlets to sell the family farm's products daily, your father has delegated you to set up a new farming and retail operation overseas.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T213631Z" creationid="Olivier" creationdate="20200429T213631Z">
+        <seg>Voyant la possibilité de créer des points de vente au détail pour vendre quotidiennement les produits de l'exploitation familiale, votre père vous a délégué pour créer une nouvelle exploitation agricole et commerciale à l'étranger.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14898,6 +14994,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title=Fashion Venture</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214105Z" creationid="Olivier" creationdate="20200429T214105Z">
+        <seg>Title=L'aventure dans le domaine de la mode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Title=Jol Hard</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171253Z" creationid="Olivier" creationdate="20200427T171253Z">
@@ -15242,6 +15346,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unfortunately the fund raising process is difficult and slow.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214144Z" creationid="Olivier" creationdate="20200429T214144Z">
+        <seg>Malheureusement, le processus de collecte de fonds est difficile et lent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unit Exists=1, Livestock Raising</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T213232Z" creationid="Olivier" creationdate="20200425T213232Z">
@@ -15510,6 +15622,38 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100624Z" creationid="Olivier" creationdate="20200429T100624Z">
         <seg>Unlock Firm=Oil Well</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unlock firm=Factory</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T213833Z" creationid="Olivier" creationdate="20200429T213833Z">
+        <seg>Unlock firm=Factory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unlock firm=Logging Camp</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T213835Z" creationid="Olivier" creationdate="20200429T213835Z">
+        <seg>Unlock firm=Logging Camp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unlock firm=Mine</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T213837Z" creationid="Olivier" creationdate="20200429T213837Z">
+        <seg>Unlock firm=Mine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unlock firm=Oil Well</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T213839Z" creationid="Olivier" creationdate="20200429T213839Z">
+        <seg>Unlock firm=Oil Well</seg>
       </tuv>
     </tu>
     <tu>
@@ -15858,6 +16002,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When you eventually succeed in launching your own fashion company (expected to happen in year 2000), there will be established competitors in the market.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214159Z" creationid="Olivier" creationdate="20200429T214159Z">
+        <seg>Lorsque vous réussirez finalement à lancer votre propre entreprise de mode (ce qui devrait se produire en l'an 2000), il y aura des concurrents établis sur le marché.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When you have located a natural resource site which you intend to buy, you may go ahead and select ~Mine~ from the build menu and build a mine on the resource site.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T135918Z" creationid="Olivier" creationdate="20200427T135918Z">
@@ -16030,6 +16182,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122152Z" creationid="Olivier" creationdate="20200428T122152Z">
         <seg> Il incombe à vous seul de déterminer la pertinence d'utilisation ou de redistribution du Travail et d’assumer tous les risques liés à votre usage des autorisations prévues par la présente Licence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You are your family's best hope for achieving this goal and you promise yourself not to disappoint them.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T213808Z" creationid="Olivier" creationdate="20200429T213808Z">
+        <seg>Vous êtes le meilleur espoir de votre famille pour atteindre cet objectif et vous vous promettez de ne pas les décevoir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16475,6 +16635,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You now aim at taking your business to the next level and expand into new markets.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T213829Z" creationid="Olivier" creationdate="20200429T213829Z">
+        <seg>Vous avez maintenant pour objectif de faire passer votre entreprise au niveau supérieur et de vous développer sur de nouveaux marchés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You now have the funds to start your company.^^The next step is to get an understanding about the manufacturing process.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T090133Z" creationid="Olivier" creationdate="20200424T090133Z">
@@ -16695,6 +16863,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T220127Z" creationid="Olivier" creationdate="20200428T220127Z">
         <seg>Votre entreprise a atteint l'objectif d'un effectif de plus de 1000 personnes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your corporation have achieved dominance in retail and farming.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T213819Z" creationid="Olivier" creationdate="20200429T213819Z">
+        <seg>Votre société a atteint une position dominante dans le commerce de détail et l'agriculture.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22025,6 +22201,22 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T103825Z" creationid="Olivier" creationdate="20200427T103825Z">
         <seg>[Warehouse Storage]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^^Following your father's guidance, you should initially focus on farming and retail.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T213645Z" creationid="Olivier" creationdate="20200429T213645Z">
+        <seg>^^En suivant les conseils de votre père, vous devriez d'abord vous concentrer sur l'agriculture et la vente au détail.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^^Once you have accomplished the goal of establishing a solid farming and retail business for your family, you will be given the freedom to expand into whichever markets and industries you see promising.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T213707Z" creationid="Olivier" creationdate="20200429T213707Z">
+        <seg>^^Une fois que vous aurez atteint l'objectif de créer une solide exploitation agricole et un commerce de détail pour votre famille, vous serez libre de vous développer sur les marchés et dans les secteurs qui vous semblent prometteurs.</seg>
       </tuv>
     </tu>
     <tu>
