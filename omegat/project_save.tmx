@@ -4198,6 +4198,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=You came from a family farm business with strong expertise in farming.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T173311Z" creationid="Olivier" creationdate="20200429T173311Z">
+        <seg>Description=Vous venez d'une entreprise agricole familiale avec une forte expertise dans le domaine de l'agriculture.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=You have built a flourishing business empire.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T205913Z" creationid="Olivier" creationdate="20200423T205913Z">
@@ -14878,6 +14886,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164623Z" creationid="Olivier" creationdate="20200429T164623Z">
         <seg>Title=Le dilemme d'un fabricant d'appareils photo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Family Farm Business</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T173235Z" creationid="Olivier" creationdate="20200429T173235Z">
+        <seg>Title=Entreprise agricole familiale</seg>
       </tuv>
     </tu>
     <tu>
