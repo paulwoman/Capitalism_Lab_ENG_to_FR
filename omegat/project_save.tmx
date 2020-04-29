@@ -1174,6 +1174,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Acheter ce DLC|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T095956Z" creationid="Olivier" creationdate="20200429T095956Z">
+        <seg>Acheter ce DLC|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Acheter cet appartement|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150718Z" creationid="Inrepublica" creationdate="20200425T150718Z">
@@ -1330,6 +1338,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T205550Z" creationid="Acer" creationdate="20200424T205550Z">
         <seg>Active Interface=Stock Exchange</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Activer DLC|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100005Z" creationid="Olivier" creationdate="20200429T100005Z">
+        <seg>Activer DLC|</seg>
       </tuv>
     </tu>
     <tu>
@@ -1494,6 +1510,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Agricultural Business</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100113Z" creationid="Olivier" creationdate="20200429T100113Z">
+        <seg>Entreprises agricoles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Agricultural goods are essential to manufacture of a great number of products and you will find farming an indispensable business of your corporation.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T215159Z" creationid="Olivier" creationdate="20200425T215159Z">
@@ -1538,6 +1562,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T165523Z" creationid="Acer" creationdate="20200424T165523Z">
         <seg>Toutes les entreprises de médias disponibles dans la ville actuelle sont affichées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All cash and loan amounts will shrink in accordance to this Purchasing Power Index.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100318Z" creationid="Olivier" creationdate="20200429T100318Z">
+        <seg>Tous les montants des liquidités et des prêts diminueront en fonction de cet indice de pouvoir d'achat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2150,6 +2182,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Branding and Advertising</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100052Z" creationid="Olivier" creationdate="20200429T100052Z">
+        <seg>Marque et publicité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Brief Help Information</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T163324Z" creationid="Olivier" creationdate="20200428T163324Z">
@@ -2258,6 +2298,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150723Z" creationid="Inrepublica" creationdate="20200425T150723Z">
         <seg>Buy Stock|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Buy This DLC|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T095954Z" creationid="Olivier" creationdate="20200429T095954Z">
+        <seg>Buy This DLC|</seg>
       </tuv>
     </tu>
     <tu>
@@ -2686,6 +2734,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>City=Beijing</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100434Z" creationid="Olivier" creationdate="20200429T100434Z">
+        <seg>City=Beijing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City=Chengdu</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100439Z" creationid="Olivier" creationdate="20200429T100439Z">
+        <seg>City=Chengdu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>City=Chicago</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171331Z" creationid="Olivier" creationdate="20200427T171331Z">
@@ -2706,6 +2770,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151523Z" creationid="Inrepublica" creationdate="20200423T151523Z">
         <seg>City=Frankfurt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City=Guangzhou</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100437Z" creationid="Olivier" creationdate="20200429T100437Z">
+        <seg>City=Guangzhou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City=Helsinki</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100144Z" creationid="Olivier" creationdate="20200429T100144Z">
+        <seg>City=Helsinki</seg>
       </tuv>
     </tu>
     <tu>
@@ -2794,6 +2874,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171333Z" creationid="Olivier" creationdate="20200427T171333Z">
         <seg>City=San Francisco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City=Seoul</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100146Z" creationid="Olivier" creationdate="20200429T100146Z">
+        <seg>City=Seoul</seg>
       </tuv>
     </tu>
     <tu>
@@ -3178,6 +3266,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T171926Z" creationid="Olivier" creationdate="20200428T171926Z">
         <seg>Fermer la mini carte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Commencer|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100011Z" creationid="Olivier" creationdate="20200429T100011Z">
+        <seg>Commencer|</seg>
       </tuv>
     </tu>
     <tu>
@@ -3626,6 +3722,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T195408Z" creationid="Inrepublica" creationdate="20200422T195408Z">
         <seg>Plafond des dépôts des entreprises, en pourcentage du total des dépôts bancaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Corporate Headquarters</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100236Z" creationid="Olivier" creationdate="20200429T100236Z">
+        <seg>Siège social </seg>
       </tuv>
     </tu>
     <tu>
@@ -4402,6 +4506,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T145313Z" creationid="Olivier" creationdate="20200428T145313Z">
         <seg>Activer le lien automatique avec le fournisseur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enable DLC|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100004Z" creationid="Olivier" creationdate="20200429T100004Z">
+        <seg>Enable DLC|</seg>
       </tuv>
     </tu>
     <tu>
@@ -5761,6 +5873,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=In order to receive permission to invest in the natural resource business, your company's net worth must be at least $150 million and have an annual revenue of $200 million.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100600Z" creationid="Olivier" creationdate="20200429T100600Z">
+        <seg>Goal Description=Pour obtenir l'autorisation d'investir dans le secteur des ressources naturelles, votre entreprise doit avoir une valeur nette d'au moins 150 millions de dollars et un chiffre d'affaires annuel de 200 millions de dollars.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=Leverage the new training methodology to improve your corporation's operating profit margin.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T215933Z" creationid="Olivier" creationdate="20200428T215933Z">
@@ -5781,6 +5901,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170918Z" creationid="Olivier" creationdate="20200427T170918Z">
         <seg>Goal Description=Possédez votre propre entreprise</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=Seize the opportunities that emerge during China's opening-up and grow your company to become a dominating force in the market.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100520Z" creationid="Olivier" creationdate="20200429T100520Z">
+        <seg>Goal Description=Saisissez les opportunités qui se présentent lors de l'ouverture de la Chine et développez votre entreprise pour devenir une force dominante sur le marché.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5913,10 +6041,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Title=Seize the Opportunities</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100505Z" creationid="Olivier" creationdate="20200429T100505Z">
+        <seg>Goal Title=Saisir les opportunités</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Title=Tutorial Goal</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T124711Z" creationid="Olivier" creationdate="20200427T124711Z">
         <seg>Goal Title=Objectif du tutoriel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Upstream Business</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100543Z" creationid="Olivier" creationdate="20200429T100543Z">
+        <seg>Goal Title=Entreprises en amont</seg>
       </tuv>
     </tu>
     <tu>
@@ -6117,6 +6261,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160501Z" creationid="Inrepublica" creationdate="20200422T160501Z">
         <seg>Les produits de haute qualité offrent au consommateur une perspective commerciale plus attrayante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Home Appliances</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100152Z" creationid="Olivier" creationdate="20200429T100152Z">
+        <seg>Home Appliances</seg>
       </tuv>
     </tu>
     <tu>
@@ -8001,6 +8153,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>More Info at Web Site|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100000Z" creationid="Olivier" creationdate="20200429T100000Z">
+        <seg>More Info at Web Site|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>More Talents</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T165227Z" creationid="Inrepublica" creationdate="20200422T165227Z">
@@ -8801,6 +8961,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Number of product types being produced=20</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100116Z" creationid="Olivier" creationdate="20200429T100116Z">
+        <seg>Number of product types being produced=20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number of seaports Importing Consumer Goods per City</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T155954Z" creationid="Inrepublica" creationdate="20200422T155954Z">
@@ -9465,6 +9633,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Player Company Annual Revenue=1000</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100239Z" creationid="Olivier" creationdate="20200429T100239Z">
+        <seg>Player Company Annual Revenue=1000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Player Company Annual Revenue=20</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151458Z" creationid="Inrepublica" creationdate="20200423T151458Z">
@@ -9485,6 +9661,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T145235Z" creationid="Olivier" creationdate="20200426T145235Z">
         <seg>Player Company Annual Revenue=30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player Company Annual Revenue=300</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100525Z" creationid="Olivier" creationdate="20200429T100525Z">
+        <seg>Player Company Annual Revenue=300</seg>
       </tuv>
     </tu>
     <tu>
@@ -9517,6 +9701,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102356Z" creationid="Olivier" creationdate="20200428T102356Z">
         <seg>Player Company Market Cap=60</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player Company Net Worth=150</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100615Z" creationid="Olivier" creationdate="20200429T100615Z">
+        <seg>Player Company Net Worth=150</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player Company Net Worth=250</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100522Z" creationid="Olivier" creationdate="20200429T100522Z">
+        <seg>Player Company Net Worth=250</seg>
       </tuv>
     </tu>
     <tu>
@@ -9581,6 +9781,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102250Z" creationid="Olivier" creationdate="20200428T102250Z">
         <seg>Player expertise change=retail, 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Plus d'info dans le site web|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100002Z" creationid="Olivier" creationdate="20200429T100002Z">
+        <seg>Plus d'info dans le site web|</seg>
       </tuv>
     </tu>
     <tu>
@@ -10889,6 +11097,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Research and Development</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100142Z" creationid="Olivier" creationdate="20200429T100142Z">
+        <seg>Recherche et développement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Research and Development, or R&amp;D, is aptly conducted in ~R&amp;D Centers~.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T133157Z" creationid="Olivier" creationdate="20200426T133157Z">
@@ -11173,6 +11389,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T215901Z" creationid="Olivier" creationdate="20200428T215901Z">
         <seg>Score change=200</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Score change=250</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100155Z" creationid="Olivier" creationdate="20200429T100155Z">
+        <seg>Score change=250</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Score change=300</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100242Z" creationid="Olivier" creationdate="20200429T100242Z">
+        <seg>Score change=300</seg>
       </tuv>
     </tu>
     <tu>
@@ -11549,6 +11781,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T085526Z" creationid="Olivier" creationdate="20200424T085526Z">
         <seg>Créer sa propre société demande de l'argent... beaucoup d'argent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100009Z" creationid="Olivier" creationdate="20200429T100009Z">
+        <seg>Start|</seg>
       </tuv>
     </tu>
     <tu>
@@ -12557,6 +12797,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T134753Z" creationid="Olivier" creationdate="20200427T134753Z">
         <seg>Le département des ressources humaines vous permet d'organiser un programme de formation intensive à l'échelle de l'entreprise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Purchasing Power Index starts at 100% and diminishes over those years with inflation.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100307Z" creationid="Olivier" creationdate="20200429T100307Z">
+        <seg>L'indice de pouvoir d'achat commence à 100 % et diminue au cours de ces années avec l'inflation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13962,6 +14210,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title=3.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100016Z" creationid="Olivier" creationdate="20200429T100016Z">
+        <seg>Title=3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Title=5.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T085525Z" creationid="Olivier" creationdate="20200426T085525Z">
@@ -13974,6 +14230,22 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T103325Z" creationid="Olivier" creationdate="20200428T103325Z">
         <seg>Title=50 % des coûts d'acquisition des technologies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=6.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100108Z" creationid="Olivier" creationdate="20200429T100108Z">
+        <seg>Title=6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=7.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100132Z" creationid="Olivier" creationdate="20200429T100132Z">
+        <seg>Title=7.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14394,6 +14666,30 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Tutorial=TUT06</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100119Z" creationid="Olivier" creationdate="20200429T100119Z">
+        <seg>Tutorial=TUT06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tutorial=TUT07</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100157Z" creationid="Olivier" creationdate="20200429T100157Z">
+        <seg>Tutorial=TUT07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tutorial=TUT08</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100244Z" creationid="Olivier" creationdate="20200429T100244Z">
+        <seg>Tutorial=TUT08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unit Exists=1, Livestock Raising</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T213232Z" creationid="Olivier" creationdate="20200425T213232Z">
@@ -14638,6 +14934,30 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122141Z" creationid="Olivier" creationdate="20200428T122141Z">
         <seg>Sauf si requis par la loi applicable ou convenu par écrit, le Concédant fournit le Travail (et chaque Contributeur fournit ses Contributions) sur une base "TEL QUEL", SANS GARANTIE NI CONDITION DE QUELQUE NATURE QUE CE SOIT, explicite ou implicite, notamment les garanties ou conditions de TITRE, D'ABSENCE DE CONTREFAÇON, DE QUALITÉ MARCHANDE, ou D'ADÉQUATION À UN USAGE PARTICULIER. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unlock Firm=Logging Camp</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100619Z" creationid="Olivier" creationdate="20200429T100619Z">
+        <seg>Unlock Firm=Logging Camp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unlock Firm=Mine</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100622Z" creationid="Olivier" creationdate="20200429T100622Z">
+        <seg>Unlock Firm=Mine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unlock Firm=Oil Well</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100624Z" creationid="Olivier" creationdate="20200429T100624Z">
+        <seg>Unlock Firm=Oil Well</seg>
       </tuv>
     </tu>
     <tu>
@@ -15438,6 +15758,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T135043Z" creationid="Olivier" creationdate="20200427T135043Z">
         <seg>Vous pouvez engager un ~Chef du marketing~ pour mener des campagnes publicitaires pour vos produits, et un ~Chef technique~ pour superviser vos projets de recherche et développement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may now set up natural resource firms.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100614Z" creationid="Olivier" creationdate="20200429T100614Z">
+        <seg>Vous pouvez désormais créer des entreprises de ressources naturelles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18205,8 +18533,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0756]Overall Rating|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T090131Z" creationid="Olivier" creationdate="20200428T090131Z">
-        <seg>[0756]Evaluation globale|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T095941Z" creationid="Olivier" creationdate="20200428T090131Z">
+        <seg>[0756]Évaluation globale|</seg>
       </tuv>
     </tu>
     <tu>
