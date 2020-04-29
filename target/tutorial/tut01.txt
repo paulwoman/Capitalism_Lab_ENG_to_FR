@@ -91,7 +91,7 @@ Fast forward days=5
 //-------------------------------------------------------------------//
 
 [TEXT]
-Vous êtes maintenant de retour dans votre grand magasin. Votre magasin achète automatiquement le produit que vous avez sélectionné dans le port maritime et le met en vente pour vos clients. Regardez à gauche de l'image du produit. Vous voyez les barres verticales jaunes et orange ? La ~barre jaune APPROVISIONNEMENT~ indique la quantité de produit que vous avez en magasin et la ~barre orange de DEMANDE~ mesure la demande du consommateur pour ce produit.
+Vous êtes maintenant de retour dans votre grand magasin. Votre magasin achète automatiquement le produit que vous avez sélectionné dans le port maritime et le met en vente pour vos clients.^^Regardez à gauche de l'image du produit. Vous voyez les barres verticales jaunes et orange ? La ~barre jaune APPROVISIONNEMENT~ indique la quantité de produit que vous avez en magasin et la ~barre orange de DEMANDE~ mesure la demande du consommateur pour ce produit.
 
 [POS]
 Text Box=40,270,350,0
@@ -237,7 +237,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Cliquez maintenant sur l'icône "Profit" pour passer à ce mode.
+Cliquez maintenant sur l'icône ~Profit~ pour passer à ce mode.
 
 [POS]
 Extend Text Box=450,50,300,0

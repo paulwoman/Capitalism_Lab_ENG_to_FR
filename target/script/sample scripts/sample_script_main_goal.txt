@@ -5,10 +5,10 @@ Description=This is a sample script for Capitalism Lab, listing all variables un
 //---------------------------------------------------------------------------------------------//
 
 [MAIN GOAL]
-Goal Title=Main Goal 
-Goal Description=This is your main goal. 
+Goal Title=Objectif principal 
+Goal Description=C'est votre objectif principal. 
 
-Goal Achieved Text=Congratulations! You have achieved your main goal.
+Goal Achieved Text=Félicitations ! You have achieved your main goal.
 // If this is defined, when the player has achieved this goal, this text will be displayed on the goal screen.
 
 Goal Failed Text=Sorry, you have failed to achieve your goal within the time limit. 

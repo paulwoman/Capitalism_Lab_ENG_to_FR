@@ -1,6 +1,6 @@
 [HEADER]
-Title=China Opening Up
-Description=In the 1990s, China continues its economic reform with great strides, attracting tens of billions of dollars of foreign investments each year.^^You must set up factories to take advantage of the low labor cost, and at the same time establish a retail presence and start cultivating brand awareness for your products.^^While the wage rate and local demands for high-end products are still low, they are increasing rapidly.^^If you can successfully secure a foothold in the market, you will be in a strong position to reap the benefits when the consumer market in China grows to a substantial size in the near future.
+Title=L'ouverture de la Chine
+Description=Dans les années 1990, la Chine poursuit sa réforme économique à grands pas, attirant chaque année des dizaines de milliards de dollars d'investissements étrangers.^^ Vous devez créer des usines pour profiter du faible coût de la main-d'œuvre, tout en établissant une présence dans le commerce de détail et en commençant à cultiver la notoriété de vos produits. ^^Même si le taux de rémunération et la demande locale de produits haut de gamme sont encore faibles, ils augmentent rapidement.^^ Si vous parvenez à vous implanter sur le marché, vous serez en bonne position pour en récolter les fruits lorsque le marché de la consommation en Chine atteindra une taille substantielle dans un avenir proche.
 
 Difficulty Rating=110
 
@@ -78,7 +78,7 @@ Score change=200
 [SUBGOAL]
 Goal Title=Upstream Business 
 Goal Description=In order to receive permission to invest in the natural resource business, your company's net worth must be at least $150 million and have an annual revenue of $200 million. 
-Goal Achieved Text=Congratulations! You may now set up natural resource firms. 
+Goal Achieved Text=Félicitations ! You may now set up natural resource firms. 
 
 [SUBGOAL VALUES]
 Player Company Net Worth=150

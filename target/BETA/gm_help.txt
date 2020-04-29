@@ -52,7 +52,7 @@ Si elle est réglée sur élevée, la macroéconomie dans le jeu sera simulé av
 ~
 GM_INF
 Inflation 
-L'inflation est activée lorsque cette option est activée. Si elle est définie à inflation inverse, les montants sont ajustés en fonction du pouvoir d'achat net. 
+L'inflation est activée lorsque cette option est activée. Si elle est définie à inflation inverse, les montants sont ajustés en fonction du pouvoir d'achat net. The Purchasing Power Index starts at 100% and diminishes over those years with inflation. All cash and loan amounts will shrink in accordance to this Purchasing Power Index. 
 ~
 GM_INFS
 Niveau de l'inflation 

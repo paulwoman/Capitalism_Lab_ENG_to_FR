@@ -7,7 +7,7 @@ Hide=Preview
 //-------------------------------------------------------------------//
 
 [TEXT]
-In this tutorial, you will learn about setting up various useful departments in ~your headquarters~. Each department has a unique function and enable you to run your corporation with greater efficiency.
+Dans ce tutoriel, vous apprendrez à mettre en place divers services utiles dans ~votre siège social~. Chaque service a une fonction unique et vous permet de gérer votre entreprise avec une plus grande efficacité.
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -27,7 +27,7 @@ Active Interface=Build Menu
 //-------------------------------------------------------------------//
 
 [TEXT]
-Select ~Headquarters~ from the building menu and find a location to build it.^^If your corporation is flush in cash, you may choose a prime location in the downtown for building your headquarters. Otherwise, you may simply choose a less expensive location and save the money for future business expansions. 
+Sélectionnez ~Siège social~ dans le menu des bâtiments et trouvez un endroit pour le construire.^^Si votre société est riche en argent, vous pouvez choisir un emplacement de choix dans le centre-ville pour construire votre siège social. Sinon, vous pouvez simplement choisir un emplacement moins cher et économiser l'argent pour de futures expansions de votre entreprise. 
 
 [POS]
 Text Box=50,240,350,0
@@ -38,7 +38,7 @@ Firm count=Headquarters, 1
 //-------------------------------------------------------------------//
 
 [TEXT]
-Inside your headquarters (HQ), you will see the usual 3x3 layout grid.^^There are functional units specifically for HQ. But unlike other functional units you have added before, the units in HQ need not to be linked to each other, as each unit represents a department that operates independently.
+À l'intérieur de votre siège social, vous verrez la grille d'aménagement habituelle en 3x3.^^Il y a des unités fonctionnelles spécifiques au QG. Mais contrairement aux autres unités fonctionnelles que vous avez ajoutées auparavant, les unités du siège n'ont pas besoin d'être reliées entre elles, car chaque unité représente un service qui fonctionne indépendamment.
 
 [POS]
 Text Box=300,280,400,0
@@ -47,7 +47,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Let's set up a ~Human Resources Department~. Double click the indicated empty slot and select ~Human Resources Department~.
+Mettons en place un ~Département des ressources humaines~. Mettons en place un ~Département des ressources humaines~.
 
 [POS]
 Text Box=60,250,350,0
@@ -59,7 +59,7 @@ Unit Exists=2, Human Resources Department
 //-------------------------------------------------------------------//
 
 [TEXT]
-The Human Resources Department allows you to organize a ~corporate-wide intensive training program~. Such a training program helps to ~improve the efficiency and productivity~ of your employees, thereby making your company more competitive as a whole.^^It is particularly useful when your corporation has grown to a large size with hundreds or even thousands of employees - it allows you to organize a corporate-wide training with a single interface without having to micromanage individual firms. 
+Le département des ressources humaines vous permet d'organiser un programme de formation intensive à l'échelle de l'entreprise. Un tel programme de formation contribue à ~améliorer l'efficacité et la productivité~ de vos employés, rendant ainsi votre entreprise plus compétitive dans son ensemble.^^Il est particulièrement utile lorsque votre entreprise a atteint une grande taille avec des centaines, voire des milliers d'employés - il vous permet d'organiser une formation à l'échelle de l'entreprise avec une seule interface sans devoir faire de la micro-gestion individuelle. 
 
 [POS]
 Text Box=300,200,400,0
@@ -68,7 +68,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-You may also set up offices for your senior management executives.
+Vous pouvez également créer des bureaux pour vos cadres supérieurs.
 
 [POS]
 Text Box=300,280,400,0
@@ -78,7 +78,7 @@ Next Arrow=Yes
 
 [TEXT]
 
-You may hire a ~Chief Marketing Officer (CMO)~ to run advertising campaigns for your products, and a ~Chief Technical Officer (CTO)~ to oversee you research and development projects. 
+Vous pouvez engager un ~Chef du marketing~ pour mener des campagnes publicitaires pour vos produits, et un ~Chef technique~ pour superviser vos projets de recherche et développement. 
 
 [POS]
 Text Box=300,280,400,0
@@ -87,7 +87,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-You may also hire a ~Chief Operating Officer (COO)~ and place him or her in charge of any of your firms.^^You could, for example, hire someone with ~expertise in manufacturing~ as your COO for managing all of your factories. All the ~manufacturing units~ in your factories will get an instant boost in productivity thanks to the COO's expertise. 
+Vous pouvez également engager un ~Chef d'exploitation~ et le placer à la tête de l'une de vos entreprises.^^Vous pourriez, par exemple, engager une personne ayant une ~expertise dans le domaine de la fabrication pour la gestion de toutes vos usines. Toutes les ~unités de fabrication~ de vos usines bénéficieront d'une augmentation instantanée de la productivité grâce à l'expertise du directeur de l'exploitation. 
 
 [POS]
 Text Box=300,280,400,0
@@ -96,7 +96,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Finally you may set up an office for the ~Chief Executive Officer~. As you are the CEO, that would be your office.
+Enfin, vous pouvez mettre en place un bureau pour le ~Directeur général~. Comme vous êtes le PDG, ce serait votre bureau.
 
 [POS]
 Text Box=300,280,400,0
@@ -105,7 +105,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Now exit your Headquarters and return to the city view.^^~Right click anywhere~ on the screen to do so. 
+Maintenant, quittez votre siège social et revenez à la vue de la ville. ^^~Cliquez n'importe où sur l'écran pour le faire. 
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -116,7 +116,7 @@ Active Interface=City View
 //-------------------------------------------------------------------//
 
 [TEXT]
-With all the skills and experiences you have acquired, you are well equipped to realize your ambition of building a business empire that the world would admire. 
+Avec toutes les compétences et l'expérience que vous avez acquises, vous êtes bien équipé pour réaliser votre ambition de construire un empire commercial que le monde entier admirerait. 
 
 [POS]
 Text Box=300,280,400,0
@@ -125,7 +125,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-You can take vertical integration to a new level by setting up your ~own mining operations~ to supply ~your factories~ with the ~raw materials~ they need. 
+Vous pouvez élever l'intégration verticale à un nouveau niveau en mettant en place vos propres opérations minières pour fournir à vos usines les matières premières dont elles ont besoin. 
 
 [POS]
 Text Box=300,280,400,0
@@ -134,7 +134,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-There is a handy tool at the mini map that enables you to find natural resource sites easily.^^Click the ~Resource Mode~ icon and all natural resources sites currently available will be shown on the mini map. 
+Il existe un outil pratique sur la mini carte qui vous permet de trouver facilement des sites de ressources naturelles.^^Cliquez sur l'icône ~Mode ressource~ et tous les sites de ressources naturelles actuellement disponibles seront affichés sur la mini-carte. 
 
 [POS]
 Extend Text Box=450,50,300,0
@@ -144,7 +144,7 @@ Window=Minimap
 //-------------------------------------------------------------------//
 
 [TEXT]
-The letters on the mini-map indicate the types of natural resources available. For example, ~A~ means Aluminum.^^You can always click on the mini-map to bring the city view's focus to a resource site, where you will be able to see details of the resource site by hovering your mouse over it. 
+Les lettres sur la mini carte indiquent les types de ressources naturelles disponibles. Par exemple, ~A~ signifie Aluminium.^^Vous pouvez toujours cliquer sur la mini carte pour amener la mise au point de la vue de la ville sur un site de ressources, où vous pourrez voir les détails du site de ressources en passant votre souris dessus. 
 
 [POS]
 Text Box=300,280,400,0
@@ -153,7 +153,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-When you have located a natural resource site which you intend to buy, you may go ahead and select ~Mine~ from the build menu and build a mine on the resource site. 
+Lorsque vous avez trouvé un site de ressources naturelles que vous avez l'intention d'acheter, vous pouvez choisir ~Mine~ dans le menu de construction et construire une mine sur le site de ressources. 
 
 [POS]
 Text Box=300,280,400,0
@@ -162,7 +162,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Asides from mines, you may also build ~Oil Wells~ for extracting ~Crude Oil~ (represented by letter ~O~ on the mini-map), and ~Logging Camps~ for processing ~Timber~ (represented by letter ~T~ on the mini-map). 
+Outre les mines, vous pouvez également construire des ~puits de pétrole~ pour l'extraction du ~pétrole brut~ (représenté par la lettre ~O~ sur la mini-carte), et des ~camps d'enregistrement~ pour le traitement du ~bois~ (représenté par la lettre ~T~ sur la mini-carte). 
 
 [POS]
 Text Box=300,280,400,0
@@ -171,7 +171,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-As you have seen throughout the tutorial series, there are so many possible ways to expand your business. Becoming a producer of natural resources on your own to strengthen your supply chain is just one of them. 
+Comme vous l'avez vu tout au long de la série de tutoriels, il y a de nombreuses façons possibles de développer votre entreprise. Devenir producteur de ressources naturelles par ses propres moyens pour renforcer sa chaîne d'approvisionnement n'est que l'une d'entre elles. 
 
 [POS]
 Text Box=300,280,400,0
@@ -180,7 +180,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Now the tutorial series has come to an end.^^You have done a magnificent job broadening your business knowledge and sharpening your business skills while going through the tutorials! 
+Maintenant, la série de tutoriels est terminée.^^Vous avez fait un travail magnifique en élargissant vos connaissances et en affinant vos compétences commerciales tout en suivant les tutoriels ! 
 
 [POS]
 Text Box=300,280,400,0
@@ -189,7 +189,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Your final goal is to grow your company to a large corporation with ~1000 or more employees~, and achieve ~an annual revenue of $1 billion~ and ~an annual profit of $100 million~.^^This is a lofty goal, for sure. If you manage to pull it off, it will prove to the world that you have emerged as a formidable force in the business world!^^Good luck!
+Votre objectif final est de faire de votre entreprise une grande société avec ~1000 employés ou plus~, et d'atteindre ~un revenu annuel d'un milliard de dollars~ et ~un bénéfice annuel de 100 millions de dollars~.^^ C'est un objectif ambitieux, c'est certain. Si vous y parvenez, vous prouverez au monde entier que vous êtes devenu une force formidable dans le monde des affaires !
 
 [POS]
 Text Box=200,250,500,0

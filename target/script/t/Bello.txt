@@ -1,6 +1,6 @@
 [HEADER]
-Title=Bello Industries
-Description=Bello Industries Modifiers
+Title=Modifications des industries Bello
+Description=Modifications des industries Bello
 
 //---ENVIRONMENT-----------------------------------------------------//
 [ENVIRONMENT]
@@ -36,15 +36,15 @@ Product Expertise=Electronic Products, 100
 
 //---MAIN GOAL-------------------------------------------------------//
 [MAIN GOAL]
-Goal Title=Conquer All Company
-Goal Description=Own all the companies, whoo-hoo!
+Goal Title=À la conquête de toute les entreprises
+Goal Description=Possédez toutes les entreprises, whoo-hoo !
 Number of Game Years=1000
 [MAIN GOAL VALUES]
 Number of Controlled Companies=31
 //---SUBGOAL---------------------------------------------------------//
 [SUBGOAL]
-Goal Title=Conquer Your Company
-Goal Description=Own your first company
+Goal Title=Possédez toutes les entreprises, whoo-hoo !
+Goal Description=Possédez votre propre entreprise
 Deadline=1990-01-02
 
 [SUBGOAL VALUES]
@@ -2088,8 +2088,8 @@ Personal Cash change=1000000
 
 //---SUBGOAL---------------------------------------------------------//
 [SUBGOAL]
-Goal Title=Conquer Your Company
-Goal Description=Own your first company
+Goal Title=Possédez toutes les entreprises, whoo-hoo !
+Goal Description=Possédez votre propre entreprise
 Deadline=1991-01-02
 
 [SUBGOAL VALUES]
@@ -4133,8 +4133,8 @@ Personal Cash change=1000000
 
 //---SUBGOAL---------------------------------------------------------//
 [SUBGOAL]
-Goal Title=Conquer Your Company
-Goal Description=Own your first company
+Goal Title=Possédez toutes les entreprises, whoo-hoo !
+Goal Description=Possédez votre propre entreprise
 Deadline=1991-01-02
 
 [SUBGOAL VALUES]
@@ -6178,8 +6178,8 @@ Personal Cash change=1000000
 
 //---SUBGOAL---------------------------------------------------------//
 [SUBGOAL]
-Goal Title=Conquer Your Company
-Goal Description=Own your first company
+Goal Title=Possédez toutes les entreprises, whoo-hoo !
+Goal Description=Possédez votre propre entreprise
 Deadline=1991-01-02
 
 [SUBGOAL VALUES]
@@ -8223,8 +8223,8 @@ Personal Cash change=1000000
 
 //---SUBGOAL---------------------------------------------------------//
 [SUBGOAL]
-Goal Title=Conquer Your Company
-Goal Description=Own your first company
+Goal Title=Possédez toutes les entreprises, whoo-hoo !
+Goal Description=Possédez votre propre entreprise
 Deadline=1991-01-02
 
 [SUBGOAL VALUES]
@@ -10268,8 +10268,8 @@ Personal Cash change=1000000
 
 //---SUBGOAL---------------------------------------------------------//
 [SUBGOAL]
-Goal Title=Conquer Your Company
-Goal Description=Own your first company
+Goal Title=Possédez toutes les entreprises, whoo-hoo !
+Goal Description=Possédez votre propre entreprise
 Deadline=1991-01-02
 
 [SUBGOAL VALUES]
@@ -12313,8 +12313,8 @@ Personal Cash change=1000000
 
 //---SUBGOAL---------------------------------------------------------//
 [SUBGOAL]
-Goal Title=Conquer Your Company
-Goal Description=Own your first company
+Goal Title=Possédez toutes les entreprises, whoo-hoo !
+Goal Description=Possédez votre propre entreprise
 Deadline=1991-01-02
 
 [SUBGOAL VALUES]
@@ -14358,8 +14358,8 @@ Personal Cash change=1000000
 
 //---SUBGOAL---------------------------------------------------------//
 [SUBGOAL]
-Goal Title=Conquer Your Company
-Goal Description=Own your first company
+Goal Title=Possédez toutes les entreprises, whoo-hoo !
+Goal Description=Possédez votre propre entreprise
 Deadline=1991-01-02
 
 [SUBGOAL VALUES]
@@ -16403,8 +16403,8 @@ Personal Cash change=1000000
 
 //---SUBGOAL---------------------------------------------------------//
 [SUBGOAL]
-Goal Title=Conquer Your Company
-Goal Description=Own your first company
+Goal Title=Possédez toutes les entreprises, whoo-hoo !
+Goal Description=Possédez votre propre entreprise
 Deadline=1991-01-02
 
 [SUBGOAL VALUES]
@@ -18448,8 +18448,8 @@ Personal Cash change=1000000
 
 //---SUBGOAL---------------------------------------------------------//
 [SUBGOAL]
-Goal Title=Conquer Your Company
-Goal Description=Own your first company
+Goal Title=Possédez toutes les entreprises, whoo-hoo !
+Goal Description=Possédez votre propre entreprise
 Deadline=1991-01-02
 
 [SUBGOAL VALUES]

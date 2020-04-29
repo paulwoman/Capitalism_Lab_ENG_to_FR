@@ -5,8 +5,8 @@ Description=This is a sample script for Capitalism Lab, listing all variables un
 //-------------------------------------------------------------------//
 
 [MAIN GOAL]
-Goal Title=Main Goal 
-Goal Description=This is your main goal. 
+Goal Title=Objectif principal 
+Goal Description=C'est votre objectif principal. 
 
 Deadline=2010-06-30
 // You may set a direct deadline for the goals or specify the number of game years that the player is given to achieve the goal. 
@@ -21,10 +21,10 @@ Score change=50
 //-------------------------------------------------------------------//
 
 [SUBGOAL]
-Goal Title=First Subgoal 
-Goal Description=This is your first subgoal. 
+Goal Title=Premier sous-objectifl 
+Goal Description=C'est votre premier sous-objectif. 
 
-Goal Achieved Text=Congratulations! You have achieved your first subgoal.
+Goal Achieved Text=Félicitations ! You have achieved your first subgoal.
 Goal Failed Text=Sorry, you have failed your first subgoal. 
 
 // If this is a defined, the goal image will be displayed on the goal report. 
@@ -56,7 +56,7 @@ Tech Change=Jeans, -50
 Goal Title=Second Subgoal 
 Goal Description=This is your second subgoal. 
 
-Goal Achieved Text=Congratulations! You have achieved your second subgoal.
+Goal Achieved Text=Félicitations ! You have achieved your second subgoal.
 Goal Failed Text=Sorry, you have failed your second subgoal. 
 
 // If this is defined, this goal will only become available when the player has successfully completed another goal you specified (parent goal).

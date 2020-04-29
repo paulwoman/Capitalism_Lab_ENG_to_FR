@@ -1,6 +1,6 @@
 [HEADER]
-Title=Capitalism Lab script #02
-Description=This is a testing script.
+Title=Script #2 pour Capitalism Lab
+Description=C'est un script de test
 
 [ENVIRONMENT]
 Number of Cities=5
@@ -30,9 +30,9 @@ Import Quality=Moderate
 -------------------------------------------------------------------
 
 [MAIN GOAL]
-Goal Title=Main Goal 
-Goal Description=This is your main goal. Capitalism Lab is an expansion for Capitalism 2 with a host of new features and improvements, for experienced users of Capitalism 2. If you are new to the Capitalism series, you are recommended to get your hands on Capitalism 2 first, which contains well crafted tutorials for learning the game. You may check out Capitalism 2 web site at www.capitalism2.com
-Why is it called Capitalism Lab? The word "Lab" implies that Capitalism Lab, after its initial release, will continue to evolve. Our development team will implement experimental gameplay into it and communicate with the gaming community to get their feedback about the new features and improvements. 
+Goal Title=Objectif principal 
+Goal Description=C'est votre objectif principal. Capitalism Lab est une extension de Capitalism 2 avec une foule de nouvelles fonctionnalités et d'améliorations, pour les utilisateurs expérimentés de Capitalism 2. Si vous êtes nouveau dans la série Capitalisme, il vous est recommandé de mettre la main sur Capitalisme 2 d'abord, qui contient des tutoriels bien conçus pour l'apprentissage du jeu. Vous pouvez consulter le site web de Capitalisme 2 à l'adresse www.capitalism2.com
+Pourquoi le nom de "Capitalism Lab" ? Le mot "Lab" implique que le Capitalism Lab, après sa sortie initiale, continuera à évoluer. Notre équipe de développement y intégrera un gameplay expérimental et communiquera avec la communauté des joueurs pour obtenir leurs commentaires sur les nouvelles fonctionnalités et les améliorations. 
 
 Goal Available Year=1991
 Number of Game Years=20
@@ -80,9 +80,9 @@ CMO expertise change=marketing, 18
 -------------------------------------------------------------------
 
 [SUBGOAL]
-Goal Title=First Subgoal 
-Goal Description=This is your first subgoal. Capitalism Lab is an expansion for Capitalism 2 with a host of new features and improvements, for experienced users of Capitalism 2. If you are new to the Capitalism series, you are recommended to get your hands on Capitalism 2 first, which contains well crafted tutorials for learning the game. You may check out Capitalism 2 web site at www.capitalism2.com
-Why is it called Capitalism Lab? The word "Lab" implies that Capitalism Lab, after its initial release, will continue to evolve. Our development team will implement experimental gameplay into it and communicate with the gaming community to get their feedback about the new features and improvements. 
+Goal Title=Premier sous-objectifl 
+Goal Description=C'est votre premier sous-objectif. Capitalism Lab est une extension de Capitalism 2 avec une foule de nouvelles fonctionnalités et d'améliorations, pour les utilisateurs expérimentés de Capitalism 2. Si vous êtes nouveau dans la série Capitalisme, il vous est recommandé de mettre la main sur Capitalisme 2 d'abord, qui contient des tutoriels bien conçus pour l'apprentissage du jeu. Vous pouvez consulter le site web de Capitalisme 2 à l'adresse www.capitalism2.com
+Pourquoi le nom de "Capitalism Lab" ? Le mot "Lab" implique que le Capitalism Lab, après sa sortie initiale, continuera à évoluer. Notre équipe de développement y intégrera un gameplay expérimental et communiquera avec la communauté des joueurs pour obtenir leurs commentaires sur les nouvelles fonctionnalités et les améliorations. 
 
 Goal Available Year=1990
 Number of Game Years=1

@@ -1,10 +1,10 @@
 
-Are you using any anti-virus software that runs in background? 
+Utilisez-vous un logiciel anti-virus qui fonctionne en arrière-plan ? 
 
-If so, add MOD tool EXE files "LibResDir.EXE" and "LibResXL.EXE" into your anti-virus software exception list to prevent it from blocking the tools or slow down their executions 
+Si c'est le cas, ajoutez les fichiers MOD tool EXE "LibResDir.EXE" et "LibResXL.EXE" dans la liste des exceptions de votre logiciel anti-virus pour l'empêcher de bloquer les outils ou de ralentir leur exécution. 
 
 
-Run PACKALL.BAT to pack all files in all subfolders under the current MOD Kit folder into a MOD file. This will take a longer time to run but will ensure every MOD file that you have updated will be packed into the new MOD resource file. 
+Lancez PACKALL.BAT pour regrouper tous les fichiers de tous les sous-dossiers du dossier actuel du kit MOD dans un fichier MOD. Cette opération prendra plus de temps mais garantira que chaque fichier MOD que vous avez mis à jour sera intégré dans le nouveau fichier de ressources MOD. 
 
-Run PACK.BAT to pack files under the current MOD Kit folder into a MOD file. If you update files in other subfolders (e.g. IMAGES\PERSONS folder), you should run the PACK.BAT in those folders to pack the respective files. 
+Lancez PACK.BAT pour regrouper les fichiers se trouvant dans le dossier actuel du kit MOD dans un fichier MOD. Si vous mettez à jour des fichiers dans d'autres sous-dossiers (par exemple le dossier IMAGES\PERSONNES), vous devez exécuter le PACK.BAT dans ces dossiers pour empaqueter les fichiers respectifs. 
 

@@ -116,7 +116,7 @@ Le paramètre par défaut de #Vente interne# est #Activé#. Les concurrents ne s
 ~
 OM_IS_B
 Permettre la vente interne
-The default setting of #Internal Sale# is #Enabled#. Les concurrents sont autorisés à acheter vos produits.
+Le paramètre par défaut de #Vente interne# est #Activé#. Les concurrents sont autorisés à acheter vos produits. 
 ~
 OM_AL_A
 Désactiver le lien automatique avec le fournisseur 
@@ -1729,8 +1729,8 @@ Culture
 This rating is determined by the Overall Satisfaction ratings of Library, Museums, and City Halls in the city (details can be viewed on the "Public Facilities" page).
 ~
 P_OPERAT
-When this civic building is not in full operation, its operating cost is lower. 
-You are advised to set this based on the Supply/Demand index displayed at the lower part of this info window. (If the demand is high, set the operational capacity to a higher value.)
+Operational Level Setting 
+When this civic building is #not in full operation#, its #operating cost is lower#. You are advised to set this based on the #Supply/Demand index# displayed at the lower part of this info window. (If the demand is high, set the operational capacity to a higher value.)
 ~
 P_TRAIN
 Use the slider to set the staff training budget for this civic building. 

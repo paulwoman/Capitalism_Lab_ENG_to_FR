@@ -1,6 +1,6 @@
 [HEADER]
-Title=Breakthrough in Training
-Description=Years of research in training methodology by a consortium of leading business schools have finally produced astonishing results. ^^The new training methodology is able to increase corporate training efficiency by as much as 100% and companies around the globe are rapidly adopting this new training methodology. ^^Your company has jumped on this bandwagon as well and you are planning to leverage it to greatly improve the productivity of your workforce. 
+Title=Percée dans le domaine de la formation
+Description=Des années de recherche en méthodologie de formation par un consortium de grandes écoles de commerce ont finalement donné des résultats étonnants. ^^La nouvelle méthodologie de formation est capable d'augmenter l'efficacité de la formation en entreprise jusqu'à 100% et les entreprises du monde entier adoptent rapidement cette nouvelle méthodologie de formation. ^^Votre entreprise a elle aussi pris le train en marche et vous comptez l'exploiter pour améliorer considérablement la productivité de votre personnel. 
 
 Difficulty Rating=90
 
@@ -38,8 +38,8 @@ Training Effect Modifier=200
 //-------------------------------------------------------------------//
 
 [MAIN GOAL]
-Goal Title=Aggressive Growth Plan 
-Goal Description=With the breakthrough in training, you now have the tool to improve the operating efficiency of your corporation to new heights and deliver truly outstanding financial returns to your shareholders. 
+Goal Title=Plan de croissance agressif 
+Goal Description=Grâce à cette percée dans le domaine de la formation, vous disposez désormais de l'outil nécessaire pour améliorer l'efficacité opérationnelle de votre société et offrir à vos actionnaires un rendement financier vraiment exceptionnel. 
 
 Number of Game Years=70
 
@@ -54,10 +54,10 @@ Score change=200
 //-------------------------------------------------------------------//
 
 [SUBGOAL]
-Goal Title=Operating Performance Target
-Goal Description=Leverage the new training methodology to improve your corporation's operating profit margin. 
+Goal Title=Objectif de performance opérationnelle
+Goal Description=Tirez parti de la nouvelle méthodologie de formation pour améliorer la marge bénéficiaire d'exploitation de votre entreprise. 
 
-Goal Achieved Text=Congratulations! You have significantly improved your corporation's operating profit margin. 
+Goal Achieved Text=Félicitations ! Vous avez considérablement amélioré la marge bénéficiaire de votre entreprise. 
 
 [SUBGOAL VALUES]
 Operating Profit Margin=15
@@ -69,10 +69,10 @@ Corporate Cash Change=100
 //-------------------------------------------------------------------//
 
 [SUBGOAL]
-Goal Title=Growing the Talent Base. 
-Goal Description=Be more aggressive in hiring and look for new talents to join your corporation.
+Goal Title=Développer la base de talents. 
+Goal Description=Soyez plus agressif dans le recrutement et recherchez de nouveaux talents pour rejoindre votre entreprise..
 
-Goal Achieved Text=Congratulations! Your corporation has reached the milestone of having a staff size surpassing 1000 people. 
+Goal Achieved Text=Félicitations ! Votre entreprise a atteint l'objectif d'un effectif de plus de 1000 personnes. 
 
 [SUBGOAL VALUES]
 Total Number of Employees=1000

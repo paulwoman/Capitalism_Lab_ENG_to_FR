@@ -56,7 +56,7 @@ Score change=200
 Goal Title=High Net Worth Subsidiaries
 Goal Description=You win this subgoal when the net worth of each of your subsidiary companies has reached $1 billion. (Net worth is the value of all the assets of a company minus the value of all its outstanding liabilities. Net worth is also known as shareholders’equity which you can view from the balance sheet in the Corporate Details report.)
 
-Goal Achieved Text=Congratulations! You now have two subsidiary companies with net worth exceeding $1 billion each!
+Goal Achieved Text=Félicitations ! You now have two subsidiary companies with net worth exceeding $1 billion each!
 
 [SUBGOAL VALUES]
 Subsidiary Net Worth=1000,2

@@ -1,6 +1,6 @@
 [HEADER]
-Title=capitalism Lab script #02
-Description=This is a testing script.
+Title=script capitalism Lab  #02
+Description=C'est un script de test
 
 [ENVIRONMENT]
 Number of Cities=5
@@ -44,8 +44,8 @@ City Competitiveness Effect on R&D Modifier=200
 //-------------------------------------------------------------------
 
 [MAIN GOAL]
-Goal Title=Main Goal 
-Goal Description=This is your main goal. Capitalism Lab is an expansion for Capitalism 2 with a host of new features and improvements, for experienced users of Capitalism 2. If you are new to the Capitalism series, you are recommended to get your hands on Capitalism 2 first, which contains well crafted tutorials for learning the game. You may check out Capitalism 2 web site at www.capitalism2.com
+Goal Title=Objectif principal 
+Goal Description=C'est votre objectif principal. Capitalism Lab est une extension de Capitalism 2 avec une foule de nouvelles fonctionnalités et d'améliorations, pour les utilisateurs expérimentés de Capitalism 2. Si vous êtes nouveau dans la série Capitalisme, il vous est recommandé de mettre la main sur Capitalisme 2 d'abord, qui contient des tutoriels bien conçus pour l'apprentissage du jeu. Vous pouvez consulter le site web de Capitalisme 2 à l'adresse www.capitalism2.com
 
 Number of Game Years=50
 
@@ -96,8 +96,8 @@ CMO expertise change=marketing, 18
 //-------------------------------------------------------------------
 
 [SUBGOAL]
-Goal Title=First Subgoal 
-Goal Description=This is your first subgoal. Capitalism Lab is an expansion for Capitalism 2 with a host of new features and improvements, for experienced users of Capitalism 2. If you are new to the Capitalism series, you are recommended to get your hands on Capitalism 2 first, which contains well crafted tutorials for learning the game. You may check out Capitalism 2 web site at www.capitalism2.com
+Goal Title=Premier sous-objectifl 
+Goal Description=C'est votre premier sous-objectif. Capitalism Lab est une extension de Capitalism 2 avec une foule de nouvelles fonctionnalités et d'améliorations, pour les utilisateurs expérimentés de Capitalism 2. Si vous êtes nouveau dans la série Capitalisme, il vous est recommandé de mettre la main sur Capitalisme 2 d'abord, qui contient des tutoriels bien conçus pour l'apprentissage du jeu. Vous pouvez consulter le site web de Capitalisme 2 à l'adresse www.capitalism2.com
 
 Goal Available Date=1990-02-02
 Number of Game Years=1

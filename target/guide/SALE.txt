@@ -1,9 +1,9 @@
 [Sales Unit]
 ~Nom du produit~
-The type of product which the unit is currently selling.^
+Le type de produit que l'unité vend actuellement.^
 ~Stock de produits~
-Cette zone indique le stock du produit dans l'unité. Chaque boîte représente une cargaison du produit. Chaque cargaison peut contenir un certain nombre d'unités du produit.^^Le nombre d'unités qu'une cargaison peut contenir varie d'un produit à l'autre. Pour certains produits coûteux, tels que les voitures, une cargaison ne peut contenir que quelques unités du produit. Pour les produits à bas prix, comme le shampoing, une cargaison peut contenir jusqu'à plusieurs milliers d'unités du produit. This makes the total value of all cargoes of all types of products about the same.^
-~Supply and Demand~
-The yellow bar indicates the supply of the product by the current firm. The orange bar indicates the demand of the product from the buyers. Examine these bars and the utilization bar carefully to identify the bottlenecks of your business.^
-~Utilization Bar~
+Cette zone indique le stock du produit dans l'unité. Chaque boîte représente une cargaison du produit. Chaque cargaison peut contenir un certain nombre d'unités du produit.^^Le nombre d'unités qu'une cargaison peut contenir varie d'un produit à l'autre. Pour certains produits coûteux, tels que les voitures, une cargaison ne peut contenir que quelques unités du produit. Pour les produits à bas prix, comme le shampoing, une cargaison peut contenir jusqu'à plusieurs milliers d'unités du produit. La valeur totale de toutes les cargaisons de tous les types de produits est donc à peu près la même.^
+~L'offre et la demande~
+La barre jaune indique la fourniture du produit par l'entreprise actuelle. La barre orange indique la demande du produit de la part des acheteurs. Examinez attentivement ces barres et la barre d'utilisation pour identifier les goulots d'étranglement de votre entreprise.^
+~Barre d'utilisation~
 Cette barre marron montre l'utilisation de l'unité. Si cette barre atteint sa pleine longueur, l'unité a atteint sa pleine capacité. 
