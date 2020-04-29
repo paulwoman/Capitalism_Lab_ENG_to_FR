@@ -11777,6 +11777,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Spending|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T150502Z" creationid="Olivier" creationdate="20200429T150502Z">
+        <seg>Dépenses</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sports Store|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T063946Z" creationid="Inrepublica" creationdate="20200426T063946Z">
@@ -19157,8 +19165,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0858]&lt;0073&gt;Manager's Guide|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T144509Z" creationid="Olivier" creationdate="20200429T144509Z">
-        <seg>[0858]&lt;0073&gt;Guide du Directeur|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T160628Z" creationid="Olivier" creationdate="20200429T144509Z">
+        <seg>[0858]&lt;0073&gt;Guide du PDG|</seg>
       </tuv>
     </tu>
     <tu>
@@ -19595,10 +19603,178 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0921]&lt;0129&gt;Lifetime Profit|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T150328Z" creationid="Olivier" creationdate="20200429T150328Z">
+        <seg>[0921]&lt;0129&gt;Bénéfice durant la vie|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0922]&lt;0130&gt;No.of Employees|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T150339Z" creationid="Olivier" creationdate="20200429T150339Z">
+        <seg>[0922]&lt;0130&gt;Nbre d'employés|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0923]&lt;0131&gt;No.of Units|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T150348Z" creationid="Olivier" creationdate="20200429T150348Z">
+        <seg>[0923]&lt;0131&gt;Nbre d'unités|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0925]&lt;0133&gt;Utilization|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T150353Z" creationid="Olivier" creationdate="20200429T150353Z">
+        <seg>[0925]&lt;0133&gt;Utilisation|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0926]&lt;0134&gt;Units|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T150400Z" creationid="Olivier" creationdate="20200429T150400Z">
+        <seg>[0926]&lt;0134&gt;Unités|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0928]&lt;0136&gt;Lifetime Profit|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T150441Z" creationid="Olivier" creationdate="20200429T150441Z">
+        <seg>[0928]&lt;0136&gt;Bénéfice durant la vie|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0929]&lt;0137&gt;Ad.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T150530Z" creationid="Olivier" creationdate="20200429T150453Z">
+        <seg>[0929]&lt;0137&gt;Pub.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0930]&lt;0138&gt;Daily Ad.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T150535Z" creationid="Olivier" creationdate="20200429T150519Z">
+        <seg>[0930]&lt;0138&gt;Publicité quotidienne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0931]&lt;0139&gt;Rating Points|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T150548Z" creationid="Olivier" creationdate="20200429T150548Z">
+        <seg>[0931]&lt;0139&gt;Points de classements|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0932]&lt;0140&gt;Sort By Product Name|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T150601Z" creationid="Olivier" creationdate="20200429T150601Z">
+        <seg>[0932]&lt;0140&gt;Trier par nom de produits|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0933]&lt;0141&gt;Sort By City Name|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T150618Z" creationid="Olivier" creationdate="20200429T150618Z">
+        <seg>[0933]&lt;0141&gt;Tirer par nom de ville|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0934]&lt;0142&gt;Corporate Brand|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T121530Z" creationid="Inrepublica" creationdate="20200426T121530Z">
         <seg>[0934]&lt;0142&gt;Marque de société|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0937]&lt;0145&gt;A Single Brand Covers All Products|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T150649Z" creationid="Olivier" creationdate="20200429T150649Z">
+        <seg>[0937]&lt;0145&gt;Une seule marque couvre tous les produits|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0938]&lt;0146&gt;A Brand Covers a Range of Products|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T150715Z" creationid="Olivier" creationdate="20200429T150715Z">
+        <seg>[0938]&lt;0146&gt;Une marque couvre une gamme de produits|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0939]&lt;0147&gt;Each Product has a Unique Brand|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T150728Z" creationid="Olivier" creationdate="20200429T150728Z">
+        <seg>[0939]&lt;0147&gt;Chaque produit a une marque unique|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0940]&lt;0148&gt;Industry|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T150737Z" creationid="Olivier" creationdate="20200429T150737Z">
+        <seg>[0940]&lt;0148&gt;Industries|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0941]&lt;0149&gt;Leader Market Share|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T150841Z" creationid="Olivier" creationdate="20200429T150841Z">
+        <seg>[0941]&lt;0149&gt;Part du marché du leader|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0942]&lt;0150&gt;Market Share|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T150852Z" creationid="Olivier" creationdate="20200429T150852Z">
+        <seg>[0942]&lt;0150&gt;Part de marché|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0943]&lt;0151&gt;Rank|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T150858Z" creationid="Olivier" creationdate="20200429T150858Z">
+        <seg>[0943]&lt;0151&gt;Classement|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0944]&lt;0152&gt;Product Class|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T150909Z" creationid="Olivier" creationdate="20200429T150909Z">
+        <seg>[0944]&lt;0152&gt;Classe de produits|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0945]&lt;0153&gt;Product Name|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T150917Z" creationid="Olivier" creationdate="20200429T150917Z">
+        <seg>[0945]&lt;0153&gt;Nom du produit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0949]&lt;0157&gt;With Market Share|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T150938Z" creationid="Olivier" creationdate="20200429T150938Z">
+        <seg>[0949]&lt;0157&gt;Avec une part de marché|</seg>
       </tuv>
     </tu>
     <tu>
