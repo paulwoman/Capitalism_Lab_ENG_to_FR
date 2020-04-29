@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(You are limited to production of beverage, food and snacks until you have achieved this goal.)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214950Z" creationid="Olivier" creationdate="20200429T214950Z">
+        <seg>(Vous êtes limité à la production de boissons, de nourriture et de snacks jusqu'à ce que vous ayez atteint cet objectif).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(You are limited to production of photography products only until you have achieved this goal.)</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164902Z" creationid="Olivier" creationdate="20200429T164902Z">
@@ -538,6 +546,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T101837Z" creationid="Olivier" creationdate="20200428T101837Z">
         <seg>//Years of Advanced Start for AI=1, Stock Purchase Allowed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>//of the 13 diversified companies, 2 of them have expertise in apparel</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214237Z" creationid="Olivier" creationdate="20200429T214237Z">
+        <seg>//of the 13 diversified companies, 2 of them have expertise in apparel</seg>
       </tuv>
     </tu>
     <tu>
@@ -1034,6 +1050,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203355Z" creationid="Inrepublica" creationdate="20200422T203355Z">
         <seg>Agressivité des prix de l'IA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AI Product Expertise=Apparel,1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214231Z" creationid="Olivier" creationdate="20200429T214231Z">
+        <seg>AI Product Expertise=Apparel,1</seg>
       </tuv>
     </tu>
     <tu>
@@ -2958,6 +2982,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>City=Miami</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214217Z" creationid="Olivier" creationdate="20200429T214217Z">
+        <seg>City=Miami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>City=Moscow</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171326Z" creationid="Olivier" creationdate="20200427T171326Z">
@@ -3902,6 +3934,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Corporate cash change=10</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214344Z" creationid="Olivier" creationdate="20200429T214344Z">
+        <seg>Corporate cash change=10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Corporate cash change=100</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164957Z" creationid="Olivier" creationdate="20200429T164957Z">
@@ -4222,10 +4262,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=You have an excellent track record in the food and beverage industry.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214749Z" creationid="Olivier" creationdate="20200429T214749Z">
+        <seg>Description=Vous avez d'excellents antécédents dans l'industrie alimentaire et des boissons.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=You have been trying to raise capital for your fashion startup for years.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214121Z" creationid="Olivier" creationdate="20200429T214121Z">
         <seg>Description=Vous essayez depuis des années de réunir des capitaux pour votre start-up de mode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=You have bought the brand asset of a defunct company which used to be a popular consumer brand and still carries significant brand value in the present day.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T215216Z" creationid="Olivier" creationdate="20200429T215216Z">
+        <seg>Description=Vous avez acheté l'actif de marque d'une société défunte qui était une marque populaire auprès des consommateurs et qui possède toujours une valeur de marque significative aujourd'hui.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4322,6 +4378,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164755Z" creationid="Olivier" creationdate="20200429T164755Z">
         <seg>Difficulty Rating=120</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Difficulty Rating=80</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214215Z" creationid="Olivier" creationdate="20200429T214215Z">
+        <seg>Difficulty Rating=80</seg>
       </tuv>
     </tu>
     <tu>
@@ -4438,6 +4502,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Diversified Companies=13</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214228Z" creationid="Olivier" creationdate="20200429T214228Z">
+        <seg>Diversified Companies=13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Do not consider Tender Offers from other players.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T145734Z" creationid="Olivier" creationdate="20200428T145612Z">
@@ -4466,6 +4538,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T211314Z" creationid="Olivier" creationdate="20200422T211314Z">
         <seg>Avez-vous assez d'argent pour construire un deuxième grand magasin ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do you have what it takes to carve out a niche with your new fashion brand and thrive in the market?</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214213Z" creationid="Olivier" creationdate="20200429T214213Z">
+        <seg>Avez-vous ce qu'il faut pour vous tailler une place avec votre nouvelle marque de mode et prospérer sur le marché ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5350,6 +5430,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Food</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T215021Z" creationid="Olivier" creationdate="20200429T215021Z">
+        <seg>Food</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Footwear Store|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T063931Z" creationid="Inrepublica" creationdate="20200426T063931Z">
@@ -6121,10 +6209,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=Facing tough competition from established fashion companies, your near term goal is to stay afloat and carve out a niche with your new fashion brand.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214326Z" creationid="Olivier" creationdate="20200429T214326Z">
+        <seg>Goal Description=Face à la rude concurrence des entreprises de mode établies, votre objectif à court terme est de vous maintenir à flot et de vous tailler une place avec votre nouvelle marque de mode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=Grow your business into a leading company in farming and retail.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T213752Z" creationid="Olivier" creationdate="20200429T213752Z">
         <seg>Goal Description=Faites de votre entreprise une entreprise leader dans le domaine de l'agriculture et du commerce de détail.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=Having secured a foothold in the market with your brand and strengthened your war chest with the new investment, you can now afford to expand your business aggressively and seize market shares from your competitors.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214430Z" creationid="Olivier" creationdate="20200429T214430Z">
+        <seg>Goal Description=Après avoir pris pied sur le marché avec votre marque et renforcé votre trésor de guerre grâce à ce nouvel investissement, vous pouvez maintenant vous permettre de développer votre entreprise de manière agressive et de saisir des parts de marché à vos concurrents.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6141,6 +6245,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164534Z" creationid="Olivier" creationdate="20200429T164534Z">
         <seg>Goal Description=Continuez à impressionner les actionnaires et votre personnel en leur fournissant les résultats qu'ils attendent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=Lead your corporation to achieve market dominance in the food and beverage and deliver outstanding financial returns to your investors.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214937Z" creationid="Olivier" creationdate="20200429T214937Z">
+        <seg>Goal Description=Amenez votre entreprise à dominer le marché de l'alimentation et des boissons et à offrir des rendements financiers exceptionnels à vos investisseurs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6181,6 +6293,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214010Z" creationid="Olivier" creationdate="20200429T214010Z">
         <seg>Goal Description=Dépassez les attentes de votre famille en développant non seulement un commerce agricole et de détail prospère, mais aussi une multinationale avec un portefeuille de produits diversifié.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=Thanks to your recent rounds of successful expansions, you are now in a position to take another leap and eventually become the market leader in the apparel industry.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214530Z" creationid="Olivier" creationdate="20200429T214530Z">
+        <seg>Goal Description=Grâce à votre récente série d'expansions réussies, vous êtes maintenant en mesure de faire un nouveau bond en avant et de devenir finalement le leader du marché dans l'industrie de l'habillement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=The leather product market is highly lucrative, you should leverage your success in the fashion market to broaden your product lines to cover leather products.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214648Z" creationid="Olivier" creationdate="20200429T214648Z">
+        <seg>Goal Description=Le marché des produits en cuir est très lucratif, vous devriez tirer parti de votre succès sur le marché de la mode pour élargir vos gammes de produits afin de couvrir les produits en cuir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6229,6 +6357,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T215847Z" creationid="Olivier" creationdate="20200428T215847Z">
         <seg>Goal Description=Grâce à cette percée dans le domaine de la formation, vous disposez désormais de l'outil nécessaire pour améliorer l'efficacité opérationnelle de votre société et offrir à vos actionnaires un rendement financier vraiment exceptionnel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=With your success in the food and beverage industry, your current goal is to diversify your business and further grow your corporation into a multinational conglomerate with a market capitalization of $1 billion and an annual revenue of at least $800 million.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T215110Z" creationid="Olivier" creationdate="20200429T215110Z">
+        <seg>Goal Description=Compte tenu de votre succès dans l'industrie alimentaire et des boissons, votre objectif actuel est de diversifier vos activités et de développer votre entreprise pour en faire un conglomérat multinational avec une capitalisation boursière d'un milliard de dollars et un chiffre d'affaires annuel d'au moins 800 millions de dollars.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6337,10 +6473,34 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Title=Fashion Dominance</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214629Z" creationid="Olivier" creationdate="20200429T214629Z">
+        <seg>Goal Title=La suprématie de la mode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Title=First Subgoal</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102317Z" creationid="Olivier" creationdate="20200428T102317Z">
         <seg>Goal Title=Premier sous-objectifl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Food and Beverage Dominance</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214913Z" creationid="Olivier" creationdate="20200429T214902Z">
+        <seg>Goal Title=La suprématie de la nourriture et des boissons</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Growing Your Business</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214404Z" creationid="Olivier" creationdate="20200429T214404Z">
+        <seg>Goal Title=Développer votre entreprise</seg>
       </tuv>
     </tu>
     <tu>
@@ -6377,6 +6537,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Title=Launching a New Brand</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214304Z" creationid="Olivier" creationdate="20200429T214304Z">
+        <seg>Goal Title=Lancement d'une nouvelle marque</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Title=Main Goal</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102027Z" creationid="Olivier" creationdate="20200428T102027Z">
@@ -6389,6 +6557,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164831Z" creationid="Olivier" creationdate="20200429T164831Z">
         <seg>Goal Title=Leader du marché</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Market Leadership</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214503Z" creationid="Olivier" creationdate="20200429T214503Z">
+        <seg>Goal Title=Position dominante sur le marché</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Multinational Conglomerate</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T215049Z" creationid="Olivier" creationdate="20200429T215049Z">
+        <seg>Goal Title=Conglomérat multinational</seg>
       </tuv>
     </tu>
     <tu>
@@ -7889,6 +8073,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Leather Goods</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214716Z" creationid="Olivier" creationdate="20200429T214716Z">
+        <seg>Leather Goods</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Leather Store|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T063934Z" creationid="Inrepublica" creationdate="20200426T063934Z">
@@ -9041,6 +9233,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now you are starting on your own and have raised tens of millions from investors.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214810Z" creationid="Olivier" creationdate="20200429T214810Z">
+        <seg>Vous commencez maintenant à vous débrouiller seul et avez recueilli des dizaines de millions auprès d'investisseurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now you get the chance to actually manufacture products in your own factory.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T085406Z" creationid="Olivier" creationdate="20200424T085406Z">
@@ -9905,10 +10105,42 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Parent Goal=Food and Beverage Dominance</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T215128Z" creationid="Olivier" creationdate="20200429T215128Z">
+        <seg>Parent Goal=Food and Beverage Dominance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Parent Goal=Growing Your Business</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214545Z" creationid="Olivier" creationdate="20200429T214545Z">
+        <seg>Parent Goal=Growing Your Business</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Parent Goal=Launching a New Brand</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214445Z" creationid="Olivier" creationdate="20200429T214445Z">
+        <seg>Parent Goal=Launching a New Brand</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Parent Goal=Market Leader</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T165046Z" creationid="Olivier" creationdate="20200429T165046Z">
         <seg>Parent Goal=Market Leader</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Parent Goal=Market Leadership</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214706Z" creationid="Olivier" creationdate="20200429T214706Z">
+        <seg>Parent Goal=Market Leadership</seg>
       </tuv>
     </tu>
     <tu>
@@ -10089,6 +10321,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Player Company Annual Profit=30</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214552Z" creationid="Olivier" creationdate="20200429T214552Z">
+        <seg>Player Company Annual Profit=30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Player Company Annual Profit=40</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164552Z" creationid="Olivier" creationdate="20200429T164552Z">
@@ -10101,6 +10341,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151529Z" creationid="Inrepublica" creationdate="20200423T151529Z">
         <seg>Player Company Annual Profit=5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player Company Annual Profit=50</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214712Z" creationid="Olivier" creationdate="20200429T214712Z">
+        <seg>Player Company Annual Profit=50</seg>
       </tuv>
     </tu>
     <tu>
@@ -10177,6 +10425,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Player Company Annual Revenue=500</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214709Z" creationid="Olivier" creationdate="20200429T214709Z">
+        <seg>Player Company Annual Revenue=500</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Player Company Annual Revenue=800</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T215851Z" creationid="Olivier" creationdate="20200428T215851Z">
@@ -10193,10 +10449,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Player Company Market Cap=300</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T215024Z" creationid="Olivier" creationdate="20200429T215024Z">
+        <seg>Player Company Market Cap=300</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Player Company Market Cap=60</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102356Z" creationid="Olivier" creationdate="20200428T102356Z">
         <seg>Player Company Market Cap=60</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player Company Market Cap=600</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T215132Z" creationid="Olivier" creationdate="20200429T215132Z">
+        <seg>Player Company Market Cap=600</seg>
       </tuv>
     </tu>
     <tu>
@@ -11297,6 +11569,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Product Expertise=Apparel, 80</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214239Z" creationid="Olivier" creationdate="20200429T214239Z">
+        <seg>Product Expertise=Apparel, 80</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product Expertise=Beverage, 70</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214834Z" creationid="Olivier" creationdate="20200429T214834Z">
+        <seg>Product Expertise=Beverage, 70</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Product Expertise=Communication Devices, 100</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170701Z" creationid="Olivier" creationdate="20200427T170701Z">
@@ -11321,6 +11609,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Product Expertise=Food, 70</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214836Z" creationid="Olivier" creationdate="20200429T214836Z">
+        <seg>Product Expertise=Food, 70</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Product Expertise=Photography Products, 100</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164758Z" creationid="Olivier" creationdate="20200429T164758Z">
@@ -11333,6 +11629,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171354Z" creationid="Olivier" creationdate="20200427T171354Z">
         <seg>Product Expertise=Snacks, 100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product Expertise=Snacks, 70</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214838Z" creationid="Olivier" creationdate="20200429T214838Z">
+        <seg>Product Expertise=Snacks, 70</seg>
       </tuv>
     </tu>
     <tu>
@@ -11361,10 +11665,34 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Product=Beverage</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214841Z" creationid="Olivier" creationdate="20200429T214841Z">
+        <seg>Product=Beverage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product=Food</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214843Z" creationid="Olivier" creationdate="20200429T214843Z">
+        <seg>Product=Food</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Product=Photography Products</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164805Z" creationid="Olivier" creationdate="20200429T164805Z">
         <seg>Product=Photography Products</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product=Snacks</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214845Z" creationid="Olivier" creationdate="20200429T214845Z">
+        <seg>Product=Snacks</seg>
       </tuv>
     </tu>
     <tu>
@@ -11569,6 +11897,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Real Estate Focused Companies=2</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214223Z" creationid="Olivier" creationdate="20200429T214223Z">
+        <seg>Real Estate Focused Companies=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Real Wage Rate=35</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T103623Z" creationid="Olivier" creationdate="20200428T103623Z">
@@ -11669,6 +12005,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102205Z" creationid="Olivier" creationdate="20200428T102205Z">
         <seg>Retail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Retail Focused Companies=4</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214220Z" creationid="Olivier" creationdate="20200429T214220Z">
+        <seg>Retail Focused Companies=4</seg>
       </tuv>
     </tu>
     <tu>
@@ -12709,6 +13053,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T103640Z" creationid="Olivier" creationdate="20200428T103640Z">
         <seg>Tech Focused Companies=10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tech Focused Companies=2</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214225Z" creationid="Olivier" creationdate="20200429T214225Z">
+        <seg>Tech Focused Companies=2</seg>
       </tuv>
     </tu>
     <tu>
@@ -15002,10 +15354,26 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title=Food and Beverage</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214733Z" creationid="Olivier" creationdate="20200429T214733Z">
+        <seg>Title=Alimentation et boissons</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Title=Jol Hard</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171253Z" creationid="Olivier" creationdate="20200427T171253Z">
         <seg>Title=Jol Difficile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Legacy Brand</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T215157Z" creationid="Olivier" creationdate="20200429T215157Z">
+        <seg>Title=Une marque qui fait son chemin</seg>
       </tuv>
     </tu>
     <tu>
@@ -16154,6 +16522,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Years of Advanced Start for AI=5</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214243Z" creationid="Olivier" creationdate="20200429T214243Z">
+        <seg>Years of Advanced Start for AI=5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Years of Advanced Start for AI=5, Stock Purchase Allowed</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T103603Z" creationid="Olivier" creationdate="20200428T103603Z">
@@ -16266,10 +16642,26 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You have achieved market dominance in the food and beverage industry and your corporation's market cap has increased substantially.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T215006Z" creationid="Olivier" creationdate="20200429T215006Z">
+        <seg>Vous avez atteint une position dominante sur le marché de l'industrie alimentaire et des boissons et la part de marché de votre entreprise a considérablement augmenté.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You have been assigned to run this department store.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T122547Z" creationid="Inrepublica" creationdate="20200423T122451Z">
         <seg>Vous avez reçu pour mission de gérer ce grand magasin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have come a long way since your humble beginning!</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214543Z" creationid="Olivier" creationdate="20200429T214543Z">
+        <seg>Vous avez parcouru un long chemin depuis vos humbles débuts !</seg>
       </tuv>
     </tu>
     <tu>
@@ -16294,6 +16686,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T140304Z" creationid="Olivier" creationdate="20200426T140304Z">
         <seg>Vous avez démontré votre capacité à gérer des projets de R&amp;D et à les utiliser pour améliorer la qualité de vos produits.^^Nous allons maintenant examiner rapidement l'option managériale qui consiste à former vos employés, ce qui est essentiel pour améliorer la compétitivité globale de votre entreprise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have developed your company into a force to be reckoned with!</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214443Z" creationid="Olivier" creationdate="20200429T214443Z">
+        <seg>Vous avez fait de votre entreprise une force avec laquelle il faut compter !</seg>
       </tuv>
     </tu>
     <tu>
@@ -16715,6 +17115,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You win this game when you achieve market dominance in both apparel and leather products.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214701Z" creationid="Olivier" creationdate="20200429T214701Z">
+        <seg>Vous gagnez ce jeu lorsque vous atteignez une position dominante sur le marché des vêtements et des produits en cuir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You win this game when your company's annual revenue reaches $20 million.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124710Z" creationid="Olivier" creationdate="20200423T124710Z">
@@ -16827,6 +17235,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Your board of directors are extremely pleased with your performance and support your plan for entering new markets to drive further revenue growth.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T215019Z" creationid="Olivier" creationdate="20200429T215019Z">
+        <seg>Votre conseil d'administration est extrêmement satisfait de vos performances et soutient votre projet de pénétrer de nouveaux marchés afin d'accroître encore vos revenus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Your cattle will now be reared and processed as frozen beef.^^Add a ~Sales Unit~ and link it to the ~Livestock Processing Unit~ so that your farm can sell the frozen beef.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T214850Z" creationid="Olivier" creationdate="20200425T214850Z">
@@ -16847,6 +17263,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T085624Z" creationid="Olivier" creationdate="20200424T085624Z">
         <seg>La limite de crédit de votre entreprise varie tout au long du jeu en fonction de la situation de votre entreprise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your company's performance has impressed investors and led to a new round of investment of $100 million into your company!</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214343Z" creationid="Olivier" creationdate="20200429T214343Z">
+        <seg>Les performances de votre entreprise ont impressionné les investisseurs et ont conduit à une nouvelle série d'investissements de 100 millions de dollars dans votre entreprise !</seg>
       </tuv>
     </tu>
     <tu>
@@ -22273,6 +22697,14 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T145921Z" creationid="Olivier" creationdate="20200426T145921Z">
         <seg>^^Avec la conviction que c'est la technologie qui compte le plus lorsqu'il s'agit de produits de haute technologie, vous êtes certain que devenir un leader sur le marché de la haute technologie est absolument à votre portée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^^You have promised the investors to keep your new company's focus on the food and beverage industry as specialization is key to success at the early growth phase.^^Once you have achieved market dominance in the food and beverage industry, there will be bigger challenges for you to undertake!</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214832Z" creationid="Olivier" creationdate="20200429T214832Z">
+        <seg>^^ Vous avez promis aux investisseurs que votre nouvelle entreprise resterait axée sur l'industrie alimentaire et des boissons car la spécialisation est la clé du succès au début de la phase de croissance. Une fois que vous aurez atteint une position dominante sur le marché de l'industrie alimentaire et des boissons, vous devrez relever des défis plus importants !</seg>
       </tuv>
     </tu>
     <tu>
