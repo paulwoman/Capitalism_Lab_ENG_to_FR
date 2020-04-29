@@ -3304,16 +3304,16 @@
       <tuv lang="en-US">
         <seg>Competitors are allowed to buy your products.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T160118Z" creationid="Olivier" creationdate="20200428T145007Z">
-        <seg>Les concurrents ne sont pas autorisés à acheter vos produits.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T090404Z" creationid="Olivier" creationdate="20200428T145007Z">
+        <seg>Les concurrents sont autorisés à acheter vos produits.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Competitors are not allowed to buy your products.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T150156Z" creationid="Olivier" creationdate="20200428T145045Z">
-        <seg>Les concurrents sont autorisés à acheter vos produits.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T090340Z" creationid="Olivier" creationdate="20200428T145045Z">
+        <seg>Les concurrents ne sont pas autorisés à acheter vos produits.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12683,8 +12683,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>The default setting of #Internal Sale# is #Disabled#.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T160112Z" creationid="Olivier" creationdate="20200428T144948Z">
-        <seg>Le paramètre par défaut de #Vente interne# est #Activé#.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T090504Z" creationid="Olivier" creationdate="20200428T144948Z">
+        <seg>Le paramètre par défaut de #Vente interne# est #Désactivé#.</seg>
       </tuv>
     </tu>
     <tu>
