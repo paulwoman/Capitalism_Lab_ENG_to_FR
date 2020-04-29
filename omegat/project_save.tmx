@@ -18899,6 +18899,38 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1360]&lt;0425&gt;TARGET|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T102622Z" creationid="Olivier" creationdate="20200429T102622Z">
+        <seg>[1360]&lt;0425&gt;CIBLE|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1361]&lt;0426&gt;CURRENT|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T102630Z" creationid="Olivier" creationdate="20200429T102630Z">
+        <seg>[1361]&lt;0426&gt;ACTUEL|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1362]&lt;0427&gt;ACHIEVED|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T102635Z" creationid="Olivier" creationdate="20200429T102635Z">
+        <seg>[1362]&lt;0427&gt;ACHEVE|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1363]&lt;0428&gt;SCORE|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T102639Z" creationid="Olivier" creationdate="20200429T102639Z">
+        <seg>[1363]&lt;0428&gt;SCORE|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1372]&lt;0437&gt; x 20|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T054327Z" creationid="Inrepublica" creationdate="20200423T054327Z">
@@ -19179,6 +19211,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1675]&lt;0679&gt;Market Dominance of the |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T102947Z" creationid="Olivier" creationdate="20200429T102947Z">
+        <seg>[1675]&lt;0679&gt;Position dominante sur le marché de la |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1797]&lt;0800&gt;Score:|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T122027Z" creationid="Inrepublica" creationdate="20200426T122027Z">
@@ -19451,6 +19491,22 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3123]Build a New City|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T102258Z" creationid="Olivier" creationdate="20200429T102258Z">
+        <seg>[3123]Construire une nouvelle ville|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3124]Use your corporation to acquire the rights and build a new city, and assign a member from your political party as the city's mayor.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T102340Z" creationid="Olivier" creationdate="20200429T102340Z">
+        <seg>[3124]Utilisez votre société pour acquérir les droits et construire une nouvelle ville, et désignez un membre de votre parti politique comme maire de la ville.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3126]To become the undisputed King of Capitalism, you must build a sprawling business empire with an impressive list of subsidiary companies by achieving all the subgoals|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T101909Z" creationid="Olivier" creationdate="20200429T101909Z">
@@ -19471,6 +19527,22 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T101331Z" creationid="Olivier" creationdate="20200429T101331Z">
         <seg>[3128]Obtenez une position dominante sur le marché des systèmes d'exploitation mobiles et gagnez une part de marché significative dans le secteur de l'internet|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3129]"Achieve market dominance in Computer Operating System and gain a significant market share in the Internet sector.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T101953Z" creationid="Olivier" creationdate="20200429T101953Z">
+        <seg>[3129]"Obtenez une position dominante sur le marché des systèmes d'exploitation informatiques et gagner une part de marché importante dans le secteur de l'internet.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3130]&lt;MDOM&gt;Achieve market dominance in|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T102606Z" creationid="Olivier" creationdate="20200429T102606Z">
+        <seg>[3130]&lt;MDOM&gt;Obtenir une position dominante sur le marché en|</seg>
       </tuv>
     </tu>
     <tu>
