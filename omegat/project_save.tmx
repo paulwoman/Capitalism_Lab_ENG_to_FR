@@ -3632,8 +3632,8 @@
       <tuv lang="en-US">
         <seg>Corporate Summary Report (hotkey: 'C')</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T123356Z" creationid="Olivier" creationdate="20200428T123356Z">
-        <seg>Rapport de synthèse de l'entreprise (touche de raccourci : "C" / Corporate) </seg>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200429T085120Z" creationid="Olivier" creationdate="20200428T123356Z">
+        <seg>Rapport de synthèse de l'entreprise (touche de raccourci : 'C' / Corporate) </seg>
       </tuv>
     </tu>
     <tu>
@@ -4720,8 +4720,8 @@
       <tuv lang="en-US">
         <seg>Firm Summary Report (hotkey: 'F')</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144042Z" creationid="Olivier" creationdate="20200428T144042Z">
-        <seg>Rapport de synthèse de l'entreprise (touche de raccourci : "F" / Firm)</seg>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200429T085126Z" creationid="Olivier" creationdate="20200428T144042Z">
+        <seg>Rapport de synthèse de l'entreprise (touche de raccourci : 'F' / Firm)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10627,8 +10627,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Product Summary Report (hotkey: 'P')</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T123320Z" creationid="Olivier" creationdate="20200428T123320Z">
-        <seg>Rapport de synthèse sur le produit (touche de raccourci : "P" / Product)</seg>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200429T085042Z" creationid="Olivier" creationdate="20200428T123320Z">
+        <seg>Rapport de synthèse sur le produit (touche de raccourci : 'P' / Product)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12685,6 +12685,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T160112Z" creationid="Olivier" creationdate="20200428T144948Z">
         <seg>Le paramètre par défaut de #Vente interne# est #Activé#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The default setting of #Internal Sale# is #Enabled#.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200429T085239Z" creationid="Inrepublica" creationdate="20200429T085239Z">
+        <seg>Le réglage par défaut de #Vente interne# est #Activé#.</seg>
       </tuv>
     </tu>
     <tu>
