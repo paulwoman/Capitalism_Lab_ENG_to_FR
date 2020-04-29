@@ -3934,6 +3934,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Controlled Companies Annual Revenue=2000</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T222542Z" creationid="Olivier" creationdate="20200429T222542Z">
+        <seg>Controlled Companies Annual Revenue=2000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Controlled Companies Annual Revenue=250</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102357Z" creationid="Olivier" creationdate="20200428T102357Z">
@@ -6360,6 +6368,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Achieved Text=Great Job!</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T222352Z" creationid="Olivier" creationdate="20200429T222352Z">
+        <seg>Goal Achieved Text=Bon travail !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Achieved Text=Magnificent!</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T222517Z" creationid="Olivier" creationdate="20200429T222517Z">
+        <seg>Goal Achieved Text=Magnifique !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Achieved Text=Outstanding!</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T221752Z" creationid="Olivier" creationdate="20200429T221752Z">
@@ -6601,6 +6625,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=This is your final goal.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T222643Z" creationid="Olivier" creationdate="20200429T222643Z">
+        <seg>Goal Description=C'est votre objectif final.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=This is your first subgoal.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102344Z" creationid="Olivier" creationdate="20200428T102344Z">
@@ -6737,6 +6769,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=Your goal is to achieve dominance in the markets of electronic products and communication devices.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T222342Z" creationid="Olivier" creationdate="20200429T222342Z">
+        <seg>Goal Description=Votre objectif est d'obtenir une position dominante sur les marchés des produits électroniques et des dispositifs de communication.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=Your goal is to become the biggest company in terms of manufacturing revenue and generates an annual operating profit of at least $100 million.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T221128Z" creationid="Olivier" creationdate="20200429T221128Z">
@@ -6749,6 +6789,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T221719Z" creationid="Olivier" creationdate="20200429T221719Z">
         <seg>Votre objectif est de devenir le plus grand producteur d'ordinateurs et de maintenir une avance significative sur vos concurrents en matière de technologie de production informatique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=Your goal is to further grow your business to achieve an annual revenue of $2 billion!</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T222508Z" creationid="Olivier" creationdate="20200429T222508Z">
+        <seg>Goal Description=Votre objectif est de continuer à développer votre entreprise pour atteindre un chiffre d'affaires annuel de 2 milliards de dollars !</seg>
       </tuv>
     </tu>
     <tu>
@@ -6857,6 +6905,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Title=Entering New Markets</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T222319Z" creationid="Olivier" creationdate="20200429T222319Z">
+        <seg>Goal Title=Pénétrer de nouveaux marchés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Title=Expand to London</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220628Z" creationid="Olivier" creationdate="20200429T220628Z">
@@ -6909,6 +6965,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214913Z" creationid="Olivier" creationdate="20200429T214902Z">
         <seg>Goal Title=La suprématie de la nourriture et des boissons</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Gadget Tycoon</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T222627Z" creationid="Olivier" creationdate="20200429T222627Z">
+        <seg>Goal Title=Magnat du gadget</seg>
       </tuv>
     </tu>
     <tu>
@@ -6989,6 +7053,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220050Z" creationid="Olivier" creationdate="20200429T220050Z">
         <seg>Goal Title=L'investisseur légendaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Lofty Revenue Target</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T222454Z" creationid="Olivier" creationdate="20200429T222454Z">
+        <seg>Goal Title=Objectif de recettes substantielles</seg>
       </tuv>
     </tu>
     <tu>
@@ -8205,6 +8277,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T134346Z" creationid="Olivier" creationdate="20200427T134346Z">
         <seg>À l'intérieur de votre siège social, vous verrez la grille d'aménagement habituelle en 3x3.^^Il y a des unités fonctionnelles spécifiques au QG.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Instant Invention=Camera Phone</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T222304Z" creationid="Olivier" creationdate="20200429T222304Z">
+        <seg>Instant Invention=Camera Phone</seg>
       </tuv>
     </tu>
     <tu>
@@ -10673,6 +10753,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Parent Goal=Entering New Markets</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T222538Z" creationid="Olivier" creationdate="20200429T222538Z">
+        <seg>Parent Goal=Entering New Markets</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Parent Goal=Expand to London</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220734Z" creationid="Olivier" creationdate="20200429T220734Z">
@@ -10765,6 +10853,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T221936Z" creationid="Olivier" creationdate="20200429T221936Z">
         <seg>Parent Goal=Tech Leadership</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Parent Goal=Toy Dominance</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T222406Z" creationid="Olivier" creationdate="20200429T222406Z">
+        <seg>Parent Goal=Toy Dominance</seg>
       </tuv>
     </tu>
     <tu>
@@ -11237,6 +11333,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102137Z" creationid="Olivier" creationdate="20200428T102137Z">
         <seg>Player Wealth=50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player expertise change=research and development, 20</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T222259Z" creationid="Olivier" creationdate="20200429T222259Z">
+        <seg>Player expertise change=research and development, 20</seg>
       </tuv>
     </tu>
     <tu>
@@ -13789,6 +13893,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164931Z" creationid="Inrepublica" creationdate="20200422T164931Z">
         <seg>Système des talents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tech Change=Television, 50</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T222302Z" creationid="Olivier" creationdate="20200429T222302Z">
+        <seg>Tech Change=Television, 50</seg>
       </tuv>
     </tu>
     <tu>
@@ -16386,6 +16498,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To win the game, you have to own at least 80% of your corporation's stock while keeping all the previous goals achieved.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T222705Z" creationid="Olivier" creationdate="20200429T222705Z">
+        <seg>Pour gagner la partie, vous devez posséder au moins 80 % des actions de votre société tout en gardant tous les objectifs précédents atteints.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To win this game, your company must make at least ~20 types of products~ to demonstrate its ability to produce a wide range of products.^^At the same time you must achieve ~an annual revenue of $100 million~ and ~an annual profit of $10 million~.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T215243Z" creationid="Olivier" creationdate="20200425T215243Z">
@@ -16446,6 +16566,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155556Z" creationid="Inrepublica" creationdate="20200425T155556Z">
         <seg>Tous les produits (F1)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Toy</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T222255Z" creationid="Olivier" creationdate="20200429T222255Z">
+        <seg>Toy</seg>
       </tuv>
     </tu>
     <tu>
@@ -17698,6 +17826,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You have proven your abilities in entering new markets and beating the competition to become new market leaders.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T222405Z" creationid="Olivier" creationdate="20200429T222405Z">
+        <seg>Vous avez prouvé vos capacités à pénétrer de nouveaux marchés et à battre la concurrence pour devenir de nouveaux leaders du marché.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You have proven yourself to be a CEO that cares about the return-on-equity bottomline.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T221530Z" creationid="Olivier" creationdate="20200429T221530Z">
@@ -18283,10 +18419,26 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Your corporation has successfully surpassed $2 billion in annual sales.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T222528Z" creationid="Olivier" creationdate="20200429T222528Z">
+        <seg>Votre entreprise a réussi à dépasser les 2 milliards de dollars de chiffre d'affaires annuel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Your corporation have achieved dominance in retail and farming.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T213819Z" creationid="Olivier" creationdate="20200429T213819Z">
         <seg>Votre société a atteint une position dominante dans le commerce de détail et l'agriculture.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your corporation have achieved dominance in the toy industry.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T222231Z" creationid="Olivier" creationdate="20200429T222231Z">
+        <seg>Votre société a atteint une position dominante dans l'industrie du jouet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18367,6 +18519,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T221808Z" creationid="Olivier" creationdate="20200429T221808Z">
         <seg>Vos investisseurs ont décidé d'investir 50 millions de dollars supplémentaires dans votre ordinateur pour l'étendre aux appareils de communication personnels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your next move is to expand into new markets, setting your sights on electronic and communication products.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T222253Z" creationid="Olivier" creationdate="20200429T222253Z">
+        <seg>Votre prochaine étape consiste à vous développer sur de nouveaux marchés, en vous orientant vers les produits électroniques et de communication.</seg>
       </tuv>
     </tu>
     <tu>
