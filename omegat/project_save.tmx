@@ -5856,6 +5856,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Achieved Text=Well done!</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T162615Z" creationid="Olivier" creationdate="20200429T162615Z">
+        <seg>Goal Achieved Text=Très bien !!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Available Date=1990-02-02</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102347Z" creationid="Olivier" creationdate="20200428T102347Z">
@@ -5953,6 +5961,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=There are tremendous expectations from the shareholders and your staff for the company to grow rapidly under your leadership.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T162544Z" creationid="Olivier" creationdate="20200429T162544Z">
+        <seg>Goal Description=Les actionnaires et votre personnel attendent énormément de la société qu'elle se développe rapidement sous votre direction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=This is your first subgoal.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102344Z" creationid="Olivier" creationdate="20200428T102344Z">
@@ -6017,6 +6033,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=Your ultimate goal in this game is to achieve a corporate revenue of $1 billion and an annual profit of $100 million, and let the financial performance of your company boost the company stock price to over $500.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T162504Z" creationid="Olivier" creationdate="20200429T162504Z">
+        <seg>Le but ultime de cette partie est d'atteindre un chiffre d'affaires d'un milliard de dollars et un bénéfice annuel de 100 millions de dollars, et de laisser les performances financières de votre entreprise faire grimper le cours de l'action de la société à plus de 500 dollars.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Report (hotkey: G)</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T123121Z" creationid="Olivier" creationdate="20200428T123121Z">
@@ -6065,6 +6089,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Title=Growth Expectation 1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T162528Z" creationid="Olivier" creationdate="20200429T162528Z">
+        <seg>Goal Title=Attente de croissance 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Title=Main Goal</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102027Z" creationid="Olivier" creationdate="20200428T102027Z">
@@ -6093,6 +6125,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T124711Z" creationid="Olivier" creationdate="20200427T124711Z">
         <seg>Goal Title=Objectif du tutoriel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Ultimate Goal</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T162426Z" creationid="Olivier" creationdate="20200429T162426Z">
+        <seg>Goal Title=Objectif ultime</seg>
       </tuv>
     </tu>
     <tu>
@@ -8969,6 +9009,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Number of Game Years=80</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T162507Z" creationid="Olivier" creationdate="20200429T162507Z">
+        <seg>Number of Game Years=80</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number of Product Classes Being Produced=2</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102411Z" creationid="Olivier" creationdate="20200428T102411Z">
@@ -10897,6 +10945,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Prove your ability and do not disappoint them!</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T162602Z" creationid="Olivier" creationdate="20200429T162602Z">
+        <seg>Faites vos preuves et ne les décevez pas !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Public Expenses Index</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161340Z" creationid="Inrepublica" creationdate="20200422T161340Z">
@@ -11909,6 +11965,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102409Z" creationid="Olivier" creationdate="20200428T102409Z">
         <seg>Stock Price=150</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stock Price=500</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T162509Z" creationid="Olivier" creationdate="20200429T162509Z">
+        <seg>Stock Price=500</seg>
       </tuv>
     </tu>
     <tu>
@@ -14742,6 +14806,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100244Z" creationid="Olivier" creationdate="20200429T100244Z">
         <seg>Tutorial=TUT08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Under your leadership, the company continues to grow.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164232Z" creationid="Olivier" creationdate="20200429T164232Z">
+        <seg>Sous votre direction, l'entreprise continue de se développer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19783,6 +19855,70 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T162030Z" creationid="Olivier" creationdate="20200429T162030Z">
         <seg>[0950]&lt;0158&gt;Position dominante seulement|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0951]&lt;0159&gt;Description|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T162040Z" creationid="Olivier" creationdate="20200429T162040Z">
+        <seg>[0951]&lt;0159&gt;Description|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0952]&lt;0160&gt;Value|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T162048Z" creationid="Olivier" creationdate="20200429T162048Z">
+        <seg>[0952]&lt;0160&gt;Valeurs|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0953]&lt;0161&gt;Rank|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T162056Z" creationid="Olivier" creationdate="20200429T162056Z">
+        <seg>[0953]&lt;0161&gt;Classements|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0954]&lt;0162&gt;Leader|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T162326Z" creationid="Olivier" creationdate="20200429T162326Z">
+        <seg>[0954]&lt;0162&gt;Leader|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1007]&lt;0164&gt;Description|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T162259Z" creationid="Olivier" creationdate="20200429T162259Z">
+        <seg>[1007]&lt;0164&gt;Description|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1013]&lt;0170&gt;Operating Profit|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T162335Z" creationid="Olivier" creationdate="20200429T162335Z">
+        <seg>[1013]&lt;0170&gt;Bénéfice d'exploitation|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1015]&lt;0172&gt;Net Profit|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T162345Z" creationid="Olivier" creationdate="20200429T162345Z">
+        <seg>[1015]&lt;0172&gt;Bénéfice net|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1016]&lt;0173&gt;Shareholders|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T162408Z" creationid="Olivier" creationdate="20200429T162408Z">
+        <seg>[1016]&lt;0173&gt;Actionnaires|</seg>
       </tuv>
     </tu>
     <tu>
