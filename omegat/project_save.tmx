@@ -1758,6 +1758,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>And you intend to keep your operations lean as this strategy produces the best results when your business can maneuver swiftly.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220932Z" creationid="Olivier" creationdate="20200429T220932Z">
+        <seg>Et vous avez l'intention de maintenir vos opérations au plus bas, car cette stratégie produit les meilleurs résultats lorsque votre entreprise peut manœuvrer rapidement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Annuler|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T115455Z" creationid="Olivier" creationdate="20200429T115455Z">
@@ -2926,6 +2934,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>City=Albany</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220935Z" creationid="Olivier" creationdate="20200429T220935Z">
+        <seg>City=Albany</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>City=Athens</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171332Z" creationid="Olivier" creationdate="20200427T171332Z">
@@ -2950,6 +2966,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>City=Brisbane</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220348Z" creationid="Olivier" creationdate="20200429T220348Z">
+        <seg>City=Brisbane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>City=Chengdu</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100439Z" creationid="Olivier" creationdate="20200429T100439Z">
@@ -2966,10 +2990,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>City=Cleveland</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220946Z" creationid="Olivier" creationdate="20200429T220946Z">
+        <seg>City=Cleveland</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>City=Dallas</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151520Z" creationid="Inrepublica" creationdate="20200423T151520Z">
         <seg>City=Dallas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City=Denver</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220938Z" creationid="Olivier" creationdate="20200429T220938Z">
+        <seg>City=Denver</seg>
       </tuv>
     </tu>
     <tu>
@@ -3078,6 +3118,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>City=Portland</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220942Z" creationid="Olivier" creationdate="20200429T220942Z">
+        <seg>City=Portland</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>City=San Diego</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T145212Z" creationid="Olivier" creationdate="20200426T145212Z">
@@ -3110,6 +3158,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>City=Singapore</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220350Z" creationid="Olivier" creationdate="20200429T220350Z">
+        <seg>City=Singapore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City=Sydney</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220345Z" creationid="Olivier" creationdate="20200429T220345Z">
+        <seg>City=Sydney</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City=Tokyo</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220354Z" creationid="Olivier" creationdate="20200429T220354Z">
+        <seg>City=Tokyo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>City=Toronto</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T145216Z" creationid="Olivier" creationdate="20200426T145216Z">
@@ -3138,6 +3210,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171325Z" creationid="Olivier" creationdate="20200427T171325Z">
         <seg>City=Washington DC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City=Winnipeg</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220951Z" creationid="Olivier" creationdate="20200429T220951Z">
+        <seg>City=Winnipeg</seg>
       </tuv>
     </tu>
     <tu>
@@ -3522,6 +3602,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171346Z" creationid="Olivier" creationdate="20200427T171346Z">
         <seg>Competence of Local Competitors=High</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Competence of Local Competitors=Low</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220959Z" creationid="Olivier" creationdate="20200429T220959Z">
+        <seg>Competence of Local Competitors=Low</seg>
       </tuv>
     </tu>
     <tu>
@@ -4126,6 +4214,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=A recent open source movement has led to a marked decrease in technology acquisition costs - they are now only about half of the original costs.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220817Z" creationid="Olivier" creationdate="20200429T220817Z">
+        <seg>Description=Un récent mouvement en faveur de l'open source a entraîné une nette diminution des coûts d'acquisition des technologies - ils ne représentent plus qu'environ la moitié des coûts initiaux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=As part of your effort to grow your company into a major conglomerate, you are going to expand your business into the agricultural sector and set up your own farms to supply livestock and crop products to your retail stores.^^Agricultural products play key roles in productions of a large number of products.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T210247Z" creationid="Olivier" creationdate="20200423T210247Z">
@@ -4326,6 +4422,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=You are the CEO of a corporation which has recently raised hundreds of millions of funds from investors.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T221215Z" creationid="Olivier" creationdate="20200429T221215Z">
+        <seg>Description=Vous êtes le PDG d'une société qui a récemment levé des centaines de millions de fonds auprès d'investisseurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=You came from a family farm business with strong expertise in farming.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T173311Z" creationid="Olivier" creationdate="20200429T173311Z">
@@ -4390,6 +4494,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=You run a family-owned business in Australia with a strong focus on local markets and is extremely conservative in expanding overseas.^^But you are more ambitious and you always set your sights on expanding globally.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220326Z" creationid="Olivier" creationdate="20200429T220326Z">
+        <seg>Description=Vous dirigez une entreprise familiale en Australie qui se concentre sur les marchés locaux et est extrêmement prudente dans son expansion à l'étranger.^^ Mais vous êtes plus ambitieux et vous visez toujours une expansion mondiale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Detailed Help Information</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T170155Z" creationid="Olivier" creationdate="20200428T170155Z">
@@ -4450,6 +4562,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164755Z" creationid="Olivier" creationdate="20200429T164755Z">
         <seg>Difficulty Rating=120</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Difficulty Rating=130</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220341Z" creationid="Olivier" creationdate="20200429T220341Z">
+        <seg>Difficulty Rating=130</seg>
       </tuv>
     </tu>
     <tu>
@@ -6369,10 +6489,34 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=Prove your ability in executing your strategy successfully by creating a diversified product portfolio and growing your company's net worth to $500 million.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T221032Z" creationid="Olivier" creationdate="20200429T221032Z">
+        <seg>Goal Description=Prouvez votre capacité à exécuter avec succès votre stratégie en créant un portefeuille de produits diversifié et en portant la valeur nette de votre entreprise à 500 millions de dollars.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=Prove your ability in running a successful business and earn the support of your family for expanding overseas.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220446Z" creationid="Olivier" creationdate="20200429T220446Z">
+        <seg>Goal Description=Prouvez votre capacité à gérer une entreprise prospère et gagnez le soutien de votre famille pour vous développer à l'étranger.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=Seize the opportunities that emerge during China's opening-up and grow your company to become a dominating force in the market.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100520Z" creationid="Olivier" creationdate="20200429T100520Z">
         <seg>Goal Description=Saisissez les opportunités qui se présentent lors de l'ouverture de la Chine et développez votre entreprise pour devenir une force dominante sur le marché.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=Surpass your family's expectation and gain their support to take the business to the next level by expanding to London.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220645Z" creationid="Olivier" creationdate="20200429T220645Z">
+        <seg>Goal Description=Dépassez les attentes de votre famille et obtenez leur soutien pour faire passer l'entreprise au niveau supérieur en vous installant à Londres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6421,6 +6565,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102043Z" creationid="Olivier" creationdate="20200428T102043Z">
         <seg>Goal Description=C'est votre objectif principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=To continue to expand the business to other markets, you must impresss your family with even better performance.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220542Z" creationid="Olivier" creationdate="20200429T220542Z">
+        <seg>Goal Description=Pour continuer à développer l'entreprise sur d'autres marchés, vous devez impressionner votre famille avec des performances encore meilleures.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6521,10 +6673,34 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=Your goal is to become the biggest company in terms of manufacturing revenue and generates an annual operating profit of at least $100 million.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T221128Z" creationid="Olivier" creationdate="20200429T221128Z">
+        <seg>Goal Description=Votre objectif est de devenir la plus grande entreprise en termes de revenus de fabrication et de générer un bénéfice d'exploitation annuel d'au moins 100 millions de dollars.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=Your goal is to grow company to become the largest media conglomerate in the world.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220248Z" creationid="Olivier" creationdate="20200429T220248Z">
+        <seg>Goal Description=Votre objectif est de faire croître l'entreprise pour devenir le plus grand conglomérat de médias au monde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=Your goal is to grow your company to a large corporation with ~1000 or more employees~, and achieve ~an annual revenue of $1 billion~ and ~an annual profit of $100 million~.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T210851Z" creationid="Olivier" creationdate="20200423T210851Z">
         <seg>Goal Description=Votre objectif est de faire de votre entreprise une grande société avec ~1000 employés ou plus~, et d'atteindre ~un chiffre d'affaires annuel d'un milliard de dollars~ et ~un bénéfice annuel de 100 millions de dollars~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=Your goal is to transform your family business into a true multinational conglomerate with a market capitalization of $2 billion.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220732Z" creationid="Olivier" creationdate="20200429T220732Z">
+        <seg>Goal Description=Votre objectif est de transformer votre entreprise familiale en un véritable conglomérat multinational avec une capitalisation boursière de 2 milliards de dollars.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6581,6 +6757,38 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T165024Z" creationid="Olivier" creationdate="20200429T165024Z">
         <seg>Goal Title=Le géant de l'électronique grand public</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Develop a Product Portfolio</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T221015Z" creationid="Olivier" creationdate="20200429T221015Z">
+        <seg>Goal Title=Développer un portefeuille de produits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Expand to London</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220628Z" creationid="Olivier" creationdate="20200429T220628Z">
+        <seg>Goal Title=S'établir à Londres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Expand to Singapore</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220428Z" creationid="Olivier" creationdate="20200429T220428Z">
+        <seg>Goal Title=Se développer à Singapour</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Expand to Tokyo</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220524Z" creationid="Olivier" creationdate="20200429T220524Z">
+        <seg>Goal Title=Se développer à Tokyo</seg>
       </tuv>
     </tu>
     <tu>
@@ -6741,6 +6949,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100505Z" creationid="Olivier" creationdate="20200429T100505Z">
         <seg>Goal Title=Saisir les opportunités</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Success in Small Cities</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T221106Z" creationid="Olivier" creationdate="20200429T221106Z">
+        <seg>Goal Title=Du succès dans des petites villes</seg>
       </tuv>
     </tu>
     <tu>
@@ -8401,6 +8617,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Locked=yes</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220352Z" creationid="Olivier" creationdate="20200429T220352Z">
+        <seg>Locked=yes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Look at the ~Who section~.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T210018Z" creationid="Acer" creationdate="20200424T210018Z">
@@ -9569,6 +9793,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Number of Cities=6</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220343Z" creationid="Olivier" creationdate="20200429T220343Z">
+        <seg>Number of Cities=6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of Competitors=10</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220956Z" creationid="Olivier" creationdate="20200429T220956Z">
+        <seg>Number of Competitors=10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number of Competitors=20</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T215713Z" creationid="Olivier" creationdate="20200428T215713Z">
@@ -10289,6 +10529,38 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Parent Goal=Develop a Product Portfolio</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T221141Z" creationid="Olivier" creationdate="20200429T221141Z">
+        <seg>Parent Goal=Develop a Product Portfolio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Parent Goal=Expand to London</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220734Z" creationid="Olivier" creationdate="20200429T220734Z">
+        <seg>Parent Goal=Expand to London</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Parent Goal=Expand to Singapore</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220557Z" creationid="Olivier" creationdate="20200429T220557Z">
+        <seg>Parent Goal=Expand to Singapore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Parent Goal=Expand to Tokyo</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220700Z" creationid="Olivier" creationdate="20200429T220700Z">
+        <seg>Parent Goal=Expand to Tokyo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Parent Goal=Farming and Retail Dominance</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214018Z" creationid="Olivier" creationdate="20200429T214018Z">
@@ -10537,6 +10809,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Player Company Annual Profit=300</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220249Z" creationid="Olivier" creationdate="20200429T220249Z">
+        <seg>Player Company Annual Profit=300</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Player Company Annual Profit=40</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164552Z" creationid="Olivier" creationdate="20200429T164552Z">
@@ -10665,10 +10945,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Player Company Annual Revenue=900</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220703Z" creationid="Olivier" creationdate="20200429T220703Z">
+        <seg>Player Company Annual Revenue=900</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Player Company Market Cap=120</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102145Z" creationid="Olivier" creationdate="20200428T102145Z">
         <seg>Player Company Market Cap=120</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player Company Market Cap=2000</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220739Z" creationid="Olivier" creationdate="20200429T220739Z">
+        <seg>Player Company Market Cap=2000</seg>
       </tuv>
     </tu>
     <tu>
@@ -10717,6 +11013,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102355Z" creationid="Olivier" creationdate="20200428T102355Z">
         <seg>Player Company Net Worth=50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player Company Net Worth=500</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T221050Z" creationid="Olivier" creationdate="20200429T221050Z">
+        <seg>Player Company Net Worth=500</seg>
       </tuv>
     </tu>
     <tu>
@@ -11705,6 +12009,46 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Population=535000</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220936Z" creationid="Olivier" creationdate="20200429T220936Z">
+        <seg>Population=535000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Population=656000</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220939Z" creationid="Olivier" creationdate="20200429T220939Z">
+        <seg>Population=656000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Population=732000</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220949Z" creationid="Olivier" creationdate="20200429T220949Z">
+        <seg>Population=732000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Population=806000</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220944Z" creationid="Olivier" creationdate="20200429T220944Z">
+        <seg>Population=806000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Population=961000</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220953Z" creationid="Olivier" creationdate="20200429T220953Z">
+        <seg>Population=961000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Portrait Gender</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T205604Z" creationid="Inrepublica" creationdate="20200422T165347Z">
@@ -12489,6 +12833,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Score change=120</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220600Z" creationid="Olivier" creationdate="20200429T220600Z">
+        <seg>Score change=120</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Score change=150</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T142342Z" creationid="Olivier" creationdate="20200425T142342Z">
@@ -12837,6 +13189,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T140912Z" creationid="Olivier" creationdate="20200426T140912Z">
         <seg>N'hésitez donc pas à régler le curseur de formation au maximum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So this time, you have devised a new strategy and identified four small cities to focus on.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220921Z" creationid="Olivier" creationdate="20200429T220921Z">
+        <seg>Cette fois, vous avez donc conçu une nouvelle stratégie et identifié quatre petites villes sur lesquelles se concentrer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14962,6 +15322,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This allows you to boost up your company's technical know-how cost-effectively and it is great timing for launching your new company.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220854Z" creationid="Olivier" creationdate="20200429T220854Z">
+        <seg>Cela vous permet de renforcer le savoir-faire technique de votre entreprise de manière rentable et c'est le moment idéal pour lancer votre nouvelle entreprise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This area shows the stock of the product in the unit.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T160138Z" creationid="Olivier" creationdate="20200426T160138Z">
@@ -15626,6 +15994,30 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title=Multinational Corporation</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220309Z" creationid="Olivier" creationdate="20200429T220309Z">
+        <seg>Title=Multinationale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Opportunities in Small Cities</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220754Z" creationid="Olivier" creationdate="20200429T220754Z">
+        <seg>Title=Opportunités dans les petites villes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Real Estate Mogul</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T221202Z" creationid="Olivier" creationdate="20200429T221202Z">
+        <seg>Title=Le magnat de l'immobilier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Title=Sample script - Special Rules</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T101804Z" creationid="Olivier" creationdate="20200428T101804Z">
@@ -16238,6 +16630,30 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100624Z" creationid="Olivier" creationdate="20200429T100624Z">
         <seg>Unlock Firm=Oil Well</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unlock city=London</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220705Z" creationid="Olivier" creationdate="20200429T220705Z">
+        <seg>Unlock city=London</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unlock city=Singapore</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220500Z" creationid="Olivier" creationdate="20200429T220500Z">
+        <seg>Unlock city=Singapore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unlock city=Tokyo</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220603Z" creationid="Olivier" creationdate="20200429T220603Z">
+        <seg>Unlock city=Tokyo</seg>
       </tuv>
     </tu>
     <tu>
@@ -16898,6 +17314,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You have achieved the milestones and taken your business to new heights.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T221048Z" creationid="Olivier" creationdate="20200429T221048Z">
+        <seg>Vous avez franchi des étapes importantes et porté votre entreprise vers de nouveaux sommets.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You have been assigned to run this department store.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T122547Z" creationid="Inrepublica" creationdate="20200423T122451Z">
@@ -16966,6 +17390,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T141148Z" creationid="Olivier" creationdate="20200426T141148Z">
         <seg>Vous avez fait un excellent travail en établissant une base solide pour que votre entreprise puisse se développer avec des installations de R&amp;D solides et vous vous êtes familiarisé avec l'interface de formation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have earned the trust of your family and you now have their blessing to expand the family business overseas to Singapore.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220458Z" creationid="Olivier" creationdate="20200429T220458Z">
+        <seg>Vous avez gagné la confiance de votre famille et vous avez maintenant leur bénédiction pour étendre l'entreprise familiale à l'étranger, à Singapour.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17307,10 +17739,26 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You now have the support of your family to further expand the business overseas to Tokyo.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220555Z" creationid="Olivier" creationdate="20200429T220555Z">
+        <seg>Vous avez maintenant le soutien de votre famille pour poursuivre l'expansion de votre entreprise à l'étranger, à Tokyo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You now have to set up products in your new department store.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T211815Z" creationid="Olivier" creationdate="20200422T211815Z">
         <seg>Vous devez maintenant installer les produits dans votre nouveau grand magasin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You now have your family's blessing to expand the business overseas to London.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220658Z" creationid="Olivier" creationdate="20200429T220658Z">
+        <seg>Vous avez maintenant la bénédiction de votre famille pour étendre l'activité à l'étranger, à Londres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22941,6 +23389,14 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>^^Having experienced the fierce competition in first-tier cities, you have come to the realization that small cities actually offer better market opportunities.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220906Z" creationid="Olivier" creationdate="20200429T220906Z">
+        <seg>^^Après avoir fait l'expérience de la concurrence féroce des villes de premier rang, vous vous êtes rendu compte que les petites villes offrent en fait de meilleures opportunités de marché.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>^^In this scenario game, your will just attempt to realize this dream.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220003Z" creationid="Olivier" creationdate="20200429T220003Z">
@@ -22977,6 +23433,14 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T145635Z" creationid="Olivier" creationdate="20200426T145635Z">
         <seg>^^Ce scénario utilise une règle spéciale selon laquelle les coûts de recrutement du personnel de gestion ne représentent que 20 % des taux habituels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^^To persuade your family to support your plan of transforming the family business into a multinational corporation, you must first prove to them your ability to run a business of a larger scale with great profitability.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220339Z" creationid="Olivier" creationdate="20200429T220339Z">
+        <seg>^^Pour persuader votre famille de soutenir votre plan de transformation de l'entreprise familiale en société multinationale, vous devez d'abord leur prouver votre capacité à gérer une entreprise de plus grande envergure avec une grande rentabilité.</seg>
       </tuv>
     </tu>
     <tu>
