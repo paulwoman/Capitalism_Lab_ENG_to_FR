@@ -18787,10 +18787,210 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0788]&lt;0008&gt; Employees|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T142310Z" creationid="Olivier" creationdate="20200429T142310Z">
+        <seg>[0788]&lt;0008&gt; Employés|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0789]&lt;0009&gt; Employee|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T142416Z" creationid="Olivier" creationdate="20200429T142334Z">
+        <seg>[0789]&lt;0009&gt; Employé|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0790]&lt;0010&gt;out of a total of|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T142503Z" creationid="Olivier" creationdate="20200429T142503Z">
+        <seg>[0790]&lt;0010&gt;sur un total de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0791]&lt;0011&gt;have gained improvements|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T142513Z" creationid="Olivier" creationdate="20200429T142513Z">
+        <seg>[0791]&lt;0011&gt;ont obtenu des améliorations|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0792]&lt;0012&gt;has gained improvements|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T142536Z" creationid="Olivier" creationdate="20200429T142536Z">
+        <seg>[0792]&lt;0012&gt;a obtenu des améliorations|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0793]&lt;0013&gt;in their skills and productivity.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T142603Z" creationid="Olivier" creationdate="20200429T142603Z">
+        <seg>[0793]&lt;0013&gt;dans leurs compétences et leur productivité.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0794]&lt;0014&gt;in his skills and productivity.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T142621Z" creationid="Olivier" creationdate="20200429T142621Z">
+        <seg>[0794]&lt;0014&gt;dans ses compétences et sa productivité.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0795]&lt;0015&gt;PUBLIC RELATIONS DEPARTMENT|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T142715Z" creationid="Olivier" creationdate="20200429T142715Z">
+        <seg>[0795]&lt;0015&gt;SERVICE DES RELATIONS PUBLIQUES|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0796]&lt;0016&gt;Monthly spending on public relations efforts per active city|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T142732Z" creationid="Olivier" creationdate="20200429T142732Z">
+        <seg>[0796]&lt;0016&gt;Dépenses mensuelles consacrées aux efforts de relations publiques par ville active|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0798]&lt;0018&gt;If your company is using 'Corporate Brand' strategy,|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T142806Z" creationid="Olivier" creationdate="20200429T142754Z">
+        <seg>[0798]&lt;0018&gt;Si votre entreprise utilise une stratégie de 'marque d'entreprise',|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0799]&lt;0019&gt;the brand will benefit from public relations efforts.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T142820Z" creationid="Olivier" creationdate="20200429T142820Z">
+        <seg>[0799]&lt;0019&gt;la marque bénéficiera des efforts de relations publiques.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0801]&lt;0021&gt;Corporate Brand|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T120653Z" creationid="Inrepublica" creationdate="20200426T120653Z">
         <seg>[0801]&lt;0021&gt;Marque de société|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0802]&lt;0022&gt;Brand Awareness|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T142838Z" creationid="Olivier" creationdate="20200429T142838Z">
+        <seg>[0802]&lt;0022&gt;Notoriété de la marque|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0803]&lt;0023&gt;Brand Loyalty|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T142846Z" creationid="Olivier" creationdate="20200429T142846Z">
+        <seg>[0803]&lt;0023&gt;Fidélité à la marque|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0806]&lt;0026&gt;INVESTOR RELATIONS DEPARTMENT|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T143004Z" creationid="Olivier" creationdate="20200429T143004Z">
+        <seg>[0806]&lt;0026&gt;SERVICE DES RELATIONS AVEC LES INVESTISSEURS|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0807]&lt;0027&gt;Monthly spending on investor relations efforts|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T143018Z" creationid="Olivier" creationdate="20200429T143018Z">
+        <seg>[0807]&lt;0027&gt;Dépenses mensuelles consacrées aux relations avec les investisseurs|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0809]&lt;0029&gt;corporation's stock performance.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T143033Z" creationid="Olivier" creationdate="20200429T143033Z">
+        <seg>[0809]&lt;0029&gt;performance des actions de la société.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0810]&lt;0030&gt;Detail|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T143038Z" creationid="Olivier" creationdate="20200429T143038Z">
+        <seg>[0810]&lt;0030&gt;Détail|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0811]&lt;0031&gt;Chief Executive Officer's Office|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T143051Z" creationid="Olivier" creationdate="20200429T143051Z">
+        <seg>[0811]&lt;0031&gt;Bureau du Directeur général|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0812]&lt;0032&gt;Chief Executive Officer|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T143100Z" creationid="Olivier" creationdate="20200429T143100Z">
+        <seg>[0812]&lt;0032&gt;Directeur général|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0813]&lt;0033&gt;Years of service|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T143113Z" creationid="Olivier" creationdate="20200429T143113Z">
+        <seg>[0813]&lt;0033&gt;Années de service|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0814]&lt;0034&gt;Retailing|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T143127Z" creationid="Olivier" creationdate="20200429T143127Z">
+        <seg>[0814]&lt;0034&gt;Vente au détail|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0815]&lt;0035&gt;Research and Development|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T143147Z" creationid="Olivier" creationdate="20200429T143147Z">
+        <seg>[0815]&lt;0035&gt;Recherche et Développement|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0816]&lt;0036&gt;Raw Material Production|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T143202Z" creationid="Olivier" creationdate="20200429T143202Z">
+        <seg>[0816]&lt;0036&gt;Production de matières premières|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0817]&lt;0037&gt;Marketing|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T143207Z" creationid="Olivier" creationdate="20200429T143207Z">
+        <seg>[0817]&lt;0037&gt;Marketing|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0818]&lt;0038&gt;Training|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T143223Z" creationid="Olivier" creationdate="20200429T143223Z">
+        <seg>[0818]&lt;0038&gt;Formation|</seg>
       </tuv>
     </tu>
     <tu>
