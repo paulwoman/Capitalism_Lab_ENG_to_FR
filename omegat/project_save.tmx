@@ -6915,8 +6915,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Goal Title=Expand to London</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220628Z" creationid="Olivier" creationdate="20200429T220628Z">
-        <seg>Goal Title=S'établir à Londres</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T230634Z" creationid="Olivier" creationdate="20200429T220628Z">
+        <seg>Goal Title=Se développer à Londres</seg>
       </tuv>
     </tu>
     <tu>
@@ -10697,6 +10697,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ownership=80</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T230221Z" creationid="Olivier" creationdate="20200429T230221Z">
+        <seg>Ownership=80</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>PASSER TUTORIEL||</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155521Z" creationid="Inrepublica" creationdate="20200425T155521Z">
@@ -10771,16 +10779,16 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Parent Goal=Expand to Singapore</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220557Z" creationid="Olivier" creationdate="20200429T220557Z">
-        <seg>Parent Goal=Expand to Singapore</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T230525Z" creationid="Olivier" creationdate="20200429T220557Z">
+        <seg>Parent Goal=Se développer à Singapour</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Parent Goal=Expand to Tokyo</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220700Z" creationid="Olivier" creationdate="20200429T220700Z">
-        <seg>Parent Goal=Expand to Tokyo</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T230650Z" creationid="Olivier" creationdate="20200429T220700Z">
+        <seg>Parent Goal=Se développer à Tokyo</seg>
       </tuv>
     </tu>
     <tu>
@@ -10795,16 +10803,16 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Parent Goal=Food and Beverage Dominance</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T215128Z" creationid="Olivier" creationdate="20200429T215128Z">
-        <seg>Parent Goal=Food and Beverage Dominance</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T230327Z" creationid="Olivier" creationdate="20200429T215128Z">
+        <seg>Parent Goal=La suprématie de la nourriture et des boissons</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Parent Goal=Growing Your Business</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214545Z" creationid="Olivier" creationdate="20200429T214545Z">
-        <seg>Parent Goal=Growing Your Business</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T230216Z" creationid="Olivier" creationdate="20200429T214545Z">
+        <seg>Parent Goal=Développer votre entreprise</seg>
       </tuv>
     </tu>
     <tu>
@@ -10827,8 +10835,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Parent Goal=Launching a New Brand</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214445Z" creationid="Olivier" creationdate="20200429T214445Z">
-        <seg>Parent Goal=Launching a New Brand</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T230147Z" creationid="Olivier" creationdate="20200429T214445Z">
+        <seg>Parent Goal=Lancement d'une nouvelle marque</seg>
       </tuv>
     </tu>
     <tu>
@@ -10851,8 +10859,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Parent Goal=Market Leadership</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214706Z" creationid="Olivier" creationdate="20200429T214706Z">
-        <seg>Parent Goal=Market Leadership</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T230255Z" creationid="Olivier" creationdate="20200429T214706Z">
+        <seg>Parent Goal=Leadership technologique</seg>
       </tuv>
     </tu>
     <tu>
@@ -10867,8 +10875,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Parent Goal=Toy Dominance</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T222406Z" creationid="Olivier" creationdate="20200429T222406Z">
-        <seg>Parent Goal=Toy Dominance</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T230440Z" creationid="Olivier" creationdate="20200429T222406Z">
+        <seg>Parent Goal=Position dominante dans le secteur du jouet</seg>
       </tuv>
     </tu>
     <tu>
