@@ -110,7 +110,7 @@ Il est à préciser que les fichiers proposés actuellement doivent encore être
 | fashion_venture.txt                   |   0 %           |                |                |                |
 | Multinational_Corporation.txt         |   0 %           |                |                |                |
 | media_empire.txt                      |   0 %           |                |                |                |
-| China_opening_up.txt                  |   0 %           |                |                |                |
+| China_opening_up.txt                  |  100 %           |                |                |                |
 | real_estate_mogul.txt                 |   0 %           |                |                |                |
 | toys_and_gadgets.txt                  |   0 %           |                |                |                |
 | tech_leader.txt                       |   0 %           |                |                |                |
