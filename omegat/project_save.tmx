@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(You are limited to production of photography products only until you have achieved this goal.)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164902Z" creationid="Olivier" creationdate="20200429T164902Z">
+        <seg>(Vous êtes limité à la production de produits photographiques uniquement jusqu'à ce que vous ayez atteint cet objectif).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(You may set the limits for software and Internet companies separately using a script.)</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T165308Z" creationid="Inrepublica" creationdate="20200422T164906Z">
@@ -2470,6 +2478,38 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CMO expertise change=marketing, 20</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164400Z" creationid="Olivier" creationdate="20200429T164400Z">
+        <seg>CMO expertise change=marketing, 20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CMO salary modifier=100</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164604Z" creationid="Olivier" creationdate="20200429T164604Z">
+        <seg>CMO salary modifier=100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CMO salary modifier=50</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164418Z" creationid="Olivier" creationdate="20200429T164418Z">
+        <seg>CMO salary modifier=50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CMO salary modifier=75</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164504Z" creationid="Olivier" creationdate="20200429T164504Z">
+        <seg>CMO salary modifier=75</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>COMME_SC</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145929Z" creationid="Inrepublica" creationdate="20200422T145929Z">
@@ -2534,10 +2574,42 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>COO expertise change=manufacturing, 20</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164355Z" creationid="Olivier" creationdate="20200429T164355Z">
+        <seg>COO expertise change=manufacturing, 20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>COO salary modifier=100</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164559Z" creationid="Olivier" creationdate="20200429T164559Z">
+        <seg>COO salary modifier=100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>COO salary modifier=50</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164404Z" creationid="Olivier" creationdate="20200429T164404Z">
+        <seg>COO salary modifier=50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>COO salary modifier=60</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102449Z" creationid="Olivier" creationdate="20200428T102449Z">
         <seg>COO salary modifier=60</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>COO salary modifier=75</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164458Z" creationid="Olivier" creationdate="20200429T164458Z">
+        <seg>COO salary modifier=75</seg>
       </tuv>
     </tu>
     <tu>
@@ -2570,6 +2642,38 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102252Z" creationid="Olivier" creationdate="20200428T102252Z">
         <seg>CTO expertise change=research and development, 16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CTO expertise change=research and development, 20</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164357Z" creationid="Olivier" creationdate="20200429T164357Z">
+        <seg>CTO expertise change=research and development, 20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CTO salary modifier=100</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164601Z" creationid="Olivier" creationdate="20200429T164601Z">
+        <seg>CTO salary modifier=100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CTO salary modifier=50</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164412Z" creationid="Olivier" creationdate="20200429T164412Z">
+        <seg>CTO salary modifier=50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CTO salary modifier=75</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164501Z" creationid="Olivier" creationdate="20200429T164501Z">
+        <seg>CTO salary modifier=75</seg>
       </tuv>
     </tu>
     <tu>
@@ -3774,6 +3878,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Corporate cash change=100</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164957Z" creationid="Olivier" creationdate="20200429T164957Z">
+        <seg>Corporate cash change=100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Corporation Name|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200427T080111Z" creationid="Inrepublica" creationdate="20200427T080111Z">
@@ -4046,6 +4158,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=With over twenty of years of experience in producing world-class photography equipment under your belt, you have earned the trust of a group of investors for funding your startup.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164643Z" creationid="Olivier" creationdate="20200429T164643Z">
+        <seg>Description=Avec plus de vingt ans d'expérience dans la production de matériel photographique de classe mondiale à votre actif, vous avez gagné la confiance d'un groupe d'investisseurs pour le financement de votre start-up.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=With your retail business thriving, your next goal is to manufacture your own products and sell them until your own brand.^^This tutorial will guide you through the process of setting up factories, sourcing raw materials and getting manufacturing facilities running to churn out products for sale.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T172920Z" creationid="Olivier" creationdate="20200423T172920Z">
@@ -4154,6 +4274,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T220310Z" creationid="Olivier" creationdate="20200428T220310Z">
         <seg>Difficulty Rating=110</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Difficulty Rating=120</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164755Z" creationid="Olivier" creationdate="20200429T164755Z">
+        <seg>Difficulty Rating=120</seg>
       </tuv>
     </tu>
     <tu>
@@ -5856,6 +5984,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Achieved Text=Excellent!</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164548Z" creationid="Olivier" creationdate="20200429T164548Z">
+        <seg>Goal Achieved Text=Félicitations !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Achieved Text=Well done!</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T162615Z" creationid="Olivier" creationdate="20200429T162615Z">
@@ -5921,10 +6057,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=Establish your company a producer of high quality camera products and strive to outperform the competition to become the market leader.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164847Z" creationid="Olivier" creationdate="20200429T164847Z">
+        <seg>Goal Description=Faites de votre entreprise un producteur d'appareils photo de haute qualité et efforcez-vous de surpasser la concurrence pour devenir le leader du marché.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=In order to receive permission to invest in the natural resource business, your company's net worth must be at least $150 million and have an annual revenue of $200 million.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100600Z" creationid="Olivier" creationdate="20200429T100600Z">
         <seg>Goal Description=Pour obtenir l'autorisation d'investir dans le secteur des ressources naturelles, votre entreprise doit avoir une valeur nette d'au moins 150 millions de dollars et un chiffre d'affaires annuel de 200 millions de dollars.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=Keep on impressing the shareholders and your staff by delivering the performance results they expect.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164534Z" creationid="Olivier" creationdate="20200429T164534Z">
+        <seg>Goal Description=Continuez à impressionner les actionnaires et votre personnel en leur fournissant les résultats qu'ils attendent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6009,6 +6161,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=You must continue to prove to the shareholders and your staff that you are the right person to lead the company for further growth.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164452Z" creationid="Olivier" creationdate="20200429T164452Z">
+        <seg>Goal Description=Vous devez continuer à prouver aux actionnaires et à votre personnel que vous êtes la bonne personne pour diriger l'entreprise en vue de sa croissance future.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=You win this tutorial game when you dominate the Apparel market while achieving an annual profit of not less than $2 million.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T142317Z" creationid="Olivier" creationdate="20200423T205804Z">
@@ -6037,6 +6197,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T162504Z" creationid="Olivier" creationdate="20200429T162504Z">
         <seg>Le but ultime de cette partie est d'atteindre un chiffre d'affaires d'un milliard de dollars et un bénéfice annuel de 100 millions de dollars, et de laisser les performances financières de votre entreprise faire grimper le cours de l'action de la société à plus de 500 dollars.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Failed Text=Your senior management staff are very disappointed by the mediocre performance of the company and decided to resign and seek better career opportunities elsewhere.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164347Z" creationid="Olivier" creationdate="20200429T164347Z">
+        <seg>Goal Failed Text=Vos cadres supérieurs sont très déçus par les performances médiocres de l'entreprise et ont décidé de démissionner et de chercher de meilleures opportunités de carrière ailleurs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6073,6 +6241,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Title=Consumer Electronics Giant</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T165024Z" creationid="Olivier" creationdate="20200429T165024Z">
+        <seg>Goal Title=Le géant de l'électronique grand public</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Title=First Subgoal</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102317Z" creationid="Olivier" creationdate="20200428T102317Z">
@@ -6097,10 +6273,34 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Title=Growth Expectation 2</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164432Z" creationid="Olivier" creationdate="20200429T164432Z">
+        <seg>Goal Title=Attente de croissance 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Growth Expectation 3</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164520Z" creationid="Olivier" creationdate="20200429T164520Z">
+        <seg>Goal Title=Attente de croissance 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Title=Main Goal</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102027Z" creationid="Olivier" creationdate="20200428T102027Z">
         <seg>Goal Title=Objectif principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Market Leader</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164831Z" creationid="Olivier" creationdate="20200429T164831Z">
+        <seg>Goal Title=Leader du marché</seg>
       </tuv>
     </tu>
     <tu>
@@ -8753,6 +8953,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now you may move on to even bigger goals.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164926Z" creationid="Olivier" creationdate="20200429T164926Z">
+        <seg>Maintenant, vous pouvez passer à des objectifs encore plus importants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now you may use your company's money to buy shares of other publicly listed companies as an investment.^^To do so, simply select a company from the list at the top of the screen, then click on the ~Buy~ button to buy its shares.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T153855Z" creationid="Olivier" creationdate="20200425T153855Z">
@@ -8965,6 +9173,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102348Z" creationid="Olivier" creationdate="20200428T102348Z">
         <seg>Number of Game Years=1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of Game Years=10</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164349Z" creationid="Olivier" creationdate="20200429T164349Z">
+        <seg>Number of Game Years=10</seg>
       </tuv>
     </tu>
     <tu>
@@ -9609,6 +9825,30 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Personal Cash Change=10</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164457Z" creationid="Olivier" creationdate="20200429T164457Z">
+        <seg>Personal Cash Change=10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Personal Cash Change=15</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164556Z" creationid="Olivier" creationdate="20200429T164556Z">
+        <seg>Personal Cash Change=15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Personal Cash Change=5</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164402Z" creationid="Olivier" creationdate="20200429T164402Z">
+        <seg>Personal Cash Change=5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Personal Cash change=1000000</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171104Z" creationid="Olivier" creationdate="20200427T171104Z">
@@ -9645,6 +9885,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200427T075739Z" creationid="Inrepublica" creationdate="20200427T075739Z">
         <seg>Perso|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Photography Products</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164955Z" creationid="Olivier" creationdate="20200429T164955Z">
+        <seg>Produits de la photographie</seg>
       </tuv>
     </tu>
     <tu>
@@ -9705,6 +9953,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Player Company Annual Profit=40</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164552Z" creationid="Olivier" creationdate="20200429T164552Z">
+        <seg>Player Company Annual Profit=40</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Player Company Annual Profit=5</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151529Z" creationid="Inrepublica" creationdate="20200423T151529Z">
@@ -9757,6 +10013,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100525Z" creationid="Olivier" creationdate="20200429T100525Z">
         <seg>Player Company Annual Revenue=300</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player Company Annual Revenue=400</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164549Z" creationid="Olivier" creationdate="20200429T164549Z">
+        <seg>Player Company Annual Revenue=400</seg>
       </tuv>
     </tu>
     <tu>
@@ -10905,6 +11169,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Product Expertise=Photography Products, 100</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164758Z" creationid="Olivier" creationdate="20200429T164758Z">
+        <seg>Product Expertise=Photography Products, 100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Product Expertise=Snacks, 100</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171354Z" creationid="Olivier" creationdate="20200427T171354Z">
@@ -10925,6 +11197,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200429T085042Z" creationid="Olivier" creationdate="20200428T123320Z">
         <seg>Rapport de synthèse sur le produit (touche de raccourci : 'P' / Product)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product=All</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164800Z" creationid="Olivier" creationdate="20200429T164800Z">
+        <seg>Product=All</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product=Photography Products</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164805Z" creationid="Olivier" creationdate="20200429T164805Z">
+        <seg>Product=Photography Products</seg>
       </tuv>
     </tu>
     <tu>
@@ -11521,6 +11809,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Score change=75</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164454Z" creationid="Olivier" creationdate="20200429T164454Z">
+        <seg>Score change=75</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Score change=80</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151531Z" creationid="Inrepublica" creationdate="20200423T151531Z">
@@ -11849,6 +12145,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Staff attitude change=CMO, -100</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164415Z" creationid="Olivier" creationdate="20200429T164415Z">
+        <seg>Staff attitude change=CMO, -100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Staff attitude change=CMO, 100</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171055Z" creationid="Olivier" creationdate="20200427T171055Z">
@@ -11873,6 +12177,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Staff attitude change=CTO, -100</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164410Z" creationid="Olivier" creationdate="20200429T164410Z">
+        <seg>Staff attitude change=CTO, -100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Staff attitude change=CTO, 100</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171057Z" creationid="Olivier" creationdate="20200427T171057Z">
@@ -11881,10 +12193,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Staff resign=CMO</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164414Z" creationid="Olivier" creationdate="20200429T164414Z">
+        <seg>Staff resign=CMO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Staff resign=COO</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102451Z" creationid="Olivier" creationdate="20200428T102451Z">
         <seg>Staff resign=COO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Staff resign=CTO</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164407Z" creationid="Olivier" creationdate="20200429T164407Z">
+        <seg>Staff resign=CTO</seg>
       </tuv>
     </tu>
     <tu>
@@ -11965,6 +12293,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102409Z" creationid="Olivier" creationdate="20200428T102409Z">
         <seg>Stock Price=150</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stock Price=200</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164554Z" creationid="Olivier" creationdate="20200429T164554Z">
+        <seg>Stock Price=200</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stock Price=50</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164351Z" creationid="Olivier" creationdate="20200429T164351Z">
+        <seg>Stock Price=50</seg>
       </tuv>
     </tu>
     <tu>
@@ -14474,6 +14818,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title=Dilemma of a Camera Manufacturer</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164623Z" creationid="Olivier" creationdate="20200429T164623Z">
+        <seg>Title=Le dilemme d'un fabricant d'appareils photo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Title=Jol Hard</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171253Z" creationid="Olivier" creationdate="20200427T171253Z">
@@ -15086,6 +15438,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100624Z" creationid="Olivier" creationdate="20200429T100624Z">
         <seg>Unlock Firm=Oil Well</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unlock product=All</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164959Z" creationid="Olivier" creationdate="20200429T164959Z">
+        <seg>Unlock product=All</seg>
       </tuv>
     </tu>
     <tu>
@@ -16235,6 +16595,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Your company has become the number one manufacturer of cameras.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164914Z" creationid="Olivier" creationdate="20200429T164914Z">
+        <seg>Votre entreprise est devenue le premier fabricant d'appareils photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Your company's credit limit varies throughout the game depending on the state of your company.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T085624Z" creationid="Olivier" creationdate="20200424T085624Z">
@@ -16351,6 +16719,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T145454Z" creationid="Olivier" creationdate="20200428T145454Z">
         <seg>Vos unités d'achat tenteront de trouver des fournisseurs automatiquement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your senior management staff are confident about the company's prospects for the future.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164329Z" creationid="Olivier" creationdate="20200429T164329Z">
+        <seg>Votre personnel d'encadrement supérieur est confiant quant aux perspectives d'avenir de l'entreprise.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21557,6 +21933,14 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[UNLOCKS]</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164803Z" creationid="Olivier" creationdate="20200429T164803Z">
+        <seg>[UNLOCKS]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Warehouse Output]</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T113705Z" creationid="Olivier" creationdate="20200427T113705Z">
@@ -21609,6 +21993,14 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T210756Z" creationid="Olivier" creationdate="20200423T210756Z">
         <seg>^^Essayez d'appliquer ce que vous avez appris dans les tutoriels précédents à la gestion de votre entreprise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^^While traditional film cameras still dominate the market at the moment, development in digital photography technology has been gaining momentum.^^You see a great opportunity here but it requires committing a long term investment in research and development before any commercial products will materialize.^^Should you dedicate your resources to it at the outset or start with traditional film cameras and transit to digital cameras later for a hopefully smoother ride?</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164753Z" creationid="Olivier" creationdate="20200429T164753Z">
+        <seg>^^Tandis que les appareils photo argentiques traditionnels dominent encore le marché à l'heure actuelle, le développement de la technologie de la photographie numérique a pris de l'ampleur.^^Vous y voyez une grande opportunité, mais elle nécessite un investissement à long terme dans la recherche et le développement avant que tout produit commercial ne se concrétise.^^Devriez-vous y consacrer vos ressources dès le départ ou commencer avec des appareils photo argentiques traditionnels et passer ensuite aux appareils numériques pour une meilleure fluidité, espérons-le ?</seg>
       </tuv>
     </tu>
     <tu>
