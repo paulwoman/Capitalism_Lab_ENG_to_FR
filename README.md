@@ -105,22 +105,22 @@ Il est à préciser que les fichiers proposés actuellement doivent encore être
 
 ### Dossier "scenario"
 
-| Fichiers                              | Progression     | Relecture Inrepublica | Relecture PaulWoman | Concordance |
-| :----------------------------------   |:--------------- |:---------------|:---------------|:---------------|
-| fashion_venture.txt                   |   0 %           |                |                |                |
-| Multinational_Corporation.txt         |   0 %           |                |                |                |
-| media_empire.txt                      |   0 %           |                |                |                |
-| China_opening_up.txt                  |  100 %           |                |                |                |
-| real_estate_mogul.txt                 |   0 %           |                |                |                |
-| toys_and_gadgets.txt                  |   0 %           |                |                |                |
-| tech_leader.txt                       |   0 %           |                |                |                |
-| Opportunities_in_Small_Cities.txt     |   0 %           |                |                |                |
-| legendary_investor.txt                |   0 %           |                |                |                |
-| legacy_brand.txt                      |   0 %           |                |                |                |
-| food_and_beverage.txt                 |   0 %           |                |                |                |
-| Dilemma_of_a_Camera_Manufacturer.txt  |   0 %           |                |                |                |
-| corporate_leadership.txt              |   0 %           |                |                |                |
-| breakthrough_in_training.txt          | 100 %           |                |                |                |
+| Fichiers                              | Progression      | Relecture Inrepublica | Relecture PaulWoman | Concordance |
+| :----------------------------------   |:---------------  |:---------------|:---------------|:---------------|
+| fashion_venture.txt                   |   100 %          |                |                |                |
+| Multinational_Corporation.txt         |   100 %          |                |                |                |
+| media_empire.txt                      |   100 %          |                |                |                |
+| China_opening_up.txt                  |   100 %          |                |                |                |
+| real_estate_mogul.txt                 |   100 %          |                |                |                |
+| toys_and_gadgets.txt                  |   100 %          |                |                |                |
+| tech_leader.txt                       |   100 %          |                |                |                |
+| Opportunities_in_Small_Cities.txt     |   100 %          |                |                |                |
+| legendary_investor.txt                |   100 %          |                |                |                |
+| legacy_brand.txt                      |   100 %          |                |                |                |
+| food_and_beverage.txt                 |   100 %          |                |                |                |
+| Dilemma_of_a_Camera_Manufacturer.txt  |   100 %          |                |                |                |
+| corporate_leadership.txt              |   100 %          |                |                |                |
+| breakthrough_in_training.txt          |   100 %          |                |                |                |
 
 ## Fichiers divers
 
