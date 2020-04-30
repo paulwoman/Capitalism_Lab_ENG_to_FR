@@ -3838,6 +3838,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Competitor Expertise Level=High</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T171459Z" creationid="Olivier" creationdate="20200430T171459Z">
+        <seg>Competitor Expertise Level=High</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Competitor Expertise Level=Moderate</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171340Z" creationid="Olivier" creationdate="20200427T171340Z">
@@ -4262,6 +4270,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Corporate cash change=200</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T171943Z" creationid="Olivier" creationdate="20200430T171943Z">
+        <seg>Corporate cash change=200</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Corporation Name|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200427T080111Z" creationid="Inrepublica" creationdate="20200427T080111Z">
@@ -4352,8 +4368,8 @@
       <tuv lang="en-US">
         <seg>DLC=Subsidiary</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T171322Z" creationid="Olivier" creationdate="20200430T171322Z">
-        <seg>DLC=Filiale</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T171455Z" creationid="Olivier" creationdate="20200430T171455Z">
+        <seg>DLC=Subsidiary</seg>
       </tuv>
     </tu>
     <tu>
@@ -4498,6 +4514,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T132718Z" creationid="Olivier" creationdate="20200423T132718Z">
         <seg>Description=Dans ce tutoriel, vous acquerrez des compétences de gestion avancées pour gérer un magasin et développer votre chaîne de vente au détail en vous développant dans d'autres villes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=In today’s rapidly changing markets, corporate agility is key to success.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T172041Z" creationid="Olivier" creationdate="20200430T172041Z">
+        <seg>Description=Sur les marchés actuels, qui évoluent rapidement, l'agilité des sociétés est la clé du succès.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6769,10 +6793,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=In today’s rapidly changing markets, corporate agility is key to success.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T172304Z" creationid="Olivier" creationdate="20200430T172304Z">
+        <seg>Goal Description=Sur les marchés actuels, qui évoluent rapidement, l'agilité des sociétés est la clé du succès.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=Increase your company's financial performances and reach your goal of becoming a corporation with $2 billion market cap.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T221619Z" creationid="Olivier" creationdate="20200429T221619Z">
         <seg>Goal Description=Augmentez les performances financières de votre entreprise et atteignez votre objectif de devenir une société avec une capitalisation boursière de 2 milliards de dollars.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=Industry Dominance</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T171521Z" creationid="Olivier" creationdate="20200430T171521Z">
+        <seg>Objectif Description=Industry Monopole</seg>
       </tuv>
     </tu>
     <tu>
@@ -6973,6 +7013,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100338Z" creationid="Olivier" creationdate="20200430T100338Z">
         <seg>Goal Description=Avec vos antécédents dans le monde des affaires, vous êtes sûr de pouvoir mener votre parti politique à la victoire aux élections municipales de Detroit et de Pittsburgh et de mettre en place les bonnes politiques pour stimuler leur économie, en créant de nouvelles opportunités d'affaires et d'emploi dont les villes ont tant besoin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=You achive this goal when your main company has dominated the upstream mining and farming sectors.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T171940Z" creationid="Olivier" creationdate="20200430T171940Z">
+        <seg>Goal Description=Vous atteignez cet objectif lorsque votre entreprise principale a dominé les secteurs miniers et agricoles en amont.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7361,6 +7409,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Title=Industry Dominance</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T171624Z" creationid="Olivier" creationdate="20200430T171511Z">
+        <seg>Goal Title=Position dominante dans l'industrie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Title=Investing in Education</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T103754Z" creationid="Olivier" creationdate="20200430T103754Z">
@@ -7481,6 +7537,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Title=Strategic Positioning</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T172244Z" creationid="Olivier" creationdate="20200430T172244Z">
+        <seg>Goal Title=Positionnement stratégique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Title=Success in Small Cities</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T221106Z" creationid="Olivier" creationdate="20200429T221106Z">
@@ -7557,6 +7621,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100543Z" creationid="Olivier" creationdate="20200429T100543Z">
         <seg>Goal Title=Entreprises en amont</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Upstream Dominance</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T171904Z" creationid="Olivier" creationdate="20200430T171904Z">
+        <seg>Goal Title=Position dominante en amont</seg>
       </tuv>
     </tu>
     <tu>
@@ -14177,6 +14249,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Show Competitor Trade Secrets=No</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T171502Z" creationid="Olivier" creationdate="20200430T171502Z">
+        <seg>Show Competitor Trade Secrets=No</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Show Competitor Trade Secrets=Yes</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151322Z" creationid="Inrepublica" creationdate="20200423T151322Z">
@@ -14533,6 +14613,46 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122014Z" creationid="Olivier" creationdate="20200428T122014Z">
         <seg>Soumission des contributions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Subsidiaries=1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T171452Z" creationid="Olivier" creationdate="20200430T171452Z">
+        <seg>Subsidiaries=1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Subsidiaries=2</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T172201Z" creationid="Olivier" creationdate="20200430T172201Z">
+        <seg>Subsidiaries=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Subsidiary Annual Profit=250,3</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T171743Z" creationid="Olivier" creationdate="20200430T171743Z">
+        <seg>Subsidiary Annual Profit=250,3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Subsidiary Annual Revenue=1400,3</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T171738Z" creationid="Olivier" creationdate="20200430T171706Z">
+        <seg>Subsidiary Annual Revenue=1400,3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Subsidiary Dominance=1,3</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T171730Z" creationid="Olivier" creationdate="20200430T171730Z">
+        <seg>Subsidiary Dominance=1,3</seg>
       </tuv>
     </tu>
     <tu>
@@ -17186,6 +17306,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title=Strategic Positioning</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T172006Z" creationid="Olivier" creationdate="20200430T172006Z">
+        <seg>Title=Positionnement stratégique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Title=Tech Leader</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T222016Z" creationid="Olivier" creationdate="20200426T145757Z">
@@ -17334,6 +17462,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T211836Z" creationid="Olivier" creationdate="20200422T211836Z">
         <seg>Pour cela, il vous suffit de répéter les étapes que vous venez de suivre pour la création de votre premier grand magasin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To steer clear from this undesirable path, you have the foresight of setting up two subsidiary companies and strategically positioning each of them to focus on specific markets.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T172141Z" creationid="Olivier" creationdate="20200430T172141Z">
+        <seg>Pour vous écarter de cette voie indésirable, vous avez la prévoyance de créer deux filiales et de positionner stratégiquement chacune d'elles pour la mise au point sur des marchés spécifiques.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17566,6 +17702,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214144Z" creationid="Olivier" creationdate="20200429T214144Z">
         <seg>Malheureusement, le processus de collecte de fonds est difficile et lent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unfortunately, most companies fail to sustain it when they eventually become big and bloated.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T172115Z" creationid="Olivier" creationdate="20200430T172115Z">
+        <seg>Malheureusement, la plupart des sociétés ne parviennent pas à le maintenir lorsqu'elles finissent par devenir grandes et volumineuses.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18350,6 +18494,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T131221Z" creationid="Inrepublica" creationdate="20200423T131221Z">
         <seg>Window=Select Supplier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With a CEO at the helm of each company, they can respond more swiftly to market changes and grow at a faster pace.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T172158Z" creationid="Olivier" creationdate="20200430T172158Z">
+        <seg>Avec un PDG à la tête de chaque entreprise, elles peuvent réagir plus rapidement aux changements du marché et se développer à un rythme plus rapide.</seg>
       </tuv>
     </tu>
     <tu>
