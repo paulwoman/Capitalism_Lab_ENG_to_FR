@@ -1774,6 +1774,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>And it goes without saying that the financial reward that you will reap as the majority shareholder is also another great incentive for pursuing an IPO.\n\nIn this scenario, you must set your companies on a sustainable growth trajectory with an eventual goal of having at least one of your subsidiary companies going IPO with a market cap exceeding $1 billion.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T220759Z" creationid="Olivier" creationdate="20200430T220759Z">
+        <seg>Et il va sans dire que la récompense financière que vous récolterez en tant qu'actionnaire majoritaire est également un autre grand encouragement à poursuivre une IPO.\n\nDans ce scénario, vous devez placer vos entreprises sur une trajectoire de croissance durable avec pour objectif final de faire entrer en bourse au moins une de vos filiales avec une capitalisation boursière supérieure à un milliard de dollars.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>And to the right of the Manufacturing Unit, build a ~Sales Unit~.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T154740Z" creationid="Olivier" creationdate="20200424T093750Z">
@@ -1858,6 +1866,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T221445Z" creationid="Olivier" creationdate="20200429T221445Z">
         <seg>Êtes-vous assez compétent pour accomplir cette tâche monumentale ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Are you confident that you could pull it off?</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T221110Z" creationid="Olivier" creationdate="20200430T221110Z">
+        <seg>Êtes-vous sûr de pouvoir y arriver ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2378,6 +2394,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T215530Z" creationid="Olivier" creationdate="20200429T215530Z">
         <seg>Mais une plus grande diversification des produits aura certainement un impact négatif sur la fidélité à la marque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>But in today's highly competitive business environment, truly good executives are scarce resources, fiercely sought after by numerous companies.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T221058Z" creationid="Olivier" creationdate="20200430T221058Z">
+        <seg>Mais dans l'environnement commercial hautement concurrentiel d'aujourd'hui, les véritables bons dirigeants sont des ressources rares, férocement recherchées par de nombreuses entreprises.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4734,6 +4758,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=You have devised a solid strategy to supercharge your company's return on investment (ROI), involving the uses of subsidiaries to maximize growth and profitability in the targeted markets.\n\nTo execute this strategy and deliver the results that you have promised your investors, you must first recruit high-caliber executives who excel in the markets that your subsidiaries are to be focused on.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T221005Z" creationid="Olivier" creationdate="20200430T221005Z">
+        <seg>Description=Vous avez conçu une stratégie solide pour augmenter le retour sur investissement (ROI) de votre entreprise, impliquant l'utilisation de filiales pour maximiser la croissance et la rentabilité dans les marchés ciblés. Pour exécuter cette stratégie et obtenir les résultats que vous avez promis à vos investisseurs, vous devez d'abord recruter des cadres de haut niveau qui excellent dans les marchés sur lesquels vos filiales doivent se concentrer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=You have just assumed the role of CEO of a well funded startup.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T145547Z" creationid="Olivier" creationdate="20200426T145547Z">
@@ -6777,6 +6809,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=Flagship Company Stock</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T220858Z" creationid="Olivier" creationdate="20200430T220858Z">
+        <seg>Goal Description=Actions de l'entreprise phare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=Grow your business into a leading company in farming and retail.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T213752Z" creationid="Olivier" creationdate="20200429T213752Z">
@@ -6901,6 +6941,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100520Z" creationid="Olivier" creationdate="20200429T100520Z">
         <seg>Goal Description=Saisissez les opportunités qui se présentent lors de l'ouverture de la Chine et développez votre entreprise pour devenir une force dominante sur le marché.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=Success in IPO</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T220825Z" creationid="Olivier" creationdate="20200430T220825Z">
+        <seg>Goal Description=Réussite de l'IPO</seg>
       </tuv>
     </tu>
     <tu>
@@ -7353,6 +7401,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Title=Flagship Company Stock</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T220848Z" creationid="Olivier" creationdate="20200430T220848Z">
+        <seg>Goal Title=Actions de l'entreprise phare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Title=Food and Beverage Dominance</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214913Z" creationid="Olivier" creationdate="20200429T214902Z">
@@ -7573,6 +7629,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T172244Z" creationid="Olivier" creationdate="20200430T172244Z">
         <seg>Goal Title=Positionnement stratégique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Success in IPO</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T220813Z" creationid="Olivier" creationdate="20200430T220813Z">
+        <seg>Goal Title=Réussite de l'IPO</seg>
       </tuv>
     </tu>
     <tu>
@@ -12137,6 +12201,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Player expertise change=training, 60</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T220903Z" creationid="Olivier" creationdate="20200430T220903Z">
+        <seg>Player expertise change=training, 60</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Plus d'info dans le site web|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100002Z" creationid="Olivier" creationdate="20200429T100002Z">
@@ -14609,6 +14681,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Stock Price=300</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T220900Z" creationid="Olivier" creationdate="20200430T220900Z">
+        <seg>Stock Price=300</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Stock Price=50</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164351Z" creationid="Olivier" creationdate="20200429T164351Z">
@@ -14689,10 +14769,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Subsidiary Annual Profit=150,2</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T220831Z" creationid="Olivier" creationdate="20200430T220831Z">
+        <seg>Subsidiary Annual Profit=150,2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Subsidiary Annual Profit=250,3</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T171743Z" creationid="Olivier" creationdate="20200430T171743Z">
         <seg>Subsidiary Annual Profit=250,3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Subsidiary Annual Revenue=1000,2</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T220829Z" creationid="Olivier" creationdate="20200430T220829Z">
+        <seg>Subsidiary Annual Revenue=1000,2</seg>
       </tuv>
     </tu>
     <tu>
@@ -14717,6 +14813,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T171730Z" creationid="Olivier" creationdate="20200430T171730Z">
         <seg>Subsidiary Dominance=1,3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Subsidiary IPO=2</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T220826Z" creationid="Olivier" creationdate="20200430T220826Z">
+        <seg>Subsidiary IPO=2</seg>
       </tuv>
     </tu>
     <tu>
@@ -17394,6 +17498,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title=Supercharging ROI</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T220927Z" creationid="Olivier" creationdate="20200430T220927Z">
+        <seg>Title=Stimuler le ROI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Title=Tech Leader</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T222016Z" creationid="Olivier" creationdate="20200426T145757Z">
@@ -19271,6 +19383,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T215800Z" creationid="Olivier" creationdate="20200429T215800Z">
         <seg>Vous comptez lancer une nouvelle gamme de produits de qualité exceptionnelle et les commercialiser sous l'ancienne marque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You see it as an excellent opportunity for your subsidiary companies to raise capital via IPO for funding business expansions.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T220612Z" creationid="Olivier" creationdate="20200430T220612Z">
+        <seg>Vous y voyez une excellente occasion pour vos filiales de lever des capitaux via l'introduction en bourse pour financer l'expansion de leurs activités.</seg>
       </tuv>
     </tu>
     <tu>
