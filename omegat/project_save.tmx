@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(To see your Political Influence score, press F7 to open the Score report.)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100745Z" creationid="Olivier" creationdate="20200430T100745Z">
+        <seg>(Pour voir votre score d'influence politique, appuyez sur F7 pour ouvrir le rapport Score).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Years)|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150645Z" creationid="Inrepublica" creationdate="20200425T150645Z">
@@ -4342,6 +4350,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=Education is the most powerful investment for our future.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100920Z" creationid="Olivier" creationdate="20200430T100920Z">
+        <seg>Description=L'éducation est l'investissement le plus efficace pour notre avenir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=In the 1990s, China continues its economic reform with great strides, attracting tens of billions of dollars of foreign investments each year.^^You must set up factories to take advantage of the low labor cost, and at the same time establish a retail presence and start cultivating brand awareness for your products.^^While the wage rate and local demands for high-end products are still low, they are increasing rapidly.^^If you can successfully secure a foothold in the market, you will be in a strong position to reap the benefits when the consumer market in China grows to a substantial size in the near future.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T220308Z" creationid="Olivier" creationdate="20200428T220256Z">
@@ -6817,6 +6833,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=You win this subgoal if you manage to deliver impressive business results while you work towards the bigger goal of growing the cities.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100431Z" creationid="Olivier" creationdate="20200430T100431Z">
+        <seg>Goal Description=Vous gagnez ce sous-objectif si vous parvenez à obtenir des résultats commerciaux impressionnants tout en travaillant à l'objectif plus vaste de la croissance des villes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=You win this tutorial game when you dominate the Apparel market while achieving an annual profit of not less than $2 million.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T142317Z" creationid="Olivier" creationdate="20200423T205804Z">
@@ -6897,6 +6921,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=Your political influence increases when members of your political party are elected as mayors.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100515Z" creationid="Olivier" creationdate="20200430T100515Z">
+        <seg>Goal Description=Votre influence politique augmente lorsque des membres de votre parti politique sont élus en tant que maires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=Your ultimate goal in this game is to achieve a corporate revenue of $1 billion and an annual profit of $100 million, and let the financial performance of your company boost the company stock price to over $500.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T225054Z" creationid="Olivier" creationdate="20200429T162504Z">
@@ -6963,8 +6995,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Goal Title=Corporate Performance</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100416Z" creationid="Olivier" creationdate="20200430T100416Z">
-        <seg>Goal Title=Performance des entreprises</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100826Z" creationid="Olivier" creationdate="20200430T100416Z">
+        <seg>Investir Goal Title=Performance des entreprises</seg>
       </tuv>
     </tu>
     <tu>
@@ -7189,6 +7221,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T215916Z" creationid="Olivier" creationdate="20200428T215916Z">
         <seg>Goal Title=Objectif de performance opérationnelle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Political Influence</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100502Z" creationid="Olivier" creationdate="20200430T100502Z">
+        <seg>Goal Title=Influence politique</seg>
       </tuv>
     </tu>
     <tu>
@@ -8025,6 +8065,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In this scenario, you must not only improve the education and wage rate of the existing cities, but also build a new city from scratch and grow it to one with world class education facilities.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T103726Z" creationid="Olivier" creationdate="20200430T103726Z">
+        <seg>Dans ce scénario, vous devez non seulement améliorer le niveau d'éducation et le taux de rémunération des villes existantes, mais aussi construire une nouvelle ville à partir de zéro et la développer pour qu'elle dispose d'installations éducatives de classe mondiale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In this tutorial you will learn how to improve the quality of your products by conducting research in R&amp;D Centers (Research and Development Centers).</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T132608Z" creationid="Olivier" creationdate="20200426T132608Z">
@@ -8181,6 +8229,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170606Z" creationid="Olivier" creationdate="20200427T170606Z">
         <seg>Inflation=On</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Influence Score=150</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100801Z" creationid="Olivier" creationdate="20200430T100801Z">
+        <seg>Influence Score=150</seg>
       </tuv>
     </tu>
     <tu>
@@ -8485,6 +8541,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203552Z" creationid="Inrepublica" creationdate="20200422T203552Z">
         <seg>Elle détermine l'impact de l'économie sur le taux de défaillance des prêts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It empowers people, increases employment and drives wage growth.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T101135Z" creationid="Olivier" creationdate="20200430T101135Z">
+        <seg>Elle responsabilise les citoyens, augmente l'emploi et stimule la croissance des salaires.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16474,6 +16538,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title=Investing in Education</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100845Z" creationid="Olivier" creationdate="20200430T100845Z">
+        <seg>Title=Investissement dans l'éducation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Title=Jol Hard</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171253Z" creationid="Olivier" creationdate="20200427T171253Z">
@@ -18010,6 +18082,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You have once again proven that you are exceptionally talented as a business person.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100445Z" creationid="Olivier" creationdate="20200430T100445Z">
+        <seg>Vous avez une fois de plus prouvé que vous avez un talent exceptionnel en tant qu'homme d'affaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You have proven your abilities in entering new markets and beating the competition to become new market leaders.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T222405Z" creationid="Olivier" creationdate="20200429T222405Z">
@@ -18435,6 +18515,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You win this subgoal when your Political Influence score has reached the goal target.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100527Z" creationid="Olivier" creationdate="20200430T100527Z">
+        <seg>Vous gagnez ce sous-objectif lorsque votre score d'influence politique a atteint l'objectif fixé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You've got a basic understanding about manufacturing.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T124852Z" creationid="Olivier" creationdate="20200424T092211Z">
@@ -18719,6 +18807,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T093528Z" creationid="Olivier" creationdate="20200423T133108Z">
         <seg>Vos objectifs dans ce jeu sont d'atteindre des recettes annuelles de 50 millions de dollars et un bénéfice annuel de 5 millions de dollars.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your political influence has reached new heights.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100800Z" creationid="Olivier" creationdate="20200430T100800Z">
+        <seg>Votre influence politique a atteint de nouveaux sommets.</seg>
       </tuv>
     </tu>
     <tu>
