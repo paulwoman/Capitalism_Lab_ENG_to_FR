@@ -4542,6 +4542,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=The stock market has seen a series of highly successful IPOs (initial public offerings) lately.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T220352Z" creationid="Olivier" creationdate="20200430T220352Z">
+        <seg>Description=Le marché boursier a connu une série d'introductions en bourse (IPO) très réussies ces derniers temps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=This is a sample script for Capitalism Lab, illustrating how to use [CITIES] variables to customize cities for a new game.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T103517Z" creationid="Olivier" creationdate="20200428T103517Z">
@@ -17374,6 +17382,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T172006Z" creationid="Olivier" creationdate="20200430T172006Z">
         <seg>Title=Positionnement stratégique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Success in IPO</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T220413Z" creationid="Olivier" creationdate="20200430T220331Z">
+        <seg>Title=Réussite de l'IPO</seg>
       </tuv>
     </tu>
     <tu>
