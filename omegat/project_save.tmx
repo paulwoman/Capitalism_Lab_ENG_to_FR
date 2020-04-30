@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(e.g. retail focused companies and companies with other focuses are not affected.)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T223427Z" creationid="Olivier" creationdate="20200430T223427Z">
+        <seg>(par exemple, les entreprises axées sur le commerce de détail et les entreprises ayant d'autres centres d'intérêt ne sont pas concernées).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(the same firm type and the same company/subsidiary)</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122928Z" creationid="Olivier" creationdate="20200428T122928Z">
@@ -242,6 +250,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T174929Z" creationid="Acer" creationdate="20200424T174929Z">
         <seg>// 2 means that the condition is met when your department store is selling 2 different products of the specified item class</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// &lt;Expertise Product Class&gt; is the expertise product class.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T223245Z" creationid="Olivier" creationdate="20200430T223245Z">
+        <seg>// &lt;Expertise Product Class&gt; is the expertise product class.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// &lt;Number of AI competitors&gt; is the number of AI competitors possessing this type of expertise.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T223337Z" creationid="Olivier" creationdate="20200430T223337Z">
+        <seg>// &lt;Number of AI competitors&gt; est le nombre de concurrents AI possédant ce type d'expertise.</seg>
       </tuv>
     </tu>
     <tu>
@@ -334,6 +358,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// If the player fails to achieve this subgoal before the deadline, the following penalties will be imposed on the player.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T224114Z" creationid="Olivier" creationdate="20200430T224114Z">
+        <seg>// Si le joueur n'atteint pas ce sous-objectif avant la date limite, les sanctions suivantes lui seront imposées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// If this is a defined, the goal image will be displayed on the goal report.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T223808Z" creationid="Olivier" creationdate="20200430T223808Z">
+        <seg>// S'il s'agit d'une définition, l'image de l'objectif sera affichée sur le rapport d'objectif.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// If you set it lower than this value, the game will automatically reset it to the minimum allowed value.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222250Z" creationid="Olivier" creationdate="20200430T222250Z">
@@ -346,6 +386,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151401Z" creationid="Inrepublica" creationdate="20200423T151401Z">
         <seg>// Import Quality=&lt;Low,Moderate,High&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// In the current example, we set the deadline for this goal.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T223640Z" creationid="Olivier" creationdate="20200430T223640Z">
+        <seg>// Dans l'exemple actuel, nous avons fixé la date limite pour atteindre cet objectif.</seg>
       </tuv>
     </tu>
     <tu>
@@ -422,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// Please note that this only applies to AI competitors with a diversified business strategy.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T223409Z" creationid="Olivier" creationdate="20200430T223409Z">
+        <seg>// Veuillez noter que cela ne s'applique qu'aux concurrents de l'IA ayant une stratégie commerciale diversifiée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// Please note that you may create a game up with no seaport using a game script.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151353Z" creationid="Inrepublica" creationdate="20200423T151353Z">
@@ -478,6 +534,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// The deadline for this subgoal is defined.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T224054Z" creationid="Olivier" creationdate="20200430T224054Z">
+        <seg>// L'échéance de ce sous-objectif est définie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// The image must be in JPG format, stored in ¡°script\image¡± subfolder under the Capitalism Lab folder, and the image size must not be larger than 395x85.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T223951Z" creationid="Olivier" creationdate="20200430T223951Z">
+        <seg>// L'image doit être au format JPG, stockée dans le sous-dossier¡°script\image¡± sous le dossier Capitalism Lab, et la taille de l'image ne doit pas être supérieure à 395x85.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// This defines how long the challenge game will last.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222620Z" creationid="Olivier" creationdate="20200430T222620Z">
@@ -498,6 +570,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222150Z" creationid="Olivier" creationdate="20200430T222150Z">
         <seg>// This is the total number of AI persons in a game.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// This subgoal will not be available until 1st January 1991</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T224026Z" creationid="Olivier" creationdate="20200430T224026Z">
+        <seg>// Ce sous-objectif ne sera pas disponible avant le 1er janvier 1991</seg>
       </tuv>
     </tu>
     <tu>
@@ -554,6 +634,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222751Z" creationid="Olivier" creationdate="20200430T222751Z">
         <seg>// Vous pouvez simplement spécifier le nom de la ville et Capitalism Lab la recherchera dans sa base de données de villes et utilisera les paramètres prédéfinis pour celle-ci si elle peut être trouvée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// You may set a direct deadline for the goals or specify the number of game years that the player is given to achieve the goal.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T223626Z" creationid="Olivier" creationdate="20200430T223626Z">
+        <seg>// Vous pouvez fixer une date limite directe pour les objectifs ou préciser le nombre d'années de jeu qui est accordé au joueur pour atteindre l'objectif.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2910,6 +2998,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>COO expertise change=farming, -15</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T224122Z" creationid="Olivier" creationdate="20200430T224122Z">
+        <seg>COO expertise change=farming, -15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>COO expertise change=farming, 12</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102442Z" creationid="Olivier" creationdate="20200428T102442Z">
@@ -4654,6 +4750,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Deadline=1995-09-30</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T224055Z" creationid="Olivier" creationdate="20200430T224055Z">
+        <seg>Deadline=1995-09-30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Deadline=2010-06-30</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T223603Z" creationid="Olivier" creationdate="20200430T223603Z">
+        <seg>Deadline=2010-06-30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Definitions.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T120942Z" creationid="Olivier" creationdate="20200428T120942Z">
@@ -4834,6 +4946,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222120Z" creationid="Olivier" creationdate="20200430T222120Z">
         <seg>Description=Voici un exemple de script pour Capitalism Lab, listant toutes les variables de la section [ENVIRONNEMENT].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=This is a sample script for Capitalism Lab, listing all variables under the [MAIN GOAL] and [SUBGOAL] section.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T223549Z" creationid="Olivier" creationdate="20200430T223549Z">
+        <seg>Description=Ceci est un exemple de script pour Capitalism Lab, listant toutes les variables sous la section [OBJECTIF PRINCIPAL] et [OBJECTIF SECONDAIRE].</seg>
       </tuv>
     </tu>
     <tu>
@@ -6318,6 +6438,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, ¡°apparel¡±</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T223355Z" creationid="Olivier" creationdate="20200430T223355Z">
+        <seg>For example, ¡°apparel¡±</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For lower-cost products, such as shampoo, one cargo can hold up to several thousand units of the product.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T172244Z" creationid="Olivier" creationdate="20200426T172244Z">
@@ -7016,6 +7144,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Available Date=1991-01-01</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T224041Z" creationid="Olivier" creationdate="20200430T224041Z">
+        <seg>Goal Available Date=1991-01-01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Available Year=1990</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T103922Z" creationid="Olivier" creationdate="20200428T103922Z">
@@ -7337,6 +7473,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=This is your second subgoal.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T224159Z" creationid="Olivier" creationdate="20200430T224159Z">
+        <seg>Goal Description=C'est votre second sous-objectif.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=To continue to expand the business to other markets, you must impresss your family with even better performance.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220542Z" creationid="Olivier" creationdate="20200429T220542Z">
@@ -7585,10 +7729,34 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Failed Text=Sorry, you have failed your first subgoal.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T223718Z" creationid="Olivier" creationdate="20200430T223718Z">
+        <seg>Goal Failed Text=Désolé, vous avez raté votre premier sous-objectif.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Failed Text=Sorry, you have failed your second subgoal.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T224231Z" creationid="Olivier" creationdate="20200430T224231Z">
+        <seg>Goal Failed Text=Désolé, vous avez raté votre deuxième sous-objectif.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Failed Text=Your senior management staff are very disappointed by the mediocre performance of the company and decided to resign and seek better career opportunities elsewhere.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164347Z" creationid="Olivier" creationdate="20200429T164347Z">
         <seg>Goal Failed Text=Vos cadres supérieurs sont très déçus par les performances médiocres de l'entreprise et ont décidé de démissionner et de chercher de meilleures opportunités de carrière ailleurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Image=subgoal image 1.jpg</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T224028Z" creationid="Olivier" creationdate="20200430T224028Z">
+        <seg>Goal Image=subgoal image 1.jpg</seg>
       </tuv>
     </tu>
     <tu>
@@ -7949,6 +8117,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T221501Z" creationid="Olivier" creationdate="20200429T221501Z">
         <seg>Goal Title=Sous-objectif de rendement des capitaux propres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Second Subgoal</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T224137Z" creationid="Olivier" creationdate="20200430T224137Z">
+        <seg>Goal Title=Second sous-objectif</seg>
       </tuv>
     </tu>
     <tu>
@@ -12113,6 +12289,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Personal Cash change=-1000000</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T224119Z" creationid="Olivier" creationdate="20200430T224119Z">
+        <seg>Personal Cash change=-1000000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Personal Cash change=1000000</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171104Z" creationid="Olivier" creationdate="20200427T171104Z">
@@ -12317,6 +12501,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T165049Z" creationid="Olivier" creationdate="20200429T165049Z">
         <seg>Player Company Annual Revenue=1500</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player Company Annual Revenue=2</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T224058Z" creationid="Olivier" creationdate="20200430T224058Z">
+        <seg>Player Company Annual Revenue=2</seg>
       </tuv>
     </tu>
     <tu>
@@ -14457,6 +14649,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Score change=-5</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T224116Z" creationid="Olivier" creationdate="20200430T224116Z">
+        <seg>Score change=-5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Score change=10</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102438Z" creationid="Olivier" creationdate="20200428T102438Z">
@@ -15461,6 +15661,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164931Z" creationid="Inrepublica" creationdate="20200422T164931Z">
         <seg>Système des talents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tech Change=Jeans, -50</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T224125Z" creationid="Olivier" creationdate="20200430T224125Z">
+        <seg>Tech Change=Jeans, -50</seg>
       </tuv>
     </tu>
     <tu>
@@ -18002,6 +18210,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title=Sample script - Main Goal and Subgoals</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T223450Z" creationid="Olivier" creationdate="20200430T223450Z">
+        <seg>Title=Exemple de script - Objectif principal et objectifs secondaires</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Title=Sample script - Special Rules</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T101804Z" creationid="Olivier" creationdate="20200428T101804Z">
@@ -19446,6 +19662,22 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T221913Z" creationid="Olivier" creationdate="20200429T221913Z">
         <seg>Vous avez remporté la victoire dans la course pour devenir le leader du marché des appareils de communication personnelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have achieved your first subgoal.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T223702Z" creationid="Olivier" creationdate="20200430T223702Z">
+        <seg>Vous avez atteint votre premier sous-objectif.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have achieved your second subgoal.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T224211Z" creationid="Olivier" creationdate="20200430T224211Z">
+        <seg>Vous avez atteint votre deuxième sous-objectif.</seg>
       </tuv>
     </tu>
     <tu>
