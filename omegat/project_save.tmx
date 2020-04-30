@@ -2982,10 +2982,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>City population=1000000, Seoul</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T105600Z" creationid="Olivier" creationdate="20200430T105600Z">
+        <seg>City population=1000000, Seoul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>City population=300000, Pittsburgh</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100347Z" creationid="Olivier" creationdate="20200430T100347Z">
         <seg>City population=300000, Pittsburgh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City population=800000, Busan</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T105605Z" creationid="Olivier" creationdate="20200430T105605Z">
+        <seg>City population=800000, Busan</seg>
       </tuv>
     </tu>
     <tu>
@@ -4346,6 +4362,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T210247Z" creationid="Olivier" creationdate="20200423T210247Z">
         <seg>Description=Une partie de vos efforts pour faire de votre entreprise un grand conglomérat consiste à étendre votre activité au secteur agricole et à créer vos propres exploitations agricoles pour fournir des produits d'élevage et de culture à vos magasins de détail. Les produits agricoles jouent un rôle clé dans la production d'un grand nombre de produits..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=Asides from economic growth, what people really look forward to is a significant improvement in quality of life.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T105733Z" creationid="Olivier" creationdate="20200430T105733Z">
+        <seg>Description=Outre la croissance économique, ce que les gens attendent réellement, c'est une amélioration significative de la qualité de vie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5814,6 +5838,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Food Supply rating=100</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T144219Z" creationid="Olivier" creationdate="20200430T144219Z">
+        <seg>Food Approvisionnement rating=100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Footwear Store|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T063931Z" creationid="Inrepublica" creationdate="20200426T063931Z">
@@ -6597,6 +6629,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T084507Z" creationid="Olivier" creationdate="20200423T132854Z">
         <seg>Goal Description=Réalisez des recettes annuel de 50 millions de dollars et un bénéfice annuel de 5 millions de dollars pour réaliser ce tutoriel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=Asides from economic growth, what people really look forward to is a significant improvement in quality of life.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T105949Z" creationid="Olivier" creationdate="20200430T105906Z">
+        <seg>Goal Description=Asides from economic growth, what people really look forward to is a significant improvement in qualité of life.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7409,6 +7449,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Title=Towards a Better Quality of Life</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T105938Z" creationid="Olivier" creationdate="20200430T105910Z">
+        <seg>Goal Title=Vers une meilleure qualité de vie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Title=Toy Dominance</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T222204Z" creationid="Olivier" creationdate="20200429T222204Z">
@@ -8185,6 +8233,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In this scenario, your goal is to build two cities from scratch and lead all the cities, including existing ones, to achieve higher quality of life that is sustainable.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T105755Z" creationid="Olivier" creationdate="20200430T105755Z">
+        <seg>Dans ce scénario, votre objectif est de construire deux villes à partir de zéro et d'amener toutes les villes, y compris celles qui existent déjà, à atteindre une meilleure qualité de vie qui soit durable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In this tutorial you will learn how to improve the quality of your products by conducting research in R&amp;D Centers (Research and Development Centers).</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T132608Z" creationid="Olivier" creationdate="20200426T132608Z">
@@ -8341,6 +8397,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170606Z" creationid="Olivier" creationdate="20200427T170606Z">
         <seg>Inflation=On</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Influence Score=100</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T105657Z" creationid="Olivier" creationdate="20200430T105657Z">
+        <seg>Influence Score=100</seg>
       </tuv>
     </tu>
     <tu>
@@ -9577,6 +9641,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mayor approval rating=60, Busan</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T105614Z" creationid="Olivier" creationdate="20200430T105614Z">
+        <seg>Mayor approval rating=60, Busan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mayor approval rating=60, Seoul</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T105602Z" creationid="Olivier" creationdate="20200430T105602Z">
+        <seg>Mayor approval rating=60, Seoul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mayor approval rating=70, Detroit</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100343Z" creationid="Olivier" creationdate="20200430T100343Z">
@@ -9685,6 +9765,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T105124Z" creationid="Olivier" creationdate="20200430T105124Z">
         <seg>National population=1500000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>National population=1700000</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T105956Z" creationid="Olivier" creationdate="20200430T105956Z">
+        <seg>National population=1700000</seg>
       </tuv>
     </tu>
     <tu>
@@ -10293,6 +10381,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T090251Z" creationid="Inrepublica" creationdate="20200422T150048Z">
         <seg>Nombre de villes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of Cities You Manage=4</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T105951Z" creationid="Olivier" creationdate="20200430T105951Z">
+        <seg>Number of Cities You Manage=4</seg>
       </tuv>
     </tu>
     <tu>
@@ -12657,6 +12753,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Population=400000</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T105757Z" creationid="Olivier" creationdate="20200430T105757Z">
+        <seg>Population=400000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Population=500000</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100225Z" creationid="Olivier" creationdate="20200430T100225Z">
@@ -13165,6 +13269,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T103623Z" creationid="Olivier" creationdate="20200428T103623Z">
         <seg>Real Wage Rate=35</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Real Wage Rate=40</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T105759Z" creationid="Olivier" creationdate="20200430T105759Z">
+        <seg>Real Wage Rate=40</seg>
       </tuv>
     </tu>
     <tu>
@@ -16830,6 +16942,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T222016Z" creationid="Olivier" creationdate="20200426T145757Z">
         <seg>Title=Leader technologique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Towards a Better Quality of Life</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T105902Z" creationid="Olivier" creationdate="20200430T105709Z">
+        <seg>Title=Vers une meilleure qualité de vie</seg>
       </tuv>
     </tu>
     <tu>
