@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// (The total number of competitors defined here should not exceed the number  in the Number of Competitors line.)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T223105Z" creationid="Olivier" creationdate="20200430T223105Z">
+        <seg>// (Le nombre total de concurrents défini ici ne doit pas dépasser le nombre figurant dans la ligne Nombre de concurrents).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// 2 means range brand</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T154851Z" creationid="Acer" creationdate="20200424T154851Z">
@@ -242,6 +250,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151325Z" creationid="Inrepublica" creationdate="20200423T151325Z">
         <seg>// AI Friendly Merger=&lt;On, Off&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// AI Product Expertise=&lt;Expertise Product Class&gt;, &lt;Number of AI competitors&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T223154Z" creationid="Olivier" creationdate="20200430T223154Z">
+        <seg>// AI Product Expertise=&lt;Expertise Product Class&gt;, &lt;Number of AI competitors&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -302,10 +318,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// First we have to define the number of cities in the game.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222735Z" creationid="Olivier" creationdate="20200430T222735Z">
+        <seg>// Nous devons d'abord définir le nombre de villes dans le jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// Game Starting Year=&lt;1900 to 2100&gt;</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151518Z" creationid="Inrepublica" creationdate="20200423T151518Z">
         <seg>// Game Starting Year=&lt;1900 to 2100&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// If you set it lower than this value, the game will automatically reset it to the minimum allowed value.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222250Z" creationid="Olivier" creationdate="20200430T222250Z">
+        <seg>// If you set it lower than this value, the game will automatically reset it to the minimum allowed value.</seg>
       </tuv>
     </tu>
     <tu>
@@ -382,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// Number of Game Years=&lt;2 to 1000&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222618Z" creationid="Olivier" creationdate="20200430T222618Z">
+        <seg>// Number of Game Years=&lt;2 to 1000&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// Please note that you may create a game up with no seaport using a game script.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151353Z" creationid="Inrepublica" creationdate="20200423T151353Z">
@@ -394,6 +434,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151213Z" creationid="Inrepublica" creationdate="20200423T151213Z">
         <seg>// Random Events=&lt;Never, Seldom, Occasional, Frequent&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// Ranking Method=&lt;Score, Total Revenue, Total Profit, Industry Revenue, Product Revenue, Time to Achieve Goal&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222623Z" creationid="Olivier" creationdate="20200430T222623Z">
+        <seg>// Ranking Method=&lt;Score, Total Revenue, Total Profit, Industry Revenue, Product Revenue, Time to Achieve Goal&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -430,10 +478,90 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// This defines how long the challenge game will last.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222620Z" creationid="Olivier" creationdate="20200430T222620Z">
+        <seg>// This defines how long the challenge game will last.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// This defines the ranking method of the challenge game.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222629Z" creationid="Olivier" creationdate="20200430T222629Z">
+        <seg>// This defines the ranking method of the challenge game.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// This is the total number of AI persons in a game.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222150Z" creationid="Olivier" creationdate="20200430T222150Z">
         <seg>// This is the total number of AI persons in a game.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// Use this statement to assign a specified type of expertise to AI competitors.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T223242Z" creationid="Olivier" creationdate="20200430T223242Z">
+        <seg>// Utilisez ces informations pour attribuer un type d'expertise spécifique aux concurrents de l'IA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// With the above statement, there will be 3 AI competitors possessing expertise in Apparel in the beginning of the game.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T223145Z" creationid="Olivier" creationdate="20200430T223145Z">
+        <seg>// Avec la mention ci-dessus, il y aura 3 concurrents AI possédant une expertise dans le domaine de l'habillement au début du jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// You may also specify the city's parameters in the script, as follows.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222807Z" creationid="Olivier" creationdate="20200430T222807Z">
+        <seg>// Vous pouvez également spécifier les paramètres de la ville dans le script, comme suit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// You may assign a specific map seed to your city and the city's map will be generated identically whenever a new game is created using the script.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222931Z" creationid="Olivier" creationdate="20200430T222931Z">
+        <seg>// Vous pouvez attribuer une séquence de carte spécifique à votre ville et la carte de la ville sera générée de manière identique à chaque fois qu'un nouveau jeu sera créé à l'aide du script.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// You may create a fictional city by defining its X and Y coordinates on the globe map, like the below example.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222856Z" creationid="Olivier" creationdate="20200430T222856Z">
+        <seg>// Vous pouvez créer une ville fictive en définissant ses coordonnées X et Y sur la carte du globe, comme dans l'exemple ci-dessous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// You may define the number of seaports for each individual city.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222837Z" creationid="Olivier" creationdate="20200430T222837Z">
+        <seg>// Vous pouvez définir le nombre de ports maritimes pour chaque ville.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// You may just specify the city name and Capitalism Lab will search it in its city database and use the pre-defined parameters for it if it can be found.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222751Z" creationid="Olivier" creationdate="20200430T222751Z">
+        <seg>// Vous pouvez simplement spécifier le nom de la ville et Capitalism Lab la recherchera dans sa base de données de villes et utilisera les paramètres prédéfinis pour celle-ci si elle peut être trouvée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// You may set the business focuses of the AI companies using the following script lines:</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T223049Z" creationid="Olivier" creationdate="20200430T223049Z">
+        <seg>// Vous pouvez définir les objectifs commerciaux des sociétés d'IA à l'aide des lignes de script suivantes :</seg>
       </tuv>
     </tu>
     <tu>
@@ -470,10 +598,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// e.g. Ranking Method=Industry Revenue</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222626Z" creationid="Olivier" creationdate="20200430T222626Z">
+        <seg>// e.g. Ranking Method=Industry Revenue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// nation and average ratings</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T105118Z" creationid="Olivier" creationdate="20200430T105118Z">
         <seg>// nation and average ratings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// than a standard game.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222246Z" creationid="Olivier" creationdate="20200430T222246Z">
+        <seg>// than a standard game.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1138,6 +1282,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203355Z" creationid="Inrepublica" creationdate="20200422T203355Z">
         <seg>Agressivité des prix de l'IA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AI Product Expertise=Apparel, 3</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T223113Z" creationid="Olivier" creationdate="20200430T223113Z">
+        <seg>AI Product Expertise=Apparel, 3</seg>
       </tuv>
     </tu>
     <tu>
@@ -4662,6 +4814,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=This is a sample script for Capitalism Lab, listing all variables under the [CHALLENGE GAME] section.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222616Z" creationid="Olivier" creationdate="20200430T222616Z">
+        <seg>Description=Ceci est un exemple de script pour Capitalism Lab, listant toutes les variables sous la section [JEU DE DÉFI].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=This is a sample script for Capitalism Lab, listing all variables under the [COMPETITORS] section.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T223029Z" creationid="Olivier" creationdate="20200430T223029Z">
+        <seg>Description=Voici un exemple de script pour Capitalism Lab, listant toutes les variables dans la section [CONCURENTS].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=This is a sample script for Capitalism Lab, listing all variables under the [ENVIRONMENT] section.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222120Z" creationid="Olivier" creationdate="20200430T222120Z">
@@ -5122,6 +5290,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214228Z" creationid="Olivier" creationdate="20200429T214228Z">
         <seg>Diversified Companies=13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Diversified Companies=4</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T223111Z" creationid="Olivier" creationdate="20200430T223111Z">
+        <seg>Diversified Companies=4</seg>
       </tuv>
     </tu>
     <tu>
@@ -12417,6 +12593,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Please note that the game requires the number of AI persons to be at least equal to the number of competitors + 8.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222248Z" creationid="Olivier" creationdate="20200430T222248Z">
+        <seg>Please note that the game requires the number of AI persons to be at least equal to the number of competitors + 8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Plus d'info dans le site web|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100002Z" creationid="Olivier" creationdate="20200429T100002Z">
@@ -13313,6 +13497,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Population Growth Rate=70</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222900Z" creationid="Olivier" creationdate="20200430T222900Z">
+        <seg>Population Growth Rate=70</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Population=0</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T145042Z" creationid="Olivier" creationdate="20200430T145042Z">
@@ -13325,6 +13517,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100232Z" creationid="Olivier" creationdate="20200430T100232Z">
         <seg>Population=100000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Population=1000000</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222858Z" creationid="Olivier" creationdate="20200430T222858Z">
+        <seg>Population=1000000</seg>
       </tuv>
     </tu>
     <tu>
@@ -13849,6 +14049,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Real Estate Focused Companies=5</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T223109Z" creationid="Olivier" creationdate="20200430T223109Z">
+        <seg>Real Estate Focused Companies=5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Real Wage Rate=30</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100234Z" creationid="Olivier" creationdate="20200430T100234Z">
@@ -13877,6 +14085,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100227Z" creationid="Olivier" creationdate="20200430T100227Z">
         <seg>Real Wage Rate=50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Real Wage Rate=55</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222902Z" creationid="Olivier" creationdate="20200430T222902Z">
+        <seg>Real Wage Rate=55</seg>
       </tuv>
     </tu>
     <tu>
@@ -13981,6 +14197,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102205Z" creationid="Olivier" creationdate="20200428T102205Z">
         <seg>Retail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Retail Focused Companies=3</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T223106Z" creationid="Olivier" creationdate="20200430T223106Z">
+        <seg>Retail Focused Companies=3</seg>
       </tuv>
     </tu>
     <tu>
@@ -16978,6 +17202,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>They will override the default values in the game's city database.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222822Z" creationid="Olivier" creationdate="20200430T222822Z">
+        <seg>Ils remplaceront les valeurs par défaut dans la base de données des villes du jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for reasonable and customary use in describing the origin of the Work and reproducing the content of the NOTICE file.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122118Z" creationid="Olivier" creationdate="20200428T122118Z">
@@ -17734,6 +17966,30 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T221202Z" creationid="Olivier" creationdate="20200429T221202Z">
         <seg>Title=Le magnat de l'immobilier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Sample script - Challenge Game</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222317Z" creationid="Olivier" creationdate="20200430T222317Z">
+        <seg>Title=Exemple de script - Jeu de défi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Sample script - Cities</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222727Z" creationid="Olivier" creationdate="20200430T222727Z">
+        <seg>Title=Exemple de script - Villes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Sample script - Competitors</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222946Z" creationid="Olivier" creationdate="20200430T222946Z">
+        <seg>Title=Exemple de script - Concurrents</seg>
       </tuv>
     </tu>
     <tu>
@@ -19422,6 +19678,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T092036Z" creationid="Olivier" creationdate="20200424T092036Z">
         <seg>Vous pouvez cliquer à nouveau sur le bouton ~PLUS~ sous l'image du bois pour voir d'autres produits qui peuvent être fabriqués avec du bois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may customize it using the above line, allowing you to create a game with more persons</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222243Z" creationid="Olivier" creationdate="20200430T222243Z">
+        <seg>You may customize it using the above line, allowing you to create a game with more persons</seg>
       </tuv>
     </tu>
     <tu>
