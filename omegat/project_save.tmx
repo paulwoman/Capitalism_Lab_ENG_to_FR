@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// Alternative Stock Sim=&lt;Yes, No&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222144Z" creationid="Olivier" creationdate="20200430T222144Z">
+        <seg>// Alternative Stock Sim=&lt;Yes, No&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// Competence of Local Competitors=&lt;Very Low, Low, Moderate, High, Very High&gt;</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151327Z" creationid="Inrepublica" creationdate="20200423T151327Z">
@@ -318,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// Inflation Strength=&lt;Normal, Reduced&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222146Z" creationid="Olivier" creationdate="20200430T222146Z">
+        <seg>// Inflation Strength=&lt;Normal, Reduced&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// Inflation=&lt;Off, On, Inverse&gt;</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151243Z" creationid="Inrepublica" creationdate="20200423T151243Z">
@@ -338,6 +354,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151241Z" creationid="Inrepublica" creationdate="20200423T151241Z">
         <seg>// Macro Economy Realism=&lt;Low, High&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// Number of AI Persons=&lt;number of competitors+8 to 63&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222149Z" creationid="Olivier" creationdate="20200430T222149Z">
+        <seg>// Number of AI Persons=&lt;number of competitors+8 to 63&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// Number of Cities=&lt;1 to 10&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222122Z" creationid="Olivier" creationdate="20200430T222122Z">
+        <seg>// Number of Cities=&lt;1 to 10&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -398,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// This is the total number of AI persons in a game.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222150Z" creationid="Olivier" creationdate="20200430T222150Z">
+        <seg>// This is the total number of AI persons in a game.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// You may set the game starting year to any year between 1900 and 2100.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151228Z" creationid="Olivier" creationdate="20200423T130131Z">
@@ -410,6 +450,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151307Z" creationid="Inrepublica" creationdate="20200423T151307Z">
         <seg>// You may set the number of competitors to any number between 1 and 30.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// You will be able to create a game with a maximum of 10 cities using a game script.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222139Z" creationid="Olivier" creationdate="20200430T222139Z">
+        <seg>// You will be able to create a game with a maximum of 10 cities using a game script.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2002,6 +2050,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T170000Z" creationid="Olivier" creationdate="20200422T170000Z">
         <seg>À ce stade, vous n'avez pas besoin de vous préoccuper des informations fournies avec chaque produit (les frais de transport, les évaluations, la marque et d'autres informations seront expliquées dans un tutoriel ultérieur).^^Pour l'instant, achetons simplement le premier produit de la liste pour faire avancer les choses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Auto Save Interval Days=10</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T221655Z" creationid="Olivier" creationdate="20200430T221655Z">
+        <seg>Auto Save Interval Days=10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Auto Save Interval Minutes=15</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222017Z" creationid="Olivier" creationdate="20200430T222017Z">
+        <seg>Auto Save Interval Minutes=15</seg>
       </tuv>
     </tu>
     <tu>
@@ -4110,6 +4174,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Controlled Companies Annual Profit=1500</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T221603Z" creationid="Olivier" creationdate="20200430T221603Z">
+        <seg>Controlled Companies Annual Profit=1500</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Controlled Companies Annual Profit=25</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102401Z" creationid="Olivier" creationdate="20200428T102401Z">
@@ -4122,6 +4194,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102148Z" creationid="Olivier" creationdate="20200428T102148Z">
         <seg>Controlled Companies Annual Profit=50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Controlled Companies Annual Revenue=10000</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T221601Z" creationid="Olivier" creationdate="20200430T221601Z">
+        <seg>Controlled Companies Annual Revenue=10000</seg>
       </tuv>
     </tu>
     <tu>
@@ -4582,6 +4662,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=This is a sample script for Capitalism Lab, listing all variables under the [ENVIRONMENT] section.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222120Z" creationid="Olivier" creationdate="20200430T222120Z">
+        <seg>Description=Voici un exemple de script pour Capitalism Lab, listant toutes les variables de la section [ENVIRONNEMENT].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=This is a sample script for Capitalism Lab, listing all variables under the [SPECIAL RULES] section.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T101828Z" creationid="Olivier" creationdate="20200428T101828Z">
@@ -4614,6 +4702,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=This scenario game represents the ultimate test of your business and financial savviness in launching subsidiary companies, raising capital, structuring deals and pulling off IPOs.\n\nThe goals in this scenario can only be achieved by formulating your business strategies expertly and executing them flawlessly.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T221438Z" creationid="Olivier" creationdate="20200430T221438Z">
+        <seg>Description=Ce jeu de scénario représente le test ultime de votre savoir-faire commercial et financier en matière de lancement de filiales, de levée de capitaux, de structuration d'opérations et d'IPO.\n\n Les objectifs de ce scénario ne peuvent être atteints qu'en formulant vos stratégies commerciales de manière experte et en les exécutant sans faille.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=This script modifies technology acquisition costs to 200% of their original values.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T145402Z" creationid="Olivier" creationdate="20200426T145402Z">
@@ -4626,6 +4722,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T103421Z" creationid="Olivier" creationdate="20200428T103421Z">
         <seg>Description=Ce script modifie les coûts d'acquisition des technologies à 50 % de leur valeur d'origine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=This script modifies the autosave setting to perform an autosave once every 10 days.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T221653Z" creationid="Olivier" creationdate="20200430T221653Z">
+        <seg>Description=Ce script modifie le paramètre d'enregistrement automatique pour effectuer un enregistrement automatique une fois tous les 10 jours.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=This script modifies the autosave setting to perform an autosave once every 15 minutes in real time</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222015Z" creationid="Olivier" creationdate="20200430T222015Z">
+        <seg>Description=Ce script modifie le paramètre d'enregistrement automatique pour effectuer un enregistrement automatique toutes les 15 minutes en temps réel</seg>
       </tuv>
     </tu>
     <tu>
@@ -6744,6 +6856,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=$10 Billion in Revenues</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T221558Z" creationid="Olivier" creationdate="20200430T221558Z">
+        <seg>Goal Description=10 milliards de dollars de recettes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=Achieve an annual revenue of $20 million to complete this tutorial.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T124733Z" creationid="Olivier" creationdate="20200427T124733Z">
@@ -6953,10 +7073,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=Sprawling Corporation</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T221529Z" creationid="Olivier" creationdate="20200430T221529Z">
+        <seg>Goal Description=Société tentaculaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=Success in IPO</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T220825Z" creationid="Olivier" creationdate="20200430T220825Z">
         <seg>Goal Description=Réussite de l'IPO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=Surging Personal Wealth</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T221229Z" creationid="Olivier" creationdate="20200430T221229Z">
+        <seg>Goal Description=L'augmentation de la richesse personnelle</seg>
       </tuv>
     </tu>
     <tu>
@@ -7285,6 +7421,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T123121Z" creationid="Olivier" creationdate="20200428T123121Z">
         <seg>Rapport sur les objectifs (touche de raccourci : G / Goal)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=$10 Billion in Revenues</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T221551Z" creationid="Olivier" creationdate="20200430T221551Z">
+        <seg>Goal Title=10 milliards de dollars de recettes</seg>
       </tuv>
     </tu>
     <tu>
@@ -7641,6 +7785,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Title=Sprawling Corporation</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T221523Z" creationid="Olivier" creationdate="20200430T221523Z">
+        <seg>Goal Title=Société tentaculaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Title=Strategic Positioning</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T172244Z" creationid="Olivier" creationdate="20200430T172244Z">
@@ -7661,6 +7813,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T221106Z" creationid="Olivier" creationdate="20200429T221106Z">
         <seg>Goal Title=Du succès dans des petites villes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Surging Personal Wealth</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T221218Z" creationid="Olivier" creationdate="20200430T221218Z">
+        <seg>Goal Title=L'augmentation de la richesse personnelle</seg>
       </tuv>
     </tu>
     <tu>
@@ -10881,6 +11041,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Number of Competitors=35</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T221459Z" creationid="Olivier" creationdate="20200430T221459Z">
+        <seg>Number of Competitors=35</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number of Competitors=60</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T103521Z" creationid="Olivier" creationdate="20200428T103521Z">
@@ -12181,6 +12349,30 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102137Z" creationid="Olivier" creationdate="20200428T102137Z">
         <seg>Player Wealth=50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player Wealth=500</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T221234Z" creationid="Olivier" creationdate="20200430T221234Z">
+        <seg>Player Wealth=500</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player expertise change=manufacturing, 60</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T221237Z" creationid="Olivier" creationdate="20200430T221237Z">
+        <seg>Player expertise change=manufacturing, 60</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player expertise change=research and development, 100</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T221606Z" creationid="Olivier" creationdate="20200430T221606Z">
+        <seg>Player expertise change=research and development, 100</seg>
       </tuv>
     </tu>
     <tu>
@@ -14793,10 +14985,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Subsidiary Annual Profit=200,3</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T221156Z" creationid="Olivier" creationdate="20200430T221156Z">
+        <seg>Subsidiary Annual Profit=200,3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Subsidiary Annual Profit=250,3</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T171743Z" creationid="Olivier" creationdate="20200430T171743Z">
         <seg>Subsidiary Annual Profit=250,3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Subsidiary Annual Profit=300,3</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T221533Z" creationid="Olivier" creationdate="20200430T221533Z">
+        <seg>Subsidiary Annual Profit=300,3</seg>
       </tuv>
     </tu>
     <tu>
@@ -14809,10 +15017,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Subsidiary Annual Revenue=1200,3</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T221153Z" creationid="Olivier" creationdate="20200430T221153Z">
+        <seg>Subsidiary Annual Revenue=1200,3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Subsidiary Annual Revenue=1400,3</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T171738Z" creationid="Olivier" creationdate="20200430T171706Z">
         <seg>Subsidiary Annual Revenue=1400,3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Subsidiary Annual Revenue=1600,3</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T221531Z" creationid="Olivier" creationdate="20200430T221531Z">
+        <seg>Subsidiary Annual Revenue=1600,3</seg>
       </tuv>
     </tu>
     <tu>
@@ -14837,6 +15061,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T220826Z" creationid="Olivier" creationdate="20200430T220826Z">
         <seg>Subsidiary IPO=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Subsidiary Market Cap=3000,1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T221535Z" creationid="Olivier" creationdate="20200430T221535Z">
+        <seg>Subsidiary Market Cap=3000,1</seg>
       </tuv>
     </tu>
     <tu>
@@ -17266,6 +17498,22 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title=Autosave every 10 days</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T221643Z" creationid="Olivier" creationdate="20200430T221643Z">
+        <seg>Title=Sauvegarde automatique tous les 10 jours</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Autosave every 15 minutes in real time</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T221946Z" creationid="Olivier" creationdate="20200430T221946Z">
+        <seg>Title=Sauvegarde automatique toutes les 15 minutes en temps réel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Title=Bello Industries</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170259Z" creationid="Olivier" creationdate="20200427T170259Z">
@@ -17490,6 +17738,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title=Sample script - Environment</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222057Z" creationid="Olivier" creationdate="20200430T222057Z">
+        <seg>Title=Exemple de script - Environnement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Title=Sample script - Special Rules</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T101804Z" creationid="Olivier" creationdate="20200428T101804Z">
@@ -17526,6 +17782,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T222016Z" creationid="Olivier" creationdate="20200426T145757Z">
         <seg>Title=Leader technologique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=The Master of Capital</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T221313Z" creationid="Olivier" creationdate="20200430T221313Z">
+        <seg>Title=Le Maître du Capitalisme</seg>
       </tuv>
     </tu>
     <tu>
@@ -18630,6 +18894,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T133650Z" creationid="Olivier" creationdate="20200426T133650Z">
         <seg>Lorsque vous démarrez un projet de R&amp;D avec plusieurs unités de R&amp;D reliées entre elles, vous obtenez une augmentation des performances de la R&amp;D et donc un gain technologique plus important.^^Maintenant ~Double cliquez ici~ pour mettre en place la deuxième unité de R&amp;D.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you succeed in doing so, you will earn the title of the Master of Capital!</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T221456Z" creationid="Olivier" creationdate="20200430T221456Z">
+        <seg>Lorsque vous y parviendrez, vous obtiendrez le titre de Maître du Capitalisme !</seg>
       </tuv>
     </tu>
     <tu>
