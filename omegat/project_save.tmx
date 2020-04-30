@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// If this is defined, when the player has failed this goal, this text will be displayed on the goal screen.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T225318Z" creationid="Olivier" creationdate="20200430T225318Z">
+        <seg>// Si celui-ci est défini, lorsque le joueur a échoué dans ce but, ce texte sera affiché sur l'écran des objectifs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// If you set it lower than this value, the game will automatically reset it to the minimum allowed value.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222250Z" creationid="Olivier" creationdate="20200430T222250Z">
@@ -574,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// The target values for the main goals and/or subgoals may contain any of the following lines:</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T225331Z" creationid="Olivier" creationdate="20200430T225331Z">
+        <seg>// Les valeurs cibles pour les objectifs principaux et/ou les sous-objectifs peuvent contenir l'une des lignes suivantes :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// This defines how long the challenge game will last.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222620Z" creationid="Olivier" creationdate="20200430T222620Z">
@@ -654,10 +670,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// You may include any of the following industry dominance goals in this section:</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T225415Z" creationid="Olivier" creationdate="20200430T225415Z">
+        <seg>// Vous pouvez inclure dans cette section l'un des objectifs suivants de domination du secteur :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// You may include any of the following product market dominance goals in this section:</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T225431Z" creationid="Olivier" creationdate="20200430T225431Z">
+        <seg>// Vous pouvez inclure dans cette section l'un des objectifs suivants de domination du marché des produits :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// You may just specify the city name and Capitalism Lab will search it in its city database and use the pre-defined parameters for it if it can be found.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222751Z" creationid="Olivier" creationdate="20200430T222751Z">
         <seg>// Vous pouvez simplement spécifier le nom de la ville et Capitalism Lab la recherchera dans sa base de données de villes et utilisera les paramètres prédéfinis pour celle-ci si elle peut être trouvée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// You may optionally define rewards for the main goal and subgoals.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T225511Z" creationid="Olivier" creationdate="20200430T225511Z">
+        <seg>// Vous pouvez éventuellement définir des récompenses pour l'objectif principal et les objectifs secondaires.</seg>
       </tuv>
     </tu>
     <tu>
@@ -694,6 +734,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// You may view all product classes in the game by accessing the Product Summary Report and look at the product class list at the top left of the report.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T225446Z" creationid="Olivier" creationdate="20200430T225446Z">
+        <seg>// Vous pouvez visualiser toutes les classes de produits dans le jeu en accédant au rapport de synthèse sur les produits et en consultant la liste des classes de produits en haut à gauche du rapport.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// You will be able to create a game with a maximum of 10 cities using a game script.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T224958Z" creationid="Olivier" creationdate="20200430T222139Z">
@@ -714,6 +762,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222626Z" creationid="Olivier" creationdate="20200430T222626Z">
         <seg>// e.g. Ranking Method=Industry Revenue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// impose penalties when the player fails to achieve it within the time limit.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T225545Z" creationid="Olivier" creationdate="20200430T225545Z">
+        <seg>// impose des pénalités lorsque le joueur ne l'atteint pas dans le délai imparti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -754,6 +810,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T210112Z" creationid="Acer" creationdate="20200424T210112Z">
         <seg>// to the stock price from fluctuating and displaying the Not Enough Cash message in a popup window</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>//(value unit: million dollars)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T225355Z" creationid="Olivier" creationdate="20200430T225355Z">
+        <seg>//(unité de valeurs : million dollars)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1250,6 +1314,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T195816Z" creationid="Acer" creationdate="20200424T182122Z">
         <seg>Un conseil stratégique pour vous : concentrez-vous sur les produits que vous fabriquez déjà, construisez de nouveaux magasins de détail et, en fin de compte, dominez le marché ! Et lorsque vous êtes prêt à étendre votre activité dans d'autres villes, n'oubliez pas d'utiliser la ~mini carte~ pour passer d'une ville à l'autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A subgoal may be set to</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T225526Z" creationid="Olivier" creationdate="20200430T225526Z">
+        <seg>Un sous-objectif peut être fixé à</seg>
       </tuv>
     </tu>
     <tu>
@@ -2338,6 +2410,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222017Z" creationid="Olivier" creationdate="20200430T222017Z">
         <seg>Auto Save Interval Minutes=15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Automobile</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T225447Z" creationid="Olivier" creationdate="20200430T225447Z">
+        <seg>Automobile</seg>
       </tuv>
     </tu>
     <tu>
@@ -7773,6 +7853,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T225054Z" creationid="Olivier" creationdate="20200429T162504Z">
         <seg>Goal Description=Le but ultime de cette partie est d'atteindre un chiffre d'affaires d'un milliard de dollars et un bénéfice annuel de 100 millions de dollars, et de laisser les performances financières de votre entreprise faire grimper le cours de l'action de la société à plus de 500 dollars.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Failed Text=Sorry, you have failed to achieve your goal within the time limit.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T225247Z" creationid="Olivier" creationdate="20200430T225247Z">
+        <seg>Goal Failed Text=Désolé, vous n'avez pas atteint votre objectif dans le délai imparti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14549,6 +14637,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T115511Z" creationid="Olivier" creationdate="20200429T115511Z">
         <seg>Retour|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Return on Equity=10</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T225357Z" creationid="Olivier" creationdate="20200430T225357Z">
+        <seg>Return on Equity=10</seg>
       </tuv>
     </tu>
     <tu>
