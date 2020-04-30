@@ -352,8 +352,8 @@
       <tuv lang="en-US">
         <seg>// Game Starting Year=&lt;1900 to 2100&gt;</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151518Z" creationid="Inrepublica" creationdate="20200423T151518Z">
-        <seg>// Game Starting Year=&lt;1900 to 2100&gt;</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T225152Z" creationid="Inrepublica" creationdate="20200423T151518Z">
+        <seg>// Année de départ de la partie=&lt;1900 to 2100&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -374,6 +374,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// If this is defined, this goal will only become available when the player has successfully completed another goal you specified (parent goal).</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T224251Z" creationid="Olivier" creationdate="20200430T224251Z">
+        <seg>// S'il est défini, cet objectif ne sera disponible que lorsque le joueur aura atteint avec succès un autre objectif que vous avez spécifié (objectif parent).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// If this is defined, when the player has achieved this goal, this text will be displayed on the goal screen.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T225229Z" creationid="Olivier" creationdate="20200430T225229Z">
+        <seg>// Si celui-ci est défini, lorsque le joueur a atteint ce but, ce texte sera affiché sur l'écran des objectifs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// If you set it lower than this value, the game will automatically reset it to the minimum allowed value.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222250Z" creationid="Olivier" creationdate="20200430T222250Z">
@@ -386,6 +402,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151401Z" creationid="Inrepublica" creationdate="20200423T151401Z">
         <seg>// Import Quality=&lt;Low,Moderate,High&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// In the current example, the player has to first achieve the "First Subgoal" before the "Second Subgoal" will become available.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T224311Z" creationid="Olivier" creationdate="20200430T224311Z">
+        <seg>// Dans l'exemple actuel, le joueur doit d'abord atteindre le "premier sous-objectif" avant que le "deuxième sous-objectif" ne soit disponible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -488,8 +512,8 @@
       <tuv lang="en-US">
         <seg>// Random Events=&lt;Never, Seldom, Occasional, Frequent&gt;</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151213Z" creationid="Inrepublica" creationdate="20200423T151213Z">
-        <seg>// Random Events=&lt;Never, Seldom, Occasional, Frequent&gt;</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T225122Z" creationid="Inrepublica" creationdate="20200423T151213Z">
+        <seg>// Évènements aléatoires=&lt;Never, Seldom, Occasional, Frequent&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -672,16 +696,16 @@
       <tuv lang="en-US">
         <seg>// You will be able to create a game with a maximum of 10 cities using a game script.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222139Z" creationid="Olivier" creationdate="20200430T222139Z">
-        <seg>// You will be able to create a game with a maximum of 10 cities using a game script.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T224958Z" creationid="Olivier" creationdate="20200430T222139Z">
+        <seg>// Vous pourrez créer un jeu avec un maximum de 10 villes en utilisant un script de jeu.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>// Your Start-up Capital=&lt;Very Low, Low, Moderate, High, Very High&gt;</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151210Z" creationid="Inrepublica" creationdate="20200423T151210Z">
-        <seg>// Your Start-up Capital=&lt;Very Low, Low, Moderate, High, Very High&gt;</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T225037Z" creationid="Inrepublica" creationdate="20200423T151210Z">
+        <seg>// Votre capital de départ=&lt;Very Low, Low, Moderate, High, Very High&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -746,6 +770,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T124957Z" creationid="Olivier" creationdate="20200423T124957Z">
         <seg>//------------------------------------------------------------------------------------------------//</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>//---------------------------------------------------------------------------------------------//</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T224755Z" creationid="Olivier" creationdate="20200430T224755Z">
+        <seg>//---------------------------------------------------------------------------------------------//</seg>
       </tuv>
     </tu>
     <tu>
@@ -4950,10 +4982,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=This is a sample script for Capitalism Lab, listing all variables under the [IMPORTS] section.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T224446Z" creationid="Olivier" creationdate="20200430T224446Z">
+        <seg>Description=Voici un exemple de script pour Capitalism Lab, listant toutes les variables dans la section [IMPORTATIONS].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=This is a sample script for Capitalism Lab, listing all variables under the [MAIN GOAL] and [SUBGOAL] section.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T223549Z" creationid="Olivier" creationdate="20200430T223549Z">
         <seg>Description=Ceci est un exemple de script pour Capitalism Lab, listant toutes les variables sous la section [OBJECTIF PRINCIPAL] et [OBJECTIF SECONDAIRE].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=This is a sample script for Capitalism Lab, listing all variables under the [MAIN GOAL] section.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T224754Z" creationid="Olivier" creationdate="20200430T224754Z">
+        <seg>Description=Ceci est un exemple de scénario pour le Capitalism Lab, listant toutes les variables sous la section [OBJECTIF PRINCIPAL].</seg>
       </tuv>
     </tu>
     <tu>
@@ -7891,8 +7939,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Goal Title=First Subgoal</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102317Z" creationid="Olivier" creationdate="20200428T102317Z">
-        <seg>Goal Title=Premier sous-objectifl</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T224355Z" creationid="Olivier" creationdate="20200428T102317Z">
+        <seg>Goal Title=Premier sous-objectif</seg>
       </tuv>
     </tu>
     <tu>
@@ -11505,6 +11553,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Number of Game Years=8</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T224403Z" creationid="Olivier" creationdate="20200430T224403Z">
+        <seg>Number of Game Years=8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number of Game Years=80</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T162507Z" creationid="Olivier" creationdate="20200429T162507Z">
@@ -12133,6 +12189,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T230002Z" creationid="Olivier" creationdate="20200429T214018Z">
         <seg>Parent Goal=L'agriculture et la position dominante dans le commerce de détail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Parent Goal=First Subgoal</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T224401Z" creationid="Olivier" creationdate="20200430T224401Z">
+        <seg>Parent Goal=Premier sous-objectif</seg>
       </tuv>
     </tu>
     <tu>
@@ -14717,6 +14781,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T144925Z" creationid="Olivier" creationdate="20200430T144925Z">
         <seg>Score change=180</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Score change=20</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T224405Z" creationid="Olivier" creationdate="20200430T224405Z">
+        <seg>Score change=20</seg>
       </tuv>
     </tu>
     <tu>
@@ -18180,8 +18252,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>Title=Sample script - Challenge Game</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222317Z" creationid="Olivier" creationdate="20200430T222317Z">
-        <seg>Title=Exemple de script - Jeu de défi</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T224720Z" creationid="Olivier" creationdate="20200430T222317Z">
+        <seg>Title=Exemple de scénario - Jeu de défi</seg>
       </tuv>
     </tu>
     <tu>
@@ -18206,6 +18278,22 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222057Z" creationid="Olivier" creationdate="20200430T222057Z">
         <seg>Title=Exemple de script - Environnement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Sample script - Imports</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T224419Z" creationid="Olivier" creationdate="20200430T224419Z">
+        <seg>Title=Exemple de script - Importations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Sample script - Main Goal</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T224507Z" creationid="Olivier" creationdate="20200430T224507Z">
+        <seg>Title=Exemple de script - Objectif principal</seg>
       </tuv>
     </tu>
     <tu>
@@ -19670,6 +19758,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T223702Z" creationid="Olivier" creationdate="20200430T223702Z">
         <seg>Vous avez atteint votre premier sous-objectif.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have achieved your main goal.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T224922Z" creationid="Olivier" creationdate="20200430T224922Z">
+        <seg>Vous avez atteint votre premier objectif principal..</seg>
       </tuv>
     </tu>
     <tu>
