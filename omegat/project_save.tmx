@@ -414,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// nation and average ratings</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T105118Z" creationid="Olivier" creationdate="20200430T105118Z">
+        <seg>// nation and average ratings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// this should only be used if you intend to create a game scenario with such characteristics.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151355Z" creationid="Inrepublica" creationdate="20200423T151355Z">
@@ -2318,6 +2326,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Build a New City</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T104729Z" creationid="Olivier" creationdate="20200430T104729Z">
+        <seg>Build a New City</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Build another factory to produce a different ~apparel~ product.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T202633Z" creationid="Acer" creationdate="20200424T174542Z">
@@ -2974,6 +2990,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>City wage rate=70, Manchester</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T104659Z" creationid="Olivier" creationdate="20200430T104659Z">
+        <seg>City wage rate=70, Manchester</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>City wage rate=80, London</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T103854Z" creationid="Olivier" creationdate="20200430T103854Z">
@@ -3018,6 +3042,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220348Z" creationid="Olivier" creationdate="20200429T220348Z">
         <seg>City=Brisbane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City=Busan</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T104943Z" creationid="Olivier" creationdate="20200430T104943Z">
+        <seg>City=Busan</seg>
       </tuv>
     </tu>
     <tu>
@@ -4614,6 +4646,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=Your goal is to grow the cities into prosperous metropolitan areas.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T104909Z" creationid="Olivier" creationdate="20200430T104909Z">
+        <seg>Description=Votre objectif est de transformer les villes en zones métropolitaines prospères.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Detailed Help Information</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T170155Z" creationid="Olivier" creationdate="20200428T170155Z">
@@ -5070,10 +5110,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Education rating=90</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T105122Z" creationid="Olivier" creationdate="20200430T105122Z">
+        <seg>Education rating=90</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Education rating=90, London</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T103852Z" creationid="Olivier" creationdate="20200430T103852Z">
         <seg>Education rating=90, London</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Education rating=90, Manchester</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T104657Z" creationid="Olivier" creationdate="20200430T104657Z">
+        <seg>Education rating=90, Manchester</seg>
       </tuv>
     </tu>
     <tu>
@@ -6945,6 +7001,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=Your goal is to successfully get members from your political party elected as mayors of the cities and grow the cities' populations.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T105553Z" creationid="Olivier" creationdate="20200430T105045Z">
+        <seg>Goal Description=Votre objectif est de faire élire avec succès des membres de votre parti politique comme maires des villes et d'accroître la population des villes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=Your goal is to transform your family business into a true multinational conglomerate with a market capitalization of $2 billion.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220732Z" creationid="Olivier" creationdate="20200429T220732Z">
@@ -7027,8 +7091,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Goal Title=Corporate Performance</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100826Z" creationid="Olivier" creationdate="20200430T100416Z">
-        <seg>Investir Goal Title=Performance des entreprises</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T104750Z" creationid="Olivier" creationdate="20200430T100416Z">
+        <seg>Goal Title=Performance des entreprises</seg>
       </tuv>
     </tu>
     <tu>
@@ -7125,6 +7189,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214404Z" creationid="Olivier" creationdate="20200429T214404Z">
         <seg>Goal Title=Développer votre entreprise</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Growing the Cities</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T105407Z" creationid="Olivier" creationdate="20200430T105013Z">
+        <seg>Goal Title=Développer les villes</seg>
       </tuv>
     </tu>
     <tu>
@@ -8277,6 +8349,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100801Z" creationid="Olivier" creationdate="20200430T100801Z">
         <seg>Influence Score=150</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Influence Score=200</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T104819Z" creationid="Olivier" creationdate="20200430T104819Z">
+        <seg>Influence Score=200</seg>
       </tuv>
     </tu>
     <tu>
@@ -9597,6 +9677,30 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202550Z" creationid="Inrepublica" creationdate="20200422T202550Z">
         <seg>NIL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>National population=1500000</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T105124Z" creationid="Olivier" creationdate="20200430T105124Z">
+        <seg>National population=1500000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>National unemployment rate=3</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T105137Z" creationid="Olivier" creationdate="20200430T105137Z">
+        <seg>National unemployment rate=3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>National wage rate=70</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T105127Z" creationid="Olivier" creationdate="20200430T105127Z">
+        <seg>National wage rate=70</seg>
       </tuv>
     </tu>
     <tu>
@@ -11273,6 +11377,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Player Company Annual Profit=120</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T104807Z" creationid="Olivier" creationdate="20200430T104807Z">
+        <seg>Player Company Annual Profit=120</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Player Company Annual Profit=150</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T165051Z" creationid="Olivier" creationdate="20200429T165051Z">
@@ -11373,6 +11485,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100239Z" creationid="Olivier" creationdate="20200429T100239Z">
         <seg>Player Company Annual Revenue=1000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player Company Annual Revenue=1200</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T104804Z" creationid="Olivier" creationdate="20200430T104804Z">
+        <seg>Player Company Annual Revenue=1200</seg>
       </tuv>
     </tu>
     <tu>
@@ -13441,6 +13561,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Score change=160</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T104810Z" creationid="Olivier" creationdate="20200430T104810Z">
+        <seg>Score change=160</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Score change=170</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T085539Z" creationid="Olivier" creationdate="20200426T085539Z">
@@ -13469,6 +13597,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100242Z" creationid="Olivier" creationdate="20200429T100242Z">
         <seg>Score change=300</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Score change=350</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T105140Z" creationid="Olivier" creationdate="20200430T105140Z">
+        <seg>Score change=350</seg>
       </tuv>
     </tu>
     <tu>
@@ -16650,6 +16786,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title=Metropolitan Transformation</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T104903Z" creationid="Olivier" creationdate="20200430T104903Z">
+        <seg>Title=Transformation métropolitaine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Title=Multinational Corporation</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220309Z" creationid="Olivier" creationdate="20200429T220309Z">
@@ -16718,6 +16862,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T145553Z" creationid="Olivier" creationdate="20200424T145553Z">
         <seg>Pour accéder à l'écran ~Stratégie de marque~, ouvrez le rapport ~Détails de l'entreprise~ en appuyant sur la touche de raccourci ~'D'~ maintenant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To achieve the population growth required for the metropolitan transformations, you must first succeed in getting members from your political party elected as mayors of the cities.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T104941Z" creationid="Olivier" creationdate="20200430T104941Z">
+        <seg>Pour atteindre la croissance démographique nécessaire aux transformations métropolitaines, vous devez d'abord réussir à faire élire des membres de votre parti politique comme maires des villes.</seg>
       </tuv>
     </tu>
     <tu>
