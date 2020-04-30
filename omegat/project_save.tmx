@@ -2998,10 +2998,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>City population=300000, Hamburg</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T171024Z" creationid="Olivier" creationdate="20200430T171024Z">
+        <seg>City population=300000, Hamburg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>City population=300000, Pittsburgh</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100347Z" creationid="Olivier" creationdate="20200430T100347Z">
         <seg>City population=300000, Pittsburgh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City population=400000, Frankfurt</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T171016Z" creationid="Olivier" creationdate="20200430T171016Z">
+        <seg>City population=400000, Frankfurt</seg>
       </tuv>
     </tu>
     <tu>
@@ -4334,6 +4350,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DLC=Subsidiary</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T171322Z" creationid="Olivier" creationdate="20200430T171322Z">
+        <seg>DLC=Filiale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Deadline=1990-01-02</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170920Z" creationid="Olivier" creationdate="20200427T170920Z">
@@ -4618,6 +4642,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T221215Z" creationid="Olivier" creationdate="20200429T221215Z">
         <seg>Description=Vous êtes le PDG d'une société qui a récemment levé des centaines de millions de fonds auprès d'investisseurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=You are utterly determined to be number one in a few strategically targeted industries.\n\nYou win this scenario game when each of your three subsidiary companies have successfully achieved market dominance in at least one industry, with stellar performances.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T171229Z" creationid="Olivier" creationdate="20200430T171229Z">
+        <seg>Description=Vous êtes fermement déterminé à être le numéro un dans quelques industries stratégiquement ciblées. Vous gagnez ce scénario lorsque chacune de vos trois filiales a réussi à dominer le marché dans au moins une industrie, avec des performances exceptionnelles</seg>
       </tuv>
     </tu>
     <tu>
@@ -7665,6 +7697,30 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Health rating=90, Berlin</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T171011Z" creationid="Olivier" creationdate="20200430T171011Z">
+        <seg>Health rating=90, Berlin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Health rating=90, Frankfurt</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T171021Z" creationid="Olivier" creationdate="20200430T171021Z">
+        <seg>Health rating=90, Frankfurt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Health rating=90, Hamburg</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T171033Z" creationid="Olivier" creationdate="20200430T171033Z">
+        <seg>Health rating=90, Hamburg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Here it shows the product's ~quality~ and ~brand levels~.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T150815Z" creationid="Olivier" creationdate="20200423T150815Z">
@@ -7757,6 +7813,30 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100152Z" creationid="Olivier" creationdate="20200429T100152Z">
         <seg>Home Appliances</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Housing and Community Facilities rating=90, Berlin</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T171009Z" creationid="Olivier" creationdate="20200430T171009Z">
+        <seg>Housing and Community Facilities rating=90, Berlin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Housing and Community Facilities rating=90, Frankfurt</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T171019Z" creationid="Olivier" creationdate="20200430T171019Z">
+        <seg>Housing and Community Facilities rating=90, Frankfurt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Housing and Community Facilities rating=90, Hamburg</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T171030Z" creationid="Olivier" creationdate="20200430T171030Z">
+        <seg>Housing and Community Facilities rating=90, Hamburg</seg>
       </tuv>
     </tu>
     <tu>
@@ -9721,10 +9801,34 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mayor approval rating=70, Berlin</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T171006Z" creationid="Olivier" creationdate="20200430T171006Z">
+        <seg>Mayor approval rating=70, Berlin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mayor approval rating=70, Detroit</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100343Z" creationid="Olivier" creationdate="20200430T100343Z">
         <seg>Mayor approval rating=70, Detroit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mayor approval rating=70, Frankfurt</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T171015Z" creationid="Olivier" creationdate="20200430T171015Z">
+        <seg>Mayor approval rating=70, Frankfurt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mayor approval rating=70, Hamburg</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T171027Z" creationid="Olivier" creationdate="20200430T171027Z">
+        <seg>Mayor approval rating=70, Hamburg</seg>
       </tuv>
     </tu>
     <tu>
@@ -13753,6 +13857,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Score change=140</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T171100Z" creationid="Olivier" creationdate="20200430T171100Z">
+        <seg>Score change=140</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Score change=150</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T142342Z" creationid="Olivier" creationdate="20200425T142342Z">
@@ -14141,6 +14253,30 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220921Z" creationid="Olivier" creationdate="20200429T220921Z">
         <seg>Cette fois, vous avez donc conçu une nouvelle stratégie et identifié quatre petites villes sur lesquelles se concentrer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Social Security rating=90, Berlin</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T171013Z" creationid="Olivier" creationdate="20200430T171013Z">
+        <seg>Social Security rating=90, Berlin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Social Security rating=90, Frankfurt</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T171023Z" creationid="Olivier" creationdate="20200430T171023Z">
+        <seg>Social Security rating=90, Frankfurt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Social Security rating=90, Hamburg</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T171039Z" creationid="Olivier" creationdate="20200430T171039Z">
+        <seg>Social Security rating=90, Hamburg</seg>
       </tuv>
     </tu>
     <tu>
@@ -16958,6 +17094,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214733Z" creationid="Olivier" creationdate="20200429T214733Z">
         <seg>Title=Alimentation et boissons</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Industry Dominance</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T171142Z" creationid="Olivier" creationdate="20200430T171142Z">
+        <seg>Title=Position dominante dans l'industrie </seg>
       </tuv>
     </tu>
     <tu>
