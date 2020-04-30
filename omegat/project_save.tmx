@@ -2926,6 +2926,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>City GDP=10000, Detroit</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100340Z" creationid="Olivier" creationdate="20200430T100340Z">
+        <seg>City GDP=10000, Detroit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City GDP=6000, Pittsburgh</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100349Z" creationid="Olivier" creationdate="20200430T100349Z">
+        <seg>City GDP=6000, Pittsburgh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>City Initial Cash Level</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T195808Z" creationid="Inrepublica" creationdate="20200422T195808Z">
@@ -2938,6 +2954,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T171958Z" creationid="Olivier" creationdate="20200428T171958Z">
         <seg>Mode de sélection de la ville</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City population=300000, Pittsburgh</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100347Z" creationid="Olivier" creationdate="20200430T100347Z">
+        <seg>City population=300000, Pittsburgh</seg>
       </tuv>
     </tu>
     <tu>
@@ -3018,6 +3042,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220938Z" creationid="Olivier" creationdate="20200429T220938Z">
         <seg>City=Denver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City=Detroit</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100223Z" creationid="Olivier" creationdate="20200430T100223Z">
+        <seg>City=Detroit</seg>
       </tuv>
     </tu>
     <tu>
@@ -3122,6 +3154,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151258Z" creationid="Inrepublica" creationdate="20200423T151258Z">
         <seg>City=Philadelphia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City=Pittsburgh</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100230Z" creationid="Olivier" creationdate="20200430T100230Z">
+        <seg>City=Pittsburgh</seg>
       </tuv>
     </tu>
     <tu>
@@ -4190,6 +4230,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DLC=CityEcoSim</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100218Z" creationid="Olivier" creationdate="20200430T100218Z">
+        <seg>DLC=CityEcoSim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Deadline=1990-01-02</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170920Z" creationid="Olivier" creationdate="20200427T170920Z">
@@ -4402,6 +4450,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T172920Z" creationid="Olivier" creationdate="20200423T172920Z">
         <seg>Description=Votre commerce de détail étant florissant, votre prochain objectif est de fabriquer vos propres produits et de les vendre sous votre propre marque.^^ Ce tutoriel vous guidera dans le processus de création d'usines, d'approvisionnement en matières premières et de mise en route des installations de fabrication pour produire des produits à vendre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=With your track record in the business world, you are confident that you can lead your political party to win the mayoral elections in Detroit and Pittsburgh and set the right policies to boost their economies, creating much needed new business and job opportunities for the cities.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100217Z" creationid="Olivier" creationdate="20200430T100217Z">
+        <seg>Description=Avec vos antécédents dans le monde des affaires, vous êtes sûr de pouvoir mener votre parti politique à la victoire aux élections municipales de Detroit et de Pittsburgh et de mettre en place les bonnes politiques pour stimuler leur économie, en créant de nouvelles opportunités d'affaires et d'emploi dont les villes ont tant besoin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6705,6 +6761,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=With your track record in the business world, you are confident that you can lead your political party to win the mayoral elections in Detroit and Pittsburgh and set the right policies to boost their economies, creating much needed new business and job opportunities for the cities.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100338Z" creationid="Olivier" creationdate="20200430T100338Z">
+        <seg>Goal Description=Avec vos antécédents dans le monde des affaires, vous êtes sûr de pouvoir mener votre parti politique à la victoire aux élections municipales de Detroit et de Pittsburgh et de mettre en place les bonnes politiques pour stimuler leur économie, en créant de nouvelles opportunités d'affaires et d'emploi dont les villes ont tant besoin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=You are the CEO of a corporation which has recently raised hundreds of millions of funds from investors.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T221356Z" creationid="Olivier" creationdate="20200429T221356Z">
@@ -6897,10 +6961,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Title=Corporate Performance</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100416Z" creationid="Olivier" creationdate="20200430T100416Z">
+        <seg>Goal Title=Performance des entreprises</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Title=Develop a Product Portfolio</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T221015Z" creationid="Olivier" creationdate="20200429T221015Z">
         <seg>Goal Title=Développer un portefeuille de produits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Economic Revival</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100313Z" creationid="Olivier" creationdate="20200430T100313Z">
+        <seg>Goal Title=Relance économique</seg>
       </tuv>
     </tu>
     <tu>
@@ -8577,6 +8657,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Jobs and Income rating=90, Detroit</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100345Z" creationid="Olivier" creationdate="20200430T100345Z">
+        <seg>Jobs and Income rating=90, Detroit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Jobs and Income rating=90, Pittsburgh</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100355Z" creationid="Olivier" creationdate="20200430T100355Z">
+        <seg>Jobs and Income rating=90, Pittsburgh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Keep on adding more products to your store.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T170856Z" creationid="Olivier" creationdate="20200422T170856Z">
@@ -9293,6 +9389,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T195547Z" creationid="Inrepublica" creationdate="20200422T195547Z">
         <seg>Ratio maximum de prêts / actifs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mayor approval rating=70, Detroit</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100343Z" creationid="Olivier" creationdate="20200430T100343Z">
+        <seg>Mayor approval rating=70, Detroit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mayor approval rating=70, Pittsburgh</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100352Z" creationid="Olivier" creationdate="20200430T100352Z">
+        <seg>Mayor approval rating=70, Pittsburgh</seg>
       </tuv>
     </tu>
     <tu>
@@ -10021,6 +10133,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220956Z" creationid="Olivier" creationdate="20200429T220956Z">
         <seg>Number of Competitors=10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of Competitors=15</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100236Z" creationid="Olivier" creationdate="20200430T100236Z">
+        <seg>Number of Competitors=15</seg>
       </tuv>
     </tu>
     <tu>
@@ -12273,10 +12393,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Population=100000</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100232Z" creationid="Olivier" creationdate="20200430T100232Z">
+        <seg>Population=100000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Population=3000000</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T103618Z" creationid="Olivier" creationdate="20200428T103618Z">
         <seg>Population=3000000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Population=500000</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100225Z" creationid="Olivier" creationdate="20200430T100225Z">
+        <seg>Population=500000</seg>
       </tuv>
     </tu>
     <tu>
@@ -12769,10 +12905,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Real Wage Rate=30</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100234Z" creationid="Olivier" creationdate="20200430T100234Z">
+        <seg>Real Wage Rate=30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Real Wage Rate=35</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T103623Z" creationid="Olivier" creationdate="20200428T103623Z">
         <seg>Real Wage Rate=35</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Real Wage Rate=50</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100227Z" creationid="Olivier" creationdate="20200430T100227Z">
+        <seg>Real Wage Rate=50</seg>
       </tuv>
     </tu>
     <tu>
@@ -13797,6 +13949,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T063913Z" creationid="Inrepublica" creationdate="20200426T063913Z">
         <seg>Supérette|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Survival Mode=No</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100220Z" creationid="Olivier" creationdate="20200430T100220Z">
+        <seg>Survival Mode=No</seg>
       </tuv>
     </tu>
     <tu>
@@ -16278,6 +16438,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164623Z" creationid="Olivier" creationdate="20200429T164623Z">
         <seg>Title=Le dilemme d'un fabricant d'appareils photo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Economic Revival</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100158Z" creationid="Olivier" creationdate="20200430T100158Z">
+        <seg>Title=Relance économique</seg>
       </tuv>
     </tu>
     <tu>
