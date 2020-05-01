@@ -122,6 +122,27 @@ Il est à préciser que les fichiers proposés actuellement doivent encore être
 | corporate_leadership.txt              |   100 %          |                |                |                |
 | breakthrough_in_training.txt          |   100 %          |                |                |                |
 
+### Dossier "scenario_dlc"
+### Sous dossier CityEcoSim
+
+ Fichiers                               | Progression      | Relecture Inrepublica | Relecture PaulWoman | Concordance |
+| :----------------------------------   |:---------------  |:---------------|:---------------|:---------------|
+| Welfare_Vision.txt                    |   100 %          |                |                |                |
+| Towards_a_Better_Quality_of_Life.txt  |   100 %          |                |                |                |
+| Metropolitan_Transformation.txt       |   100 %          |                |                |                |
+| Investing_in_Education.txt            |   100 %          |                |                |                |
+| Economic_Revival.txt                  |   100 %          |                |                |                |
+
+### Sous dossier Subsidiary
+
+ Fichiers                              | Progression      | Relecture Inrepublica | Relecture PaulWoman | Concordance |
+| :----------------------------------  |:---------------  |:---------------|:---------------|:---------------|
+| The_Master_of_Capital.txt            |   100 %          |                |                |                |
+| Supercharging_ROI.txt                |   100 %          |                |                |                |
+| Success_in_IPO.txt                   |   100 %          |                |                |                |
+| Strategic_Positioning.txt            |   100 %          |                |                |                |
+| Industry_Dominance.txt               |   100 %          |                |                |                |
+
 ## Fichiers divers
 
 ### Notice.html du dossier "font"
