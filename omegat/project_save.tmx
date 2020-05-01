@@ -22835,6 +22835,22 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0716]Select|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200501T202418Z" creationid="Inrepublica" creationdate="20200501T202418Z">
+        <seg>[0716]Sélectionnez|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0717]Setup:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200501T202431Z" creationid="Inrepublica" creationdate="20200501T202431Z">
+        <seg>[0717]Configuration:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0718]Monthly:|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T084544Z" creationid="Olivier" creationdate="20200428T084544Z">
