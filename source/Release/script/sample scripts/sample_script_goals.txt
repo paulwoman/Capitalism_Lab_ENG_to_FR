@@ -28,7 +28,7 @@ Goal Achieved Text=Congratulations! You have achieved your first subgoal.
 Goal Failed Text=Sorry, you have failed your first subgoal. 
 
 // If this is a defined, the goal image will be displayed on the goal report. 
-// The image must be in JPG format, stored in ¡°script\image¡± subfolder under the Capitalism Lab folder, and the image size must not be larger than 395x85.
+// The image must be in JPG format, stored in Â¡Â°script\imageÂ¡Â± subfolder under the Capitalism Lab folder, and the image size must not be larger than 395x85.
 Goal Image=subgoal image 1.jpg
 
 // This subgoal will not be available until 1st January 1991
