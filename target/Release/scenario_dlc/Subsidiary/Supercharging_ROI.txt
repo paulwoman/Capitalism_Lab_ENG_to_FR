@@ -1,0 +1,67 @@
+[HEADER]
+Title=Stimuler le ROI
+Description=Vous avez conçu une stratégie solide pour augmenter le retour sur investissement (ROI) de votre entreprise, impliquant l'utilisation de filiales pour maximiser la croissance et la rentabilité dans les marchés ciblés. Pour exécuter cette stratégie et obtenir les résultats que vous avez promis à vos investisseurs, vous devez d'abord recruter des cadres de haut niveau qui excellent dans les marchés sur lesquels vos filiales doivent se concentrer. Mais dans l'environnement commercial hautement concurrentiel d'aujourd'hui, les véritables bons dirigeants sont des ressources rares, férocement recherchées par de nombreuses entreprises. Êtes-vous sûr de pouvoir y arriver ?
+Difficulty Rating=100
+DLC=Subsidiary
+
+[ENVIRONMENT]
+Subsidiaries=2
+Number of Cities=5
+Your Start-up Capital=High
+Random Events=Occasional 
+Game Starting Year=1990
+Retail Store Type=Many
+Technology Disruption=On
+Stock Market=Yes
+Alternative Stock Sim=Yes
+Macro Economy Realism=High
+Inflation=Inverse
+Inflation Strength=Normal
+
+
+[COMPETITORS]
+Number of Competitors=28
+Competitor Start-up Capital=High  
+Competitor Aggressiveness=High  
+Competitor Expertise Level=High 
+Show Competitor Trade Secrets=Yes
+AI Friendly Merger=No
+Competence of Local Competitors=Moderate 
+
+[IMPORTS]
+Consumer Goods Seaports=2
+Industrial Goods Seaports=2
+Constant Import Supply=No
+Import Quality=High 
+
+
+//-------------------------------------------------------------------
+
+[MAIN GOAL]
+Goal Title=Un ROI incroyable
+Goal Description=Un ROI incroyable
+
+Number of Game Years=80
+
+[MAIN GOAL VALUES]
+Subsidiary Market Cap=2000,2
+Subsidiary Annual Revenue=1200,3
+Subsidiary Annual Profit=200,3
+
+[MAIN GOAL REWARDS] 
+Score change=300
+
+//-------------------------------------------------------------------
+
+[SUBGOAL]
+Goal Title=L'augmentation de la richesse personnelle
+Goal Description=L'augmentation de la richesse personnelle
+
+Goal Achieved Text=Félicitations ! 
+
+[SUBGOAL VALUES]
+Player Wealth=500
+
+[SUBGOAL REWARDS] 
+Score change=100
+Player expertise change=manufacturing, 60

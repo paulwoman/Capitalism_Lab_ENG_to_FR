@@ -1,0 +1,14 @@
+[HEADER]
+Title=Exemple de scénario - Jeu de défi
+Description=Ceci est un exemple de script pour Capitalism Lab, listant toutes les variables sous la section [JEU DE DÉFI]. 
+
+[CHALLENGE GAME]
+Number of Game Years=30
+// Number of Game Years=<2 to 1000> 
+// This defines how long the challenge game will last.
+
+Ranking Method=Score
+// Ranking Method=<Score, Total Revenue, Total Profit, Industry Revenue, Product Revenue, Time to Achieve Goal>
+// e.g. Ranking Method=Industry Revenue 
+// This defines the ranking method of the challenge game. 
+

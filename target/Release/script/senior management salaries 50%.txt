@@ -1,0 +1,13 @@
+[HEADER]
+Title=50% salaries for your senior management staff
+Description=This script modifies the salaries of your senior management staff to 50% of their original values. 
+
+//------------------------------------------------------------------------------------------------//
+
+[SPECIAL RULES]
+
+CEO Salary Modifier=50
+COO Salary Modifier=50
+CTO Salary Modifier=50
+CMO Salary Modifier=50
+

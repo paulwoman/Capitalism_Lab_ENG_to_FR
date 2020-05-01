@@ -1,0 +1,42 @@
+[HEADER]
+Title=Custom Script
+Description=None
+
+[ENVIRONMENT]
+Number of Cities=10
+Your Start-up Capital=Very High
+Random Events=Never
+Game Starting Year=1900 
+Retail Store Type=Many
+Technology Disruption=No
+Stock Market=Yes
+Alternative Stock Sim=Yes
+Marco Economy Realism=High
+Inflation=On
+Inflation Strength=Reduced
+Number of AI Persons=50
+
+[COMPETITORS]
+Number of Competitors=20 
+Competitor Start-up Capital=Very Low
+Competitor Aggressiveness=Very High
+Competitor Expertise Level=High
+Show Competitor Trade Secrets=No
+AI Friendly Merger=Yes
+Competence of Local Competitors=Low
+
+[IMPORTS]
+Consumer Goods Seaports=0
+Industrial Goods Seaports=0
+Constant Import Supply=No
+Import Quality=Low
+
+[PLAYER EXPERTISE]
+Retailing=100
+Farming=100
+Manufacturing=100
+Research and Development=100
+Raw Material Production=100
+Marketing=100
+Training=100
+Product Expertise=Communication Devices, 100
