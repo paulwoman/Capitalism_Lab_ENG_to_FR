@@ -1,9 +1,0 @@
-[Manufacturing Unit]
-~Nom du produit~
-Le type de produit que l'unité fabrique actuellement.^
-~Stock de produits~
-Cette zone indique le stock du produit dans l'unité. Chaque boîte représente une cargaison du produit. Chaque cargaison peut stocker un certain nombre d'unités du produit.^ 
-~Stock de matières premières~
-Les stocks de matières premières sont représentés ici par une rangée de barres vertes. La longueur de chaque barre indique la quantité de matière première stockée dans l'unité. Au cours d'un processus de fabrication, les matières premières doivent d'abord entrer dans une unité de fabrication, puis être transformées en produits. Le processus de fabrication est suspendu lorsqu'une des matières premières nécessaires fait défaut. Ainsi, pour que l'unité fonctionne au maximum de son efficacité, vous devez assurer un approvisionnement constant en matières premières.^
-~Utilisation~
-Cette barre marron montre l'utilisation de l'unité. Si cette barre atteint sa pleine longueur, l'unité a atteint sa pleine capacité. Elle ne peut plus fabriquer de biens même si l'offre et la demande augmentent. D'autre part, si cette barre est courte, cela indique que ses installations et ses ressources ne sont pas utilisées efficacement. Cela pourrait contribuer à la faible rentabilité de l'entreprise.
