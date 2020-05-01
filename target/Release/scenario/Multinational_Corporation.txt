@@ -1,0 +1,126 @@
+[HEADER]
+Title=Multinationale 
+Description=Vous dirigez une entreprise familiale en Australie qui se concentre sur les marchés locaux et est extrêmement prudente dans son expansion à l'étranger.^^ Mais vous êtes plus ambitieux et vous visez toujours une expansion mondiale. ^^Pour persuader votre famille de soutenir votre plan de transformation de l'entreprise familiale en société multinationale, vous devez d'abord leur prouver votre capacité à gérer une entreprise de plus grande envergure avec une grande rentabilité. 
+
+Difficulty Rating=130
+
+[ENVIRONMENT]
+Number of Cities=6
+Your Start-up Capital=High
+Random Events=Occasional 
+Game Starting Year=1990
+Retail Store Type=Many
+Technology Disruption=On
+Stock Market=Yes
+Alternative Stock Sim=Yes
+Macro Economy Realism=High
+Inflation=Inverse
+Inflation Strength=Normal
+
+[CITIES]
+City=Sydney
+City=Melbourne
+City=Brisbane
+City=Singapore
+Locked=yes
+City=Tokyo
+Locked=yes
+City=London
+Locked=yes
+
+[COMPETITORS]
+Number of Competitors=20
+Competitor Start-up Capital=Moderate  
+Competitor Aggressiveness=Moderate  
+Competitor Expertise Level=Moderate
+Show Competitor Trade Secrets=Yes
+AI Friendly Merger=No
+Competence of Local Competitors=Moderate 
+
+[IMPORTS]
+Consumer Goods Seaports=2
+Industrial Goods Seaports=2
+Constant Import Supply=No
+Import Quality=Moderate 
+
+
+//-------------------------------------------------------------------//
+
+[SUBGOAL]
+Goal Title=Se développer à Singapour 
+Goal Description=Prouvez votre capacité à gérer une entreprise prospère et gagnez le soutien de votre famille pour vous développer à l'étranger.
+Goal Achieved Text=Félicitations ! Vous avez gagné la confiance de votre famille et vous avez maintenant leur bénédiction pour étendre l'entreprise familiale à l'étranger, à Singapour. 
+
+Number of Game Years=20
+
+[SUBGOAL VALUES]
+Player Company Annual Revenue=300
+Player Company Annual Profit=50 
+
+
+[SUBGOAL REWARDS] 
+Score change=100
+Unlock city=Singapore
+
+//-------------------------------------------------------------------//
+
+[SUBGOAL]
+Goal Title=Se développer à Tokyo
+Goal Description=Pour continuer à développer l'entreprise sur d'autres marchés, vous devez impressionner votre famille avec des performances encore meilleures. 
+Goal Achieved Text=Félicitations ! Vous avez maintenant le soutien de votre famille pour poursuivre l'expansion de votre entreprise à l'étranger, à Tokyo.
+
+Number of Game Years=20
+
+Parent Goal=Se développer à Singapour
+
+[SUBGOAL VALUES]
+Player Company Annual Revenue=600
+Player Company Annual Profit=100 
+
+[SUBGOAL REWARDS] 
+Score change=120
+Unlock city=Tokyo
+
+
+//-------------------------------------------------------------------//
+
+[SUBGOAL]
+Goal Title=Se développer à Londres
+Goal Description=Dépassez les attentes de votre famille et obtenez leur soutien pour faire passer l'entreprise au niveau supérieur en vous installant à Londres. 
+Goal Achieved Text=Félicitations ! Vous avez maintenant la bénédiction de votre famille pour étendre l'activité à l'étranger, à Londres.
+
+Number of Game Years=20
+
+Parent Goal=Se développer à Tokyo
+
+[SUBGOAL VALUES]
+Player Company Annual Revenue=900
+Player Company Annual Profit=150 
+
+[SUBGOAL REWARDS] 
+Score change=150
+Unlock city=London
+
+//-------------------------------------------------------------------//
+
+[MAIN GOAL]
+Goal Title=Conglomérat multinational 
+Goal Description=Votre objectif est de transformer votre entreprise familiale en un véritable conglomérat multinational avec une capitalisation boursière de 2 milliards de dollars.
+
+Number of Game Years=30
+
+Parent Goal=Expand to London
+
+[MAIN GOAL VALUES]
+Player Company Market Cap=2000 
+
+
+[MAIN GOAL REWARDS] 
+Score change=300
+
+//-------------------------------------------------------------------//
+
+[CHALLENGE GAME]
+Number of Game Years=50
+Ranking Method=Score
+

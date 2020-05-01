@@ -1,0 +1,100 @@
+[HEADER]
+Title=L'ouverture de la Chine
+Description=Dans les années 1990, la Chine poursuit sa réforme économique à grands pas, attirant chaque année des dizaines de milliards de dollars d'investissements étrangers.^^ Vous devez créer des usines pour profiter du faible coût de la main-d'œuvre, tout en établissant une présence dans le commerce de détail et en commençant à cultiver la notoriété de vos produits. ^^Même si le taux de rémunération et la demande locale de produits haut de gamme sont encore faibles, ils augmentent rapidement.^^ Si vous parvenez à vous implanter sur le marché, vous serez en bonne position pour en récolter les fruits lorsque le marché de la consommation en Chine atteindra une taille substantielle dans un avenir proche.
+
+Difficulty Rating=110
+
+[ENVIRONMENT]
+Number of Cities=5
+Your Start-up Capital=High
+Random Events=Occasional 
+Game Starting Year=1990
+Retail Store Type=Many
+Technology Disruption=On
+Stock Market=Yes
+Alternative Stock Sim=Yes
+Macro Economy Realism=High
+Inflation=Inverse
+Inflation Strength=Normal
+
+[CITIES]
+City=Beijing
+City=Shanghai
+City=Guangzhou
+City=Chengdu
+City=New York City
+
+[COMPETITORS]
+Number of Competitors=20
+Competitor Start-up Capital=Moderate  
+Competitor Aggressiveness=Moderate  
+Competitor Expertise Level=Moderate
+Show Competitor Trade Secrets=Yes
+AI Friendly Merger=No
+Competence of Local Competitors=Moderate 
+
+[IMPORTS]
+Consumer Goods Seaports=2
+Industrial Goods Seaports=2
+Constant Import Supply=No
+Import Quality=Moderate 
+
+[LOCKS]
+Firm, Logging Camp
+Firm, Mine
+Firm, Oil Well
+Firm, TV Station
+Firm, Newspaper Publisher
+Firm, Radio Station
+Firm, Apartment
+Firm, Commercial Building
+Firm, Civic Building
+Firm, Sports Facilities
+
+
+
+//-------------------------------------------------------------------
+
+[MAIN GOAL]
+Goal Title=Saisir les opportunités
+Goal Description=Saisissez les opportunités qui se présentent lors de l'ouverture de la Chine et développez votre entreprise pour devenir une force dominante sur le marché. 
+
+Number of Game Years=50
+
+[MAIN GOAL VALUES]
+Player Company Net Worth=250
+Player Company Annual Revenue=300
+
+[MAIN GOAL INDUSTRIES]
+Retail 
+Manufacturing 
+
+[MAIN GOAL REWARDS] 
+Score change=200
+
+
+//-------------------------------------------------------------------//
+
+[SUBGOAL]
+Goal Title=Entreprises en amont 
+Goal Description=Pour obtenir l'autorisation d'investir dans le secteur des ressources naturelles, votre entreprise doit avoir une valeur nette d'au moins 150 millions de dollars et un chiffre d'affaires annuel de 200 millions de dollars. 
+Goal Achieved Text=Félicitations ! Vous pouvez désormais créer des entreprises de ressources naturelles. 
+
+[SUBGOAL VALUES]
+Player Company Net Worth=150
+Player Company Annual Revenue=200
+
+[SUBGOAL REWARDS] 
+Unlock Firm=Logging Camp
+Unlock Firm=Mine
+Unlock Firm=Oil Well
+
+
+//-------------------------------------------------------------------//
+
+[CHALLENGE GAME]
+Number of Game Years=50
+Ranking Method=Score
+
+
+

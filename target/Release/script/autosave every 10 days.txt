@@ -1,0 +1,8 @@
+[HEADER]
+Title=Sauvegarde automatique tous les 10 jours 
+Description=Ce script modifie le paramètre d'enregistrement automatique pour effectuer un enregistrement automatique une fois tous les 10 jours. 
+
+//------------------------------------------------------------------------------------------------//
+
+[SPECIAL RULES]
+Auto Save Interval Days=10

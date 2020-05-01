@@ -1,0 +1,37 @@
+[HEADER]
+Title=Exemple de script - Villes 
+Description=Ceci est un exemple de script pour Capitalism Lab, illustrant comment utiliser les variables [VILLES] pour personnaliser les villes pour un nouveau jeu. 
+
+[ENVIRONMENT]
+// Nous devons d'abord définir le nombre de villes dans le jeu. 
+Number of Cities=5
+
+
+[CITIES]
+// Vous pouvez simplement spécifier le nom de la ville et Capitalism Lab la recherchera dans sa base de données de villes et utilisera les paramètres prédéfinis pour celle-ci si elle peut être trouvée.  
+City=London 
+
+// Vous pouvez également spécifier les paramètres de la ville dans le script, comme suit. Ils remplaceront les valeurs par défaut dans la base de données des villes du jeu. 
+City=Chicago
+Population=3000000
+Population Growth Rate=50
+Real Wage Rate=35
+
+// Vous pouvez définir le nombre de ports maritimes pour chaque ville. 
+City=San Francisco 
+Consumer Goods Seaports=1
+Industrial Goods Seaports=3
+
+// Vous pouvez créer une ville fictive en définissant ses coordonnées X et Y sur la carte du globe, comme dans l'exemple ci-dessous. 
+City=My Home Town
+Globe X=380
+Globe Y=190
+Population=1000000
+Population Growth Rate=70
+Real Wage Rate=55
+Consumer Goods Seaports=2
+Industrial Goods Seaports=3
+
+// Vous pouvez attribuer une séquence de carte spécifique à votre ville et la carte de la ville sera générée de manière identique à chaque fois qu'un nouveau jeu sera créé à l'aide du script. 
+City=Paris
+Map Seed=30198, 62336

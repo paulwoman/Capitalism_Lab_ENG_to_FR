@@ -1,0 +1,61 @@
+[HEADER]
+Title=Empire médiatique 
+Description=Vous avez toujours rêvé de construire un empire médiatique et c'est maintenant votre chance de réaliser ce rêve. ^^Votre objectif est d'augmenter les revenus de votre société de médias pour atteindre une taille substantielle et finalement surpasser toutes les autres sociétés de médias pour devenir la plus grande au monde. 
+
+Difficulty Rating=110
+
+[ENVIRONMENT]
+Number of Cities=5
+Your Start-up Capital=Very High 
+Random Events=Occasional 
+Game Starting Year=1990
+Retail Store Type=Many
+Technology Disruption=On
+Stock Market=Yes
+Alternative Stock Sim=Yes
+Macro Economy Realism=High
+Inflation=Inverse
+Inflation Strength=Normal
+
+[COMPETITORS]
+Number of Competitors=25
+Competitor Start-up Capital=Moderate  
+Competitor Aggressiveness=Moderate  
+Competitor Expertise Level=Moderate
+Show Competitor Trade Secrets=Yes
+AI Friendly Merger=No
+Competence of Local Competitors=Moderate 
+
+[IMPORTS]
+Consumer Goods Seaports=2
+Industrial Goods Seaports=2
+Constant Import Supply=No
+Import Quality=Moderate 
+
+
+//-------------------------------------------------------------------//
+
+[MAIN GOAL]
+Goal Title=Empire médiatique 
+Goal Description=Votre objectif est de faire croître l'entreprise pour devenir le plus grand conglomérat de médias au monde. 
+
+Number of Game Years=50
+
+[MAIN GOAL INDUSTRIES]
+Media 
+
+[MAIN GOAL VALUES]
+Player Company Annual Revenue=1000
+Player Company Annual Profit=300
+
+[MAIN GOAL REWARDS] 
+Score change=200
+
+//-------------------------------------------------------------------//
+
+[CHALLENGE GAME]
+Number of Game Years=50
+Ranking Method=Score
+
+
+

@@ -1,0 +1,138 @@
+[HEADER]
+Title=L'aventure dans le domaine de la mode 
+Description=Vous essayez depuis des années de réunir des capitaux pour votre start-up de mode. Malheureusement, le processus de collecte de fonds est difficile et lent. Lorsque vous réussirez finalement à lancer votre propre entreprise de mode (ce qui devrait se produire en l'an 2000), il y aura des concurrents établis sur le marché. Avez-vous ce qu'il faut pour vous tailler une place avec votre nouvelle marque de mode et prospérer sur le marché ?
+Difficulty Rating=80
+
+[ENVIRONMENT]
+Number of Cities=4
+Your Start-up Capital=High
+Random Events=Occasional 
+Game Starting Year=1990
+Retail Store Type=Many
+Technology Disruption=On
+Stock Market=Yes
+Alternative Stock Sim=Yes
+Macro Economy Realism=High
+Inflation=Inverse
+Inflation Strength=Normal
+
+[CITIES]
+City=Seoul
+City=Warsaw
+City=Paris
+City=Miami
+
+[COMPETITORS]
+Number of Competitors=20
+Competitor Start-up Capital=Moderate  
+Competitor Aggressiveness=Moderate  
+Competitor Expertise Level=Moderate
+Show Competitor Trade Secrets=Yes
+AI Friendly Merger=No
+Competence of Local Competitors=Moderate 
+
+
+Retail Focused Companies=4
+Stock Focused Companies=2
+Real Estate Focused Companies=2
+Tech Focused Companies=2
+Media Focused Companies=2
+Diversified Companies=13
+
+AI Product Expertise=Apparel,1
+//of the 13 diversified companies, 2 of them have expertise in apparel 
+
+[IMPORTS]
+Consumer Goods Seaports=2
+Industrial Goods Seaports=2
+Constant Import Supply=No
+Import Quality=Moderate 
+
+[PLAYER EXPERTISE] 
+Product Expertise=Apparel, 80
+
+[SPECIAL RULES]
+Years of Advanced Start for AI=5
+
+//-------------------------------------------------------------------//
+
+[SUBGOAL]
+Goal Title=Lancement d'une nouvelle marque 
+Goal Description=Face à la rude concurrence des entreprises de mode établies, votre objectif à court terme est de vous maintenir à flot et de vous tailler une place avec votre nouvelle marque de mode.
+
+Goal Achieved Text=Félicitations ! Les performances de votre entreprise ont impressionné les investisseurs et ont conduit à une nouvelle série d'investissements de 100 millions de dollars dans votre entreprise !   
+
+[SUBGOAL VALUES]
+Player Company Annual Revenue=100
+Player Company Annual Profit=10
+
+[SUBGOAL REWARDS] 
+Score change=50
+Corporate cash change=10
+
+//-------------------------------------------------------------------//
+
+[SUBGOAL]
+Goal Title=Développer votre entreprise
+Goal Description=Après avoir pris pied sur le marché avec votre marque et renforcé votre trésor de guerre grâce à ce nouvel investissement, vous pouvez maintenant vous permettre de développer votre entreprise de manière agressive et de saisir des parts de marché à vos concurrents. 
+
+Goal Achieved Text=Félicitations ! Vous avez fait de votre entreprise une force avec laquelle il faut compter ! 
+
+Parent Goal=Lancement d'une nouvelle marque 
+
+[SUBGOAL VALUES]
+Player Company Annual Revenue=200
+Player Company Annual Profit=20
+
+[SUBGOAL REWARDS] 
+Score change=100
+Personal Cash Change=5
+
+//-------------------------------------------------------------------//
+
+[SUBGOAL]
+Goal Title=Position dominante sur le marché
+Goal Description=Grâce à votre récente série d'expansions réussies, vous êtes maintenant en mesure de faire un nouveau bond en avant et de devenir finalement le leader du marché dans l'industrie de l'habillement.
+
+Goal Achieved Text=Félicitations ! Vous avez parcouru un long chemin depuis vos humbles débuts ! 
+
+Parent Goal=Développer votre entreprise 
+
+[SUBGOAL VALUES]
+Player Company Annual Revenue=300
+Player Company Annual Profit=30
+
+[SUBGOAL PRODUCTS]
+Apparel
+
+[SUBGOAL REWARDS] 
+Score change=150
+
+
+//-------------------------------------------------------------------//
+
+[MAIN GOAL]
+Goal Title=La suprématie de la mode 
+Goal Description=Le marché des produits en cuir est très lucratif, vous devriez tirer parti de votre succès sur le marché de la mode pour élargir vos gammes de produits afin de couvrir les produits en cuir. Vous gagnez ce jeu lorsque vous atteignez une position dominante sur le marché des vêtements et des produits en cuir. 
+
+Number of Game Years=20
+
+Parent Goal=Leadership technologique 
+
+[MAIN GOAL VALUES]
+Player Company Annual Revenue=500
+Player Company Annual Profit=50
+
+[MAIN GOAL PRODUCTS]
+Apparel 
+Leather Goods
+
+[MAIN GOAL REWARDS] 
+Score change=300
+
+//-------------------------------------------------------------------//
+
+[CHALLENGE GAME]
+Number of Game Years=30
+Ranking Method=Score
+

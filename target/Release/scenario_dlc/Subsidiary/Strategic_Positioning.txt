@@ -1,0 +1,67 @@
+[HEADER]
+Title=Positionnement stratégique
+Description=Sur les marchés actuels, qui évoluent rapidement, l'agilité des sociétés est la clé du succès.  Malheureusement, la plupart des sociétés ne parviennent pas à le maintenir lorsqu'elles finissent par devenir grandes et volumineuses. Pour vous écarter de cette voie indésirable, vous avez la prévoyance de créer deux filiales et de positionner stratégiquement chacune d'elles pour la mise au point sur des marchés spécifiques. Avec un PDG à la tête de chaque entreprise, elles peuvent réagir plus rapidement aux changements du marché et se développer à un rythme plus rapide.
+Difficulty Rating=80
+DLC=Subsidiary
+
+[ENVIRONMENT]
+Subsidiaries=2
+Number of Cities=5
+Your Start-up Capital=High
+Random Events=Occasional 
+Game Starting Year=1990
+Retail Store Type=Many
+Technology Disruption=On
+Stock Market=Yes
+Alternative Stock Sim=Yes
+Macro Economy Realism=High
+Inflation=Inverse
+Inflation Strength=Normal
+
+
+[COMPETITORS]
+Number of Competitors=25
+Competitor Start-up Capital=Moderate
+Competitor Aggressiveness=Moderate
+Competitor Expertise Level=Moderate
+Show Competitor Trade Secrets=Yes
+AI Friendly Merger=No
+Competence of Local Competitors=Moderate 
+
+[IMPORTS]
+Consumer Goods Seaports=2
+Industrial Goods Seaports=2
+Constant Import Supply=No
+Import Quality=High 
+
+
+//-------------------------------------------------------------------
+
+[MAIN GOAL]
+Goal Title=Positionnement stratégique
+Goal Description=Sur les marchés actuels, qui évoluent rapidement, l'agilité des sociétés est la clé du succès.  Malheureusement, la plupart des sociétés ne parviennent pas à le maintenir lorsqu'elles finissent par devenir grandes et volumineuses. Pour vous écarter de cette voie indésirable, vous avez la prévoyance de créer deux filiales et de positionner stratégiquement chacune d'elles pour la mise au point sur des marchés spécifiques. 
+
+Number of Game Years=80
+
+[MAIN GOAL VALUES]
+Subsidiary Annual Revenue=800,2
+Subsidiary Annual Profit=100,2
+
+[MAIN GOAL REWARDS] 
+Score change=200
+
+//-------------------------------------------------------------------
+
+[SUBGOAL]
+Goal Title=Filiales à valeur nette élevée
+Goal Description=Vous gagnez ce sous-objectif lorsque la valeur nette de chacune de vos filiales a atteint un milliard de dollars. (La valeur nette est la valeur de tous les actifs d'une entreprise moins la valeur de tous ses passifs en cours. La valeur nette est également connue sous le nom de capitaux propres que vous pouvez consulter à partir du bilan dans le rapport Données sur l'entreprise.
+
+Goal Achieved Text=Félicitations ! Vous avez maintenant deux filiales dont la valeur nette dépasse le milliard de dollars chacune !
+
+[SUBGOAL VALUES]
+Subsidiary Net Worth=1000,2
+
+[SUBGOAL REWARDS] 
+Score change=100
+Player expertise change=retail, 60
+
