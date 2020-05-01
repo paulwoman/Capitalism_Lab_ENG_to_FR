@@ -1,0 +1,94 @@
+[HEADER]
+Title=Le dilemme d'un fabricant d'appareils photo
+Description=Avec plus de vingt ans d'expérience dans la production de matériel photographique de classe mondiale à votre actif, vous avez gagné la confiance d'un groupe d'investisseurs pour le financement de votre start-up. Alors que les appareils photo traditionnels dominent encore le marché pour le moment, le développement de la technologie de la photographie numérique a pris de l'ampleur. Vous y voyez une grande opportunité, mais il faut investir à long terme dans la recherche et le développement avant de pouvoir réaliser des produits commerciaux. Devriez-vous y consacrer vos ressources dès le départ ou commencer par les appareils photo argentiques traditionnels ?
+
+Difficulty Rating=120
+
+[ENVIRONMENT]
+Number of Cities=5
+Your Start-up Capital=High
+Random Events=Occasional 
+Game Starting Year=1990
+Retail Store Type=Many
+Technology Disruption=On
+Stock Market=Yes
+Alternative Stock Sim=Yes
+Macro Economy Realism=High
+Inflation=Inverse
+Inflation Strength=Normal
+
+[COMPETITORS]
+Number of Competitors=20
+Competitor Start-up Capital=Moderate  
+Competitor Aggressiveness=Moderate  
+Competitor Expertise Level=Moderate
+Show Competitor Trade Secrets=Yes
+AI Friendly Merger=No
+Competence of Local Competitors=Moderate 
+
+[IMPORTS]
+Consumer Goods Seaports=2
+Industrial Goods Seaports=2
+Constant Import Supply=No
+Import Quality=Moderate 
+
+[PLAYER EXPERTISE] 
+Product Expertise=Photography Products, 100
+
+[LOCKS]
+Product=All
+
+[UNLOCKS]
+Product=Photography Products 
+
+//-------------------------------------------------------------------//
+
+[SUBGOAL]
+Goal Title=Leader du marché 
+Goal Description=Faites de votre entreprise un producteur d'appareils photo de haute qualité et efforcez-vous de surpasser la concurrence pour devenir le leader du marché. (Vous êtes limité à la production de produits photographiques uniquement jusqu'à ce que vous ayez atteint cet objectif).
+
+Goal Achieved Text=Félicitations ! Votre entreprise est devenue le premier fabricant d'appareils photo. Maintenant, vous pouvez passer à des objectifs encore plus importants. 
+
+Number of Game Years=20
+
+
+[SUBGOAL VALUES]
+Player Company Annual Revenue=200
+Player Company Annual Profit=20
+
+[SUBGOAL PRODUCTS]
+Photography Products
+
+[SUBGOAL REWARDS] 
+Score change=150
+Corporate cash change=100
+Unlock product=All
+
+//-------------------------------------------------------------------//
+
+[MAIN GOAL]
+Goal Title=Le géant de l'électronique grand public 
+Goal Description=Grâce à votre succès sur le marché des produits photographiques, vous disposez des capitaux et des ressources nécessaires pour diversifier votre activité sur le marché de l'électronique grand public et pour mener votre entreprise vers de nouveaux sommets. 
+
+Number of Game Years=40
+
+Parent Goal=Leader du marché
+
+[MAIN GOAL VALUES]
+Player Company Annual Revenue=1500
+Player Company Annual Profit=150
+
+[MAIN GOAL PRODUCTS]
+Photography Products
+Electronic Products
+Communication Devices
+
+[MAIN GOAL REWARDS] 
+Score change=300
+
+//-------------------------------------------------------------------//
+
+[CHALLENGE GAME]
+Number of Game Years=30
+Ranking Method=Score
+

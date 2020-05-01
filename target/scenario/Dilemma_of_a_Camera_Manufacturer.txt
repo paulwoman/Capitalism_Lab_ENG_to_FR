@@ -1,6 +1,6 @@
 [HEADER]
-Title=Dilemma of a Camera Manufacturer
-Description=With over twenty of years of experience in producing world-class photography equipment under your belt, you have earned the trust of a group of investors for funding your startup. ^^While traditional film cameras still dominate the market at the moment, development in digital photography technology has been gaining momentum.^^You see a great opportunity here but it requires committing a long term investment in research and development before any commercial products will materialize.^^Should you dedicate your resources to it at the outset or start with traditional film cameras and transit to digital cameras later for a hopefully smoother ride?
+Title=Le dilemme d'un fabricant d'appareils photo
+Description=Avec plus de vingt ans d'expérience dans la production de matériel photographique de classe mondiale à votre actif, vous avez gagné la confiance d'un groupe d'investisseurs pour le financement de votre start-up. ^^Tandis que les appareils photo argentiques traditionnels dominent encore le marché pour le moment, le développement de la technologie de la photographie numérique a pris de l'ampleur.^^Vous y voyez une grande opportunité, mais il faut investir à long terme dans la recherche et le développement avant de pouvoir réaliser des produits commerciaux.^^Devriez-vous y consacrer vos ressources dès le départ ou commencer par les appareils photo argentiques traditionnels et passer ensuite aux appareils numériques pour une conduite plus souple ?
 
 Difficulty Rating=120
 
@@ -44,10 +44,10 @@ Product=Photography Products
 //-------------------------------------------------------------------//
 
 [SUBGOAL]
-Goal Title=Market Leader 
-Goal Description=Establish your company a producer of high quality camera products and strive to outperform the competition to become the market leader. (You are limited to production of photography products only until you have achieved this goal.)
+Goal Title=Leader du marché 
+Goal Description=Faites de votre entreprise un producteur d'appareils photo de haute qualité et efforcez-vous de surpasser la concurrence pour devenir le leader du marché. (Vous êtes limité à la production de produits photographiques uniquement jusqu'à ce que vous ayez atteint cet objectif).
 
-Goal Achieved Text=Félicitations ! Your company has become the number one manufacturer of cameras. Now you may move on to even bigger goals. 
+Goal Achieved Text=Félicitations ! Votre entreprise est devenue le premier fabricant d'appareils photo. Maintenant, vous pouvez passer à des objectifs encore plus importants. 
 
 Number of Game Years=20
 
@@ -67,12 +67,12 @@ Unlock product=All
 //-------------------------------------------------------------------//
 
 [MAIN GOAL]
-Goal Title=Consumer Electronics Giant 
-Goal Description=With your success in the photography product market, you have the capital and resources to diversify your business into the consumer electronics market and take your corporation to new heights. 
+Goal Title=Le géant de l'électronique grand public 
+Goal Description=Grâce à votre succès sur le marché des produits photographiques, vous disposez des capitaux et des ressources nécessaires pour diversifier votre activité sur le marché de l'électronique grand public et pour mener votre entreprise vers de nouveaux sommets. 
 
 Number of Game Years=40
 
-Parent Goal=Market Leader
+Parent Goal=Leader du marché
 
 [MAIN GOAL VALUES]
 Player Company Annual Revenue=1500

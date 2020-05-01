@@ -1,0 +1,8 @@
+[HEADER]
+Title=Unlimited Natural Resources
+Description=When a natural resource firm (mine/oil well/logging camp) has used up its reserve, instead of stopping its operation, it will continue to produce the natural resources with a new recurring cost. 
+
+//------------------------------------------------------------------------------------------------//
+
+[SPECIAL RULES]
+Unlimited Natural Resources=Yes

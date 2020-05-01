@@ -8,13 +8,13 @@ Description=Script du Tutoriel #2 de Capitalism Lab
 Number of Cities=2
 
 Your Start-up Capital=High 
-// Your Start-up Capital=<Very Low, Low, Moderate, High, Very High>
+// Votre capital de départ=<Very Low, Low, Moderate, High, Very High>
 
 Random Events=Never
-// Random Events=<Never, Seldom, Occasional, Frequent>
+// Évènements aléatoires=<Never, Seldom, Occasional, Frequent>
 
 Game Starting Year=1900
-// Game Starting Year=<1900 to 2100>
+// Année de départ de la partie=<1900 to 2100>
 // You may set the game starting year to any year between 1900 and 2100.  
 
 Retail Store Type=Many
