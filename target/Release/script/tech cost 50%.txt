@@ -1,8 +1,0 @@
-[HEADER]
-Title=50 % des coûts d'acquisition des technologies 
-Description=Ce script modifie les coûts d'acquisition des technologies à 50 % de leur valeur d'origine.  
-
-//------------------------------------------------------------------------------------------------//
-
-[SPECIAL RULES]
-Tech Cost Modifier=50
