@@ -122,6 +122,27 @@ Il est à préciser que les fichiers proposés actuellement doivent encore être
 | corporate_leadership.txt              |   100 %          |                |                |                |
 | breakthrough_in_training.txt          |   100 %          |                |                |                |
 
+### Dossier "scenario_dlc"
+### Sous dossier CityEcoSim
+
+ Fichiers                               | Progression      | Relecture Inrepublica | Relecture PaulWoman | Concordance |
+| :----------------------------------   |:---------------  |:---------------|:---------------|:---------------|
+| Welfare_Vision.txt                    |   100 %          |                |                |                |
+| Towards_a_Better_Quality_of_Life.txt  |   100 %          |                |                |                |
+| Metropolitan_Transformation.txt       |   100 %          |                |                |                |
+| Investing_in_Education.txt            |   100 %          |                |                |                |
+| Economic_Revival.txt                  |   100 %          |                |                |                |
+
+### Sous dossier Subsidiary
+
+ Fichiers                              | Progression      | Relecture Inrepublica | Relecture PaulWoman | Concordance |
+| :----------------------------------  |:---------------  |:---------------|:---------------|:---------------|
+| The_Master_of_Capital.txt            |   100 %          |                |                |                |
+| Supercharging_ROI.txt                |   100 %          |                |                |                |
+| Success_in_IPO.txt                   |   100 %          |                |                |                |
+| Strategic_Positioning.txt            |   100 %          |                |                |                |
+| Industry_Dominance.txt               |   100 %          |                |                |                |
+
 ## Fichiers divers
 
 ### Notice.html du dossier "font"
@@ -136,11 +157,8 @@ Il est à préciser que les fichiers proposés actuellement doivent encore être
 
 
 # Outils
-Dans le répertoire outils se trouve un petit fichier bat qui vous permet de copier directement la traduction en cours dans le répertoire du jeu Capitalism Lab.
-Pour ce faire, éditez simplement copy_translation.bat avec un éditeur de texte et changer le paramètre source et cible par les vôtres. Par exemple: `source=C:\Users\Toto\Desktop\Capitalism_Lab\target` et `cible="C:\Users\Toto\AppData\Local\Capitalism Lab"`
+Dans le répertoire outils se trouve un petit fichier batch `copy_translation.bat` qui vous permet de copier directement la traduction en cours dans le répertoire du jeu Capitalism Lab.
 
-Il y a aussi la version "copy_translation_defaut" qui permets de copier la traduction si vous avez mis le fichier d'OmegaT dans le dossier par défaut. 
+Si vous éditez la traduction depuis l'utilisateur qui a installé Capitalism Lab et que votre traduction se trouve sur le bureau dans `Capitalism_Lab_ENG_to_FR`, vous avez juste a executer le batch.
 
-Faites l'opération avec l'utilisateur qui a installé le jeu.
-
-Egalement, il y a copy_own_translate.bat qui permet de remettre dans le jeu votre propre version "translate.txt". Pour utiliser le .bat tel quel, vous devrez sauvegarder votre version AVANT D'UTILISER "copy_translation" dans le dossier D:\Cap mais vous pouvez le mettre autrepart.
+Sinon, éditez simplement copy_translation.bat avec un éditeur de texte et changer le paramètre source et cible par les vôtres. Par exemple: `source=C:\Users\Toto\Desktop\Capitalism_Lab_ma_traduction\target\Release` et `cible="C:\Users\Toto\AppData\Local\Capitalism Lab"`
