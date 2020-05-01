@@ -1,13 +1,13 @@
 [HEADER]
-Title=7. Research and Development
-Description=To stay competitive in a fast-changing market, you must constantly invest into improving the quality of your products.^^In this tutorial, you will set up a Research and Development (R&D) Center and start R&D projects to invent more advanced technology for your products.^^The competition will be fierce, but your R&D investment should pay off and give you a competitive edge against your rivals. 
+Title=1. Budding Entrepreneur 
+Description=In this tutorial, you will be introduced to the basics of the game's interface. You will then learn how to build your first retail store, stock it with products from suppliers, and sell them to consumers to generate incomes. 
 
 //------------------------------------------------------------------------------------------------//
 
 [ENVIRONMENT]
-Number of Cities=3
+Number of Cities=2
 
-Your Start-up Capital=Very High
+Your Start-up Capital=Very High 
 // Your Start-up Capital=<Very Low, Low, Moderate, High, Very High>
 
 Random Events=Never
@@ -17,13 +17,13 @@ Game Starting Year=1900
 // Game Starting Year=<1900 to 2100>
 // You may set the game starting year to any year between 1900 and 2100.  
 
-Retail Store Type=Many
+Retail Store Type=One
 // Retail Store Type=<One, Many>
 
 Technology Disruption=Off
 // Technology Disruption=<Yes, No>
 
-Stock Market=Yes
+Stock Market=No
 // Stock Market=<Yes, No>
 
 Macro Economy Realism=Low
@@ -32,14 +32,12 @@ Macro Economy Realism=Low
 Inflation=Off
 // Inflation=<Off, On, Inverse> 
 
-
 //------------------------------------------------------------------------------------------------//
 
 [CITIES]
 
-City=Frankfurt
-City=Helsinki
-City=Seoul 
+City=Philadelphia
+City=Melbourne
 
 //------------------------------------------------------------------------------------------------//
 
@@ -72,10 +70,10 @@ Competence of Local Competitors=Very Low
 Consumer Goods Seaports=3
 // Consumer Goods Seaports per City=<0-4>
 
-Industrial Goods Seaports=1
+Industrial Goods Seaports=3
 // Industrial Goods Seaports per City=<0-4>
 
-// Please note that you may create a game up with no seaport using a game script. But the AI companies¡¯ performances will suffer and 
+// Please note that you may create a game up with no seaport using a game script. But the AI companiesÂ¡Â¯ performances will suffer and 
 // this should only be used if you intend to create a game scenario with such characteristics.
 
 Constant Import Supply=Yes
@@ -88,37 +86,58 @@ Import Quality=High
 //------------------------------------------------------------------------------------------------//
 
 [LOCKS]
+Information Center, Products 
+Information Center, Corporate Details 
+Information Center, Product Details
+Information Center, Firms
+Information Center, Financials 
+Information Center, Persons
+Information Center, Score
+Information Center, Billionaires 100
+Information Center, Manufacturer Guide
+Information Center, Farmer Guide
+Information Center, Manager Guide
+Information Center, Cities
+Information Center, The Economy
+Information Center, Financial Actions 
+Information Center, Stock Market 
+
 Buy Land
 
+Firm, R&D Center
+Firm, Farm
 Firm, Warehouse
+Firm, Factory
 Firm, Logging Camp
 Firm, Mine
 Firm, Oil Well
 Firm, TV Station
 Firm, Newspaper Publisher
 Firm, Radio Station
+Firm, Headquarters
 Firm, Mansion
 Firm, Apartment
 Firm, Commercial Building
 Firm, Civic Building
 Firm, Sports Facilities
 
+3x3 Layout
+
+Hide, Minimap 
+
 //------------------------------------------------------------------------------------------------//
 
 [MAIN GOAL]
 Goal Title=Tutorial Goal
-Goal Description=To win this game, your company must achieve an annual revenue of $150 million and an annual profit of $15 million.
-
-[MAIN GOAL PRODUCTS]
-Home Appliances
+Goal Description=Achieve an annual revenue of $20 million to complete this tutorial. 
 
 [MAIN GOAL VALUES]
-Player Company Annual Profit=20
+Player Company Annual Revenue=20
 
 [MAIN GOAL REWARDS] 
-Score change=250
+Score change=50
 
 //------------------------------------------------------------------------------------------------//
 
 [TUTORIAL]
-Tutorial=TUT07
+Tutorial=TUT01

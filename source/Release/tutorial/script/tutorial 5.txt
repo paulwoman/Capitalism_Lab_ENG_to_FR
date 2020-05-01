@@ -1,6 +1,7 @@
 [HEADER]
-Title=4. Branding and Advertising 
-Description=You realize that your products can only sell well when consumers are aware of them. In today's crowded market, advertising is essential for building consumer awareness and making your products stand out from the competition.^^This tutorial explains how branding and advertising works in the game and how you can get most out of it by making smart marketing decisions. 
+Title=5. Stock Market 
+Description=You have built a flourishing business empire. Now it is time to take it to the next level by getting it listed as a public company on the Stock Exchange.^^You will learn how to raise funds by making new shares offerings to the public to finance your business expansion, and make long term investments by buying shares of other companies with promising growth prospects.
+
 
 //------------------------------------------------------------------------------------------------//
 
@@ -23,7 +24,7 @@ Retail Store Type=Many
 Technology Disruption=Off
 // Technology Disruption=<Yes, No>
 
-Stock Market=No
+Stock Market=Yes
 // Stock Market=<Yes, No>
 
 Macro Economy Realism=Low
@@ -37,8 +38,8 @@ Inflation=Off
 
 [CITIES]
 
-City=London
-City=Bangkok
+City=New York City
+City=London 
 
 //------------------------------------------------------------------------------------------------//
 
@@ -74,7 +75,7 @@ Consumer Goods Seaports=3
 Industrial Goods Seaports=1
 // Industrial Goods Seaports per City=<0-4>
 
-// Please note that you may create a game up with no seaport using a game script. But the AI companies¡¯ performances will suffer and 
+// Please note that you may create a game up with no seaport using a game script. But the AI companiesÂ¡Â¯ performances will suffer and 
 // this should only be used if you intend to create a game scenario with such characteristics.
 
 Constant Import Supply=Yes
@@ -87,12 +88,7 @@ Import Quality=High
 //------------------------------------------------------------------------------------------------//
 
 [LOCKS]
-Information Center, Persons
-Information Center, Billionaires 100
 Information Center, Farmer Guide
-Information Center, Cities
-Information Center, The Economy
-Information Center, Stock Market 
 
 Buy Land
 
@@ -105,7 +101,6 @@ Firm, Oil Well
 Firm, TV Station
 Firm, Newspaper Publisher
 Firm, Radio Station
-Firm, Headquarters
 Firm, Mansion
 Firm, Apartment
 Firm, Commercial Building
@@ -116,18 +111,15 @@ Firm, Sports Facilities
 
 [MAIN GOAL]
 Goal Title=Tutorial Goal
-Goal Description=You win this tutorial game when you dominate the Apparel market while achieving an annual profit of not less than $2 million. 
+Goal Description=You win this tutorial game when your company's stock price increases to $100.
 
 [MAIN GOAL VALUES]
-Player Company Annual Profit=2
-
-[MAIN GOAL PRODUCTS]
-Apparel 
+Stock Price=100
 
 [MAIN GOAL REWARDS] 
-Score change=150
+Score change=170
 
 //------------------------------------------------------------------------------------------------//
 
 [TUTORIAL]
-Tutorial=TUT04
+Tutorial=TUT05

@@ -52,7 +52,7 @@ If it is set to High, the macro economy in the game will be simulated with a hig
 ~
 GM_INF
 Inflation 
-Inflation is enabled when this option is set to On. If it is set to Inverse Inflation, monetary amounts are adjusted based on their net purchasing power. The Purchasing Power Index starts at 100% and diminishes over those years with inflation. All cash and loan amounts will shrink in accordance to this Purchasing Power Index. 
+Inflation is enabled when this option is set to On. If it is set to Inverse Inflation, monetary amounts are adjusted based on their net purchasing power. 
 ~
 GM_INFS
 Inflation Strength 
@@ -240,7 +240,7 @@ A higher value means that AI banks will aggressively lure customers from competi
 ~
 SAVERATE
 Personal Savings Rate Modifier 
-This slider modifies the personal savings rate. A higher personal savings rate means that people will save and deposit more money into banks, thus boosting the profitability of banks in general. 
+This slider modifies the personal savings rate. A higher personal savings rate means that people will save and deposit more money into banks, thus boosting the profitability of banks in general.Â 
 ~
 MORETAL2
 More Talents
@@ -312,7 +312,7 @@ If you are an experienced player looking for greater challenge, you may set a pe
 ~
 BOND_CRE
 Bond Credit Standard
-With a loose credit assessment standard, all corporations will receive better credit ratings and benefit from lower bond interest expenses. 
+With a loose credit assessment standard, all corporations will receive better credit ratings and benefit from lower bond interest expenses.Â 
 ~
 BOND_LIM
 Bond Issue Limit
@@ -320,7 +320,7 @@ The maximum amounts of bonds that a corporation can issue is limited to a multip
 ~
 BOND_ON
 Feature: Bond 
-When this feature is enabled, corporations will able to able to issue bonds to raise capital, and the bond market will be accessible. 
+When this feature is enabled, corporations will able to able to issue bonds to raise capital, and the bond market will be accessible.Â 
 ~
 BANK_ON
 Feature: Bank

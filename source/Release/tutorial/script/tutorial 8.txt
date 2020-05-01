@@ -1,13 +1,13 @@
 [HEADER]
-Title=3. Manufacturing 
-Description=With your retail business thriving, your next goal is to manufacture your own products and sell them until your own brand.^^This tutorial will guide you through the process of setting up factories, sourcing raw materials and getting manufacturing facilities running to churn out products for sale. 
+Title=8. Corporate Headquarters 
+Description=You have made impressive progresses thus far and earned yourself the reputation of being one of rising stars presently in the business world.^^In this final tutorial, you will learn how to build your corporate headquarters and set up various departments to enable you to manage your business empire even more effectively. ^^Try to apply what you have learned from previous tutorials into managing your company. Remember to choose an apt brand strategy early on and invest wisely in advertising, R&D and training.
 
 //------------------------------------------------------------------------------------------------//
 
 [ENVIRONMENT]
-Number of Cities=2
+Number of Cities=3
 
-Your Start-up Capital=Moderate
+Your Start-up Capital=Very High
 // Your Start-up Capital=<Very Low, Low, Moderate, High, Very High>
 
 Random Events=Never
@@ -23,7 +23,7 @@ Retail Store Type=Many
 Technology Disruption=Off
 // Technology Disruption=<Yes, No>
 
-Stock Market=No
+Stock Market=Yes
 // Stock Market=<Yes, No>
 
 Macro Economy Realism=Low
@@ -37,8 +37,9 @@ Inflation=Off
 
 [CITIES]
 
-City=San Diego
-City=Toronto
+City=Frankfurt
+City=Helsinki
+City=Seoul 
 
 //------------------------------------------------------------------------------------------------//
 
@@ -74,7 +75,7 @@ Consumer Goods Seaports=3
 Industrial Goods Seaports=1
 // Industrial Goods Seaports per City=<0-4>
 
-// Please note that you may create a game up with no seaport using a game script. But the AI companies¡¯ performances will suffer and 
+// Please note that you may create a game up with no seaport using a game script. But the AI companiesÂ¡Â¯ performances will suffer and 
 // this should only be used if you intend to create a game scenario with such characteristics.
 
 Constant Import Supply=Yes
@@ -87,27 +88,9 @@ Import Quality=High
 //------------------------------------------------------------------------------------------------//
 
 [LOCKS]
-Information Center, Product Details
-Information Center, Financials 
-Information Center, Persons
-Information Center, Billionaires 100
-Information Center, Farmer Guide
-Information Center, Cities
-Information Center, The Economy
-Information Center, Stock Market 
-
-Buy Land
-
-Firm, R&D Center
-Firm, Farm
-Firm, Warehouse
-Firm, Logging Camp
-Firm, Mine
-Firm, Oil Well
 Firm, TV Station
 Firm, Newspaper Publisher
 Firm, Radio Station
-Firm, Headquarters
 Firm, Mansion
 Firm, Apartment
 Firm, Commercial Building
@@ -118,16 +101,18 @@ Firm, Sports Facilities
 
 [MAIN GOAL]
 Goal Title=Tutorial Goal
-Goal Description=Achieve an annual revenue of $30 million and an annual profit of $3 million to complete this tutorial. 
+Goal Description=Your goal is to grow your company to a large corporation with ~1000 or more employees~, and achieve ~an annual revenue of $1 billion~ and ~an annual profit of $100 million~.
+
 
 [MAIN GOAL VALUES]
-Player Company Annual Revenue=30
-Player Company Annual Profit=3
+Player Company Annual Revenue=1000
+Player Company Annual Profit=100
+Total Number of Employees=1000
 
 [MAIN GOAL REWARDS] 
-Score change=100
+Score change=300
 
 //------------------------------------------------------------------------------------------------//
 
 [TUTORIAL]
-Tutorial=TUT03
+Tutorial=TUT08
