@@ -4102,6 +4102,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Clear existing stock of this product.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T164711Z" creationid="Olivier" creationdate="20200502T164711Z">
+        <seg>Effacer le stock existant de ce produit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Clearing the stock in effect free up your retail shelves for the new product immediately.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151402Z" creationid="Olivier" creationdate="20200423T151402Z">
@@ -6714,6 +6722,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T122626Z" creationid="Inrepublica" creationdate="20200423T122626Z">
         <seg>Extend Text Box=450,50,300,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Exterior view</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T164856Z" creationid="Olivier" creationdate="20200502T164856Z">
+        <seg>Vue extérieure</seg>
       </tuv>
     </tu>
     <tu>
@@ -11009,6 +11025,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you want to enable #Internal Sale# by default, you can open the #Option menu# (hotkey: 'O') and set #Default Internal Sale# to #Enabled#.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T164813Z" creationid="Olivier" creationdate="20200502T164813Z">
+        <seg>Si vous souhaitez activer #Vente interne# par défaut, vous pouvez ouvrir le menu #Option# (touche de raccourci : 'O') et régler #Vente interne# par défaut sur #Activée#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you want to see cities issuing bonds more often, so that you could invest into municipal bonds, you may set this setting to 'Low'.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T195853Z" creationid="Inrepublica" creationdate="20200422T195853Z">
@@ -11521,6 +11545,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Information view</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T164846Z" creationid="Olivier" creationdate="20200502T164846Z">
+        <seg>Vue d'information</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Initial Net Interest Spread</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203151Z" creationid="Inrepublica" creationdate="20200422T203119Z">
@@ -11637,6 +11669,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T134353Z" creationid="Olivier" creationdate="20200426T134353Z">
         <seg>Interface select=Select R&amp;D Item, Air Conditioner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Interior view</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T164905Z" creationid="Olivier" creationdate="20200502T164905Z">
+        <seg>Vue intérieure</seg>
       </tuv>
     </tu>
     <tu>
@@ -11989,6 +12029,38 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T153300Z" creationid="Olivier" creationdate="20200502T153300Z">
         <seg>JU_017</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>JU_018</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T164522Z" creationid="Olivier" creationdate="20200502T164522Z">
+        <seg>JU_018</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>JU_019</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T164712Z" creationid="Olivier" creationdate="20200502T164712Z">
+        <seg>JU_019</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>JU_020</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T164715Z" creationid="Olivier" creationdate="20200502T164715Z">
+        <seg>JU_020</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>JU_021</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T164815Z" creationid="Olivier" creationdate="20200502T164815Z">
+        <seg>JU_021</seg>
       </tuv>
     </tu>
     <tu>
@@ -21802,6 +21874,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Toggle Internal Sale.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T164729Z" creationid="Olivier" creationdate="20200502T164729Z">
+        <seg>Activer la vente interne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Toggle Player's Firm Filter to display only player's firms in the Mini Map display</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103037Z" creationid="Olivier" creationdate="20200502T102049Z">
@@ -22506,6 +22586,30 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>VM_001</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T164831Z" creationid="Olivier" creationdate="20200502T164831Z">
+        <seg>VM_001</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>VM_002</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T164847Z" creationid="Olivier" creationdate="20200502T164847Z">
+        <seg>VM_002</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>VM_003</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T164858Z" creationid="Olivier" creationdate="20200502T164858Z">
+        <seg>VM_003</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ventes|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155552Z" creationid="Inrepublica" creationdate="20200425T155552Z">
@@ -22542,6 +22646,22 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T210057Z" creationid="Acer" creationdate="20200424T210057Z">
         <seg>Via cette interface, vous pouvez acheter des actions au nom de votre société ou investir en tant que particulier. Veuillez noter que les noms peuvent être tronqués s'il n'y a pas assez de place pour les afficher en entier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View Clients</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T164820Z" creationid="Olivier" creationdate="20200502T164820Z">
+        <seg>Voir les clients</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View the list of clients that are purchasing this product.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T164830Z" creationid="Olivier" creationdate="20200502T164830Z">
+        <seg>Consultez la liste des clients qui achètent ce produit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22654,6 +22774,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T221514Z" creationid="Olivier" creationdate="20200424T221514Z">
         <seg>Eh bien, cela suit exactement le même principe.^^Sélectionnons le deuxième titre de la liste et examinons de plus près ses données financières.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When #Internal Sale# is enabled, competitors cannot purchase this product from you.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T164756Z" creationid="Olivier" creationdate="20200502T164756Z">
+        <seg>Lorsque la fonction #Vente interne# est activée, les concurrents ne peuvent pas vous acheter ce produit.</seg>
       </tuv>
     </tu>
     <tu>
