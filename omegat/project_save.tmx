@@ -1638,6 +1638,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>APPL_ALL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T143135Z" creationid="Olivier" creationdate="20200502T143135Z">
+        <seg>APPL_ALL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Abort|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T115459Z" creationid="Olivier" creationdate="20200429T115459Z">
@@ -2302,6 +2310,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Apply All</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T143142Z" creationid="Olivier" creationdate="20200502T143142Z">
+        <seg>Appliquer à tous</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Apply the change to all your firms</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T143314Z" creationid="Olivier" creationdate="20200502T143314Z">
+        <seg>Appliquez le changement à tous vos établissements.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Apply this price change to all your retail stores in the same city.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103624Z" creationid="Olivier" creationdate="20200502T103624Z">
@@ -2786,6 +2810,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T171037Z" creationid="Inrepublica" creationdate="20200422T203645Z">
         <seg>Volatilité du cycle expansion-récessionle </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Borrow Money</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142659Z" creationid="Olivier" creationdate="20200502T142659Z">
+        <seg>Emprunter de l'argent</seg>
       </tuv>
     </tu>
     <tu>
@@ -4190,6 +4222,38 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to display previous product</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142747Z" creationid="Olivier" creationdate="20200502T142747Z">
+        <seg>Cliquez pour afficher le produit précédent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to display the Profit graph for this product</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142243Z" creationid="Olivier" creationdate="20200502T142243Z">
+        <seg>Cliquez pour afficher le graphique des bénéfices pour ce produit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to display the Quantity Sold graph for this product</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142324Z" creationid="Olivier" creationdate="20200502T142324Z">
+        <seg>Cliquez pour afficher le graphique de la quantité vendue pour ce produit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to display the Revenue graph for this product</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142302Z" creationid="Olivier" creationdate="20200502T142302Z">
+        <seg>Cliquez pour afficher le graphique des recettes pour ce produit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to display the daily stock graph for the past 30 days.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T140558Z" creationid="Olivier" creationdate="20200502T140558Z">
@@ -4202,6 +4266,38 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T140911Z" creationid="Olivier" creationdate="20200502T140702Z">
         <seg>Cliquez pour afficher le graphique mensuel du cours des actions des 36 derniers mois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to display the next Research Project</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142629Z" creationid="Olivier" creationdate="20200502T142629Z">
+        <seg>Cliquez pour afficher le projet de recherche suivant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to display the next product</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142511Z" creationid="Olivier" creationdate="20200502T142511Z">
+        <seg>Cliquez pour afficher le produit suivant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to display the previous Research Project</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142559Z" creationid="Olivier" creationdate="20200502T142559Z">
+        <seg>Cliquez pour afficher le projet de recherche précédent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to display the previous product</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142459Z" creationid="Olivier" creationdate="20200502T142459Z">
+        <seg>Cliquez pour afficher le produit précédent</seg>
       </tuv>
     </tu>
     <tu>
@@ -4690,6 +4786,30 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T063928Z" creationid="Inrepublica" creationdate="20200426T063928Z">
         <seg>Concessionnaire|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Confirm change to Selling Price</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142222Z" creationid="Olivier" creationdate="20200502T142222Z">
+        <seg>Confirmer la modification du prix de vente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Confirm change to selling price</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142340Z" creationid="Olivier" creationdate="20200502T142340Z">
+        <seg>Confirmer la modification du prix de vente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Confirm the new dividend</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T143100Z" creationid="Olivier" creationdate="20200502T143046Z">
+        <seg>Confirmez le nouveau dividende</seg>
       </tuv>
     </tu>
     <tu>
@@ -9185,6 +9305,254 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>IFA_GP</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142757Z" creationid="Olivier" creationdate="20200502T142757Z">
+        <seg>IFA_GP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFA_GQ</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142800Z" creationid="Olivier" creationdate="20200502T142800Z">
+        <seg>IFA_GQ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFA_GR</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142759Z" creationid="Olivier" creationdate="20200502T142759Z">
+        <seg>IFA_GR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFA_L</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142755Z" creationid="Olivier" creationdate="20200502T142755Z">
+        <seg>IFA_L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFA_NP</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142749Z" creationid="Olivier" creationdate="20200502T142749Z">
+        <seg>IFA_NP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFA_PD</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142753Z" creationid="Olivier" creationdate="20200502T142753Z">
+        <seg>IFA_PD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFA_PI</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142751Z" creationid="Olivier" creationdate="20200502T142751Z">
+        <seg>IFA_PI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFA_PP</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142734Z" creationid="Olivier" creationdate="20200502T142734Z">
+        <seg>IFA_PP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFB_BC</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142647Z" creationid="Olivier" creationdate="20200502T142647Z">
+        <seg>IFB_BC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFB_BD</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142645Z" creationid="Olivier" creationdate="20200502T142645Z">
+        <seg>IFB_BD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFB_BI</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142643Z" creationid="Olivier" creationdate="20200502T142643Z">
+        <seg>IFB_BI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFB_RC</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142704Z" creationid="Olivier" creationdate="20200502T142704Z">
+        <seg>IFB_RC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFB_RD</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142702Z" creationid="Olivier" creationdate="20200502T142702Z">
+        <seg>IFB_RD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFB_RI</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142700Z" creationid="Olivier" creationdate="20200502T142700Z">
+        <seg>IFB_RI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFD_NP</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142600Z" creationid="Olivier" creationdate="20200502T142600Z">
+        <seg>IFD_NP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFD_PP</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142533Z" creationid="Olivier" creationdate="20200502T142533Z">
+        <seg>IFD_PP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFF_BW</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142205Z" creationid="Olivier" creationdate="20200502T142205Z">
+        <seg>IFF_BW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFF_FW</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142203Z" creationid="Olivier" creationdate="20200502T142203Z">
+        <seg>IFF_FW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFF_GP</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142225Z" creationid="Olivier" creationdate="20200502T142225Z">
+        <seg>IFF_GP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFF_GQ</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142304Z" creationid="Olivier" creationdate="20200502T142304Z">
+        <seg>IFF_GQ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFF_GR</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142245Z" creationid="Olivier" creationdate="20200502T142245Z">
+        <seg>IFF_GR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFF_PC</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142212Z" creationid="Olivier" creationdate="20200502T142212Z">
+        <seg>IFF_PC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFF_PD</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142209Z" creationid="Olivier" creationdate="20200502T142209Z">
+        <seg>IFF_PD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFF_PI</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142207Z" creationid="Olivier" creationdate="20200502T142207Z">
+        <seg>IFF_PI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFH_DC</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T143031Z" creationid="Olivier" creationdate="20200502T143031Z">
+        <seg>IFH_DC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFH_DD</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142855Z" creationid="Olivier" creationdate="20200502T142855Z">
+        <seg>IFH_DD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFH_DI</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142802Z" creationid="Olivier" creationdate="20200502T142802Z">
+        <seg>IFH_DI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFH_DN</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T143048Z" creationid="Olivier" creationdate="20200502T143048Z">
+        <seg>IFH_DN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFH_DS</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T143050Z" creationid="Olivier" creationdate="20200502T143050Z">
+        <seg>IFH_DS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFH_TD</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T143132Z" creationid="Olivier" creationdate="20200502T143132Z">
+        <seg>IFH_TD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFH_TI</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T143130Z" creationid="Olivier" creationdate="20200502T143130Z">
+        <seg>IFH_TI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>IFM_B</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142119Z" creationid="Olivier" creationdate="20200502T142119Z">
@@ -9229,6 +9597,182 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142047Z" creationid="Olivier" creationdate="20200502T142047Z">
         <seg>IFM_S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFR_GP</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142411Z" creationid="Olivier" creationdate="20200502T142411Z">
+        <seg>IFR_GP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFR_GQ</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142415Z" creationid="Olivier" creationdate="20200502T142415Z">
+        <seg>IFR_GQ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFR_GR</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142413Z" creationid="Olivier" creationdate="20200502T142413Z">
+        <seg>IFR_GR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFR_L</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142341Z" creationid="Olivier" creationdate="20200502T142341Z">
+        <seg>IFR_L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFR_PC</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142329Z" creationid="Olivier" creationdate="20200502T142329Z">
+        <seg>IFR_PC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFR_PD</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142327Z" creationid="Olivier" creationdate="20200502T142327Z">
+        <seg>IFR_PD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFR_PI</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142325Z" creationid="Olivier" creationdate="20200502T142325Z">
+        <seg>IFR_PI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFS_GP</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142637Z" creationid="Olivier" creationdate="20200502T142637Z">
+        <seg>IFS_GP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFS_GQ</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142641Z" creationid="Olivier" creationdate="20200502T142641Z">
+        <seg>IFS_GQ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFS_GR</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142640Z" creationid="Olivier" creationdate="20200502T142640Z">
+        <seg>IFS_GR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFS_L</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142634Z" creationid="Olivier" creationdate="20200502T142634Z">
+        <seg>IFS_L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFS_NP</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142632Z" creationid="Olivier" creationdate="20200502T142632Z">
+        <seg>IFS_NP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFS_PP</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142630Z" creationid="Olivier" creationdate="20200502T142630Z">
+        <seg>IFS_PP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFT_GP</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142527Z" creationid="Olivier" creationdate="20200502T142527Z">
+        <seg>IFT_GP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFT_GQ</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142531Z" creationid="Olivier" creationdate="20200502T142531Z">
+        <seg>IFT_GQ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFT_GR</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142529Z" creationid="Olivier" creationdate="20200502T142529Z">
+        <seg>IFT_GR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFT_L</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142525Z" creationid="Olivier" creationdate="20200502T142525Z">
+        <seg>IFT_L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFT_NP</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142501Z" creationid="Olivier" creationdate="20200502T142501Z">
+        <seg>IFT_NP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFT_PC</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142523Z" creationid="Olivier" creationdate="20200502T142523Z">
+        <seg>IFT_PC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFT_PD</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142516Z" creationid="Olivier" creationdate="20200502T142516Z">
+        <seg>IFT_PD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFT_PI</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142513Z" creationid="Olivier" creationdate="20200502T142513Z">
+        <seg>IFT_PI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFT_PP</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142417Z" creationid="Olivier" creationdate="20200502T142417Z">
+        <seg>IFT_PP</seg>
       </tuv>
     </tu>
     <tu>
@@ -11041,6 +11585,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Link This Item</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142409Z" creationid="Olivier" creationdate="20200502T142409Z">
+        <seg>Lier cet article</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Link it to the first one as well.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T133756Z" creationid="Olivier" creationdate="20200426T133756Z">
@@ -11909,6 +12461,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103702Z" creationid="Olivier" creationdate="20200502T103702Z">
         <seg>Produit suivant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Next Research Project</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142614Z" creationid="Olivier" creationdate="20200502T142614Z">
+        <seg>Projet de recherche suivant</seg>
       </tuv>
     </tu>
     <tu>
@@ -15163,8 +15723,16 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Previous Product</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103635Z" creationid="Olivier" creationdate="20200502T103635Z">
-        <seg>Produit précédente</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142433Z" creationid="Olivier" creationdate="20200502T103635Z">
+        <seg>Produit précédent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Previous Research Project</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142550Z" creationid="Olivier" creationdate="20200502T142550Z">
+        <seg>Projet de recherche précédent</seg>
       </tuv>
     </tu>
     <tu>
@@ -15369,6 +15937,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Profit Graph</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142234Z" creationid="Olivier" creationdate="20200502T142234Z">
+        <seg>Graphique des bénéfices</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Profit Mode</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T172443Z" creationid="Olivier" creationdate="20200428T172443Z">
@@ -15421,6 +15997,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155528Z" creationid="Inrepublica" creationdate="20200425T155528Z">
         <seg>QUITTER VERS WINDOWS|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Quantity Sold Graph</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142314Z" creationid="Olivier" creationdate="20200502T142314Z">
+        <seg>Graphique de la quantité vendue</seg>
       </tuv>
     </tu>
     <tu>
@@ -15673,6 +16257,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Repay Loan</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142733Z" creationid="Olivier" creationdate="20200502T142733Z">
+        <seg>Rembourser l'emprunt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Required Bank Capital Ratio</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203217Z" creationid="Inrepublica" creationdate="20200422T203217Z">
@@ -15849,10 +16441,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Revenue Graph</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142253Z" creationid="Olivier" creationdate="20200502T142253Z">
+        <seg>Graphique des recettes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Right now as the unit is new that level is 1.^^With time and training the level will increase and the unit will become more efficient, being able to handle greater stock quantities and meeting higher demand levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T095210Z" creationid="Olivier" creationdate="20200423T143443Z">
         <seg>Actuellement, comme l'unité est nouvelle, ce niveau est de 1.^^ Avec le temps et la formation, le niveau augmentera et l'unité deviendra plus efficace, étant capable de gérer de plus grandes quantités de stocks et de répondre à des niveaux de demande plus élevés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Right-click to decrease at a higher rate</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T143029Z" creationid="Olivier" creationdate="20200502T143029Z">
+        <seg>Cliquez sur le bouton droit de la souris pour diminuer à une vitesse plus élevée</seg>
       </tuv>
     </tu>
     <tu>
@@ -15869,6 +16477,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T101909Z" creationid="Olivier" creationdate="20200502T101909Z">
         <seg>Cliquez avec le bouton droit de la souris pour définir ce filtre personnalisé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Right-click to increase at a higher rate</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142854Z" creationid="Olivier" creationdate="20200502T142854Z">
+        <seg>Cliquez sur le bouton droit de la souris pour augmenter le taux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16469,6 +17085,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T140355Z" creationid="Olivier" creationdate="20200502T140355Z">
         <seg>Vendre plus d'actions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Set New Dividend</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T143110Z" creationid="Olivier" creationdate="20200502T143110Z">
+        <seg>Fixer un nouveau dividende</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Set dividend to be paid to shareholders at year end</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T143129Z" creationid="Olivier" creationdate="20200502T143129Z">
+        <seg>Fixez le dividende à verser aux actionnaires en fin d'année</seg>
       </tuv>
     </tu>
     <tu>
