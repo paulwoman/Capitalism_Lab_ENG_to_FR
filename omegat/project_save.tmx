@@ -2374,6 +2374,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Apply the latest production technology to the current manufacturing unit.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T153258Z" creationid="Olivier" creationdate="20200502T153258Z">
+        <seg>Appliquer les dernières technologies de production à l'unité de fabrication actuelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Apply this price change to all your retail stores in the same city.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103624Z" creationid="Olivier" creationdate="20200502T103624Z">
@@ -11969,6 +11977,38 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>JU_016</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T153211Z" creationid="Olivier" creationdate="20200502T153211Z">
+        <seg>JU_016</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>JU_017</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T153300Z" creationid="Olivier" creationdate="20200502T153300Z">
+        <seg>JU_017</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>J_RADRD</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T152945Z" creationid="Olivier" creationdate="20200502T152945Z">
+        <seg>J_RADRD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>J_RADRDX</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T153120Z" creationid="Olivier" creationdate="20200502T153120Z">
+        <seg>J_RADRDX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>January 2004  http://www.apache.org/licenses/</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T120918Z" creationid="Olivier" creationdate="20200428T120918Z">
@@ -16921,6 +16961,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Radical R&amp;D Project not possible.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T153133Z" creationid="Olivier" creationdate="20200502T153133Z">
+        <seg>Projet de R&amp;D radical impossible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Raise livestock</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T151910Z" creationid="Olivier" creationdate="20200502T151910Z">
@@ -18331,8 +18379,16 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Start a R&amp;D project for improving production technology.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T152719Z" creationid="Olivier" creationdate="20200502T152719Z">
-        <seg>Lancer un projet de R&amp;D pour améliorer la technologie de production.&lt;</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T152850Z" creationid="Olivier" creationdate="20200502T152719Z">
+        <seg>Lancer un projet de R&amp;D pour améliorer la technologie de production.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start a radical R&amp;D project for improving production technology.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T153119Z" creationid="Olivier" creationdate="20200502T153119Z">
+        <seg>Lancer un projet de R&amp;D radical pour améliorer la technologie de production.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19025,6 +19081,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Terminate supplies to existing clients.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T164519Z" creationid="Olivier" creationdate="20200502T164519Z">
+        <seg>Mettre fin aux fournitures aux clients existants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Text Box=10,130,180,0</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T092732Z" creationid="Olivier" creationdate="20200424T092732Z">
@@ -19645,6 +19709,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100307Z" creationid="Olivier" creationdate="20200429T100307Z">
         <seg>L'indice de pouvoir d'achat commence à 100 % et diminue au cours de ces années avec l'inflation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The R&amp;D skill of the manager of this R&amp;D firm must be at least 20 in order to start a radical R&amp;D project.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T153249Z" creationid="Olivier" creationdate="20200502T153209Z">
+        <seg>La compétence en R&amp;D du directeur de cet établissement de R&amp;D doit être d'au moins 20 ans pour pouvoir lancer un projet de R&amp;D radical.</seg>
       </tuv>
     </tu>
     <tu>
