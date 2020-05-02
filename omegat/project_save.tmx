@@ -3182,6 +3182,38 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CDR_T_02</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T165932Z" creationid="Olivier" creationdate="20200502T165932Z">
+        <seg>CDR_T_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CDR_T_03</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T165949Z" creationid="Olivier" creationdate="20200502T165949Z">
+        <seg>CDR_T_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CDR_T_04</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T170008Z" creationid="Olivier" creationdate="20200502T170008Z">
+        <seg>CDR_T_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CDR_T_GO</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T170028Z" creationid="Olivier" creationdate="20200502T170028Z">
+        <seg>CDR_T_GO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CEO Salary Modifier=20</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102512Z" creationid="Olivier" creationdate="20200428T102512Z">
@@ -14649,6 +14681,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Only show all products that your company is currently producing.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T170006Z" creationid="Olivier" creationdate="20200502T170006Z">
+        <seg>Ne montrer que tous les produits que votre entreprise fabrique actuellement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Only show technologies that your company is currently researching.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T170020Z" creationid="Olivier" creationdate="20200502T170020Z">
+        <seg>Ne montrer que les technologies sur lesquelles votre entreprise fait actuellement des recherches.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open News Log window (hotkey: 'V')</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141121Z" creationid="Olivier" creationdate="20200502T141121Z">
@@ -18259,8 +18307,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Show all technologies.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T165845Z" creationid="Olivier" creationdate="20200502T165845Z">
-        <seg>Afficher toutes les technologies.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T165930Z" creationid="Olivier" creationdate="20200502T165845Z">
+        <seg>Affiche toutes les technologies.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18269,6 +18317,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T155125Z" creationid="Inrepublica" creationdate="20200422T155125Z">
         <seg>Montrer les secrets commerciaux des concurents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show here if your company's technology level &gt;= 30.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T165948Z" creationid="Olivier" creationdate="20200502T165948Z">
+        <seg>Indiquez ici si le niveau technologique de votre entreprise &gt;= 30.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18291,8 +18347,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Show products that your company sells in retail sector</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T165828Z" creationid="Olivier" creationdate="20200502T165828Z">
-        <seg>Montrez les produits que votre entreprise vend dans le secteur du commerce de détail</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T165921Z" creationid="Olivier" creationdate="20200502T165828Z">
+        <seg>Affiche les produits que votre entreprise vend dans le secteur du commerce de détail</seg>
       </tuv>
     </tu>
     <tu>
