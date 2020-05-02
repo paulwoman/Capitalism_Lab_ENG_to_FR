@@ -2318,6 +2318,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Apply Selected</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T143351Z" creationid="Olivier" creationdate="20200502T143351Z">
+        <seg>Appliquer la sélection</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Apply the change to all your firms</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T143314Z" creationid="Olivier" creationdate="20200502T143314Z">
@@ -4010,6 +4018,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141608Z" creationid="Olivier" creationdate="20200502T141608Z">
         <seg>Cliquez ici pour ouvrir le rapport détaillé sur les sociétés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to view profile details.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T144333Z" creationid="Olivier" creationdate="20200502T144333Z">
+        <seg>Cliquez ici pour voir les détails du profil.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5942,6 +5958,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Display Chief Executive Officer Details</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T143542Z" creationid="Olivier" creationdate="20200502T143542Z">
+        <seg>Afficher les détails du Directeur Général</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Display more products using this input material</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103933Z" creationid="Olivier" creationdate="20200502T103933Z">
@@ -7784,6 +7808,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to the Firms report and select those of your firms that you want to apply the change</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T143502Z" creationid="Olivier" creationdate="20200502T143502Z">
+        <seg>Allez dans le rapport sur les établissements et choisissez ceux à qui vous voulez appliquer le changement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Achieved Text=Bravo!</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T215605Z" creationid="Olivier" creationdate="20200429T215605Z">
@@ -9497,6 +9529,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>IFH_CED</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T143516Z" creationid="Olivier" creationdate="20200502T143516Z">
+        <seg>IFH_CED</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFH_COD</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T143544Z" creationid="Olivier" creationdate="20200502T143544Z">
+        <seg>IFH_COD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>IFH_DC</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T143031Z" creationid="Olivier" creationdate="20200502T143031Z">
@@ -9549,6 +9597,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T143130Z" creationid="Olivier" creationdate="20200502T143130Z">
         <seg>IFH_TI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFH_TO</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T143504Z" creationid="Olivier" creationdate="20200502T143504Z">
+        <seg>IFH_TO</seg>
       </tuv>
     </tu>
     <tu>
@@ -13781,6 +13837,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144523Z" creationid="Olivier" creationdate="20200428T144523Z">
         <seg>Menu Options (Raccourci : 'O')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Organize An Intensive Training Program</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T143514Z" creationid="Olivier" creationdate="20200502T143514Z">
+        <seg>Organiser un programme de formation intensif</seg>
       </tuv>
     </tu>
     <tu>
@@ -21862,6 +21926,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T213808Z" creationid="Olivier" creationdate="20200429T213808Z">
         <seg>Vous êtes le meilleur espoir de votre famille pour atteindre cet objectif et vous vous promettez de ne pas les décevoir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can assign COO to manage your individual firms.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T144324Z" creationid="Olivier" creationdate="20200502T144324Z">
+        <seg>Vous pouvez confier au COO la gestion de vos établissements individuellement.</seg>
       </tuv>
     </tu>
     <tu>
