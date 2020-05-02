@@ -2462,6 +2462,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Auto Link Supplier</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142006Z" creationid="Olivier" creationdate="20200502T142006Z">
+        <seg>Liaison automatique avec le fournisseur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Auto Locate</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103527Z" creationid="Olivier" creationdate="20200502T103527Z">
@@ -2962,6 +2970,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T095954Z" creationid="Olivier" creationdate="20200429T095954Z">
         <seg>Buy This DLC|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Buy This Firm</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141501Z" creationid="Olivier" creationdate="20200502T141501Z">
+        <seg>Acheter cet établissement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Buy This Mansion</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142127Z" creationid="Olivier" creationdate="20200502T142127Z">
+        <seg>Acheter ce manoir</seg>
       </tuv>
     </tu>
     <tu>
@@ -3950,6 +3974,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click here to open the Corporation Detail Report</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141608Z" creationid="Olivier" creationdate="20200502T141608Z">
+        <seg>Cliquez ici pour ouvrir le rapport détaillé sur les sociétés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to view the person's details.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141533Z" creationid="Olivier" creationdate="20200502T141533Z">
+        <seg>Cliquez ici pour voir les détails de la personne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the speed dial to alter the game speed.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144757Z" creationid="Olivier" creationdate="20200428T144757Z">
@@ -4058,6 +4098,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T124058Z" creationid="Olivier" creationdate="20200424T090111Z">
         <seg>Cliquez sur le bouton ~[+]~ à côté du bouton ~Emprunter~. Lorsque vous avez augmenté le montant à $20,000,000 ou plus, cliquez sur le bouton ~Emprunter~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to allow purchasing units to find their own suppliers</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142016Z" creationid="Olivier" creationdate="20200502T142016Z">
+        <seg>Cliquez pour permettre aux unités d'achat de trouver leurs propres fournisseurs</seg>
       </tuv>
     </tu>
     <tu>
@@ -4254,10 +4302,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to open the Firm Financial Report</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141926Z" creationid="Olivier" creationdate="20200502T141926Z">
+        <seg>Cliquez pour ouvrir le rapport financier de l'établissement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to open the Firm Summary Report</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144135Z" creationid="Olivier" creationdate="20200428T144135Z">
         <seg>Cliquez pour ouvrir le rapport de synthèse l'établissement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to open the Layout Plan Library</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141831Z" creationid="Olivier" creationdate="20200502T141831Z">
+        <seg>Cliquez pour ouvrir la bibliothèque de plans d'aménagement </seg>
       </tuv>
     </tu>
     <tu>
@@ -4394,6 +4458,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T171926Z" creationid="Olivier" creationdate="20200428T171926Z">
         <seg>Fermer la mini carte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Close News Log window (hotkey: 'V')</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141408Z" creationid="Olivier" creationdate="20200502T141408Z">
+        <seg>Fermer la fenêtre du journal des actualités (touche de raccourci : 'V')</seg>
       </tuv>
     </tu>
     <tu>
@@ -5122,6 +5194,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T120942Z" creationid="Olivier" creationdate="20200428T120942Z">
         <seg>Définitions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Demolish This Firm</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141511Z" creationid="Olivier" creationdate="20200502T141511Z">
+        <seg>Démolir cet établissement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Demolish This Mansion</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142116Z" creationid="Olivier" creationdate="20200502T142116Z">
+        <seg>Démolir ce manoir</seg>
       </tuv>
     </tu>
     <tu>
@@ -6506,6 +6594,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150737Z" creationid="Inrepublica" creationdate="20200425T150737Z">
         <seg>Financial Actions|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Financial Report (hotkey: F6)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141849Z" creationid="Olivier" creationdate="20200502T141849Z">
+        <seg>Rapport financier (touche de raccourci : F6)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9089,6 +9185,142 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>IFM_B</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142119Z" creationid="Olivier" creationdate="20200502T142119Z">
+        <seg>IFM_B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFM_CO</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142129Z" creationid="Olivier" creationdate="20200502T142129Z">
+        <seg>IFM_CO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFM_D</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142106Z" creationid="Olivier" creationdate="20200502T142106Z">
+        <seg>IFM_D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFM_PD</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142102Z" creationid="Olivier" creationdate="20200502T142102Z">
+        <seg>IFM_PD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFM_PI</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142104Z" creationid="Olivier" creationdate="20200502T142104Z">
+        <seg>IFM_PI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFM_S</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142047Z" creationid="Olivier" creationdate="20200502T142047Z">
+        <seg>IFM_S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IF_AL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141941Z" creationid="Olivier" creationdate="20200502T141941Z">
+        <seg>IF_AL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IF_B</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141451Z" creationid="Olivier" creationdate="20200502T141451Z">
+        <seg>IF_B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IF_D</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141502Z" creationid="Olivier" creationdate="20200502T141502Z">
+        <seg>IF_D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IF_F</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141832Z" creationid="Olivier" creationdate="20200502T141832Z">
+        <seg>IF_F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IF_H</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141609Z" creationid="Olivier" creationdate="20200502T141609Z">
+        <seg>IF_H</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IF_L</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141734Z" creationid="Olivier" creationdate="20200502T141734Z">
+        <seg>IF_L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IF_PERS</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141512Z" creationid="Olivier" creationdate="20200502T141512Z">
+        <seg>IF_PERS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IF_S</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141423Z" creationid="Olivier" creationdate="20200502T141423Z">
+        <seg>IF_S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IF_SC</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141535Z" creationid="Olivier" creationdate="20200502T141535Z">
+        <seg>IF_SC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IF_T</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142017Z" creationid="Olivier" creationdate="20200502T142017Z">
+        <seg>IF_T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IF_W</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141636Z" creationid="Olivier" creationdate="20200502T141636Z">
+        <seg>IF_W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>INPUT|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155534Z" creationid="Inrepublica" creationdate="20200425T155534Z">
@@ -10641,6 +10873,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Layout Plan Library (hotkey: F7)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141807Z" creationid="Olivier" creationdate="20200502T141807Z">
+        <seg>Bibliothèque de plans d'aménagement (touche de raccourci : F7)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Leather Goods</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214716Z" creationid="Olivier" creationdate="20200429T214716Z">
@@ -11217,6 +11457,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Make a Counter Offer</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142201Z" creationid="Olivier" creationdate="20200502T142201Z">
+        <seg>Faire une contre-proposition</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Make a Tender Offer</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T104534Z" creationid="Olivier" creationdate="20200502T104430Z">
@@ -11237,6 +11485,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160106Z" creationid="Inrepublica" creationdate="20200422T160106Z">
         <seg>Mâle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Manager's Guide (hotkey: F3)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141634Z" creationid="Olivier" creationdate="20200502T141634Z">
+        <seg>Guide du PDG (Raccourci: F3)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11489,6 +11745,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Move the slider to alter the Training Level.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142032Z" creationid="Olivier" creationdate="20200502T142032Z">
+        <seg>Déplacez le curseur pour modifier le niveau de formation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Music Off</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T163027Z" creationid="Olivier" creationdate="20200428T163027Z">
@@ -11501,6 +11765,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T163037Z" creationid="Olivier" creationdate="20200428T163037Z">
         <seg>Musique activée</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>NEWS_B</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141409Z" creationid="Olivier" creationdate="20200502T141409Z">
+        <seg>NEWS_B</seg>
       </tuv>
     </tu>
     <tu>
@@ -11589,6 +11861,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T155254Z" creationid="Inrepublica" creationdate="20200422T160239Z">
         <seg>Nouveau port maritimes pendant le jeu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>News Action Button</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141422Z" creationid="Olivier" creationdate="20200502T141422Z">
+        <seg>Bouton d'action pour les nouvelles</seg>
       </tuv>
     </tu>
     <tu>
@@ -12777,6 +13057,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Offer to sell this firm</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141449Z" creationid="Olivier" creationdate="20200502T141449Z">
+        <seg>Offre de vente de cet établissement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Offer to sell this mansion</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142101Z" creationid="Olivier" creationdate="20200502T142101Z">
+        <seg>Offre de vente de ce manoir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ok</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144905Z" creationid="Olivier" creationdate="20200428T144905Z">
@@ -13213,6 +13509,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T162902Z" creationid="Inrepublica" creationdate="20200422T162902Z">
         <seg>Pourcentage de produits nécessitant une réinvention</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Person Details</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141521Z" creationid="Olivier" creationdate="20200502T141521Z">
+        <seg>Détails de la personne</seg>
       </tuv>
     </tu>
     <tu>
@@ -16213,6 +16517,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T194353Z" creationid="Inrepublica" creationdate="20200422T194353Z">
         <seg>En fixant cette valeur à plus de 100, on augmente les revenus de toutes les compagnies d'assurance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shortcut To Corporation Detail Report</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141547Z" creationid="Olivier" creationdate="20200502T141547Z">
+        <seg>Raccourci vers le rapport détaillé de la société</seg>
       </tuv>
     </tu>
     <tu>
@@ -19834,6 +20146,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Training</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142023Z" creationid="Olivier" creationdate="20200502T142023Z">
+        <seg>Formation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Training Effect Modifier=200</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T215805Z" creationid="Olivier" creationdate="20200428T215805Z">
@@ -20806,6 +21126,22 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T215255Z" creationid="Olivier" creationdate="20200423T124518Z">
         <seg>L'écran n'affichant toujours que votre grand magasin (sous la forme d'un carré coloré), cliquez sur l'icône du mode ~Relations d'affaires~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With training, operating units in your firm will gradually advance to higher levels, thus improving their efficiency.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142045Z" creationid="Olivier" creationdate="20200502T142045Z">
+        <seg>Grâce à la formation, les unités opérationnelles de votre entreprise passeront progressivement à des niveaux supérieurs, ce qui améliorera leur efficacité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wizard</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141732Z" creationid="Olivier" creationdate="20200502T141732Z">
+        <seg>Assistant</seg>
       </tuv>
     </tu>
     <tu>
