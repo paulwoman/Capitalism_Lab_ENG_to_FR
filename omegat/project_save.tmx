@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(hotkey: '+' or '=')</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T135749Z" creationid="Olivier" creationdate="20200502T135749Z">
+        <seg>(Touche de raccourci '+' ou '=')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(the same firm type and the same company/subsidiary)</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122928Z" creationid="Olivier" creationdate="20200428T122928Z">
@@ -2926,6 +2934,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Buy Stock</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T104552Z" creationid="Olivier" creationdate="20200502T104552Z">
+        <seg>Acheter des actions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Buy Stock|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150723Z" creationid="Inrepublica" creationdate="20200425T150723Z">
@@ -4018,6 +4034,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T124058Z" creationid="Olivier" creationdate="20200424T090111Z">
         <seg>Cliquez sur le bouton ~[+]~ à côté du bouton ~Emprunter~. Lorsque vous avez augmenté le montant à $20,000,000 ou plus, cliquez sur le bouton ~Emprunter~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to buy the displayed stock</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T104601Z" creationid="Olivier" creationdate="20200502T104601Z">
+        <seg>Cliquez pour acheter l'action affichée</seg>
       </tuv>
     </tu>
     <tu>
@@ -9113,6 +9137,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>IN_SM_B</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T104545Z" creationid="Olivier" creationdate="20200502T104545Z">
+        <seg>IN_SM_B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IN_SM_BX</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T104602Z" creationid="Olivier" creationdate="20200502T104602Z">
+        <seg>IN_SM_BX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>IN_SM_M</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T104312Z" creationid="Olivier" creationdate="20200502T104312Z">
@@ -9125,6 +9165,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T104348Z" creationid="Olivier" creationdate="20200502T104348Z">
         <seg>IN_SM_O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IN_SM_OI</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T104615Z" creationid="Olivier" creationdate="20200502T104615Z">
+        <seg>IN_SM_OI</seg>
       </tuv>
     </tu>
     <tu>
@@ -10971,8 +11019,16 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Make a Tender Offer</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T104430Z" creationid="Olivier" creationdate="20200502T104430Z">
-        <seg>Offre publique d'achat</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T104534Z" creationid="Olivier" creationdate="20200502T104430Z">
+        <seg>Offre d'achat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Make a tender offer to the selected shareholder of the current stock.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T104544Z" creationid="Olivier" creationdate="20200502T104452Z">
+        <seg>Faites une offre d'achat à l'actionnaire sélectionné pour les actions en cours.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20582,6 +20638,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T140731Z" creationid="Olivier" creationdate="20200422T211005Z">
         <seg>Vous pouvez annuler ce mode en cliquant à nouveau sur le bouton ~Mes établissements~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can only trade stock once a day in a Challenge Game.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T104613Z" creationid="Olivier" creationdate="20200502T104613Z">
+        <seg>Vous ne pouvez échanger des actions qu'une fois par jour dans un jeu de défi.</seg>
       </tuv>
     </tu>
     <tu>
