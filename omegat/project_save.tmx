@@ -4142,6 +4142,38 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to display the daily stock graph for the past 30 days.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T140558Z" creationid="Olivier" creationdate="20200502T140558Z">
+        <seg>Cliquez pour afficher le graphique des cours quotidiens des actions des 30 derniers jours.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to display the monthly stock graph for the past 36 months.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T140911Z" creationid="Olivier" creationdate="20200502T140702Z">
+        <seg>Cliquez pour afficher le graphique mensuel du cours des actions des 36 derniers mois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to display the yearly stock graph for the past 30 years.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T140943Z" creationid="Olivier" creationdate="20200502T140740Z">
+        <seg>Cliquez pour afficher le graphique annuel du cours des actions annuelles des 30 dernières années.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to display the yearly stock graph over its lifetime.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141015Z" creationid="Olivier" creationdate="20200502T141015Z">
+        <seg>Cliquez pour afficher le graphique annuel du cours des actions sur toute sa durée de vie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to enable Auto Save</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T170342Z" creationid="Olivier" creationdate="20200428T170342Z">
@@ -4238,6 +4270,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to sell the displayed stock</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T140441Z" creationid="Olivier" creationdate="20200502T140441Z">
+        <seg>Cliquez pour vendre l'action affichée</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to terminate employment</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T104004Z" creationid="Olivier" creationdate="20200502T104004Z">
@@ -4298,6 +4338,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T101856Z" creationid="Olivier" creationdate="20200502T101856Z">
         <seg>Cliquez pour basculer l'affichage des appartements et des bâtiments commerciaux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to toggle the stock news option on or off.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141045Z" creationid="Olivier" creationdate="20200502T141045Z">
+        <seg>Cliquez pour activer ou désactiver l'option d'information sur les actions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5026,6 +5074,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T171455Z" creationid="Olivier" creationdate="20200430T171455Z">
         <seg>DLC=Subsidiary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Daily Stock Graph</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T140756Z" creationid="Olivier" creationdate="20200502T140533Z">
+        <seg>Graphique journalier du cours des actions</seg>
       </tuv>
     </tu>
     <tu>
@@ -6138,6 +6194,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T171656Z" creationid="Olivier" creationdate="20200428T171656Z">
         <seg>Désactiver le système de raccourcis clavier amélioré.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enable/Disable Stock News</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141035Z" creationid="Olivier" creationdate="20200502T141035Z">
+        <seg>Activer/Desactiver les nouvelles des actions</seg>
       </tuv>
     </tu>
     <tu>
@@ -9201,10 +9265,50 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>IN_SM_GD</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T140446Z" creationid="Olivier" creationdate="20200502T140446Z">
+        <seg>IN_SM_GD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IN_SM_GL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T140946Z" creationid="Olivier" creationdate="20200502T140946Z">
+        <seg>IN_SM_GL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IN_SM_GM</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T140559Z" creationid="Olivier" creationdate="20200502T140559Z">
+        <seg>IN_SM_GM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IN_SM_GY</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T140703Z" creationid="Olivier" creationdate="20200502T140703Z">
+        <seg>IN_SM_GY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>IN_SM_M</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T104312Z" creationid="Olivier" creationdate="20200502T104312Z">
         <seg>IN_SM_M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IN_SM_NW</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141017Z" creationid="Olivier" creationdate="20200502T141017Z">
+        <seg>IN_SM_NW</seg>
       </tuv>
     </tu>
     <tu>
@@ -9233,6 +9337,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>IN_SM_S</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T140414Z" creationid="Olivier" creationdate="20200502T140414Z">
+        <seg>IN_SM_S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>IN_SM_SD</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T140357Z" creationid="Olivier" creationdate="20200502T140357Z">
@@ -9245,6 +9357,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T140344Z" creationid="Olivier" creationdate="20200502T140344Z">
         <seg>IN_SM_SI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IN_SM_SX</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T140443Z" creationid="Olivier" creationdate="20200502T140443Z">
+        <seg>IN_SM_SX</seg>
       </tuv>
     </tu>
     <tu>
@@ -9469,6 +9589,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T151322Z" creationid="Inrepublica" creationdate="20200422T151322Z">
         <seg>Si ce paramètre est réglé sur Oui, 1) le cours des actions n'est pas affectés par la situation économique actuelle, et 2) la négociation d'actions entre la société du joueur et ses filiales est interdite, ceci rend plus difficile la spéculation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If this option is on stock purchases and sales will be headlined in the city view</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141058Z" creationid="Olivier" creationdate="20200502T141058Z">
+        <seg>Si cette option porte sur les achats et les ventes d'actions, elle sera mise en vedette dans la vue de la ville</seg>
       </tuv>
     </tu>
     <tu>
@@ -11329,6 +11457,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Monthly Stock Graph</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T140810Z" creationid="Olivier" creationdate="20200502T140619Z">
+        <seg>Graphique mensuel du cours des actions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>More Info at Web Site|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100000Z" creationid="Olivier" creationdate="20200429T100000Z">
@@ -11365,6 +11501,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T163037Z" creationid="Olivier" creationdate="20200428T163037Z">
         <seg>Musique activée</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>NEWS_L</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141100Z" creationid="Olivier" creationdate="20200502T141100Z">
+        <seg>NEWS_L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>NEWS_LC</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141123Z" creationid="Olivier" creationdate="20200502T141123Z">
+        <seg>NEWS_LC</seg>
       </tuv>
     </tu>
     <tu>
@@ -12685,6 +12837,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T095852Z" creationid="Olivier" creationdate="20200423T134650Z">
         <seg>L'une d'entre elles est appelée ~Achats~ et est reliée à une unité ~Ventes~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open News Log window (hotkey: 'V')</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141121Z" creationid="Olivier" creationdate="20200502T141121Z">
+        <seg>Ouvrir la fenêtre du journal des actualités (touche de raccourci : 'V')</seg>
       </tuv>
     </tu>
     <tu>
@@ -15981,6 +16141,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103236Z" creationid="Olivier" creationdate="20200502T103155Z">
         <seg>Numéro du bâtiment sélectionné</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sell Stock</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T140426Z" creationid="Olivier" creationdate="20200502T140426Z">
+        <seg>Vendre les actions</seg>
       </tuv>
     </tu>
     <tu>
@@ -20646,6 +20814,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T120315Z" creationid="Olivier" creationdate="20200427T120315Z">
         <seg>Carte du monde (touche de raccourci : Ctrl-W)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Yearly Stock Graph</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T140934Z" creationid="Olivier" creationdate="20200502T140717Z">
+        <seg>Graphique annuel du cours des des actions</seg>
       </tuv>
     </tu>
     <tu>
