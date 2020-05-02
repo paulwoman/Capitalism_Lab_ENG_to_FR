@@ -1038,6 +1038,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>2) Utilization rates are displayed for factories, farms and mines.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T101820Z" creationid="Olivier" creationdate="20200502T101820Z">
+        <seg>2) Les taux d'utilisation sont affichés pour les usines, les exploitations agricoles et les mines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>2.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T121331Z" creationid="Olivier" creationdate="20200428T121331Z">
@@ -1058,6 +1066,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150659Z" creationid="Inrepublica" creationdate="20200425T150659Z">
         <seg>3 years|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>3) Occupancy rates are displayed for apartments and commercial buildings.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T101831Z" creationid="Olivier" creationdate="20200502T101831Z">
+        <seg>3) Les taux d'occupation sont affichés pour les appartements et les immeubles commerciaux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2030,6 +2046,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All Cities Or Current City filter</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T101950Z" creationid="Olivier" creationdate="20200502T101950Z">
+        <seg>Filtre Toutes les villes ou la ville actuelle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All available media firms in the current city are displayed.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T165523Z" creationid="Acer" creationdate="20200424T165523Z">
@@ -2226,6 +2250,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T172527Z" creationid="Inrepublica" creationdate="20200422T172527Z">
         <seg>Modificateur de capacité des appartements</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Apartments and Commercial Buildings Display (hotkey: Ctrl-C)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T101848Z" creationid="Olivier" creationdate="20200502T101848Z">
+        <seg>Affichage des appartements et des immeubles commerciaux (touche de raccourci : Ctrl-C)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4118,6 +4150,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to toggle Firm Information Display Mode: 1) Firm types are displayed in the main city view.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T101810Z" creationid="Olivier" creationdate="20200502T101810Z">
+        <seg>Cliquez pour basculer le mode d'affichage des informations sur les entreprises : 1) Les types d'entreprises sont affichés dans la vue principale de la ville.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to toggle Land Ownership and Resources Mode - land ownership and natural resources are displayed.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T173530Z" creationid="Olivier" creationdate="20200428T173530Z">
@@ -4138,6 +4178,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T172502Z" creationid="Olivier" creationdate="20200428T172502Z">
         <seg>Cliquez pour basculer en mode bénéfice - les couleurs vives indiquent les entreprises rentables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to toggle the display of apartments and commercial buildings.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T101856Z" creationid="Olivier" creationdate="20200502T101856Z">
+        <seg>Cliquez pour basculer l'affichage des appartements et des bâtiments commerciaux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4710,6 +4758,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Corporate Filter</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T102120Z" creationid="Olivier" creationdate="20200502T102120Z">
+        <seg>Filtre des sociétés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Corporate Headquarters</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100236Z" creationid="Olivier" creationdate="20200429T100236Z">
@@ -5166,6 +5222,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=When a natural resource firm (mine/oil well/logging camp) has used up its reserve, instead of stopping its operation, it will continue to produce the natural resources with a new recurring cost.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T101542Z" creationid="Olivier" creationdate="20200502T101542Z">
+        <seg>Description=Lorsqu'une entreprise de ressources naturelles (mine, puits de pétrole, campement de bûcherons) a épuisé sa réserve, au lieu d'arrêter ses activités, elle continuera à produire les ressources naturelles avec un nouveau prix  récurent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=With over twenty of years of experience in producing world-class photography equipment under your belt, you have earned the trust of a group of investors for funding your startup.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164643Z" creationid="Olivier" creationdate="20200429T164643Z">
@@ -5514,6 +5578,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144554Z" creationid="Olivier" creationdate="20200428T144554Z">
         <seg>Permet d'afficher le menu des options du jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Display the previous building - city view is centered on building</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T102258Z" creationid="Olivier" creationdate="20200502T102258Z">
+        <seg>Affichez le bâtiment précédent - la vue de la ville est centrée sur le bâtiment</seg>
       </tuv>
     </tu>
     <tu>
@@ -6194,6 +6266,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T172049Z" creationid="Olivier" creationdate="20200428T172049Z">
         <seg>Filtre des établissements</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm Information Display Mode</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T101758Z" creationid="Olivier" creationdate="20200502T101758Z">
+        <seg>Mode d'affichage des informations sur les entreprises</seg>
       </tuv>
     </tu>
     <tu>
@@ -10017,6 +10097,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Left-click to activate this custom filter.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T101923Z" creationid="Olivier" creationdate="20200502T101923Z">
+        <seg>Cliquez sur le bouton gauche de la souris pour activer ce filtre personnalisé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Let's build an ~R&amp;D Center~ now.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T133234Z" creationid="Olivier" creationdate="20200426T133234Z">
@@ -10233,6 +10321,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MMAPAC</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T101833Z" creationid="Olivier" creationdate="20200502T101833Z">
+        <seg>MMAPAC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MMAPBF</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T172030Z" creationid="Olivier" creationdate="20200428T172030Z">
@@ -10253,6 +10349,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T173532Z" creationid="Olivier" creationdate="20200428T173532Z">
         <seg>MMAPMMB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MMAPMMI</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T101747Z" creationid="Olivier" creationdate="20200502T101747Z">
+        <seg>MMAPMMI</seg>
       </tuv>
     </tu>
     <tu>
@@ -10289,6 +10393,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MMAPMM_S</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T101720Z" creationid="Olivier" creationdate="20200502T101720Z">
+        <seg>MMAPMM_S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MMAPNT</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T171747Z" creationid="Olivier" creationdate="20200428T171747Z">
@@ -10297,10 +10409,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MMAPPOL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T101636Z" creationid="Olivier" creationdate="20200502T101636Z">
+        <seg>MMAPPOL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MMAPPT</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T171717Z" creationid="Olivier" creationdate="20200428T171717Z">
         <seg>MMAPPT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MMAPPUB</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T101549Z" creationid="Olivier" creationdate="20200502T101549Z">
+        <seg>MMAPPUB</seg>
       </tuv>
     </tu>
     <tu>
@@ -12945,6 +13073,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Player's Firm Filter (hotkey: F8)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T102038Z" creationid="Olivier" creationdate="20200502T102038Z">
+        <seg>Filtre entreprises du joueur (touche de raccourci : F8)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Please note that the game requires the number of AI persons to be at least equal to the number of competitors + 8.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222248Z" creationid="Olivier" creationdate="20200430T222248Z">
@@ -13833,6 +13969,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pollution is shown in orange and red colors: Red indicates pollution in populated areas; Orange indicates pollution in unpopulated or very sparsely populated areas.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T101719Z" creationid="Olivier" creationdate="20200502T101719Z">
+        <seg>La pollution est représentée par les couleurs orange et rouge : Le rouge indique la pollution dans les zones peuplées ; l'orange indique la pollution dans les zones non peuplées ou très peu peuplées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Population Growth Rate=100</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T103630Z" creationid="Olivier" creationdate="20200428T103630Z">
@@ -13853,6 +13997,30 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222900Z" creationid="Olivier" creationdate="20200430T222900Z">
         <seg>Population Growth Rate=70</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Population and Pollution Mode</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T101706Z" creationid="Olivier" creationdate="20200502T101706Z">
+        <seg>Mode Population Pollution.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Population and Public Services Mode</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T101613Z" creationid="Olivier" creationdate="20200502T101613Z">
+        <seg>Mode de population et de services publics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Population density is shown in dark brown colors.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T101623Z" creationid="Olivier" creationdate="20200502T101623Z">
+        <seg>La densité de la population est indiquée en brun foncé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14001,6 +14169,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Previous Building (hotkey: PgUp)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T102223Z" creationid="Olivier" creationdate="20200502T102223Z">
+        <seg>Bâtiment précédent (touche de raccourci : PgUp)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Previous City (hotkey: '[')</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200429T085305Z" creationid="Olivier" creationdate="20200428T171736Z">
@@ -14133,6 +14309,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T222144Z" creationid="Olivier" creationdate="20200429T222144Z">
         <seg>Product Expertise=Toy, 100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product Filter</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T102156Z" creationid="Olivier" creationdate="20200502T102156Z">
+        <seg>Filtre des produits</seg>
       </tuv>
     </tu>
     <tu>
@@ -14689,6 +14873,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Right-click to define this custom filter.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T101909Z" creationid="Olivier" creationdate="20200502T101909Z">
+        <seg>Cliquez avec le bouton droit de la souris pour définir ce filtre personnalisé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Right-click to set the filter based on the current firm.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T172119Z" creationid="Olivier" creationdate="20200428T172119Z">
@@ -14717,6 +14909,86 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145923Z" creationid="Inrepublica" creationdate="20200422T145923Z">
         <seg>SAVERATE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SFM_K1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T101858Z" creationid="Olivier" creationdate="20200502T101858Z">
+        <seg>SFM_K1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SFM_K2</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T101925Z" creationid="Olivier" creationdate="20200502T101925Z">
+        <seg>SFM_K2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SFM_K3</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T101928Z" creationid="Olivier" creationdate="20200502T101928Z">
+        <seg>SFM_K3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SFM_KC</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T102103Z" creationid="Olivier" creationdate="20200502T102103Z">
+        <seg>SFM_KC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SFM_KF</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T102051Z" creationid="Olivier" creationdate="20200502T102051Z">
+        <seg>SFM_KF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SFM_KM</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T102001Z" creationid="Olivier" creationdate="20200502T102001Z">
+        <seg>SFM_KM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SFM_KNB</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T102441Z" creationid="Olivier" creationdate="20200502T102441Z">
+        <seg>SFM_KNB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SFM_KP</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T102141Z" creationid="Olivier" creationdate="20200502T102141Z">
+        <seg>SFM_KP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SFM_KPB</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T102209Z" creationid="Olivier" creationdate="20200502T102209Z">
+        <seg>SFM_KPB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SFM_KT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T101930Z" creationid="Olivier" creationdate="20200502T101930Z">
+        <seg>SFM_KT</seg>
       </tuv>
     </tu>
     <tu>
@@ -14997,6 +15269,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T153011Z" creationid="Inrepublica" creationdate="20200422T153011Z">
         <seg>Sélectionnez inflation réduite pour une moins forte inflation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select a civic building or sports facilities to see how conveniently citizens have access to the public services.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T101635Z" creationid="Olivier" creationdate="20200502T101635Z">
+        <seg>Sélectionnez un bâtiment municipal ou des installations sportives pour voir dans quelle mesure les citoyens ont facilement accès aux services publics.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15293,6 +15573,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T163245Z" creationid="Inrepublica" creationdate="20200422T163245Z">
         <seg>Indice des revenus des logiciels</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Soil Map Mode</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T101745Z" creationid="Olivier" creationdate="20200502T101745Z">
+        <seg>Mode de cartographie du sol</seg>
       </tuv>
     </tu>
     <tu>
@@ -18482,6 +18770,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title=Unlimited Natural Resources</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T101425Z" creationid="Olivier" creationdate="20200502T101425Z">
+        <seg>Title=Ressources naturelles illimitées</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Title=User script - 60 competitors</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T103439Z" creationid="Olivier" creationdate="20200428T103439Z">
@@ -18650,10 +18946,50 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Toggle Corporate Filter to display a specific corporation in the Mini Map.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T102140Z" creationid="Olivier" creationdate="20200502T102140Z">
+        <seg>Basculez le filtre d'entreprise pour afficher une entreprise spécifique dans la mini-carte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Toggle Firm Filter to display only specific firm types in the Mini Map display.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T102101Z" creationid="Olivier" creationdate="20200502T102101Z">
+        <seg>Basculez le filtre des entreprises pour n'afficher que des types d'entreprises spécifiques dans l'affichage de la mini-carte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Toggle Firm Filter to select only specific firms for the map display.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T172123Z" creationid="Olivier" creationdate="20200428T172101Z">
         <seg>Bascule le filtre d'entreprise pour ne sélectionner que des entreprises spécifiques pour l'affichage de la carte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Toggle Player's Firm Filter to display only player's firms in the Mini Map display</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T102049Z" creationid="Olivier" creationdate="20200502T102049Z">
+        <seg>Basculer le filtre des entreprises du joueur pour n'afficher que les entreprises du joueur dans l'affichage de la mini-carte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Toggle Product Filter to display locations of a specific product in the Mini Map.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T102207Z" creationid="Olivier" creationdate="20200502T102207Z">
+        <seg>Basculez le filtre de produit pour afficher les emplacements d'un produit spécifique dans la mini-carte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Toggle the filter mode between All Cities and Current City.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T101959Z" creationid="Olivier" creationdate="20200502T101959Z">
+        <seg>Basculez le mode de filtrage entre Toutes les villes et la ville actuelle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19102,6 +19438,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122141Z" creationid="Olivier" creationdate="20200428T122141Z">
         <seg>Sauf si requis par la loi applicable ou convenu par écrit, le Concédant fournit le Travail (et chaque Contributeur fournit ses Contributions) sur une base "TEL QUEL", SANS GARANTIE NI CONDITION DE QUELQUE NATURE QUE CE SOIT, explicite ou implicite, notamment les garanties ou conditions de TITRE, D'ABSENCE DE CONTREFAÇON, DE QUALITÉ MARCHANDE, ou D'ADÉQUATION À UN USAGE PARTICULIER. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unlimited Natural Resources=Yes</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T101544Z" creationid="Olivier" creationdate="20200502T101544Z">
+        <seg>Unlimited Natural Resources=Yes</seg>
       </tuv>
     </tu>
     <tu>
