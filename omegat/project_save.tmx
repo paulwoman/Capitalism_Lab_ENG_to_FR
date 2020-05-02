@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(hotkey: '-' )</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T140301Z" creationid="Olivier" creationdate="20200502T140301Z">
+        <seg>(Raccourci: '-' )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(the same firm type and the same company/subsidiary)</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122928Z" creationid="Olivier" creationdate="20200428T122928Z">
@@ -2954,6 +2962,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T095954Z" creationid="Olivier" creationdate="20200429T095954Z">
         <seg>Buy This DLC|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Buy less stock</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T140336Z" creationid="Olivier" creationdate="20200502T140336Z">
+        <seg>Acheter moins d'actions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Buy more stock</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T140318Z" creationid="Olivier" creationdate="20200502T140318Z">
+        <seg>Acheter plus d'actions</seg>
       </tuv>
     </tu>
     <tu>
@@ -8937,6 +8961,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hold SHIFT key while clicking for 10X speed.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T140235Z" creationid="Olivier" creationdate="20200502T140235Z">
+        <seg>Maintenez la touche SHIFT enfoncée tout en cliquant pour une vitesse de 10X.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Home Appliances</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100152Z" creationid="Olivier" creationdate="20200429T100152Z">
@@ -9145,6 +9177,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>IN_SM_BD</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T140321Z" creationid="Olivier" creationdate="20200502T140321Z">
+        <seg>IN_SM_BD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IN_SM_BI</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T140303Z" creationid="Olivier" creationdate="20200502T140303Z">
+        <seg>IN_SM_BI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>IN_SM_BX</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T104602Z" creationid="Olivier" creationdate="20200502T104602Z">
@@ -9169,10 +9217,34 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>IN_SM_OD</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T140236Z" creationid="Olivier" creationdate="20200502T140236Z">
+        <seg>IN_SM_OD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>IN_SM_OI</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T104615Z" creationid="Olivier" creationdate="20200502T104615Z">
         <seg>IN_SM_OI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IN_SM_SD</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T140357Z" creationid="Olivier" creationdate="20200502T140357Z">
+        <seg>IN_SM_SD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IN_SM_SI</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T140344Z" creationid="Olivier" creationdate="20200502T140344Z">
+        <seg>IN_SM_SI</seg>
       </tuv>
     </tu>
     <tu>
@@ -15909,6 +15981,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103236Z" creationid="Olivier" creationdate="20200502T103155Z">
         <seg>Numéro du bâtiment sélectionné</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sell less stock</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T140410Z" creationid="Olivier" creationdate="20200502T140410Z">
+        <seg>Vendre moins d'actions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sell more stock</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T140355Z" creationid="Olivier" creationdate="20200502T140355Z">
+        <seg>Vendre plus d'actions</seg>
       </tuv>
     </tu>
     <tu>
