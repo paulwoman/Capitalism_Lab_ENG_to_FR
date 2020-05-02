@@ -3150,6 +3150,38 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CDR_P_01</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T165748Z" creationid="Olivier" creationdate="20200502T165748Z">
+        <seg>CDR_P_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CDR_P_02</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T165803Z" creationid="Olivier" creationdate="20200502T165803Z">
+        <seg>CDR_P_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CDR_P_03</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T165819Z" creationid="Olivier" creationdate="20200502T165819Z">
+        <seg>CDR_P_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CDR_T_01</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T165831Z" creationid="Olivier" creationdate="20200502T165831Z">
+        <seg>CDR_T_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CEO Salary Modifier=20</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102512Z" creationid="Olivier" creationdate="20200428T102512Z">
@@ -6602,6 +6634,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200501T095625Z" creationid="Olivier" creationdate="20200428T145027Z">
         <seg>Activer la vente interne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enable or disable product sale graph</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T165746Z" creationid="Olivier" creationdate="20200502T165746Z">
+        <seg>Activer ou désactiver le graphique de vente des produits</seg>
       </tuv>
     </tu>
     <tu>
@@ -14793,6 +14833,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>PD_S_GRP</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T164907Z" creationid="Olivier" creationdate="20200502T164907Z">
+        <seg>PD_S_GRP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>PININPUT</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T092255Z" creationid="Inrepublica" creationdate="20200426T092255Z">
@@ -18209,10 +18257,42 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Show all technologies.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T165845Z" creationid="Olivier" creationdate="20200502T165845Z">
+        <seg>Afficher toutes les technologies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Show competitors' trade secrets</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T155125Z" creationid="Inrepublica" creationdate="20200422T155125Z">
         <seg>Montrer les secrets commerciaux des concurents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show products that your company produces</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T165910Z" creationid="Olivier" creationdate="20200502T165817Z">
+        <seg>Affiche les produits que votre entreprise produit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show products that your company produces or sells in retail sector</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T165858Z" creationid="Olivier" creationdate="20200502T165802Z">
+        <seg>Affiche les produits que votre entreprise produit ou vend dans le secteur du commerce de détail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show products that your company sells in retail sector</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T165828Z" creationid="Olivier" creationdate="20200502T165828Z">
+        <seg>Montrez les produits que votre entreprise vend dans le secteur du commerce de détail</seg>
       </tuv>
     </tu>
     <tu>
