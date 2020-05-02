@@ -4096,8 +4096,8 @@
       <tuv lang="en-US">
         <seg>Click to hear sound effects</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T163208Z" creationid="Olivier" creationdate="20200428T163208Z">
-        <seg>Cliquez pour entendre les effets sonores</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T102824Z" creationid="Olivier" creationdate="20200428T163208Z">
+        <seg>Cliquez pour activer les effets sonores</seg>
       </tuv>
     </tu>
     <tu>
@@ -4234,6 +4234,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T171926Z" creationid="Olivier" creationdate="20200428T171926Z">
         <seg>Fermer la mini carte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Close World Map</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103312Z" creationid="Olivier" creationdate="20200502T103312Z">
+        <seg>Fermer la carte du monde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Close the world map window</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103329Z" creationid="Olivier" creationdate="20200502T103329Z">
+        <seg>Ferme la fenêtre de la carte du monde</seg>
       </tuv>
     </tu>
     <tu>
@@ -5582,10 +5598,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Display the next building - city view is centered on building</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103151Z" creationid="Olivier" creationdate="20200502T102736Z">
+        <seg>Affiche le bâtiment suivant - la vue de la ville est centrée sur le bâtiment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Display the previous building - city view is centered on building</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T102258Z" creationid="Olivier" creationdate="20200502T102258Z">
-        <seg>Affichez le bâtiment précédent - la vue de la ville est centrée sur le bâtiment</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103142Z" creationid="Olivier" creationdate="20200502T102258Z">
+        <seg>Affiche le bâtiment précédent - la vue de la ville est centrée sur le bâtiment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Displays the selected building's number from the total number of buildings based on the filter settings</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103216Z" creationid="Olivier" creationdate="20200502T103216Z">
+        <seg>Affiche le numéro du bâtiment sélectionné parmi le nombre total de bâtiments en fonction des paramètres du filtre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Displays the total number of buildings based on the filter settings</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103258Z" creationid="Olivier" creationdate="20200502T103258Z">
+        <seg>Affiche le nombre total de bâtiments en fonction des paramètres du filtre</seg>
       </tuv>
     </tu>
     <tu>
@@ -6066,6 +6106,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T092250Z" creationid="Inrepublica" creationdate="20200426T092250Z">
         <seg>FA_INPUT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>FE_TD</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103331Z" creationid="Olivier" creationdate="20200502T103331Z">
+        <seg>FE_TD</seg>
       </tuv>
     </tu>
     <tu>
@@ -10105,6 +10153,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Left-click to decrease.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103343Z" creationid="Olivier" creationdate="20200502T103343Z">
+        <seg>Cliquez sur le bouton gauche pour diminuer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Let's build an ~R&amp;D Center~ now.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T133234Z" creationid="Olivier" creationdate="20200426T133234Z">
@@ -10969,6 +11025,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Next Building (hotkey: PgDn)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T102619Z" creationid="Olivier" creationdate="20200502T102619Z">
+        <seg>Bâtiment suivant (touche de raccourci : PgDn)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Next City (hotkey: ']')</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200429T085326Z" creationid="Olivier" creationdate="20200428T171816Z">
@@ -11525,6 +11589,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T103613Z" creationid="Olivier" creationdate="20200428T103613Z">
         <seg>Number of AI Persons=64</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of Buildings</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103246Z" creationid="Olivier" creationdate="20200502T103246Z">
+        <seg>Nombre de bâtiments</seg>
       </tuv>
     </tu>
     <tu>
@@ -14873,6 +14945,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Right-click to decrease at a higher rate.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103355Z" creationid="Olivier" creationdate="20200502T103355Z">
+        <seg>Cliquez sur le bouton droit de la souris pour diminuer à un rythme plus élevé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Right-click to define this custom filter.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T101909Z" creationid="Olivier" creationdate="20200502T101909Z">
@@ -14989,6 +15069,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T101930Z" creationid="Olivier" creationdate="20200502T101930Z">
         <seg>SFM_KT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SFM_SB</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103152Z" creationid="Olivier" creationdate="20200502T103152Z">
+        <seg>SFM_SB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SFM_TB</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103237Z" creationid="Olivier" creationdate="20200502T103237Z">
+        <seg>SFM_TB</seg>
       </tuv>
     </tu>
     <tu>
@@ -15299,8 +15395,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Select city and update main city view</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T172023Z" creationid="Olivier" creationdate="20200428T172023Z">
-        <seg>Sélectionner une ville et mettre à jour la vue principale de la ville</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T102914Z" creationid="Olivier" creationdate="20200428T172023Z">
+        <seg>Sélectionnez une ville et mettre à jour la vue principale de la ville</seg>
       </tuv>
     </tu>
     <tu>
@@ -15405,6 +15501,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T150418Z" creationid="Olivier" creationdate="20200423T145102Z">
         <seg>Sélectionnez ~Unité de vente~ dans la liste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Selected Building Number</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103236Z" creationid="Olivier" creationdate="20200502T103155Z">
+        <seg>Numéro du bâtiment sélectionné</seg>
       </tuv>
     </tu>
     <tu>
@@ -15595,8 +15699,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Sound Effects On</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T163129Z" creationid="Olivier" creationdate="20200428T163129Z">
-        <seg>Actn</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T102804Z" creationid="Olivier" creationdate="20200428T163129Z">
+        <seg>Effets sonores activés</seg>
       </tuv>
     </tu>
     <tu>
@@ -18948,16 +19052,16 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>Toggle Corporate Filter to display a specific corporation in the Mini Map.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T102140Z" creationid="Olivier" creationdate="20200502T102140Z">
-        <seg>Basculez le filtre d'entreprise pour afficher une entreprise spécifique dans la mini-carte.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103118Z" creationid="Olivier" creationdate="20200502T102140Z">
+        <seg>Bascule le filtre d'entreprise pour afficher une entreprise spécifique dans la mini-carte.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Toggle Firm Filter to display only specific firm types in the Mini Map display.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T102101Z" creationid="Olivier" creationdate="20200502T102101Z">
-        <seg>Basculez le filtre des entreprises pour n'afficher que des types d'entreprises spécifiques dans l'affichage de la mini-carte.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103049Z" creationid="Olivier" creationdate="20200502T102101Z">
+        <seg>Bascule le filtre des entreprises pour n'afficher que des types d'entreprises spécifiques dans l'affichage de la mini-carte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18972,24 +19076,24 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>Toggle Player's Firm Filter to display only player's firms in the Mini Map display</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T102049Z" creationid="Olivier" creationdate="20200502T102049Z">
-        <seg>Basculer le filtre des entreprises du joueur pour n'afficher que les entreprises du joueur dans l'affichage de la mini-carte</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103037Z" creationid="Olivier" creationdate="20200502T102049Z">
+        <seg>Bascule le filtre des entreprises du joueur pour n'afficher que les entreprises du joueur dans l'affichage de la mini carte</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Toggle Product Filter to display locations of a specific product in the Mini Map.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T102207Z" creationid="Olivier" creationdate="20200502T102207Z">
-        <seg>Basculez le filtre de produit pour afficher les emplacements d'un produit spécifique dans la mini-carte.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103130Z" creationid="Olivier" creationdate="20200502T102207Z">
+        <seg>Bascule le filtre de produit pour afficher les emplacements d'un produit spécifique dans la mini-carte.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Toggle the filter mode between All Cities and Current City.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T101959Z" creationid="Olivier" creationdate="20200502T101959Z">
-        <seg>Basculez le mode de filtrage entre Toutes les villes et la ville actuelle.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103017Z" creationid="Olivier" creationdate="20200502T101959Z">
+        <seg>Bascule le mode de filtrage entre Toutes les villes et la ville actuelle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19670,6 +19774,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145823Z" creationid="Inrepublica" creationdate="20200422T145823Z">
         <seg>WEB_IDX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>WM_CW</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103300Z" creationid="Olivier" creationdate="20200502T103300Z">
+        <seg>WM_CW</seg>
       </tuv>
     </tu>
     <tu>
