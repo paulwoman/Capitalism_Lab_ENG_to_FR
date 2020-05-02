@@ -2286,6 +2286,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Apply this price change to all your retail stores in the same city.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103624Z" creationid="Olivier" creationdate="20200502T103624Z">
+        <seg>Appliquer ce changement de prix à tous vos magasins de détail dans la même ville.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Apply this price change to the selected product.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103557Z" creationid="Olivier" creationdate="20200502T103557Z">
+        <seg>Appliquer ce changement de prix au produit sélectionné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Are you competent enough to acheive this monumental task?</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T221445Z" creationid="Olivier" creationdate="20200429T221445Z">
@@ -2426,6 +2442,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T170000Z" creationid="Olivier" creationdate="20200422T170000Z">
         <seg>À ce stade, vous n'avez pas besoin de vous préoccuper des informations fournies avec chaque produit (les frais de transport, les évaluations, la marque et d'autres informations seront expliquées dans un tutoriel ultérieur).^^Pour l'instant, achetons simplement le premier produit de la liste pour faire avancer les choses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Auto Locate</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103527Z" creationid="Olivier" creationdate="20200502T103527Z">
+        <seg>Localisation automatique</seg>
       </tuv>
     </tu>
     <tu>
@@ -4102,6 +4126,38 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to hire Chief Marketing Officer</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T104237Z" creationid="Olivier" creationdate="20200502T104237Z">
+        <seg>Cliquez ici pour engager le Directeur du marketing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to hire Chief Operating Officer</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T104122Z" creationid="Olivier" creationdate="20200502T104122Z">
+        <seg>Cliquez ici pour engager le directeur d'exploitation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to hire Chief Technical Officer</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T104310Z" creationid="Olivier" creationdate="20200502T104310Z">
+        <seg>Cliquez ici pour engager le Directeur technique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to merge corporations</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T104347Z" creationid="Olivier" creationdate="20200502T104347Z">
+        <seg>Cliquez pour fusionner des sociétés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to open the Build Menu.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200429T091723Z" creationid="Olivier" creationdate="20200428T122803Z">
@@ -4130,6 +4186,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T123338Z" creationid="Olivier" creationdate="20200428T123338Z">
         <seg>Cliquez pour ouvrir le rapport de synthèse du produit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to terminate employment</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T104004Z" creationid="Olivier" creationdate="20200502T104004Z">
+        <seg>Cliquez pour résilier le contrat de travail</seg>
       </tuv>
     </tu>
     <tu>
@@ -5566,6 +5630,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Display more products using this input material</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103933Z" creationid="Olivier" creationdate="20200502T103933Z">
+        <seg>Affiche plus de produits utilisant cette matière première</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Display next product</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103716Z" creationid="Olivier" creationdate="20200502T103716Z">
+        <seg>Affiche le produit suivant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Display previous product</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103650Z" creationid="Olivier" creationdate="20200502T103650Z">
+        <seg>Affiche le produit précédent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Display the Mini Map</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T131723Z" creationid="Olivier" creationdate="20200427T120300Z">
@@ -6110,10 +6198,42 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>FE_AL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103455Z" creationid="Olivier" creationdate="20200502T103455Z">
+        <seg>FE_AL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>FE_RD</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103451Z" creationid="Olivier" creationdate="20200502T103451Z">
+        <seg>FE_RD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>FE_RU</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103453Z" creationid="Olivier" creationdate="20200502T103453Z">
+        <seg>FE_RU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>FE_TD</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103331Z" creationid="Olivier" creationdate="20200502T103331Z">
         <seg>FE_TD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>FE_TU</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103357Z" creationid="Olivier" creationdate="20200502T103357Z">
+        <seg>FE_TU</seg>
       </tuv>
     </tu>
     <tu>
@@ -8769,6 +8889,30 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hire Chief Marketing Officer</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T104221Z" creationid="Olivier" creationdate="20200502T104221Z">
+        <seg>Engager le Directeur du marketing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hire Chief Operating Officer</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T104059Z" creationid="Olivier" creationdate="20200502T104059Z">
+        <seg>Engager le directeur d'exploitation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hire Chief Technical Officer</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T104254Z" creationid="Olivier" creationdate="20200502T104254Z">
+        <seg>Engager le Directeur technique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Home Appliances</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100152Z" creationid="Olivier" creationdate="20200429T100152Z">
@@ -8861,6 +9005,126 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145956Z" creationid="Inrepublica" creationdate="20200422T145956Z">
         <seg>INT_SPRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IN_MG_FP</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103935Z" creationid="Olivier" creationdate="20200502T103935Z">
+        <seg>IN_MG_FP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IN_MG_HM</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T104124Z" creationid="Olivier" creationdate="20200502T104124Z">
+        <seg>IN_MG_HM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IN_MG_HP</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T104031Z" creationid="Olivier" creationdate="20200502T104031Z">
+        <seg>IN_MG_HP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IN_MG_HT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T104238Z" creationid="Olivier" creationdate="20200502T104238Z">
+        <seg>IN_MG_HT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IN_MG_IP</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103718Z" creationid="Olivier" creationdate="20200502T103718Z">
+        <seg>IN_MG_IP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IN_MG_MI</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103825Z" creationid="Olivier" creationdate="20200502T103825Z">
+        <seg>IN_MG_MI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IN_MG_NM</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103652Z" creationid="Olivier" creationdate="20200502T103652Z">
+        <seg>IN_MG_NM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IN_MG_OP</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103807Z" creationid="Olivier" creationdate="20200502T103807Z">
+        <seg>IN_MG_OP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IN_MG_PM</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103625Z" creationid="Olivier" creationdate="20200502T103625Z">
+        <seg>IN_MG_PM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IN_PD_AA</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103600Z" creationid="Olivier" creationdate="20200502T103600Z">
+        <seg>IN_PD_AA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IN_PD_PC</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103534Z" creationid="Olivier" creationdate="20200502T103534Z">
+        <seg>IN_PD_PC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IN_PD_PD</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103529Z" creationid="Olivier" creationdate="20200502T103529Z">
+        <seg>IN_PD_PD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IN_PD_PI</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103531Z" creationid="Olivier" creationdate="20200502T103531Z">
+        <seg>IN_PD_PI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IN_SM_M</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T104312Z" creationid="Olivier" creationdate="20200502T104312Z">
+        <seg>IN_SM_M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IN_SM_O</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T104348Z" creationid="Olivier" creationdate="20200502T104348Z">
+        <seg>IN_SM_O</seg>
       </tuv>
     </tu>
     <tu>
@@ -9697,6 +9961,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Input Material</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103736Z" creationid="Olivier" creationdate="20200502T103736Z">
+        <seg>Matières premières</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Inside your headquarters (HQ), you will see the usual 3x3 layout grid.^^There are functional units specifically for HQ.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T134346Z" creationid="Olivier" creationdate="20200427T134346Z">
@@ -10157,6 +10429,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103343Z" creationid="Olivier" creationdate="20200502T103343Z">
         <seg>Cliquez sur le bouton gauche pour diminuer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Left-click to increase.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103419Z" creationid="Olivier" creationdate="20200502T103419Z">
+        <seg>Cliquez sur le bouton gauche pour augmenter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10689,6 +10969,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Make a Tender Offer</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T104430Z" creationid="Olivier" creationdate="20200502T104430Z">
+        <seg>Offre publique d'achat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Male</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160106Z" creationid="Inrepublica" creationdate="20200422T160106Z">
@@ -10889,6 +11177,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Merge Corporations</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T104335Z" creationid="Olivier" creationdate="20200502T104335Z">
+        <seg>Fusionner des sociétés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mft|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155603Z" creationid="Inrepublica" creationdate="20200425T155603Z">
@@ -10917,6 +11213,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T165227Z" creationid="Inrepublica" creationdate="20200422T165227Z">
         <seg>Plus de talents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>More products using this input material</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103847Z" creationid="Olivier" creationdate="20200502T103847Z">
+        <seg>Plus de produits utilisant cette matière première</seg>
       </tuv>
     </tu>
     <tu>
@@ -11037,6 +11341,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200429T085326Z" creationid="Olivier" creationdate="20200428T171816Z">
         <seg>Ville suivante (touche de raccourci : ' ]')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Next Product</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103702Z" creationid="Olivier" creationdate="20200502T103702Z">
+        <seg>Produit suivant</seg>
       </tuv>
     </tu>
     <tu>
@@ -14257,6 +14569,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Previous Product</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103635Z" creationid="Olivier" creationdate="20200502T103635Z">
+        <seg>Produit précédente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Price Agreement|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150712Z" creationid="Inrepublica" creationdate="20200425T150712Z">
@@ -14961,6 +15281,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Right-click to increase at a higher rate.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103449Z" creationid="Olivier" creationdate="20200502T103449Z">
+        <seg>Cliquez sur le bouton droit de la souris pour augmenter le taux de croissance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Right-click to set the filter based on the current firm.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T172119Z" creationid="Olivier" creationdate="20200428T172119Z">
@@ -15373,6 +15701,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T101635Z" creationid="Olivier" creationdate="20200502T101635Z">
         <seg>Sélectionnez un bâtiment municipal ou des installations sportives pour voir dans quelle mesure les citoyens ont facilement accès aux services publics.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select a new input material</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103806Z" creationid="Olivier" creationdate="20200502T103806Z">
+        <seg>Sélectionne une nouvelle matière première</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select a new output product</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103823Z" creationid="Olivier" creationdate="20200502T103823Z">
+        <seg>Sélectionne un nouveau produit de sortie</seg>
       </tuv>
     </tu>
     <tu>
@@ -16445,6 +16789,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T194255Z" creationid="Inrepublica" creationdate="20200422T194255Z">
         <seg>Tendance de l'IA pour créer des assurances</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Terminate Employment</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T104029Z" creationid="Olivier" creationdate="20200502T103948Z">
+        <seg>Mettre fin au contrat de travail</seg>
       </tuv>
     </tu>
     <tu>
