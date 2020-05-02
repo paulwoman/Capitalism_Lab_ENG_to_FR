@@ -1230,6 +1230,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A high utilization rate means that your unit is operating efficiently.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150920Z" creationid="Olivier" creationdate="20200502T150920Z">
+        <seg>Un taux d'utilisation élevé signifie que votre unité fonctionne efficacement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A higher Content Quality rating leads to higher Rating Points.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T145825Z" creationid="Olivier" creationdate="20200502T145825Z">
@@ -1282,6 +1290,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203207Z" creationid="Inrepublica" creationdate="20200422T203207Z">
         <seg>Un écart d'intérêt net plus important signifie une plus grande marge bénéficiaire pour une banque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A low rate means that your unit has idle time and its capacity is not well utilized.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150931Z" creationid="Olivier" creationdate="20200502T150931Z">
+        <seg>Un taux bas signifie que votre unité a des temps morts et que sa capacité n'est pas bien utilisée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3486,6 +3502,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Capacity Utilization Rate of the Unit</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150910Z" creationid="Olivier" creationdate="20200502T150910Z">
+        <seg>Taux d'utilisation des capacités de l'unité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Capitalism Lab is an expansion for Capitalism 2 with a host of new features and improvements, for experienced users of Capitalism 2.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102104Z" creationid="Olivier" creationdate="20200428T102104Z">
@@ -3586,6 +3610,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150728Z" creationid="Inrepublica" creationdate="20200425T150728Z">
         <seg>Citric Acid|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City Average</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150526Z" creationid="Olivier" creationdate="20200502T150526Z">
+        <seg>Moyenne des villes</seg>
       </tuv>
     </tu>
     <tu>
@@ -6270,6 +6302,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Double-click to change it</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T151104Z" creationid="Olivier" creationdate="20200502T151104Z">
+        <seg>Double-cliquez pour la modifier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Double-click ~Seaport~ from the drop-down list.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T213632Z" creationid="Olivier" creationdate="20200423T123318Z">
@@ -6570,6 +6610,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150834Z" creationid="Inrepublica" creationdate="20200425T150834Z">
         <seg>Expansion|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Experience Level of the Unit</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150737Z" creationid="Olivier" creationdate="20200502T150737Z">
+        <seg>Niveau d'expérience de l'unité</seg>
       </tuv>
     </tu>
     <tu>
@@ -9209,6 +9257,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Green bar = Quality rating.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150425Z" creationid="Olivier" creationdate="20200502T150425Z">
+        <seg>Barre verte = Côte de qualité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Growing crops is a time consuming process and it has to go through sowing, growing and harvesting before you will see the products coming out from the unit.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T215112Z" creationid="Olivier" creationdate="20200425T215112Z">
@@ -9413,6 +9469,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100152Z" creationid="Olivier" creationdate="20200429T100152Z">
         <seg>Home Appliances</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hotkey: Press the first letter of the name of a functional unit to add it instantly.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T151122Z" creationid="Olivier" creationdate="20200502T151122Z">
+        <seg>Raccourcis : Appuyez sur la première lettre du nom d'une unité fonctionnelle pour l'ajouter instantanément.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10065,6 +10129,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>IFT_CITY</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150514Z" creationid="Olivier" creationdate="20200502T150514Z">
+        <seg>IFT_CITY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>IFT_GP</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142527Z" creationid="Olivier" creationdate="20200502T142527Z">
@@ -10101,6 +10173,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142501Z" creationid="Olivier" creationdate="20200502T142501Z">
         <seg>IFT_NP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFT_PBI</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T151123Z" creationid="Olivier" creationdate="20200502T151123Z">
+        <seg>IFT_PBI</seg>
       </tuv>
     </tu>
     <tu>
@@ -10149,6 +10229,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150305Z" creationid="Olivier" creationdate="20200502T150305Z">
         <seg>IFT_PRB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFT_PRB2</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150446Z" creationid="Olivier" creationdate="20200502T150446Z">
+        <seg>IFT_PRB2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFT_SD</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150606Z" creationid="Olivier" creationdate="20200502T150606Z">
+        <seg>IFT_SD</seg>
       </tuv>
     </tu>
     <tu>
@@ -10541,6 +10637,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T140443Z" creationid="Olivier" creationdate="20200502T140443Z">
         <seg>IN_SM_SX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ISUPPLY</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150702Z" creationid="Olivier" creationdate="20200502T150702Z">
+        <seg>ISUPPLY</seg>
       </tuv>
     </tu>
     <tu>
@@ -11633,6 +11737,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It shows the average ratings of this product in the current city.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150544Z" creationid="Olivier" creationdate="20200502T150544Z">
+        <seg>Cet outil indique les notes moyennes de ce produit dans la ville actuelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It shows the percentage of the product demand at this purchasing unit is met by the supply.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150728Z" creationid="Olivier" creationdate="20200502T150728Z">
+        <seg>Cela montre le pourcentage de la demande de produits dans cette unité d'achat qui est satisfaite par l'offre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It tells you how many people are watching the media.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T143913Z" creationid="Olivier" creationdate="20200426T143913Z">
@@ -11761,10 +11881,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LO_IN_E1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T151031Z" creationid="Olivier" creationdate="20200502T151031Z">
+        <seg>LO_IN_E1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LO_IN_E2</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T094456Z" creationid="Inrepublica" creationdate="20200426T094456Z">
         <seg>LO_IN_E2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LO_IN_E3</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T151105Z" creationid="Olivier" creationdate="20200502T151105Z">
+        <seg>LO_IN_E3</seg>
       </tuv>
     </tu>
     <tu>
@@ -13049,6 +13185,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Novice workers wear red uniforms, whereas experienced workers wear blue.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T151016Z" creationid="Olivier" creationdate="20200502T151016Z">
+        <seg>Les travailleurs novices portent des uniformes rouges, tandis que les travailleurs expérimentés portent des uniformes bleus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now all the staff in the firm will receive training.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T140724Z" creationid="Olivier" creationdate="20200426T140724Z">
@@ -14261,6 +14405,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150359Z" creationid="Olivier" creationdate="20200502T150333Z">
         <seg>Barre Orange = Classement de la marque..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Orange bar = the Demand.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150647Z" creationid="Olivier" creationdate="20200502T150647Z">
+        <seg>Barre orange = la demande.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16257,6 +16409,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Product Brand indicator</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T151616Z" creationid="Olivier" creationdate="20200502T151616Z">
+        <seg>Indicateur de la marque du produit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Product Customization</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150843Z" creationid="Inrepublica" creationdate="20200422T150843Z">
@@ -16389,6 +16549,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200429T085042Z" creationid="Olivier" creationdate="20200428T123320Z">
         <seg>Rapport de synthèse sur le produit (touche de raccourci : 'P' / Product)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product Supply Indicator</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150714Z" creationid="Olivier" creationdate="20200502T150714Z">
+        <seg>Indicateur de l'offre de produits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product Supply and Demand Indicators</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150615Z" creationid="Olivier" creationdate="20200502T150615Z">
+        <seg>Indicateurs de l'offre et de la demande de produits</seg>
       </tuv>
     </tu>
     <tu>
@@ -17713,6 +17889,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Single-click here to select this functional unit.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T151043Z" creationid="Olivier" creationdate="20200502T151043Z">
+        <seg>Il suffit de cliquer ici pour sélectionner cette unité fonctionnelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Skip game interface=Yes</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151138Z" creationid="Olivier" creationdate="20200423T151138Z">
@@ -18029,6 +18213,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102159Z" creationid="Olivier" creationdate="20200428T102159Z">
         <seg>Stock Price=88</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stock at the Unit</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150945Z" creationid="Olivier" creationdate="20200502T150945Z">
+        <seg>Stock de l'unité</seg>
       </tuv>
     </tu>
     <tu>
@@ -19177,6 +19369,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Product Overall rating is the sum total of these 2 ratings.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150513Z" creationid="Olivier" creationdate="20200502T150513Z">
+        <seg>La note globale du produit est la somme de ces deux notes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Product Overall rating is the sum total of these 3 ratings.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150445Z" creationid="Olivier" creationdate="20200502T150445Z">
+        <seg>La note globale du produit est la somme de ces 3 notes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Purchasing Power Index starts at 100% and diminishes over those years with inflation.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100307Z" creationid="Olivier" creationdate="20200429T100307Z">
@@ -19205,6 +19413,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T204344Z" creationid="Acer" creationdate="20200424T204344Z">
         <seg>La zone ci-dessous indique les actionnaires de la société publique sélectionnée. Vous détenez 50 % des actions de votre société et le reste des actions est détenu par des actionnaires publics, des personnes et des sociétés gérées par l'ordinateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The average ratings are derived from your competitors' products and your products.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150554Z" creationid="Olivier" creationdate="20200502T150554Z">
+        <seg>Les notes moyennes sont dérivées des produits de vos concurrents et de vos produits.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19585,6 +19801,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The overall productivity and capacity of most units increase when their unit</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150845Z" creationid="Olivier" creationdate="20200502T150757Z">
+        <seg>La productivité et la capacité globales de la plupart des unités augmentent lorsque leurs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The products your purchasing unit has ordered should have been delivered to your store by now, and your Purchasing Unit should have started working with your Sales Unit by supplying stock to it.^^Let's take a look at your ~Sales Unit~ by selecting it now.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T100623Z" creationid="Olivier" creationdate="20200423T151202Z">
@@ -19669,6 +19893,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T101637Z" creationid="Olivier" creationdate="20200427T101436Z">
         <seg>Le niveau de compétence du chef d'équipe de l'équipe dirigeante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The stock kept at the current unit.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150954Z" creationid="Olivier" creationdate="20200502T150954Z">
+        <seg>Le stock est maintenu à l'unité courante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20110,6 +20342,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T085459Z" creationid="Olivier" creationdate="20200424T085459Z">
         <seg>Il y a du bois de haute qualité disponible pour l'importation, à partir duquel vous pouvez fabriquer une variété de produits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Therefore if your product's ratings are higher than the city averages, your products will sell better.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150604Z" creationid="Olivier" creationdate="20200502T150604Z">
+        <seg>Par conséquent, si les notes de votre produit sont supérieures aux moyennes de la ville, vos produits se vendront mieux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21354,6 +21594,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Training will increase them increase their levels faster.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150859Z" creationid="Olivier" creationdate="20200502T150859Z">
+        <seg>La formation leur permettra d'augmenter leur niveau plus rapidement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Training=100</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170655Z" creationid="Olivier" creationdate="20200427T170655Z">
@@ -21430,6 +21678,38 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100244Z" creationid="Olivier" creationdate="20200429T100244Z">
         <seg>Tutorial=TUT08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>U_LEVEL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150729Z" creationid="Olivier" creationdate="20200502T150729Z">
+        <seg>U_LEVEL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>U_STOCK</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150932Z" creationid="Olivier" creationdate="20200502T150932Z">
+        <seg>U_STOCK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>U_UTIL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150901Z" creationid="Olivier" creationdate="20200502T150901Z">
+        <seg>U_UTIL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>U_WORKER</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150955Z" creationid="Olivier" creationdate="20200502T150955Z">
+        <seg>U_WORKER</seg>
       </tuv>
     </tu>
     <tu>
@@ -22050,6 +22330,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When all the workers in a unit become experienced, the unit level will increase by one (training will speed this up).</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T151027Z" creationid="Olivier" creationdate="20200502T151027Z">
+        <seg>Lorsque tous les travailleurs d'une unité acquièrent de l'expérience, le niveau de l'unité augmente d'une unité (la formation accélère ce processus).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When crops are harvested, they are stored in barns, which are represented by the blue bars.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T155651Z" creationid="Olivier" creationdate="20200426T155651Z">
@@ -22094,6 +22382,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T140707Z" creationid="Olivier" creationdate="20200426T140707Z">
         <seg>Lorsque la barre est pleine, cela signifie que vous lui avez alloué le budget de formation maximum possible.^^ Essayez de le faire maintenant en définissant la formation pour l'entreprise actuelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the demand (orange) bar is longer than the supply (yellow) bar, it means you do not have enough supply to meet the demand.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150701Z" creationid="Olivier" creationdate="20200502T150701Z">
+        <seg>Lorsque la barre de demande (orange) est plus longue que la barre d'offre (jaune), cela signifie que vous n'avez pas assez d'offre pour répondre à la demande.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22330,6 +22626,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Workers at the Unit</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T151006Z" creationid="Olivier" creationdate="20200502T151006Z">
+        <seg>Travailleurs de l'unité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>World Map (hotkey: Ctrl-W)</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T120315Z" creationid="Olivier" creationdate="20200427T120315Z">
@@ -22358,6 +22662,22 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T103603Z" creationid="Olivier" creationdate="20200428T103603Z">
         <seg>Years of Advanced Start for AI=5, Stock Purchase Allowed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Yellow bar = Price rating.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150434Z" creationid="Olivier" creationdate="20200502T150434Z">
+        <seg>Barre jaune = Cotation des prix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Yellow bar = the Supply.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150638Z" creationid="Olivier" creationdate="20200502T150638Z">
+        <seg>Barre jaune = l'offre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28929,6 +29249,14 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T120841Z" creationid="Olivier" creationdate="20200428T120841Z">
         <seg>http://www.apache.org/licenses/LICENSE-2.0.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>levels increase.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150851Z" creationid="Olivier" creationdate="20200502T150851Z">
+        <seg>niveau augmentent</seg>
       </tuv>
     </tu>
     <tu>
