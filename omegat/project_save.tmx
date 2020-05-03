@@ -1214,6 +1214,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A high Commuting Convenience rating means that there are residential buildings nearby and the commuting distance is short.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T103354Z" creationid="Olivier" creationdate="20200503T103354Z">
+        <seg>Une cote de confort élevée signifie qu'il y a des immeubles résidentiels à proximité et que la distance de déplacement est courte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A high number of consumer seaports increases the availability of consumer goods which companies may import and sell at retail.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T155220Z" creationid="Inrepublica" creationdate="20200422T160045Z">
@@ -1714,6 +1722,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102501Z" creationid="Olivier" creationdate="20200503T102501Z">
         <seg>AR_SHOP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ASSIGN_M</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T103713Z" creationid="Olivier" creationdate="20200503T103713Z">
+        <seg>ASSIGN_M</seg>
       </tuv>
     </tu>
     <tu>
@@ -3094,6 +3110,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Buy Firm</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T103501Z" creationid="Olivier" creationdate="20200503T103501Z">
+        <seg>Acheter l'établissement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Buy Firm|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150725Z" creationid="Inrepublica" creationdate="20200425T150725Z">
@@ -3594,6 +3618,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164458Z" creationid="Olivier" creationdate="20200429T164458Z">
         <seg>COO salary modifier=75</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CR_COMMU</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T103327Z" creationid="Olivier" creationdate="20200503T103327Z">
+        <seg>CR_COMMU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CR_DIST</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102840Z" creationid="Olivier" creationdate="20200503T102840Z">
+        <seg>CR_DIST</seg>
       </tuv>
     </tu>
     <tu>
@@ -4382,6 +4422,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click here to put this firm up for sale.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T103446Z" creationid="Olivier" creationdate="20200503T103446Z">
+        <seg>Cliquez ici pour mettre en vente cet établissement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click here to see how this can be used to make other products.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150127Z" creationid="Olivier" creationdate="20200502T150127Z">
@@ -4414,6 +4462,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click here to set the manager of this firm (hotkey: 'z').</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T103728Z" creationid="Olivier" creationdate="20200503T103728Z">
+        <seg>Cliquez ici pour définir le directeur de cette entreprise (touche de raccourci : 'z').</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to switch between display modes</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T103744Z" creationid="Olivier" creationdate="20200503T103744Z">
+        <seg>Cliquez ici pour passer d'un mode d'affichage à l'autre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click here to view profile details.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T144333Z" creationid="Olivier" creationdate="20200502T144333Z">
@@ -4426,6 +4490,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141533Z" creationid="Olivier" creationdate="20200502T141533Z">
         <seg>Cliquez ici pour voir les détails de la personne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the [Buy Firm] button below to buy it.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T103600Z" creationid="Olivier" creationdate="20200503T103600Z">
+        <seg>Cliquez sur le bouton [Acheter un établissement] ci-dessous pour l'acheter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4562,6 +4634,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T104601Z" creationid="Olivier" creationdate="20200502T104601Z">
         <seg>Cliquez pour acheter l'action affichée</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to buy this firm</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T103616Z" creationid="Olivier" creationdate="20200503T103616Z">
+        <seg>Cliquez pour acheter cet établissement</seg>
       </tuv>
     </tu>
     <tu>
@@ -5058,6 +5138,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102448Z" creationid="Olivier" creationdate="20200503T102448Z">
         <seg>Équipements collectifs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Commuting Convenience</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T103342Z" creationid="Olivier" creationdate="20200503T103342Z">
+        <seg>Commodité des trajets</seg>
       </tuv>
     </tu>
     <tu>
@@ -5830,6 +5918,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Demolish this firm</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T103711Z" creationid="Olivier" creationdate="20200503T103711Z">
+        <seg>Démolir cet établissement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Department Store|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T063915Z" creationid="Inrepublica" creationdate="20200426T063915Z">
@@ -6534,6 +6630,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Distance to Central Business District(CBD)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T103224Z" creationid="Olivier" creationdate="20200503T103132Z">
+        <seg>Distance par rapport au Quartier Central des Affaires (QCA)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Diversified Companies=1</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T103644Z" creationid="Olivier" creationdate="20200428T103644Z">
@@ -7134,6 +7238,54 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>F_AISALE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T103449Z" creationid="Olivier" creationdate="20200503T103449Z">
+        <seg>F_AISALE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>F_BUY</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T103601Z" creationid="Olivier" creationdate="20200503T103601Z">
+        <seg>F_BUY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>F_DEMOLI</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T103702Z" creationid="Olivier" creationdate="20200503T103702Z">
+        <seg>F_DEMOLI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>F_GRAPH</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T103733Z" creationid="Olivier" creationdate="20200503T103733Z">
+        <seg>F_GRAPH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>F_MOVDEM</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T103617Z" creationid="Olivier" creationdate="20200503T103617Z">
+        <seg>F_MOVDEM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>F_OSALE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T103356Z" creationid="Olivier" creationdate="20200503T103356Z">
+        <seg>F_OSALE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fabrications|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155600Z" creationid="Inrepublica" creationdate="20200425T155600Z">
@@ -7682,6 +7834,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T140538Z" creationid="Olivier" creationdate="20200426T140538Z">
         <seg>Pour les unités de R&amp;D, la formation améliore leur efficacité en matière de R&amp;D.^^Pour les ~unités de fabrication~, la formation augmente leur productivité et leurs capacités.^^Pour les ~unités d'élevage~ et les ~unités de culture~, la formation améliore la qualité de leur production ainsi que leurs capacités.^^Pour les ~unités d'achats~ et les ~unités de ventes~, la formation augmente leur efficacité et leurs capacités.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For Sale</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T103402Z" creationid="Olivier" creationdate="20200503T103402Z">
+        <seg>A vendre</seg>
       </tuv>
     </tu>
     <tu>
@@ -13833,6 +13993,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Next Product (Hotkey: 'x')</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T103827Z" creationid="Olivier" creationdate="20200503T103827Z">
+        <seg>Produit suivant (raccourci clavier : 'x')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Next Research Project</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142614Z" creationid="Olivier" creationdate="20200502T142614Z">
@@ -15251,8 +15419,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Overall Rating</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102805Z" creationid="Olivier" creationdate="20200503T102805Z">
-        <seg>Evaluation globale</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102838Z" creationid="Olivier" creationdate="20200503T102805Z">
+        <seg>Évaluation globale</seg>
       </tuv>
     </tu>
     <tu>
@@ -15405,6 +15573,30 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150001Z" creationid="Inrepublica" creationdate="20200422T150001Z">
         <seg>PRICAGGR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>P_NEXT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T103815Z" creationid="Olivier" creationdate="20200503T103815Z">
+        <seg>P_NEXT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>P_PREV</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T103758Z" creationid="Olivier" creationdate="20200503T103758Z">
+        <seg>P_PREV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>P_SEARCH</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T103745Z" creationid="Olivier" creationdate="20200503T103745Z">
+        <seg>P_SEARCH</seg>
       </tuv>
     </tu>
     <tu>
@@ -17249,6 +17441,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Previous Product (Hotkey: 'u')</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T103814Z" creationid="Olivier" creationdate="20200503T103814Z">
+        <seg>Produit précédent (raccourci clavier : 'u')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Previous Research Project</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142550Z" creationid="Olivier" creationdate="20200502T142550Z">
@@ -17821,6 +18021,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T121607Z" creationid="Olivier" creationdate="20200428T121607Z">
         <seg>Redistribution </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Relocate or Demolish this firm (hotkey: Ctrl-X)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T103639Z" creationid="Olivier" creationdate="20200503T103639Z">
+        <seg>Déplacer ou démolir cet établissement (touche de raccourci : Ctrl-X)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18477,6 +18685,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151531Z" creationid="Inrepublica" creationdate="20200423T151531Z">
         <seg>Score change=80</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Search for a specific product (Hotkey: Tab)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T103756Z" creationid="Olivier" creationdate="20200503T103756Z">
+        <seg>Recherche d'un produit spécifique (touche de raccourci : onglet)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21009,6 +21225,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The shorter the distance to Central Business District(CBD), the higher this rating is.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T103325Z" creationid="Olivier" creationdate="20200503T103157Z">
+        <seg>Plus la distance jusqu'au Quartier Central des Affaires (QCA) est courte, plus cette note est élevée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The skill level of the team lead.^</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T101637Z" creationid="Olivier" creationdate="20200427T101436Z">
@@ -21670,6 +21894,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T115503Z" creationid="Olivier" creationdate="20200428T115503Z">
         <seg>Ce chiffre correspond au bénéfice d'exploitation de votre société au cours des 12 derniers mois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This firm is for sale.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T103510Z" creationid="Olivier" creationdate="20200503T103510Z">
+        <seg>Cet établissement est à vendre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24414,6 +24646,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T101608Z" creationid="Olivier" creationdate="20200423T152342Z">
         <seg>Vous pouvez l'ouvrir à tout moment en ouvrant le ~Centre d'informations~ puis en sélectionnant ~Rapport d'objectif~, ou en appuyant sur la touche de raccourci 'G'~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may relocate this firm in the same city, or demolish it.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T103649Z" creationid="Olivier" creationdate="20200503T103649Z">
+        <seg>Vous pouvez relocaliser cette entreprise dans la même ville, ou la démolir.</seg>
       </tuv>
     </tu>
     <tu>
