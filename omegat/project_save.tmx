@@ -4606,6 +4606,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click here to access the stock market.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T151246Z" creationid="Olivier" creationdate="20200503T151246Z">
+        <seg>Cliquez ici pour accéder au marché boursier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click here to add a new product (hotkey: A)</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150141Z" creationid="Olivier" creationdate="20200502T150141Z">
@@ -4696,8 +4704,8 @@
       <tuv lang="en-US">
         <seg>Click here to open the Corporation Detail Report</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141608Z" creationid="Olivier" creationdate="20200502T141608Z">
-        <seg>Cliquez ici pour ouvrir le rapport détaillé sur les sociétés</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T151236Z" creationid="Olivier" creationdate="20200502T141608Z">
+        <seg>Cliquez ici pour ouvrir le rapport détaillé sur les entreprises</seg>
       </tuv>
     </tu>
     <tu>
@@ -4778,6 +4786,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T105229Z" creationid="Olivier" creationdate="20200503T105229Z">
         <seg>Cliquez ici pour activer et désactiver ce filtre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to type in an exact number (hotkey: '=')</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T150838Z" creationid="Olivier" creationdate="20200503T150838Z">
+        <seg>Cliquez ici pour saisir un nombre exact (raccourci  : '=')</seg>
       </tuv>
     </tu>
     <tu>
@@ -8510,6 +8526,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GETNUM</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T150821Z" creationid="Olivier" creationdate="20200503T150821Z">
+        <seg>GETNUM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GM_ADV</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145654Z" creationid="Inrepublica" creationdate="20200422T145654Z">
@@ -11921,6 +11945,38 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>IS_PRIV</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T151149Z" creationid="Olivier" creationdate="20200503T151149Z">
+        <seg>IS_PRIV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IS_PUBL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T151202Z" creationid="Olivier" creationdate="20200503T151202Z">
+        <seg>IS_PUBL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IS_SHARE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T151301Z" creationid="Olivier" creationdate="20200503T151301Z">
+        <seg>IS_SHARE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IS_SUBS</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T151247Z" creationid="Olivier" creationdate="20200503T151247Z">
+        <seg>IS_SUBS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I_CDET</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T104142Z" creationid="Olivier" creationdate="20200503T104142Z">
@@ -13561,6 +13617,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LOADMOD</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T151318Z" creationid="Olivier" creationdate="20200503T151318Z">
+        <seg>LOADMOD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LOANINT</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145831Z" creationid="Inrepublica" creationdate="20200422T145831Z">
@@ -13825,6 +13889,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Limit the list to only show persons in your group.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T150809Z" creationid="Olivier" creationdate="20200503T150809Z">
+        <seg>Limiter la liste aux seules personnes de votre groupe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Limit the list to only show the executive staff in your company.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T150754Z" creationid="Olivier" creationdate="20200503T150754Z">
@@ -13973,6 +14045,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145915Z" creationid="Inrepublica" creationdate="20200422T145915Z">
         <seg>MAXAIDIG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MAYOR_MV</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T151432Z" creationid="Olivier" creationdate="20200503T151432Z">
+        <seg>MAYOR_MV</seg>
       </tuv>
     </tu>
     <tu>
@@ -14265,10 +14345,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MYGROUP</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T150756Z" creationid="Olivier" creationdate="20200503T150756Z">
+        <seg>MYGROUP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MYSTAFF</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T150738Z" creationid="Olivier" creationdate="20200503T150738Z">
         <seg>MYSTAFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>M_SHARE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T150810Z" creationid="Olivier" creationdate="20200503T150810Z">
+        <seg>M_SHARE</seg>
       </tuv>
     </tu>
     <tu>
@@ -16137,6 +16233,30 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Only show companies that sell consumer products.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T151148Z" creationid="Olivier" creationdate="20200503T151148Z">
+        <seg>Ne montrer que les entreprises qui vendent des produits de consommation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Only show companies whose main business activities are investing into other companies.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T151134Z" creationid="Olivier" creationdate="20200503T151134Z">
+        <seg>Ne montrer que les entreprises dont l'activité principale consiste à investir dans d'autres entreprises.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Only show index stocks.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T150958Z" creationid="Olivier" creationdate="20200503T150958Z">
+        <seg>N'afficher que l'indice des stocks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Only show industries and product classes in which your company has market shares</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T091651Z" creationid="Olivier" creationdate="20200503T091651Z">
@@ -16153,10 +16273,34 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Only show media stocks.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T151109Z" creationid="Olivier" creationdate="20200503T151109Z">
+        <seg>Ne montrer que les actions des médias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Only show real estate stocks.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T151055Z" creationid="Olivier" creationdate="20200503T151055Z">
+        <seg>N'affichez que les actions immobilières.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Only show technologies that your company is currently researching.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T170020Z" creationid="Olivier" creationdate="20200502T170020Z">
         <seg>Ne montrer que les technologies sur lesquelles votre entreprise fait actuellement des recherches.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Only show technology stocks.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T151046Z" creationid="Olivier" creationdate="20200503T151046Z">
+        <seg>Ne montrer que les titres technologiques.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18793,6 +18937,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>RESETMOD</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T151347Z" creationid="Olivier" creationdate="20200503T151347Z">
+        <seg>RESETMOD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>RESGOAL</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T144457Z" creationid="Olivier" creationdate="20200503T144457Z">
@@ -19041,6 +19193,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Relocate this firm and compensate the owner for the difference in land prices if there is any.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T164802Z" creationid="Olivier" creationdate="20200503T164802Z">
+        <seg>Relocaliser cette entreprise et indemnisez le propriétaire pour la différence de prix du terrain s'il y en a une.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Relocate this firm as part of your city planning.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T151450Z" creationid="Olivier" creationdate="20200503T151450Z">
+        <seg>Relocaliser cette entreprise dans le cadre de votre planification urbaine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Remember that your corporation has just issued some shares?</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T151507Z" creationid="Olivier" creationdate="20200425T151507Z">
@@ -19145,6 +19313,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Reset the MOD setting and use the default game resources.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T151431Z" creationid="Olivier" creationdate="20200503T151401Z">
+        <seg>Réinitialiser les paramètres du MOD et utiliser les ressources de jeu par défaut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Retail</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102205Z" creationid="Olivier" creationdate="20200428T102205Z">
@@ -19213,6 +19389,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155530Z" creationid="Inrepublica" creationdate="20200425T155530Z">
         <seg>Retail Store|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Retail market shares of this product</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T150819Z" creationid="Olivier" creationdate="20200503T150819Z">
+        <seg>Parts du marché de détail de ce produit</seg>
       </tuv>
     </tu>
     <tu>
@@ -19557,6 +19741,70 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T105207Z" creationid="Olivier" creationdate="20200503T105207Z">
         <seg>SUBSONLY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>S_ANY</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T150853Z" creationid="Olivier" creationdate="20200503T150853Z">
+        <seg>S_ANY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>S_CONSUM</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T151135Z" creationid="Olivier" creationdate="20200503T151135Z">
+        <seg>S_CONSUM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>S_ESTATE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T151047Z" creationid="Olivier" creationdate="20200503T151047Z">
+        <seg>S_ESTATE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>S_INDEX</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T150903Z" creationid="Olivier" creationdate="20200503T150903Z">
+        <seg>S_INDEX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>S_INVEST</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T151110Z" creationid="Olivier" creationdate="20200503T151110Z">
+        <seg>S_INVEST</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>S_MEDIA</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T151057Z" creationid="Olivier" creationdate="20200503T151057Z">
+        <seg>S_MEDIA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>S_OWNED</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T150839Z" creationid="Olivier" creationdate="20200503T150839Z">
+        <seg>S_OWNED</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>S_TECH</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T150959Z" creationid="Olivier" creationdate="20200503T150959Z">
+        <seg>S_TECH</seg>
       </tuv>
     </tu>
     <tu>
@@ -20157,6 +20405,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T165930Z" creationid="Olivier" creationdate="20200502T165845Z">
         <seg>Affiche toutes les technologies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show any types of stocks.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T151038Z" creationid="Olivier" creationdate="20200503T150902Z">
+        <seg>Afficher tous les types d'actions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23066,6 +23322,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This company is your corporation's subsidiary.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T151300Z" creationid="Olivier" creationdate="20200503T151300Z">
+        <seg>Cette société est la filiale de votre société.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This determines how aggressive AI companies are in pursuing business expansions.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T155015Z" creationid="Inrepublica" creationdate="20200422T154126Z">
@@ -23190,6 +23454,22 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T152946Z" creationid="Olivier" creationdate="20200425T152946Z">
         <seg>Il s'agit d'un pourcentage calculé en divisant le dernier dividende versé par le cours de l'action. En résumé, plus le rendement du dividende est élevé, plus chaque investisseur reçoit de liquidités lors du versement du dividende chaque année.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is a private company.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T151229Z" creationid="Olivier" creationdate="20200503T151200Z">
+        <seg>Il s'agit d'une entreprises privée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is a public company</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T151220Z" creationid="Olivier" creationdate="20200503T151220Z">
+        <seg>Il s'agit d'une entreprise publique</seg>
       </tuv>
     </tu>
     <tu>
@@ -24178,6 +24458,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Toggle whether showing only companies in which you own shares.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T150852Z" creationid="Olivier" creationdate="20200503T150852Z">
+        <seg>Permet d'afficher uniquement les entreprises dans lesquelles vous détenez des actions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Toggle whether the supplier list should only show warehouses.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T144122Z" creationid="Olivier" creationdate="20200503T144122Z">
@@ -24846,6 +25134,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T132306Z" creationid="Olivier" creationdate="20200424T094206Z">
         <seg>Utilisez le filtre ~Tous les produits~ pour sélectionner ~Bois~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use this MOD.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T151409Z" creationid="Olivier" creationdate="20200503T151334Z">
+        <seg>Utiliser ce MOD.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26255,6 +26551,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220658Z" creationid="Olivier" creationdate="20200429T220658Z">
         <seg>Vous avez maintenant la bénédiction de votre famille pour étendre l'activité à l'étranger, à Londres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You own shares in this company directly or via holding companies.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T151312Z" creationid="Olivier" creationdate="20200503T151312Z">
+        <seg>Vous détenez des actions de cette société directement ou par l'intermédiaire de sociétés holding.</seg>
       </tuv>
     </tu>
     <tu>
