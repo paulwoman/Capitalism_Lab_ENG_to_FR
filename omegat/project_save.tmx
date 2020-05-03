@@ -1206,6 +1206,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A city's population growth is supported by 1) #a low unemployment rate#, 2) #high quality of living#, and 3) #sufficient housing supply#.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T141645Z" creationid="Olivier" creationdate="20200503T141645Z">
+        <seg>La croissance démographique d'une ville est soutenue par 1) #un faible taux de chômage#, 2) #une qualité de vie élevée#, et 3) #une offre de logement suffisante#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A conservative bank may set a lower Maximum Loans-to-Assets ratio on the bank HQ interface, provided that it does not exceed the one defined here.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T195630Z" creationid="Inrepublica" creationdate="20200422T195630Z">
@@ -1338,6 +1346,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T215408Z" creationid="Olivier" creationdate="20200423T124555Z">
         <seg>Un nouveau grand magasin coûte 1 million de dollars pour sa construction, plus le coût du terrain, et 100 000 $ supplémentaires par mois pour son fonctionnement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A positive value means that the housing supply is greater than the housing demand, and vice versa.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T142241Z" creationid="Olivier" creationdate="20200503T142241Z">
+        <seg>Une valeur positive signifie que l'offre de logement est supérieure à la demande de logement, et vice versa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A positive value means that the office space supply is greater than the office space demand, and vice versa.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T142301Z" creationid="Olivier" creationdate="20200503T142301Z">
+        <seg>Une valeur positive signifie que l'offre d'espace de bureau est supérieure à la demande d'espace de bureau, et vice versa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2346,6 +2370,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220932Z" creationid="Olivier" creationdate="20200429T220932Z">
         <seg>Et vous avez l'intention de maintenir vos opérations au plus bas, car cette stratégie produit les meilleurs résultats lorsque votre entreprise peut manœuvrer rapidement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Annual Emigrants</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T141840Z" creationid="Olivier" creationdate="20200503T141840Z">
+        <seg>Émigrants annuels</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Annual Immigrants</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T141902Z" creationid="Olivier" creationdate="20200503T141805Z">
+        <seg>Immigrants annuels</seg>
       </tuv>
     </tu>
     <tu>
@@ -3970,6 +4010,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T195808Z" creationid="Inrepublica" creationdate="20200422T195808Z">
         <seg>Niveau initial des liquidités de la ville</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City Population</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T141718Z" creationid="Olivier" creationdate="20200503T141718Z">
+        <seg>Population de la ville</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City Population Growth</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T141653Z" creationid="Olivier" creationdate="20200503T141626Z">
+        <seg>Croissance démographique des villes</seg>
       </tuv>
     </tu>
     <tu>
@@ -7118,6 +7174,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enable or disable the option of popping up news windows for important news.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T141614Z" creationid="Olivier" creationdate="20200503T141614Z">
+        <seg>Activez ou désactivez la possibilité de faire apparaître des fenêtres d'information pour les nouvelles importantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enable the enhanced hotkey system.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T171656Z" creationid="Olivier" creationdate="20200428T171656Z">
@@ -8604,6 +8668,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T063911Z" creationid="Inrepublica" creationdate="20200426T063911Z">
         <seg>General Store|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Generally, when there are a large number of job openings available in the city, the city can afford to accept immigrants at a faster pace.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T142219Z" creationid="Olivier" creationdate="20200503T142219Z">
+        <seg>En général, lorsqu'il y a un grand nombre d'offres d'emploi disponibles dans la ville, celle-ci peut se permettre d'accepter des immigrants à un rythme plus rapide.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10341,6 +10413,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T151122Z" creationid="Olivier" creationdate="20200502T151122Z">
         <seg>Raccourcis : Appuyez sur la première lettre du nom d'une unité fonctionnelle pour l'ajouter instantanément.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Housing Supply and Demand Index</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T142231Z" creationid="Olivier" creationdate="20200503T142231Z">
+        <seg>Indice de l'offre et de la demande de logements</seg>
       </tuv>
     </tu>
     <tu>
@@ -15553,6 +15633,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Office Space Supply and Demand Index</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T142252Z" creationid="Olivier" creationdate="20200503T142252Z">
+        <seg>Indice de l'offre et de la demande d'espaces de bureaux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ok</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144905Z" creationid="Olivier" creationdate="20200428T144905Z">
@@ -16133,6 +16221,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T063943Z" creationid="Inrepublica" creationdate="20200426T063943Z">
         <seg>Parfumerie|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>People enjoy their lives better when they live in apartments with good access to community and sports facilities, a green environment and good shopping convenience, as well as a higher real wage rate.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T142157Z" creationid="Olivier" creationdate="20200503T142157Z">
+        <seg>Les gens profitent mieux de leur vie lorsqu'ils vivent dans des appartements offrant un bon accès aux équipements collectifs et sportifs, un environnement vert et un bon confort d'achat, ainsi qu'un taux de salaire réel plus élevé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18141,6 +18237,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155528Z" creationid="Inrepublica" creationdate="20200425T155528Z">
         <seg>QUITTER VERS WINDOWS|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Quality of living of the city.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T141945Z" creationid="Olivier" creationdate="20200503T141945Z">
+        <seg>Qualité de vie de la ville.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20217,10 +20321,74 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>T_EMIG</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T141819Z" creationid="Olivier" creationdate="20200503T141819Z">
+        <seg>T_EMIG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>T_GOAL</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T152141Z" creationid="Inrepublica" creationdate="20200423T152141Z">
         <seg>T_GOAL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>T_HOUSE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T142220Z" creationid="Olivier" creationdate="20200503T142220Z">
+        <seg>T_HOUSE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>T_IMMIG</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T141727Z" creationid="Olivier" creationdate="20200503T141727Z">
+        <seg>T_IMMIG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>T_JOBOPE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T142158Z" creationid="Olivier" creationdate="20200503T142158Z">
+        <seg>T_JOBOPE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>T_OFFICE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T142242Z" creationid="Olivier" creationdate="20200503T142242Z">
+        <seg>T_OFFICE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>T_PGROW</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T141616Z" creationid="Olivier" creationdate="20200503T141616Z">
+        <seg>T_PGROW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>T_POP</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T141709Z" creationid="Olivier" creationdate="20200503T141709Z">
+        <seg>T_POP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>T_QLIVE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T141937Z" creationid="Olivier" creationdate="20200503T141937Z">
+        <seg>T_QLIVE</seg>
       </tuv>
     </tu>
     <tu>
@@ -21505,6 +21673,30 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The number of immigrants to the city annually.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T141935Z" creationid="Olivier" creationdate="20200503T141818Z">
+        <seg>Le nombre de personnes qui immigrent vers la ville chaque année.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The number of job openings in the city</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T142207Z" creationid="Olivier" creationdate="20200503T142207Z">
+        <seg>Le nombre d'offres d'emploi dans la ville</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The number of people emigrated from the city annually.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T141918Z" creationid="Olivier" creationdate="20200503T141918Z">
+        <seg>Le nombre de personnes qui émigrent de la ville chaque année.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The number of subsidiaries that your company owns at the beginning of the game.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161233Z" creationid="Inrepublica" creationdate="20200422T161233Z">
@@ -21565,6 +21757,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102820Z" creationid="Olivier" creationdate="20200503T102820Z">
         <seg>L'évaluation globale est une combinaison des évaluations ci-dessus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The population growth rate is a result of comparing the city's population in the beginning of this year with the same period last year.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T141707Z" creationid="Olivier" creationdate="20200503T141707Z">
+        <seg>Le taux de croissance démographique est le résultat de la comparaison de la population de la ville au début de cette année avec la même période l'année dernière.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22510,6 +22710,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T162409Z" creationid="Inrepublica" creationdate="20200422T162409Z">
         <seg>Ce paramètre est principalement destiné à augmenter le niveau de difficulté du jeu si vous recherchez un plus grand défi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This shows the city's population changes over time.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T141726Z" creationid="Olivier" creationdate="20200503T141726Z">
+        <seg>Cela montre l'évolution de la population de la ville au fil du temps.</seg>
       </tuv>
     </tu>
     <tu>
