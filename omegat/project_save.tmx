@@ -7654,6 +7654,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>FRECON_H</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T150724Z" creationid="Olivier" creationdate="20200503T150724Z">
+        <seg>FRECON_H</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>FRECON_L</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145728Z" creationid="Olivier" creationdate="20200503T145728Z">
@@ -13817,6 +13825,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Limit the list to only show the executive staff in your company.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T150754Z" creationid="Olivier" creationdate="20200503T150754Z">
+        <seg>Limiter la liste aux seuls cadres de votre entreprise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Limitation of Liability.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122209Z" creationid="Olivier" creationdate="20200428T122209Z">
@@ -14245,6 +14261,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155532Z" creationid="Inrepublica" creationdate="20200425T155532Z">
         <seg>MORE|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MYSTAFF</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T150738Z" creationid="Olivier" creationdate="20200503T150738Z">
+        <seg>MYSTAFF</seg>
       </tuv>
     </tu>
     <tu>
@@ -25158,6 +25182,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T180345Z" creationid="Acer" creationdate="20200424T180345Z">
         <seg>Quand il est écrit "1er", cela signifie que votre société a atteint une position dominante sur le marché pour la classe de produits concernée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When selecting a supplier, the freight cost is a very important factor to consider.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T150736Z" creationid="Olivier" creationdate="20200503T150736Z">
+        <seg>Lors de la sélection d'un fournisseur, le coût du fret est un facteur très important à prendre en compte.</seg>
       </tuv>
     </tu>
     <tu>
