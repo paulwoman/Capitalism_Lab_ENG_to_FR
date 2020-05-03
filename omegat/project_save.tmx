@@ -1670,6 +1670,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>APPL_SEL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T091306Z" creationid="Olivier" creationdate="20200503T091306Z">
+        <seg>APPL_SEL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Abort|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T115459Z" creationid="Olivier" creationdate="20200429T115459Z">
@@ -3146,6 +3154,30 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T215819Z" creationid="Olivier" creationdate="20200429T215819Z">
         <seg>En exploitant la marque, vos nouveaux produits seront reconnus instantanément par les consommateurs, sans publicité préalable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CDR_D_01</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T091518Z" creationid="Olivier" creationdate="20200503T091518Z">
+        <seg>CDR_D_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CDR_D_02</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T091528Z" creationid="Olivier" creationdate="20200503T091528Z">
+        <seg>CDR_D_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CDR_D_03</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T091652Z" creationid="Olivier" creationdate="20200503T091652Z">
+        <seg>CDR_D_03</seg>
       </tuv>
     </tu>
     <tu>
@@ -8088,6 +8120,30 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to the next layout plan found.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T091803Z" creationid="Olivier" creationdate="20200503T091803Z">
+        <seg>Passer au plan d'aménagement suivant trouvé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to the responsible R&amp;D center</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T091450Z" creationid="Olivier" creationdate="20200503T091450Z">
+        <seg>Aller au centre de R&amp;D responsable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to your R&amp;D center responsible for researching the selected technology.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T091505Z" creationid="Olivier" creationdate="20200503T091505Z">
+        <seg>Visitez votre centre de R&amp;D responsable de la recherche sur la technologie sélectionnée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Achieved Text=Bravo!</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T215605Z" creationid="Olivier" creationdate="20200429T215605Z">
@@ -12593,10 +12649,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MFT_IN</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T091726Z" creationid="Olivier" creationdate="20200503T091726Z">
+        <seg>MFT_IN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MFT_INPU</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T092238Z" creationid="Inrepublica" creationdate="20200426T092238Z">
         <seg>MFT_INPU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MFT_OUT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T091739Z" creationid="Olivier" creationdate="20200503T091739Z">
+        <seg>MFT_OUT</seg>
       </tuv>
     </tu>
     <tu>
@@ -14689,6 +14761,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Only show industries and product classes in which your company has market shares</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T091651Z" creationid="Olivier" creationdate="20200503T091651Z">
+        <seg>Indiquer uniquement les secteurs et les classes de produits dans lesquels votre entreprise détient des parts de marché</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Only show industries and product classes which your company dominates</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T091724Z" creationid="Olivier" creationdate="20200503T091724Z">
+        <seg>Indiquer uniquement les secteurs et les catégories de produits que votre entreprise domine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Only show technologies that your company is currently researching.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T170020Z" creationid="Olivier" creationdate="20200502T170020Z">
@@ -14893,6 +14981,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T092255Z" creationid="Inrepublica" creationdate="20200426T092255Z">
         <seg>PININPUT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PLAN_1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T091750Z" creationid="Olivier" creationdate="20200503T091750Z">
+        <seg>PLAN_1</seg>
       </tuv>
     </tu>
     <tu>
@@ -18301,6 +18397,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151322Z" creationid="Inrepublica" creationdate="20200423T151322Z">
         <seg>Show Competitor Trade Secrets=Yes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show all industries and product classes</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T091526Z" creationid="Olivier" creationdate="20200503T091526Z">
+        <seg>Afficher toutes les industries et classes de produits</seg>
       </tuv>
     </tu>
     <tu>
@@ -21930,6 +22034,22 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To locate an specific input, type the first letter of its name.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T091737Z" creationid="Olivier" creationdate="20200503T091737Z">
+        <seg>Pour localiser une entrée spécifique, tapez la première lettre de son nom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To locate an specific output, type the first letter of its name.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T091748Z" creationid="Olivier" creationdate="20200503T091748Z">
+        <seg>Pour localiser une sortie spécifique, tapez la première lettre de son nom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To see the ~goal report~, click the ~Information Center~ icon on the menu bar at the bottom of the screen.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T221339Z" creationid="Olivier" creationdate="20200422T211926Z">
@@ -23678,6 +23798,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145642Z" creationid="Inrepublica" creationdate="20200422T145633Z">
         <seg>Vous pouvez également personnaliser ou laisser le hasard définir les paramètres de jeu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may also double-click on a R&amp;D record to do the same.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T091517Z" creationid="Olivier" creationdate="20200503T091517Z">
+        <seg>Vous pouvez également double-cliquer sur un enregistrement de R&amp;D pour faire de même.</seg>
       </tuv>
     </tu>
     <tu>
