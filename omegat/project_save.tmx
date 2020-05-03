@@ -1982,6 +1982,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Add the current firm's layout to the plan library</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T091814Z" creationid="Olivier" creationdate="20200503T091814Z">
+        <seg>Ajouter le plan de l'entreprise actuelle à la bibliothèque des plans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Add|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150840Z" creationid="Inrepublica" creationdate="20200425T150840Z">
@@ -5602,6 +5610,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T120942Z" creationid="Olivier" creationdate="20200428T120942Z">
         <seg>Définitions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Delete this layout plan</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T091824Z" creationid="Olivier" creationdate="20200503T091824Z">
+        <seg>Supprimer ce plan d'aménagement</seg>
       </tuv>
     </tu>
     <tu>
@@ -14993,6 +15009,46 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>PLAN_2</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T091805Z" creationid="Olivier" creationdate="20200503T091805Z">
+        <seg>PLAN_2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PLAN_3</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T091816Z" creationid="Olivier" creationdate="20200503T091816Z">
+        <seg>PLAN_3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PLAN_4</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T091825Z" creationid="Olivier" creationdate="20200503T091825Z">
+        <seg>PLAN_4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PLAN_5</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T091850Z" creationid="Olivier" creationdate="20200503T091850Z">
+        <seg>PLAN_5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PLAN_6</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T092537Z" creationid="Olivier" creationdate="20200503T092537Z">
+        <seg>PLAN_6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>PLUS|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155533Z" creationid="Inrepublica" creationdate="20200425T155533Z">
@@ -17457,6 +17513,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Replace this layout plan with the current firm's layout.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T092531Z" creationid="Olivier" creationdate="20200503T091849Z">
+        <seg>Remplacer ce plan d'aménagement par celui de l'établissement actuel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Required Bank Capital Ratio</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203217Z" creationid="Inrepublica" creationdate="20200422T203217Z">
@@ -18573,6 +18637,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T101745Z" creationid="Olivier" creationdate="20200502T101745Z">
         <seg>Mode de cartographie du sol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sort the layout plans in this library by their descriptions.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T092536Z" creationid="Olivier" creationdate="20200503T092527Z">
+        <seg>Trier les plans d'aménagement de cette bibliothèque en fonction de leur description.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22790,6 +22862,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T132306Z" creationid="Olivier" creationdate="20200424T094206Z">
         <seg>Utilisez le filtre ~Tous les produits~ pour sélectionner ~Bois~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use this layout plan on this current firm.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T092814Z" creationid="Olivier" creationdate="20200503T092814Z">
+        <seg>Utiliser ce plan d'aménagement sur cette entreprise actuelle.</seg>
       </tuv>
     </tu>
     <tu>
