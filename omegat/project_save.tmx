@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(hotkey: Enter)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145335Z" creationid="Olivier" creationdate="20200503T145335Z">
+        <seg>( Raccourci : Enter)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(the same firm type and the same company/subsidiary)</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122928Z" creationid="Olivier" creationdate="20200428T122928Z">
@@ -2086,6 +2094,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Additional funding for the focused area.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145620Z" creationid="Olivier" creationdate="20200503T145620Z">
+        <seg>Financement supplémentaire pour le domaine ciblé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Add|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150840Z" creationid="Inrepublica" creationdate="20200425T150840Z">
@@ -2934,6 +2950,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Balance market shares and profit margins and set prices sensibly.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145726Z" creationid="Olivier" creationdate="20200503T145726Z">
+        <seg>Équilibrer les parts de marché et les marges bénéficiaires et fixer les prix de manière raisonnable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Base Loan Interest Rate</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164720Z" creationid="Inrepublica" creationdate="20200422T164720Z">
@@ -3474,6 +3498,38 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145803Z" creationid="Inrepublica" creationdate="20200422T145803Z">
         <seg>CHALHOW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CHARANK1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145507Z" creationid="Olivier" creationdate="20200503T145507Z">
+        <seg>CHARANK1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CHARANK2</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145521Z" creationid="Olivier" creationdate="20200503T145521Z">
+        <seg>CHARANK2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CHASORT1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145431Z" creationid="Olivier" creationdate="20200503T145431Z">
+        <seg>CHASORT1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CHASORT2</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145444Z" creationid="Olivier" creationdate="20200503T145444Z">
+        <seg>CHASORT2</seg>
       </tuv>
     </tu>
     <tu>
@@ -4578,6 +4634,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143908Z" creationid="Olivier" creationdate="20200503T143908Z">
         <seg>Cliquez ici pour annuler l'attente et le traiter manuellement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to finish editing this firm's description.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145405Z" creationid="Olivier" creationdate="20200503T145405Z">
+        <seg>Cliquez ici pour terminer l'édition de la description de cet établissement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to finish editing this layout plan's description.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145428Z" creationid="Olivier" creationdate="20200503T145428Z">
+        <seg>Cliquez ici pour terminer l'édition de la description de ce plan d'aménagement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7534,6 +7606,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>FIRMDES0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145254Z" creationid="Olivier" creationdate="20200503T145254Z">
+        <seg>FIRMDES0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>FIRMDES1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145337Z" creationid="Olivier" creationdate="20200503T145337Z">
+        <seg>FIRMDES1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>FIRM_REP</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T105114Z" creationid="Olivier" creationdate="20200503T105114Z">
@@ -7562,6 +7650,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102352Z" creationid="Olivier" creationdate="20200503T102352Z">
         <seg>FORSALEC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>FRECON_L</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145728Z" creationid="Olivier" creationdate="20200503T145728Z">
+        <seg>FRECON_L</seg>
       </tuv>
     </tu>
     <tu>
@@ -8748,6 +8844,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144530Z" creationid="Olivier" creationdate="20200428T144402Z">
         <seg>Menu de jeu (Raccourci : ESC)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Game Speed (disabled)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145553Z" creationid="Olivier" creationdate="20200503T145553Z">
+        <seg>Vitesse de jeu (désactivé)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13529,6 +13633,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Launch a web browser and open the Private Challenge Game Rankings web page.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145542Z" creationid="Olivier" creationdate="20200503T145542Z">
+        <seg>Lancez un navigateur web et ouvrez la page web du classement des jeux de Défi privé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Launch a web browser and open the Public Challenge Game Rankings web page.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145520Z" creationid="Olivier" creationdate="20200503T145520Z">
+        <seg>Lancez un navigateur web et ouvrez la page web du classement des jeux du Défi public.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Launch a web browser and open the web page with instructions on how to set up a private challenge game.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160615Z" creationid="Inrepublica" creationdate="20200422T160615Z">
@@ -13805,6 +13925,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160445Z" creationid="Inrepublica" creationdate="20200422T160445Z">
         <seg>Les produits de qualité médiocre offrent la possibilité aux jeunes fabricants locaux de rivaliser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lower prices to gain market shares at the expense of profit margins.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145713Z" creationid="Olivier" creationdate="20200503T145713Z">
+        <seg>Baisser les prix pour gagner des parts de marché au détriment des marges bénéficiaires.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14349,6 +14477,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164815Z" creationid="Inrepublica" creationdate="20200422T164815Z">
         <seg>Nombre maximal d'entreprises de logiciels et d'Internet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Maximize profit margins by raising prices at the expense of market shares and capacity utilization rates.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145643Z" creationid="Olivier" creationdate="20200503T145643Z">
+        <seg>Maximiser les marges bénéficiaires en augmentant les prix au détriment des parts de marché et des taux d'utilisation des capacités.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16217,6 +16353,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>PLANDES0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145407Z" creationid="Olivier" creationdate="20200503T145407Z">
+        <seg>PLANDES0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PLANDES1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145418Z" creationid="Olivier" creationdate="20200503T145418Z">
+        <seg>PLANDES1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>PLANSRC1</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T144519Z" creationid="Olivier" creationdate="20200503T144519Z">
@@ -16325,6 +16477,30 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150001Z" creationid="Inrepublica" creationdate="20200422T150001Z">
         <seg>PRICAGGR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PRICE_BL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145715Z" creationid="Olivier" creationdate="20200503T145715Z">
+        <seg>PRICE_BL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PRICE_MS</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145644Z" creationid="Olivier" creationdate="20200503T145644Z">
+        <seg>PRICE_MS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PRICE_PM</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145630Z" creationid="Olivier" creationdate="20200503T145630Z">
+        <seg>PRICE_PM</seg>
       </tuv>
     </tu>
     <tu>
@@ -19313,6 +19489,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SPEEDNO</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145543Z" creationid="Olivier" creationdate="20200503T145543Z">
+        <seg>SPEEDNO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>STEEL|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155606Z" creationid="Inrepublica" creationdate="20200425T155606Z">
@@ -19651,8 +19835,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Select the folder containing wildcard layout plans.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145139Z" creationid="Olivier" creationdate="20200503T145139Z">
-        <seg>Sélectionnez le dossier contenant les plans d'aménagement contenant des caractères génériques.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145253Z" creationid="Olivier" creationdate="20200503T145139Z">
+        <seg>Sélectionner le dossier contenant les plans d'aménagement contenant des génériques.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20117,6 +20301,30 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T101745Z" creationid="Olivier" creationdate="20200502T101745Z">
         <seg>Mode de cartographie du sol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sorry, you cannot change the game speed of the current game as it is fixed by a game script.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145604Z" creationid="Olivier" creationdate="20200503T145604Z">
+        <seg>Désolé, vous ne pouvez pas modifier la vitesse du jeu en cours car elle est fixée par un script de jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sort by Challenge Game Title.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145442Z" creationid="Olivier" creationdate="20200503T145442Z">
+        <seg>Trier par titre de jeu de défi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sort by Contest Starting Date.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145506Z" creationid="Olivier" creationdate="20200503T145506Z">
+        <seg>Trier par date de début du concours.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21905,6 +22113,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The funding will help improve the city's competitiveness in the focused area.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145629Z" creationid="Olivier" creationdate="20200503T145629Z">
+        <seg>Ce financement contribuera à améliorer la compétitivité de la ville dans la zone ciblée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The game is not saved.|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T152643Z" creationid="Inrepublica" creationdate="20200423T152643Z">
@@ -22922,6 +23138,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This firm's description - click here to edit.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145326Z" creationid="Olivier" creationdate="20200503T145311Z">
+        <seg>La description de cet établissement - cliquez ici pour la modifier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This index affects the recurring expenses of public facilities, which impacts the game's difficulty when playing as a mayor.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161652Z" creationid="Inrepublica" creationdate="20200422T161652Z">
@@ -22982,6 +23206,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T134706Z" creationid="Olivier" creationdate="20200423T134706Z">
         <seg>Il s'agit de votre groupement d'unités commerciales de base.^^Les deux unités n'ont pas beaucoup d'effet en soi, mais reliées entre elles, elles permettent à votre magasin de fonctionner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This layout plan's description - click here to edit.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145416Z" creationid="Olivier" creationdate="20200503T145416Z">
+        <seg>La description de ce plan d'aménagement - cliquez ici pour l'éditer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24130,6 +24362,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>U_FUND</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145606Z" creationid="Olivier" creationdate="20200503T145606Z">
+        <seg>U_FUND</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>U_LEVEL</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150729Z" creationid="Olivier" creationdate="20200502T150729Z">
@@ -24922,6 +25162,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When selecting a supplier, the freight cost is not a major factor to consider.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T150721Z" creationid="Olivier" creationdate="20200503T150721Z">
+        <seg>Lors de la sélection d'un fournisseur, le coût du fret n'est pas un facteur important à prendre en compte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When the Express mode is enabled, a new streamlined user interface will be used for retail stores, replacing the original 3x3 layout.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T195520Z" creationid="Inrepublica" creationdate="20200422T195520Z">
@@ -25094,6 +25342,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T103841Z" creationid="Olivier" creationdate="20200428T103841Z">
         <seg>Pourquoi le nom de "Capitalism Lab" ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wildcard layout plans are for factories and can be used for producing any products with the same number of inputs.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145220Z" creationid="Olivier" creationdate="20200503T145220Z">
+        <seg>Les plans d'aménagement génériques sont destinés aux usines et peuvent être utilisés pour la production de n'importe quel produit avec le même nombre d'intrants.</seg>
       </tuv>
     </tu>
     <tu>
