@@ -2510,6 +2510,46 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Apply All - Any Purposes</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T171932Z" creationid="Olivier" creationdate="20200503T171207Z">
+        <seg>Appliquer à tous - toutes les utilisations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Apply All - Commercial Zones</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T171515Z" creationid="Olivier" creationdate="20200503T171515Z">
+        <seg>Appliquer tout - Zones commerciales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Apply All - Mixed Industrial-Agricultural Zones</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T171621Z" creationid="Olivier" creationdate="20200503T171621Z">
+        <seg>Appliquer tout - Zones mixtes industrie-agriculture</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Apply All - Mixed Residential-Commercial Zones</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T171550Z" creationid="Olivier" creationdate="20200503T171550Z">
+        <seg>Appliquer tout - Zones mixtes résidentielles-commerciales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Apply All - Residential Zones</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T171431Z" creationid="Olivier" creationdate="20200503T171247Z">
+        <seg>Appliquer tout - Zones résidentielles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Apply Selected</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T143351Z" creationid="Olivier" creationdate="20200502T143351Z">
@@ -19281,6 +19321,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Remove land-use restrictions on any land plots owned by the government.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T171229Z" creationid="Olivier" creationdate="20200503T171229Z">
+        <seg>Supprime les restrictions d'utilisation des terres sur toutes les parcelles de terrain appartenant au gouvernement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Rent Attractiveness</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102729Z" creationid="Olivier" creationdate="20200503T102729Z">
@@ -20089,6 +20137,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select a land purpose and apply it to the entire city.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T171124Z" creationid="Olivier" creationdate="20200503T171124Z">
+        <seg>Choisissez une affectation du terrain et appliquez-la à l'ensemble de la ville.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select a new input material</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103806Z" creationid="Olivier" creationdate="20200502T103806Z">
@@ -20341,6 +20397,38 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T152042Z" creationid="Olivier" creationdate="20200502T152042Z">
         <seg>Choisir la production</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Set the entire city's land plots currently owned by the government to commercial zones.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T171533Z" creationid="Olivier" creationdate="20200503T171533Z">
+        <seg>Fixe l'ensemble des parcelles de terrain de la ville qui appartiennent actuellement au gouvernement à des zones commerciales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Set the entire city's land plots currently owned by the government to mixed industrial-agricultural zones.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T171641Z" creationid="Olivier" creationdate="20200503T171641Z">
+        <seg>Fixe l'ensemble des parcelles de la ville, actuellement propriété du gouvernement, en zones mixtes industrie-agriculture.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Set the entire city's land plots currently owned by the government to mixed residential-commercial zones.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T171606Z" creationid="Olivier" creationdate="20200503T171606Z">
+        <seg>Fixe l'ensemble des terrains de la ville, actuellement propriété du gouvernement, en zones mixtes résidentielles-commerciales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Set the entire city's land plots currently owned by the government to residential zones.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T171308Z" creationid="Olivier" creationdate="20200503T171308Z">
+        <seg>Fixe l'ensemble des parcelles de terrain de la ville qui appartiennent actuellement au gouvernement à des zones résidentielles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27151,6 +27239,54 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T115133Z" creationid="Inrepublica" creationdate="20200422T161218Z">
         <seg>Vos filiales (DLC Filiales)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ZALL_ANY</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T171126Z" creationid="Olivier" creationdate="20200503T171126Z">
+        <seg>ZALL_ANY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ZALL_COM</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T171311Z" creationid="Olivier" creationdate="20200503T171311Z">
+        <seg>ZALL_COM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ZALL_IND</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T171608Z" creationid="Olivier" creationdate="20200503T171608Z">
+        <seg>ZALL_IND</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ZALL_NOT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T171647Z" creationid="Olivier" creationdate="20200503T171647Z">
+        <seg>ZALL_NOT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ZALL_RC</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T171535Z" creationid="Olivier" creationdate="20200503T171535Z">
+        <seg>ZALL_RC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ZALL_RES</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T171230Z" creationid="Olivier" creationdate="20200503T171230Z">
+        <seg>ZALL_RES</seg>
       </tuv>
     </tu>
     <tu>
