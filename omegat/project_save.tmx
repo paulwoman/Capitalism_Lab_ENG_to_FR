@@ -7006,6 +7006,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>E_GDP</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T142303Z" creationid="Olivier" creationdate="20200503T142303Z">
+        <seg>E_GDP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>E_GDPPC</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T142329Z" creationid="Olivier" creationdate="20200503T142329Z">
+        <seg>E_GDPPC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Each box represents one cargo of the product.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T164930Z" creationid="Olivier" creationdate="20200426T164930Z">
@@ -8210,6 +8226,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145920Z" creationid="Inrepublica" creationdate="20200422T145920Z">
         <seg>GC_RAND</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GDP growth is affected by consumer spending, private investment, government spending and net exports.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T142327Z" creationid="Olivier" creationdate="20200503T142327Z">
+        <seg>La croissance du PIB est affectée par les dépenses de consommation, l'investissement privé, les dépenses publiques et les exportations nettes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10061,6 +10085,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150425Z" creationid="Olivier" creationdate="20200502T150425Z">
         <seg>Barre verte = Côte de qualité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gross Domestic Product (GDP) Growth</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T142314Z" creationid="Olivier" creationdate="20200503T142314Z">
+        <seg>Croissance du produit intérieur brut (PIB)</seg>
       </tuv>
     </tu>
     <tu>
