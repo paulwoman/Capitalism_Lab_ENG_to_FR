@@ -1222,6 +1222,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A growing real wage rate means that people are earning more money, even after being adjusted for inflation.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143337Z" creationid="Olivier" creationdate="20200503T143337Z">
+        <seg>Un taux de salaire réel croissant signifie que les gens gagnent plus d'argent, même après avoir été ajustés pour l'inflation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A growing wage rate means that people are earning more money.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143507Z" creationid="Olivier" creationdate="20200503T143507Z">
+        <seg>Un taux de salaire croissant signifie que les gens gagnent plus d'argent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A high Commuting Convenience rating means that there are residential buildings nearby and the commuting distance is short.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T103354Z" creationid="Olivier" creationdate="20200503T103354Z">
@@ -3662,6 +3678,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CPI tells the accumulated effects of inflation over years.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143636Z" creationid="Olivier" creationdate="20200503T143636Z">
+        <seg>L'IPC indique les effets cumulés de l'inflation au fil des ans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CR_COMMU</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T103327Z" creationid="Olivier" creationdate="20200503T103327Z">
@@ -5614,6 +5638,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Consumer Price Index (CPI)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143624Z" creationid="Olivier" creationdate="20200503T143624Z">
+        <seg>Indice des prix à la consommation (IPC)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Contest Deadline=2020-12-31</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T145714Z" creationid="Olivier" creationdate="20200426T145714Z">
@@ -7006,6 +7038,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>E_CPI</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143614Z" creationid="Olivier" creationdate="20200503T143614Z">
+        <seg>E_CPI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>E_GDP</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T142303Z" creationid="Olivier" creationdate="20200503T142303Z">
@@ -7018,6 +7058,54 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T142329Z" creationid="Olivier" creationdate="20200503T142329Z">
         <seg>E_GDPPC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>E_GDPTOT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143120Z" creationid="Olivier" creationdate="20200503T143120Z">
+        <seg>E_GDPTOT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>E_INFLAT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143509Z" creationid="Olivier" creationdate="20200503T143509Z">
+        <seg>E_INFLAT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>E_IRATE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143539Z" creationid="Olivier" creationdate="20200503T143539Z">
+        <seg>E_IRATE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>E_RWAGE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143223Z" creationid="Olivier" creationdate="20200503T143223Z">
+        <seg>E_RWAGE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>E_UNEMP</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143142Z" creationid="Olivier" creationdate="20200503T143142Z">
+        <seg>E_UNEMP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>E_WAGE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143339Z" creationid="Olivier" creationdate="20200503T143339Z">
+        <seg>E_WAGE</seg>
       </tuv>
     </tu>
     <tu>
@@ -10097,6 +10185,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Gross Domestic Product (GDP) per capita</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143048Z" creationid="Olivier" creationdate="20200503T143048Z">
+        <seg>Produit intérieur brut (PIB) par habitant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Grow Crop</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T151844Z" creationid="Olivier" creationdate="20200502T151844Z">
@@ -12393,6 +12489,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Inflation Rate</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143520Z" creationid="Olivier" creationdate="20200503T143520Z">
+        <seg>Taux d'inflation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Inflation Strength</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T152959Z" creationid="Inrepublica" creationdate="20200422T152959Z">
@@ -12821,6 +12925,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T101135Z" creationid="Olivier" creationdate="20200430T101135Z">
         <seg>Elle responsabilise les citoyens, augmente l'emploi et stimule la croissance des salaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It equals to the total GDP divided by the total number of people in the city.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143119Z" creationid="Olivier" creationdate="20200503T143119Z">
+        <seg>Il est égal au PIB total divisé par le nombre total de personnes dans la ville.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13541,6 +13653,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T085614Z" creationid="Inrepublica" creationdate="20200425T155553Z">
         <seg>Lien|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Loan Interest Rate</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143552Z" creationid="Olivier" creationdate="20200503T143552Z">
+        <seg>Taux d'intérêt de l'emprunt</seg>
       </tuv>
     </tu>
     <tu>
@@ -18481,6 +18601,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Real Wage Rate</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143453Z" creationid="Olivier" creationdate="20200503T143313Z">
+        <seg>Taux salarial réel </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Real Wage Rate=30</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100234Z" creationid="Olivier" creationdate="20200430T100234Z">
@@ -18533,6 +18661,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T103633Z" creationid="Olivier" creationdate="20200428T103633Z">
         <seg>Real Wage Rate=95</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Real wages refers to wages that have been adjusted for inflation.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143324Z" creationid="Olivier" creationdate="20200503T143324Z">
+        <seg>Les salaires réels font référence aux salaires qui ont été ajustés en fonction de l'inflation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21601,10 +21737,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The inflation rate is affected by the unemployment rate (people spend less when they are unemployed) and the money demand and supply (higher money supply promotes spending).</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143537Z" creationid="Olivier" creationdate="20200503T143537Z">
+        <seg>Le taux d'inflation est influencé par le taux de chômage (les gens dépensent moins lorsqu'ils sont au chômage) et par la demande et l'offre de monnaie (une offre de monnaie plus élevée encourage les dépenses).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The initial prices of the global stocks are loaded from a database.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203801Z" creationid="Inrepublica" creationdate="20200422T203801Z">
         <seg>Les prix initiaux des stocks mondiaux sont chargés à partir d'une base de données.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The interest rate is set by the central bank.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143601Z" creationid="Olivier" creationdate="20200503T143601Z">
+        <seg>Le taux d'intérêt est fixé par la banque centrale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21945,6 +22097,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The total GDP is the sum of the consumption, private investment, government spending and net exports.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143141Z" creationid="Olivier" creationdate="20200503T143141Z">
+        <seg>Le PIB total est la somme de la consommation, de l'investissement privé, des dépenses publiques et des exportations nettes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The two units are now connected and are going to work with each other.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T145235Z" creationid="Olivier" creationdate="20200423T145235Z">
@@ -22062,6 +22222,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T103123Z" creationid="Olivier" creationdate="20200427T103123Z">
         <seg>Le type de technologie qui fait actuellement l'objet de recherches.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The unemployment rate trends lower when the GDP growth is healthy and private companies are expanding and creating new jobs.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143222Z" creationid="Olivier" creationdate="20200503T143222Z">
+        <seg>Le taux de chômage tend à diminuer lorsque la croissance du PIB est saine et que les entreprises privées se développent et créent de nouveaux emplois.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22818,6 +22986,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This value indicates the approximate value of goods produced per person in the city.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143059Z" creationid="Olivier" creationdate="20200503T143059Z">
+        <seg>Cette valeur indique la valeur approximative des biens produits par personne dans la ville.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This value will be updated whenever a company has achieved a higher tech level than the current top tech level.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T134246Z" creationid="Olivier" creationdate="20200426T134246Z">
@@ -23562,6 +23738,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Total Gross Domestic Product (GDP)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143130Z" creationid="Olivier" creationdate="20200503T143130Z">
+        <seg>Produit intérieur brut total (PIB)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Total Number of Employees=1000</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T220129Z" creationid="Olivier" creationdate="20200428T220129Z">
@@ -23782,6 +23966,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164232Z" creationid="Olivier" creationdate="20200429T164232Z">
         <seg>Sous votre direction, l'entreprise continue de se développer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unemployment Rate</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143153Z" creationid="Olivier" creationdate="20200503T143153Z">
+        <seg>Taux de chômage</seg>
       </tuv>
     </tu>
     <tu>
@@ -24354,6 +24546,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Wage Rate</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143458Z" creationid="Olivier" creationdate="20200503T143458Z">
+        <seg>Taux salarial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Wait until it is linked with Timber, to produce Golf club</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T095443Z" creationid="Olivier" creationdate="20200424T095443Z">
@@ -24542,6 +24742,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T140831Z" creationid="Olivier" creationdate="20200426T140831Z">
         <seg>Lorsque l'ensemble du personnel d'une unité fonctionnelle a été formé (tous en bleu de travail), le niveau d'expérience de l'unité augmente d'un point et la couleur générale du personnel redevient rouge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the interest rate is high, the money supply is also tight.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143612Z" creationid="Olivier" creationdate="20200503T143612Z">
+        <seg>Lorsque le taux d'intérêt est élevé, la masse monétaire est également tendue.</seg>
       </tuv>
     </tu>
     <tu>
