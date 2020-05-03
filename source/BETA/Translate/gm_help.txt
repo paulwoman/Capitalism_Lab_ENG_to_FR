@@ -240,7 +240,7 @@ A higher value means that AI banks will aggressively lure customers from competi
 ~
 SAVERATE
 Personal Savings Rate Modifier 
-This slider modifies the personal savings rate. A higher personal savings rate means that people will save and deposit more money into banks, thus boosting the profitability of banks in general.Â 
+This slider modifies the personal savings rate. A higher personal savings rate means that people will save and deposit more money into banks, thus boosting the profitability of banks in general. 
 ~
 MORETAL2
 More Talents
@@ -312,7 +312,7 @@ If you are an experienced player looking for greater challenge, you may set a pe
 ~
 BOND_CRE
 Bond Credit Standard
-With a loose credit assessment standard, all corporations will receive better credit ratings and benefit from lower bond interest expenses.Â 
+With a loose credit assessment standard, all corporations will receive better credit ratings and benefit from lower bond interest expenses. 
 ~
 BOND_LIM
 Bond Issue Limit
@@ -320,7 +320,7 @@ The maximum amounts of bonds that a corporation can issue is limited to a multip
 ~
 BOND_ON
 Feature: Bond 
-When this feature is enabled, corporations will able to able to issue bonds to raise capital, and the bond market will be accessible.Â 
+When this feature is enabled, corporations will able to able to issue bonds to raise capital, and the bond market will be accessible. 
 ~
 BANK_ON
 Feature: Bank
