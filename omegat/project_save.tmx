@@ -1678,6 +1678,46 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>AR_COMM</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102431Z" creationid="Olivier" creationdate="20200503T102431Z">
+        <seg>AR_COMM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AR_GREEN</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102623Z" creationid="Olivier" creationdate="20200503T102623Z">
+        <seg>AR_GREEN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AR_OVERA</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102743Z" creationid="Olivier" creationdate="20200503T102743Z">
+        <seg>AR_OVERA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AR_RENT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102706Z" creationid="Olivier" creationdate="20200503T102706Z">
+        <seg>AR_RENT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AR_SHOP</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102501Z" creationid="Olivier" creationdate="20200503T102501Z">
+        <seg>AR_SHOP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Abort|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T115459Z" creationid="Olivier" creationdate="20200429T115459Z">
@@ -2674,6 +2714,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150003Z" creationid="Inrepublica" creationdate="20200422T150003Z">
         <seg>BOOMBUST</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BUYFIRMA</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102157Z" creationid="Olivier" creationdate="20200503T102157Z">
+        <seg>BUYFIRMA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BUYFIRMC</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102227Z" creationid="Olivier" creationdate="20200503T102227Z">
+        <seg>BUYFIRMC</seg>
       </tuv>
     </tu>
     <tu>
@@ -4270,6 +4326,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click again to cancel it.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102350Z" creationid="Olivier" creationdate="20200503T102350Z">
+        <seg>Cliquez de nouveau pour l'annuler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click an R&amp;D unit to see the details of the staff.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T140736Z" creationid="Olivier" creationdate="20200426T140736Z">
@@ -4286,10 +4350,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click here to buy it.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102221Z" creationid="Olivier" creationdate="20200503T102221Z">
+        <seg>Cliquez ici pour l'acheter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click here to open the Corporation Detail Report</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141608Z" creationid="Olivier" creationdate="20200502T141608Z">
         <seg>Cliquez ici pour ouvrir le rapport détaillé sur les sociétés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to put this apartment up for sale.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102336Z" creationid="Olivier" creationdate="20200503T102336Z">
+        <seg>Cliquez ici pour mettre cet appartement en vente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to put this commercial building up for sale.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102409Z" creationid="Olivier" creationdate="20200503T102409Z">
+        <seg>Cliquez ici pour mettre en vente cet immeuble commercial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4966,6 +5054,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Community Facilities</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102448Z" creationid="Olivier" creationdate="20200503T102448Z">
+        <seg>Équipements collectifs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Competence of Local Competitors=High</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171346Z" creationid="Olivier" creationdate="20200427T171346Z">
@@ -5598,6 +5694,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DEMOLISA</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102411Z" creationid="Olivier" creationdate="20200503T102411Z">
+        <seg>DEMOLISA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DEMOLISC</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102421Z" creationid="Olivier" creationdate="20200503T102421Z">
+        <seg>DEMOLISC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>DEPOSCAP</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145938Z" creationid="Inrepublica" creationdate="20200422T145938Z">
@@ -5698,6 +5810,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142116Z" creationid="Olivier" creationdate="20200502T142116Z">
         <seg>Démolir ce manoir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Demolish this apartment.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102419Z" creationid="Olivier" creationdate="20200503T102419Z">
+        <seg>Démolir cet appartement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Demolish this commercial building.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102430Z" creationid="Olivier" creationdate="20200503T102430Z">
+        <seg>Démolir cet immeuble commercial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6982,6 +7110,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>FORSALEA</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102323Z" creationid="Olivier" creationdate="20200503T102323Z">
+        <seg>FORSALEA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>FORSALEC</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102352Z" creationid="Olivier" creationdate="20200503T102352Z">
+        <seg>FORSALEC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>FROZEN LAMB|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150830Z" creationid="Inrepublica" creationdate="20200425T150830Z">
@@ -7414,6 +7558,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fix this commercial building's rent to the market rate.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102107Z" creationid="Olivier" creationdate="20200503T102107Z">
+        <seg>Fixer le loyer de cet immeuble commercial au taux du marché.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fixed Brand Strategy=Corporate Brand</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T215307Z" creationid="Olivier" creationdate="20200429T215307Z">
@@ -7562,6 +7714,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102049Z" creationid="Olivier" creationdate="20200503T102049Z">
         <seg>Par exemple, vous pouvez fixer le loyer de votre appartement de manière à ce qu'il soit toujours supérieur de 10 % au taux du marché.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, you may set your commercial building's rent to be always 10% higher than the market rate.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102135Z" creationid="Olivier" creationdate="20200503T102135Z">
+        <seg>Par exemple, vous pouvez fixer le loyer de votre immeuble commercial de manière à ce qu'il soit toujours 10 % plus élevé que le taux du marché.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9545,6 +9705,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Green and Sports Rating</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102646Z" creationid="Olivier" creationdate="20200503T102646Z">
+        <seg>Classement environnemental et sportif</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Green bar = Quality rating.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150425Z" creationid="Olivier" creationdate="20200502T150425Z">
@@ -11129,6 +11297,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If this is enabled, the computer will automatically adjust the commercial building's rent based on the market rate.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102121Z" creationid="Olivier" creationdate="20200503T102121Z">
+        <seg>Si cette fonction est activée, l'ordinateur adaptera automatiquement le loyer de l'immeuble commercial en fonction du taux du marché.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If this is enabled, the player will possess tech technologies in Operating System (OS) in the beginning of the game.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164802Z" creationid="Inrepublica" creationdate="20200422T164802Z">
@@ -11493,6 +11669,30 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T170547Z" creationid="Olivier" creationdate="20200422T170547Z">
         <seg>Augmentez la variété des produits dans votre magasin et utiliser les créneaux disponibles.^^Répétez ce que vous venez de faire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase this rating by building more community facilities close to this apartment.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102500Z" creationid="Olivier" creationdate="20200503T102500Z">
+        <seg>Augmentez cette note en construisant davantage d'équipements collectifs à proximité de cet appartement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase this rating by building more retail shops near close to apartment.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102621Z" creationid="Olivier" creationdate="20200503T102621Z">
+        <seg>Augmentez cette note en construisant davantage de magasins de détail à proximité de l'appartement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase this rating by decreasing the rent you are asking for.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102739Z" creationid="Olivier" creationdate="20200503T102739Z">
+        <seg>Augmentez cette note en diminuant le loyer que vous demandez.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12357,6 +12557,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100355Z" creationid="Olivier" creationdate="20200430T100355Z">
         <seg>Jobs and Income rating=90, Pittsburgh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Keep a distance between this apartment and other buildings, specially factories and mines.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102657Z" creationid="Olivier" creationdate="20200503T102657Z">
+        <seg>Gardez une distance entre cet appartement et les autres bâtiments, en particulier les usines et les mines.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15041,6 +15249,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Overall Rating</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102805Z" creationid="Olivier" creationdate="20200503T102805Z">
+        <seg>Evaluation globale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Overall firm performance may be affected by the lack of the supply.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T102211Z" creationid="Olivier" creationdate="20200427T102211Z">
@@ -17385,6 +17601,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>RENTFIXC</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102053Z" creationid="Olivier" creationdate="20200503T102053Z">
+        <seg>RENTFIXC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>RESTART TUTORIAL|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155523Z" creationid="Inrepublica" creationdate="20200425T155523Z">
@@ -17629,6 +17853,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T140526Z" creationid="Olivier" creationdate="20200424T094422Z">
         <seg>N'oubliez pas de ~lier~ également les trois nouvelles unités.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rent Attractiveness</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102729Z" creationid="Olivier" creationdate="20200503T102729Z">
+        <seg>Attractivité des loyers</seg>
       </tuv>
     </tu>
     <tu>
@@ -18577,6 +18809,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Shopping Convenience</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102549Z" creationid="Olivier" creationdate="20200503T102549Z">
+        <seg>Commodité en matière d'achats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Shortcut To Corporation Detail Report</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141547Z" creationid="Olivier" creationdate="20200502T141547Z">
@@ -18813,6 +19053,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T150502Z" creationid="Olivier" creationdate="20200429T150502Z">
         <seg>Dépenses</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sport facilities and parks will help too.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102705Z" creationid="Olivier" creationdate="20200503T102705Z">
+        <seg>Les installations sportives et les parcs seront également utiles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20673,6 +20921,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The overall rating is a combination of the above ratings.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102820Z" creationid="Olivier" creationdate="20200503T102820Z">
+        <seg>L'évaluation globale est une combinaison des évaluations ci-dessus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The products your purchasing unit has ordered should have been delivered to your store by now, and your Purchasing Unit should have started working with your Sales Unit by supplying stock to it.^^Let's take a look at your ~Sales Unit~ by selecting it now.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T100623Z" creationid="Olivier" creationdate="20200423T151202Z">
@@ -21266,6 +21522,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This apartment is for sale.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102212Z" creationid="Olivier" creationdate="20200503T102212Z">
+        <seg>Cet appartement est à vendre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This area shows the stock of the product in the unit.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T160138Z" creationid="Olivier" creationdate="20200426T160138Z">
@@ -21310,6 +21574,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T150553Z" creationid="Olivier" creationdate="20200423T145557Z">
         <seg>Cette couleur est ~grise si le produit est importé via un port maritime~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This commercial building is for sale.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102321Z" creationid="Olivier" creationdate="20200503T102321Z">
+        <seg>Cet immeuble commercial est à vendre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24052,8 +24324,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>You may also set a modifier on top of the market rate.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T093020Z" creationid="Olivier" creationdate="20200503T093020Z">
-        <seg>Vous pouvez également fixer un modificateur en plus du taux du marché.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102155Z" creationid="Olivier" creationdate="20200503T093020Z">
+        <seg>Vous pouvez également fixer un modificateur au-dessus du taux du marché.</seg>
       </tuv>
     </tu>
     <tu>
