@@ -2270,6 +2270,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All land plots owned by the government will not be for sale.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T172122Z" creationid="Olivier" creationdate="20200503T172122Z">
+        <seg>Toutes les parcelles de terrain appartenant au gouvernement ne seront pas mises en vente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All products (F1)|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155555Z" creationid="Inrepublica" creationdate="20200425T155555Z">
@@ -2520,32 +2528,40 @@
       <tuv lang="en-US">
         <seg>Apply All - Commercial Zones</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T171515Z" creationid="Olivier" creationdate="20200503T171515Z">
-        <seg>Appliquer tout - Zones commerciales</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T172005Z" creationid="Olivier" creationdate="20200503T171515Z">
+        <seg>Appliquer à tous - Zones commerciales</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Apply All - Mixed Industrial-Agricultural Zones</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T171621Z" creationid="Olivier" creationdate="20200503T171621Z">
-        <seg>Appliquer tout - Zones mixtes industrie-agriculture</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T172022Z" creationid="Olivier" creationdate="20200503T171621Z">
+        <seg>Appliquer  à tous - Zones mixtes industrie-agriculture</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Apply All - Mixed Residential-Commercial Zones</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T171550Z" creationid="Olivier" creationdate="20200503T171550Z">
-        <seg>Appliquer tout - Zones mixtes résidentielles-commerciales</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T172010Z" creationid="Olivier" creationdate="20200503T171550Z">
+        <seg>Appliquer à tous - Zones mixtes résidentielles-commerciales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Apply All - Not For Sale</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T172058Z" creationid="Olivier" creationdate="20200503T172058Z">
+        <seg>Appliquer à tous - Non disponible à la vente</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Apply All - Residential Zones</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T171431Z" creationid="Olivier" creationdate="20200503T171247Z">
-        <seg>Appliquer tout - Zones résidentielles</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T171942Z" creationid="Olivier" creationdate="20200503T171247Z">
+        <seg>Appliquer à tous - Zones résidentielles</seg>
       </tuv>
     </tu>
     <tu>
@@ -10817,6 +10833,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Housing and Community Facilities</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T172206Z" creationid="Olivier" creationdate="20200503T172206Z">
+        <seg>Logement et équipements collectifs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Housing and Community Facilities rating=90, Berlin</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T171009Z" creationid="Olivier" creationdate="20200430T171009Z">
@@ -13633,6 +13657,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Jobs and Income</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T172235Z" creationid="Olivier" creationdate="20200503T172235Z">
+        <seg>Emplois et revenus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Jobs and Income rating=90, Detroit</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100345Z" creationid="Olivier" creationdate="20200430T100345Z">
@@ -16209,6 +16241,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OSUSPEND</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T172129Z" creationid="Olivier" creationdate="20200503T172129Z">
+        <seg>OSUSPEND</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OUTPUT|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155536Z" creationid="Inrepublica" creationdate="20200425T155536Z">
@@ -16469,6 +16509,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102405Z" creationid="Olivier" creationdate="20200428T102405Z">
         <seg>Operating Profit Margin=5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Operation suspended</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T172138Z" creationid="Olivier" creationdate="20200503T172138Z">
+        <seg>Opération suspendue</seg>
       </tuv>
     </tu>
     <tu>
@@ -18925,6 +18973,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155539Z" creationid="Inrepublica" creationdate="20200425T155539Z">
         <seg>Purchasing|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>QOL_HOUS</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T172156Z" creationid="Olivier" creationdate="20200503T172156Z">
+        <seg>QOL_HOUS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>QOL_JOBS</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T172226Z" creationid="Olivier" creationdate="20200503T172226Z">
+        <seg>QOL_JOBS</seg>
       </tuv>
     </tu>
     <tu>
@@ -22721,6 +22785,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The operation of this public facility is suspended due to lack of government funding.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T172155Z" creationid="Olivier" creationdate="20200503T172155Z">
+        <seg>Le fonctionnement de cette installation publique est suspendu en raison du manque de financement public.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The orange bar indicates the demand of the product from the buyers.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T102938Z" creationid="Olivier" creationdate="20200427T102938Z">
@@ -23742,6 +23814,22 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T120847Z" creationid="Olivier" creationdate="20200428T120614Z">
         <seg>This product uses Noto fonts from Google.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This rating is determined by the city's Housing Supply and the average Overall Ratings of existing apartments.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T172225Z" creationid="Olivier" creationdate="20200503T172225Z">
+        <seg>Ce classement est déterminé par l'offre de logements de la ville et la moyenne des classements généraux des appartements existants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This rating is determined by the city's Wage Level, the Unemployment Rate, and the Individual Income Tax Rate.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T172247Z" creationid="Olivier" creationdate="20200503T172247Z">
+        <seg>Ce classement est déterminé par le niveau des salaires de la ville, le taux de chômage et le taux de l'impôt sur le revenu des personnes physiques.</seg>
       </tuv>
     </tu>
     <tu>
