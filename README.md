@@ -157,8 +157,10 @@ Il est à préciser que les fichiers proposés actuellement doivent encore être
 
 
 # Outils
-Dans le répertoire outils se trouve un petit fichier batch `copy_translation.bat` qui vous permet de copier directement la traduction en cours dans le répertoire du jeu Capitalism Lab.
+Dans le répertoire outils se trouve un petit fichier batch `copy_translation.bat` qui vous permet de copier directement la traduction en cours dans le répertoire du jeu Capitalism Lab V. 6.3.08.
 
-Si vous éditez la traduction depuis l'utilisateur qui a installé Capitalism Lab et que votre traduction se trouve sur le bureau dans `Capitalism_Lab_ENG_to_FR`, vous avez juste a executer le batch.
+Si vous éditez la traduction depuis l'utilisateur qui a installé Capitalism Lab et que votre traduction se trouve dans le dossier "document", et `Capitalism_Lab_ENG_to_FR` comment sous-dossier, vous avez juste a executer le batch.
 
 Sinon, éditez simplement copy_translation.bat avec un éditeur de texte et changer le paramètre source et cible par les vôtres. Par exemple: `source=C:\Users\Toto\Desktop\Capitalism_Lab_ma_traduction\target\Release` et `cible="C:\Users\Toto\AppData\Local\Capitalism Lab"`
+
+A noter que le batch copy_translation_Beta.bat permet de mettre à jour, comme son nom l'indique, la version "beta", actuellement en version 6.4.05.
