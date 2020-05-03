@@ -2606,6 +2606,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Available Supplies</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T092841Z" creationid="Olivier" creationdate="20200503T092841Z">
+        <seg>Ressources disponibles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>BANKDIFF</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150005Z" creationid="Inrepublica" creationdate="20200422T150005Z">
@@ -3290,6 +3298,46 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145803Z" creationid="Inrepublica" creationdate="20200422T145803Z">
         <seg>CHALHOW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CH_ALL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T092855Z" creationid="Olivier" creationdate="20200503T092855Z">
+        <seg>CH_ALL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CH_CHAT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T092843Z" creationid="Olivier" creationdate="20200503T092843Z">
+        <seg>CH_CHAT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CH_CLOSE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T092918Z" creationid="Olivier" creationdate="20200503T092918Z">
+        <seg>CH_CLOSE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CH_COLOR</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T092906Z" creationid="Olivier" creationdate="20200503T092906Z">
+        <seg>CH_COLOR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CH_LOG</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T092930Z" creationid="Olivier" creationdate="20200503T092930Z">
+        <seg>CH_LOG</seg>
       </tuv>
     </tu>
     <tu>
@@ -4406,6 +4454,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click this icon or press ENTER to type a chat message.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T092853Z" creationid="Olivier" creationdate="20200503T092853Z">
+        <seg>Cliquez sur cette icône ou appuyez sur ENTRÉE pour taper un message de chat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to allow purchasing units to find their own suppliers</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142016Z" creationid="Olivier" creationdate="20200502T142016Z">
@@ -4874,6 +4930,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103329Z" creationid="Olivier" creationdate="20200502T103329Z">
         <seg>Ferme la fenêtre de la carte du monde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Close this chat window</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T092928Z" creationid="Olivier" creationdate="20200503T092928Z">
+        <seg>Fermer cette fenêtre de chat</seg>
       </tuv>
     </tu>
     <tu>
@@ -6766,6 +6830,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Exit the layout plan library</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T092826Z" creationid="Olivier" creationdate="20200503T092826Z">
+        <seg>Sortir de la bibliothèque des plans d'aménagement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Expansion|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150834Z" creationid="Inrepublica" creationdate="20200425T150834Z">
@@ -7334,6 +7406,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fix this apartment's rent to the market rate.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T092959Z" creationid="Olivier" creationdate="20200503T092959Z">
+        <seg>Fixer le loyer de cet appartement au taux du marché.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fixed Brand Strategy=Corporate Brand</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T215307Z" creationid="Olivier" creationdate="20200429T215307Z">
@@ -7474,6 +7554,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T150914Z" creationid="Olivier" creationdate="20200423T150914Z">
         <seg>Par exemple, lorsqu'il s'agit d'acheter des jeans, les consommateurs accordent généralement plus d'attention à la marque qu'à la qualité réelle du produit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, you may set your apartment's rent to be always 10% higher than the market rate.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102049Z" creationid="Olivier" creationdate="20200503T102049Z">
+        <seg>Par exemple, vous pouvez fixer le loyer de votre appartement de manière à ce qu'il soit toujours supérieur de 10 % au taux du marché.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11029,6 +11117,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164337Z" creationid="Inrepublica" creationdate="20200422T164337Z">
         <seg>Si cela est activé, les sociétés de technologie IA peuvent entrer en bourse (Digital Age DLC).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If this is enabled, the computer will automatically adjust the apartment's rent based on the market rate.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T093010Z" creationid="Olivier" creationdate="20200503T093010Z">
+        <seg>Si cette fonction est activée, l'ordinateur ajustera automatiquement le loyer de l'appartement en fonction du taux du marché.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14849,6 +14945,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open the chat log</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T092945Z" creationid="Olivier" creationdate="20200503T092945Z">
+        <seg>Ouvrir le journal du tchat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open the ~Information Center~ now.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T203650Z" creationid="Acer" creationdate="20200424T203610Z">
@@ -15045,6 +15149,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T092537Z" creationid="Olivier" creationdate="20200503T092537Z">
         <seg>PLAN_6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PLAN_7</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T092816Z" creationid="Olivier" creationdate="20200503T092816Z">
+        <seg>PLAN_7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PLAN_8</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T092828Z" creationid="Olivier" creationdate="20200503T092828Z">
+        <seg>PLAN_8</seg>
       </tuv>
     </tu>
     <tu>
@@ -17257,6 +17377,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>RENTFIXA</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T092946Z" creationid="Olivier" creationdate="20200503T092946Z">
+        <seg>RENTFIXA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>RESTART TUTORIAL|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155523Z" creationid="Inrepublica" creationdate="20200425T155523Z">
@@ -18169,6 +18297,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select a color and the message will only be sent to the player with that color</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T092917Z" creationid="Olivier" creationdate="20200503T092917Z">
+        <seg>Sélectionnez une couleur et le message ne sera envoyé qu'au joueur ayant cette couleur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select a new input material</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103806Z" creationid="Olivier" creationdate="20200502T103806Z">
@@ -18229,6 +18365,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T175943Z" creationid="Acer" creationdate="20200424T175943Z">
         <seg>Sélectionnez l'option ~Domination~ pour voir comment votre société se positionne par rapport à la concurrence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select this and the message will be sent to all players</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T092905Z" creationid="Olivier" creationdate="20200503T092905Z">
+        <seg>Sélectionnez cette option et le message sera envoyé à tous les joueurs</seg>
       </tuv>
     </tu>
     <tu>
@@ -23902,6 +24046,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T135147Z" creationid="Olivier" creationdate="20200427T135147Z">
         <seg>Vous pouvez également engager un ~Chef d'exploitation~ et le placer à la tête de l'une de vos entreprises.^^Vous pourriez, par exemple, engager une personne ayant une ~expertise dans le domaine de la fabrication pour la gestion de toutes vos usines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may also set a modifier on top of the market rate.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T093020Z" creationid="Olivier" creationdate="20200503T093020Z">
+        <seg>Vous pouvez également fixer un modificateur en plus du taux du marché.</seg>
       </tuv>
     </tu>
     <tu>
