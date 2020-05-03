@@ -2510,6 +2510,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Apply the same supplier change that you've just made to other firms of yours.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T144421Z" creationid="Olivier" creationdate="20200503T144421Z">
+        <seg>Appliquez le même changement de fournisseur que vous venez de faire à vos autres entreprises.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Apply the same supplier change to other firms of yours.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T144301Z" creationid="Olivier" creationdate="20200503T144253Z">
+        <seg>Appliquez le même changement de fournisseur à vos autres entreprises.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Apply this price change to all your retail stores in the same city.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103624Z" creationid="Olivier" creationdate="20200502T103624Z">
@@ -2742,6 +2758,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>BATCH_F</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T144334Z" creationid="Olivier" creationdate="20200503T144334Z">
+        <seg>BATCH_F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BATCH_J</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T144123Z" creationid="Olivier" creationdate="20200503T144123Z">
+        <seg>BATCH_J</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>BCAPREQ</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145957Z" creationid="Inrepublica" creationdate="20200422T145957Z">
@@ -2906,6 +2938,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164720Z" creationid="Inrepublica" creationdate="20200422T164720Z">
         <seg>Taux d'intérêt du prêt de base</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Batch Switching Supplier</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T144230Z" creationid="Olivier" creationdate="20200503T144230Z">
+        <seg>Changement de fournisseur par groupe</seg>
       </tuv>
     </tu>
     <tu>
@@ -3846,6 +3886,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cancel Waiting</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143830Z" creationid="Olivier" creationdate="20200503T143758Z">
+        <seg>Annuler une attente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cancel sale of Mansion</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150239Z" creationid="Olivier" creationdate="20200502T150239Z">
@@ -4514,6 +4562,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102221Z" creationid="Olivier" creationdate="20200503T102221Z">
         <seg>Cliquez ici pour l'acheter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to cancel it and handle it manually.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143838Z" creationid="Olivier" creationdate="20200503T143838Z">
+        <seg>Cliquez ici pour l'annuler et le traiter manuellement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to cancel waiting and handle it manually.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143908Z" creationid="Olivier" creationdate="20200503T143908Z">
+        <seg>Cliquez ici pour annuler l'attente et le traiter manuellement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8824,6 +8888,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to Firm Report and select firms to apply the change.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T144332Z" creationid="Olivier" creationdate="20200503T144332Z">
+        <seg>Allez sur Rapport des établissements et sélectionnez les établissements qui appliqueront le changement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to the Firms report and select those of your firms that you want to apply the change</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T143502Z" creationid="Olivier" creationdate="20200502T143502Z">
@@ -11713,6 +11785,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ISSUE0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143912Z" creationid="Olivier" creationdate="20200503T143912Z">
+        <seg>ISSUE0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ISSUE1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143910Z" creationid="Olivier" creationdate="20200503T143910Z">
+        <seg>ISSUE1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ISUPPLY</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150702Z" creationid="Olivier" creationdate="20200502T150702Z">
@@ -13037,6 +13125,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150728Z" creationid="Olivier" creationdate="20200502T150728Z">
         <seg>Cela montre le pourcentage de la demande de produits dans cette unité d'achat qui est satisfaite par l'offre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It starts with a base value of 100 and increases during inflation times and decreases during deflation times.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143748Z" creationid="Olivier" creationdate="20200503T143748Z">
+        <seg>Il part d'une valeur de base de 100 et augmente pendant les périodes d'inflation et diminue pendant les périodes de déflation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14477,6 +14573,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202550Z" creationid="Inrepublica" creationdate="20200422T202550Z">
         <seg>NIL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>NOWAIT1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143749Z" creationid="Olivier" creationdate="20200503T143749Z">
+        <seg>NOWAIT1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>NOWAIT2</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143840Z" creationid="Olivier" creationdate="20200503T143840Z">
+        <seg>NOWAIT2</seg>
       </tuv>
     </tu>
     <tu>
@@ -16101,6 +16213,30 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T092255Z" creationid="Inrepublica" creationdate="20200426T092255Z">
         <seg>PININPUT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PLANSRC1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T144519Z" creationid="Olivier" creationdate="20200503T144519Z">
+        <seg>PLANSRC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PLANSRC2</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T144545Z" creationid="Olivier" creationdate="20200503T144545Z">
+        <seg>PLANSRC2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PLANSRC3</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T144601Z" creationid="Olivier" creationdate="20200503T144601Z">
+        <seg>PLANSRC3</seg>
       </tuv>
     </tu>
     <tu>
@@ -18449,6 +18585,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>RENTMODI</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T144447Z" creationid="Olivier" creationdate="20200503T144447Z">
+        <seg>RENTMODI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>RESGOAL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T144457Z" creationid="Olivier" creationdate="20200503T144457Z">
+        <seg>RESGOAL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>RESTART TUTORIAL|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155523Z" creationid="Inrepublica" creationdate="20200425T155523Z">
@@ -18781,6 +18933,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T133215Z" creationid="Olivier" creationdate="20200426T133215Z">
         <seg>Les projets de recherche peuvent prendre un certain temps pour être menés à bien, c'est donc une bonne idée de commencer les recherches le plus tôt possible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reset all goals.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T144517Z" creationid="Olivier" creationdate="20200503T144517Z">
+        <seg>Réinitialiser tous les objectifs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19473,6 +19633,30 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the folder containing predefined layout plans.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T144544Z" creationid="Olivier" creationdate="20200503T144535Z">
+        <seg>Sélectionner le répertoire contenant les plans d'aménagement prédéfinis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the folder containing user-defined layout plans.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T144559Z" creationid="Olivier" creationdate="20200503T144559Z">
+        <seg>Sélectionnez le répertoire contenant les plans d'aménagement définis par l'utilisateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the folder containing wildcard layout plans.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145139Z" creationid="Olivier" creationdate="20200503T145139Z">
+        <seg>Sélectionnez le dossier contenant les plans d'aménagement contenant des caractères génériques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the ~Brand~ menu option to view the current brand ratings of your products.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T180408Z" creationid="Acer" creationdate="20200424T180408Z">
@@ -19685,6 +19869,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150228Z" creationid="Olivier" creationdate="20200502T150228Z">
         <seg>Mettre en place une nouvelle production pour cet établissement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Set your rent to a percentage above or below the current market price.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T144456Z" creationid="Olivier" creationdate="20200503T144456Z">
+        <seg>Fixez votre loyer à un pourcentage supérieur ou inférieur au prix courant du marché.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23730,6 +23922,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Toggle whether the supplier list should only show warehouses.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T144122Z" creationid="Olivier" creationdate="20200503T144122Z">
+        <seg>Permet de déterminer si la liste des fournisseurs doit uniquement indiquer les entrepôts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Toolbox</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T120152Z" creationid="Olivier" creationdate="20200427T120152Z">
@@ -24362,6 +24562,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use Filters at the top of this screen to select firms to apply the change.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T144445Z" creationid="Olivier" creationdate="20200503T144445Z">
+        <seg>Utilisez les filtres en haut de cet écran pour sélectionner les établissements qui bénéficieront de la modification.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use the Male and Female icons (located below the arrow icons) to switch the gender of the portraits.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T165414Z" creationid="Inrepublica" creationdate="20200422T165414Z">
@@ -24534,6 +24742,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145823Z" creationid="Inrepublica" creationdate="20200422T145823Z">
         <seg>WEB_IDX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>WH_ONLY</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143958Z" creationid="Olivier" creationdate="20200503T143958Z">
+        <seg>WH_ONLY</seg>
       </tuv>
     </tu>
     <tu>
@@ -25146,6 +25362,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You cannot issue new shares to the public too frequently.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143935Z" creationid="Olivier" creationdate="20200503T143935Z">
+        <seg>Vous ne pouvez pas émettre de nouvelles actions dans le public trop fréquemment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You could also increase the training budget for the current unit, which would increase the unit's productivity in long term.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T171012Z" creationid="Olivier" creationdate="20200426T171012Z">
@@ -25386,6 +25610,22 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You have used a layout plan for this firm and it is now waiting for required inputs to manufacture this product.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143858Z" creationid="Olivier" creationdate="20200503T143858Z">
+        <seg>Vous avez utilisé un plan d'aménagement pour cette entreprise et elle attend maintenant les intrants nécessaires à la fabrication de ce produit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have used a layout plan for this firm and the computer is looking for a supplier based on the plan.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143811Z" creationid="Olivier" creationdate="20200503T143811Z">
+        <seg>Vous avez utilisé un plan d'aménagement pour cette entreprise et l'ordinateur cherche un fournisseur sur la base de ce plan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You may acquire them for |</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T084825Z" creationid="Olivier" creationdate="20200428T084825Z">
@@ -25558,6 +25798,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160531Z" creationid="Inrepublica" creationdate="20200422T160531Z">
         <seg>Vous pouvez commencer le jeu d'abord, puis ajuster le défi et les paramètres des objectifs au besoin, et enfin les confirmer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may try again a few weeks later.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143957Z" creationid="Olivier" creationdate="20200503T143957Z">
+        <seg>Vous pourrez essayer à nouveau dans quelques semaines.</seg>
       </tuv>
     </tu>
     <tu>
