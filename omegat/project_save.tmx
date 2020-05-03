@@ -2198,6 +2198,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Agricultural Zoning Tool</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T165428Z" creationid="Olivier" creationdate="20200503T165428Z">
+        <seg>Outil de zonage agricole</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Agricultural goods are essential to manufacture of a great number of products and you will find farming an indispensable business of your corporation.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T215159Z" creationid="Olivier" creationdate="20200425T215159Z">
@@ -5442,6 +5450,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T172714Z" creationid="Inrepublica" creationdate="20200422T172714Z">
         <seg>Modificateur de capacité des commerces</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Commercial Zoning Tool</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T165053Z" creationid="Olivier" creationdate="20200503T165053Z">
+        <seg>Outil de zonage commercial</seg>
       </tuv>
     </tu>
     <tu>
@@ -12737,6 +12753,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Industrial Zoning Tool</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T165359Z" creationid="Olivier" creationdate="20200503T165359Z">
+        <seg>Outil de zonage industriel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Inflation</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T152930Z" creationid="Inrepublica" creationdate="20200422T152930Z">
@@ -13677,6 +13701,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T172425Z" creationid="Olivier" creationdate="20200428T172305Z">
         <seg>Mode de valeur des terrains</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Land plots marked by this tool will not be for sale.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T165538Z" creationid="Olivier" creationdate="20200503T165538Z">
+        <seg>Les parcelles de terrain marquées par cet outil ne seront pas mises en vente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14725,6 +14757,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200429T084925Z" creationid="Olivier" creationdate="20200427T120241Z">
         <seg>Mini carte (touche de raccourci : 'M')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mixed Residential-Commercial Zoning Tool</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T165303Z" creationid="Olivier" creationdate="20200503T165303Z">
+        <seg>Outil de zonage mixte résidentiel-commercial</seg>
       </tuv>
     </tu>
     <tu>
@@ -19195,8 +19235,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Relocate this firm and compensate the owner for the difference in land prices if there is any.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T164802Z" creationid="Olivier" creationdate="20200503T164802Z">
-        <seg>Relocaliser cette entreprise et indemnisez le propriétaire pour la différence de prix du terrain s'il y en a une.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T165123Z" creationid="Olivier" creationdate="20200503T164802Z">
+        <seg>Relocalisez cette entreprise et indemnisez le propriétaire pour la différence de prix du terrain s'il y en a une.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19317,6 +19357,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T151431Z" creationid="Olivier" creationdate="20200503T151401Z">
         <seg>Réinitialiser les paramètres du MOD et utiliser les ressources de jeu par défaut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Residential Zoning Tool</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T165034Z" creationid="Olivier" creationdate="20200503T165034Z">
+        <seg>Outil de zonage résidentiel</seg>
       </tuv>
     </tu>
     <tu>
@@ -22465,6 +22513,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The land cost in agricultural zones are significantly lower than other zones.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T165506Z" creationid="Olivier" creationdate="20200503T165506Z">
+        <seg>Le coût des terres dans les zones agricoles est nettement inférieur à celui des autres zones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The length of each bar indicates the quantity of the raw material stocked in the unit.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T101025Z" creationid="Olivier" creationdate="20200427T101025Z">
@@ -24458,6 +24514,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Toggle the menu for applying a specific land purpose for the entire city.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T171055Z" creationid="Olivier" creationdate="20200503T171055Z">
+        <seg>Permet de passer d'un menu à l'autre pour appliquer une affectation spécifique du sol à l'ensemble de la ville.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Toggle whether showing only companies in which you own shares.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T150852Z" creationid="Olivier" creationdate="20200503T150852Z">
@@ -25186,10 +25250,58 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use this tool to remove land-use restrictions on the selected land plots.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T165002Z" creationid="Olivier" creationdate="20200503T165002Z">
+        <seg>Utilisez cet outil pour supprimer les restrictions d'utilisation des terres sur les parcelles sélectionnées.&lt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use this tool to restrict different areas of your city to specific uses.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T123101Z" creationid="Olivier" creationdate="20200428T123101Z">
         <seg>Utilisez cet outil pour restreindre différentes zones de votre ville à des usages spécifiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use this tool to set selected land plots to agricultural zones.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T165451Z" creationid="Olivier" creationdate="20200503T165451Z">
+        <seg>Utilisez cet outil pour définir les parcelles de terrain sélectionnées en zones agricoles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use this tool to set selected land plots to commercial zones.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T165102Z" creationid="Olivier" creationdate="20200503T165102Z">
+        <seg>Utilisez cet outil pour définir les parcelles de terrain sélectionnées en zones commerciales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use this tool to set selected land plots to industrial zones.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T165409Z" creationid="Olivier" creationdate="20200503T165409Z">
+        <seg>Utilisez cet outil pour définir les parcelles de terrain sélectionnées en zones industrielles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use this tool to set selected land plots to mixed residential-commercial zones.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T165340Z" creationid="Olivier" creationdate="20200503T165340Z">
+        <seg>Utilisez cet outil pour définir des parcelles de terrain sélectionnées en zones mixtes résidentielles-commerciales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use this tool to set selected land plots to residential zones.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T165043Z" creationid="Olivier" creationdate="20200503T165043Z">
+        <seg>Utilisez cet outil pour assigner des parcelles de terrain sélectionnées à des zones résidentielles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27039,6 +27151,86 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T115133Z" creationid="Inrepublica" creationdate="20200422T161218Z">
         <seg>Vos filiales (DLC Filiales)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ZONE_ANY</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T164810Z" creationid="Olivier" creationdate="20200503T164810Z">
+        <seg>ZONE_ANY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ZONE_COM</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T165045Z" creationid="Olivier" creationdate="20200503T165045Z">
+        <seg>ZONE_COM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ZONE_FAR</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T165410Z" creationid="Olivier" creationdate="20200503T165410Z">
+        <seg>ZONE_FAR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ZONE_IND</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T165342Z" creationid="Olivier" creationdate="20200503T165342Z">
+        <seg>ZONE_IND</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ZONE_NOT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T165508Z" creationid="Olivier" creationdate="20200503T165508Z">
+        <seg>ZONE_NOT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ZONE_RC</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T165103Z" creationid="Olivier" creationdate="20200503T165103Z">
+        <seg>ZONE_RC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ZONE_RES</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T165024Z" creationid="Olivier" creationdate="20200503T165024Z">
+        <seg>ZONE_RES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Z_SETALL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T165539Z" creationid="Olivier" creationdate="20200503T165539Z">
+        <seg>Z_SETALL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Zoning Tool - Any Purposes</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T165023Z" creationid="Olivier" creationdate="20200503T164945Z">
+        <seg>Outil de zonage - Tout usage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Zoning Tool - Not For Sale</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T165523Z" creationid="Olivier" creationdate="20200503T165523Z">
+        <seg>Outil de zonage - Non disponible à la vente</seg>
       </tuv>
     </tu>
     <tu>
