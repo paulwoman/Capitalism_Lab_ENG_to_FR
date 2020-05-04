@@ -1230,6 +1230,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A P/B ratio that is lower than 1.0 means that the stock is currently trading at a price lower than the stock's net worth</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T155521Z" creationid="Olivier" creationdate="20200504T155521Z">
+        <seg>Un ratio C/B inférieur à 1,0 signifie que l'action se négocie actuellement à un prix inférieur à sa valeur nette</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A VENDRE|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150709Z" creationid="Inrepublica" creationdate="20200425T150709Z">
@@ -1288,8 +1296,8 @@
       <tuv lang="en-US">
         <seg>A high P/E ratio generally means the stock is expensive as people are buying high prices to buy the stock, possibly driven by investors' confidence in the company's growth prospect.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T155356Z" creationid="Olivier" creationdate="20200504T155356Z">
-        <seg>Un ratio C/B élevé signifie généralement que l'action est chère, car les gens achètent à des prix élevés pour acheter l'action, peut-être en raison de la confiance des investisseurs dans les perspectives de croissance de l'entreprise.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T155707Z" creationid="Olivier" creationdate="20200504T155356Z">
+        <seg>Un ratio P / E élevé signifie généralement que l'action est chère, car les gens achètent à des prix élevés pour acheter l'action, peut-être en raison de la confiance des investisseurs dans les perspectives de croissance de l'entreprise.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13873,6 +13881,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is calculated by dividing the current stock price by the Equity Per Share.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T155504Z" creationid="Olivier" creationdate="20200504T155504Z">
+        <seg>Il est calculé en divisant le prix actuel de l'action par l'équité par action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is important to decide upon your brand strategy at the start of a game as there is a heavy cost for switching your brand strategy - it resets all existing brand ratings to zero.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T155011Z" creationid="Acer" creationdate="20200424T155011Z">
@@ -20897,6 +20913,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>STK_PB</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T155431Z" creationid="Olivier" creationdate="20200504T155431Z">
+        <seg>STK_PB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>STK_PE</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T152055Z" creationid="Olivier" creationdate="20200504T152055Z">
@@ -23433,10 +23457,18 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The P/B Ratio or the Price-to-Book Ratio</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T155452Z" creationid="Olivier" creationdate="20200504T155452Z">
+        <seg>Le ratio C/B ou le ratio prix/valeur comptable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The P/E Ratio or the Price-Earnings Ratio</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T152124Z" creationid="Olivier" creationdate="20200504T152124Z">
-        <seg>Le ratio P/B ou le ratio prix/bénéfices</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T155659Z" creationid="Olivier" creationdate="20200504T152124Z">
+        <seg>Le ratio P / E ou le ratio Cours / Bénéfices</seg>
       </tuv>
     </tu>
     <tu>
