@@ -2230,6 +2230,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Add the selected custom product design into your library.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T173812Z" creationid="Olivier" creationdate="20200504T173812Z">
+        <seg>Ajouter le design personnalisé du produit sélectionné dans votre bibliothèque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Additional funding for the focused area.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145620Z" creationid="Olivier" creationdate="20200503T145620Z">
@@ -3210,6 +3218,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T170127Z" creationid="Acer" creationdate="20200424T170127Z">
         <seg>Veillez toutefois à ne pas choisir une entreprise qui vous fait payer trop cher. Lorsque vous avez décidé auprès de quelle entreprise médiatique vous souhaitez faire de la publicité, double-cliquez dessus pour la sélectionner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Because you have already reached the maximum number of product designs you can add to your library.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T174000Z" creationid="Olivier" creationdate="20200504T174000Z">
+        <seg>Car vous avez déjà atteint le nombre maximum de conceptions de produits que vous pouvez ajouter à votre bibliothèque.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4206,6 +4222,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CUSTEXIT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T174024Z" creationid="Olivier" creationdate="20200504T174024Z">
+        <seg>CUSTEXIT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CUSTMOD</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T171044Z" creationid="Olivier" creationdate="20200504T171044Z">
@@ -4226,6 +4250,38 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T173338Z" creationid="Olivier" creationdate="20200504T173338Z">
         <seg>CUSTSORT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CUSTTECH</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T174059Z" creationid="Olivier" creationdate="20200504T174059Z">
+        <seg>CUSTTECH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CUSTUSE0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T173822Z" creationid="Olivier" creationdate="20200504T173822Z">
+        <seg>CUSTUSE0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CUSTUSE1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T173751Z" creationid="Olivier" creationdate="20200504T173751Z">
+        <seg>CUSTUSE1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CUSTUSE2</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T173850Z" creationid="Olivier" creationdate="20200504T173850Z">
+        <seg>CUSTUSE2</seg>
       </tuv>
     </tu>
     <tu>
@@ -4274,6 +4330,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T115506Z" creationid="Olivier" creationdate="20200429T115506Z">
         <seg>Cancel|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cannot add it.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T173840Z" creationid="Olivier" creationdate="20200504T173840Z">
+        <seg>Impossible de l'ajouter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cannot add this product design</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T174004Z" creationid="Olivier" creationdate="20200504T173916Z">
+        <seg>Il est Impossible d'ajouter ce design de produit</seg>
       </tuv>
     </tu>
     <tu>
@@ -8034,6 +8106,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T092826Z" creationid="Olivier" creationdate="20200503T092826Z">
         <seg>Sortir de la bibliothèque des plans d'aménagement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Exit this window (hotkey: ESC)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T174058Z" creationid="Olivier" creationdate="20200504T174058Z">
+        <seg>Quitter cette fenêtre (raccourci : ESC)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17323,8 +17403,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Open the interface for adding custom design product images into the game.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T173314Z" creationid="Olivier" creationdate="20200504T173314Z">
-        <seg>Ouvrez l'interface pour ajouter des images de produits de conception personnalisée dans le jeu.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T173750Z" creationid="Olivier" creationdate="20200504T173314Z">
+        <seg>Ouvrir l'interface pour ajouter des images de produits de conception personnalisée dans le jeu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26186,6 +26266,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To increase the limit, first increase the tech level of the product.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T174023Z" creationid="Olivier" creationdate="20200504T174023Z">
+        <seg>Pour augmenter la limite, il faut d'abord augmenter le niveau technologique du produit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To leverage the effect of the ~Range Brand strategy~, you should add another product from one of the product classes you are already selling.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T174402Z" creationid="Acer" creationdate="20200424T174402Z">
@@ -28042,6 +28130,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can then use the product design in your manufacturing units in your factories.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T173821Z" creationid="Olivier" creationdate="20200504T173821Z">
+        <seg>Vous pouvez ensuite utiliser la conception du produit dans vos unités de fabrication dans vos usines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You cannot issue new shares to the public too frequently.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143935Z" creationid="Olivier" creationdate="20200503T143935Z">
@@ -28118,6 +28214,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T224211Z" creationid="Olivier" creationdate="20200430T224211Z">
         <seg>Vous avez atteint votre deuxième sous-objectif.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have already added the selected custom product design into your library.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T173849Z" creationid="Olivier" creationdate="20200504T173849Z">
+        <seg>Vous avez déjà ajouté la conception du produit personnalisé sélectionné dans votre bibliothèque.</seg>
       </tuv>
     </tu>
     <tu>
