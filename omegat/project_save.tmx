@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Dividend Payout Ratio is calculated based on earnings per share, whereas Dividend Yield is calculated based on the stock price.)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T170829Z" creationid="Olivier" creationdate="20200504T170829Z">
+        <seg>(Le ratio de distribution des dividendes est calculé sur la base du bénéfice par action, tandis que le rendement des dividendes est calculé sur la base du cours de l'action).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Hint: If you are already manufacturing and selling jeans, choose leather jacket).</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T174853Z" creationid="Acer" creationdate="20200424T174853Z">
@@ -13949,6 +13957,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T152050Z" creationid="Olivier" creationdate="20200504T152050Z">
         <seg>Il s'agit du capital social de la société (que vous pouvez consulter dans le bilan) divisé par le nombre total d'actions en circulation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is the percentage of earnings paid to shareholders in dividends.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T161039Z" creationid="Olivier" creationdate="20200504T161039Z">
+        <seg>Il s'agit du pourcentage des bénéfices versés aux actionnaires sous forme de dividendes.</seg>
       </tuv>
     </tu>
     <tu>
