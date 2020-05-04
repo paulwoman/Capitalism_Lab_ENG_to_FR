@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(hotkey: G)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150604Z" creationid="Olivier" creationdate="20200504T150604Z">
+        <seg>(Raccourci : G)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(the same firm type and the same company/subsidiary)</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122928Z" creationid="Olivier" creationdate="20200428T122928Z">
@@ -1806,6 +1814,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>APPROVAL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150422Z" creationid="Olivier" creationdate="20200504T150422Z">
+        <seg>APPROVAL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>AR_COMM</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102431Z" creationid="Olivier" creationdate="20200503T102431Z">
@@ -3330,6 +3346,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T202633Z" creationid="Acer" creationdate="20200424T174542Z">
         <seg>Construisez une autre usine pour produire un autre article ~vestimentaire~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Business Mode  (hotkey: Tab)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150642Z" creationid="Olivier" creationdate="20200504T150247Z">
+        <seg>Mode commercial (touche de raccourci : Tab)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4886,6 +4910,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click here to open the Goal report.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150558Z" creationid="Olivier" creationdate="20200504T150558Z">
+        <seg>Cliquez ici pour ouvrir le rapport sur les objectifs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to open the Mayor report.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150528Z" creationid="Olivier" creationdate="20200504T150528Z">
+        <seg>Cliquez ici pour ouvrir le rapport du maire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click here to put this apartment up for sale.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102336Z" creationid="Olivier" creationdate="20200503T102336Z">
@@ -4930,6 +4970,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T145943Z" creationid="Olivier" creationdate="20200502T145943Z">
         <seg>Cliquez ici pour voir les produits qui sont fabriqués à partir de ce semi-produit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to select a type of civic building for the mini map to display the geographical coverage of its services.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150118Z" creationid="Olivier" creationdate="20200504T150118Z">
+        <seg>Cliquez ici pour sélectionner un type de bâtiment municipal pour la mini carte permettant d'afficher la couverture géographique de ses services.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to select another type of civic building.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150057Z" creationid="Olivier" creationdate="20200504T150057Z">
+        <seg>Cliquez ici pour sélectionner un autre type de bâtiment municipal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7406,6 +7462,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ECO_MAX</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150605Z" creationid="Olivier" creationdate="20200504T150605Z">
+        <seg>ECO_MAX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ECO_MIN</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150706Z" creationid="Olivier" creationdate="20200504T150706Z">
+        <seg>ECO_MIN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>EC_PCT</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T085355Z" creationid="Inrepublica" creationdate="20200426T085355Z">
@@ -8654,6 +8726,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more details, see the Cities page on the Information Center.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150519Z" creationid="Olivier" creationdate="20200504T150519Z">
+        <seg>Pour plus de détails, consultez la page Villes du Centre d'informations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For now, keep it buying the current product.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151129Z" creationid="Olivier" creationdate="20200423T151129Z">
@@ -9136,6 +9216,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GOALACHI</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150529Z" creationid="Olivier" creationdate="20200504T150529Z">
+        <seg>GOALACHI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GOSOFTFM</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T085350Z" creationid="Inrepublica" creationdate="20200426T085350Z">
@@ -9436,6 +9524,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T162615Z" creationid="Olivier" creationdate="20200429T162615Z">
         <seg>Goal Achieved Text=Très bien !!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Achievement Progress</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150538Z" creationid="Olivier" creationdate="20200504T150538Z">
+        <seg>Progrès dans la réalisation des objectifs</seg>
       </tuv>
     </tu>
     <tu>
@@ -10613,6 +10709,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T144914Z" creationid="Olivier" creationdate="20200430T144914Z">
         <seg>Goods Supply rating=90</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Government Mode (hotkey: Tab)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150139Z" creationid="Olivier" creationdate="20200504T150139Z">
+        <seg>Mode gouvernemental (touche de raccourci : Tab)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13545,6 +13649,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It indicates your progress in achieving the goals.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150550Z" creationid="Olivier" creationdate="20200504T150550Z">
+        <seg>Cela indique vos progrès dans la réalisation des objectifs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is an important indicator as it tells how your company fare against the competition in technology.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T134316Z" creationid="Olivier" creationdate="20200426T134316Z">
@@ -14441,6 +14553,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MAPPUBNIL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150100Z" creationid="Olivier" creationdate="20200504T150100Z">
+        <seg>MAPPUBNIL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MAXAIDIG</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145915Z" creationid="Inrepublica" creationdate="20200422T145915Z">
@@ -14717,6 +14837,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T101634Z" creationid="Olivier" creationdate="20200428T101634Z">
         <seg>MOD=CAPMOD, local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MODE_BUS</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150217Z" creationid="Olivier" creationdate="20200504T150217Z">
+        <seg>MODE_BUS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MODE_GOV</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150119Z" creationid="Olivier" creationdate="20200504T150119Z">
+        <seg>MODE_GOV</seg>
       </tuv>
     </tu>
     <tu>
@@ -15013,6 +15149,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T195547Z" creationid="Inrepublica" creationdate="20200422T195547Z">
         <seg>Ratio maximum de prêts / actifs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mayor Approval Rating</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150454Z" creationid="Olivier" creationdate="20200504T150454Z">
+        <seg>Evaluation de l'approbation du maire</seg>
       </tuv>
     </tu>
     <tu>
@@ -21233,6 +21377,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Show the Economic Info window</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150624Z" creationid="Olivier" creationdate="20200504T150624Z">
+        <seg>Afficher la fenêtre d'information économique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Show the current supplier</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T152206Z" creationid="Olivier" creationdate="20200502T152206Z">
@@ -21933,6 +22085,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T101719Z" creationid="Olivier" creationdate="20200428T101719Z">
         <seg>Sweater=iBlouseW003, 80</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Switch to the Business Mode to give orders on behalf of the corporation.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150649Z" creationid="Olivier" creationdate="20200504T150300Z">
+        <seg>Passez en mode commercial pour donner des ordres au nom de la société.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Switch to the Government Mode to give orders on behalf of the government.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150151Z" creationid="Olivier" creationdate="20200504T150151Z">
+        <seg>Passez en mode gouvernemental pour donner des ordres au nom du gouvernement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23049,6 +23217,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The current city's mayor approval rating.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150505Z" creationid="Olivier" creationdate="20200504T150505Z">
+        <seg>La cote d'approbation du maire de la ville actuelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The darker the color, the greater the profit or loss.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T210521Z" creationid="Olivier" creationdate="20200422T210521Z">
@@ -23333,6 +23509,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202908Z" creationid="Inrepublica" creationdate="20200422T202908Z">
         <seg>Le montant maximum des obligations qu'une société peut émettre est limité à un multiple de sa capitalisation, qui est fixée ici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The mini map currently shows the geographical coverage of this type of civic building.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150049Z" creationid="Olivier" creationdate="20200504T150049Z">
+        <seg>La mini carte montre actuellement la couverture géographique de ce type de bâtiment municipal.</seg>
       </tuv>
     </tu>
     <tu>
