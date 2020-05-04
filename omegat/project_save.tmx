@@ -31155,6 +31155,38 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1043]&lt;0200&gt;Stock Price|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200504T102919Z" creationid="Inrepublica" creationdate="20200504T102919Z">
+        <seg>[1043]&lt;0200&gt;prix de l'action|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1044]&lt;0201&gt;Past 30 Years|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200504T102942Z" creationid="Inrepublica" creationdate="20200504T102942Z">
+        <seg>[1044]&lt;0201&gt;30 dernières années|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1046]&lt;0203&gt;Cash|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200504T102948Z" creationid="Inrepublica" creationdate="20200504T102948Z">
+        <seg>[1046]&lt;0203&gt;Trésorerie|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1047]&lt;0204&gt;Inventory|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200504T103005Z" creationid="Inrepublica" creationdate="20200504T103005Z">
+        <seg>[1047]&lt;0204&gt;Inventaire|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1075]&lt;0231&gt;No.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T054139Z" creationid="Inrepublica" creationdate="20200423T054139Z">
