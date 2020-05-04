@@ -7870,6 +7870,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Facilities Quality</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T143701Z" creationid="Olivier" creationdate="20200504T143628Z">
+        <seg>Qualité des infrastructures</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fairly obvious eh?</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T090753Z" creationid="Olivier" creationdate="20200424T090753Z">
@@ -16865,6 +16873,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>P_FACILI</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T143617Z" creationid="Olivier" creationdate="20200504T143617Z">
+        <seg>P_FACILI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>P_FACIU0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T143415Z" creationid="Olivier" creationdate="20200504T143415Z">
+        <seg>P_FACIU0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>P_FACIUP</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T142424Z" creationid="Olivier" creationdate="20200504T142424Z">
@@ -16909,6 +16933,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T103745Z" creationid="Olivier" creationdate="20200503T103745Z">
         <seg>P_SEARCH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>P_SKILL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T143427Z" creationid="Olivier" creationdate="20200504T143427Z">
+        <seg>P_SKILL</seg>
       </tuv>
     </tu>
     <tu>
@@ -21129,6 +21161,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Staff skill level</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T143605Z" creationid="Olivier" creationdate="20200504T143605Z">
+        <seg>Niveau de compétence du personnel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Start a R&amp;D project for a new product invention.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T152302Z" creationid="Olivier" creationdate="20200502T152302Z">
@@ -22617,6 +22657,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The budget for upgrading the facilities of this civic building.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T143426Z" creationid="Olivier" creationdate="20200504T143426Z">
+        <seg>Le budget pour la modernisation des installations de ce bâtiment civique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The central bank requires banks to set aside enough capital to cover unexpected losses and keep themselves solvent in a crisis.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203228Z" creationid="Inrepublica" creationdate="20200422T203228Z">
@@ -23157,6 +23205,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T142423Z" creationid="Olivier" creationdate="20200504T142423Z">
         <seg>Le budget de formation du personnel pour ce bâtiment civique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The staff's skill level is determined by 1) the education level of people in this city and 2) the staff training budget for this civic building.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T143615Z" creationid="Olivier" creationdate="20200504T143615Z">
+        <seg>Le niveau de compétence du personnel est déterminé par 1) le niveau d'éducation des habitants de cette ville et 2) le budget de formation du personnel pour ce bâtiment civique.</seg>
       </tuv>
     </tu>
     <tu>
