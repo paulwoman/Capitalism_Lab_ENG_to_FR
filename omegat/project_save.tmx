@@ -1286,6 +1286,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A high P/E ratio generally means the stock is expensive as people are buying high prices to buy the stock, possibly driven by investors' confidence in the company's growth prospect.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T155356Z" creationid="Olivier" creationdate="20200504T155356Z">
+        <seg>Un ratio C/B élevé signifie généralement que l'action est chère, car les gens achètent à des prix élevés pour acheter l'action, peut-être en raison de la confiance des investisseurs dans les perspectives de croissance de l'entreprise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A high corporate profit tax rate brings in greater tax revenue for the city whereas a low corporate profit tax attracts business investment.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T145346Z" creationid="Olivier" creationdate="20200504T145346Z">
@@ -3362,6 +3370,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151703Z" creationid="Olivier" creationdate="20200504T151703Z">
         <seg> Construire une nouvelle ville (taille : 200x200) (handicap)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Build a new city (size: 200x200).</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151729Z" creationid="Olivier" creationdate="20200504T151729Z">
+        <seg>Construire une nouvelle ville (taille : 200x200).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7726,6 +7742,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Earning Per Share</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151935Z" creationid="Olivier" creationdate="20200504T151911Z">
+        <seg>Bénéfice Par Action</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Economy's Impact on Loan Defaults</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203527Z" creationid="Inrepublica" creationdate="20200422T203527Z">
@@ -7858,6 +7882,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T141758Z" creationid="Olivier" creationdate="20200504T141758Z">
         <seg>Environnement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Equity Per Share</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T152054Z" creationid="Olivier" creationdate="20200504T152054Z">
+        <seg>Capitaux propres par action</seg>
       </tuv>
     </tu>
     <tu>
@@ -9332,6 +9364,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151618Z" creationid="Olivier" creationdate="20200504T151618Z">
         <seg>G_BCITY0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>G_BCITY1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151717Z" creationid="Olivier" creationdate="20200504T151717Z">
+        <seg>G_BCITY1</seg>
       </tuv>
     </tu>
     <tu>
@@ -13137,6 +13177,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In other words, it is the total market value of the company in the stock market.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151858Z" creationid="Olivier" creationdate="20200504T151858Z">
+        <seg>En d'autres termes, il s'agit de la valeur marchande totale de l'entreprise sur le marché boursier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In previous tutorials you've already seen how to raise cash by taking out a loan.^^This time you'll use the expectations of investors to raise the much needed money.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T204452Z" creationid="Acer" creationdate="20200424T204452Z">
@@ -13785,6 +13833,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It equals to its share price times the total number of shares outstanding.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151847Z" creationid="Olivier" creationdate="20200504T151847Z">
+        <seg>Elle est égale au prix de son action multiplié par le nombre total d'actions en circulation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It equals to the total GDP divided by the total number of people in the city.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143119Z" creationid="Olivier" creationdate="20200503T143119Z">
@@ -13801,6 +13857,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is an equity valuation multiple, defined as the stock price divided by Earnings Per Share.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T152136Z" creationid="Olivier" creationdate="20200504T152136Z">
+        <seg>Il s'agit d'un multiple d'évaluation des actions, défini comme le prix de l'action divisé par le bénéfice par action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is an important indicator as it tells how your company fare against the competition in technology.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T134316Z" creationid="Olivier" creationdate="20200426T134316Z">
@@ -13813,6 +13877,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T155011Z" creationid="Acer" creationdate="20200424T155011Z">
         <seg>Il est important de décider de votre stratégie de marque au début d'un jeu car le changement de stratégie de marque a un coût élevé ;  cela remet à zéro toutes les évaluations de marque existantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is the company's Shareholder Equity (which you can view in the Balance Sheet) divided by the total number of outstanding shares.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T152050Z" creationid="Olivier" creationdate="20200504T152050Z">
+        <seg>Il s'agit du capital social de la société (que vous pouvez consulter dans le bilan) divisé par le nombre total d'actions en circulation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20801,6 +20873,54 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>STK_CAP</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151754Z" creationid="Olivier" creationdate="20200504T151754Z">
+        <seg>STK_CAP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>STK_EARN</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151859Z" creationid="Olivier" creationdate="20200504T151859Z">
+        <seg>STK_EARN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>STK_EQUI</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T152010Z" creationid="Olivier" creationdate="20200504T152010Z">
+        <seg>STK_EQUI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>STK_PE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T152055Z" creationid="Olivier" creationdate="20200504T152055Z">
+        <seg>STK_PE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>STK_PRIC</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151730Z" creationid="Olivier" creationdate="20200504T151730Z">
+        <seg>STK_PRIC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>STK_TQTY</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151743Z" creationid="Olivier" creationdate="20200504T151743Z">
+        <seg>STK_TQTY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>STOP PURCHASE|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155607Z" creationid="Inrepublica" creationdate="20200425T155607Z">
@@ -23297,10 +23417,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Earning Per Share is a company's operating profit over the past 365 days divided by the total number of outstanding shares.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151955Z" creationid="Olivier" creationdate="20200504T151955Z">
+        <seg>Le bénéfice par action est le bénéfice d'exploitation d'une société au cours des 365 derniers jours divisé par le nombre total d'actions en circulation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Human Resources Department allows you to organize a ~corporate-wide intensive training program~.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T134753Z" creationid="Olivier" creationdate="20200427T134753Z">
         <seg>Le département des ressources humaines vous permet d'organiser un programme de formation intensive à l'échelle de l'entreprise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The P/E Ratio or the Price-Earnings Ratio</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T152124Z" creationid="Olivier" creationdate="20200504T152124Z">
+        <seg>Le ratio P/B ou le ratio prix/bénéfices</seg>
       </tuv>
     </tu>
     <tu>
@@ -23445,6 +23581,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150505Z" creationid="Olivier" creationdate="20200504T150505Z">
         <seg>La cote d'approbation du maire de la ville actuelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The current stock price.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151742Z" creationid="Olivier" creationdate="20200504T151742Z">
+        <seg>Le cours actuel de l'action.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23725,6 +23869,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T101053Z" creationid="Olivier" creationdate="20200427T101053Z">
         <seg>Le processus de fabrication est suspendu lorsqu'une des matières premières nécessaires fait défaut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The market capitalization of a company.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151804Z" creationid="Olivier" creationdate="20200504T151804Z">
+        <seg>La capitalisation boursière d'une entreprise.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24061,6 +24213,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143141Z" creationid="Olivier" creationdate="20200503T143141Z">
         <seg>Le PIB total est la somme de la consommation, de l'investissement privé, des dépenses publiques et des exportations nettes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The total number of shares currently held by all its shareholders.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151753Z" creationid="Olivier" creationdate="20200504T151753Z">
+        <seg>Le nombre total d'actions actuellement détenues par l'ensemble de ses actionnaires.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25642,6 +25802,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To build a new city, first select an empty region on the map that has sufficient land mass.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151715Z" creationid="Olivier" creationdate="20200504T151715Z">
+        <seg>Pour construire une nouvelle ville, sélectionnez d'abord sur la carte une région vide qui a une masse terrestre suffisante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To build your first store, click the ~Build~ icon.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T145816Z" creationid="Olivier" creationdate="20200423T133203Z">
@@ -26942,6 +27110,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T145256Z" creationid="Olivier" creationdate="20200504T145256Z">
         <seg>Lorsque le taux d'imposition sur le revenu des personnes physiques d'une ville est trop élevé, cela a un effet négatif sur les dépenses de consommation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When a company issues new shares, the Earning Per Share will be diluted as the company's profit will be divided by a larger number of shares.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T152008Z" creationid="Olivier" creationdate="20200504T152008Z">
+        <seg>Lorsqu'une société émet de nouvelles actions, le bénéfice par action sera dilué car le bénéfice de la société sera divisé par un plus grand nombre d'actions.</seg>
       </tuv>
     </tu>
     <tu>
