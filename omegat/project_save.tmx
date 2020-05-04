@@ -7414,6 +7414,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Education</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T140134Z" creationid="Olivier" creationdate="20200504T140134Z">
+        <seg>Education</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Education rating=90</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T105122Z" creationid="Olivier" creationdate="20200430T105122Z">
@@ -18985,6 +18993,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>QOL_EDU</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T140130Z" creationid="Olivier" creationdate="20200504T140130Z">
+        <seg>QOL_EDU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>QOL_HOUS</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T172156Z" creationid="Olivier" creationdate="20200503T172156Z">
@@ -23822,6 +23838,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T120847Z" creationid="Olivier" creationdate="20200428T120614Z">
         <seg>This product uses Noto fonts from Google.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This rating is determined by the Overall Satisfaction ratings of Schools and Universities in the city (details can be viewed on the "Public Facilities" page) and the Education Levels of the citizens (info can be viewed on the detail window of a school or a university.)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T141433Z" creationid="Olivier" creationdate="20200504T141433Z">
+        <seg>Ce classement est déterminé par les taux de satisfaction globale des écoles et des universités de la ville (les détails peuvent être consultés sur la page "Équipements publics") et par les niveaux d'éducation des citoyens (les informations peuvent être consultées sur la fenêtre de détail d'une école ou d'une université).</seg>
       </tuv>
     </tu>
     <tu>
