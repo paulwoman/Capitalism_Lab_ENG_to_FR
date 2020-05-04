@@ -8358,6 +8358,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Food availability at retail</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T141637Z" creationid="Olivier" creationdate="20200504T141637Z">
+        <seg>Disponibilité des aliments au détail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Footwear Store|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T063931Z" creationid="Inrepublica" creationdate="20200426T063931Z">
@@ -10525,6 +10533,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144248Z" creationid="Olivier" creationdate="20200428T144248Z">
         <seg>Sièges Sociaux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Health</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T141440Z" creationid="Olivier" creationdate="20200504T141440Z">
+        <seg>Santé</seg>
       </tuv>
     </tu>
     <tu>
@@ -19001,6 +19017,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>QOL_FOOD</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T141627Z" creationid="Olivier" creationdate="20200504T141627Z">
+        <seg>QOL_FOOD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>QOL_HEAL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T141435Z" creationid="Olivier" creationdate="20200504T141435Z">
+        <seg>QOL_HEAL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>QOL_HOUS</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T172156Z" creationid="Olivier" creationdate="20200503T172156Z">
@@ -19013,6 +19045,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T172226Z" creationid="Olivier" creationdate="20200503T172226Z">
         <seg>QOL_JOBS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>QOL_SAFE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T141555Z" creationid="Olivier" creationdate="20200504T141555Z">
+        <seg>QOL_SAFE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>QOL_SOCI</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T141528Z" creationid="Olivier" creationdate="20200504T141528Z">
+        <seg>QOL_SOCI</seg>
       </tuv>
     </tu>
     <tu>
@@ -19993,6 +20041,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Safety</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T141600Z" creationid="Olivier" creationdate="20200504T141600Z">
+        <seg>Sécurité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sales|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155552Z" creationid="Inrepublica" creationdate="20200425T155552Z">
@@ -20765,6 +20821,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220921Z" creationid="Olivier" creationdate="20200429T220921Z">
         <seg>Cette fois, vous avez donc conçu une nouvelle stratégie et identifié quatre petites villes sur lesquelles se concentrer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Social Security</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T141536Z" creationid="Olivier" creationdate="20200504T141536Z">
+        <seg>Sécurité sociale</seg>
       </tuv>
     </tu>
     <tu>
@@ -23842,10 +23906,34 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This rating is determined by the Overall Satisfaction ratings of Hospitals in the city (details can be viewed on the "Public Facilities" page).</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T141526Z" creationid="Olivier" creationdate="20200504T141526Z">
+        <seg>Cette note est déterminée par le taux de satisfaction globale des hôpitaux de la ville (les détails peuvent être consultés sur la page "Équipements publics").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This rating is determined by the Overall Satisfaction ratings of Police Stations and Fire Stations in the city (details can be viewed on the "Public Facilities" page).</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T141626Z" creationid="Olivier" creationdate="20200504T141626Z">
+        <seg>Ce classement est déterminé par le taux de satisfaction globale des commissariats de police et des casernes de pompiers de la ville (les détails peuvent être consultés sur la page "Équipements publics").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This rating is determined by the Overall Satisfaction ratings of Schools and Universities in the city (details can be viewed on the "Public Facilities" page) and the Education Levels of the citizens (info can be viewed on the detail window of a school or a university.)</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T141433Z" creationid="Olivier" creationdate="20200504T141433Z">
         <seg>Ce classement est déterminé par les taux de satisfaction globale des écoles et des universités de la ville (les détails peuvent être consultés sur la page "Équipements publics") et par les niveaux d'éducation des citoyens (les informations peuvent être consultées sur la fenêtre de détail d'une école ou d'une université).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This rating is determined by the average pay rate of Unemployment Benefits as a percentage of the reference salary in the past 3 years.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T141553Z" creationid="Olivier" creationdate="20200504T141553Z">
+        <seg>Ce classement est déterminé par le taux de rémunération moyen des indemnités de chômage en pourcentage du salaire de référence au cours des 3 dernières années.</seg>
       </tuv>
     </tu>
     <tu>
