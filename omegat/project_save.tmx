@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(In Banner display mode, if a MOD does not have a banner, its information will be display instead.)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T160025Z" creationid="Olivier" creationdate="20200504T160025Z">
+        <seg>(En mode d'affichage de la bannière, si un MOD n'a pas de bannière, ses informations seront affichées à la place).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Net worth is the value of all the assets of a company minus the value of all its outstanding liabilities.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T211524Z" creationid="Olivier" creationdate="20200430T211524Z">
@@ -1232,8 +1240,8 @@
       <tuv lang="en-US">
         <seg>A P/B ratio that is lower than 1.0 means that the stock is currently trading at a price lower than the stock's net worth</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T155521Z" creationid="Olivier" creationdate="20200504T155521Z">
-        <seg>Un ratio C/B inférieur à 1,0 signifie que l'action se négocie actuellement à un prix inférieur à sa valeur nette</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T155746Z" creationid="Olivier" creationdate="20200504T155521Z">
+        <seg>Un ratio C / B inférieur à 1,0 signifie que l'action se négocie actuellement à un prix inférieur à sa valeur nette</seg>
       </tuv>
     </tu>
     <tu>
@@ -1906,6 +1914,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122223Z" creationid="Olivier" creationdate="20200428T122223Z">
         <seg>Acceptation de garantie ou de responsabilité supplémentaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Access the Capitalism Lab MOD forum to download user-created MODs.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T160112Z" creationid="Olivier" creationdate="20200504T160112Z">
+        <seg>Accès au forum MOD de Capitalism Lab pour télécharger les MOD's créés par les utilisateurs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6518,6 +6534,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DIVPAYO</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T160115Z" creationid="Olivier" creationdate="20200504T160115Z">
+        <seg>DIVPAYO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>DLC=CityEcoSim</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100218Z" creationid="Olivier" creationdate="20200430T100218Z">
@@ -7382,6 +7406,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Dividend Payout Ratio</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T160753Z" creationid="Olivier" creationdate="20200504T160753Z">
+        <seg>Ratio de distribution des dividendes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dividend Yield</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T155756Z" creationid="Olivier" creationdate="20200504T155756Z">
+        <seg>Rendement des dividendes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Do not consider Tender Offers from other players.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T145734Z" creationid="Olivier" creationdate="20200428T145612Z">
@@ -7482,6 +7522,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155601Z" creationid="Inrepublica" creationdate="20200425T155601Z">
         <seg>Double-cliquez ici pour ajouter une unité fonctionnelle|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Download MODs</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T160046Z" creationid="Olivier" creationdate="20200504T160046Z">
+        <seg>Télécharger des MOD's</seg>
       </tuv>
     </tu>
     <tu>
@@ -15089,6 +15137,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MOD_DISP</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T155935Z" creationid="Olivier" creationdate="20200504T155935Z">
+        <seg>MOD_DISP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MOD_DL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T160026Z" creationid="Olivier" creationdate="20200504T160026Z">
+        <seg>MOD_DL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MORETAL2</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145924Z" creationid="Inrepublica" creationdate="20200422T145924Z">
@@ -17073,6 +17137,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Only show layout plans with all inputs available (F2)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T155933Z" creationid="Olivier" creationdate="20200504T155933Z">
+        <seg>Afficher uniquement les plans d'aménagement avec toutes les entrées disponibles (F2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Only show media stocks.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T151109Z" creationid="Olivier" creationdate="20200503T151109Z">
@@ -17329,6 +17401,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>PLANALL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T155908Z" creationid="Olivier" creationdate="20200504T155908Z">
+        <seg>PLANALL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>PLANDES0</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145407Z" creationid="Olivier" creationdate="20200503T145407Z">
@@ -17341,6 +17421,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145418Z" creationid="Olivier" creationdate="20200503T145418Z">
         <seg>PLANDES1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PLANINPU</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T155920Z" creationid="Olivier" creationdate="20200504T155920Z">
+        <seg>PLANINPU</seg>
       </tuv>
     </tu>
     <tu>
@@ -20897,6 +20985,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>STK_DIVI</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T155747Z" creationid="Olivier" creationdate="20200504T155747Z">
+        <seg>STK_DIVI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>STK_EARN</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151859Z" creationid="Olivier" creationdate="20200504T151859Z">
@@ -20933,6 +21029,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151730Z" creationid="Olivier" creationdate="20200504T151730Z">
         <seg>STK_PRIC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>STK_RETA</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T155817Z" creationid="Olivier" creationdate="20200504T155817Z">
+        <seg>STK_RETA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>STK_RETL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T155842Z" creationid="Olivier" creationdate="20200504T155842Z">
+        <seg>STK_RETL</seg>
       </tuv>
     </tu>
     <tu>
@@ -21685,6 +21797,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T091526Z" creationid="Olivier" creationdate="20200503T091526Z">
         <seg>Afficher toutes les industries et classes de produits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show all layout plans (F1)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T155919Z" creationid="Olivier" creationdate="20200504T155919Z">
+        <seg>Afficher tous les plans d'aménagement (F1)</seg>
       </tuv>
     </tu>
     <tu>
@@ -23459,8 +23579,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>The P/B Ratio or the Price-to-Book Ratio</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T155452Z" creationid="Olivier" creationdate="20200504T155452Z">
-        <seg>Le ratio C/B ou le ratio prix/valeur comptable</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T155741Z" creationid="Olivier" creationdate="20200504T155452Z">
+        <seg>Le ratio P / B ou le ratio prix / valeur comptable</seg>
       </tuv>
     </tu>
     <tu>
@@ -23789,6 +23909,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T152643Z" creationid="Inrepublica" creationdate="20200423T152643Z">
         <seg>Partie non sauvegardée.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The greater the dividend yield, the more cash is returned to each investor when the dividend is paid out each year.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T155816Z" creationid="Olivier" creationdate="20200504T155816Z">
+        <seg>Plus le rendement du dividende est élevé, plus chaque investisseur reçoit de liquidités lors du versement du dividende chaque année.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24938,6 +25066,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is a percentage calculated by dividing the latest dividend paid by the stock price.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T155806Z" creationid="Olivier" creationdate="20200504T155806Z">
+        <seg>Il s'agit d'un pourcentage calculé en divisant le dernier dividende versé par le cours de l'action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is a percentage calculated by dividing the latest dividend paid by the stock price.^^Put simply, the greater the dividend yield, the more cash is returned to each investor when the dividend is paid out each year.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T152946Z" creationid="Olivier" creationdate="20200425T152946Z">
@@ -25086,6 +25222,22 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164958Z" creationid="Inrepublica" creationdate="20200422T164958Z">
         <seg>Cette option limite le nombre maximum d'entreprises de logiciels d'IA et d'Internet dans un jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This percentage is calculated by dividing the total return to investors (which is the sum of all dividends paid and lifetime capital gains from stock price increases), by the stock price.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T155907Z" creationid="Olivier" creationdate="20200504T155907Z">
+        <seg>Ce pourcentage est calculé en divisant le rendement total pour les investisseurs (qui est la somme de tous les dividendes versés et des plus-values à vie résultant de l'augmentation du cours des actions), par le cours des actions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This percentage is calculated by dividing the total return to investors (which is the sum of dividends paid and capital gains from stock price increases in the past 365 days), by the stock price.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T155841Z" creationid="Olivier" creationdate="20200504T155841Z">
+        <seg>Ce pourcentage est calculé en divisant le rendement total pour les investisseurs (qui est la somme des dividendes versés et des gains en capital résultant de l'augmentation du cours des actions au cours des 365 derniers jours), par le cours des actions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26042,6 +26194,22 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Toggle between Banner display mode and Info display mode.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T160004Z" creationid="Olivier" creationdate="20200504T160004Z">
+        <seg>Permet de basculer entre le mode d'affichage de la bannière et le mode d'affichage des informations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Toggle display mode</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T155949Z" creationid="Olivier" creationdate="20200504T155949Z">
+        <seg>Changer de mode d'affichage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Toggle the filter mode between All Cities and Current City.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103017Z" creationid="Olivier" creationdate="20200502T101959Z">
@@ -26094,6 +26262,22 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T220129Z" creationid="Olivier" creationdate="20200428T220129Z">
         <seg>Total Number of Employees=1000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Total Shareholder Return (Annual)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T155827Z" creationid="Olivier" creationdate="20200504T155827Z">
+        <seg>Rendement total pour les actionnaires (annuel)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Total Shareholder Return (Lifetime)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T155855Z" creationid="Olivier" creationdate="20200504T155855Z">
+        <seg>Rendement total pour les actionnaires (à vie)</seg>
       </tuv>
     </tu>
     <tu>
