@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(If the demand is high, set the operational capacity to a higher value.)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T142321Z" creationid="Olivier" creationdate="20200504T142321Z">
+        <seg>(Si la demande est élevée, fixez la capacité opérationnelle à une valeur plus élevée).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Net worth is the value of all the assets of a company minus the value of all its outstanding liabilities.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T211524Z" creationid="Olivier" creationdate="20200430T211524Z">
@@ -130,6 +138,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T124016Z" creationid="Olivier" creationdate="20200424T124016Z">
         <seg>(Sinon, ils seraient tous malodorants, n'est-ce pas ?)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(Select Pollution mode on the mini map to see the city's population level.)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T142058Z" creationid="Olivier" creationdate="20200504T142058Z">
+        <seg>(Sélectionnez le mode Pollution sur la mini-carte pour voir le niveau de population de la ville).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6142,6 +6158,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Culture</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T142204Z" creationid="Olivier" creationdate="20200504T142204Z">
+        <seg>Culture</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Current Date</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122346Z" creationid="Olivier" creationdate="20200428T122346Z">
@@ -7530,6 +7554,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141035Z" creationid="Olivier" creationdate="20200502T141035Z">
         <seg>Activer/Desactiver les nouvelles des actions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Environment</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T141758Z" creationid="Olivier" creationdate="20200504T141758Z">
+        <seg>Environnement</seg>
       </tuv>
     </tu>
     <tu>
@@ -16833,6 +16865,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>P_FACIUP</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T142424Z" creationid="Olivier" creationdate="20200504T142424Z">
+        <seg>P_FACIUP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>P_GO</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T103830Z" creationid="Olivier" creationdate="20200503T103830Z">
@@ -16849,6 +16889,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>P_OPERAT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T142240Z" creationid="Olivier" creationdate="20200504T142240Z">
+        <seg>P_OPERAT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>P_PREV</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T103758Z" creationid="Olivier" creationdate="20200503T103758Z">
@@ -16861,6 +16909,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T103745Z" creationid="Olivier" creationdate="20200503T103745Z">
         <seg>P_SEARCH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>P_TRAIN</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T142323Z" creationid="Olivier" creationdate="20200504T142323Z">
+        <seg>P_TRAIN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>P_TRAIN0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T142412Z" creationid="Olivier" creationdate="20200504T142412Z">
+        <seg>P_TRAIN0</seg>
       </tuv>
     </tu>
     <tu>
@@ -18961,6 +19025,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Products availability at retail</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T141741Z" creationid="Olivier" creationdate="20200504T141741Z">
+        <seg>Disponibilité des produits au détail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Products of cattle include ~frozen beef~, ~milk~, and ~leather~.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T214717Z" creationid="Olivier" creationdate="20200425T214717Z">
@@ -19009,10 +19081,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>QOL_CULT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T142202Z" creationid="Olivier" creationdate="20200504T142202Z">
+        <seg>QOL_CULT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>QOL_EDU</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T140130Z" creationid="Olivier" creationdate="20200504T140130Z">
         <seg>QOL_EDU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>QOL_ENV</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T141752Z" creationid="Olivier" creationdate="20200504T141752Z">
+        <seg>QOL_ENV</seg>
       </tuv>
     </tu>
     <tu>
@@ -19049,6 +19137,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>QOL_PROD</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T141656Z" creationid="Olivier" creationdate="20200504T141656Z">
+        <seg>QOL_PROD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>QOL_SAFE</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T141555Z" creationid="Olivier" creationdate="20200504T141555Z">
@@ -19061,6 +19157,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T141528Z" creationid="Olivier" creationdate="20200504T141528Z">
         <seg>QOL_SOCI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>QOL_SPOR</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T142100Z" creationid="Olivier" creationdate="20200504T142100Z">
+        <seg>QOL_SPOR</seg>
       </tuv>
     </tu>
     <tu>
@@ -20933,6 +21037,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102705Z" creationid="Olivier" creationdate="20200503T102705Z">
         <seg>Les installations sportives et les parcs seront également utiles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sports</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T142106Z" creationid="Olivier" creationdate="20200504T142106Z">
+        <seg>Sports</seg>
       </tuv>
     </tu>
     <tu>
@@ -23041,6 +23153,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The staff training budget for this civic building.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T142423Z" creationid="Olivier" creationdate="20200504T142423Z">
+        <seg>Le budget de formation du personnel pour ce bâtiment civique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The stock kept at the current unit.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150954Z" creationid="Olivier" creationdate="20200502T150954Z">
@@ -23222,6 +23342,22 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143222Z" creationid="Olivier" creationdate="20200503T143222Z">
         <seg>Le taux de chômage tend à diminuer lorsque la croissance du PIB est saine et que les entreprises privées se développent et créent de nouveaux emplois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The variety and supply of consumer products available at retail.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T141750Z" creationid="Olivier" creationdate="20200504T141750Z">
+        <seg>La variété et l'offre de produits de consommation disponibles au détail.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The variety and supply of food available at retail.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T141655Z" creationid="Olivier" creationdate="20200504T141655Z">
+        <seg>La variété et l'offre de denrées alimentaires disponibles au détail.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23914,6 +24050,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This rating is determined by the Overall Satisfaction ratings of Library, Museums, and City Halls in the city (details can be viewed on the "Public Facilities" page).</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T142239Z" creationid="Olivier" creationdate="20200504T142239Z">
+        <seg>Ce classement est déterminé par le taux de satisfaction générale des bibliothèques, musées et mairies de la ville (les détails peuvent être consultés sur la page "Équipements publics").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This rating is determined by the Overall Satisfaction ratings of Police Stations and Fire Stations in the city (details can be viewed on the "Public Facilities" page).</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T141626Z" creationid="Olivier" creationdate="20200504T141626Z">
@@ -23926,6 +24070,22 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T141433Z" creationid="Olivier" creationdate="20200504T141433Z">
         <seg>Ce classement est déterminé par les taux de satisfaction globale des écoles et des universités de la ville (les détails peuvent être consultés sur la page "Équipements publics") et par les niveaux d'éducation des citoyens (les informations peuvent être consultées sur la fenêtre de détail d'une école ou d'une université).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This rating is determined by the Overall Satisfaction ratings of Sports Facilities in the city (details can be viewed on the "Public Facilities" page).</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T142200Z" creationid="Olivier" creationdate="20200504T142200Z">
+        <seg>Ce classement est déterminé par le taux de satisfaction globale des installations sportives de la ville (les détails peuvent être consultés sur la page "Installations publiques").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This rating is determined by the Pollution level of the city.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T141809Z" creationid="Olivier" creationdate="20200504T141809Z">
+        <seg>Ce classement est déterminé par le niveau de pollution de la ville.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25490,6 +25650,22 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use the slider to set the budget for upgrading the facilities of this civic building.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T143409Z" creationid="Olivier" creationdate="20200504T143409Z">
+        <seg>Utilisez le curseur pour fixer le budget de la modernisation des installations de ce bâtiment municipal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the slider to set the staff training budget for this civic building.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T142410Z" creationid="Olivier" creationdate="20200504T142410Z">
+        <seg>Utilisez le curseur pour définir le budget de formation du personnel pour ce bâtiment municipal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use the ~Product~ filter to select ~Timber~.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T132306Z" creationid="Olivier" creationdate="20200424T094206Z">
@@ -25962,6 +26138,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When this civic building is not in full operation, its operating cost is lower.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T142301Z" creationid="Olivier" creationdate="20200504T142301Z">
+        <seg>Lorsque ce bâtiment municipal n'est pas en pleine activité, son coût de fonctionnement est moindre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When this feature is enabled, corporations will able to able to issue bonds to raise capital, and the bond market will be accessible.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203020Z" creationid="Inrepublica" creationdate="20200422T203020Z">
@@ -26246,6 +26430,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T221900Z" creationid="Olivier" creationdate="20200429T221900Z">
         <seg>Vous atteignez cet objectif lorsque vos niveaux de technologie de production pour les smartphones et les lunettes HUB sont supérieurs d'au moins 100 points à ceux de votre concurrent le plus proche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You are advised to set this based on the Supply/Demand index displayed at the lower part of this info window.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T142311Z" creationid="Olivier" creationdate="20200504T142311Z">
+        <seg>Il vous est conseillé de le définir en fonction de l'indice de l'offre et de la demande affiché dans la partie inférieure de cette fenêtre d'information.</seg>
       </tuv>
     </tu>
     <tu>
