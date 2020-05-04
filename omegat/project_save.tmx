@@ -1294,6 +1294,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A high value means that different regions of the city have good police coverage.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T144715Z" creationid="Olivier" creationdate="20200504T144715Z">
+        <seg>Une valeur élevée signifie que différentes régions de la ville ont une bonne couverture policière.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A higher Content Quality rating leads to higher Rating Points.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T145825Z" creationid="Olivier" creationdate="20200502T145825Z">
@@ -1338,6 +1346,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202924Z" creationid="Inrepublica" creationdate="20200422T202924Z">
         <seg>Une valeur plus élevée permettra à une société d'émettre des montants plus importants d'obligations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A larger Facilities Upgrade Budget leads to higher quality of the facilities.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T143719Z" creationid="Olivier" creationdate="20200504T143719Z">
+        <seg>Un budget plus important pour la modernisation des installations permet d'améliorer la qualité des installations.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1458,6 +1474,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T145627Z" creationid="Olivier" creationdate="20200428T145627Z">
         <seg>Une offre publique d'achat est une offre d'achat d'actions d'une société, généralement à un prix supérieur à la valeur des actions sur le marché boursier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A value of less than 100 means that it cannot keep up with the current demand and you should build more buildings of this type.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T144036Z" creationid="Olivier" creationdate="20200504T144036Z">
+        <seg>Une valeur inférieure à 100 signifie qu'elle ne peut pas répondre à la demande actuelle et que vous devriez construire davantage de bâtiments de ce type.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6318,6 +6342,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Demand/supply index for services provided by this civic building</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T143818Z" creationid="Olivier" creationdate="20200504T143818Z">
+        <seg>Indice de l'offre/demande pour les services fournis par ce bâtiment civique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Demolish This Firm</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141511Z" creationid="Olivier" creationdate="20200502T141511Z">
@@ -9124,6 +9156,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T142219Z" creationid="Olivier" creationdate="20200503T142219Z">
         <seg>En général, lorsqu'il y a un grand nombre d'offres d'emploi disponibles dans la ville, celle-ci peut se permettre d'accepter des immigrants à un rythme plus rapide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Geographical coverage of police</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T144348Z" creationid="Olivier" creationdate="20200504T144348Z">
+        <seg>Une valeur inférieure à 100 signifie qu'elle ne peut pas répondre à la demande actuelle et que vous devriez construire davantage de bâtiments de ce type.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16873,6 +16913,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>P_COVERP</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T144038Z" creationid="Olivier" creationdate="20200504T144038Z">
+        <seg>P_COVERP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>P_DEMAND</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T143807Z" creationid="Olivier" creationdate="20200504T143807Z">
+        <seg>P_DEMAND</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>P_FACILI</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T143617Z" creationid="Olivier" creationdate="20200504T143617Z">
@@ -16925,6 +16981,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T103758Z" creationid="Olivier" creationdate="20200503T103758Z">
         <seg>P_PREV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>P_QUALIT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T143721Z" creationid="Olivier" creationdate="20200504T143721Z">
+        <seg>P_QUALIT</seg>
       </tuv>
     </tu>
     <tu>
@@ -19229,6 +19293,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T141945Z" creationid="Olivier" creationdate="20200503T141945Z">
         <seg>Qualité de vie de la ville.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Quality of service</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T143732Z" creationid="Olivier" creationdate="20200504T143732Z">
+        <seg>Qualité des services</seg>
       </tuv>
     </tu>
     <tu>
@@ -23137,6 +23209,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The quality of service provided by this civic building is determined by 1) its staff's skill and 2) its facilities' quality.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T143806Z" creationid="Olivier" creationdate="20200504T143806Z">
+        <seg>La qualité du service fourni par ce bâtiment civique est déterminée par 1) la compétence de son personnel et 2) la qualité de ses installations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The rating points of the media in which the product is being advertised.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T143858Z" creationid="Olivier" creationdate="20200426T143858Z">
@@ -23934,6 +24014,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161652Z" creationid="Inrepublica" creationdate="20200422T161652Z">
         <seg>Cet indice détermine les dépenses pour des équipements publics, ce qui affecte la difficulté du jeu à jouer en tant que maire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This index tells you whether you have enough civic buildings in the city to meet the citizens' demands for the services.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T143917Z" creationid="Olivier" creationdate="20200504T143917Z">
+        <seg>Cet indice vous indique si vous avez suffisamment de bâtiments municipaux dans la ville pour répondre aux demandes de services des citoyens.</seg>
       </tuv>
     </tu>
     <tu>
