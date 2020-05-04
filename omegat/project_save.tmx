@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Tax = Product Price X Consumer Tax Rate).</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T145211Z" creationid="Olivier" creationdate="20200504T145211Z">
+        <seg>(Tax = Prix du produit X Taux d'imposition du consommateur).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(The boom-bust cycle is the expansion and contraction in the economic cycle that occurs repeatedly.)</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203738Z" creationid="Inrepublica" creationdate="20200422T203738Z">
@@ -1270,6 +1278,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A high corporate profit tax rate brings in greater tax revenue for the city whereas a low corporate profit tax attracts business investment.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T145346Z" creationid="Olivier" creationdate="20200504T145346Z">
+        <seg>Un taux d'imposition élevé sur les bénéfices des sociétés génère des recettes fiscales plus importantes pour la ville, tandis qu'un taux d'imposition faible sur les bénéfices des sociétés attire les investissements des entreprises.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A high number of consumer seaports increases the availability of consumer goods which companies may import and sell at retail.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T155220Z" creationid="Inrepublica" creationdate="20200422T160045Z">
@@ -1294,10 +1310,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A high value means that different regions of the city have good coverage of fire services.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T144833Z" creationid="Olivier" creationdate="20200504T144833Z">
+        <seg>Une valeur élevée signifie que les différentes régions de la ville ont une bonne couverture des services d'incendie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A high value means that different regions of the city have good police coverage.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T144715Z" creationid="Olivier" creationdate="20200504T144715Z">
         <seg>Une valeur élevée signifie que différentes régions de la ville ont une bonne couverture policière.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A high value means that people living in different regions of the city is well served.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T144913Z" creationid="Olivier" creationdate="20200504T144913Z">
+        <seg>Une valeur élevée signifie que les personnes vivant dans différentes régions de la ville sont bien servies.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2478,6 +2510,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Annual limit on immigrants</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T145006Z" creationid="Olivier" creationdate="20200504T145006Z">
+        <seg>Limite annuelle pour les immigrants</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Annuler|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T115455Z" creationid="Olivier" creationdate="20200429T115455Z">
@@ -2818,6 +2858,30 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103527Z" creationid="Olivier" creationdate="20200502T103527Z">
         <seg>Localisation automatique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Auto Manage Apartments</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T145457Z" creationid="Olivier" creationdate="20200504T145457Z">
+        <seg>Gestion automatique des appartements</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Auto Manage Commercial Buildings</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T145543Z" creationid="Olivier" creationdate="20200504T145543Z">
+        <seg>Gestion automatique des bâtiments commerciaux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Auto Manage Media Firms</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T145433Z" creationid="Olivier" creationdate="20200504T145433Z">
+        <seg>Gestion automatique des établissements médiatiques</seg>
       </tuv>
     </tu>
     <tu>
@@ -4170,6 +4234,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T212720Z" creationid="Inrepublica" creationdate="20200422T202624Z">
         <seg>Cliquer sur l'icône ~Ajouter un produit~ maintenant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Citizens' overall satisfaction of the services</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T144941Z" creationid="Olivier" creationdate="20200504T144941Z">
+        <seg>La satisfaction globale des citoyens à l'égard des services</seg>
       </tuv>
     </tu>
     <tu>
@@ -5910,6 +5982,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Consumer Tax Rate</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T145053Z" creationid="Olivier" creationdate="20200504T145053Z">
+        <seg>Taux d'imposition des consommateurs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Consumer taxes are charged whenever consumers spending money on goods.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T145156Z" creationid="Olivier" creationdate="20200504T145156Z">
+        <seg>Des taxes à la consommation sont prélevées chaque fois que les consommateurs dépensent de l'argent pour des biens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Contest Deadline=2020-12-31</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T145714Z" creationid="Olivier" creationdate="20200426T145714Z">
@@ -6030,6 +6118,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Conversely, a low value indicates some regions of the city do not have adequate fire services coverage.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T144852Z" creationid="Olivier" creationdate="20200504T144852Z">
+        <seg>À l'inverse, une valeur faible indique que certaines régions de la ville ne disposent pas d'une couverture adéquate par les services d'incendie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Conversely, a low value indicates some regions of the city do not have adequate police coverage.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T144812Z" creationid="Olivier" creationdate="20200504T144812Z">
+        <seg>À l'inverse, une valeur faible indique que certaines régions de la ville n'ont pas une couverture policière adéquate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Conversely, a low value indicates that people in some regions of the city do not have good access to the services.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T144930Z" creationid="Olivier" creationdate="20200504T144930Z">
+        <seg>À l'inverse, une valeur faible indique que les habitants de certaines régions de la ville n'ont pas un bon accès aux services.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Conversely, if this index is lower than 100, Internet companies will be less profitable.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164126Z" creationid="Inrepublica" creationdate="20200422T164126Z">
@@ -6122,6 +6234,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100236Z" creationid="Olivier" creationdate="20200429T100236Z">
         <seg>Siège social </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Corporate Profit Tax Rate</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T145332Z" creationid="Olivier" creationdate="20200504T145332Z">
+        <seg>Taux d'imposition des bénéfices des sociétés</seg>
       </tuv>
     </tu>
     <tu>
@@ -7290,6 +7410,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T085355Z" creationid="Inrepublica" creationdate="20200426T085355Z">
         <seg>EC_PCT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>EMIGRATI</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T145605Z" creationid="Olivier" creationdate="20200504T145605Z">
+        <seg>EMIGRATI</seg>
       </tuv>
     </tu>
     <tu>
@@ -9156,6 +9284,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T142219Z" creationid="Olivier" creationdate="20200503T142219Z">
         <seg>En général, lorsqu'il y a un grand nombre d'offres d'emploi disponibles dans la ville, celle-ci peut se permettre d'accepter des immigrants à un rythme plus rapide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Geographical coverage of fire services</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T144823Z" creationid="Olivier" creationdate="20200504T144823Z">
+        <seg>Couverture géographique des services d'incendie</seg>
       </tuv>
     </tu>
     <tu>
@@ -12721,6 +12857,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In addition, the "Jobs and Income" category of the Quality of Life index will suffer a drop as well.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T145312Z" creationid="Olivier" creationdate="20200504T145312Z">
+        <seg>En outre, la catégorie "Emplois et revenus" de l'indice de qualité de vie subira également une baisse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall any Contributor be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the Work (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if such Contributor has been advised of the possibility of such damages.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122219Z" creationid="Olivier" creationdate="20200428T122219Z">
@@ -12885,6 +13029,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102739Z" creationid="Olivier" creationdate="20200503T102739Z">
         <seg>Augmentez cette note en diminuant le loyer que vous demandez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Individual Income Tax Rate</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T145242Z" creationid="Olivier" creationdate="20200504T145242Z">
+        <seg>Taux de l'impôt sur le revenu des personnes physiques</seg>
       </tuv>
     </tu>
     <tu>
@@ -13525,6 +13677,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203953Z" creationid="Inrepublica" creationdate="20200422T203953Z">
         <seg>Il sera plus difficile pour les acteurs et les sociétés d'IA de lever des fonds lors de l'introduction en bourse, en émettant de nouvelles actions et obligations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It will set the apartments' rents based on your preference which you may customize with the "Rent" setting below.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T145532Z" creationid="Olivier" creationdate="20200504T145532Z">
+        <seg>Il fixera les loyers des appartements en fonction de vos préférences, que vous pourrez personnaliser avec le paramètre "Loyer" ci-dessous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It will set the commercial buildings' rents based on your preference which you may customize with the "Rent" setting below.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T145603Z" creationid="Olivier" creationdate="20200504T145603Z">
+        <seg>Il fixera les loyers des bâtiments commerciaux en fonction de vos préférences que vous pourrez personnaliser avec le paramètre "Loyer" ci-dessous.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14193,6 +14361,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Location convenience</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T144903Z" creationid="Olivier" creationdate="20200504T144903Z">
+        <seg>Commodité du lieu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Locked=yes</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220352Z" creationid="Olivier" creationdate="20200429T220352Z">
@@ -14253,6 +14429,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T172748Z" creationid="Inrepublica" creationdate="20200422T172748Z">
         <seg>En l'abaissant, on diminue l’espace commercial dans chaque immeuble.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MAPPUBLIC</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T145628Z" creationid="Olivier" creationdate="20200504T145628Z">
+        <seg>MAPPUBLIC</seg>
       </tuv>
     </tu>
     <tu>
@@ -14941,6 +15125,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200429T084925Z" creationid="Olivier" creationdate="20200427T120241Z">
         <seg>Mini carte (touche de raccourci : 'M')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mini Map - Public Service mode</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150019Z" creationid="Olivier" creationdate="20200504T150019Z">
+        <seg>Mini carte - Mode service public</seg>
       </tuv>
     </tu>
     <tu>
@@ -16881,6 +17073,70 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>PO_AUTOA</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T145449Z" creationid="Olivier" creationdate="20200504T145449Z">
+        <seg>PO_AUTOA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PO_AUTOC</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T145533Z" creationid="Olivier" creationdate="20200504T145533Z">
+        <seg>PO_AUTOC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PO_AUTOM</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T145410Z" creationid="Olivier" creationdate="20200504T145410Z">
+        <seg>PO_AUTOM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PO_IMMIG</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T144956Z" creationid="Olivier" creationdate="20200504T144956Z">
+        <seg>PO_IMMIG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PO_I_TAX</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T145232Z" creationid="Olivier" creationdate="20200504T145232Z">
+        <seg>PO_I_TAX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PO_P_TAX</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T145313Z" creationid="Olivier" creationdate="20200504T145313Z">
+        <seg>PO_P_TAX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PO_S_TAX</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T145031Z" creationid="Olivier" creationdate="20200504T145031Z">
+        <seg>PO_S_TAX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PO_UNEMP</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T145348Z" creationid="Olivier" creationdate="20200504T145348Z">
+        <seg>PO_UNEMP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>PRICAGGR</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150001Z" creationid="Inrepublica" creationdate="20200422T150001Z">
@@ -16909,6 +17165,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145630Z" creationid="Olivier" creationdate="20200503T145630Z">
         <seg>PRICE_PM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>P_CONVEN</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T144853Z" creationid="Olivier" creationdate="20200504T144853Z">
+        <seg>P_CONVEN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>P_COVERF</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T144814Z" creationid="Olivier" creationdate="20200504T144814Z">
+        <seg>P_COVERF</seg>
       </tuv>
     </tu>
     <tu>
@@ -16973,6 +17245,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T142240Z" creationid="Olivier" creationdate="20200504T142240Z">
         <seg>P_OPERAT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>P_OVERAL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T144931Z" creationid="Olivier" creationdate="20200504T144931Z">
+        <seg>P_OVERAL</seg>
       </tuv>
     </tu>
     <tu>
@@ -17173,6 +17453,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T063943Z" creationid="Inrepublica" creationdate="20200426T063943Z">
         <seg>Parfumerie|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>People emigrating from the city.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T145615Z" creationid="Olivier" creationdate="20200504T145615Z">
+        <seg>Les gens qui émigrent de la ville.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23017,6 +23305,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The low value of this aspect of quality of life has caused some people to emigrate from this city to other cities.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T145627Z" creationid="Olivier" creationdate="20200504T145627Z">
+        <seg>La faible valeur de cet aspect de la qualité de vie a poussé certaines personnes à émigrer de cette ville vers d'autres villes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The lower left hand of the screen now displays detail about your Purchasing Unit and the product it carries.^^Below the product image, you can see the color identity of the supplier.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T100358Z" creationid="Olivier" creationdate="20200423T145503Z">
@@ -23165,6 +23461,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102820Z" creationid="Olivier" creationdate="20200503T102820Z">
         <seg>L'évaluation globale est une combinaison des évaluations ci-dessus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The pay rate of unemployment benefits as a percentage of the reference salary.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T145408Z" creationid="Olivier" creationdate="20200504T145408Z">
+        <seg>Le taux de rémunération des allocations de chômage en pourcentage du salaire de référence.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24046,6 +24350,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T151229Z" creationid="Olivier" creationdate="20200503T151200Z">
         <seg>Il s'agit d'une entreprises privée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is a product of the above three values and it ultimately tells whether the mayor is doing a good job providing services of this kind to the citizens.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T144954Z" creationid="Olivier" creationdate="20200504T144954Z">
+        <seg>Il s'agit d'un produit des trois valeurs ci-dessus et il indique en fin de compte si le maire fait un bon travail en fournissant des services de ce type aux citoyens.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25386,6 +25698,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unemployment Benefits Pay Rate</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T145358Z" creationid="Olivier" creationdate="20200504T145358Z">
+        <seg>Taux de rémunération des indemnités de chômage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unemployment Rate</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143153Z" creationid="Olivier" creationdate="20200503T143153Z">
@@ -26106,6 +26426,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Weak consumer spending will in turn adversely affect the business sector.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T145231Z" creationid="Olivier" creationdate="20200504T145231Z">
+        <seg>La faiblesse des dépenses de consommation aura à son tour un effet négatif sur le secteur des entreprises.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Well done!</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T123643Z" creationid="Olivier" creationdate="20200423T123643Z">
@@ -26158,6 +26486,30 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T135848Z" creationid="Olivier" creationdate="20200426T135848Z">
         <seg>Lorsqu'un de vos projets de R&amp;D est terminé, vous verrez une icône clignotante ~Suivi d'événements~ dans la barre de menu inférieure.^^ Gardez les yeux sur cette zone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When a city does not have sufficient job opportunities for new immigrants, or its public facilities cannot keep up with the demand by its growing population, the city is likely to tighten its immigration policy.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T145029Z" creationid="Olivier" creationdate="20200504T145029Z">
+        <seg>Lorsqu'une ville n'a pas suffisamment de possibilités d'emploi pour les nouveaux immigrants ou que ses équipements publics ne peuvent pas répondre à la demande de sa population croissante, elle est susceptible de durcir sa politique d'immigration.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When a city's consumer tax rate is too high, consumer spending will decline.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T145221Z" creationid="Olivier" creationdate="20200504T145221Z">
+        <seg>Lorsque le taux d'imposition des consommateurs d'une ville est trop élevé, les dépenses de consommation diminuent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When a city's individual income tax rate is too high, it will have a negative effect on consumer spending.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T145256Z" creationid="Olivier" creationdate="20200504T145256Z">
+        <seg>Lorsque le taux d'imposition sur le revenu des personnes physiques d'une ville est trop élevé, cela a un effet négatif sur les dépenses de consommation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26294,6 +26646,30 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203020Z" creationid="Inrepublica" creationdate="20200422T203020Z">
         <seg>Lorsque cette fonction sera activée, les entreprises pourront émettre des obligations pour lever des capitaux, et le marché obligataire sera accessible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When this is enabled, the computer will automatically manage all of the city's existing apartments for you.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T145507Z" creationid="Olivier" creationdate="20200504T145507Z">
+        <seg>Lorsque cette fonction est activée, l'ordinateur gère automatiquement pour vous tous les appartements existants de la ville.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When this is enabled, the computer will automatically manage all of the city's existing commercial buildings for you.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T145553Z" creationid="Olivier" creationdate="20200504T145553Z">
+        <seg>Lorsque cette fonction est activée, l'ordinateur gère automatiquement pour vous tous les bâtiments commerciaux existants de la ville.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When this is enabled, the computer will automatically manage all of the city's existing media firms for you.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T145447Z" creationid="Olivier" creationdate="20200504T145447Z">
+        <seg>Lorsque cette fonction est activée, l'ordinateur gère automatiquement pour vous toutes les entreprises de médias existantes de la ville.</seg>
       </tuv>
     </tu>
     <tu>
