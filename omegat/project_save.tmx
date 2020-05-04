@@ -8510,6 +8510,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Freq.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200504T102319Z" creationid="Inrepublica" creationdate="20200504T102319Z">
+        <seg>Freq.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>From here you can view details about your corporation and rival corporations.^^For each corporation displayed you can immediately see cash, revenue and profit figures and accompanying bars, as well as an Operating Profit graph.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T071007Z" creationid="Olivier" creationdate="20200423T151626Z">
@@ -30991,6 +30999,86 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T162408Z" creationid="Olivier" creationdate="20200429T162408Z">
         <seg>[1016]&lt;0173&gt;Actionnaires|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1017]&lt;0174&gt;Chart|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200504T102333Z" creationid="Inrepublica" creationdate="20200504T102333Z">
+        <seg>[1017]&lt;0174&gt;Graphique|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1018]&lt;0175&gt;Total|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200504T102327Z" creationid="Inrepublica" creationdate="20200504T102327Z">
+        <seg>[1018]&lt;0175&gt;Total|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1021]&lt;0178&gt;Management|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200504T102354Z" creationid="Inrepublica" creationdate="20200504T102354Z">
+        <seg>[1021]&lt;0178&gt;Management|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1022]&lt;0179&gt;Strategy:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200504T102401Z" creationid="Inrepublica" creationdate="20200504T102401Z">
+        <seg>[1022]&lt;0179&gt;Strategie:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1024]&lt;0181&gt;Chairman and CEO|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200504T102446Z" creationid="Inrepublica" creationdate="20200504T102446Z">
+        <seg>[1024]&lt;0181&gt;Président et PDG|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1025]&lt;0182&gt;Chairman|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200504T102452Z" creationid="Inrepublica" creationdate="20200504T102452Z">
+        <seg>[1025]&lt;0182&gt;Président|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1032]&lt;0189&gt;Firm Overview|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200504T102535Z" creationid="Inrepublica" creationdate="20200504T102535Z">
+        <seg>[1032]&lt;0189&gt;Vue d'ensemble des établissements|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1033]&lt;0190&gt;Annual Revenue|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200504T102547Z" creationid="Inrepublica" creationdate="20200504T102547Z">
+        <seg>[1033]&lt;0190&gt;Recettes annuelles|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1036]&lt;0193&gt;Production|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200504T102501Z" creationid="Inrepublica" creationdate="20200504T102501Z">
+        <seg>[1036]&lt;0193&gt;Production|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1037]&lt;0194&gt;Retail|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200504T102458Z" creationid="Inrepublica" creationdate="20200504T102458Z">
+        <seg>[1037]&lt;0194&gt;Vente au détail|</seg>
       </tuv>
     </tu>
     <tu>
