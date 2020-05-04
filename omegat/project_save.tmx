@@ -3342,6 +3342,38 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Build a logging camp for processing logs into timber.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151617Z" creationid="Olivier" creationdate="20200504T151617Z">
+        <seg>Construire un camp d'exploitation forestière pour transformer les grumes en bois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Build a mine for extracting minerals.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151539Z" creationid="Olivier" creationdate="20200504T151522Z">
+        <seg>Construisez une mine pour extraire des minéraux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Build a new city (size: 200x200) (disabled)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151703Z" creationid="Olivier" creationdate="20200504T151703Z">
+        <seg> Construire une nouvelle ville (taille : 200x200) (handicap)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Build an oil well for extracting oil.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151551Z" creationid="Olivier" creationdate="20200504T151551Z">
+        <seg>Construire un puits de pétrole pour extraire le pétrole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Build another factory to produce a different ~apparel~ product.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T202633Z" creationid="Acer" creationdate="20200424T174542Z">
@@ -3858,6 +3890,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145929Z" creationid="Inrepublica" creationdate="20200422T145929Z">
         <seg>COMME_SC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CONFIRMP</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151006Z" creationid="Olivier" creationdate="20200504T151006Z">
+        <seg>CONFIRMP</seg>
       </tuv>
     </tu>
     <tu>
@@ -5918,6 +5958,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Confirm the price change (hotkey: '*' or ']')</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151037Z" creationid="Olivier" creationdate="20200504T151037Z">
+        <seg>Confirmer le changement de prix (touche de raccourci : '*' ou ']')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Congratulations!</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T122955Z" creationid="Inrepublica" creationdate="20200423T122955Z">
@@ -7446,6 +7494,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ECO2_MAX</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150724Z" creationid="Olivier" creationdate="20200504T150724Z">
+        <seg>ECO2_MAX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ECO2_MIN</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150739Z" creationid="Olivier" creationdate="20200504T150739Z">
+        <seg>ECO2_MIN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ECOM_SET</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145826Z" creationid="Inrepublica" creationdate="20200422T145826Z">
@@ -7906,6 +7970,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T122626Z" creationid="Inrepublica" creationdate="20200423T122626Z">
         <seg>Extend Text Box=450,50,300,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Extend the Economic Info window to display additional info.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150738Z" creationid="Olivier" creationdate="20200504T150738Z">
+        <seg>Agrandir la fenêtre Info économique pour afficher des informations supplémentaires.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9252,6 +9324,38 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145811Z" creationid="Inrepublica" creationdate="20200422T145811Z">
         <seg>GS_PLIST</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>G_BCITY0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151618Z" creationid="Olivier" creationdate="20200504T151618Z">
+        <seg>G_BCITY0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>G_FOREST</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151553Z" creationid="Olivier" creationdate="20200504T151553Z">
+        <seg>G_FOREST</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>G_MINE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151510Z" creationid="Olivier" creationdate="20200504T151510Z">
+        <seg>G_MINE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>G_OIL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151524Z" creationid="Olivier" creationdate="20200504T151524Z">
+        <seg>G_OIL</seg>
       </tuv>
     </tu>
     <tu>
@@ -10937,6 +11041,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hide the Economic Info window</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150723Z" creationid="Olivier" creationdate="20200504T150723Z">
+        <seg>Masquer la fenêtre d'informations économiques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hide the extended section of the Economic Info window.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150752Z" creationid="Olivier" creationdate="20200504T150752Z">
+        <seg>Cacher la section étendue de la fenêtre Info économique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hide, Minimap</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151452Z" creationid="Inrepublica" creationdate="20200423T151452Z">
@@ -11169,10 +11289,34 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hotkey: Left arrow key to go to the previous layout plan.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151438Z" creationid="Olivier" creationdate="20200504T151438Z">
+        <seg>Raccourci : Flèche gauche pour aller au plan d'aménagement précédent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hotkey: Press the first letter of the name of a functional unit to add it instantly.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T151122Z" creationid="Olivier" creationdate="20200502T151122Z">
         <seg>Raccourcis : Appuyez sur la première lettre du nom d'une unité fonctionnelle pour l'ajouter instantanément.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hotkey: Right arrow key to go to the next layout plan.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151509Z" creationid="Olivier" creationdate="20200504T151509Z">
+        <seg>Raccourci : Flèche droite pour passer au plan d'aménagement suivant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hotkeys: Use F1, F2 and F3 to select All suppliers, Seaports and your own firms respectively.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150938Z" creationid="Olivier" creationdate="20200504T150938Z">
+        <seg>Touches de raccourci : Utilisez F1, F2 et F3 pour sélectionner respectivement Tous les fournisseurs, Ports maritimes et vos propres entreprises.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17113,6 +17257,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>PLANNEXT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151440Z" creationid="Olivier" creationdate="20200504T151440Z">
+        <seg>PLANNEXT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PLANPREV</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151140Z" creationid="Olivier" creationdate="20200504T151140Z">
+        <seg>PLANPREV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>PLANSRC1</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T144519Z" creationid="Olivier" creationdate="20200503T144519Z">
@@ -17197,6 +17357,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T092828Z" creationid="Olivier" creationdate="20200503T092828Z">
         <seg>PLAN_8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PLAN_PS</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151040Z" creationid="Olivier" creationdate="20200504T151040Z">
+        <seg>PLAN_PS</seg>
       </tuv>
     </tu>
     <tu>
@@ -17309,6 +17477,38 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145630Z" creationid="Olivier" creationdate="20200503T145630Z">
         <seg>PRICE_PM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PS_CITY</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150804Z" creationid="Olivier" creationdate="20200504T150804Z">
+        <seg>PS_CITY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PS_FIND</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150753Z" creationid="Olivier" creationdate="20200504T150753Z">
+        <seg>PS_FIND</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PS_PROD</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150939Z" creationid="Olivier" creationdate="20200504T150939Z">
+        <seg>PS_PROD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PS_SUPP</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150900Z" creationid="Olivier" creationdate="20200504T150900Z">
+        <seg>PS_SUPP</seg>
       </tuv>
     </tu>
     <tu>
@@ -19265,6 +19465,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Press [Enter] any time to open the product filter list.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150955Z" creationid="Olivier" creationdate="20200504T150955Z">
+        <seg>Appuyez sur [Entrée] à tout moment pour ouvrir la liste des filtres de produits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Press the shortcut key ~B~ to open the the Build menu now.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T133311Z" creationid="Olivier" creationdate="20200426T133311Z">
@@ -20029,6 +20237,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143324Z" creationid="Olivier" creationdate="20200503T143324Z">
         <seg>Les salaires réels font référence aux salaires qui ont été ajustés en fonction de l'inflation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Red text denotes that layout plans or inputs are not available for the product.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151350Z" creationid="Olivier" creationdate="20200504T151139Z">
+        <seg>Le texte en rouge indique que les plans d'aménagement ou les entrées ne sont pas disponibles pour le produit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20973,6 +21189,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T151926Z" creationid="Olivier" creationdate="20200502T151926Z">
         <seg>Sélectionner le produit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the city where the suppliers are located.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150815Z" creationid="Olivier" creationdate="20200504T150815Z">
+        <seg>Sélectionnez la ville où se trouvent les fournisseurs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25490,6 +25714,22 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To locate the product you want, type the first letter of the product name</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151005Z" creationid="Olivier" creationdate="20200504T151005Z">
+        <seg>Pour localiser le produit que vous souhaitez, tapez la première lettre du nom du produit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To search a product, simply type the first letter of the product's name.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150802Z" creationid="Olivier" creationdate="20200504T150802Z">
+        <seg>Pour rechercher un produit, il suffit de taper la première lettre du nom du produit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To see the ~goal report~, click the ~Information Center~ icon on the menu bar at the bottom of the screen.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T221339Z" creationid="Olivier" creationdate="20200422T211926Z">
@@ -26294,6 +26534,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T165414Z" creationid="Inrepublica" creationdate="20200422T165414Z">
         <seg>Utilisez les icônes Homme et Femme (situées sous les flèches) pour changer le sexe des portraits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the Space key to show or hide this drop down list of product filters.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151052Z" creationid="Olivier" creationdate="20200504T151052Z">
+        <seg>Utilisez la touche Espace pour afficher ou masquer cette liste déroulante de filtres de produits.</seg>
       </tuv>
     </tu>
     <tu>
