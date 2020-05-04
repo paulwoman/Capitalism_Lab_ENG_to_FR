@@ -1248,8 +1248,8 @@
       <tuv lang="en-US">
         <seg>A P/B ratio that is lower than 1.0 means that the stock is currently trading at a price lower than the stock's net worth</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T155746Z" creationid="Olivier" creationdate="20200504T155521Z">
-        <seg>Un ratio C / B inférieur à 1,0 signifie que l'action se négocie actuellement à un prix inférieur à sa valeur nette</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T170846Z" creationid="Olivier" creationdate="20200504T155521Z">
+        <seg>Un ratio P / B inférieur à 1,0 signifie que l'action se négocie actuellement à un prix inférieur à sa valeur nette</seg>
       </tuv>
     </tu>
     <tu>
@@ -2122,6 +2122,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100005Z" creationid="Olivier" creationdate="20200429T100005Z">
         <seg>Activer DLC|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Actual Dividend Yield</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T170936Z" creationid="Olivier" creationdate="20200504T170936Z">
+        <seg>Rendement des dividendes annuel</seg>
       </tuv>
     </tu>
     <tu>
@@ -4194,6 +4202,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150739Z" creationid="Inrepublica" creationdate="20200425T150739Z">
         <seg>CURRENT|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CUSTMOD</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T171044Z" creationid="Olivier" creationdate="20200504T171044Z">
+        <seg>CUSTMOD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CUSTOPEN</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T171204Z" creationid="Olivier" creationdate="20200504T171204Z">
+        <seg>CUSTOPEN</seg>
       </tuv>
     </tu>
     <tu>
@@ -6478,6 +6502,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Currently a MOD is in use.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T171123Z" creationid="Olivier" creationdate="20200504T171108Z">
+        <seg>Un MOD est en cours d'utilisation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Currently it is zero but with the advertising, it should be increasing soon.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T171030Z" creationid="Acer" creationdate="20200424T171030Z">
@@ -6546,6 +6578,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T160115Z" creationid="Olivier" creationdate="20200504T160115Z">
         <seg>DIVPAYO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DIVYIELD</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T170849Z" creationid="Olivier" creationdate="20200504T170849Z">
+        <seg>DIVYIELD</seg>
       </tuv>
     </tu>
     <tu>
@@ -8866,6 +8906,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102135Z" creationid="Olivier" creationdate="20200503T102135Z">
         <seg>Par exemple, vous pouvez fixer le loyer de votre immeuble commercial de manière à ce qu'il soit toujours 10 % plus élevé que le taux du marché.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, your mine's reserve #has exhausted#, and you have just #built a new mine#, then you may use this button to #redirect all the affected supply links# to the #new mine#.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T171043Z" creationid="Olivier" creationdate="20200504T171043Z">
+        <seg>Par exemple, la réserve de votre mine est épuisée et vous venez de construire une nouvelle mine. Vous pouvez alors utiliser ce bouton pour rediriger tous les liens d'approvisionnement concernés vers la nouvelle mine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12805,6 +12853,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T133626Z" creationid="Olivier" creationdate="20200423T133626Z">
         <seg>Si un problème d'approvisionnement survient, vous ne pourrez peut-être pas le résoudre aussi facilement en raison des types limités de produits qu'un magasin spécialisé peut vendre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If any of your other firms have #broken supply links# which require the #same item# that #this Sales unit# is selling, you may use this button to #redirect all the affected supply links# to #this Sales unit#.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T171032Z" creationid="Olivier" creationdate="20200504T171032Z">
+        <seg>Si l'une de vos autres entreprises a des #liens d'approvisionnement rompus# qui nécessitent le #même article# que celui vendu par #cette unité de vente#, vous pouvez utiliser ce bouton pour #rediriger tous les liens d'approvisionnement affectés# vers #cette unité de vente#.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19913,6 +19969,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Product custom images will be accessed from the "MOD\&lt;mod name&gt;\Products" folder instead of the "My Games\Capitalism Lab\Products" folder.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T171203Z" creationid="Olivier" creationdate="20200504T171203Z">
+        <seg>Les images personnalisées des produits seront accessibles depuis le dossier "MOD\&lt;nom du mod&gt;Produits" au lieu du dossier "Mes Jeux\Capitalism Lab\Produits".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Product=All</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164800Z" creationid="Olivier" creationdate="20200429T164800Z">
@@ -20165,6 +20229,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155524Z" creationid="Inrepublica" creationdate="20200425T155524Z">
         <seg>REDEMARRER TUTORIEL|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>REDIRECT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T170938Z" creationid="Olivier" creationdate="20200504T170938Z">
+        <seg>REDIRECT</seg>
       </tuv>
     </tu>
     <tu>
@@ -20437,6 +20509,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151350Z" creationid="Olivier" creationdate="20200504T151139Z">
         <seg>Le texte en rouge indique que les plans d'aménagement ou les entrées ne sont pas disponibles pour le produit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Redirect Supply Links</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T170949Z" creationid="Olivier" creationdate="20200504T170949Z">
+        <seg>Redirection des liens d'approvisionnement</seg>
       </tuv>
     </tu>
     <tu>
@@ -27070,6 +27150,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T165043Z" creationid="Olivier" creationdate="20200503T165043Z">
         <seg>Utilisez cet outil pour assigner des parcelles de terrain sélectionnées à des zones résidentielles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using the MOD folder</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T171054Z" creationid="Olivier" creationdate="20200504T171054Z">
+        <seg>Utilisation du dossier MOD</seg>
       </tuv>
     </tu>
     <tu>
