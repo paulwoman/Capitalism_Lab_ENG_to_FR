@@ -7966,6 +7966,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>EXPORT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200505T162856Z" creationid="Olivier" creationdate="20200505T162856Z">
+        <seg>EXPORT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>EXPRESS</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145939Z" creationid="Inrepublica" creationdate="20200422T145939Z">
@@ -24377,6 +24385,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The city's volume of export of the industry.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200505T162906Z" creationid="Olivier" creationdate="20200505T162906Z">
+        <seg>Le volume d'exportation de l'industrie de la ville.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The color shown here tells which company is the producer of this product.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T151633Z" creationid="Olivier" creationdate="20200502T151633Z">
@@ -25470,6 +25486,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T153959Z" creationid="Inrepublica" creationdate="20200422T153959Z">
         <seg>Il y aura des sociétés IA centrées sur l'immobilier, les médias et la technologie si cette dernière est fixée à un niveau élevé ou supérieur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There will be export when the city's competitiveness rating exceeds the global competitiveness rating.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200505T172936Z" creationid="Olivier" creationdate="20200505T172936Z">
+        <seg>Il y aura exportation lorsque la cote de compétitivité de la ville dépassera la cote de compétitivité mondiale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28182,6 +28206,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200505T162823Z" creationid="Olivier" creationdate="20200505T162823Z">
         <seg>Lorsque la compétitivité de la ville est faible, elle doit importer de gros volumes de marchandises, ce qui nuit à l'emploi dans le secteur manufacturier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the city's competitiveness rating exceeds the global competitiveness rating, the city will be in a position to export its products to the worldwide market.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200505T162855Z" creationid="Olivier" creationdate="20200505T162855Z">
+        <seg>Lorsque la cote de compétitivité de la ville dépasse la cote de compétitivité mondiale, la ville sera en mesure d'exporter ses produits sur le marché mondial.</seg>
       </tuv>
     </tu>
     <tu>
