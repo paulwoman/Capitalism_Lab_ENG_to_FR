@@ -4022,6 +4022,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CITY_C</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200505T162400Z" creationid="Olivier" creationdate="20200505T162400Z">
+        <seg>CITY_C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CMO Salary Modifier=1</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170632Z" creationid="Olivier" creationdate="20200427T170632Z">
@@ -24345,6 +24353,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The city's Competitiveness Rating of the industry.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200505T162412Z" creationid="Olivier" creationdate="20200505T162412Z">
+        <seg>Le classement de la ville en matière de compétitivité de l'industrie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The color shown here tells which company is the producer of this product.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T151633Z" creationid="Olivier" creationdate="20200502T151633Z">
@@ -24557,6 +24573,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T150649Z" creationid="Olivier" creationdate="20200423T150649Z">
         <seg>Plus la qualité de votre produit est élevée, plus il est attrayant pour les consommateurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The green background indicates that this product design has already been added to your library.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200505T162359Z" creationid="Olivier" creationdate="20200505T162359Z">
+        <seg>Le fond vert indique que la conception de ce produit a déjà été ajoutée à votre bibliothèque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The higher the city's competitiveness rating, the larger number of people are employed in the local industry.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200505T162636Z" creationid="Olivier" creationdate="20200505T162636Z">
+        <seg>Plus la cote de compétitivité de la ville est élevée, plus le nombre de personnes employées dans l'industrie locale est important.</seg>
       </tuv>
     </tu>
     <tu>
