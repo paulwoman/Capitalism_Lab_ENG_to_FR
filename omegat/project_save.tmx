@@ -12161,6 +12161,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hotkey: Ctrl-I</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T103648Z" creationid="Olivier" creationdate="20200506T103648Z">
+        <seg>Raccourci : Ctrl-I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hotkey: F1</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T104944Z" creationid="Olivier" creationdate="20200503T104944Z">
@@ -13637,6 +13645,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T104919Z" creationid="Olivier" creationdate="20200503T104919Z">
         <seg>I_SCORE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I_SGUIDE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T103639Z" creationid="Olivier" creationdate="20200506T103639Z">
+        <seg>I_SGUIDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I_SOFT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T103636Z" creationid="Olivier" creationdate="20200506T103636Z">
+        <seg>I_SOFT</seg>
       </tuv>
     </tu>
     <tu>
@@ -15433,6 +15457,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Land-use Plan and Business Relationship.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T103533Z" creationid="Olivier" creationdate="20200506T103533Z">
+        <seg>Plan d'occupation des sols et relations commerciales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Land-use planning</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T123049Z" creationid="Olivier" creationdate="20200428T123049Z">
@@ -15865,6 +15897,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MFACTORY</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T103549Z" creationid="Olivier" creationdate="20200506T103549Z">
+        <seg>MFACTORY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MFTSHOW</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200505T172948Z" creationid="Olivier" creationdate="20200505T172948Z">
@@ -15957,6 +15997,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T172030Z" creationid="Olivier" creationdate="20200428T172030Z">
         <seg>MMAPBF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MMAPBRZ</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T103459Z" creationid="Olivier" creationdate="20200506T103459Z">
+        <seg>MMAPBRZ</seg>
       </tuv>
     </tu>
     <tu>
@@ -22073,6 +22121,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SC_INFLUE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T103650Z" creationid="Olivier" creationdate="20200506T103650Z">
+        <seg>SC_INFLUE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>SE RETIRER|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200505T162001Z" creationid="Olivier" creationdate="20200505T162001Z">
@@ -22617,6 +22673,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Score component: Current Political Influence</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T103820Z" creationid="Olivier" creationdate="20200506T103820Z">
+        <seg>Composante de la note : Influence politique actuelle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Search for a specific product (Hotkey: Tab)</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T103756Z" creationid="Olivier" creationdate="20200503T103756Z">
@@ -23029,6 +23093,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150228Z" creationid="Olivier" creationdate="20200502T150228Z">
         <seg>Mettre en place une nouvelle production pour cet établissement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Set up your factory to manufacture this product.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T103602Z" creationid="Olivier" creationdate="20200506T103602Z">
+        <seg>Créez votre usine pour fabriquer ce produit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23933,6 +24005,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150151Z" creationid="Olivier" creationdate="20200504T150151Z">
         <seg>Passez en mode gouvernemental pour donner des ordres au nom du gouvernement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Switch to this mode to show the Land-use Plan and the Business Relationship Mode - with a firm selected this mode will display linkage lines to firms in direct business with the selected firm.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T103546Z" creationid="Olivier" creationdate="20200506T103546Z">
+        <seg>Passez à ce mode pour afficher le plan d'occupation des sols et le mode de relation commerciale - lorsqu'une entreprise est sélectionnée, ce mode affiche les lignes de liaison avec les entreprises en relation commerciale directe avec l'entreprise sélectionnée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25313,6 +25393,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The game is more challenging if you have to start from scratch without a developed city.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T103634Z" creationid="Olivier" creationdate="20200506T103634Z">
+        <seg>Le jeu est plus difficile si vous devez repartir de zéro sans ville développée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The game is not saved.|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T152643Z" creationid="Inrepublica" creationdate="20200423T152643Z">
@@ -26526,6 +26614,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161652Z" creationid="Inrepublica" creationdate="20200422T161652Z">
         <seg>Cet indice détermine les dépenses pour des équipements publics, ce qui affecte la difficulté du jeu à jouer en tant que maire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This index determines the prices that the government sells its land and natural resource sites to corporations.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T103547Z" creationid="Olivier" creationdate="20200506T103547Z">
+        <seg>This index determines the prices that the government sells its land and natural resource sites to corporations.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29246,6 +29342,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092724Z" creationid="Olivier" creationdate="20200506T092724Z">
         <seg>Lorsque votre niveau technique aura atteint ce niveau, l'image personnalisée actuelle sera affichée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Whether there is a developed city at the beginning or not.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T103624Z" creationid="Olivier" creationdate="20200506T103624Z">
+        <seg>L'existence ou non d'une ville développée au départ.</seg>
       </tuv>
     </tu>
     <tu>
