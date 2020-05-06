@@ -6654,6 +6654,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Consumption is the value of goods and services bought by people.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T094126Z" creationid="Olivier" creationdate="20200506T094126Z">
+        <seg>La consommation est la valeur des biens et des services achetés par les gens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Contest Deadline=2020-12-31</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T145714Z" creationid="Olivier" creationdate="20200426T145714Z">
@@ -8214,6 +8222,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>E_CONSUM</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T094030Z" creationid="Olivier" creationdate="20200506T094030Z">
+        <seg>E_CONSUM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>E_CPI</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143614Z" creationid="Olivier" creationdate="20200503T143614Z">
@@ -8250,6 +8266,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143509Z" creationid="Olivier" creationdate="20200503T143509Z">
         <seg>E_INFLAT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>E_INVEST</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T094128Z" creationid="Olivier" creationdate="20200506T094128Z">
+        <seg>E_INVEST</seg>
       </tuv>
     </tu>
     <tu>
@@ -9662,10 +9686,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GDP - Consumption</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T094051Z" creationid="Olivier" creationdate="20200506T094051Z">
+        <seg>PIB - Consommation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GDP - Investment</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T094159Z" creationid="Olivier" creationdate="20200506T094159Z">
+        <seg>PIB - Investissement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GDP growth is affected by consumer spending, private investment, government spending and net exports.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T142327Z" creationid="Olivier" creationdate="20200503T142327Z">
         <seg>La croissance du PIB est affectée par les dépenses de consommation, l'investissement privé, les dépenses publiques et les exportations nettes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GDP is the sum of consumption, investment, government spending and net exports.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T094107Z" creationid="Olivier" creationdate="20200506T094107Z">
+        <seg>Le PIB est la somme de la consommation, de l'investissement, des dépenses publiques et des exportations nettes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14225,6 +14273,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Inflation erodes purchasing power.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T094028Z" creationid="Olivier" creationdate="20200506T094028Z">
+        <seg>L'inflation érode le pouvoir d'achat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Inflation is enabled when this option is set to On.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T152510Z" creationid="Inrepublica" creationdate="20200422T152510Z">
@@ -14581,6 +14637,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164108Z" creationid="Inrepublica" creationdate="20200422T164108Z">
         <seg>Indice des revenus Internet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Investment is the total investment by businesses.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T094457Z" creationid="Olivier" creationdate="20200506T094457Z">
+        <seg>L'investissement est l'investissement total des entreprises.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20917,6 +20981,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161340Z" creationid="Inrepublica" creationdate="20200422T161340Z">
         <seg>Indice des dépenses publiques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Purchasing Power</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T093952Z" creationid="Olivier" creationdate="20200506T093947Z">
+        <seg>Pouvoir d'achat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Purchasing power is the amount of goods or services that one can buy with a unit of currency.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T093939Z" creationid="Olivier" creationdate="20200506T093939Z">
+        <seg>Le pouvoir d'achat est la quantité de biens ou de services que l'on peut acheter avec une unité monétaire.</seg>
       </tuv>
     </tu>
     <tu>
