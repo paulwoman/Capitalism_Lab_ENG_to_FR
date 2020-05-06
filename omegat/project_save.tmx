@@ -1838,6 +1838,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>APAR_OPT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092408Z" creationid="Olivier" creationdate="20200506T092408Z">
+        <seg>APAR_OPT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>APPL_ALL</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T143135Z" creationid="Olivier" creationdate="20200502T143135Z">
@@ -2544,8 +2552,8 @@
       <tuv lang="en-US">
         <seg>Alternatively, you may also transfer it to another company under your control.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092405Z" creationid="Olivier" creationdate="20200506T092405Z">
-        <seg>Vous pouvez également le transférer à une autre société sous votre contrôle.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092518Z" creationid="Olivier" creationdate="20200506T092405Z">
+        <seg>Vous pouvez également le transférer à une autre entreprise sous votre contrôle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3062,6 +3070,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>BACK_INT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092539Z" creationid="Olivier" creationdate="20200506T092539Z">
+        <seg>BACK_INT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>BANKDIFF</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150005Z" creationid="Inrepublica" creationdate="20200422T150005Z">
@@ -3250,6 +3266,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T131830Z" creationid="Olivier" creationdate="20200427T131803Z">
         <seg>Revenir à l'entreprise précédente (touche de raccourci : q)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Backward Integration</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092603Z" creationid="Olivier" creationdate="20200506T092603Z">
+        <seg>Intégration en amont</seg>
       </tuv>
     </tu>
     <tu>
@@ -4030,6 +4054,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CITEMNAM</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092634Z" creationid="Olivier" creationdate="20200506T092634Z">
+        <seg>CITEMNAM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CITRIC ACID|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150730Z" creationid="Inrepublica" creationdate="20200425T150730Z">
@@ -4114,6 +4146,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145929Z" creationid="Inrepublica" creationdate="20200422T145929Z">
         <seg>COMME_SC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>COMM_OPT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092442Z" creationid="Olivier" creationdate="20200506T092442Z">
+        <seg>COMM_OPT</seg>
       </tuv>
     </tu>
     <tu>
@@ -5354,6 +5394,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T104126Z" creationid="Olivier" creationdate="20200503T104126Z">
         <seg>Cliquez ici pour accéder au Marché boursier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to name the current custom product image.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092645Z" creationid="Olivier" creationdate="20200506T092645Z">
+        <seg>Cliquez ici pour nommer l'image du produit personnalisé actuel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12021,6 +12069,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200505T161927Z" creationid="Olivier" creationdate="20200505T161927Z">
         <seg>Hypermarché|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ICRTECH1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092647Z" creationid="Olivier" creationdate="20200506T092647Z">
+        <seg>ICRTECH1</seg>
       </tuv>
     </tu>
     <tu>
@@ -21353,6 +21409,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Required tech level for this custom product image</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092658Z" creationid="Olivier" creationdate="20200506T092658Z">
+        <seg>Niveau technique requis pour cette image de produit personnalisée</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Research and Development</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100142Z" creationid="Olivier" creationdate="20200429T100142Z">
@@ -24873,6 +24937,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The higher the slider's value, the higher the tendency to set up firms for backward integration.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092633Z" creationid="Olivier" creationdate="20200506T092633Z">
+        <seg>Plus la valeur du curseur est élevée, plus la tendance à créer des entreprises en vue d'une intégration rétrograde est forte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The inflation rate is affected by the unemployment rate (people spend less when they are unemployed) and the money demand and supply (higher money supply promotes spending).</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143537Z" creationid="Olivier" creationdate="20200503T143537Z">
@@ -25958,6 +26030,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164154Z" creationid="Inrepublica" creationdate="20200422T164154Z">
         <seg>Cela détermine si les sociétés d'IA peuvent acquérir des sociétés privées indépendantes ou non.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This determines whether the CEO may build factories, farms and natural resource firms to supply raw materials and semi products to existing factories that need them.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092621Z" creationid="Olivier" creationdate="20200506T092621Z">
+        <seg>Cela détermine si le PDG peut construire des usines, des fermes et des entreprises de ressources naturelles pour fournir des matières premières et des semi-produits aux usines existantes qui en ont besoin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27374,6 +27454,22 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170655Z" creationid="Olivier" creationdate="20200427T170655Z">
         <seg>Training=100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Transfer or Demolish this apartment</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092420Z" creationid="Olivier" creationdate="20200506T092420Z">
+        <seg>Transférer ou démolir cet appartement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Transfer or Demolish this commercial building</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092452Z" creationid="Olivier" creationdate="20200506T092452Z">
+        <seg>Transférer ou démolir ce bâtiment commercial</seg>
       </tuv>
     </tu>
     <tu>
@@ -29430,6 +29526,22 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160531Z" creationid="Inrepublica" creationdate="20200422T160531Z">
         <seg>Vous pouvez commencer le jeu d'abord, puis ajuster le défi et les paramètres des objectifs au besoin, et enfin les confirmer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may transfer this apartment to another company under your control, or demolish it.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092531Z" creationid="Olivier" creationdate="20200506T092440Z">
+        <seg>Vous pouvez transférer cet appartement à une autre entreprise sous votre contrôle, ou le démolir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may transfer this commercial building to another company under your control, or demolish it.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092538Z" creationid="Olivier" creationdate="20200506T092506Z">
+        <seg>Vous pouvez transférer ce bâtiment commercial à une autre entreprise sous votre contrôle, ou le démolir.</seg>
       </tuv>
     </tu>
     <tu>
