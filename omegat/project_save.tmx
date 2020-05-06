@@ -7222,6 +7222,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Demolish this building.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T105519Z" creationid="Olivier" creationdate="20200506T105519Z">
+        <seg>Démolir cette construction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Demolish this commercial building.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102430Z" creationid="Olivier" creationdate="20200503T102430Z">
@@ -9442,6 +9450,30 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T131238Z" creationid="Inrepublica" creationdate="20200423T131238Z">
         <seg>Flex Text Box=80,550,400,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Floor1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T105258Z" creationid="Olivier" creationdate="20200506T105258Z">
+        <seg>Floor1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Floor2</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T105336Z" creationid="Olivier" creationdate="20200506T105336Z">
+        <seg>Floor2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Floor3</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T105352Z" creationid="Olivier" creationdate="20200506T105352Z">
+        <seg>Floor3</seg>
       </tuv>
     </tu>
     <tu>
@@ -15961,6 +15993,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MFTSUPP0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T105521Z" creationid="Olivier" creationdate="20200506T105521Z">
+        <seg>MFTSUPP0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MFT_CUST</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200505T173125Z" creationid="Olivier" creationdate="20200505T173125Z">
@@ -16941,6 +16981,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T155254Z" creationid="Inrepublica" creationdate="20200422T160239Z">
         <seg>Nouveau port maritimes pendant le jeu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>NewFloor</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T105408Z" creationid="Olivier" creationdate="20200506T105408Z">
+        <seg>NewFloor</seg>
       </tuv>
     </tu>
     <tu>
@@ -18917,6 +18965,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T103143Z" creationid="Olivier" creationdate="20200506T103143Z">
         <seg>PUBFINAN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PUB_DEL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T105504Z" creationid="Olivier" creationdate="20200506T105504Z">
+        <seg>PUB_DEL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PUB_MOVE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T105446Z" creationid="Olivier" creationdate="20200506T105446Z">
+        <seg>PUB_MOVE</seg>
       </tuv>
     </tu>
     <tu>
@@ -21785,6 +21849,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Relocate this building.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T105503Z" creationid="Olivier" creationdate="20200506T105503Z">
+        <seg>Relocaliser ce bâtiment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Relocate this firm and compensate the owner for the difference in land prices if there is any.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T165123Z" creationid="Olivier" creationdate="20200503T164802Z">
@@ -22913,6 +22985,30 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the 1st floor</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T105318Z" creationid="Olivier" creationdate="20200506T105318Z">
+        <seg>Sélectionner le 1er étage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the 2nd floor</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T105351Z" creationid="Olivier" creationdate="20200506T105351Z">
+        <seg>Selectionner le 2eme étage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the 3rd floor</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T105406Z" creationid="Olivier" creationdate="20200506T105406Z">
+        <seg>Séléctionner le 3eme étage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the city where the suppliers are located.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150815Z" creationid="Olivier" creationdate="20200504T150815Z">
@@ -23189,6 +23285,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T162914Z" creationid="Inrepublica" creationdate="20200422T162914Z">
         <seg>Définissez le pourcentage de produits à verrouiller initialement dans le jeu, qui peuvent être déverrouillés via des projets d'invention de R&amp;D.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Set up a new floor</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T105445Z" creationid="Olivier" creationdate="20200506T105445Z">
+        <seg>Installer un nouvel étage</seg>
       </tuv>
     </tu>
     <tu>
@@ -24045,6 +24149,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T063918Z" creationid="Inrepublica" creationdate="20200426T063918Z">
         <seg>Supermarket|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Supply of this item is unavailable in the market.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T105600Z" creationid="Olivier" creationdate="20200506T105600Z">
+        <seg>La production de cet article n'est pas disponible sur le marché.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29258,6 +29370,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When the Survival Mode is enabled, the options available on the New Game Settings menu will be different to reflect the new gameplay mechanism.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T105256Z" creationid="Olivier" creationdate="20200506T105256Z">
+        <seg>Lorsque le mode de survie est activé, les options disponibles dans le menu "Nouveaux paramètres de jeu" seront différentes pour refléter le nouveau mécanisme de jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When the bar is set to full, it means you have allocated the maximum possible training budget to it.^^Try it now by setting the training for the current firm.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T140707Z" creationid="Olivier" creationdate="20200426T140707Z">
@@ -30294,6 +30414,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143957Z" creationid="Olivier" creationdate="20200503T143957Z">
         <seg>Vous pourrez essayer à nouveau dans quelques semaines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may use PageUp and PageDown keys to switch between floors.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T105335Z" creationid="Olivier" creationdate="20200506T105335Z">
+        <seg>Vous pouvez utiliser les touches PageUp et PageDown pour passer d'un étage à l'autre.</seg>
       </tuv>
     </tu>
     <tu>
