@@ -5398,6 +5398,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click here to toggle whether disabled product classes should be shown on this list.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200505T173105Z" creationid="Olivier" creationdate="20200505T173105Z">
+        <seg>Cliquez ici pour savoir si les classes de produits désactivés doivent figurer dans cette liste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click here to type in an exact number (hotkey: '=')</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T150838Z" creationid="Olivier" creationdate="20200503T150838Z">
@@ -11657,6 +11665,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hotkey: '!'</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200505T173124Z" creationid="Olivier" creationdate="20200505T173124Z">
+        <seg>Raccourci : '!'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hotkey: 'C'</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T104153Z" creationid="Olivier" creationdate="20200503T104141Z">
@@ -13149,6 +13165,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T105014Z" creationid="Olivier" creationdate="20200503T105014Z">
         <seg>I_NATION</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I_PARTY</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200505T173114Z" creationid="Olivier" creationdate="20200505T173114Z">
+        <seg>I_PARTY</seg>
       </tuv>
     </tu>
     <tu>
@@ -15325,6 +15349,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T151432Z" creationid="Olivier" creationdate="20200503T151432Z">
         <seg>MAYOR_MV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MFTSHOW</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200505T172948Z" creationid="Olivier" creationdate="20200505T172948Z">
+        <seg>MFTSHOW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MFT_CUST</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200505T173125Z" creationid="Olivier" creationdate="20200505T173125Z">
+        <seg>MFT_CUST</seg>
       </tuv>
     </tu>
     <tu>
@@ -22481,6 +22521,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Show disabled product classes or not.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200505T173113Z" creationid="Olivier" creationdate="20200505T173005Z">
+        <seg>indiquer les classes de produits désactivés ou non.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Show here if your company's technology level &gt;= 30.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T165948Z" creationid="Olivier" creationdate="20200502T165948Z">
@@ -22997,6 +23045,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T171334Z" creationid="Inrepublica" creationdate="20200422T203920Z">
         <seg>Approvisionnement en argent rigoureuse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Strong export will improve the city's employment significantly.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200505T172947Z" creationid="Olivier" creationdate="20200505T172947Z">
+        <seg>Une forte exportation améliorera considérablement l'emploi dans la ville.</seg>
       </tuv>
     </tu>
     <tu>
