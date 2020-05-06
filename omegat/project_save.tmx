@@ -8462,6 +8462,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each type of software depends on certain tech.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T160936Z" creationid="Olivier" creationdate="20200506T160936Z">
+        <seg>Chaque type de logiciel dépend d'une technologie particulière.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Each ~Livestock Processing Unit~ can only process one product at a time.^^Now click ~Select Product~ and select ~Frozen Beef~ from the available choices.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T214743Z" creationid="Olivier" creationdate="20200425T214743Z">
@@ -22025,6 +22033,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Required Tech Achieved?</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T160917Z" creationid="Olivier" creationdate="20200506T160917Z">
+        <seg>Quelle est la technologie requise ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Required tech level for this custom product image</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092658Z" creationid="Olivier" creationdate="20200506T092658Z">
@@ -22717,6 +22733,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T150839Z" creationid="Olivier" creationdate="20200503T150839Z">
         <seg>S_OWNED</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>S_RETECH</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T160838Z" creationid="Olivier" creationdate="20200506T160838Z">
+        <seg>S_RETECH</seg>
       </tuv>
     </tu>
     <tu>
@@ -28034,6 +28058,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To see the details, open the Software Guide in the Information Center.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T161113Z" creationid="Olivier" creationdate="20200506T161113Z">
+        <seg>Pour voir les détails, ouvrez le guide du logiciel dans le centre d'information.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To see the ~goal report~, click the ~Information Center~ icon on the menu bar at the bottom of the screen.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T221339Z" creationid="Olivier" creationdate="20200422T211926Z">
@@ -30943,6 +30975,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T215441Z" creationid="Olivier" creationdate="20200429T215441Z">
         <seg>Votre entreprise a réussi à se développer tout en réalisant des bénéfices impressionnants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your company must possess the minimum tech level required for each tech in order to create the software product.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T161042Z" creationid="Olivier" creationdate="20200506T161042Z">
+        <seg>Votre entreprise doit posséder le niveau technique minimum requis pour chaque technicien afin de créer le produit logiciel.</seg>
       </tuv>
     </tu>
     <tu>
