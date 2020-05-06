@@ -7158,6 +7158,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Deficit</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T102636Z" creationid="Olivier" creationdate="20200506T102636Z">
+        <seg>Déficit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Definitions.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T120942Z" creationid="Olivier" creationdate="20200428T120942Z">
@@ -10176,6 +10184,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>G_DEFICI</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T102629Z" creationid="Olivier" creationdate="20200506T102629Z">
+        <seg>G_DEFICI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>G_FOREST</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151553Z" creationid="Olivier" creationdate="20200504T151553Z">
@@ -10196,6 +10212,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151524Z" creationid="Olivier" creationdate="20200504T151524Z">
         <seg>G_OIL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>G_SURPLU</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T102522Z" creationid="Olivier" creationdate="20200506T102522Z">
+        <seg>G_SURPLU</seg>
       </tuv>
     </tu>
     <tu>
@@ -23801,6 +23825,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Surplus</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T102628Z" creationid="Olivier" creationdate="20200506T102525Z">
+        <seg>Excédent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Survival Mode=No</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100220Z" creationid="Olivier" creationdate="20200430T100220Z">
@@ -24901,6 +24933,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T102456Z" creationid="Olivier" creationdate="20200506T102456Z">
         <seg>La quantité d'argent liquide qui se trouve actuellement dans le fonds de la ville.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The amount of deficit that the current city has registered over the past 12 months.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T103141Z" creationid="Olivier" creationdate="20200506T103141Z">
+        <seg>Le montant du déficit que la ville actuelle a enregistré au cours des 12 derniers mois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The amount of surplus that the current city has registered over the past 12 months.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T102546Z" creationid="Olivier" creationdate="20200506T102546Z">
+        <seg>Le montant de l'excédent que la ville actuelle a enregistré au cours des 12 derniers mois.</seg>
       </tuv>
     </tu>
     <tu>
