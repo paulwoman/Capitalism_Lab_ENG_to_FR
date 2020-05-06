@@ -5390,6 +5390,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click here to access the special version of Manufacturer's Guide and use it to set up your factory's production layout instantly.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T105710Z" creationid="Olivier" creationdate="20200506T105710Z">
+        <seg>Cliquez ici pour accéder à la version spéciale du guide du fabricant et l'utiliser pour mettre en place instantanément le schéma de production de votre usine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click here to access the stock market.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T151246Z" creationid="Olivier" creationdate="20200503T151246Z">
@@ -15985,6 +15993,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MFTFACT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T105630Z" creationid="Olivier" creationdate="20200506T105630Z">
+        <seg>MFTFACT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MFTSHOW</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200505T172948Z" creationid="Olivier" creationdate="20200505T172948Z">
@@ -15997,6 +16013,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T105521Z" creationid="Olivier" creationdate="20200506T105521Z">
         <seg>MFTSUPP0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MFTSUPP1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T105604Z" creationid="Olivier" creationdate="20200506T105604Z">
+        <seg>MFTSUPP1</seg>
       </tuv>
     </tu>
     <tu>
@@ -16149,6 +16173,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T172248Z" creationid="Olivier" creationdate="20200428T172248Z">
         <seg>MMAPMMV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MMAPMMV2</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T105731Z" creationid="Olivier" creationdate="20200506T105731Z">
+        <seg>MMAPMMV2</seg>
       </tuv>
     </tu>
     <tu>
@@ -18833,6 +18865,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>POTENTIA</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T105712Z" creationid="Olivier" creationdate="20200506T105712Z">
+        <seg>POTENTIA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>PO_AUTOA</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T145449Z" creationid="Olivier" creationdate="20200504T145449Z">
@@ -20941,6 +20981,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T205604Z" creationid="Inrepublica" creationdate="20200422T165347Z">
         <seg>Sexe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Potential</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T105717Z" creationid="Olivier" creationdate="20200506T105717Z">
+        <seg>Potentiel</seg>
       </tuv>
     </tu>
     <tu>
@@ -24153,6 +24201,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Supply of this item is available in the market.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T105629Z" creationid="Olivier" creationdate="20200506T105629Z">
+        <seg>La production de cet article est disponible sur le marché.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Supply of this item is unavailable in the market.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T105600Z" creationid="Olivier" creationdate="20200506T105600Z">
@@ -26025,6 +26081,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The red dot indicates the CBD (central business district).</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T155757Z" creationid="Olivier" creationdate="20200506T155757Z">
+        <seg>Le point rouge indique le QCA (quartier central des affaires).&lt;segment 33042 ¶&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The report displays ~market dominance by industry~ as well as ~by product class~.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T180156Z" creationid="Acer" creationdate="20200424T180156Z">
@@ -26061,6 +26125,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T101637Z" creationid="Olivier" creationdate="20200427T101436Z">
         <seg>Le niveau de compétence du chef d'équipe de l'équipe dirigeante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The speed at which an employee's skill increases is affected by the employee's potential and the firm's training budget.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T105729Z" creationid="Olivier" creationdate="20200506T105729Z">
+        <seg>La vitesse à laquelle les compétences d'un employé augmentent est influencée par le potentiel de l'employé et le budget de formation de l'entreprise</seg>
       </tuv>
     </tu>
     <tu>
@@ -28838,6 +28910,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T165414Z" creationid="Inrepublica" creationdate="20200422T165414Z">
         <seg>Utilisez les icônes Homme et Femme (situées sous les flèches) pour changer le sexe des portraits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the Manufacturer's Guide to set up Factory Production.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T105642Z" creationid="Olivier" creationdate="20200506T105642Z">
+        <seg>Utilisez le Guide du fabricant pour mettre en place la production en usine.</seg>
       </tuv>
     </tu>
     <tu>
