@@ -2542,6 +2542,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alternatively, you may also transfer it to another company under your control.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092405Z" creationid="Olivier" creationdate="20200506T092405Z">
+        <seg>Vous pouvez également le transférer à une autre société sous votre contrôle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alternatively, you may press the ~Enter~ key to continue whenever the Next icon is flashing.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T090026Z" creationid="Olivier" creationdate="20200422T165408Z">
@@ -4374,6 +4382,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CUSTCHG</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092205Z" creationid="Olivier" creationdate="20200506T092205Z">
+        <seg>CUSTCHG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CUSTCHGA</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092254Z" creationid="Olivier" creationdate="20200506T092254Z">
+        <seg>CUSTCHGA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CUSTEXIT</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T174024Z" creationid="Olivier" creationdate="20200504T174024Z">
@@ -4418,6 +4442,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T173338Z" creationid="Olivier" creationdate="20200504T173338Z">
         <seg>CUSTSORT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CUSTTEC2</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092115Z" creationid="Olivier" creationdate="20200506T092115Z">
+        <seg>CUSTTEC2</seg>
       </tuv>
     </tu>
     <tu>
@@ -4610,6 +4642,38 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150731Z" creationid="Inrepublica" creationdate="20200425T150731Z">
         <seg>Chairman|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Change the production tech</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092218Z" creationid="Olivier" creationdate="20200506T092218Z">
+        <seg>Changer la technologie de production</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Change the production tech of the entire firm</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092304Z" creationid="Olivier" creationdate="20200506T092304Z">
+        <seg>Changer la technologie de production de l'ensemble de l'entreprise</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Change the production technologies of all manufacturing units in the current firm to the selected level.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092323Z" creationid="Olivier" creationdate="20200506T092323Z">
+        <seg>Change les technologies de production de toutes les unités de fabrication de l'entreprise actuelle au niveau choisi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Change the production technology of the current manufacturing unit to the selected level.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092242Z" creationid="Olivier" creationdate="20200506T092242Z">
+        <seg>Changer la technologie de production de l'unité de fabrication actuelle au niveau choisi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6838,6 +6902,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Customize the production technology level.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092126Z" creationid="Olivier" creationdate="20200506T092126Z">
+        <seg>Personnaliser le niveau de la technologie de production.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Custom|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200427T075737Z" creationid="Inrepublica" creationdate="20200427T075737Z">
@@ -8514,6 +8586,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145337Z" creationid="Olivier" creationdate="20200503T145337Z">
         <seg>FIRMDES1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>FIRM_OPT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092326Z" creationid="Olivier" creationdate="20200506T092326Z">
+        <seg>FIRM_OPT</seg>
       </tuv>
     </tu>
     <tu>
@@ -21193,6 +21273,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Relocate, Demolish or Transfer this firm (hotkey: Ctrl-X)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092351Z" creationid="Olivier" creationdate="20200506T092351Z">
+        <seg>Délocaliser, démolir ou transférer cette entreprise (touche de raccourci : Ctrl-X)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Remember that your corporation has just issued some shares?</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T151507Z" creationid="Olivier" creationdate="20200425T151507Z">
@@ -21477,6 +21565,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142253Z" creationid="Olivier" creationdate="20200502T142253Z">
         <seg>Graphique des recettes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Revert it back to its original product image.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092113Z" creationid="Olivier" creationdate="20200506T092113Z">
+        <seg>Retourne à l'image originale du produit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25193,6 +25289,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The tech level is displayed below each product image.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092203Z" creationid="Olivier" creationdate="20200506T092203Z">
+        <seg>The tech level is displayed below each product image.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The third type you require is the ~Manufacturing Unit~.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T092933Z" creationid="Olivier" creationdate="20200424T092827Z">
@@ -26294,6 +26398,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T134246Z" creationid="Olivier" creationdate="20200426T134246Z">
         <seg>Cette valeur sera actualisée chaque fois qu'une entreprise aura atteint un niveau technologique supérieur au niveau de pointe actuel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This will associate the product with the selected image.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092251Z" creationid="Olivier" creationdate="20200506T092251Z">
+        <seg>Cela permettra d'associer le produit à l'image sélectionnée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29294,6 +29406,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T121620Z" creationid="Olivier" creationdate="20200428T121620Z">
         <seg>Vous pouvez reproduire et distribuer des exemplaires du Travail ou des Travaux dérivés de celui-ci quel que soit le support, avec ou sans modifications, et sous forme Source ou Objet, à condition que Vous répondiez aux conditions suivantes : </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may revert its production technology to a lower level and associate it with a different custom product image.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092201Z" creationid="Olivier" creationdate="20200506T092201Z">
+        <seg>Vous pouvez ramener sa technologie de production à un niveau inférieur et l'associer à une image de produit personnalisée différente.</seg>
       </tuv>
     </tu>
     <tu>
