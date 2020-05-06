@@ -9070,6 +9070,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Financial report (hotkey: F6)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T103157Z" creationid="Olivier" creationdate="20200506T103157Z">
+        <seg>Rapport financier (touche de raccourci : F6)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Find a media firm with a high rating points score to maximize your advertising coverage.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T170046Z" creationid="Acer" creationdate="20200424T170046Z">
@@ -13753,6 +13761,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the value is set to low, the AI has lower tolerance of low supply and have greater tendency to look for new supply.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T103250Z" creationid="Olivier" creationdate="20200506T103250Z">
+        <seg>Si la valeur est fixée à un niveau bas, l'IA a une tolérance plus faible à l'égard d'une offre faible et a davantage tendance à rechercher une nouvelle offre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If this bar reaches its full length, the unit has reached its full capacity.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T171730Z" creationid="Olivier" creationdate="20200426T171730Z">
@@ -15353,6 +15369,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LOWSUPTO</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T103228Z" creationid="Olivier" creationdate="20200506T103228Z">
+        <seg>LOWSUPTO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LO_IN_E1</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T151031Z" creationid="Olivier" creationdate="20200502T151031Z">
@@ -15757,6 +15781,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T153258Z" creationid="Inrepublica" creationdate="20200422T151132Z">
         <seg>Bas - La personnalisation des produits s'applique à votre société uniquement; Moyen - Elle s'applique à votre société et à vos filiales; Haute - Elle s'applique à toutes les sociétés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Low Supply Tolerance Level</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T103239Z" creationid="Olivier" creationdate="20200506T103239Z">
+        <seg>Faible niveau de tolérance de l'offre</seg>
       </tuv>
     </tu>
     <tu>
@@ -18765,6 +18797,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150900Z" creationid="Olivier" creationdate="20200504T150900Z">
         <seg>PS_SUPP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PUBFINAN</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T103143Z" creationid="Olivier" creationdate="20200506T103143Z">
+        <seg>PUBFINAN</seg>
       </tuv>
     </tu>
     <tu>
@@ -22153,6 +22193,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SHOWSUPP</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T103251Z" creationid="Olivier" creationdate="20200506T103251Z">
+        <seg>SHOWSUPP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>SKIP TUTORIAL|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155520Z" creationid="Inrepublica" creationdate="20200425T155520Z">
@@ -23145,6 +23193,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Show the current supplier (hotkey: W or U)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T103306Z" creationid="Olivier" creationdate="20200506T103306Z">
+        <seg>Afficher le fournisseur actuel (touche de raccourci : W ou U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Show your corporation and subsidiaries only</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T105218Z" creationid="Olivier" creationdate="20200503T105218Z">
@@ -23889,6 +23945,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>TARBRAND</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T103307Z" creationid="Olivier" creationdate="20200506T103307Z">
+        <seg>TARBRAND</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T120929Z" creationid="Olivier" creationdate="20200428T120929Z">
@@ -24029,6 +24093,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164931Z" creationid="Inrepublica" creationdate="20200422T164931Z">
         <seg>Système des talents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Target brand rating</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T103319Z" creationid="Olivier" creationdate="20200506T103319Z">
+        <seg>Évaluation de la marque cible</seg>
       </tuv>
     </tu>
     <tu>
@@ -25285,6 +25357,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T105113Z" creationid="Olivier" creationdate="20200503T105113Z">
         <seg>Plus l'indice de fréquentation des clients est élevé, plus le nombre de clients potentiels qui visiteront ce magasin de détail est important.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The higher the slider's value, the higher the brand rating the CMO will target to achieve by advertising.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T103427Z" creationid="Olivier" creationdate="20200506T103427Z">
+        <seg>Plus la valeur du curseur est élevée, plus le CMO visera à obtenir une note de marque élevée par la publicité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27654,6 +27734,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T155949Z" creationid="Olivier" creationdate="20200504T155949Z">
         <seg>Changer de mode d'affichage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Toggle the display of the financial report for this public facility.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T103226Z" creationid="Olivier" creationdate="20200506T103226Z">
+        <seg>Permet de visualiser le rapport financier de cet établissement public.</seg>
       </tuv>
     </tu>
     <tu>
