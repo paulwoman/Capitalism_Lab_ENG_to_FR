@@ -4918,6 +4918,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>City fund</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T101359Z" creationid="Olivier" creationdate="20200506T101359Z">
+        <seg>Fonds de la ville</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>City population=1000000, Seoul</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T105600Z" creationid="Olivier" creationdate="20200430T105600Z">
@@ -10156,6 +10164,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151717Z" creationid="Olivier" creationdate="20200504T151717Z">
         <seg>G_BCITY1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>G_CASH</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T101113Z" creationid="Olivier" creationdate="20200506T101113Z">
+        <seg>G_CASH</seg>
       </tuv>
     </tu>
     <tu>
