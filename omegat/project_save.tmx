@@ -24897,6 +24897,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The amount of cash currently in the city fund.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T102456Z" creationid="Olivier" creationdate="20200506T102456Z">
+        <seg>La quantité d'argent liquide qui se trouve actuellement dans le fonds de la ville.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The animated rectangle frame on the mini map represents the area displayed in the city view.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T214251Z" creationid="Olivier" creationdate="20200423T123902Z">
