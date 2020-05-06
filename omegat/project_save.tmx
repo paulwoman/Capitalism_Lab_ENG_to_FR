@@ -8238,6 +8238,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>E_EXPORT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T095752Z" creationid="Olivier" creationdate="20200506T095752Z">
+        <seg>E_EXPORT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>E_GDP</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T142303Z" creationid="Olivier" creationdate="20200503T142303Z">
@@ -8266,6 +8274,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T094501Z" creationid="Olivier" creationdate="20200506T094501Z">
         <seg>E_GOVSP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>E_IMPORT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T095844Z" creationid="Olivier" creationdate="20200506T095844Z">
+        <seg>E_IMPORT</seg>
       </tuv>
     </tu>
     <tu>
@@ -14813,6 +14829,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T200608Z" creationid="Olivier" creationdate="20200424T122758Z">
         <seg>Il est vrai que des types de produits différents nécessitent des stratégies de marketing différentes. En règle générale, plus la ~ préoccupation de la marque~ du produit que vous vendez est élevée, plus vous devez faire preuve d'agressivité dans sa publicité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is used for calculating the Net Exports component of GDP.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T095941Z" creationid="Olivier" creationdate="20200506T095842Z">
+        <seg>Elle sert à calculer la composante Exportations Nettes du PIB.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25657,6 +25681,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The total value of exports.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T095811Z" creationid="Olivier" creationdate="20200506T095811Z">
+        <seg>La valeur totale des exportations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The total value of imports.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T095912Z" creationid="Olivier" creationdate="20200506T095912Z">
+        <seg>La valeur totale des importations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The two units are now connected and are going to work with each other.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T145235Z" creationid="Olivier" creationdate="20200423T145235Z">
@@ -27586,10 +27626,26 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Total Exports</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T095803Z" creationid="Olivier" creationdate="20200506T095803Z">
+        <seg>Exportations totales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Total Gross Domestic Product (GDP)</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143130Z" creationid="Olivier" creationdate="20200503T143130Z">
         <seg>Produit intérieur brut total (PIB)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Total Imports</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T095855Z" creationid="Olivier" creationdate="20200506T095855Z">
+        <seg>Importations totales</seg>
       </tuv>
     </tu>
     <tu>
