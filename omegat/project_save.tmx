@@ -1470,6 +1470,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A nation's population growth is supported by 1) #a low unemployment rate#, 2) #high quality of living#, and 3) #sufficient housing supply#.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T105036Z" creationid="Olivier" creationdate="20200506T105036Z">
+        <seg>La croissance démographique d'une nation est soutenue par 1) #un faible taux de chômage#, 2) #une qualité de vie élevée#, et 3) #une offre de logement suffisante#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A new department store costs $1,000,000 to build, plus the cost of the land, and a further $100,000 per month to operate.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T215408Z" creationid="Olivier" creationdate="20200423T124555Z">
@@ -8570,6 +8578,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T171656Z" creationid="Olivier" creationdate="20200428T171656Z">
         <seg>Désactiver le système de raccourcis clavier amélioré.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enable the survival mode if you like the challenge of building a nation from the ground up.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T105242Z" creationid="Olivier" creationdate="20200506T105242Z">
+        <seg>Activez le mode de survie si vous aimez le défi de construire une nation à partir de zéro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16825,6 +16841,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>N_PGROW</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T105010Z" creationid="Olivier" creationdate="20200506T105010Z">
+        <seg>N_PGROW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>N_POP</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T105136Z" creationid="Olivier" creationdate="20200506T105136Z">
+        <seg>N_POP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>National population=1500000</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T105124Z" creationid="Olivier" creationdate="20200430T105124Z">
@@ -20673,6 +20705,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Population</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T105139Z" creationid="Olivier" creationdate="20200506T105139Z">
+        <seg>Population</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Population Growth</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T105022Z" creationid="Olivier" creationdate="20200506T105022Z">
+        <seg>Croissance de la population</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Population Growth Rate=100</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T103630Z" creationid="Olivier" creationdate="20200428T103630Z">
@@ -22465,6 +22513,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SURVIVAL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T105152Z" creationid="Olivier" creationdate="20200506T105152Z">
+        <seg>SURVIVAL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>S_ANY</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T150853Z" creationid="Olivier" creationdate="20200503T150853Z">
@@ -24005,6 +24061,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T102628Z" creationid="Olivier" creationdate="20200506T102525Z">
         <seg>Excédent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Survival Mode</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T105159Z" creationid="Olivier" creationdate="20200506T105159Z">
+        <seg>Mode Survie</seg>
       </tuv>
     </tu>
     <tu>
@@ -25777,6 +25841,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The population growth rate is a result of comparing the nation's population in the beginning of this year with the same period last year.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T105135Z" creationid="Olivier" creationdate="20200506T105135Z">
+        <seg>La croissance démographique d'une nation est soutenue par 1) #un faible taux de chômage#, 2) #une qualité de vie élevée#, et 3) #une offre de logement suffisante#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The products your purchasing unit has ordered should have been delivered to your store by now, and your Purchasing Unit should have started working with your Sales Unit by supplying stock to it.^^Let's take a look at your ~Sales Unit~ by selecting it now.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T100623Z" creationid="Olivier" creationdate="20200423T151202Z">
@@ -26990,6 +27062,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T141726Z" creationid="Olivier" creationdate="20200503T141726Z">
         <seg>Cela montre l'évolution de la population de la ville au fil du temps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This shows the nation's population changes over time.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T105151Z" creationid="Olivier" creationdate="20200506T105151Z">
+        <seg>Cela montre l'évolution de la population du pays au fil du temps.</seg>
       </tuv>
     </tu>
     <tu>
