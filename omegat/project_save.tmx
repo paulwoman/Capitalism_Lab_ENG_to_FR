@@ -3918,6 +3918,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CEO Policy on Issuing New Shares</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T093305Z" creationid="Olivier" creationdate="20200506T093305Z">
+        <seg>Politique du PDG concernant l'émission de nouvelles actions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CEO Pricing Policy</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T093154Z" creationid="Olivier" creationdate="20200506T093154Z">
+        <seg>CEO Pricing Policy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CEO Salary Modifier=20</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102512Z" creationid="Olivier" creationdate="20200428T102512Z">
@@ -3938,6 +3954,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171307Z" creationid="Olivier" creationdate="20200427T171307Z">
         <seg>CEO Salary Modifier=50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CEOISSUE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T093255Z" creationid="Olivier" creationdate="20200506T093255Z">
+        <seg>CEOISSUE</seg>
       </tuv>
     </tu>
     <tu>
@@ -5306,6 +5330,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092820Z" creationid="Olivier" creationdate="20200506T092820Z">
         <seg>Désactivez la case à cocher pour utiliser la politique générale de tarification définie sur la page des politiques de gestion du PDG (sous le rapport Personnes).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Clear the checkbox to use the general pricing policy set on the COO Management Policies page (under the Persons report.)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T093214Z" creationid="Olivier" creationdate="20200506T093214Z">
+        <seg>Désactivez la case à cocher pour utiliser la politique générale de tarification définie sur la page des politiques de gestion du COO (sous le rapport Personnes).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8426,6 +8458,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T165746Z" creationid="Olivier" creationdate="20200502T165746Z">
         <seg>Activer ou désactiver le graphique de vente des produits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enable or disable the option of popping up news windows about custom product launches.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T093253Z" creationid="Olivier" creationdate="20200506T093253Z">
+        <seg>Permet d'activer ou de désactiver la possibilité d'afficher des fenêtres d'information sur les lancements de produits personnalisés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18097,6 +18137,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Operational Level Setting</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T093057Z" creationid="Olivier" creationdate="20200506T093057Z">
+        <seg>Réglage du niveau opérationnel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Options Menu (hotkey: 'O')</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144523Z" creationid="Olivier" creationdate="20200428T144523Z">
@@ -21869,6 +21917,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103237Z" creationid="Olivier" creationdate="20200502T103237Z">
         <seg>SFM_TB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SHOWLAUN</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T093216Z" creationid="Olivier" creationdate="20200506T093216Z">
+        <seg>SHOWLAUN</seg>
       </tuv>
     </tu>
     <tu>
@@ -27314,6 +27370,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Toggle Product Launch News Popup</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T093237Z" creationid="Olivier" creationdate="20200506T093237Z">
+        <seg>Afficher la fenêtre d'information sur le lancement du produit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Toggle between Banner display mode and Info display mode.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T160004Z" creationid="Olivier" creationdate="20200504T160004Z">
@@ -28666,6 +28730,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When this civic building is #not in full operation#, its #operating cost is lower#.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T093108Z" creationid="Olivier" creationdate="20200506T093108Z">
+        <seg>Lorsque ce bâtiment municipal n'est pas en pleine activité, son coût d'exploitation est moindre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When this civic building is not in full operation, its operating cost is lower.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T142301Z" creationid="Olivier" creationdate="20200504T142301Z">
@@ -29006,6 +29078,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T221900Z" creationid="Olivier" creationdate="20200429T221900Z">
         <seg>Vous atteignez cet objectif lorsque vos niveaux de technologie de production pour les smartphones et les lunettes HUB sont supérieurs d'au moins 100 points à ceux de votre concurrent le plus proche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You are advised to set this based on the #Supply/Demand index# displayed at the lower part of this info window.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T093139Z" creationid="Olivier" creationdate="20200506T093139Z">
+        <seg>Il vous est conseillé de le définir sur la base de #l'index Fourniture/Demande# affiché dans la partie inférieure de cette fenêtre d'information.</seg>
       </tuv>
     </tu>
     <tu>
