@@ -2998,6 +2998,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Auto Adjust Operation Levels of Civic Buildings</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T160030Z" creationid="Olivier" creationdate="20200506T160030Z">
+        <seg>Ajustement automatique des niveaux de fonctionnement des bâtiments municipaux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Auto Link Supplier</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142006Z" creationid="Olivier" creationdate="20200502T142006Z">
@@ -18869,6 +18877,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T105712Z" creationid="Olivier" creationdate="20200506T105712Z">
         <seg>POTENTIA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PO_ACIV</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T155800Z" creationid="Olivier" creationdate="20200506T155800Z">
+        <seg>PO_ACIV</seg>
       </tuv>
     </tu>
     <tu>
