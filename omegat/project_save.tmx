@@ -13537,6 +13537,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>IP Creation</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T161157Z" creationid="Olivier" creationdate="20200506T161157Z">
+        <seg>Création de IP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IPLIMIT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T161115Z" creationid="Olivier" creationdate="20200506T161115Z">
+        <seg>IPLIMIT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ISSUE0</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143912Z" creationid="Olivier" creationdate="20200503T143912Z">
@@ -14261,6 +14277,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T204452Z" creationid="Acer" creationdate="20200424T204452Z">
         <seg>Dans les tutoriels précédents, vous avez déjà vu comment obtenir des liquidités en contractant un prêt. Cette fois, vous utiliserez les attentes des investisseurs pour réunir l'argent dont vous avez tant besoin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the game, each player is given an ability to create one IP from scratch.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T161234Z" creationid="Olivier" creationdate="20200506T161234Z">
+        <seg>Dans le jeu, chaque joueur a la possibilité de créer une IP à partir de zéro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30166,6 +30190,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T173849Z" creationid="Olivier" creationdate="20200504T173849Z">
         <seg>Vous avez déjà ajouté la conception du produit personnalisé sélectionné dans votre bibliothèque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have already created an IP and therefore cannot create any further IPs.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T161302Z" creationid="Olivier" creationdate="20200506T161302Z">
+        <seg>Vous avez déjà créé un IP et ne pouvez donc pas en créer d'autres.</seg>
       </tuv>
     </tu>
     <tu>
