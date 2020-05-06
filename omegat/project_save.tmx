@@ -8294,6 +8294,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>E_NETEXP</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T094523Z" creationid="Olivier" creationdate="20200506T094523Z">
+        <seg>E_NETEXP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>E_PPOWER</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T093908Z" creationid="Olivier" creationdate="20200506T093908Z">
@@ -9714,6 +9722,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T094159Z" creationid="Olivier" creationdate="20200506T094159Z">
         <seg>PIB - Investissement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GDP - Net Exports</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T094535Z" creationid="Olivier" creationdate="20200506T094535Z">
+        <seg>PIB - Exportations nettes</seg>
       </tuv>
     </tu>
     <tu>
