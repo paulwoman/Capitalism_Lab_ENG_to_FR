@@ -9502,6 +9502,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For each city where you or a member of your political party is the mayor, the city's population, GDP per capita and the mayor's approval rating will determine the political influence.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T103845Z" creationid="Olivier" creationdate="20200506T103845Z">
+        <seg>Pour chaque ville dont vous ou un membre de votre parti politique est le maire, la population de la ville, le PIB par habitant et la cote d'approbation du maire détermineront l'influence politique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, a furniture store can only sell furniture.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T133603Z" creationid="Olivier" creationdate="20200423T133603Z">
@@ -13969,6 +13977,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you are the party's leader, each of your members' influence value will contribute 50% to yours.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T103858Z" creationid="Olivier" creationdate="20200506T103858Z">
+        <seg>Si vous êtes le chef du parti, la valeur d'influence de chacun de vos membres contribuera à hauteur de 50 % à la vôtre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you double-click the name of another city that city is pinpointed on the world map and the city view on the main screen is updated to show that city.^^Close the World Map view by either clicking the X in the top right of its window, or by clicking the World Map icon on the bottom toolbar.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T110627Z" creationid="Olivier" creationdate="20200423T152055Z">
@@ -14889,6 +14905,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is the accumulation of of all past political influence values x 50%.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T105005Z" creationid="Olivier" creationdate="20200506T105005Z">
+        <seg>Il s'agit de l'accumulation de toutes les valeurs d'influence politique passées x 50%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is the company's Shareholder Equity (which you can view in the Balance Sheet) divided by the total number of outstanding shares.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T152050Z" creationid="Olivier" creationdate="20200504T152050Z">
@@ -15061,6 +15085,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T124438Z" creationid="Olivier" creationdate="20200424T124438Z">
         <seg>Il est temps de les mettre en service ! Construisons une usine pour fabriquer des ~articles vestimentaires~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Its calculation is similar to the Current Political Influence.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T103933Z" creationid="Olivier" creationdate="20200506T103933Z">
+        <seg>Son calcul est similaire à celui de l'Influence politique actuelle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22305,6 +22337,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SP_INFLUE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T103900Z" creationid="Olivier" creationdate="20200506T103900Z">
+        <seg>SP_INFLUE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>STEEL|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155606Z" creationid="Inrepublica" creationdate="20200425T155606Z">
@@ -22677,6 +22717,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T103820Z" creationid="Olivier" creationdate="20200506T103820Z">
         <seg>Composante de la note : Influence politique actuelle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Score component: Past Political Influence</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T103920Z" creationid="Olivier" creationdate="20200506T103920Z">
+        <seg>Composante de la note : Influence politique passée</seg>
       </tuv>
     </tu>
     <tu>
