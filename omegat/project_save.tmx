@@ -15137,6 +15137,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It will set the operation levels based on the demands of the civic facilities.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T160836Z" creationid="Olivier" creationdate="20200506T160836Z">
+        <seg>Il fixera les niveaux d'opération en fonction des demandes des installations civiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It's time to expand your business empire.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T152247Z" creationid="Olivier" creationdate="20200423T152247Z">
@@ -29558,6 +29566,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203020Z" creationid="Inrepublica" creationdate="20200422T203020Z">
         <seg>Lorsque cette fonction sera activée, les entreprises pourront émettre des obligations pour lever des capitaux, et le marché obligataire sera accessible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When this is enabled, the computer will automatically adjust the operation levels of all of the city's civic facilities for you.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T160627Z" creationid="Olivier" creationdate="20200506T160627Z">
+        <seg>Lorsque cette fonction est activée, l'ordinateur ajuste automatiquement pour vous les niveaux de fonctionnement de toutes les installations municipales de la ville.</seg>
       </tuv>
     </tu>
     <tu>
