@@ -1550,6 +1550,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A tick sign indicates that there are custom images defined for the product type.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T090358Z" creationid="Olivier" creationdate="20200506T090358Z">
+        <seg>La présence de cases à cocher indique qu'il existe des images personnalisées définies pour le type de produit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A value of less than 100 means that it cannot keep up with the current demand and you should build more buildings of this type.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T144036Z" creationid="Olivier" creationdate="20200504T144036Z">
@@ -5854,6 +5862,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to open the Product Customization Editor to define custom images for the current product type.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T090332Z" creationid="Olivier" creationdate="20200506T090332Z">
+        <seg>Cliquez pour ouvrir l'éditeur de personnalisation des produits afin de définir des images personnalisées pour le type de produit actuel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to open the Product Summary Report</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T123338Z" creationid="Olivier" creationdate="20200428T123338Z">
@@ -6802,6 +6818,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T105102Z" creationid="Olivier" creationdate="20200503T105102Z">
         <seg>Indice de trafic des clients de cette zone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Customize the production technology level for this manufacturing unit.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092014Z" creationid="Olivier" creationdate="20200506T092014Z">
+        <seg>Adapter le niveau de technologie de production de cette unité de fabrication.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11401,6 +11425,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Group Supersedes Internal Sale</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T090429Z" creationid="Olivier" creationdate="20200506T090429Z">
+        <seg>Remplacement de la vente interne par un groupe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Grow Crop</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T151844Z" creationid="Olivier" creationdate="20200502T151844Z">
@@ -12745,6 +12777,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>INSALE_GR</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T090359Z" creationid="Olivier" creationdate="20200506T090359Z">
+        <seg>INSALE_GR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>INSCLAIM</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145936Z" creationid="Inrepublica" creationdate="20200422T145936Z">
@@ -13365,6 +13405,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T233044Z" creationid="Inrepublica" creationdate="20200422T170546Z">
         <seg>Si cela est décoché, les notes de compétitivité mondiale seront initialisées avec une valeur constante de 30.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If this is enabled, any firms in your company and #subsidiaries# will always be able to buy products from each other, regardless of the #Internal Sale# setting.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T090458Z" creationid="Olivier" creationdate="20200506T090458Z">
+        <seg>Si cette option est activée, toutes les entreprises de votre société et vos #filiales# pourront toujours acheter des produits les unes des autres, quel que soit le paramètre #Vente interne#.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14565,6 +14613,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T134607Z" creationid="Olivier" creationdate="20200426T134607Z">
         <seg>Sa progression peut être consultée dans la section détail de l'unité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>JMFTCUST</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T090500Z" creationid="Olivier" creationdate="20200506T090500Z">
+        <seg>JMFTCUST</seg>
       </tuv>
     </tu>
     <tu>
@@ -20349,6 +20405,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150843Z" creationid="Inrepublica" creationdate="20200422T150843Z">
         <seg>Personnalisation du produit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product Customization (hotkey: 'z')</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T090322Z" creationid="Olivier" creationdate="20200506T090322Z">
+        <seg>Personnalisation du produit (touche de raccourci : 'z')</seg>
       </tuv>
     </tu>
     <tu>
