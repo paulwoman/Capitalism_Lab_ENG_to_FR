@@ -9,7 +9,7 @@ set cible="C:\Users\%USERNAME%\AppData\Local\Capitalism Lab"
 
 :: Copie des fichiers
 
-xcopy %source%\script\*.txt %cible%\script\ /Y/S
+xcopy %source%\Release\script\*.txt %cible%\script\ /Y/S
 
 
 Pause
