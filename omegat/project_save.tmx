@@ -3646,6 +3646,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>But if the company is out of cash, the CEO will have to issue new shares to raise funds for the company's survival regardless of this setting.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T093906Z" creationid="Olivier" creationdate="20200506T093906Z">
+        <seg>Mais si l'entreprise n'a plus de liquidités, le PDG devra émettre de nouvelles actions afin de lever des fonds pour la survie de l'entreprise, quel que soit le contexte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>But in today's highly competitive business environment, truly good executives are scarce resources, fiercely sought after by numerous companies.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T221058Z" creationid="Olivier" creationdate="20200430T221058Z">
@@ -8250,6 +8258,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143539Z" creationid="Olivier" creationdate="20200503T143539Z">
         <seg>E_IRATE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>E_PPOWER</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T093908Z" creationid="Olivier" creationdate="20200506T093908Z">
+        <seg>E_PPOWER</seg>
       </tuv>
     </tu>
     <tu>
