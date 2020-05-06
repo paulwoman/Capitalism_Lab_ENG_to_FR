@@ -8262,6 +8262,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>E_GOVSP</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T094501Z" creationid="Olivier" creationdate="20200506T094501Z">
+        <seg>E_GOVSP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>E_INFLAT</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143509Z" creationid="Olivier" creationdate="20200503T143509Z">
@@ -9690,6 +9698,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T094051Z" creationid="Olivier" creationdate="20200506T094051Z">
         <seg>PIB - Consommation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GDP - Government Spending</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T094511Z" creationid="Olivier" creationdate="20200506T094511Z">
+        <seg>PIB - Dépenses publiques</seg>
       </tuv>
     </tu>
     <tu>
@@ -11597,6 +11613,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150139Z" creationid="Olivier" creationdate="20200504T150139Z">
         <seg>Mode gouvernemental (touche de raccourci : Tab)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Government Spending is the total spending by government.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T094520Z" creationid="Olivier" creationdate="20200506T094520Z">
+        <seg>Les dépenses publiques sont les dépenses totales du gouvernement.</seg>
       </tuv>
     </tu>
     <tu>
