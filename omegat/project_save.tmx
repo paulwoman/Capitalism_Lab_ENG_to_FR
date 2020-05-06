@@ -3942,6 +3942,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CEOPrice</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092726Z" creationid="Olivier" creationdate="20200506T092726Z">
+        <seg>CEOPrice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CHALCONF</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160054Z" creationid="Inrepublica" creationdate="20200422T160054Z">
@@ -4182,6 +4190,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>COO Pricing Policy</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092903Z" creationid="Olivier" creationdate="20200506T092903Z">
+        <seg>Politique de prix du COO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>COO Salary Modifier=1</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170628Z" creationid="Olivier" creationdate="20200427T170628Z">
@@ -4266,6 +4282,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164458Z" creationid="Olivier" creationdate="20200429T164458Z">
         <seg>COO salary modifier=75</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>COOPrice</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092822Z" creationid="Olivier" creationdate="20200506T092822Z">
+        <seg>COOPrice</seg>
       </tuv>
     </tu>
     <tu>
@@ -5274,6 +5298,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T164711Z" creationid="Olivier" creationdate="20200502T164711Z">
         <seg>Effacer le stock existant de ce produit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Clear the checkbox to use the general pricing policy set on the CEO Management Policies page (under the Persons report.)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092820Z" creationid="Olivier" creationdate="20200506T092820Z">
+        <seg>Désactivez la case à cocher pour utiliser la politique générale de tarification définie sur la page des politiques de gestion du PDG (sous le rapport Personnes).</seg>
       </tuv>
     </tu>
     <tu>
@@ -12077,6 +12109,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092647Z" creationid="Olivier" creationdate="20200506T092647Z">
         <seg>ICRTECH1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ICRTECH2</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092712Z" creationid="Olivier" creationdate="20200506T092712Z">
+        <seg>ICRTECH2</seg>
       </tuv>
     </tu>
     <tu>
@@ -22601,6 +22641,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Set the checkbox to use a specific pricing policy for this individual product.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092801Z" creationid="Olivier" creationdate="20200506T092801Z">
+        <seg>Cochez la case pour utiliser une politique de prix spécifique pour ce produit en particulier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Set the entire city's land plots currently owned by the government to commercial zones.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T171533Z" creationid="Olivier" creationdate="20200503T171533Z">
@@ -28034,6 +28082,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use the [+][-] buttons to set the tech level for this custom image.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092711Z" creationid="Olivier" creationdate="20200506T092711Z">
+        <seg>Utilisez les boutons [+][-] pour définir le niveau technique de cette image personnalisée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use the slider to set the budget for upgrading the facilities of this civic building.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T143409Z" creationid="Olivier" creationdate="20200504T143409Z">
@@ -28742,6 +28798,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200505T162117Z" creationid="Olivier" creationdate="20200505T162117Z">
         <seg>Lorsque votre niveau technique aura atteint le niveau attribué, l'image personnalisée sera affichée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When your tech level has reached this level, the current custom image will be displayed.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092724Z" creationid="Olivier" creationdate="20200506T092724Z">
+        <seg>Lorsque votre niveau technique aura atteint ce niveau, l'image personnalisée actuelle sera affichée.</seg>
       </tuv>
     </tu>
     <tu>
