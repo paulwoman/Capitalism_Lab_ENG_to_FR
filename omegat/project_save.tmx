@@ -2654,6 +2654,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Although their firms are not shown in the game map, they compete directly with the corporations.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T094312Z" creationid="Olivier" creationdate="20200507T094222Z">
+        <seg>Bien que leurs établissements ne figurent pas sur la carte de jeu, ils sont en concurrence directe avec les entreprises</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Although you have a humble beginning, with the new skills you have acquired in this tutorial, achieving the goal shouldn't be difficult!^^Good luck!</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T110730Z" creationid="Olivier" creationdate="20200423T152433Z">
@@ -16089,6 +16097,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LOCAL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T094046Z" creationid="Olivier" creationdate="20200507T094046Z">
+        <seg>LOCAL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LOWSUPTO</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T103228Z" creationid="Olivier" creationdate="20200506T103228Z">
@@ -16477,6 +16493,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200424T121327Z" creationid="Inrepublica" creationdate="20200424T121327Z">
         <seg>Loan=20000000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Local Competitors</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T094144Z" creationid="Olivier" creationdate="20200507T094144Z">
+        <seg>Concurrents locaux</seg>
       </tuv>
     </tu>
     <tu>
@@ -27346,6 +27370,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The white portion of the pie charts represents the combined market share of all local competitors in the city.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T095416Z" creationid="Olivier" creationdate="20200507T094223Z">
+        <seg>La partie blanche des graphiques en camembert représente la part de marché combinée de tous les concurrents locaux dans la ville.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The window updates to show all products available from the local seaports.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T123418Z" creationid="Olivier" creationdate="20200423T123418Z">
@@ -27518,6 +27550,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T140800Z" creationid="Olivier" creationdate="20200426T140800Z">
         <seg>Chaque unité de R&amp;D compte 12 membres du personnel, représentés par 12 chiffres dans des combinaisons rouges.^^Au cours de la formation, ceux qui ont déjà été formés seront montrés portant des combinaisons bleues.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There are local competitors in each city.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T094158Z" creationid="Olivier" creationdate="20200507T094158Z">
+        <seg>Il y a des concurrents locaux dans chaque ville.</seg>
       </tuv>
     </tu>
     <tu>
