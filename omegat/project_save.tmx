@@ -1134,6 +1134,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>100 is normal.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151352Z" creationid="Olivier" creationdate="20200507T151352Z">
+        <seg>100 est normal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>100 is the standard value.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T172604Z" creationid="Inrepublica" creationdate="20200422T172604Z">
@@ -3258,6 +3266,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102749Z" creationid="Olivier" creationdate="20200507T102749Z">
         <seg>Temps d'attente moyen des clients</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Average Premium</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151402Z" creationid="Olivier" creationdate="20200507T151402Z">
+        <seg>Prime moyenne</seg>
       </tuv>
     </tu>
     <tu>
@@ -9774,6 +9790,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Financial Performance</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151428Z" creationid="Olivier" creationdate="20200507T151428Z">
+        <seg>Performance financière</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Financial Report (hotkey: F6)</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141849Z" creationid="Olivier" creationdate="20200502T141849Z">
@@ -14105,6 +14129,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>INAVGPRI</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151354Z" creationid="Olivier" creationdate="20200507T151354Z">
+        <seg>INAVGPRI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>INBRAND</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151049Z" creationid="Olivier" creationdate="20200507T151049Z">
@@ -14125,6 +14157,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T092401Z" creationid="Olivier" creationdate="20200507T092401Z">
         <seg>INET_PRX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>INFINPER</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151415Z" creationid="Olivier" creationdate="20200507T151415Z">
+        <seg>INFINPER</seg>
       </tuv>
     </tu>
     <tu>
@@ -14165,6 +14205,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151019Z" creationid="Olivier" creationdate="20200507T151019Z">
         <seg>INHQWAIT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>INPREMIU</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151440Z" creationid="Olivier" creationdate="20200507T151440Z">
+        <seg>INPREMIU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>INPRICE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151239Z" creationid="Olivier" creationdate="20200507T151239Z">
+        <seg>INPRICE</seg>
       </tuv>
     </tu>
     <tu>
@@ -15881,6 +15937,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Insurance Premiums</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151520Z" creationid="Olivier" creationdate="20200507T151520Z">
+        <seg>Primes d'assurances</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Insurance Premiums Modifier</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T194340Z" creationid="Inrepublica" creationdate="20200422T194340Z">
@@ -16165,6 +16229,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T165658Z" creationid="Olivier" creationdate="20200422T165658Z">
         <seg>Elle répertorie tous les produits actuellement disponibles dans le jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It ranges from 80 to 120.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151342Z" creationid="Olivier" creationdate="20200507T151342Z">
+        <seg>Cela va de 80 à 120.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22449,6 +22521,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Premium Price Level</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151306Z" creationid="Olivier" creationdate="20200507T151306Z">
+        <seg>Niveau des prix des primes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Press Ctrl-T to toggle between the standard menu and the extended menu.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T120220Z" creationid="Olivier" creationdate="20200427T120220Z">
@@ -27161,6 +27241,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The average amount of insurance premium this company has received per customer annually.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151414Z" creationid="Olivier" creationdate="20200507T151414Z">
+        <seg>Le montant moyen de la prime d'assurance que cette société a reçu par client chaque année.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The average customer waiting time of all the bank's branches.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T103013Z" creationid="Olivier" creationdate="20200507T103013Z">
@@ -27277,6 +27365,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102329Z" creationid="Olivier" creationdate="20200507T102329Z">
         <seg>Le classement de la marque de la banque dans cette ville.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The brand rating of the insurance company in this city.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151237Z" creationid="Olivier" creationdate="20200507T151237Z">
+        <seg>Le classement de la marque de la compagnie d'assurance dans cette ville.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27453,6 +27549,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T113349Z" creationid="Olivier" creationdate="20200424T113349Z">
         <seg>Les chiffres de cette colonne indiquent les facteurs dont un consommateur tiendra compte pour choisir un produit à acheter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The financial performance of this insurance company in the past 12 months.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151438Z" creationid="Olivier" creationdate="20200507T151438Z">
+        <seg>Les résultats financiers de cette compagnie d'assurance au cours des 12 derniers mois.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27917,6 +28021,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T105135Z" creationid="Olivier" creationdate="20200506T105135Z">
         <seg>La croissance démographique d'une nation est soutenue par 1) #un faible taux de chômage#, 2) #une qualité de vie élevée#, et 3) #une offre de logement suffisante#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The price level of the insurance premiums.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151323Z" creationid="Olivier" creationdate="20200507T151323Z">
+        <seg>Le niveau de prix des primes d'assurance.</seg>
       </tuv>
     </tu>
     <tu>
