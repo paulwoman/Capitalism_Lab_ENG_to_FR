@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#Life insurance policies#, which are assumed to last an average of 30 years in this game, will generate premium incomes for the insurance company on a yearly basis until the policies mature.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151717Z" creationid="Olivier" creationdate="20200507T151717Z">
+        <seg>#Les polices d'assurance vie#, qui sont supposées durer en moyenne 30 ans dans ce jeu, généreront des revenus de primes pour la compagnie d'assurance sur une base annuelle jusqu'à l'échéance des polices.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>("Technology Disruption" option is disabled when "Product Customization" is enabled.)</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150901Z" creationid="Inrepublica" creationdate="20200422T150901Z">
@@ -9294,6 +9302,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Existing Life Insurance Policies provide a reliable stream of premium incomes to the insurance company.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151751Z" creationid="Olivier" creationdate="20200507T151746Z">
+        <seg>Les polices d'assurance vie existantes fournissent un flux fiable de revenus de primes à la compagnie d'assurance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Exit the layout plan library</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T092826Z" creationid="Olivier" creationdate="20200503T092826Z">
@@ -14209,6 +14225,30 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>INPREMI1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151623Z" creationid="Olivier" creationdate="20200507T151623Z">
+        <seg>INPREMI1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>INPREMI2</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151718Z" creationid="Olivier" creationdate="20200507T151718Z">
+        <seg>INPREMI2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>INPREMI3</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151754Z" creationid="Olivier" creationdate="20200507T151754Z">
+        <seg>INPREMI3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>INPREMIU</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151440Z" creationid="Olivier" creationdate="20200507T151440Z">
@@ -15949,6 +15989,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T194340Z" creationid="Inrepublica" creationdate="20200422T194340Z">
         <seg>Modificateur de primes d'assurance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Insurance premium incomes in this past 365 days.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151621Z" creationid="Olivier" creationdate="20200507T151621Z">
+        <seg>Les cotisations d'assurance perçues au cours des 365 derniers jours.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22529,6 +22577,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Premiums from Existing Insurance Policies</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151737Z" creationid="Olivier" creationdate="20200507T151737Z">
+        <seg>Primes des nouvelles polices d'assurance existantes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Premiums from New Insurance Policies</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151633Z" creationid="Olivier" creationdate="20200507T151633Z">
+        <seg>Primes des nouvelles polices d'assurance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Press Ctrl-T to toggle between the standard menu and the extended menu.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T120220Z" creationid="Olivier" creationdate="20200427T120220Z">
@@ -28762,6 +28826,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>These are insurance premiums earned from new insurance contracts in the past 365 days.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151641Z" creationid="Olivier" creationdate="20200507T151641Z">
+        <seg>Il s'agit des primes d'assurance acquises dans le cadre de nouveaux contrats d'assurance au cours des 365 derniers jours.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>These units actually do the real work!</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T065603Z" creationid="Olivier" creationdate="20200423T134543Z">
@@ -28990,6 +29062,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T115503Z" creationid="Olivier" creationdate="20200428T115503Z">
         <seg>Ce chiffre correspond au bénéfice d'exploitation de votre société au cours des 12 derniers mois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This figure shows the amount of insurance premium incomes from existing insurance policies in this past 365 days.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151748Z" creationid="Olivier" creationdate="20200507T151748Z">
+        <seg>This figure shows the amount of insurance premium incomes from existing insurance policies in this past 365 days.</seg>
       </tuv>
     </tu>
     <tu>
