@@ -28754,6 +28754,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Toggle the display of product images on the 3x3 layout area.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T084034Z" creationid="Olivier" creationdate="20200507T084034Z">
+        <seg>Basculez vers the display of produit images on the 3x3 disposition région.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Toggle the display of the financial report for this public facility.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T103226Z" creationid="Olivier" creationdate="20200506T103226Z">
@@ -28790,6 +28798,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T144122Z" creationid="Olivier" creationdate="20200503T144122Z">
         <seg>Permet de déterminer si la liste des fournisseurs doit uniquement indiquer les entrepôts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Toogle Display (Hotkey: Ctrl-A)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T085528Z" creationid="Olivier" creationdate="20200507T084028Z">
+        <seg>Basculer l'écran (Raccourcis: Ctrl-A)</seg>
       </tuv>
     </tu>
     <tu>
