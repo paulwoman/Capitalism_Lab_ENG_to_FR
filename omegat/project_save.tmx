@@ -1326,6 +1326,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A bank has its own balance sheet and its assets are separate from the parent company's.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200507T192614Z" creationid="Acer" creationdate="20200507T192614Z">
+        <seg>Une banque a son propre bilan et ses actifs sont séparés de ceux de la société mère.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A capital ratio is the ratio of a bank's equity capital to its total assets.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203240Z" creationid="Inrepublica" creationdate="20200422T203240Z">
@@ -2830,6 +2838,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An insurance company has its own balance sheet and its assets are separate from the parent company's.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200507T192712Z" creationid="Acer" creationdate="20200507T192712Z">
+        <seg>Une compagnie d'assurance a son propre bilan et ses actifs sont séparés de ceux de la société mère.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>And choose ~Department Store~.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T152243Z" creationid="Inrepublica" creationdate="20200424T121239Z">
@@ -3374,6 +3390,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>BANKASSE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200507T192604Z" creationid="Acer" creationdate="20200507T192604Z">
+        <seg>BANKASSE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>BANKBRAN</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102246Z" creationid="Olivier" creationdate="20200507T102246Z">
@@ -3402,6 +3426,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102357Z" creationid="Olivier" creationdate="20200507T102357Z">
         <seg>BANKFINA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BANKINCO</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200507T192547Z" creationid="Acer" creationdate="20200507T192547Z">
+        <seg>BANKINCO</seg>
       </tuv>
     </tu>
     <tu>
@@ -3458,6 +3490,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145957Z" creationid="Inrepublica" creationdate="20200422T145957Z">
         <seg>BCAPREQ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BFUNDTRA</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200507T192629Z" creationid="Acer" creationdate="20200507T192629Z">
+        <seg>BFUNDTRA</seg>
       </tuv>
     </tu>
     <tu>
@@ -3714,6 +3754,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145726Z" creationid="Olivier" creationdate="20200503T145726Z">
         <seg>Équilibrer les parts de marché et les marges bénéficiaires et fixer les prix de manière raisonnable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bank Assets</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200507T192609Z" creationid="Acer" creationdate="20200507T192609Z">
+        <seg>Avoirs bancaires</seg>
       </tuv>
     </tu>
     <tu>
@@ -5846,6 +5894,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Claims Reserves</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200507T192738Z" creationid="Acer" creationdate="20200507T192738Z">
+        <seg>Réserves de créances</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Clear Stock</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T151949Z" creationid="Olivier" creationdate="20200502T151949Z">
@@ -7186,6 +7242,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T145839Z" creationid="Olivier" creationdate="20200428T145839Z">
         <seg>Tenir compte des offres d'autres joueurs pour l'achat de votre technologie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Consolidated Bank Income Statement</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200507T192555Z" creationid="Acer" creationdate="20200507T192555Z">
+        <seg>Compte de résultat bancaire consolidé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Consolidated Insurance Company Income Statement</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200507T192651Z" creationid="Acer" creationdate="20200507T192651Z">
+        <seg>Compte de résultat consolidé des compagnies d'assurance</seg>
       </tuv>
     </tu>
     <tu>
@@ -10798,6 +10870,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fund Transfer</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200507T192636Z" creationid="Acer" creationdate="20200507T192636Z">
+        <seg>Transfert de fonds</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Furniture Store|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T063944Z" creationid="Inrepublica" creationdate="20200426T063944Z">
@@ -14345,6 +14425,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>IFUNDTRA</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200507T192723Z" creationid="Acer" creationdate="20200507T192723Z">
+        <seg>IFUNDTRA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>IF_ADD</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150128Z" creationid="Olivier" creationdate="20200502T150128Z">
@@ -14617,6 +14705,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>INSUASSE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200507T192700Z" creationid="Acer" creationdate="20200507T192700Z">
+        <seg>INSUASSE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>INSUBRFI</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155220Z" creationid="Olivier" creationdate="20200507T155220Z">
@@ -14629,6 +14725,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T104028Z" creationid="Olivier" creationdate="20200507T104028Z">
         <seg>INSUFINA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>INSUINCO</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200507T192644Z" creationid="Acer" creationdate="20200507T192644Z">
+        <seg>INSUINCO</seg>
       </tuv>
     </tu>
     <tu>
@@ -16337,6 +16441,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Insurance Company Assets</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200507T192705Z" creationid="Acer" creationdate="20200507T192705Z">
+        <seg>Avoirs des compagnies d'assurance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Insurance Premiums</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151520Z" creationid="Olivier" creationdate="20200507T151520Z">
@@ -16469,6 +16581,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T101137Z" creationid="Olivier" creationdate="20200427T101137Z">
         <seg>Elle ne peut plus fabriquer de biens même si l'offre et la demande augmentent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It consolidates the financial data from the Bank HQ and all its bank branches.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200507T192602Z" creationid="Acer" creationdate="20200507T192602Z">
+        <seg>Il consolide les données financières du siège de la banque et de toutes ses succursales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It consolidates the financial data from the HQ and all its front offices.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200507T192659Z" creationid="Acer" creationdate="20200507T192659Z">
+        <seg>Il consolide les données financières du siège et de tous ses bureaux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21061,6 +21189,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T145348Z" creationid="Olivier" creationdate="20200504T145348Z">
         <seg>PO_UNEMP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PREMRESE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200507T192733Z" creationid="Acer" creationdate="20200507T192733Z">
+        <seg>PREMRESE</seg>
       </tuv>
     </tu>
     <tu>
@@ -28329,6 +28465,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The claims reserves represent the money which must be held by the insurance company so as to be able to meet all future claims arising from policies written in the past.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200507T192829Z" creationid="Acer" creationdate="20200507T192829Z">
+        <seg>Les réserves pour indemnisation représentent l'argent qui doit être détenu par la compagnie d'assurance afin de pouvoir faire face à toutes les réclamations futures découlant de polices souscrites dans le passé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The color shown here tells which company is the producer of this product.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T151633Z" creationid="Olivier" creationdate="20200502T151633Z">
@@ -34102,6 +34246,22 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160531Z" creationid="Inrepublica" creationdate="20200422T160531Z">
         <seg>Vous pouvez commencer le jeu d'abord, puis ajuster le défi et les paramètres des objectifs au besoin, et enfin les confirmer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may transfer funds from the parent company to the bank's balance sheet or vice versa.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200507T192642Z" creationid="Acer" creationdate="20200507T192642Z">
+        <seg>Vous pouvez transférer des fonds de la société mère vers le bilan de la banque ou inversement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may transfer funds from the parent company to the insurance company's balance sheet or vice versa.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200507T192731Z" creationid="Acer" creationdate="20200507T192731Z">
+        <seg>Vous pouvez transférer des fonds de la société mère vers le bilan de la compagnie d'assurance ou inversement.</seg>
       </tuv>
     </tu>
     <tu>
