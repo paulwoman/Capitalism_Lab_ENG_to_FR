@@ -5862,6 +5862,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to disable notifications about completions of R&amp;D projects in the Event Tracker.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T081430Z" creationid="Olivier" creationdate="20200507T081430Z">
+        <seg>Cliquez pour désactiver les notifications concernant l'achèvement des projets de R&amp;D dans le suivi des événements.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to disable sound effects</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T163113Z" creationid="Olivier" creationdate="20200428T163113Z">
@@ -7846,6 +7854,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Disable R&amp;D completion notifications</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T081407Z" creationid="Olivier" creationdate="20200507T081407Z">
+        <seg>Désactiver les notifications d'achèvement de la R&amp;D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Disable the enhanced hotkey system.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T171707Z" creationid="Olivier" creationdate="20200428T171624Z">
@@ -8578,6 +8594,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200501T095625Z" creationid="Olivier" creationdate="20200428T145027Z">
         <seg>Activer la vente interne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enable R&amp;D completion notifications</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T081451Z" creationid="Olivier" creationdate="20200507T081451Z">
+        <seg>Activer les notifications d'achèvement de R&amp;D</seg>
       </tuv>
     </tu>
     <tu>
@@ -18221,6 +18245,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T171625Z" creationid="Olivier" creationdate="20200428T171625Z">
         <seg>OM_QK_B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OM_RD_A</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T081216Z" creationid="Olivier" creationdate="20200507T081216Z">
+        <seg>OM_RD_A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OM_RD_B</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T081431Z" creationid="Olivier" creationdate="20200507T081431Z">
+        <seg>OM_RD_B</seg>
       </tuv>
     </tu>
     <tu>
