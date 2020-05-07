@@ -1454,6 +1454,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A higher value means that consumers are more concerned about that aspect when making a purchase decision.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T095734Z" creationid="Olivier" creationdate="20200507T095702Z">
+        <seg>Une valeur plus élevée signifie que les consommateurs se préoccupent davantage de cet aspect lorsqu'ils prennent la décision d'acheter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A higher value means that it increases at a faster rate.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T170837Z" creationid="Inrepublica" creationdate="20200422T170837Z">
@@ -3282,6 +3290,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150003Z" creationid="Inrepublica" creationdate="20200422T150003Z">
         <seg>BOOMBUST</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BRAND_ST</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T095748Z" creationid="Olivier" creationdate="20200507T095748Z">
+        <seg>BRAND_ST</seg>
       </tuv>
     </tu>
     <tu>
@@ -12897,6 +12913,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, the relative concern consumers place on these factors varies from product to product.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T095706Z" creationid="Olivier" creationdate="20200507T095701Z">
+        <seg>Toutefois, la préoccupation relative que les consommateurs accordent à ces facteurs varie d'un produit à l'autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hypermarché|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200505T161927Z" creationid="Olivier" creationdate="20200505T161927Z">
@@ -15321,6 +15345,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Input</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T095822Z" creationid="Olivier" creationdate="20200507T095709Z">
+        <seg>Intrant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Input Material</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103736Z" creationid="Olivier" creationdate="20200502T103736Z">
@@ -15525,6 +15557,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143119Z" creationid="Olivier" creationdate="20200503T143119Z">
         <seg>Il est égal au PIB total divisé par le nombre total de personnes dans la ville.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It indicates the quantity of the input required for the production and how much it contributes to the finished product's quality.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T095815Z" creationid="Olivier" creationdate="20200507T095737Z">
+        <seg>Cela indique la quantité d'intrants nécessaire à la production et sa contribution à la qualité du produit fini.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25225,6 +25265,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Switch Brand Strategy</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T095915Z" creationid="Olivier" creationdate="20200507T095915Z">
+        <seg>Changer de stratégie de marque</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Switch to the Business Mode to give orders on behalf of the corporation.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150649Z" creationid="Olivier" creationdate="20200504T150300Z">
@@ -30510,6 +30558,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200429T101021Z" creationid="Olivier" creationdate="20200424T101652Z">
         <seg>Lorsqu'un consommateur achète un produit, il prend en compte le ~prix~, la ~qualité~ et la ~marque~ du produit. Pour la ~qualité~, c'est influencé par les qualités des matières premières utilisées et la technologie de production, que vous avez déjà apprises dans le tutoriel précédent. Pour le ~prix~, c'est très simple : un prix plus bas rend un produit plus compétitif sur le marché. Une ~marque~ est un nom distinctif destiné à identifier et à différencier les produits d'un vendeur de ceux des concurrents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When a consumer buys a product, the product's price, quality, and brand are considered.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T095633Z" creationid="Olivier" creationdate="20200507T095633Z">
+        <seg>Lorsqu'un consommateur achète un produit, le prix, la qualité et la marque du produit sont pris en compte.</seg>
       </tuv>
     </tu>
     <tu>
