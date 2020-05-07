@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(The more loyal the person is to his/her current employer, the higher the salary you must offer.)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T090723Z" creationid="Olivier" creationdate="20200507T090723Z">
+        <seg>(The plus loyal the person is to his/her current employer, the higher the salary you must offer.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(This applies to all products in this firm.)</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T083551Z" creationid="Olivier" creationdate="20200507T083456Z">
@@ -12251,8 +12259,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Headhunt</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T090659Z" creationid="Olivier" creationdate="20200507T090659Z">
-        <seg>[</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T091023Z" creationid="Olivier" creationdate="20200507T090659Z">
+        <seg>Recrutement</seg>
       </tuv>
     </tu>
     <tu>
@@ -28654,6 +28662,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T101801Z" creationid="Olivier" creationdate="20200424T101801Z">
         <seg>Pour mieux comprendre le fonctionnement des marques, ouvrons le ~Rapport détaillé des produits~. Cliquez à présent sur l'icône ~Centre d'informations~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To headhunt a person, you must offer a higher salary and a signup bonus.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T090753Z" creationid="Olivier" creationdate="20200507T090753Z">
+        <seg>To siège social a person, you must offer a higher salary and a signup bonus.</seg>
       </tuv>
     </tu>
     <tu>
