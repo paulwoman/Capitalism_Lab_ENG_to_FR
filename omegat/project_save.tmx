@@ -2576,8 +2576,8 @@
       <tuv lang="en-US">
         <seg>All Defaults</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T103301Z" creationid="Olivier" creationdate="20200507T103240Z">
-        <seg>Tous les défauts</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T103811Z" creationid="Olivier" creationdate="20200507T103240Z">
+        <seg>Toutes les défaillances</seg>
       </tuv>
     </tu>
     <tu>
@@ -7634,6 +7634,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T223603Z" creationid="Olivier" creationdate="20200430T223603Z">
         <seg>Deadline=2010-06-30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Defaults by Corporations</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T103738Z" creationid="Olivier" creationdate="20200507T103738Z">
+        <seg>Défaillances des entreprises</seg>
       </tuv>
     </tu>
     <tu>
@@ -18385,6 +18393,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Note that these loan defaults, together with those by local companies, constitute the loan defaults shown on the [All Defaults] page.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T103836Z" creationid="Olivier" creationdate="20200507T103836Z">
+        <seg>Notez que ces défauts de paiement, ainsi que ceux des entreprises locales, constituent les défauts de paiement indiqués sur la page [Tous les défauts de paiement].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Note that these loans, together with loans to local companies, constitute the loan totals shown on the [All Loans] page.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T103232Z" creationid="Olivier" creationdate="20200507T103232Z">
@@ -24565,6 +24581,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T092905Z" creationid="Olivier" creationdate="20200503T092905Z">
         <seg>Sélectionnez cette option et le message sera envoyé à tous les joueurs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select this to show a list of loans made to corporations that have been defaulted.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T103823Z" creationid="Olivier" creationdate="20200507T103823Z">
+        <seg>Sélectionnez cette option pour afficher la liste des prêts accordés aux sociétés qui ont été en défaut de paiement.</seg>
       </tuv>
     </tu>
     <tu>
