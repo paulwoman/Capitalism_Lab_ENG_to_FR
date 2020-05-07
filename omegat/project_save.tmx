@@ -1502,6 +1502,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A long customer waiting time negatively affects the #service quality# of the branch.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102103Z" creationid="Olivier" creationdate="20200507T102103Z">
+        <seg>Un long temps d'attente des clients affecte négativement la #qualité du service# de l'agence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A low rate means that your factory has idle time and its capacity is underutilized.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T101036Z" creationid="Olivier" creationdate="20200507T101036Z">
@@ -3238,6 +3246,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>BANKBRAN</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102246Z" creationid="Olivier" creationdate="20200507T102246Z">
+        <seg>BANKBRAN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>BANKDIFF</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150005Z" creationid="Inrepublica" creationdate="20200422T150005Z">
@@ -3246,10 +3262,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>BANKSERV</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102118Z" creationid="Olivier" creationdate="20200507T102118Z">
+        <seg>BANKSERV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>BANKSKIL</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T101745Z" creationid="Olivier" creationdate="20200507T101745Z">
         <seg>BANKSKIL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BANKWAIT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102013Z" creationid="Olivier" creationdate="20200507T102013Z">
+        <seg>BANKWAIT</seg>
       </tuv>
     </tu>
     <tu>
@@ -3466,6 +3498,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145726Z" creationid="Olivier" creationdate="20200503T145726Z">
         <seg>Équilibrer les parts de marché et les marges bénéficiaires et fixer les prix de manière raisonnable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bank Brand Rating</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102303Z" creationid="Olivier" creationdate="20200507T102303Z">
+        <seg>Classement de la marque de la banque</seg>
       </tuv>
     </tu>
     <tu>
@@ -7330,6 +7370,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T105102Z" creationid="Olivier" creationdate="20200503T105102Z">
         <seg>Indice de trafic des clients de cette zone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Customer Waiting Time</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102025Z" creationid="Olivier" creationdate="20200507T102025Z">
+        <seg>Temps d'attente des clients</seg>
       </tuv>
     </tu>
     <tu>
@@ -22633,6 +22681,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Quality of Service</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102140Z" creationid="Olivier" creationdate="20200507T102140Z">
+        <seg>Qualité des services</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Quality of living of the city.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T141945Z" creationid="Olivier" creationdate="20200503T141945Z">
@@ -26777,6 +26833,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The brand rating of the bank in this city.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102329Z" creationid="Olivier" creationdate="20200507T102329Z">
+        <seg>Le classement de la marque de la banque dans cette ville.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The budget for upgrading the facilities of this civic building.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T143426Z" creationid="Olivier" creationdate="20200504T143426Z">
@@ -27421,6 +27485,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T101839Z" creationid="Olivier" creationdate="20200427T101839Z">
         <seg>La progression du projet.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The quality of service of this bank branch is primarily determined by the #staff skill level# and the #customer waiting time#.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102209Z" creationid="Olivier" creationdate="20200507T102209Z">
+        <seg>La qualité du service de cette agence bancaire est principalement déterminée par le #niveau de compétence du personnel# et le #temps d'attente des clients#.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29538,6 +29610,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To serve your customers better, you should open new branches whenever the customer waiting time is alarmingly long.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102117Z" creationid="Olivier" creationdate="20200507T102112Z">
+        <seg>Pour mieux servir vos clients, vous devriez ouvrir de nouvelles agences chaque fois que le temps d'attente des clients est excessivement long.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To so, simply repeat the steps that you just did for setting up your first department store.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T211836Z" creationid="Olivier" creationdate="20200422T211836Z">
@@ -31046,6 +31126,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T150721Z" creationid="Olivier" creationdate="20200503T150721Z">
         <seg>Lors de la sélection d'un fournisseur, le coût du fret n'est pas un facteur important à prendre en compte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the #customer waiting time# is higher than 30, it starts to negatively affect the #quality of service#.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102245Z" creationid="Olivier" creationdate="20200507T102245Z">
+        <seg>Lorsque le #temps d'attente du client# est supérieur à 30, cela commence à affecter négativement la #qualité du service#.</seg>
       </tuv>
     </tu>
     <tu>
