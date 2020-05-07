@@ -1638,6 +1638,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A stock split increases the total number of shares in a corporation and diminishes its stock price.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T154000Z" creationid="Olivier" creationdate="20200507T154000Z">
+        <seg>Un fractionnement d'actions augmente le nombre total d'actions d'une société et diminue son cours.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A strategy advice for you: concentrate on the products you are already manufacturing, build new retail stores and ultimately dominate the market!^^And when you are ready to expand your business into other cities, remember to use the ~Mini map~ to switch between cities.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T195816Z" creationid="Acer" creationdate="20200424T182122Z">
@@ -7726,6 +7734,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DIVIDEAR</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T154055Z" creationid="Olivier" creationdate="20200507T154055Z">
+        <seg>DIVIDEAR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DIVIDMAX</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T154013Z" creationid="Olivier" creationdate="20200507T154013Z">
+        <seg>DIVIDMAX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DIVIDPAY</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T154138Z" creationid="Olivier" creationdate="20200507T154138Z">
+        <seg>DIVIDPAY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>DIVPAYO</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T160115Z" creationid="Olivier" creationdate="20200504T160115Z">
@@ -8622,10 +8654,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Display the next production that uses the pinned input.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155027Z" creationid="Olivier" creationdate="20200507T155027Z">
+        <seg>Afficher la prochaine production qui utilise l'entrée épinglée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Display the previous building - city view is centered on building</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103142Z" creationid="Olivier" creationdate="20200502T102258Z">
         <seg>Affiche le bâtiment précédent - la vue de la ville est centrée sur le bâtiment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Display the previous production that uses the pinned input.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T154835Z" creationid="Olivier" creationdate="20200507T154607Z">
+        <seg>Afficher la production précédente qui utilisée l'intrant épinglée</seg>
       </tuv>
     </tu>
     <tu>
@@ -16377,6 +16425,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is allowed when the stock price is over $100.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T154012Z" creationid="Olivier" creationdate="20200507T154012Z">
+        <seg>Elle est autorisée lorsque le prix de l'action est supérieur à 100 dollars.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is an equity valuation multiple, defined as the stock price divided by Earnings Per Share.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T152136Z" creationid="Olivier" creationdate="20200504T152136Z">
@@ -18249,6 +18305,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Maximum Special Dividend</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T154024Z" creationid="Olivier" creationdate="20200507T154024Z">
+        <seg>Dividende spécial maximum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mayor Approval Rating</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150454Z" creationid="Olivier" creationdate="20200504T150454Z">
@@ -18773,6 +18837,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142614Z" creationid="Olivier" creationdate="20200502T142614Z">
         <seg>Projet de recherche suivant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Next production</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T154858Z" creationid="Olivier" creationdate="20200507T154858Z">
+        <seg>Production suivante</seg>
       </tuv>
     </tu>
     <tu>
@@ -20505,6 +20577,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>PINNEXT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T154836Z" creationid="Olivier" creationdate="20200507T154836Z">
+        <seg>PINNEXT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PINPREV</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T154300Z" creationid="Olivier" creationdate="20200507T154300Z">
+        <seg>PINPREV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>PLANALL</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T155908Z" creationid="Olivier" creationdate="20200504T155908Z">
@@ -21153,6 +21241,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pay a Special Dividend</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T154151Z" creationid="Olivier" creationdate="20200507T154151Z">
+        <seg>Payer un dividende spécial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>People emigrating from the city.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T145615Z" creationid="Olivier" creationdate="20200504T145615Z">
@@ -21309,6 +21405,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T221705Z" creationid="Olivier" creationdate="20200424T221705Z">
         <seg>Choisir les bons titres à investir est une compétence qui prend du temps à développer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pin Input</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T154735Z" creationid="Olivier" creationdate="20200507T154235Z">
+        <seg>Épingler l'intrant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pin the current input.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T154521Z" creationid="Olivier" creationdate="20200507T154244Z">
+        <seg>Épinglez l'entrée actuelle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22937,6 +23049,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Previous production</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T154807Z" creationid="Olivier" creationdate="20200507T154449Z">
+        <seg>Production précédente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Price Agreement|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150712Z" creationid="Inrepublica" creationdate="20200425T150712Z">
@@ -24205,6 +24325,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T222142Z" creationid="Olivier" creationdate="20200429T222142Z">
         <seg>Retailing=50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Retained Earnings</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T154110Z" creationid="Olivier" creationdate="20200507T154110Z">
+        <seg>Bénéfices non distribués</seg>
       </tuv>
     </tu>
     <tu>
@@ -28329,6 +28457,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The maximum amount of special dividend you can pay is the smaller value of 1) the company's cash and 2) its retained earnings.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T154053Z" creationid="Olivier" creationdate="20200507T154053Z">
+        <seg>Le montant maximal du dividende spécial que vous pouvez verser est la valeur la plus faible entre 1) les liquidités de la société et 2) ses bénéfices non distribués.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The maximum amounts of bonds that a corporation can issue is limited to a multiple of its capitalization, which is set here.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202908Z" creationid="Inrepublica" creationdate="20200422T202908Z">
@@ -28645,6 +28781,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T180156Z" creationid="Acer" creationdate="20200424T180156Z">
         <seg>Le rapport montre la "domination du marché par industrie" ainsi que ~par classe de produits~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The retained earnings are the accumulative net earnings of a company.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T154126Z" creationid="Olivier" creationdate="20200507T154126Z">
+        <seg>Les bénéfices non distribués sont les bénéfices nets cumulés d'une société.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29150,6 +29294,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T094747Z" creationid="Olivier" creationdate="20200424T094537Z">
         <seg>Sélectionnez ensuite ~Acier~ dans la liste des fournisseurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then you may browse productions that use the current input.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T154446Z" creationid="Olivier" creationdate="20200507T154227Z">
+        <seg>Vous pouvez ensuite parcourir les productions qui utilisent l'entrée actuelle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32978,6 +33130,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can view it on the Balance Sheet at the Corporate Details screen.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T154137Z" creationid="Olivier" creationdate="20200507T154137Z">
+        <seg>Vous pouvez le consulter sur le bilan à l'écran Détails de la société.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You cannot build any more new ones.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T083139Z" creationid="Olivier" creationdate="20200507T083139Z">
@@ -33438,6 +33598,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T101608Z" creationid="Olivier" creationdate="20200423T152342Z">
         <seg>Vous pouvez l'ouvrir à tout moment en ouvrant le ~Centre d'informations~ puis en sélectionnant ~Rapport d'objectif~, ou en appuyant sur la touche de raccourci 'G'~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may pay a special dividend from your company or a subsidiary with a controlling interest of at least 75%.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T154207Z" creationid="Olivier" creationdate="20200507T154207Z">
+        <seg>Vous pouvez verser un dividende spécial de votre société ou d'une filiale détenant une participation de contrôle d'au moins 75 %.</seg>
       </tuv>
     </tu>
     <tu>
