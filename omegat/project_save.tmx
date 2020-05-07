@@ -7326,6 +7326,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>D_PC</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T092850Z" creationid="Olivier" creationdate="20200507T092850Z">
+        <seg>D_PC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>D_PCI</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T092947Z" creationid="Olivier" creationdate="20200507T092947Z">
+        <seg>D_PCI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Daily Stock Graph</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T140756Z" creationid="Olivier" creationdate="20200502T140533Z">
@@ -15601,6 +15617,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It shows the number of personal computer users in this city.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T092938Z" creationid="Olivier" creationdate="20200507T092938Z">
+        <seg>Cela indique le nombre d'utilisateurs d'ordinateurs personnels dans cette ville.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It shows the number of personal computer users who have access to the Internet in this city.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T093144Z" creationid="Olivier" creationdate="20200507T093003Z">
+        <seg>Cela indique le nombre d'utilisateurs d'ordinateurs personnels qui ont accès à l'Internet dans cette ville.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It shows the percentage of the product demand at this purchasing unit is met by the supply.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150728Z" creationid="Olivier" creationdate="20200502T150728Z">
@@ -20105,6 +20137,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Personal Computer Users</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T092945Z" creationid="Olivier" creationdate="20200507T092906Z">
+        <seg>Utilisateurs d'ordinateurs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Personal Savings Rate Modifier</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T170947Z" creationid="Inrepublica" creationdate="20200422T170947Z">
@@ -22233,6 +22273,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>RAISEALL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T092832Z" creationid="Olivier" creationdate="20200507T092832Z">
+        <seg>RAISEALL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>RAISESAL</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T092802Z" creationid="Olivier" creationdate="20200507T092802Z">
@@ -22365,6 +22413,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T151910Z" creationid="Olivier" creationdate="20200502T151910Z">
         <seg>Elevage de bétail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Raise the salaries of all team leads in this firm.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T092849Z" creationid="Olivier" creationdate="20200507T092849Z">
+        <seg>Augmenter les salaires de tous les chefs d'équipe dans cet établissement.</seg>
       </tuv>
     </tu>
     <tu>
