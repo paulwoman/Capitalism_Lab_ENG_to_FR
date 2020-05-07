@@ -2942,6 +2942,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Apps Availability</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T092450Z" creationid="Olivier" creationdate="20200507T092450Z">
+        <seg>Disponibilité des applications</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Are you competent enough to acheive this monumental task?</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T221445Z" creationid="Olivier" creationdate="20200429T221445Z">
@@ -13665,6 +13673,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>INET_PRX</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T092401Z" creationid="Olivier" creationdate="20200507T092401Z">
+        <seg>INET_PRX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>INPUT|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155534Z" creationid="Inrepublica" creationdate="20200425T155534Z">
@@ -15357,6 +15373,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T101137Z" creationid="Olivier" creationdate="20200427T101137Z">
         <seg>Elle ne peut plus fabriquer de biens même si l'offre et la demande augmentent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It contributes to the OS's overall rating.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T092518Z" creationid="Olivier" creationdate="20200507T092518Z">
+        <seg>It contributes to the OS's overall rating.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17617,6 +17641,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Next Month Internet Pricing</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T092411Z" creationid="Olivier" creationdate="20200507T092411Z">
+        <seg>Prix de l'Internet pour le mois prochain</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Next Product</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103702Z" creationid="Olivier" creationdate="20200502T103702Z">
@@ -18805,6 +18837,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200505T161952Z" creationid="Olivier" creationdate="20200505T161952Z">
         <seg>OPTIONS (O)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OSRATING</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T092429Z" creationid="Olivier" creationdate="20200507T092429Z">
+        <seg>OSRATING</seg>
       </tuv>
     </tu>
     <tu>
@@ -23913,6 +23953,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Set a new Internet monthly subscription fee that will become effective next month.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T092428Z" creationid="Olivier" creationdate="20200507T092428Z">
+        <seg>Fixer un nouveau tarif d'abonnement mensuel à Internet qui entrera en vigueur le mois prochain</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Set dividend to be paid to shareholders at year end</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T143129Z" creationid="Olivier" creationdate="20200502T143129Z">
@@ -27698,6 +27746,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This indicates whether there are enough application software available for this OS.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T092458Z" creationid="Olivier" creationdate="20200507T092458Z">
+        <seg>Cela indique s'il y a suffisamment de logiciels d'application disponibles pour ce système d'exploitation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is a farm product.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150116Z" creationid="Olivier" creationdate="20200502T150116Z">
@@ -27764,8 +27820,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>This is the monthly subscription fee that the company charges customers for the Internet services provided.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T092354Z" creationid="Olivier" creationdate="20200507T092354Z">
-        <seg>This is the monthly subscription fee that the company charges customers for the Internet services provided.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T092400Z" creationid="Olivier" creationdate="20200507T092354Z">
+        <seg>Il s'agit des frais d'abonnement mensuels que l'entreprise facture aux clients pour les services Internet fournis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27902,6 +27958,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T120847Z" creationid="Olivier" creationdate="20200428T120614Z">
         <seg>This product uses Noto fonts from Google.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This rating is calculated based on the variety of the software applications available for this OS and their quality ratings.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T092521Z" creationid="Olivier" creationdate="20200507T092516Z">
+        <seg>Cette note est calculée en fonction de la variété des applications logicielles disponibles pour ce système d'exploitation et de leur qualité.</seg>
       </tuv>
     </tu>
     <tu>
