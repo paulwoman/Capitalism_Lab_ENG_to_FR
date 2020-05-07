@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(#Better supplies mean products with higher overall ratings with no shortage of supply.#) The AI will NOT change the product type when it sources new supplies.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T081738Z" creationid="Olivier" creationdate="20200507T081738Z">
+        <seg>(#Par meilleurs approvisionnements, on entend des produits dont la note globale est plus élevée sans qu'il y ait pénurie d'approvisionnement)#. L'IA ne changera PAS le type de produit lorsqu'elle s'approvisionnera en nouveaux produits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Années)|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150650Z" creationid="Inrepublica" creationdate="20200425T150650Z">
@@ -6014,6 +6022,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to enable notifications about completions of R&amp;D projects in the Event Tracker.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T081508Z" creationid="Olivier" creationdate="20200507T081508Z">
+        <seg>Cliquez pour activer les notifications d'achèvement des projets de R&amp;D dans le suivi des événements.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to hear sound effects</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T102824Z" creationid="Olivier" creationdate="20200428T163208Z">
@@ -8978,6 +8994,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T103356Z" creationid="Olivier" creationdate="20200503T103356Z">
         <seg>F_OSALE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>F_RETAIL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T081739Z" creationid="Olivier" creationdate="20200507T081739Z">
+        <seg>F_RETAIL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>F_SUPPLY</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T081509Z" creationid="Olivier" creationdate="20200507T081509Z">
+        <seg>F_SUPPLY</seg>
       </tuv>
     </tu>
     <tu>
@@ -15949,6 +15981,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T210018Z" creationid="Acer" creationdate="20200424T210018Z">
         <seg>Regardez la section ~Qui~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Look for better products to sell in retail stores</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T081754Z" creationid="Olivier" creationdate="20200507T081754Z">
+        <seg>Rechercher de meilleurs produits à vendre dans les magasins de détail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Look for better supplies</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T081545Z" creationid="Olivier" creationdate="20200507T081545Z">
+        <seg>Rechercher de meilleures fournitures</seg>
       </tuv>
     </tu>
     <tu>
@@ -26982,6 +27030,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164154Z" creationid="Inrepublica" creationdate="20200422T164154Z">
         <seg>Cela détermine si les sociétés d'IA peuvent acquérir des sociétés privées indépendantes ou non.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This determines whether the AI executive should look for better supplies in retail stores, factories and warehouses.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T081635Z" creationid="Olivier" creationdate="20200507T081635Z">
+        <seg>Cela détermine si la Direction de l'AI doit chercher à s'approvisionner dans les magasins de détail, les usines et les entrepôts.</seg>
       </tuv>
     </tu>
     <tu>
