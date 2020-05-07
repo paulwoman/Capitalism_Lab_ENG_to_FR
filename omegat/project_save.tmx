@@ -1390,6 +1390,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A high index value indicates that the product is necessary to people in their daily lives.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T152641Z" creationid="Olivier" creationdate="20200507T152641Z">
+        <seg>Une valeur d'indice élevée indique que le produit est nécessaire aux personnes dans leur vie quotidienne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A high number of consumer seaports increases the availability of consumer goods which companies may import and sell at retail.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T155220Z" creationid="Inrepublica" creationdate="20200422T160045Z">
@@ -1930,6 +1938,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145934Z" creationid="Inrepublica" creationdate="20200422T145934Z">
         <seg>AIINSURT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AINPCOST</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T152503Z" creationid="Olivier" creationdate="20200507T152503Z">
+        <seg>AINPCOST</seg>
       </tuv>
     </tu>
     <tu>
@@ -6686,6 +6702,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Client Deposits</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T152710Z" creationid="Olivier" creationdate="20200507T152710Z">
+        <seg>Dépôts des clients</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Close</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150245Z" creationid="Olivier" creationdate="20200502T150245Z">
@@ -7446,6 +7470,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cost of the Input</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T152518Z" creationid="Olivier" creationdate="20200507T152518Z">
+        <seg>Coût de l'intrant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cuir|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155538Z" creationid="Inrepublica" creationdate="20200425T155538Z">
@@ -7602,6 +7634,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T103904Z" creationid="Olivier" creationdate="20200507T103904Z">
         <seg>DEPOHQ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DEPOSBRA</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T152653Z" creationid="Olivier" creationdate="20200507T152653Z">
+        <seg>DEPOSBRA</seg>
       </tuv>
     </tu>
     <tu>
@@ -13161,6 +13201,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hotkey: Ctrl-D or F10</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T152501Z" creationid="Olivier" creationdate="20200507T152501Z">
+        <seg>Raccourcis : Ctrl-D ou F10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hotkey: Ctrl-I</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T103648Z" creationid="Olivier" creationdate="20200506T103648Z">
@@ -14737,6 +14785,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I_CDET2</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T152445Z" creationid="Olivier" creationdate="20200507T152445Z">
+        <seg>I_CDET2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I_CITY</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T105005Z" creationid="Olivier" creationdate="20200503T105005Z">
@@ -15453,6 +15509,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151858Z" creationid="Olivier" creationdate="20200504T151858Z">
         <seg>En d'autres termes, il s'agit de la valeur marchande totale de l'entreprise sur le marché boursier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In other words: &lt;this cost price&gt; = &lt;cost price at the Purchasing Unit&gt; X &lt;Quantity of the Input&gt; / &lt;Quantity of the Finished Product&gt; shown on the Manufacturer Guide.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T152613Z" creationid="Olivier" creationdate="20200507T152613Z">
+        <seg>En d'autres termes : &lt;ce prix de revient&gt; = &lt;prix de revient à l'unité d'achat&gt; X &lt;quantité de l'intrant&gt; / &lt;quantité du produit fini&gt; indiqué sur le guide du fabricant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18329,6 +18393,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>NECEINDX</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T152615Z" creationid="Olivier" creationdate="20200507T152615Z">
+        <seg>NECEINDX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>NEWGAME</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T101553Z" creationid="Olivier" creationdate="20200507T101553Z">
@@ -18453,6 +18525,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T105127Z" creationid="Olivier" creationdate="20200430T105127Z">
         <seg>National wage rate=70</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Necessity Index</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T152629Z" creationid="Olivier" creationdate="20200507T152629Z">
+        <seg>Indice des besoins</seg>
       </tuv>
     </tu>
     <tu>
@@ -18709,6 +18789,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T103232Z" creationid="Olivier" creationdate="20200507T103232Z">
         <seg>Notez que ces prêts, ainsi que les prêts aux entreprises locales, constituent les totaux des prêts indiqués sur la page [Tous les prêts].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Note that this cost price may be different from the cost price shown at the Purchasing Unit, as it takes into account the quantity of the input required for the production.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T152531Z" creationid="Olivier" creationdate="20200507T152531Z">
+        <seg>Notez que ce prix de revient peut être différent du prix de revient indiqué à l'unité d'achat, car il tient compte de la quantité d'intrants nécessaires à la production.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27681,6 +27769,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The demand for necessary goods is fairly constant, because people must buy them even if the price they are offered is not attractive.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T152652Z" creationid="Olivier" creationdate="20200507T152652Z">
+        <seg>La demande de biens nécessaires est assez constante, car les gens doivent les acheter même si le prix qui leur est proposé n'est pas intéressant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The duration of the R&amp;D project.^</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T103343Z" creationid="Olivier" creationdate="20200427T102518Z">
@@ -27717,6 +27813,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T110119Z" creationid="Olivier" creationdate="20200423T143421Z">
         <seg>Le chiffre dans le coin supérieur droit de l'unité est le ~niveau de l'unité~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The figure shows the total client deposits and the year-over-year growth rate.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T152935Z" creationid="Olivier" creationdate="20200507T152935Z">
+        <seg>The figure shows the total client deposits and the year-over-year growth rate.</seg>
       </tuv>
     </tu>
     <tu>
