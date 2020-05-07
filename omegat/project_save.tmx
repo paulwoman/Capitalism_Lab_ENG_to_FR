@@ -12193,10 +12193,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>HEADHUNT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T090630Z" creationid="Olivier" creationdate="20200507T090630Z">
+        <seg>HEADHUNT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>HIREALL</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T082554Z" creationid="Olivier" creationdate="20200507T082554Z">
         <seg>HIREALL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HIREONE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T090607Z" creationid="Olivier" creationdate="20200507T090607Z">
+        <seg>HIREONE</seg>
       </tuv>
     </tu>
     <tu>
@@ -12229,6 +12245,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T215600Z" creationid="Olivier" creationdate="20200429T215600Z">
         <seg>La limite est-elle déjà atteinte ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Headhunt</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T090659Z" creationid="Olivier" creationdate="20200507T090659Z">
+        <seg>[</seg>
       </tuv>
     </tu>
     <tu>
@@ -12385,6 +12409,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hire</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T090618Z" creationid="Olivier" creationdate="20200507T090618Z">
+        <seg>Engager</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hire Chief Marketing Officer</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T104221Z" creationid="Olivier" creationdate="20200502T104221Z">
@@ -12429,6 +12461,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T145700Z" creationid="Olivier" creationdate="20200502T145700Z">
         <seg>Engager un nouveau directeur technique..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hire a team lead for the current functional unit.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T090628Z" creationid="Olivier" creationdate="20200507T090628Z">
+        <seg>Engager un chef d'équipe pour l'unité fonctionnelle actuelle.</seg>
       </tuv>
     </tu>
     <tu>
