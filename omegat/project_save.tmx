@@ -216,8 +216,8 @@
       <tuv lang="en-US">
         <seg>(The more loyal the person is to his/her current employer, the higher the salary you must offer.)</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T090723Z" creationid="Olivier" creationdate="20200507T090723Z">
-        <seg>(The plus loyal the person is to his/her current employer, the higher the salary you must offer.)</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T091200Z" creationid="Olivier" creationdate="20200507T090723Z">
+        <seg>(Plus la personne est loyale envers son employeur actuel, plus le salaire que vous devez lui offrir est élevé.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8418,6 +8418,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T145605Z" creationid="Olivier" creationdate="20200504T145605Z">
         <seg>EMIGRATI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>EMPTRANS</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T091201Z" creationid="Olivier" creationdate="20200507T091201Z">
+        <seg>EMPTRANS</seg>
       </tuv>
     </tu>
     <tu>
@@ -28668,8 +28676,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>To headhunt a person, you must offer a higher salary and a signup bonus.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T090753Z" creationid="Olivier" creationdate="20200507T090753Z">
-        <seg>To siège social a person, you must offer a higher salary and a signup bonus.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T091115Z" creationid="Olivier" creationdate="20200507T091115Z">
+        <seg>Pour recruter une personne, vous devez lui offrir un salaire plus élevé et une prime d'inscription.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29082,6 +29090,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Transfer</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T091237Z" creationid="Olivier" creationdate="20200507T091237Z">
+        <seg>Transfert</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Transfer or Demolish this apartment</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092420Z" creationid="Olivier" creationdate="20200506T092420Z">
@@ -29094,6 +29110,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092452Z" creationid="Olivier" creationdate="20200506T092452Z">
         <seg>Transférer ou démolir ce bâtiment commercial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Transfer this employee from another company under your group to the current firm.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T091329Z" creationid="Olivier" creationdate="20200507T091329Z">
+        <seg>Transférez cet employé d'une autre entreprise de votre groupe à l'établissement actuel.</seg>
       </tuv>
     </tu>
     <tu>
