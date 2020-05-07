@@ -14105,6 +14105,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>INBRAND</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151049Z" creationid="Olivier" creationdate="20200507T151049Z">
+        <seg>INBRAND</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>INET_PR</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T091601Z" creationid="Olivier" creationdate="20200507T091601Z">
@@ -14129,10 +14137,34 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>INHQSERV</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151031Z" creationid="Olivier" creationdate="20200507T151031Z">
+        <seg>INHQSERV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>INHQSKIL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T150905Z" creationid="Olivier" creationdate="20200507T150905Z">
+        <seg>INHQSKIL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>INHQTRAI</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T150554Z" creationid="Olivier" creationdate="20200507T150554Z">
         <seg>INHQTRAI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>INHQWAIT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151019Z" creationid="Olivier" creationdate="20200507T151019Z">
+        <seg>INHQWAIT</seg>
       </tuv>
     </tu>
     <tu>
@@ -14805,6 +14837,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102738Z" creationid="Olivier" creationdate="20200507T102738Z">
         <seg>Si le #DLC simulation économique de la ville# est activé, le niveau de compétence est également affecté par le niveau d'éducation des personnes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the #City Economics Simulation DLC# is enabled, the skill level is also affected by the #education level# of people.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151018Z" creationid="Olivier" creationdate="20200507T151018Z">
+        <seg>]Si le #DLC simulation économique de la ville# est activé, le niveau de compétence est également affecté par le niveau d'éducation des personnes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15825,6 +15865,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Insurance Brand Rating</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151213Z" creationid="Olivier" creationdate="20200507T151213Z">
+        <seg>Classement de la marque de l'assurance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Insurance Claims</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T194450Z" creationid="Inrepublica" creationdate="20200422T194412Z">
@@ -15933,6 +15981,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102650Z" creationid="Olivier" creationdate="20200507T102650Z">
         <seg>Cela affecte la #qualité de service# globale de la banque. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It affects the overall #service quality# of the insurance company.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T150958Z" creationid="Olivier" creationdate="20200507T150958Z">
+        <seg>Cela affecte la #qualité du service# de la compagnie d'assurance.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27113,6 +27169,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The average customer waiting time of all the insurance company's insurance front offices.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151030Z" creationid="Olivier" creationdate="20200507T151030Z">
+        <seg>Le temps d'attente moyen des clients de tous les guichets des compagnies d'assurance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The average ratings are derived from your competitors' products and your products.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150554Z" creationid="Olivier" creationdate="20200502T150554Z">
@@ -27129,10 +27193,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The average service qualty of all the insurance company's insurance front offices.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151047Z" creationid="Olivier" creationdate="20200507T151047Z">
+        <seg>La qualité de service moyenne de tous les guichets des compagnies d'assurance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The average staff skill level of all the bank's branches.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102607Z" creationid="Olivier" creationdate="20200507T102607Z">
         <seg>Le niveau de compétence moyen du personnel de toutes les agences de la banque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The average staff skill level of all the insurance company's front offices.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T150916Z" creationid="Olivier" creationdate="20200507T150916Z">
+        <seg>Le niveau de compétence moyen du personnel de tous les bureaux de la compagnie d'assurance.</seg>
       </tuv>
     </tu>
     <tu>
