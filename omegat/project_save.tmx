@@ -6294,6 +6294,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to set the monthly budget for upgrading infrastructure.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T093947Z" creationid="Olivier" creationdate="20200507T093947Z">
+        <seg>Cliquez pour définir le budget mensuel pour la modernisation des infrastructures.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to terminate employment</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T104004Z" creationid="Olivier" creationdate="20200502T104004Z">
@@ -8250,6 +8258,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T145755Z" creationid="Olivier" creationdate="20200428T145755Z">
         <seg>Ne tenez pas compte des offres d'autres entreprises pour l'achat de votre technologie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do not show software products that have no sales in the past 36 months.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T093935Z" creationid="Olivier" creationdate="20200507T093935Z">
+        <seg>Ne pas montrer les produits logiciels qui n'ont pas été vendus au cours des 36 derniers mois.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12289,6 +12305,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>HIDEINAC</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T093855Z" creationid="Olivier" creationdate="20200507T093855Z">
+        <seg>HIDEINAC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>HIREALL</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T082554Z" creationid="Olivier" creationdate="20200507T082554Z">
@@ -12437,6 +12461,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T101555Z" creationid="Olivier" creationdate="20200423T152321Z">
         <seg>Voici un rappel de votre objectif pour ce tutoriel : atteindre ~des recettes annuelles de 50 millions de dollars~ et ~un bénéfice annuel de 5 millions de dollars~. Le ~Rapport d'objectif~ donne un résumé de l'état de votre objectif.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hide Inactive Software Products</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T093909Z" creationid="Olivier" creationdate="20200507T093909Z">
+        <seg>Cacher les logiciels inactif</seg>
       </tuv>
     </tu>
     <tu>
@@ -13717,6 +13749,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T092401Z" creationid="Olivier" creationdate="20200507T092401Z">
         <seg>INET_PRX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>INF_BD</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T093936Z" creationid="Olivier" creationdate="20200507T093936Z">
+        <seg>INF_BD</seg>
       </tuv>
     </tu>
     <tu>
@@ -24057,6 +24097,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Set a budget here for upgrading its infrastructure capacity if most of its capacity has already been utilized.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T094045Z" creationid="Olivier" creationdate="20200507T094045Z">
+        <seg>Fixez un budget pour la mise à niveau de ses capacités d'infrastructure si la plupart de ses capacités ont déjà été utilisées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Set a new Internet monthly subscription fee that will become effective next month.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T092428Z" creationid="Olivier" creationdate="20200507T092428Z">
@@ -26733,6 +26781,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T083008Z" creationid="Olivier" creationdate="20200507T083008Z">
         <seg>Le nombre maximum de villes autorisées dans une partie a été atteint.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The maximum number of subscribers that your telecom can serve is limited by its infrastructure capacity.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T094030Z" creationid="Olivier" creationdate="20200507T094030Z">
+        <seg>Le nombre maximum d'abonnés que votre entreprise de télécommunications peut desservir est limité par la capacité de son infrastructure.</seg>
       </tuv>
     </tu>
     <tu>
