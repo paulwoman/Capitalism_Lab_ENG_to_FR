@@ -2574,6 +2574,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All Defaults</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T103301Z" creationid="Olivier" creationdate="20200507T103240Z">
+        <seg>Tous les défauts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All Loans</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T103130Z" creationid="Olivier" creationdate="20200507T103130Z">
@@ -7482,6 +7490,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200427T075737Z" creationid="Inrepublica" creationdate="20200427T075737Z">
         <seg>Custom|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DEFALL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T103234Z" creationid="Olivier" creationdate="20200507T103234Z">
+        <seg>DEFALL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DEFGRP</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T103305Z" creationid="Olivier" creationdate="20200507T103305Z">
+        <seg>DEFGRP</seg>
       </tuv>
     </tu>
     <tu>
@@ -24549,6 +24573,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T103216Z" creationid="Olivier" creationdate="20200507T103216Z">
         <seg>Sélectionnez cette option pour afficher une liste des prêts qui ont été accordés à des sociétés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select this to show all bad loans that have been defaulted.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T103717Z" creationid="Olivier" creationdate="20200507T103242Z">
+        <seg>Sélectionnez cette option pour afficher tous les prêts irrécouvrables qui n'ont pas été remboursés.</seg>
       </tuv>
     </tu>
     <tu>
