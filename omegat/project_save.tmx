@@ -8854,6 +8854,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Example: enter "Computer Watch London" to search for computers and watches from suppliers in London.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T085814Z" creationid="Olivier" creationdate="20200507T085814Z">
+        <seg>Exemple : entrez "Ordinateur Montre Londres" pour rechercher des ordinateurs et des montres de fournisseurs à Londres.&lt;segment 33181&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Excellent!</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T145223Z" creationid="Olivier" creationdate="20200423T145223Z">
@@ -19441,6 +19449,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>PS_FIND2</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T085530Z" creationid="Olivier" creationdate="20200507T085530Z">
+        <seg>PS_FIND2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>PS_PROD</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150939Z" creationid="Olivier" creationdate="20200504T150939Z">
@@ -21745,6 +21761,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Product types, product classes, company names, firm names, firm descriptions, and city names.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T085609Z" creationid="Olivier" creationdate="20200507T085609Z">
+        <seg>Types de produits, classes de produits, noms de sociétés, noms d'entreprises, descriptions d'entreprises et noms de villes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Product=All</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164800Z" creationid="Olivier" creationdate="20200429T164800Z">
@@ -23413,6 +23437,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T103756Z" creationid="Olivier" creationdate="20200503T103756Z">
         <seg>Recherche d'un produit spécifique (touche de raccourci : onglet)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Search for suppliers by entering any of the following:</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T085559Z" creationid="Olivier" creationdate="20200507T085559Z">
+        <seg>Recherchez des fournisseurs en entrant l'un des éléments suivants :</seg>
       </tuv>
     </tu>
     <tu>
@@ -28756,8 +28788,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>Toggle the display of product images on the 3x3 layout area.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T084034Z" creationid="Olivier" creationdate="20200507T084034Z">
-        <seg>Basculez vers the display of produit images on the 3x3 disposition région.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T085549Z" creationid="Olivier" creationdate="20200507T084034Z">
+        <seg>Basculer l'affichage des images de produits sur la zone de mise en page 3x3.Basculez vers the display of produit images on the 3x3 disposition région.</seg>
       </tuv>
     </tu>
     <tu>
