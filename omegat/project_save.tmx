@@ -4350,6 +4350,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CONCERNS</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T095446Z" creationid="Olivier" creationdate="20200507T095446Z">
+        <seg>CONCERNS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CONFIRMP</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151006Z" creationid="Olivier" creationdate="20200504T151006Z">
@@ -6802,6 +6810,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160419Z" creationid="Inrepublica" creationdate="20200422T160419Z">
         <seg>L'importation constante évite de devoir chercher de nouveaux fournisseurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Consumer Concerns</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T095616Z" creationid="Olivier" creationdate="20200507T095616Z">
+        <seg>Préoccupations de la clientèle</seg>
       </tuv>
     </tu>
     <tu>
@@ -27526,6 +27542,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T213806Z" creationid="Olivier" creationdate="20200422T170239Z">
         <seg>La ~barre jaune APPROVISIONNEMENT~ indique la quantité de produit que vous avez en magasin et la ~barre orange de DEMANDE~ mesure la demande du consommateur pour ce produit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Their product ratings are shown here.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T095444Z" creationid="Olivier" creationdate="20200507T095444Z">
+        <seg>Les évaluations de leurs produits sont présentées ici.</seg>
       </tuv>
     </tu>
     <tu>
