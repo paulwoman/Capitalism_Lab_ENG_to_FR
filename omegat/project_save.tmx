@@ -1646,10 +1646,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ADV_DEL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T083834Z" creationid="Olivier" creationdate="20200507T083834Z">
+        <seg>ADV_DEL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ADV_GO</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T083817Z" creationid="Olivier" creationdate="20200507T083817Z">
+        <seg>ADV_GO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ADV_LINK</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T085348Z" creationid="Inrepublica" creationdate="20200426T085348Z">
         <seg>ADV_LINK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ADV_NEW</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T083845Z" creationid="Olivier" creationdate="20200507T083845Z">
+        <seg>ADV_NEW</seg>
       </tuv>
     </tu>
     <tu>
@@ -7310,6 +7334,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Delete this media link.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T083844Z" creationid="Olivier" creationdate="20200507T083844Z">
+        <seg>Supprimer ce lien média</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Demand/supply index for services provided by this civic building</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T143818Z" creationid="Olivier" creationdate="20200504T143818Z">
@@ -10724,6 +10756,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T091450Z" creationid="Olivier" creationdate="20200503T091450Z">
         <seg>Aller au centre de R&amp;D responsable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to the software company that develops this software.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T083807Z" creationid="Olivier" creationdate="20200507T083807Z">
+        <seg>Aller voir l'entreprise qui développe ce logiciel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to this media</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T083832Z" creationid="Olivier" creationdate="20200507T083832Z">
+        <seg>Aller au Média</seg>
       </tuv>
     </tu>
     <tu>
@@ -16109,6 +16157,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T133756Z" creationid="Olivier" creationdate="20200426T133756Z">
         <seg>Reliez-la également à la première.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Link to a media firm</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T083915Z" creationid="Olivier" creationdate="20200507T083915Z">
+        <seg>Lier avec une entreprise médiatique</seg>
       </tuv>
     </tu>
     <tu>
@@ -22161,6 +22217,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Reach %</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T083744Z" creationid="Olivier" creationdate="20200507T083744Z">
+        <seg>REACH %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Real Estate</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102237Z" creationid="Olivier" creationdate="20200428T102237Z">
@@ -22389,6 +22453,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T092531Z" creationid="Olivier" creationdate="20200503T091849Z">
         <seg>Remplacer ce plan d'aménagement par celui de l'établissement actuel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Replace this link with a new link to another media.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T083816Z" creationid="Olivier" creationdate="20200507T083816Z">
+        <seg>Remplacez ce lien par un nouveau lien vers un autre média.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22713,6 +22785,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Run advertising for the current web site on another media firm to boost up the current web site's visitor traffic.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T083950Z" creationid="Olivier" creationdate="20200507T083950Z">
+        <seg>Faites de la publicité pour le site web actuel sur une autre entreprise de médias afin d'augmenter le nombre de visiteurs du site web actuel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>SAVE GAME (S or Alt-S)|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200505T161953Z" creationid="Olivier" creationdate="20200505T161953Z">
@@ -22869,6 +22949,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155520Z" creationid="Inrepublica" creationdate="20200425T155520Z">
         <seg>SKIP TUTORIAL|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SLOTIIMG</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T083951Z" creationid="Olivier" creationdate="20200507T083951Z">
+        <seg>SLOTIIMG</seg>
       </tuv>
     </tu>
     <tu>
@@ -25819,8 +25907,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>The advertising pricing is measured in the cost per thousand impressions.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T083651Z" creationid="Olivier" creationdate="20200507T083651Z">
-        <seg>The advertising pricing is measured in the cost per thousand impressions.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T083656Z" creationid="Olivier" creationdate="20200507T083651Z">
+        <seg>Le prix de la publicité est mesuré en coût pour mille impressions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26469,6 +26557,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T145408Z" creationid="Olivier" creationdate="20200504T145408Z">
         <seg>Le taux de rémunération des allocations de chômage en pourcentage du salaire de référence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The percentage of Internet users in all cities that visits this web.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T083753Z" creationid="Olivier" creationdate="20200507T083753Z">
+        <seg>Le pourcentage d'internautes dans toutes les villes qui visitent ce site.</seg>
       </tuv>
     </tu>
     <tu>
