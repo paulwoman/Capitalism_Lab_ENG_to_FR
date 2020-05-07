@@ -3494,6 +3494,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>B_ANY</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T152110Z" creationid="Olivier" creationdate="20200507T152110Z">
+        <seg>B_ANY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>B_BACK</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T152128Z" creationid="Inrepublica" creationdate="20200423T152128Z">
@@ -5698,6 +5706,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220951Z" creationid="Olivier" creationdate="20200429T220951Z">
         <seg>City=Winnipeg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Claims</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T152030Z" creationid="Olivier" creationdate="20200507T151957Z">
+        <seg>Réclamations</seg>
       </tuv>
     </tu>
     <tu>
@@ -14161,6 +14177,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>INCLAIM</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151954Z" creationid="Olivier" creationdate="20200507T151954Z">
+        <seg>INCLAIM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>INET_PR</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T091601Z" creationid="Olivier" creationdate="20200507T091601Z">
@@ -19725,6 +19749,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T145629Z" creationid="Olivier" creationdate="20200428T145629Z">
         <seg>OM_TO_B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OM_WSAD</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T152032Z" creationid="Olivier" creationdate="20200507T152032Z">
+        <seg>OM_WSAD</seg>
       </tuv>
     </tu>
     <tu>
@@ -29068,8 +29100,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>This figure shows the amount of insurance premium incomes from existing insurance policies in this past 365 days.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151748Z" creationid="Olivier" creationdate="20200507T151748Z">
-        <seg>This figure shows the amount of insurance premium incomes from existing insurance policies in this past 365 days.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151813Z" creationid="Olivier" creationdate="20200507T151748Z">
+        <seg>Ce chiffre indique le montant des revenus des primes d'assurance provenant des polices d'assurance existantes au cours des 365 derniers jours.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30530,6 +30562,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Total Insurance Premiums</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151826Z" creationid="Olivier" creationdate="20200507T151826Z">
+        <seg>Total des primes d'assurance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Total Number of Employees=1000</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T220129Z" creationid="Olivier" creationdate="20200428T220129Z">
@@ -30550,6 +30590,22 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T155855Z" creationid="Olivier" creationdate="20200504T155855Z">
         <seg>Rendement total pour les actionnaires (à vie)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Total claims paid to customers in the past 365 days.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T152009Z" creationid="Olivier" creationdate="20200507T152009Z">
+        <seg>Total des indemnités versées aux clients au cours des 365 derniers jours.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Total insurance premium incomes in this past 365 days.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151917Z" creationid="Olivier" creationdate="20200507T151917Z">
+        <seg>Total des revenus des primes d'assurance perçues au cours des 365 derniers jours.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31582,6 +31638,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103300Z" creationid="Olivier" creationdate="20200502T103300Z">
         <seg>WM_CW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>WSAD Keys</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T152047Z" creationid="Olivier" creationdate="20200507T152047Z">
+        <seg>Touches WSAD</seg>
       </tuv>
     </tu>
     <tu>
@@ -32822,6 +32886,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T134947Z" creationid="Olivier" creationdate="20200427T134947Z">
         <seg>Vous pouvez également créer des bureaux pour vos cadres supérieurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may assign the 'W', 'S', 'A' and 'D' keys as context sensitive shortcut keys or use them for scrolling the city map.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T152109Z" creationid="Olivier" creationdate="20200507T152109Z">
+        <seg>Vous pouvez attribuer les touches 'W', 'S', 'A' et 'D' comme touches de raccourci contextuelles ou les utiliser pour faire défiler le plan de la ville.</seg>
       </tuv>
     </tu>
     <tu>
