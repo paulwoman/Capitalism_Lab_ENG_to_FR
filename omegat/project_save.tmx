@@ -8310,6 +8310,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>EC_MARK</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T083238Z" creationid="Olivier" creationdate="20200507T083238Z">
+        <seg>EC_MARK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>EC_ON</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T083141Z" creationid="Olivier" creationdate="20200507T083141Z">
+        <seg>EC_ON</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>EC_PCT</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T085355Z" creationid="Inrepublica" creationdate="20200426T085355Z">
@@ -8690,6 +8706,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T081451Z" creationid="Olivier" creationdate="20200507T081451Z">
         <seg>Activer les notifications d'achèvement de R&amp;D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enable eCommerce Sales</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T083307Z" creationid="Olivier" creationdate="20200507T083156Z">
+        <seg>Activer les ventes en ligne</seg>
       </tuv>
     </tu>
     <tu>
@@ -10396,6 +10420,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T082929Z" creationid="Olivier" creationdate="20200507T082929Z">
         <seg>G_BCMAX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>G_BCMAXS</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T083044Z" creationid="Olivier" creationdate="20200507T083044Z">
+        <seg>G_BCMAXS</seg>
       </tuv>
     </tu>
     <tu>
@@ -23689,6 +23721,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Set the price markup for selling products from this firm on your eCommerce sites.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T083330Z" creationid="Olivier" creationdate="20200507T083330Z">
+        <seg>Set the price markup for selling products from this firm on your eCommerce sites.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Set up a new floor</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T105445Z" creationid="Olivier" creationdate="20200506T105445Z">
@@ -30026,6 +30066,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When you enable eCommerce sales for this firm, your eCommerce sites will add all consumer products from this firm to its catalog.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T083325Z" creationid="Olivier" creationdate="20200507T083211Z">
+        <seg>Lorsque vous activez les ventes en ligne pour cette entreprise, vos sites de commerce électronique ajouteront tous les produits de consommation de cette entreprise à son catalogue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When you eventually succeed in launching your own fashion company (expected to happen in year 2000), there will be established competitors in the market.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214159Z" creationid="Olivier" creationdate="20200429T214159Z">
@@ -30394,6 +30442,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can build a maximum of 15 cities.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T083108Z" creationid="Olivier" creationdate="20200507T083108Z">
+        <seg>Vous pouvez construire un maximum de 15 villes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can cancel this mode by clicking the ~My Firms~ button again.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T140731Z" creationid="Olivier" creationdate="20200422T211005Z">
@@ -30462,6 +30518,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T173821Z" creationid="Olivier" creationdate="20200504T173821Z">
         <seg>Vous pouvez ensuite utiliser la conception du produit dans vos unités de fabrication dans vos usines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You cannot build any more new ones.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T083139Z" creationid="Olivier" creationdate="20200507T083139Z">
+        <seg>Vous ne pouvez plus en construire de nouvelles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37353,6 +37417,14 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200505T162136Z" creationid="Olivier" creationdate="20200505T162136Z">
         <seg>Par exemple, vous avez défini une image personnalisée de smartphone avec un niveau technologique de 300.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>eCommerce Price Markup</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T083357Z" creationid="Olivier" creationdate="20200507T083310Z">
+        <seg>Majorations de prix pour la vente en ligne</seg>
       </tuv>
     </tu>
     <tu>
