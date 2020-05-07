@@ -5726,6 +5726,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click here to set the Corporation filter to "All" and the Firm Type filter to "Internet Company".</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T091537Z" creationid="Olivier" creationdate="20200507T091537Z">
+        <seg>Cliquez ici pour régler le filtre Société sur "Tous" et le filtre Type d'entreprise sur "Société Internet".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click here to set the manager of this firm (hotkey: 'z').</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T103728Z" creationid="Olivier" creationdate="20200503T103728Z">
@@ -7162,6 +7170,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202622Z" creationid="Inrepublica" creationdate="20200422T202622Z">
         <seg>Current Firm=My Department Store</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Current Internet Pricing</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T091613Z" creationid="Olivier" creationdate="20200507T091613Z">
+        <seg>Prix actuel d'internet</seg>
       </tuv>
     </tu>
     <tu>
@@ -12217,6 +12233,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>HEADSUBS</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T091332Z" creationid="Olivier" creationdate="20200507T091332Z">
+        <seg>HEADSUBS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>HIREALL</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T082554Z" creationid="Olivier" creationdate="20200507T082554Z">
@@ -12269,6 +12293,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T091023Z" creationid="Olivier" creationdate="20200507T090659Z">
         <seg>Recrutement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Headhunt Targets Include Subsidiaries</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T091447Z" creationid="Olivier" creationdate="20200507T091447Z">
+        <seg>Cibles de la recherche de candidats recrutés, y compris les filiales</seg>
       </tuv>
     </tu>
     <tu>
@@ -13625,6 +13657,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>INET_PR</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T091601Z" creationid="Olivier" creationdate="20200507T091601Z">
+        <seg>INET_PR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>INPUT|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155534Z" creationid="Inrepublica" creationdate="20200425T155534Z">
@@ -14365,6 +14405,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102121Z" creationid="Olivier" creationdate="20200503T102121Z">
         <seg>Si cette fonction est activée, l'ordinateur adaptera automatiquement le loyer de l'immeuble commercial en fonction du taux du marché.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If this is enabled, the list of headhunt targets will include employees from your subsidiary companies.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T091504Z" creationid="Olivier" creationdate="20200507T091504Z">
+        <seg>Si cette option est activée, la liste des cibles de la recherche comprendra les employés de vos filiales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15261,6 +15309,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T164905Z" creationid="Olivier" creationdate="20200502T164905Z">
         <seg>Vue intérieure</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Internet Company Filter</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T091519Z" creationid="Olivier" creationdate="20200507T091519Z">
+        <seg>Filtre des entreprise d'internet</seg>
       </tuv>
     </tu>
     <tu>
@@ -29698,6 +29754,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use the below list to limit the firm list to a specific type of Internet company.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T091600Z" creationid="Olivier" creationdate="20200507T091600Z">
+        <seg>Utilisez la liste ci-dessous pour limiter la liste des entreprises à un type spécifique de société Internet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use the slider to set the budget for upgrading the facilities of this civic building.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T143409Z" creationid="Olivier" creationdate="20200504T143409Z">
@@ -29982,6 +30046,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T103300Z" creationid="Olivier" creationdate="20200502T103300Z">
         <seg>WM_CW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>WTFILTER</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T091505Z" creationid="Olivier" creationdate="20200507T091505Z">
+        <seg>WTFILTER</seg>
       </tuv>
     </tu>
     <tu>
