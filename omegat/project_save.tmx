@@ -94,10 +94,18 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(#Better supplies mean products with higher overall ratings with no shortage of supply.#) The AI may change the product types at will.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T081918Z" creationid="Olivier" creationdate="20200507T081918Z">
+        <seg>(#De meilleures fournitures signifient des produits avec des notes globales plus élevées sans pénurie d'approvisionnement.#) L'IA ne changera PAS le type de produit lorsqu'elle s'approvisionnera en nouvelles fournitures.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(#Better supplies mean products with higher overall ratings with no shortage of supply.#) The AI will NOT change the product type when it sources new supplies.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T081738Z" creationid="Olivier" creationdate="20200507T081738Z">
-        <seg>(#Par meilleurs approvisionnements, on entend des produits dont la note globale est plus élevée sans qu'il y ait pénurie d'approvisionnement)#. L'IA ne changera PAS le type de produit lorsqu'elle s'approvisionnera en nouveaux produits.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T081946Z" creationid="Olivier" creationdate="20200507T081738Z">
+        <seg>( #De meilleures fournitures signifient des produits avec des notes globales plus élevées sans pénurie d'approvisionnement.#) L'IA ne changera PAS le type de produit lorsqu'elle s'approvisionnera en nouvelles fournitures.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16985,6 +16993,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>NEWSOFT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T081947Z" creationid="Olivier" creationdate="20200507T081947Z">
+        <seg>NEWSOFT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>NEWS_B</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141409Z" creationid="Olivier" creationdate="20200502T141409Z">
@@ -17005,6 +17021,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141123Z" creationid="Olivier" creationdate="20200502T141123Z">
         <seg>NEWS_LC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>NEWVER</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T082024Z" creationid="Olivier" creationdate="20200507T082024Z">
+        <seg>NEWVER</seg>
       </tuv>
     </tu>
     <tu>
@@ -17133,6 +17157,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T155254Z" creationid="Inrepublica" creationdate="20200422T160239Z">
         <seg>Nouveau port maritimes pendant le jeu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New software product</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T082005Z" creationid="Olivier" creationdate="20200507T082005Z">
+        <seg>Nouveau logiciel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New version</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T082031Z" creationid="Olivier" creationdate="20200507T082031Z">
+        <seg>Nouvelle version</seg>
       </tuv>
     </tu>
     <tu>
@@ -24001,6 +24041,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Start a project for developing a new software product with a new product name.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T082023Z" creationid="Olivier" creationdate="20200507T082023Z">
+        <seg>Lancez un projet de développement d'un nouveau logiciel avec un nouveau nom de produit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start a project for developing a new version of the software product that was previously completed here.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T082225Z" creationid="Olivier" creationdate="20200507T082225Z">
+        <seg>Démarrez un projet de développement d'une nouvelle version du logiciel qui a été précédemment achevé ici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Start a radical R&amp;D project for improving production technology.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T153119Z" creationid="Olivier" creationdate="20200502T153119Z">
@@ -27030,6 +27086,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164154Z" creationid="Inrepublica" creationdate="20200422T164154Z">
         <seg>Cela détermine si les sociétés d'IA peuvent acquérir des sociétés privées indépendantes ou non.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This determines whether the AI executive should look for better products to sell in retail stores only.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T081805Z" creationid="Olivier" creationdate="20200507T081805Z">
+        <seg>Cela détermine si le responsable de l'IA doit rechercher de meilleurs produits à vendre uniquement dans les magasins de détail.</seg>
       </tuv>
     </tu>
     <tu>
