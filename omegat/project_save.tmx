@@ -14113,10 +14113,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>IP Required for Production</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T100439Z" creationid="Olivier" creationdate="20200507T100439Z">
+        <seg>PI requise pour la production</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>IPLIMIT</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T161115Z" creationid="Olivier" creationdate="20200506T161115Z">
         <seg>IPLIMIT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IPONLY</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T100347Z" creationid="Olivier" creationdate="20200507T100347Z">
+        <seg>IPONLY</seg>
       </tuv>
     </tu>
     <tu>
@@ -14621,6 +14637,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T093847Z" creationid="Olivier" creationdate="20200506T093847Z">
         <seg>Si cette option est désactivée, le PDG n'émettra jamais de nouvelles actions pour développer l'entreprise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If this option is enabled, then companies can only produce products in this product category if they own the IP or have access to the IP.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T100457Z" creationid="Olivier" creationdate="20200507T100457Z">
+        <seg>Si cette option est activée, les entreprises ne peuvent fabriquer des produits de cette catégorie que si elles possèdent la propriété intellectuelle ou ont accès à la propriété intellectuelle.</seg>
       </tuv>
     </tu>
     <tu>
