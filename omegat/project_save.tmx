@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(This applies to all products in this firm.)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T083551Z" creationid="Olivier" creationdate="20200507T083456Z">
+        <seg>(Ceci s'applique à tous les produits de cet établissement).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(To see your Political Influence score, press F7 to open the Score report.)</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100745Z" creationid="Olivier" creationdate="20200430T100745Z">
@@ -7094,6 +7102,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Current Advertising Pricing</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T083643Z" creationid="Olivier" creationdate="20200507T083643Z">
+        <seg>Prix actuel de la publicité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Current Date</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122346Z" creationid="Olivier" creationdate="20200428T122346Z">
@@ -8250,6 +8266,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T101040Z" creationid="Olivier" creationdate="20200427T101040Z">
         <seg>Au cours d'un processus de fabrication, les matières premières doivent d'abord entrer dans une unité de fabrication, puis être transformées en produits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>E-Commerce Sales</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T083500Z" creationid="Olivier" creationdate="20200507T083500Z">
+        <seg>E-Commerce Sales</seg>
       </tuv>
     </tu>
     <tu>
@@ -17481,6 +17505,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Note that if the output from this factory fails to meet the demands from its business clients, there will be no stock available for e-commerce sales.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T083635Z" creationid="Olivier" creationdate="20200507T083635Z">
+        <seg>Notez que si la production de cette usine ne répond pas aux demandes de ses clients commerciaux, il n'y aura pas de stock disponible pour les ventes en ligne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Note that the player person's expertise product class will not be locked.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T221200Z" creationid="Inrepublica" creationdate="20200422T163005Z">
@@ -23723,8 +23755,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Set the price markup for selling products from this firm on your eCommerce sites.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T083330Z" creationid="Olivier" creationdate="20200507T083330Z">
-        <seg>Set the price markup for selling products from this firm on your eCommerce sites.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T083438Z" creationid="Olivier" creationdate="20200507T083330Z">
+        <seg>Fixez la majoration de prix pour la commercialisation des produits de cette entreprise sur vos sites de vente en ligne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25785,6 +25817,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The advertising pricing is measured in the cost per thousand impressions.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T083651Z" creationid="Olivier" creationdate="20200507T083651Z">
+        <seg>The advertising pricing is measured in the cost per thousand impressions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The amount of cash currently in the city fund.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T102456Z" creationid="Olivier" creationdate="20200506T102456Z">
@@ -26429,6 +26469,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T145408Z" creationid="Olivier" creationdate="20200504T145408Z">
         <seg>Le taux de rémunération des allocations de chômage en pourcentage du salaire de référence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The percentage of sales of products in this firm that are contributed by e-commerce.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T083622Z" creationid="Olivier" creationdate="20200507T083622Z">
+        <seg>Le pourcentage des ventes de produits dans cet établissement qui sont le fruit de la vente en ligne.</seg>
       </tuv>
     </tu>
     <tu>
