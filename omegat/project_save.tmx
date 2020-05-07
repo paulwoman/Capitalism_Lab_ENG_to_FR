@@ -1950,6 +1950,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>AUTOSOFT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T082519Z" creationid="Olivier" creationdate="20200507T082519Z">
+        <seg>AUTOSOFT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Abort|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T115459Z" creationid="Olivier" creationdate="20200429T115459Z">
@@ -2630,6 +2638,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An employee with a loyalty level of 80 or higher will not be headhunted by competitors.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T082501Z" creationid="Olivier" creationdate="20200507T082501Z">
+        <seg>Un employé ayant un niveau de loyauté de 80 ou plus ne sera pas recruté par des concurrents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>And choose ~Department Store~.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T152243Z" creationid="Inrepublica" creationdate="20200424T121239Z">
@@ -3082,6 +3098,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222017Z" creationid="Olivier" creationdate="20200430T222017Z">
         <seg>Auto Save Interval Minutes=15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Automatically develop new versions</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T082541Z" creationid="Olivier" creationdate="20200507T082541Z">
+        <seg>Développez automatiquement de nouvelles versions</seg>
       </tuv>
     </tu>
     <tu>
@@ -11985,6 +12009,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>HIREALL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T082554Z" creationid="Olivier" creationdate="20200507T082554Z">
+        <seg>HIREALL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>HOTKEY LIST (K)|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200505T162008Z" creationid="Olivier" creationdate="20200505T162008Z">
@@ -12213,6 +12245,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T145700Z" creationid="Olivier" creationdate="20200502T145700Z">
         <seg>Engager un nouveau directeur technique..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hire all</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T082722Z" creationid="Olivier" creationdate="20200507T082722Z">
+        <seg>Embaucher tous</seg>
       </tuv>
     </tu>
     <tu>
@@ -13241,6 +13281,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>IF_ADDS</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T082502Z" creationid="Olivier" creationdate="20200507T082502Z">
+        <seg>IF_ADDS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>IF_AL</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141941Z" creationid="Olivier" creationdate="20200502T141941Z">
@@ -14029,6 +14077,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T170551Z" creationid="Inrepublica" creationdate="20200422T170513Z">
         <seg>Si cela est coché, les notes de compétitivité mondiale des différentes industries seront randomisées au début du jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If this is enabled, it will automatically develop next versions of the software when more advanced tech has been researched.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T082553Z" creationid="Olivier" creationdate="20200507T082553Z">
+        <seg>Si cette fonction est activée, elle développera automatiquement les prochaines versions du logiciel lorsque des recherches plus avancées auront été menées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23585,6 +23641,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Set up this factory for producing software products.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T082517Z" creationid="Olivier" creationdate="20200507T082517Z">
+        <seg>Créez cette usine pour la production de logiciels</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Set up your factory to manufacture this product.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T103602Z" creationid="Olivier" creationdate="20200506T103602Z">
@@ -30254,6 +30318,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T140731Z" creationid="Olivier" creationdate="20200422T211005Z">
         <seg>Vous pouvez annuler ce mode en cliquant à nouveau sur le bouton ~Mes établissements~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can increase employee loyalty in the following ways: 1) give salary raises 2) set a higher training budget.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T082447Z" creationid="Olivier" creationdate="20200507T082447Z">
+        <seg>Vous pouvez renforcer la loyauté des employés de la manière suivante : 1) accordez des augmentations de salaire 2) fixez un budget de formation plus élevé.</seg>
       </tuv>
     </tu>
     <tu>
