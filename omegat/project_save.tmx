@@ -7526,6 +7526,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DEPOBRAN</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T103840Z" creationid="Olivier" creationdate="20200507T103840Z">
+        <seg>DEPOBRAN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DEPOHQ</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T103904Z" creationid="Olivier" creationdate="20200507T103904Z">
+        <seg>DEPOHQ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>DEPOSCAP</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145938Z" creationid="Inrepublica" creationdate="20200422T145938Z">
@@ -7746,6 +7762,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T141014Z" creationid="Olivier" creationdate="20200426T141014Z">
         <seg>Selon le type d'unité fonctionnelle, la formation peut augmenter sa productivité et/ou sa capacité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Deposits from all branches of this bank</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T103851Z" creationid="Olivier" creationdate="20200507T103851Z">
+        <seg>Dépôts de toutes les succursales de cette banque</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Deposits from the headquarters</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T103937Z" creationid="Olivier" creationdate="20200507T103937Z">
+        <seg>Les dépôts des sièges sociaux</seg>
       </tuv>
     </tu>
     <tu>
@@ -9752,8 +9784,8 @@
       <tuv lang="en-US">
         <seg>Financial Statements</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102411Z" creationid="Olivier" creationdate="20200507T102411Z">
-        <seg>Etats financiers</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T104037Z" creationid="Olivier" creationdate="20200507T102411Z">
+        <seg>États financiers</seg>
       </tuv>
     </tu>
     <tu>
@@ -14121,6 +14153,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>INSUFINA</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T104028Z" creationid="Olivier" creationdate="20200507T104028Z">
+        <seg>INSUFINA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>INSUPREM</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145935Z" creationid="Inrepublica" creationdate="20200422T145935Z">
@@ -14485,6 +14525,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T151247Z" creationid="Olivier" creationdate="20200503T151247Z">
         <seg>IS_SUBS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ITRAFFIC</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T104052Z" creationid="Olivier" creationdate="20200507T104052Z">
+        <seg>ITRAFFIC</seg>
       </tuv>
     </tu>
     <tu>
@@ -24585,6 +24633,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select this to show a list of deposits made by corporations and game persons via the bank headquarters.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T104027Z" creationid="Olivier" creationdate="20200507T104027Z">
+        <seg>Sélectionnez cette option pour afficher une liste des dépôts effectués par les sociétés et les personnes de jeu via les sièges sociaux des banques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select this to show a list of loans made to corporations that have been defaulted.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T103823Z" creationid="Olivier" creationdate="20200507T103823Z">
@@ -24605,6 +24661,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T103717Z" creationid="Olivier" creationdate="20200507T103242Z">
         <seg>Sélectionnez cette option pour afficher tous les prêts irrécouvrables qui n'ont pas été remboursés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select this to show all customer deposits made via all the branches of this bank.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T103902Z" creationid="Olivier" creationdate="20200507T103902Z">
+        <seg>Sélectionnez cette option pour afficher tous les dépôts effectués par les clients dans toutes les agences de cette banque.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27389,6 +27453,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102506Z" creationid="Olivier" creationdate="20200507T102506Z">
         <seg>Plus l'indice de fréquentation des clients est élevé, plus le nombre de clients potentiels qui visiteront cette agence bancaire est important.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The higher the customer traffic index, the larger the number of potential customers will visit this insurance front office.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T150551Z" creationid="Olivier" creationdate="20200507T150551Z">
+        <seg>Plus l'indice de trafic des clients est élevé, plus le nombre de clients potentiels qui visiteront ce guichet d'assurance sera important.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31158,6 +31230,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102433Z" creationid="Olivier" creationdate="20200507T102433Z">
         <seg>Consultez les états financiers de ce groupe de sociétés, en plus de ceux de cette banque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View the financial statements of this corporate group, in addition to those of this insurance company.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T104057Z" creationid="Olivier" creationdate="20200507T104044Z">
+        <seg>Consultez les états financiers de ce groupe de sociétés, en plus de ceux de cette compagnie d'assurance.</seg>
       </tuv>
     </tu>
     <tu>
