@@ -4934,6 +4934,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Choose a mode for setting e-commerce prices.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T092652Z" creationid="Olivier" creationdate="20200507T092652Z">
+        <seg>Choisissez un mode de fixation des prix pour la vente en ligne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145625Z" creationid="Inrepublica" creationdate="20200422T145625Z">
@@ -5914,6 +5922,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T124058Z" creationid="Olivier" creationdate="20200424T090111Z">
         <seg>Cliquez sur le bouton ~[+]~ à côté du bouton ~Emprunter~. Lorsque vous avez augmenté le montant à $20,000,000 ou plus, cliquez sur le bouton ~Emprunter~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click this button to toggle the mode.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T092801Z" creationid="Olivier" creationdate="20200507T092801Z">
+        <seg>Cliquez sur ce bouton pour changer de mode.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8474,6 +8490,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155535Z" creationid="Inrepublica" creationdate="20200425T155535Z">
         <seg>ENTREE|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ESPMODE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T092524Z" creationid="Olivier" creationdate="20200507T092524Z">
+        <seg>ESPMODE</seg>
       </tuv>
     </tu>
     <tu>
@@ -15379,8 +15403,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>It contributes to the OS's overall rating.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T092518Z" creationid="Olivier" creationdate="20200507T092518Z">
-        <seg>It contributes to the OS's overall rating.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T092601Z" creationid="Olivier" creationdate="20200507T092518Z">
+        <seg>Elle contribue à la notation globale du système d'exploitation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17749,6 +17773,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T221200Z" creationid="Inrepublica" creationdate="20200422T163005Z">
         <seg>Notez que l'expertise du joueur pour les produits n'est pas vérouillée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Note that the salary displayed here is the annual salary.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T092830Z" creationid="Olivier" creationdate="20200507T092830Z">
+        <seg>Notez que le salaire affiché ici est le salaire annuel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22201,6 +22233,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>RAISESAL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T092802Z" creationid="Olivier" creationdate="20200507T092802Z">
+        <seg>RAISESAL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>RDDESIGN</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T173259Z" creationid="Olivier" creationdate="20200504T173259Z">
@@ -22325,6 +22365,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T151910Z" creationid="Olivier" creationdate="20200502T151910Z">
         <seg>Elevage de bétail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Raise the salary of this team lead.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T092822Z" creationid="Olivier" creationdate="20200507T092822Z">
+        <seg>Augmenter le salaire de ce chef d'équipe</seg>
       </tuv>
     </tu>
     <tu>
@@ -31430,6 +31478,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092201Z" creationid="Olivier" creationdate="20200506T092201Z">
         <seg>Vous pouvez ramener sa technologie de production à un niveau inférieur et l'associer à une image de produit personnalisée différente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may set e-commerce prices individually or set a price markup percentage that applies to all products in this firm.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T092737Z" creationid="Olivier" creationdate="20200507T092737Z">
+        <seg>Vous pouvez fixer les prix pour la vente en ligne individuellement ou fixer un pourcentage de majoration de prix qui s'applique à tous les produits dans cet établissement.</seg>
       </tuv>
     </tu>
     <tu>
