@@ -3238,6 +3238,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Average Customer Waiting Time</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102749Z" creationid="Olivier" creationdate="20200507T102749Z">
+        <seg>Temps d'attente moyen des clients</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Average Staff Skill Level</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102551Z" creationid="Olivier" creationdate="20200507T102551Z">
@@ -3354,6 +3362,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102508Z" creationid="Olivier" creationdate="20200507T102508Z">
         <seg>BKHQTRAI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BKHQWAIT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102739Z" creationid="Olivier" creationdate="20200507T102739Z">
+        <seg>BKHQWAIT</seg>
       </tuv>
     </tu>
     <tu>
@@ -14677,6 +14693,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102011Z" creationid="Olivier" creationdate="20200507T102011Z">
         <seg>Si le #DLC simulation économique de la ville# est activé, il est également affecté par le #niveau d'éducation# des habitants de la ville.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the #City Economics Simulation DLC# is enabled, the #skill level# is also affected by the #education level# of people.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102738Z" creationid="Olivier" creationdate="20200507T102738Z">
+        <seg>Si le #DLC simulation économique de la ville# est activé, le niveau de compétence est également affecté par le niveau d'éducation des personnes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26869,6 +26893,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T204344Z" creationid="Acer" creationdate="20200424T204344Z">
         <seg>La zone ci-dessous indique les actionnaires de la société publique sélectionnée. Vous détenez 50 % des actions de votre société et le reste des actions est détenu par des actionnaires publics, des personnes et des sociétés gérées par l'ordinateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The average customer waiting time of all the bank's branches.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T103013Z" creationid="Olivier" creationdate="20200507T103013Z">
+        <seg>Le temps d'attente moyen des clients dans toutes les agences de la banque.</seg>
       </tuv>
     </tu>
     <tu>
