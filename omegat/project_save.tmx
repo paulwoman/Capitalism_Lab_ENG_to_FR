@@ -8510,6 +8510,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ECOMMVAR</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T101419Z" creationid="Olivier" creationdate="20200507T101419Z">
+        <seg>ECOMMVAR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ECOMM_GO</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T085826Z" creationid="Olivier" creationdate="20200507T085826Z">
@@ -10026,6 +10034,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150710Z" creationid="Inrepublica" creationdate="20200425T150710Z">
         <seg>For Sale|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For Smart Phone, Quality Rating is determined by 1) Raw Material Quality 2) Technology/Production Quality 3) OS Software Quality.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T101742Z" creationid="Olivier" creationdate="20200507T101742Z">
+        <seg>Pour le smartphone, la note de qualité est déterminée par 1) la qualité de la matière première 2) la qualité de la technologie/de la production 3) la qualité du logiciel du système d'exploitation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16873,6 +16889,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MFTIMOD1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T101625Z" creationid="Olivier" creationdate="20200507T101625Z">
+        <seg>MFTIMOD1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MFTIMOD2</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T101644Z" creationid="Olivier" creationdate="20200507T101644Z">
+        <seg>MFTIMOD2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MFTSHOW</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200505T172948Z" creationid="Olivier" creationdate="20200505T172948Z">
@@ -17745,6 +17777,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>NEWGAME</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T101553Z" creationid="Olivier" creationdate="20200507T101553Z">
+        <seg>NEWGAME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>NEWSOFT</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T081947Z" creationid="Olivier" creationdate="20200507T081947Z">
@@ -17893,6 +17933,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200505T161941Z" creationid="Olivier" creationdate="20200505T161941Z">
         <seg>Never|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New Game Project</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T101605Z" creationid="Olivier" creationdate="20200507T101605Z">
+        <seg>Projet d'un nouveau jeu</seg>
       </tuv>
     </tu>
     <tu>
@@ -22369,6 +22417,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Products Quality and Variety</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T101437Z" creationid="Olivier" creationdate="20200507T101437Z">
+        <seg>Qualité et variété des produits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Products availability at retail</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T141741Z" creationid="Olivier" creationdate="20200504T141741Z">
@@ -25033,6 +25089,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Start a project for developing a new game product.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T101624Z" creationid="Olivier" creationdate="20200507T101624Z">
+        <seg>Démarrer un projet de développement d'un nouveau jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Start a project for developing a new software product with a new product name.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T082235Z" creationid="Olivier" creationdate="20200507T082023Z">
@@ -25493,6 +25557,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T095915Z" creationid="Olivier" creationdate="20200507T095915Z">
         <seg>Changer de stratégie de marque</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Switch information display mode</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T101642Z" creationid="Olivier" creationdate="20200507T101642Z">
+        <seg>Changer de mode d'affichage des informations</seg>
       </tuv>
     </tu>
     <tu>
@@ -28338,6 +28410,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is a rating ranging from 0 to 100 indicating the quality and variety of products available on this e-commerce site.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T101514Z" creationid="Olivier" creationdate="20200507T101514Z">
+        <seg>Il s'agit d'une note allant de 0 à 100 indiquant la qualité et la variété des produits disponibles sur ce site de vente en ligne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is determined by the experience levels of all individual units in your factory.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T100946Z" creationid="Olivier" creationdate="20200507T100946Z">
@@ -29470,6 +29550,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T215243Z" creationid="Olivier" creationdate="20200425T215243Z">
         <seg>Pour gagner cette partie, votre entreprise doit fabriquer au moins ~20 types de produits~ pour démontrer sa capacité à produire une large gamme de produits.^^En même temps, vous devez réaliser ~un revenu annuel de 100 millions de dollars~ et ~un bénéfice annuel de 10 millions de dollars~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Together with the e-commerce site quality rating, they affect the amount of visitors to this site.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T101552Z" creationid="Olivier" creationdate="20200507T101552Z">
+        <seg>Avec l'évaluation de la qualité du site de vente en ligne, ils ont une incidence sur le nombre de visiteurs de ce site.</seg>
       </tuv>
     </tu>
     <tu>
