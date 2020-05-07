@@ -1718,6 +1718,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ADVERT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T153122Z" creationid="Olivier" creationdate="20200507T153122Z">
+        <seg>ADVERT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ADV_DEL</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T083834Z" creationid="Olivier" creationdate="20200507T083834Z">
@@ -2454,6 +2462,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Advertisement</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T153135Z" creationid="Olivier" creationdate="20200507T153135Z">
+        <seg>Publicité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Advertising unit is linked=5</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T170130Z" creationid="Acer" creationdate="20200424T170130Z">
@@ -2682,6 +2698,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150847Z" creationid="Inrepublica" creationdate="20200425T150847Z">
         <seg>Aller|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Allocate retail space and hire staff for selling the same product.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T153222Z" creationid="Olivier" creationdate="20200507T153222Z">
+        <seg>Attribue des espaces de vente au détail et engage du personnel pour la vente du même produit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5078,6 +5102,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cannot Increase the Retail Capacity</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T153242Z" creationid="Olivier" creationdate="20200507T153242Z">
+        <seg>Impossible d'augmenter la capacité de vente au détail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cannot Reduce the Retail Capacity</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T153403Z" creationid="Olivier" creationdate="20200507T153403Z">
+        <seg>Impossible de réduire la capacité de vente au détail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cannot add it.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T173840Z" creationid="Olivier" creationdate="20200504T173840Z">
@@ -6086,6 +6126,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click here to view the advertisement setting.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T153151Z" creationid="Olivier" creationdate="20200507T153151Z">
+        <seg>Cliquez ici pour voir les paramètres de la publicité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click here to view the person's details.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141533Z" creationid="Olivier" creationdate="20200502T141533Z">
@@ -6706,6 +6754,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T152710Z" creationid="Olivier" creationdate="20200507T152710Z">
         <seg>Dépôts des clients</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Client Deposits from All Branches of This Bank</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T153056Z" creationid="Olivier" creationdate="20200507T153056Z">
+        <seg>Dépôts des clients de toutes les succursales de cette banque</seg>
       </tuv>
     </tu>
     <tu>
@@ -7650,6 +7706,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145938Z" creationid="Inrepublica" creationdate="20200422T145938Z">
         <seg>DEPOSCAP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DEPOSHQ</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T153030Z" creationid="Olivier" creationdate="20200507T153030Z">
+        <seg>DEPOSHQ</seg>
       </tuv>
     </tu>
     <tu>
@@ -9498,6 +9562,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T164856Z" creationid="Olivier" creationdate="20200502T164856Z">
         <seg>Vue extérieure</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>FARMSET0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T153620Z" creationid="Olivier" creationdate="20200507T153620Z">
+        <seg>FARMSET0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>FARMSET1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T153525Z" creationid="Olivier" creationdate="20200507T153525Z">
+        <seg>FARMSET1</seg>
       </tuv>
     </tu>
     <tu>
@@ -15637,6 +15717,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T142305Z" creationid="Olivier" creationdate="20200425T142305Z">
         <seg>Dans le marché actuel, où la concurrence est très forte, la publicité est essentielle pour sensibiliser les consommateurs et faire en sorte que vos produits se démarquent de la concurrence.^^Ce tutoriel explique comment la marque et la publicité fonctionnent dans le jeu et comment vous pouvez en tirer le meilleur parti en prenant des décisions marketing intelligentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase the Retail Capacity</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T153203Z" creationid="Olivier" creationdate="20200507T153203Z">
+        <seg>Augmenter la capacité de vente au détail</seg>
       </tuv>
     </tu>
     <tu>
@@ -23385,6 +23473,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>RDECCAP0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T153322Z" creationid="Olivier" creationdate="20200507T153322Z">
+        <seg>RDECCAP0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>RDECCAP1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T153253Z" creationid="Olivier" creationdate="20200507T153253Z">
+        <seg>RDECCAP1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>REACH</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T085352Z" creationid="Inrepublica" creationdate="20200426T085352Z">
@@ -23485,6 +23589,38 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155526Z" creationid="Inrepublica" creationdate="20200425T155526Z">
         <seg>RETOURNER AU MENU PRINCIPAL|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>RINCCAP0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T153223Z" creationid="Olivier" creationdate="20200507T153223Z">
+        <seg>RINCCAP0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>RINCCAP1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T153152Z" creationid="Olivier" creationdate="20200507T153152Z">
+        <seg>RINCCAP1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>RREMOVE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T153415Z" creationid="Olivier" creationdate="20200507T153415Z">
+        <seg>RREMOVE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>RSUPPLY</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T153456Z" creationid="Olivier" creationdate="20200507T153456Z">
+        <seg>RSUPPLY</seg>
       </tuv>
     </tu>
     <tu>
@@ -23745,6 +23881,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Reduce the Retail Capacity</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T153304Z" creationid="Olivier" creationdate="20200507T153304Z">
+        <seg>Réduire la capacité de vente au détail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Relocate or Demolish this firm (hotkey: Ctrl-X)</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T103639Z" creationid="Olivier" creationdate="20200503T103639Z">
@@ -23821,6 +23965,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T171229Z" creationid="Olivier" creationdate="20200503T171229Z">
         <seg>Supprime les restrictions d'utilisation des terres sur toutes les parcelles de terrain appartenant au gouvernement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Remove the Product</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T153426Z" creationid="Olivier" creationdate="20200507T153426Z">
+        <seg>Retirer le produit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Remove this product from the retail store.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T153455Z" creationid="Olivier" creationdate="20200507T153455Z">
+        <seg>Retire ce produit du magasin de détail.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24413,6 +24573,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155606Z" creationid="Inrepublica" creationdate="20200425T155606Z">
         <seg>STEEL|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>STKSPLIT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T153914Z" creationid="Olivier" creationdate="20200507T153914Z">
+        <seg>STKSPLIT</seg>
       </tuv>
     </tu>
     <tu>
@@ -25337,6 +25505,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Set up a new production at the current farm.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T153704Z" creationid="Olivier" creationdate="20200507T153619Z">
+        <seg>Mettre en place une nouvelle production dans la ferme actuelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Set up a new production for this firm.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150228Z" creationid="Olivier" creationdate="20200502T150228Z">
@@ -25569,6 +25745,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Shrink the retail space and reduce the staff size for selling this product.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T153321Z" creationid="Olivier" creationdate="20200507T153321Z">
+        <seg>Réduis l'espace de vente au détail et le nombre d'employés pour la vente de ce produit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Simple eh?</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T090801Z" creationid="Olivier" creationdate="20200423T134829Z">
@@ -25693,6 +25877,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145604Z" creationid="Olivier" creationdate="20200503T145604Z">
         <seg>Désolé, vous ne pouvez pas modifier la vitesse du jeu en cours car elle est fixée par un script de jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sorry, you cannot expand its capacity further as there is no space left in the retail store.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T153252Z" creationid="Olivier" creationdate="20200507T153252Z">
+        <seg>Désolé, il n'est pas possible d'augmenter sa capacité car il n'y a plus de place dans le magasin de détail.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sorry, you cannot reduce its capacity further as it is already at the minimum capacity.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T153414Z" creationid="Olivier" creationdate="20200507T153414Z">
+        <seg>Désolé, vous ne pouvez pas réduire davantage sa capacité car elle est déjà à la capacité minimale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26029,6 +26229,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102159Z" creationid="Olivier" creationdate="20200428T102159Z">
         <seg>Stock Price=88</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stock Split</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T153944Z" creationid="Olivier" creationdate="20200507T153944Z">
+        <seg>Fractionnement d'actions</seg>
       </tuv>
     </tu>
     <tu>
@@ -27809,6 +28017,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The farm does not have sufficient space for setting up a new production.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T153913Z" creationid="Olivier" creationdate="20200507T153639Z">
+        <seg>La ferme ne dispose pas d'un espace suffisant pour installer une nouvelle production.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The figure in the top right corner of the unit is the ~unit's level~.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T110119Z" creationid="Olivier" creationdate="20200423T143421Z">
@@ -27819,8 +28035,16 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>The figure shows the total client deposits and the year-over-year growth rate.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T152935Z" creationid="Olivier" creationdate="20200507T152935Z">
-        <seg>The figure shows the total client deposits and the year-over-year growth rate.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T153015Z" creationid="Olivier" creationdate="20200507T152935Z">
+        <seg>Le chiffre indique le total des dépôts des clients et le taux de croissance d'une année sur l'autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The figure shows the total client deposits from all branches of this bank and the year-over-year growth rate.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T153121Z" creationid="Olivier" creationdate="20200507T153121Z">
+        <seg>Le chiffre indique le total des dépôts des clients de toutes les succursales de cette banque et le taux de croissance d'une année sur l'autre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27909,6 +28133,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T152643Z" creationid="Inrepublica" creationdate="20200423T152643Z">
         <seg>Partie non sauvegardée.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The graph shows the deposits over the past 36 months.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T153028Z" creationid="Olivier" creationdate="20200507T153028Z">
+        <seg>Le graphique montre les dépôts au cours des 36 derniers mois.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29558,6 +29790,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T155841Z" creationid="Olivier" creationdate="20200504T155841Z">
         <seg>Ce pourcentage est calculé en divisant le rendement total pour les investisseurs (qui est la somme des dividendes versés et des gains en capital résultant de l'augmentation du cours des actions au cours des 365 derniers jours), par le cours des actions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This product is sourced from multiple suppliers.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T153523Z" creationid="Olivier" creationdate="20200507T153507Z">
+        <seg>Ce produit provient de plusieurs fournisseurs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31566,6 +31806,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T132306Z" creationid="Olivier" creationdate="20200424T094206Z">
         <seg>Utilisez le filtre ~Tous les produits~ pour sélectionner ~Bois~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use these buttons to select which supplier's information to be displayed.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T153520Z" creationid="Olivier" creationdate="20200507T153520Z">
+        <seg>Utilisez ces boutons pour sélectionner les informations du fournisseur à afficher.</seg>
       </tuv>
     </tu>
     <tu>
