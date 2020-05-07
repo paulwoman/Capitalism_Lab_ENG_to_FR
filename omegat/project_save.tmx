@@ -14129,6 +14129,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>INHQTRAI</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T150554Z" creationid="Olivier" creationdate="20200507T150554Z">
+        <seg>INHQTRAI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>INPUT|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155534Z" creationid="Inrepublica" creationdate="20200425T155534Z">
@@ -15049,10 +15057,18 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you change the #training budget# here, the change will apply to all the front offices.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T150847Z" creationid="Olivier" creationdate="20200507T150847Z">
+        <seg>Si vous modifiez ici le #budget de la formation#, le changement s'appliquera à tous les front offices.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you change the training budget here, the change will apply to all branches of the bank.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102539Z" creationid="Olivier" creationdate="20200507T102539Z">
-        <seg>Si vous modifiez le budget de formation ici, le changement s'appliquera à toutes les agences de la banque.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T150901Z" creationid="Olivier" creationdate="20200507T102539Z">
+        <seg>Si vous modifiez le budget de la formation ici, le changement s'appliquera à toutes les agences de la banque.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27125,6 +27141,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102529Z" creationid="Olivier" creationdate="20200507T102529Z">
         <seg>Le budget moyen de formation de toutes les agences de la banque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The average training budget of all the insurance company's front offices.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T150642Z" creationid="Olivier" creationdate="20200507T150642Z">
+        <seg>Le budget moyen de formation de l'ensemble des guichets de la compagnie d'assurance.</seg>
       </tuv>
     </tu>
     <tu>
