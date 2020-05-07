@@ -3542,6 +3542,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Before you can start to manufacture hardware using this IP, you must first develop an Operating System for the IP.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T101336Z" creationid="Olivier" creationdate="20200507T101336Z">
+        <seg>Avant de pouvoir commencer à fabriquer du matériel utilisant cette propriété intellectuelle, vous devez d'abord développer un système d'exploitation pour cette propriété intellectuelle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Below the ~stock price~ and the ~total number of shares~ figures, you will see the ~Market Cap~, or the market capitalization of a corporation, which is equal to the ~share price~ times the ~total number of shares outstanding~.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T151246Z" creationid="Olivier" creationdate="20200425T151210Z">
@@ -9190,10 +9198,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>FA_OUTPU</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T101214Z" creationid="Olivier" creationdate="20200507T101214Z">
+        <seg>FA_OUTPU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>FA_STOCK</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T101038Z" creationid="Olivier" creationdate="20200507T101038Z">
         <seg>FA_STOCK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>FA_TECH</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T101144Z" creationid="Olivier" creationdate="20200507T101144Z">
+        <seg>FA_TECH</seg>
       </tuv>
     </tu>
     <tu>
@@ -12825,6 +12849,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hotkey: Ctrl-B</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T101234Z" creationid="Olivier" creationdate="20200507T101234Z">
+        <seg>Raccourci : Ctrl-B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hotkey: Ctrl-I</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T103648Z" creationid="Olivier" creationdate="20200506T103648Z">
@@ -14193,6 +14225,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>IP_OS0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T101305Z" creationid="Olivier" creationdate="20200507T101305Z">
+        <seg>IP_OS0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IP_OS1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T101350Z" creationid="Olivier" creationdate="20200507T101350Z">
+        <seg>IP_OS1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ISSUE0</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143912Z" creationid="Olivier" creationdate="20200503T143912Z">
@@ -14245,6 +14293,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T151247Z" creationid="Olivier" creationdate="20200503T151247Z">
         <seg>IS_SUBS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I_BOND</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T101227Z" creationid="Olivier" creationdate="20200507T101227Z">
+        <seg>I_BOND</seg>
       </tuv>
     </tu>
     <tu>
@@ -19457,6 +19513,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Operating System for your IP</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T101323Z" creationid="Olivier" creationdate="20200507T101323Z">
+        <seg>Système d'exploitation pour votre PI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Operation suspended</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T172138Z" creationid="Olivier" creationdate="20200503T172138Z">
@@ -22297,6 +22361,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Production Technology</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T101202Z" creationid="Olivier" creationdate="20200507T101202Z">
+        <seg>Technologie de production</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Products availability at retail</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T141741Z" creationid="Olivier" creationdate="20200504T141741Z">
@@ -22477,6 +22549,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155528Z" creationid="Inrepublica" creationdate="20200425T155528Z">
         <seg>QUITTER VERS WINDOWS|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Quality of Input Items</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T101130Z" creationid="Olivier" creationdate="20200507T101130Z">
+        <seg>Qualité des éléments d'entrée</seg>
       </tuv>
     </tu>
     <tu>
@@ -23477,6 +23557,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T105230Z" creationid="Olivier" creationdate="20200503T105230Z">
         <seg>SHOWNP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SHOWSUPL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T101236Z" creationid="Olivier" creationdate="20200507T101236Z">
+        <seg>SHOWSUPL</seg>
       </tuv>
     </tu>
     <tu>
@@ -24621,6 +24709,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T103306Z" creationid="Olivier" creationdate="20200506T103306Z">
         <seg>Afficher le fournisseur actuel (touche de raccourci : W ou U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show the current supplier.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T101302Z" creationid="Olivier" creationdate="20200507T101302Z">
+        <seg>Montrer le fournisseur actuel</seg>
       </tuv>
     </tu>
     <tu>
@@ -27145,6 +27241,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The part of the finished product's quality that is contributed by its input items' quality.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T101142Z" creationid="Olivier" creationdate="20200507T101142Z">
+        <seg>Partie de la qualité du produit fini à laquelle contribue la qualité de ses éléments d'entrée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The part of the finished product's quality that is contributed by the production technology.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T101213Z" creationid="Olivier" creationdate="20200507T101213Z">
+        <seg>La partie de la qualité du produit fini qui est apportée par la technologie de production.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The pay rate of unemployment benefits as a percentage of the reference salary.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T145408Z" creationid="Olivier" creationdate="20200504T145408Z">
@@ -27221,6 +27333,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T143806Z" creationid="Olivier" creationdate="20200504T143806Z">
         <seg>La qualité du service fourni par ce bâtiment civique est déterminée par 1) la compétence de son personnel et 2) la qualité de ses installations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The quality of the finished product.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T101226Z" creationid="Olivier" creationdate="20200507T101226Z">
+        <seg>La qualité du produit fini.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29198,6 +29318,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T132753Z" creationid="Olivier" creationdate="20200426T132753Z">
         <seg>Pour montrer comment fonctionne la recherche, nous allons mettre en place une usine de fabrication de ~Climatiseurs~.^^Tout d'abord, vous devez consulter le ~Guide de fabrication~ pour voir quels sont les matériaux nécessaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To develop an OS, set up a Software Company.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T101349Z" creationid="Olivier" creationdate="20200507T101349Z">
+        <seg>Pour développer un système d'exploitation, créez une société de logiciels.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31542,6 +31670,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T161302Z" creationid="Olivier" creationdate="20200506T161302Z">
         <seg>Vous avez déjà créé un IP et ne pouvez donc pas en créer d'autres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have already developed an Operating System for your IP, now you may set up factories to manufacture the hardware using the IP.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T101417Z" creationid="Olivier" creationdate="20200507T101417Z">
+        <seg>Vous avez déjà développé un système d'exploitation pour votre propriété intellectuelle, vous pouvez maintenant créer des usines pour fabriquer le matériel utilisant cette propriété.</seg>
       </tuv>
     </tu>
     <tu>
