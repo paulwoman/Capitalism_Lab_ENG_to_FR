@@ -3238,6 +3238,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Average Staff Skill Level</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102551Z" creationid="Olivier" creationdate="20200507T102551Z">
+        <seg>Niveau de compétence moyen du personnel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Average Training Budget</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102519Z" creationid="Olivier" creationdate="20200507T102519Z">
+        <seg>Budget moyen de formation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>BACK_INT</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092539Z" creationid="Olivier" creationdate="20200506T092539Z">
@@ -3258,6 +3274,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150005Z" creationid="Inrepublica" creationdate="20200422T150005Z">
         <seg>BANKDIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BANKFINA</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102357Z" creationid="Olivier" creationdate="20200507T102357Z">
+        <seg>BANKFINA</seg>
       </tuv>
     </tu>
     <tu>
@@ -3318,6 +3342,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>BKHQSKIL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102541Z" creationid="Olivier" creationdate="20200507T102541Z">
+        <seg>BKHQSKIL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BKHQTRAI</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102508Z" creationid="Olivier" creationdate="20200507T102508Z">
+        <seg>BKHQTRAI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>BOND_CRE</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145946Z" creationid="Inrepublica" creationdate="20200422T145946Z">
@@ -3362,6 +3402,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T095748Z" creationid="Olivier" creationdate="20200507T095748Z">
         <seg>BRAND_ST</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BTRAFFIC</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102435Z" creationid="Olivier" creationdate="20200507T102435Z">
+        <seg>BTRAFFIC</seg>
       </tuv>
     </tu>
     <tu>
@@ -9638,6 +9686,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Financial Statements</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102411Z" creationid="Olivier" creationdate="20200507T102411Z">
+        <seg>Etats financiers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Financial report (hotkey: F6)</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T103157Z" creationid="Olivier" creationdate="20200506T103157Z">
@@ -14873,6 +14929,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you change the training budget here, the change will apply to all branches of the bank.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102539Z" creationid="Olivier" creationdate="20200507T102539Z">
+        <seg>Si vous modifiez le budget de formation ici, le changement s'appliquera à toutes les agences de la banque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you double-click the name of another city that city is pinpointed on the world map and the city view on the main screen is updated to show that city.^^Close the World Map view by either clicking the X in the top right of its window, or by clicking the World Map icon on the bottom toolbar.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T110627Z" creationid="Olivier" creationdate="20200423T152055Z">
@@ -15729,6 +15793,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It affects the overall #service quality# of the bank.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102650Z" creationid="Olivier" creationdate="20200507T102650Z">
+        <seg>Cela affecte la #qualité de service# globale de la banque. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It can manufacture no more goods even if there is additional supply and demand.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T101137Z" creationid="Olivier" creationdate="20200427T101137Z">
@@ -16381,6 +16453,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145831Z" creationid="Inrepublica" creationdate="20200422T145831Z">
         <seg>LOANINT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LOAN_DEF</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102344Z" creationid="Olivier" creationdate="20200507T102344Z">
+        <seg>LOAN_DEF</seg>
       </tuv>
     </tu>
     <tu>
@@ -26761,6 +26841,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The amount of loan defaults in the past 12 months.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102355Z" creationid="Olivier" creationdate="20200507T102355Z">
+        <seg>Le montant des défauts de paiement des prêts au cours des 12 derniers mois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The amount of surplus that the current city has registered over the past 12 months.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T102546Z" creationid="Olivier" creationdate="20200506T102546Z">
@@ -26789,6 +26877,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150554Z" creationid="Olivier" creationdate="20200502T150554Z">
         <seg>Les notes moyennes sont dérivées des produits de vos concurrents et de vos produits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The average staff skill level of all the bank's branches.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102607Z" creationid="Olivier" creationdate="20200507T102607Z">
+        <seg>Le niveau de compétence moyen du personnel de toutes les agences de la banque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The average training budget of all the bank's branches.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102529Z" creationid="Olivier" creationdate="20200507T102529Z">
+        <seg>Le budget moyen de formation de toutes les agences de la banque.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27109,6 +27213,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200505T162636Z" creationid="Olivier" creationdate="20200505T162636Z">
         <seg>Plus la cote de compétitivité de la ville est élevée, plus le nombre de personnes employées dans l'industrie locale est important.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The higher the customer traffic index, the larger the number of potential customers will visit this bank branch.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102506Z" creationid="Olivier" creationdate="20200507T102506Z">
+        <seg>Plus l'indice de fréquentation des clients est élevé, plus le nombre de clients potentiels qui visiteront cette agence bancaire est important.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29546,6 +29658,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To increase it, select the #Marketing# tab and set up advertising.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102342Z" creationid="Olivier" creationdate="20200507T102342Z">
+        <seg>Pour l'augmenter, sélectionnez l'onglet #Marketing# et mettez en place la publicité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To increase the limit, first increase the tech level of the product.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T174023Z" creationid="Olivier" creationdate="20200504T174023Z">
@@ -30846,6 +30966,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T164820Z" creationid="Olivier" creationdate="20200502T164820Z">
         <seg>Voir les clients</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View the financial statements of this corporate group, in addition to those of this bank.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102433Z" creationid="Olivier" creationdate="20200507T102433Z">
+        <seg>Consultez les états financiers de ce groupe de sociétés, en plus de ceux de cette banque.</seg>
       </tuv>
     </tu>
     <tu>
