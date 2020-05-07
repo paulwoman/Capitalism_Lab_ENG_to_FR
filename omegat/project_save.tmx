@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Click here now to view the supplier.)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T082348Z" creationid="Olivier" creationdate="20200507T082348Z">
+        <seg>(Cliquez ici pour voir le fournisseur)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Dividend Payout Ratio is calculated based on earnings per share, whereas Dividend Yield is calculated based on the stock price.)</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T170829Z" creationid="Olivier" creationdate="20200504T170829Z">
@@ -8582,6 +8590,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Employee loyalty</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T082410Z" creationid="Olivier" creationdate="20200507T082410Z">
+        <seg>Loyauté des employés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enable Auto Apply R&amp;D Results to your factories' manufacturing units.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T150004Z" creationid="Olivier" creationdate="20200428T150004Z">
@@ -15601,6 +15617,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LOYALTY</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T082349Z" creationid="Olivier" creationdate="20200507T082349Z">
+        <seg>LOYALTY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LO_IN_E1</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T151031Z" creationid="Olivier" creationdate="20200502T151031Z">
@@ -19125,6 +19149,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150001Z" creationid="Inrepublica" creationdate="20200422T150001Z">
         <seg>PRICAGGR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PRICEAGR</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T082238Z" creationid="Olivier" creationdate="20200507T082238Z">
+        <seg>PRICEAGR</seg>
       </tuv>
     </tu>
     <tu>
@@ -24043,8 +24075,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Start a project for developing a new software product with a new product name.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T082023Z" creationid="Olivier" creationdate="20200507T082023Z">
-        <seg>Lancez un projet de développement d'un nouveau logiciel avec un nouveau nom de produit.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T082235Z" creationid="Olivier" creationdate="20200507T082023Z">
+        <seg>Démarrez un projet de développement d'un nouveau logiciel avec un nouveau nom de produit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27250,6 +27282,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is to prevent you from undercutting the supplier in the market.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T082337Z" creationid="Olivier" creationdate="20200507T082337Z">
+        <seg>Cette mesure vise à vous empêcher de sous-coter le fournisseur sur le marché.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is your basic commerce unit grouping.^^Neither unit has much effect on its own but linked they allow your store to function.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T134706Z" creationid="Olivier" creationdate="20200423T134706Z">
@@ -29874,6 +29914,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When you sell a product that is sourced from an external supplier, if the supplier is also selling the same product in its own retail store, you will have to agree to the retail price set by the supplier.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T082316Z" creationid="Olivier" creationdate="20200507T082316Z">
+        <seg>Lorsque vous vendez un produit qui provient d'un fournisseur externe, si le fournisseur vend également le même produit dans son propre magasin de détail, vous devrez accepter le prix de vente au détail fixé par le fournisseur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When you start an R&amp;D project with more R&amp;D units linked together, you get a boost in R&amp;D performance and thus get a bigger tech gain.^^Now ~Double-click~ here to set up the second R&amp;D unit.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T133650Z" creationid="Olivier" creationdate="20200426T133650Z">
@@ -30294,6 +30342,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T170959Z" creationid="Olivier" creationdate="20200426T170959Z">
         <seg>Vous pourriez mettre en place une nouvelle unité de transformation du bétail afin d'alléger la charge de travail de l'unité actuelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have a price agreement with the supplier of this product.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T082302Z" creationid="Olivier" creationdate="20200507T082302Z">
+        <seg>Vous avez un accord de prix avec le fournisseur de ce produit.</seg>
       </tuv>
     </tu>
     <tu>
