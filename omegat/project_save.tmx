@@ -3534,6 +3534,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>B_GROUP</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T152130Z" creationid="Olivier" creationdate="20200507T152130Z">
+        <seg>B_GROUP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>B_INFO</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T152126Z" creationid="Inrepublica" creationdate="20200423T152126Z">
@@ -3550,6 +3558,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>B_OWNED</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T152203Z" creationid="Olivier" creationdate="20200507T152203Z">
+        <seg>B_OWNED</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>B_PROFIT</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T152132Z" creationid="Inrepublica" creationdate="20200423T152132Z">
@@ -3562,6 +3578,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T115426Z" creationid="Olivier" creationdate="20200428T115426Z">
         <seg>B_TOOL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>B_TOWN</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T152148Z" creationid="Olivier" creationdate="20200507T152148Z">
+        <seg>B_TOWN</seg>
       </tuv>
     </tu>
     <tu>
@@ -17473,6 +17497,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MFT_SOFT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T152259Z" creationid="Olivier" creationdate="20200507T152259Z">
+        <seg>MFT_SOFT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MG_EX1</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T145932Z" creationid="Olivier" creationdate="20200502T145932Z">
@@ -17717,6 +17749,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144556Z" creationid="Olivier" creationdate="20200428T144556Z">
         <seg>MMENUSP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MMFILBLD</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T152310Z" creationid="Olivier" creationdate="20200507T152310Z">
+        <seg>MMFILBLD</seg>
       </tuv>
     </tu>
     <tu>
@@ -19929,6 +19969,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Only show corporate bonds.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T152146Z" creationid="Olivier" creationdate="20200507T152146Z">
+        <seg>Ne montrer que les obligations des entreprises.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Only show index stocks.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T150958Z" creationid="Olivier" creationdate="20200503T150958Z">
@@ -19965,6 +20013,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T151109Z" creationid="Olivier" creationdate="20200503T151109Z">
         <seg>Ne montrer que les actions des médias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Only show municipal bonds issued by city governments.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T152202Z" creationid="Olivier" creationdate="20200507T152202Z">
+        <seg>N'indiquer que les obligations municipales émises par les administrations municipales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25177,6 +25233,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Set this manufacturing unit to produce software products.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T152309Z" creationid="Olivier" creationdate="20200507T152309Z">
+        <seg>Cette unité de fabrication est destinée à produire des logiciels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Set up a new floor</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T105445Z" creationid="Olivier" creationdate="20200506T105445Z">
@@ -25297,6 +25361,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Show any types of bonds.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T152128Z" creationid="Olivier" creationdate="20200507T152128Z">
+        <seg>Montrer tous les types d'obligations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Show any types of stocks.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T151038Z" creationid="Olivier" creationdate="20200503T150902Z">
@@ -25317,6 +25389,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200505T173113Z" creationid="Olivier" creationdate="20200505T173005Z">
         <seg>indiquer les classes de produits désactivés ou non.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show filtered firms only (hotkey: Ctrl-F)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T152335Z" creationid="Olivier" creationdate="20200507T152335Z">
+        <seg>Afficher uniquement les établissements filtrés (touche de raccourci : Ctrl-F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -27701,6 +27781,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145629Z" creationid="Olivier" creationdate="20200503T145629Z">
         <seg>Ce financement contribuera à améliorer la compétitivité de la ville dans la zone ciblée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The funding will increase the city's competitiveness in the focused area and improve the skills and supply of talents specializing in the focused area.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T152425Z" creationid="Olivier" creationdate="20200507T152425Z">
+        <seg>Ce financement permettra d'accroître la compétitivité de la ville dans le domaine ciblé et d'améliorer les compétences et l'offre de talents spécialisés dans ce domaine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30498,6 +30586,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Toggle whether showing only bonds that you own.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T152245Z" creationid="Olivier" creationdate="20200507T152245Z">
+        <seg>Affiche uniquement les obligations que vous possédez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Toggle whether showing only companies in which you own shares.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T150852Z" creationid="Olivier" creationdate="20200503T150852Z">
@@ -30846,6 +30942,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145606Z" creationid="Olivier" creationdate="20200503T145606Z">
         <seg>U_FUND</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>U_FUND2</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T152407Z" creationid="Olivier" creationdate="20200507T152407Z">
+        <seg>U_FUND2</seg>
       </tuv>
     </tu>
     <tu>
@@ -31838,6 +31942,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T155651Z" creationid="Olivier" creationdate="20200426T155651Z">
         <seg>Lorsque les cultures sont récoltées, elles sont stockées dans des granges, qui sont représentées par les barres bleues.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When enabled, only firms that match the filter criteria will be shown on the city view; other buildings will be hidden.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T152406Z" creationid="Olivier" creationdate="20200507T152406Z">
+        <seg>Lorsque c'est activé, seules les entreprises qui correspondent aux critères de filtrage seront affichées sur la vue de la ville ; les autres bâtiments seront cachés.</seg>
       </tuv>
     </tu>
     <tu>
