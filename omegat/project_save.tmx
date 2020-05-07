@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Inexact search is supported.)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T085908Z" creationid="Olivier" creationdate="20200507T085817Z">
+        <seg>(La recherche imprécise est possible).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Net worth is the value of all the assets of a company minus the value of all its outstanding liabilities.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T211524Z" creationid="Olivier" creationdate="20200430T211524Z">
@@ -8334,6 +8342,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ECOMM_GO</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T085826Z" creationid="Olivier" creationdate="20200507T085826Z">
+        <seg>ECOMM_GO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ECOM_SET</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145826Z" creationid="Inrepublica" creationdate="20200422T145826Z">
@@ -8856,8 +8872,8 @@
       <tuv lang="en-US">
         <seg>Example: enter "Computer Watch London" to search for computers and watches from suppliers in London.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T085814Z" creationid="Olivier" creationdate="20200507T085814Z">
-        <seg>Exemple : entrez "Ordinateur Montre Londres" pour rechercher des ordinateurs et des montres de fournisseurs à Londres.&lt;segment 33181&gt;</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T085822Z" creationid="Olivier" creationdate="20200507T085814Z">
+        <seg>Exemple : entrez "Ordinateur Montre Londres" pour rechercher des ordinateurs et des montres de fournisseurs à Londres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10788,6 +10804,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T091505Z" creationid="Olivier" creationdate="20200503T091505Z">
         <seg>Visitez votre centre de R&amp;D responsable de la recherche sur la technologie sélectionnée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to your e-commerce company.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T090603Z" creationid="Olivier" creationdate="20200507T090603Z">
+        <seg>Aller à votre entreprise de commerce en ligne</seg>
       </tuv>
     </tu>
     <tu>
