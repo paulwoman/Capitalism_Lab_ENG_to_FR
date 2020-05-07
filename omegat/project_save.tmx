@@ -1702,6 +1702,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>AAA is the best credit rating.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155411Z" creationid="Olivier" creationdate="20200507T155411Z">
+        <seg>AAA est la meilleure notation de crédit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ACIDE CITRIQUE|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150730Z" creationid="Inrepublica" creationdate="20200425T150730Z">
@@ -3190,6 +3198,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>At the initial setting, a bank lends money evenly to borrowers of different credit ratings (20% each).</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155452Z" creationid="Olivier" creationdate="20200507T155452Z">
+        <seg>Au départ, une banque prête de l'argent de manière égale à des emprunteurs ayant des cotes de crédit différentes (20 % chacun).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>At the same time you must achieve an annual revenue of $100 million and an annual profit of $10 million.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T210410Z" creationid="Olivier" creationdate="20200423T210410Z">
@@ -3362,6 +3378,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102246Z" creationid="Olivier" creationdate="20200507T102246Z">
         <seg>BANKBRAN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BANKBRFI</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155029Z" creationid="Olivier" creationdate="20200507T155029Z">
+        <seg>BANKBRFI</seg>
       </tuv>
     </tu>
     <tu>
@@ -3886,6 +3910,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Borrowers with good credit ratings can obtain loans with lower interest rates.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155429Z" creationid="Olivier" creationdate="20200507T155429Z">
+        <seg>Les emprunteurs ayant une bonne cote de crédit peuvent obtenir des prêts à des taux d'intérêt plus bas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Bottled Milk|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200505T161827Z" creationid="Olivier" creationdate="20200505T161827Z">
@@ -4266,6 +4298,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T215819Z" creationid="Olivier" creationdate="20200429T215819Z">
         <seg>En exploitant la marque, vos nouveaux produits seront reconnus instantanément par les consommateurs, sans publicité préalable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>C is the poorest credit rating.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155420Z" creationid="Olivier" creationdate="20200507T155420Z">
+        <seg>C est la plus mauvaise note de crédit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6702,6 +6742,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click to toggle it to use local settings.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155725Z" creationid="Olivier" creationdate="20200507T155725Z">
+        <seg>Cliquez pour passer d'un paramètre à l'autre afin d'utiliser les paramètres locaux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click to toggle it to use the global settings from its HQ's Real Estate department.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155825Z" creationid="Olivier" creationdate="20200507T155751Z">
+        <seg>Cliquez pour passer d'un mode à l'autre et utiliser les paramètres globaux du département immobilier de son QG. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click to toggle the display of apartments and commercial buildings.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T101856Z" creationid="Olivier" creationdate="20200502T101856Z">
@@ -7378,6 +7434,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T144930Z" creationid="Olivier" creationdate="20200504T144930Z">
         <seg>À l'inverse, une valeur faible indique que les habitants de certaines régions de la ville n'ont pas un bon accès aux services.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Conversely, borrowers with poor credit ratings have the higher default risks, thus the bank charges higher interest rates to justify the risks.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155434Z" creationid="Olivier" creationdate="20200507T155434Z">
+        <seg>À l'inverse, les emprunteurs ayant une mauvaise cote de crédit présentent les risques de défaillance les plus élevés, de sorte que la banque applique des taux d'intérêt plus élevés pour justifier ces risques.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11416,6 +11480,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Global Rent Settings</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155550Z" creationid="Olivier" creationdate="20200507T155550Z">
+        <seg>Paramètres globaux des loyers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Globe X=380</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T103626Z" creationid="Olivier" creationdate="20200428T103626Z">
@@ -12941,6 +13013,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155518Z" creationid="Inrepublica" creationdate="20200425T155518Z">
         <seg>HOTKEY LISTS (K)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HQ_AUTOA</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155827Z" creationid="Olivier" creationdate="20200507T155827Z">
+        <seg>HQ_AUTOA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HQ_AUTOC</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155845Z" creationid="Olivier" creationdate="20200507T155845Z">
+        <seg>HQ_AUTOC</seg>
       </tuv>
     </tu>
     <tu>
@@ -14509,6 +14597,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145936Z" creationid="Inrepublica" creationdate="20200422T145936Z">
         <seg>INSCLAIM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>INSUBRFI</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155220Z" creationid="Olivier" creationdate="20200507T155220Z">
+        <seg>INSUBRFI</seg>
       </tuv>
     </tu>
     <tu>
@@ -16369,6 +16465,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It currently uses the global rent settings from its HQ's Real Estate department.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155648Z" creationid="Olivier" creationdate="20200507T155648Z">
+        <seg>Actuellement, elle utilise les paramètres de loyer global du département immobilier de son QG.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It determines the competence of local competitors - their general capabilities to sell high quality products at competitive prices.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T155909Z" creationid="Inrepublica" creationdate="20200422T155909Z">
@@ -17025,6 +17129,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LOANAII</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155504Z" creationid="Olivier" creationdate="20200507T155504Z">
+        <seg>LOANAII</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LOANALL</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T103119Z" creationid="Olivier" creationdate="20200507T103119Z">
@@ -17033,10 +17145,42 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LOANALLO</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155436Z" creationid="Olivier" creationdate="20200507T155436Z">
+        <seg>LOANALLO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LOANCRED</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155315Z" creationid="Olivier" creationdate="20200507T155315Z">
+        <seg>LOANCRED</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LOANGRP</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T103153Z" creationid="Olivier" creationdate="20200507T103153Z">
         <seg>LOANGRP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LOANIIAN</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155248Z" creationid="Olivier" creationdate="20200507T155248Z">
+        <seg>LOANIIAN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LOANIITO</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155523Z" creationid="Olivier" creationdate="20200507T155523Z">
+        <seg>LOANIITO</seg>
       </tuv>
     </tu>
     <tu>
@@ -17441,6 +17585,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Loan Credit Rating</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155339Z" creationid="Olivier" creationdate="20200507T155339Z">
+        <seg>Cote de crédit des emprunts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Loan Interest Rate</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143552Z" creationid="Olivier" creationdate="20200503T143552Z">
@@ -17449,10 +17601,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Loan interests are the main incomes of the bank.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155522Z" creationid="Olivier" creationdate="20200507T155522Z">
+        <seg>Les intérêts des prêts sont les principaux revenus de la banque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Loan=20000000</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200424T121327Z" creationid="Inrepublica" creationdate="20200424T121327Z">
         <seg>Loan=20000000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Loans are categorized based on the borrowers' credit ratings which indicate the financial health of the borrowers.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155406Z" creationid="Olivier" creationdate="20200507T155355Z">
+        <seg>Les emprunt sont classés en fonction de la cote de crédit des emprunteurs, qui indique leur santé financière.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17469,6 +17637,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T094144Z" creationid="Olivier" creationdate="20200507T094144Z">
         <seg>Concurrents locaux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Local Rent Settings</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155741Z" creationid="Olivier" creationdate="20200507T155741Z">
+        <seg>Loyers locaux</seg>
       </tuv>
     </tu>
     <tu>
@@ -18725,6 +18901,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T101605Z" creationid="Olivier" creationdate="20200507T101605Z">
         <seg>Projet d'un nouveau jeu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New Loans Allocation</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155443Z" creationid="Olivier" creationdate="20200507T155443Z">
+        <seg>Attribution des nouveaux prêts</seg>
       </tuv>
     </tu>
     <tu>
@@ -20145,6 +20329,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On its balance sheet, the bank's net assets must be greater than the required bank capital.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155925Z" creationid="Olivier" creationdate="20200507T155925Z">
+        <seg>Dans son bilan, l'actif net de la banque doit être supérieur au capital bancaire requis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On the mini map, the white areas represent the city's buildings that are not owned by corporations, like houses and parks.^^Colored areas represent corporation owned buildings and are shown in the corporate color.^^~Seaports~ are represented by the letter 'C' or 'I' - ~'C' for Consumer products~ (like televisions or jeans) and ~'I' for industrial products~ (like coal or steel).</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T220635Z" creationid="Olivier" creationdate="20200422T171855Z">
@@ -20373,6 +20565,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T203650Z" creationid="Acer" creationdate="20200424T203610Z">
         <seg>Ouvrez à présent le ~centre d'informations~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Operating Expenses Report</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155043Z" creationid="Olivier" creationdate="20200507T155043Z">
+        <seg>Rapport sur les dépenses de fonctionnement</seg>
       </tuv>
     </tu>
     <tu>
@@ -23369,6 +23569,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Projected Annual Interest Incomes</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155509Z" creationid="Olivier" creationdate="20200507T155509Z">
+        <seg>Projection des revenus d'intérêt annuels</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Projected Annual Total Loan Interest Incomes</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155256Z" creationid="Olivier" creationdate="20200507T155256Z">
+        <seg>Projection des revenus annuels totaux des intérêts des prêts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Prove your ability and do not disappoint them!</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T162602Z" creationid="Olivier" creationdate="20200429T162602Z">
@@ -23617,6 +23833,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>REALGDPG</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155526Z" creationid="Olivier" creationdate="20200507T155526Z">
+        <seg>REALGDPG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>REDEMARRER TUTORIEL|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155524Z" creationid="Inrepublica" creationdate="20200425T155524Z">
@@ -23629,6 +23853,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T170938Z" creationid="Olivier" creationdate="20200504T170938Z">
         <seg>REDIRECT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>REGLOBAL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155544Z" creationid="Olivier" creationdate="20200507T155544Z">
+        <seg>REGLOBAL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>RELOCAL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155727Z" creationid="Olivier" creationdate="20200507T155727Z">
+        <seg>RELOCAL</seg>
       </tuv>
     </tu>
     <tu>
@@ -23901,6 +24141,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T223109Z" creationid="Olivier" creationdate="20200430T223109Z">
         <seg>Real Estate Focused Companies=5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Real GDP Growth</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155533Z" creationid="Olivier" creationdate="20200507T155533Z">
+        <seg>Croissance du PIB réel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Real GDP growth on an annual basis is the nominal GDP growth rate adjusted for inflation.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155542Z" creationid="Olivier" creationdate="20200507T155542Z">
+        <seg>La croissance réelle du PIB sur une base annuelle est le taux de croissance nominal du PIB ajusté pour l'inflation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26745,6 +27001,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>TRANCASH</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155854Z" creationid="Olivier" creationdate="20200507T155854Z">
+        <seg>TRANCASH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>T_BUILD</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T152137Z" creationid="Inrepublica" creationdate="20200423T152137Z">
@@ -27921,6 +28185,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The bank collects interest payments from loan borrowers.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155515Z" creationid="Olivier" creationdate="20200507T155515Z">
+        <seg>La banque perçoit les intérêts des emprunteurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The bank regulation stipulates that deposits should be not concentrated on a small number of large depositors.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T195422Z" creationid="Inrepublica" creationdate="20200422T195422Z">
@@ -27981,6 +28253,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T143426Z" creationid="Olivier" creationdate="20200504T143426Z">
         <seg>Le budget pour la modernisation des installations de ce bâtiment civique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The capital requirement set by the central bank.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T160010Z" creationid="Olivier" creationdate="20200507T160010Z">
+        <seg>Le fonds propre exigé par la banque centrale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28457,6 +28737,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The maximum amount of cash that you are allowed to transfer from the bank to your corporation.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155918Z" creationid="Olivier" creationdate="20200507T155918Z">
+        <seg>Le montant maximum d'argent liquide que vous êtes autorisé à transférer de la banque vers votre société.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The maximum amount of special dividend you can pay is the smaller value of 1) the company's cash and 2) its retained earnings.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T154053Z" creationid="Olivier" creationdate="20200507T154053Z">
@@ -28777,6 +29065,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The rent is set locally.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155746Z" creationid="Olivier" creationdate="20200507T155746Z">
+        <seg>Le loyer est fixé localement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The report displays ~market dominance by industry~ as well as ~by product class~.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T180156Z" creationid="Acer" creationdate="20200424T180156Z">
@@ -28797,6 +29093,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T100554Z" creationid="Olivier" creationdate="20200507T100554Z">
         <seg>Les données sur les ventes comprennent les ventes au détail et les ventes par Internet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The same for the other 2 figures below.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155307Z" creationid="Olivier" creationdate="20200507T155307Z">
+        <seg>Il en va de même pour les deux autres chiffres ci-dessous.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29654,6 +29958,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092621Z" creationid="Olivier" creationdate="20200506T092621Z">
         <seg>Cela détermine si le PDG peut construire des usines, des fermes et des entreprises de ressources naturelles pour fournir des matières premières et des semi-produits aux usines existantes qui en ont besoin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This figure is projected by multiplying the latest monthly loan interest incomes by 12 months.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155301Z" creationid="Olivier" creationdate="20200507T155301Z">
+        <seg>Ce chiffre est obtenu en multipliant par 12 mois les derniers revenus mensuels d'intérêts sur les prêts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30890,6 +31202,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To see the real historical total net interest incomes, please view the Financial report.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155313Z" creationid="Olivier" creationdate="20200507T155313Z">
+        <seg>Pour connaître le total historique réel des revenus d'intérêts nets, veuillez consulter le rapport financier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To see the ~goal report~, click the ~Information Center~ icon on the menu bar at the bottom of the screen.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T221339Z" creationid="Olivier" creationdate="20200422T211926Z">
@@ -31342,6 +31662,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T091329Z" creationid="Olivier" creationdate="20200507T091329Z">
         <seg>Transférez cet employé d'une autre entreprise de votre groupe à l'établissement actuel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Transferable Cash</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155858Z" creationid="Olivier" creationdate="20200507T155858Z">
+        <seg>Espèces transférables</seg>
       </tuv>
     </tu>
     <tu>
@@ -32210,6 +32538,22 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>View the operating expenses of this bank branch.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155219Z" creationid="Olivier" creationdate="20200507T155219Z">
+        <seg>Consultez les frais de fonctionnement de cette agence bancaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View the operating expenses of this insurance office.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155247Z" creationid="Olivier" creationdate="20200507T155247Z">
+        <seg>Consultez les frais de fonctionnement de ce bureau d'assurance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Votre nom|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200427T080114Z" creationid="Inrepublica" creationdate="20200427T080114Z">
@@ -32642,6 +32986,22 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When this is enabled, the computer will automatically manage all of the corporation's existing apartments.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155839Z" creationid="Olivier" creationdate="20200507T155839Z">
+        <seg>Lorsque cette fonction est activée, l'ordinateur gère automatiquement tous les appartements existants de la société.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When this is enabled, the computer will automatically manage all of the corporation's existing commercial buildings.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155852Z" creationid="Olivier" creationdate="20200507T155852Z">
+        <seg>Lorsque cette fonction est activée, l'ordinateur gère automatiquement tous les bâtiments commerciaux existants de la société.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When this is set to a higher value, loan defaults will soar at a higher rate during an economic downturn, leading to a potential liquidity crisis.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203635Z" creationid="Inrepublica" creationdate="20200422T203635Z">
@@ -32686,6 +33046,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T135918Z" creationid="Olivier" creationdate="20200427T135918Z">
         <seg>Lorsque vous avez trouvé un site de ressources naturelles que vous avez l'intention d'acheter, vous pouvez choisir ~Mine~ dans le menu de construction et construire une mine sur le site de ressources.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you increase the allocation to borrowers of poorer credit ratings, the bank will receive higher interest income, but the loan default rate will also increase as a result.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155502Z" creationid="Olivier" creationdate="20200507T155502Z">
+        <seg>Lorsque vous augmentez l'allocation aux emprunteurs ayant une mauvaise cote de crédit, la banque perçoit des intérêts plus élevés, mais le taux de défaut de remboursement du prêt augmente également en conséquence.</seg>
       </tuv>
     </tu>
     <tu>
