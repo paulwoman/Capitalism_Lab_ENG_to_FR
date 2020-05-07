@@ -15113,6 +15113,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>IVPROFIT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200507T192941Z" creationid="Acer" creationdate="20200507T192941Z">
+        <seg>IVPROFIT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I_BOND</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T101227Z" creationid="Olivier" creationdate="20200507T101227Z">
@@ -16537,6 +16545,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Investment Profit</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200507T192948Z" creationid="Acer" creationdate="20200507T192948Z">
+        <seg>Profit de l'investissement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Investment is the total investment by businesses.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T094457Z" creationid="Olivier" creationdate="20200506T094457Z">
@@ -16645,6 +16661,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151847Z" creationid="Olivier" creationdate="20200504T151847Z">
         <seg>Elle est égale au prix de son action multiplié par le nombre total d'actions en circulation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It equals to the amount of premiums received, less insurance claims and operating expenses.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200507T192939Z" creationid="Acer" creationdate="20200507T192939Z">
+        <seg>Il est égal au montant des primes reçues, moins les indemnités d'assurance et les frais de fonctionnement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25225,6 +25249,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>STOPDEPO</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200507T192958Z" creationid="Acer" creationdate="20200507T192958Z">
+        <seg>STOPDEPO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>STOPPER L'ACHAT|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155608Z" creationid="Inrepublica" creationdate="20200425T155608Z">
@@ -26805,6 +26837,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T101051Z" creationid="Olivier" creationdate="20200507T101051Z">
         <seg>Stock dans l'usine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stop Bank Deposits</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200507T193004Z" creationid="Acer" creationdate="20200507T193004Z">
+        <seg>Arrêter les dépôts bancaires</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stop accepting new bank deposits.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200507T193059Z" creationid="Acer" creationdate="20200507T193059Z">
+        <seg>N'accepte plus de nouveaux dépôts bancaires.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29173,6 +29221,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T100623Z" creationid="Olivier" creationdate="20200423T151202Z">
         <seg>Les produits que votre unité d'achats a commandé devraient déjà avoir été livrés à votre magasin, et votre unité d'achats devrait avoir commencé à travailler avec votre unité de vente en lui fournissant du stock.^^Regardons votre ~unité de ventes~ en la sélectionnant maintenant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The profit from underwriting insurance policies.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200507T192930Z" creationid="Acer" creationdate="20200507T192930Z">
+        <seg>Le bénéfice de la souscription des polices d'assurance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The profits from investments in stocks, bonds, and bank deposits.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200507T192956Z" creationid="Acer" creationdate="20200507T192956Z">
+        <seg>Les bénéfices des investissements en actions, obligations et dépôts bancaires.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31962,6 +32026,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>UWPROFIT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200507T192833Z" creationid="Acer" creationdate="20200507T192833Z">
+        <seg>UWPROFIT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>U_FUND</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145606Z" creationid="Olivier" creationdate="20200503T145606Z">
@@ -32022,6 +32094,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164232Z" creationid="Olivier" creationdate="20200429T164232Z">
         <seg>Sous votre direction, l'entreprise continue de se développer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Underwriting Profit</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200507T192913Z" creationid="Acer" creationdate="20200507T192913Z">
+        <seg>Souscription des bénéfices</seg>
       </tuv>
     </tu>
     <tu>
