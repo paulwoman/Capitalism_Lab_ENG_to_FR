@@ -1390,6 +1390,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A high utilization rate means that your factory is operating efficiently.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T101027Z" creationid="Olivier" creationdate="20200507T101027Z">
+        <seg>Un taux d'utilisation élevé signifie que votre usine fonctionne efficacement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A high utilization rate means that your unit is operating efficiently.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150920Z" creationid="Olivier" creationdate="20200502T150920Z">
@@ -1490,6 +1498,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203207Z" creationid="Inrepublica" creationdate="20200422T203207Z">
         <seg>Un écart d'intérêt net plus important signifie une plus grande marge bénéficiaire pour une banque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A low rate means that your factory has idle time and its capacity is underutilized.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T101036Z" creationid="Olivier" creationdate="20200507T101036Z">
+        <seg>Un taux bas signifie que votre usine a des temps morts et que sa capacité est sous-utilisée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9162,6 +9178,30 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T092250Z" creationid="Inrepublica" creationdate="20200426T092250Z">
         <seg>FA_INPUT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>FA_LEVEL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T100912Z" creationid="Olivier" creationdate="20200507T100912Z">
+        <seg>FA_LEVEL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>FA_STOCK</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T101038Z" creationid="Olivier" creationdate="20200507T101038Z">
+        <seg>FA_STOCK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>FA_UTIL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T100947Z" creationid="Olivier" creationdate="20200507T100947Z">
+        <seg>FA_UTIL</seg>
       </tuv>
     </tu>
     <tu>
@@ -19489,6 +19529,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Overall Capacity Utilization Rate of the Factory</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T100959Z" creationid="Olivier" creationdate="20200507T100959Z">
+        <seg>Taux global d'utilisation des capacités de l'usine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overall Experience Level of the Factory</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T100923Z" creationid="Olivier" creationdate="20200507T100923Z">
+        <seg>Niveau d'expérience global de l'usine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Overall Rating</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102838Z" creationid="Olivier" creationdate="20200503T102805Z">
@@ -25033,6 +25089,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Stock in the Factory</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T101051Z" creationid="Olivier" creationdate="20200507T101051Z">
+        <seg>Stock dans l'usine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Stop purchasing from the current supplier</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T152216Z" creationid="Olivier" creationdate="20200502T152216Z">
@@ -27273,6 +27337,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The stock level of the finished product in the factory.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T101102Z" creationid="Olivier" creationdate="20200507T101102Z">
+        <seg>Le niveau de stock du produit fini dans l'usine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The stock market allows for stock trading.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150823Z" creationid="Inrepublica" creationdate="20200422T150823Z">
@@ -28142,6 +28214,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T151220Z" creationid="Olivier" creationdate="20200503T151220Z">
         <seg>Il s'agit d'une entreprise publique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is determined by the experience levels of all individual units in your factory.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T100946Z" creationid="Olivier" creationdate="20200507T100946Z">
+        <seg>Ceci est déterminé par les niveaux d'expérience de toutes les unités individuelles de votre usine</seg>
       </tuv>
     </tu>
     <tu>
@@ -29334,6 +29414,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T160004Z" creationid="Olivier" creationdate="20200504T160004Z">
         <seg>Permet de basculer entre le mode d'affichage de la bannière et le mode d'affichage des informations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Toggle between the Analysis Mode and the standard 3x3 layout mode.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T100911Z" creationid="Olivier" creationdate="20200507T100911Z">
+        <seg>Passer en mode d'analyse (touche de raccourci : X)</seg>
       </tuv>
     </tu>
     <tu>
