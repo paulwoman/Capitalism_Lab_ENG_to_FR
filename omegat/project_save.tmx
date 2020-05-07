@@ -7374,6 +7374,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>D_MOBIL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T100015Z" creationid="Olivier" creationdate="20200507T100015Z">
+        <seg>D_MOBIL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>D_PC</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T092850Z" creationid="Olivier" creationdate="20200507T092850Z">
@@ -15721,6 +15729,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It shows the number of mobile users in this city.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T100121Z" creationid="Olivier" creationdate="20200507T100121Z">
+        <seg>Cela indique le nombre d'utilisateurs de téléphones portables dans cette ville</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It shows the number of personal computer users in this city.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T092938Z" creationid="Olivier" creationdate="20200507T092938Z">
@@ -17493,6 +17509,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T165303Z" creationid="Olivier" creationdate="20200503T165303Z">
         <seg>Outil de zonage mixte résidentiel-commercial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mobile Users</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T100050Z" creationid="Olivier" creationdate="20200507T100050Z">
+        <seg>Utilisateurs de mobiles</seg>
       </tuv>
     </tu>
     <tu>
@@ -31226,6 +31250,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can switch your corporation's brand strategy here by clicking one of the below brand strategies.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T100014Z" creationid="Olivier" creationdate="20200507T100014Z">
+        <seg>Vous pouvez changer la stratégie de marque de votre entreprise ici en cliquant sur l'une des stratégies de marque ci-dessous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can take vertical integration to a new level by setting up your ~own mining operations~ to supply ~your factories~ with the ~raw materials~ they need.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T135522Z" creationid="Olivier" creationdate="20200427T135522Z">
@@ -33549,8 +33581,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0553]Switch Brand Strategy|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T153940Z" creationid="Olivier" creationdate="20200426T153940Z">
-        <seg>[0553]Stratégie de changement de marque|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T095954Z" creationid="Olivier" creationdate="20200426T153940Z">
+        <seg>[0553]Changer de stratégie de marque|</seg>
       </tuv>
     </tu>
     <tu>
