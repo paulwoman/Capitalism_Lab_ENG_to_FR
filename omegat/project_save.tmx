@@ -6134,6 +6134,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click here to show/hide the window that shows the Market Share of the current product.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200507T192049Z" creationid="Acer" creationdate="20200507T192049Z">
+        <seg>Cliquez ici pour afficher/masquer la fenêtre qui indique la part de marché du produit actuel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click here to switch between display modes</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T103744Z" creationid="Olivier" creationdate="20200503T103744Z">
@@ -8026,6 +8034,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T141014Z" creationid="Olivier" creationdate="20200426T141014Z">
         <seg>Selon le type d'unité fonctionnelle, la formation peut augmenter sa productivité et/ou sa capacité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Deposit</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200507T192055Z" creationid="Acer" creationdate="20200507T192055Z">
+        <seg>Dépôt</seg>
       </tuv>
     </tu>
     <tu>
@@ -17777,6 +17793,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MARKETSH</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200507T192027Z" creationid="Acer" creationdate="20200507T192027Z">
+        <seg>MARKETSH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MAXAIDIG</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145915Z" creationid="Inrepublica" creationdate="20200422T145915Z">
@@ -18437,6 +18461,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T103612Z" creationid="Olivier" creationdate="20200428T103612Z">
         <seg>Marco Economy Realism=High</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Market Share Window</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200507T192041Z" creationid="Acer" creationdate="20200507T192041Z">
+        <seg>Fenêtre de part de marché</seg>
       </tuv>
     </tu>
     <tu>
@@ -27009,6 +27041,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>TRANMODE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200507T191950Z" creationid="Acer" creationdate="20200507T191950Z">
+        <seg>TRANMODE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>T_BUILD</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T152137Z" creationid="Inrepublica" creationdate="20200423T152137Z">
@@ -28757,6 +28797,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202908Z" creationid="Inrepublica" creationdate="20200422T202908Z">
         <seg>Le montant maximum des obligations qu'une société peut émettre est limité à un multiple de sa capitalisation, qui est fixée ici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The maximum deposit amount is constrained by the deposit cap.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200507T192102Z" creationid="Acer" creationdate="20200507T192102Z">
+        <seg>Le montant maximum de la caution est limité par le plafond de la caution.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31642,6 +31690,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Transfer Mode</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200507T192013Z" creationid="Acer" creationdate="20200507T192013Z">
+        <seg>Mode Transfert</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Transfer or Demolish this apartment</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092420Z" creationid="Olivier" creationdate="20200506T092420Z">
@@ -31806,6 +31862,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150955Z" creationid="Olivier" creationdate="20200502T150955Z">
         <seg>U_WORKER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Under the regulation, deposits should be not concentrated on a small number of large depositors.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200507T192543Z" creationid="Acer" creationdate="20200507T192543Z">
+        <seg>Selon la règulation, les dépôts ne doivent pas être concentrés sur un petit nombre de grands déposants.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33886,6 +33950,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T152109Z" creationid="Olivier" creationdate="20200507T152109Z">
         <seg>Vous pouvez attribuer les touches 'W', 'S', 'A' et 'D' comme touches de raccourci contextuelles ou les utiliser pour faire défiler le plan de la ville.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may change the transfer mode - whether it is to transfer funds from the bank to its parent corporation, or the other way round, by clicking on the Arrow icon.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200507T192025Z" creationid="Acer" creationdate="20200507T192025Z">
+        <seg>Vous pouvez changer le mode de transfert - que ce soit pour transférer des fonds de la banque vers sa société mère, ou l'inverse, en cliquant sur l'icône Flèche.</seg>
       </tuv>
     </tu>
     <tu>
