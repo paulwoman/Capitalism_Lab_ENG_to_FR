@@ -2574,6 +2574,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All Loans</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T103130Z" creationid="Olivier" creationdate="20200507T103130Z">
+        <seg>Tous les emprunts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All available media firms in the current city are displayed.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T165523Z" creationid="Acer" creationdate="20200424T165523Z">
@@ -3346,6 +3354,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145957Z" creationid="Inrepublica" creationdate="20200422T145957Z">
         <seg>BCAPREQ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BKHQSERV</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T103015Z" creationid="Olivier" creationdate="20200507T103015Z">
+        <seg>BKHQSERV</seg>
       </tuv>
     </tu>
     <tu>
@@ -15921,6 +15937,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is determined by the #staff skill level# and the #customer waiting time#.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T103101Z" creationid="Olivier" creationdate="20200507T103101Z">
+        <seg>Cela est déterminé par le #niveau de compétence du personnel# et le #temps d'attente du client#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is important to decide upon your brand strategy at the start of a game as there is a heavy cost for switching your brand strategy - it resets all existing brand ratings to zero.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T155011Z" creationid="Acer" creationdate="20200424T155011Z">
@@ -16473,6 +16497,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LOANALL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T103119Z" creationid="Olivier" creationdate="20200507T103119Z">
+        <seg>LOANALL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LOANGRP</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T103153Z" creationid="Olivier" creationdate="20200507T103153Z">
+        <seg>LOANGRP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LOANINT</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145831Z" creationid="Inrepublica" creationdate="20200422T145831Z">
@@ -16885,6 +16925,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200424T121327Z" creationid="Inrepublica" creationdate="20200424T121327Z">
         <seg>Loan=20000000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Loans to Corporations</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T103204Z" creationid="Olivier" creationdate="20200507T103204Z">
+        <seg>Prêts aux entreprises</seg>
       </tuv>
     </tu>
     <tu>
@@ -18309,6 +18357,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T092830Z" creationid="Olivier" creationdate="20200507T092830Z">
         <seg>Notez que le salaire affiché ici est le salaire annuel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Note that these loans, together with loans to local companies, constitute the loan totals shown on the [All Loans] page.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T103232Z" creationid="Olivier" creationdate="20200507T103232Z">
+        <seg>Notez que ces prêts, ainsi que les prêts aux entreprises locales, constituent les totaux des prêts indiqués sur la page [Tous les prêts].</seg>
       </tuv>
     </tu>
     <tu>
@@ -24489,6 +24545,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select this to show a list of loans that have been made to corporations.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T103216Z" creationid="Olivier" creationdate="20200507T103216Z">
+        <seg>Sélectionnez cette option pour afficher une liste des prêts qui ont été accordés à des sociétés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select this to show all loans that have been made to local companies and corporations.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T103141Z" creationid="Olivier" creationdate="20200507T103141Z">
+        <seg>Sélectionnez cette option pour afficher tous les prêts qui ont été accordés aux entreprises et sociétés locales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select your Golf Club Manufacturing unit by clicking on it.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T095134Z" creationid="Olivier" creationdate="20200424T095134Z">
@@ -26913,6 +26985,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The average service quality of all the bank's branches.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T103026Z" creationid="Olivier" creationdate="20200507T103026Z">
+        <seg>La qualité de service moyenne de toutes les agences de la banque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The average staff skill level of all the bank's branches.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102607Z" creationid="Olivier" creationdate="20200507T102607Z">
@@ -27341,6 +27421,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T135623Z" creationid="Olivier" creationdate="20200427T135623Z">
         <seg>Les lettres sur la mini carte indiquent les types de ressources naturelles disponibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The loans are grouped under different credit ratings and the total amount of each group is shown.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T103152Z" creationid="Olivier" creationdate="20200507T103152Z">
+        <seg>Les prêts sont regroupés sous différentes cotes de crédit et le montant total de chaque groupe est indiqué.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29686,6 +29774,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T091115Z" creationid="Olivier" creationdate="20200507T091115Z">
         <seg>Pour recruter une personne, vous devez lui offrir un salaire plus élevé et une prime d'inscription.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To increase it, select the #Marketing# page and set up advertising.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T103117Z" creationid="Olivier" creationdate="20200507T103117Z">
+        <seg>Pour l'augmenter, sélectionnez la page #Marketing# et mettez en place la publicité.</seg>
       </tuv>
     </tu>
     <tu>
