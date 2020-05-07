@@ -3638,6 +3638,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Build a new city (disabled)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T082949Z" creationid="Olivier" creationdate="20200507T082949Z">
+        <seg>Construire une nouvelle ville (handicap)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Build a new city (size: 100X100) (disabled)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T082904Z" creationid="Olivier" creationdate="20200507T082904Z">
+        <seg>Construire une nouvelle ville (taille : 100x100) (handicap)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Build a new city (size: 100x100).</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T082928Z" creationid="Olivier" creationdate="20200507T082911Z">
+        <seg>Construire une nouvelle ville (taille : 100x100).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Build a new city (size: 200x200) (disabled)</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151703Z" creationid="Olivier" creationdate="20200504T151703Z">
@@ -10368,6 +10392,30 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>G_BCMAX</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T082929Z" creationid="Olivier" creationdate="20200507T082929Z">
+        <seg>G_BCMAX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>G_BSCIT0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T082841Z" creationid="Olivier" creationdate="20200507T082841Z">
+        <seg>G_BSCIT0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>G_BSCIT1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T082906Z" creationid="Olivier" creationdate="20200507T082906Z">
+        <seg>G_BSCIT1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>G_CASH</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T101113Z" creationid="Olivier" creationdate="20200506T101113Z">
@@ -12253,6 +12301,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T082722Z" creationid="Olivier" creationdate="20200507T082722Z">
         <seg>Embaucher tous</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hire team leads for all functional units connected with the current one, choosing job candidates whose requested salaries are similar to the one's you hired.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T082820Z" creationid="Olivier" creationdate="20200507T082820Z">
+        <seg>L'équipe de recrutement dirige toutes les unités fonctionnelles liées à l'unité actuelle, en choisissant des candidats dont le salaire demandé est similaire à celui que vous avez engagé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19241,6 +19297,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>PRIVONLY</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T082823Z" creationid="Olivier" creationdate="20200507T082823Z">
+        <seg>PRIVONLY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>PS_CITY</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150804Z" creationid="Olivier" creationdate="20200504T150804Z">
@@ -23777,6 +23841,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Show only private companies</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T082840Z" creationid="Olivier" creationdate="20200507T082840Z">
+        <seg>Afficher uniquement les entreprises privées</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Show products that your company produces</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T165910Z" creationid="Olivier" creationdate="20200502T165817Z">
@@ -26165,6 +26237,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202908Z" creationid="Inrepublica" creationdate="20200422T202908Z">
         <seg>Le montant maximum des obligations qu'une société peut émettre est limité à un multiple de sa capitalisation, qui est fixée ici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The maximum number of cities allowed in a game has been reached.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T083008Z" creationid="Olivier" creationdate="20200507T083008Z">
+        <seg>Le nombre maximum de villes autorisées dans une partie a été atteint.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30382,6 +30462,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T173821Z" creationid="Olivier" creationdate="20200504T173821Z">
         <seg>Vous pouvez ensuite utiliser la conception du produit dans vos unités de fabrication dans vos usines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You cannot build new ones.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T083040Z" creationid="Olivier" creationdate="20200507T083040Z">
+        <seg>Vous ne pouvez pas en construire de nouvelles</seg>
       </tuv>
     </tu>
     <tu>
