@@ -20569,6 +20569,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Only do this when you intend to wind down the bank's deposits and eventually close it down.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T205516Z" creationid="Olivier" creationdate="20200507T205516Z">
+        <seg>Ne le faites que lorsque vous avez l'intention de liquider les dépôts de la banque et de la fermer à terme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Only show all products that your company is currently producing.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T170006Z" creationid="Olivier" creationdate="20200502T170006Z">
@@ -25257,6 +25265,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>STOPLOAN</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T205518Z" creationid="Olivier" creationdate="20200507T205518Z">
+        <seg>STOPLOAN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>STOPPER L'ACHAT|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155608Z" creationid="Inrepublica" creationdate="20200425T155608Z">
@@ -26849,10 +26865,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Stop Bank Loans</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T205526Z" creationid="Olivier" creationdate="20200507T205526Z">
+        <seg>Arrêter les prêts bancaires</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Stop accepting new bank deposits.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200507T193059Z" creationid="Acer" creationdate="20200507T193059Z">
         <seg>N'accepte plus de nouveaux dépôts bancaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stop approving new loans.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T215112Z" creationid="Olivier" creationdate="20200507T215112Z">
+        <seg>Cesse d'approuver de nouveaux prêts.</seg>
       </tuv>
     </tu>
     <tu>
