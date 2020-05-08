@@ -94,6 +94,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#Product Quality# is the sum total of #Raw Material Quality# and #Production Quality#.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T142058Z" creationid="Olivier" creationdate="20200508T142058Z">
+        <seg>La #qualité du produit# est la somme de la #qualité des matières premières# et de la #qualité de la production#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>#Production Quality# is determined by the #Product Technology# of the producer company.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T142123Z" creationid="Olivier" creationdate="20200508T142123Z">
+        <seg>La #qualité de la production# est déterminée par la #technologie du produit# de la société productrice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>("Technology Disruption" option is disabled when "Product Customization" is enabled.)</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150901Z" creationid="Inrepublica" creationdate="20200422T150901Z">
@@ -1410,6 +1426,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T141645Z" creationid="Olivier" creationdate="20200503T141645Z">
         <seg>La croissance démographique d'une ville est soutenue par 1) #un faible taux de chômage#, 2) #une qualité de vie élevée#, et 3) #une offre de logement suffisante#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A company's brand strategy can be viewed in the #Corporate Details# report's #Brand# page.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T142906Z" creationid="Olivier" creationdate="20200508T142906Z">
+        <seg>La stratégie de marque d'une entreprise peut être consultée sur la page #Brand# du rapport #Détails de l'entreprise#.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3798,6 +3822,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>BRANDSTR</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T142736Z" creationid="Olivier" creationdate="20200508T142736Z">
+        <seg>BRANDSTR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>BRAND_ST</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T095748Z" creationid="Olivier" creationdate="20200507T095748Z">
@@ -4250,6 +4282,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200505T161829Z" creationid="Olivier" creationdate="20200505T161829Z">
         <seg>Bouteille de Lait|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Brand Strategy</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T142744Z" creationid="Olivier" creationdate="20200508T142744Z">
+        <seg>Stratégie de marque</seg>
       </tuv>
     </tu>
     <tu>
@@ -4930,6 +4970,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150730Z" creationid="Inrepublica" creationdate="20200425T150730Z">
         <seg>CITRIC ACID|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CITYQUAB</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T142221Z" creationid="Olivier" creationdate="20200508T142221Z">
+        <seg>CITYQUAB</seg>
       </tuv>
     </tu>
     <tu>
@@ -5850,6 +5898,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T141653Z" creationid="Olivier" creationdate="20200503T141626Z">
         <seg>Croissance démographique des villes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City Quality Bonus</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T142228Z" creationid="Olivier" creationdate="20200508T142228Z">
+        <seg>Prime à la qualité de la ville</seg>
       </tuv>
     </tu>
     <tu>
@@ -11230,6 +11286,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For more details, press F1 to open the guide to see the production details.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T142111Z" creationid="Olivier" creationdate="20200508T142111Z">
+        <seg>Pour plus de détails, appuyez sur F1 pour ouvrir le guide et voir les détails de la production.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For more details, see the Cities page on the Information Center.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150519Z" creationid="Olivier" creationdate="20200504T150519Z">
@@ -13601,10 +13665,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>HEADBRAN</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T142729Z" creationid="Olivier" creationdate="20200508T142729Z">
+        <seg>HEADBRAN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>HEADHUNT</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T090630Z" creationid="Olivier" creationdate="20200507T090630Z">
         <seg>HEADHUNT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HEADQUAL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T142037Z" creationid="Olivier" creationdate="20200508T142037Z">
+        <seg>HEADQUAL</seg>
       </tuv>
     </tu>
     <tu>
@@ -14205,6 +14285,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T171030Z" creationid="Olivier" creationdate="20200430T171030Z">
         <seg>Housing and Community Facilities rating=90, Hamburg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hover the mouse over any of the text lines below to see context sensitive help.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T142046Z" creationid="Olivier" creationdate="20200508T142046Z">
+        <seg>Passez la souris sur l'une des lignes de texte ci-dessous pour voir l'aide contextuelle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17373,6 +17461,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T101135Z" creationid="Olivier" creationdate="20200430T101135Z">
         <seg>Elle responsabilise les citoyens, augmente l'emploi et stimule la croissance des salaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It equals to #Maximum Production Quality# X #Owned Tech# / #Top Tech# (see below)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T142219Z" creationid="Olivier" creationdate="20200508T142219Z">
+        <seg>Elle est égale à #Qualité maximale de production# X #Technologie propre# / #Technologie de pointe# (voir ci-dessous)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21369,6 +21465,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OVERALLR</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T142025Z" creationid="Olivier" creationdate="20200508T142025Z">
+        <seg>OVERALLR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OWNTECH</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T142403Z" creationid="Olivier" creationdate="20200508T142403Z">
+        <seg>OWNTECH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Occasional|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200505T161946Z" creationid="Olivier" creationdate="20200505T161946Z">
@@ -21881,6 +21993,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Owned Technology</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T142448Z" creationid="Olivier" creationdate="20200508T142448Z">
+        <seg>Technologie propriétaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ownership=1</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170924Z" creationid="Olivier" creationdate="20200427T170924Z">
@@ -22301,6 +22421,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T082823Z" creationid="Olivier" creationdate="20200507T082823Z">
         <seg>PRIVONLY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PRODQUA1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T142047Z" creationid="Olivier" creationdate="20200508T142047Z">
+        <seg>PRODQUA1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PRODQUA2</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T142113Z" creationid="Olivier" creationdate="20200508T142113Z">
+        <seg>PRODQUA2</seg>
       </tuv>
     </tu>
     <tu>
@@ -24697,6 +24833,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Product Quality</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T142050Z" creationid="Olivier" creationdate="20200508T142050Z">
+        <seg>Qualité des produits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Product Rating Indicators</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150314Z" creationid="Olivier" creationdate="20200502T150314Z">
@@ -24781,6 +24925,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214845Z" creationid="Olivier" creationdate="20200429T214845Z">
         <seg>Product=Snacks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Production Quality</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T142117Z" creationid="Olivier" creationdate="20200508T142117Z">
+        <seg>Qualité de la production</seg>
       </tuv>
     </tu>
     <tu>
@@ -24985,6 +25137,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>QUALITY</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T142014Z" creationid="Olivier" creationdate="20200508T142014Z">
+        <seg>QUALITÉ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>QUIT TO MAIN MENU|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155525Z" creationid="Inrepublica" creationdate="20200425T155525Z">
@@ -25005,6 +25165,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155528Z" creationid="Inrepublica" creationdate="20200425T155528Z">
         <seg>QUITTER VERS WINDOWS|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Quality Rating</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T142024Z" creationid="Olivier" creationdate="20200508T142024Z">
+        <seg>Évaluation de la qualité</seg>
       </tuv>
     </tu>
     <tu>
@@ -25069,6 +25237,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T092802Z" creationid="Olivier" creationdate="20200507T092802Z">
         <seg>RAISESAL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>RAWQUAL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T142059Z" creationid="Olivier" creationdate="20200508T142059Z">
+        <seg>RAWQUAL</seg>
       </tuv>
     </tu>
     <tu>
@@ -25421,6 +25597,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170651Z" creationid="Olivier" creationdate="20200427T170651Z">
         <seg>Raw Material Production=100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Raw Material Quality</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T142103Z" creationid="Olivier" creationdate="20200508T142103Z">
+        <seg>Qualité des matières premières</seg>
       </tuv>
     </tu>
     <tu>
@@ -28561,6 +28745,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>TOPTECH</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T142521Z" creationid="Olivier" creationdate="20200508T142521Z">
+        <seg>TOPTECH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>TOTALCF</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T141835Z" creationid="Olivier" creationdate="20200508T141835Z">
@@ -29577,10 +29769,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The #Quality Rating# gets a boost from the #City Competitiveness Rating# in this product class.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T142400Z" creationid="Olivier" creationdate="20200508T142244Z">
+        <seg>La #cote de qualité# est renforcée par la #cote de compétitivité des villes# dans cette catégorie de produits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The #net interest margin# is a measure of the difference between the bank's #interest income from loans# and the amount of #deposit interest paid out to its customers#, relative to the amount of its #interest-earning assets#.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T084508Z" creationid="Olivier" creationdate="20200508T084508Z">
         <seg>La #marge d'intérêt nette# est une mesure de la différence entre les #revenus d'intérêts des prêts# de la banque et le montant des #intérêts de dépôt payés à ses clients#, par rapport au montant de ses #actifs productifs d'intérêts#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Brand section</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T142735Z" creationid="Olivier" creationdate="20200508T142735Z">
+        <seg>La section Marque</seg>
       </tuv>
     </tu>
     <tu>
@@ -29613,6 +29821,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T085529Z" creationid="Olivier" creationdate="20200508T085529Z">
         <seg>Le ratio prêts/actifs est calculé en divisant le total des actifs de la banque par les dépôts de ses clients.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Overall rating is determined by the #Price#, the #Quality# rating and the #Brand# rating.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T142035Z" creationid="Olivier" creationdate="20200508T142035Z">
+        <seg>La note globale est déterminée par les notes #Prix#, #Qualité# et #Marque#.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29657,6 +29873,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Quality section</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T142041Z" creationid="Olivier" creationdate="20200508T142041Z">
+        <seg>La section Qualité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The R&amp;D skill of the manager of this R&amp;D firm must be at least 20 in order to start a radical R&amp;D project.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T153249Z" creationid="Olivier" creationdate="20200502T153209Z">
@@ -29689,6 +29913,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The World's Top #Production Technology# on this product.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T142658Z" creationid="Olivier" creationdate="20200508T142658Z">
+        <seg>La meilleure #technologie de production# au monde sur ce produit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The above ~Event Tracker~ message window indicates that the your R&amp;D project has been completed, increasing your production technology level for Air Conditioners to 33.^^All your factories producing air conditioners will benefit from the technological advancement, enabling them to produce air conditioners of higher quality.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T140053Z" creationid="Olivier" creationdate="20200426T140053Z">
@@ -29701,6 +29933,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T083656Z" creationid="Olivier" creationdate="20200507T083651Z">
         <seg>Le prix de la publicité est mesuré en coût pour mille impressions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The aggregate quality of all the required raw materials and semi products for making this product.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T142108Z" creationid="Olivier" creationdate="20200508T142108Z">
+        <seg>La qualité globale de toutes les matières premières et semi-produits nécessaires à la fabrication de ce produit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30005,6 +30245,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200507T192829Z" creationid="Acer" creationdate="20200507T192829Z">
         <seg>Les réserves pour indemnisation représentent l'argent qui doit être détenu par la compagnie d'assurance afin de pouvoir faire face à toutes les réclamations futures découlant de polices souscrites dans le passé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The closer the #Owned Tech# is to this #Top Tech#, the higher the product's #Quality# is.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T142728Z" creationid="Olivier" creationdate="20200508T142728Z">
+        <seg>Plus la #Technologie propriétaire# est proche de cette #Technologie de pointe#, plus la #Qualité# du produit est élevée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30749,6 +30997,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151323Z" creationid="Olivier" creationdate="20200507T151323Z">
         <seg>Le niveau de prix des primes d'assurance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The producer company's #Production Technology# on this product, which can be improved in #R&amp;D Centers#.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T142513Z" creationid="Olivier" creationdate="20200508T142513Z">
+        <seg>La #Technologie de production# de la société productrice sur ce produit, qui peut être amélioré dans les #Centres de R&amp;D#.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33098,6 +33354,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To see the #City Competitiveness Rating#, open the #Cities report# and select the #Industries# page.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T142443Z" creationid="Olivier" creationdate="20200508T142255Z">
+        <seg>Pour voir le #Classement de la compétitivité des villes#, ouvrez le #Rapport sur les villes# et sélectionnez la page #Industries#..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To see the details, open the Software Guide in the Information Center.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T161113Z" creationid="Olivier" creationdate="20200506T161113Z">
@@ -33365,6 +33629,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
         <seg>Top Tech</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T085140Z" creationid="Olivier" creationdate="20200508T085124Z">
+        <seg>Technologie de pointe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Top Technology</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T142527Z" creationid="Olivier" creationdate="20200508T142527Z">
         <seg>Technologie de pointe</seg>
       </tuv>
     </tu>
