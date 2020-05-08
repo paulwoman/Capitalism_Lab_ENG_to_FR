@@ -41451,6 +41451,78 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1050]&lt;0207&gt;Stock Assets|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T144050Z" creationid="Olivier" creationdate="20200508T144050Z">
+        <seg>[1050]&lt;0207&gt;Actifs boursiers|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1051]&lt;0208&gt;Total Loans|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T144135Z" creationid="Olivier" creationdate="20200508T144135Z">
+        <seg>[1051]&lt;0208&gt;Total des prêts|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1052]&lt;0209&gt;Dividend Paid|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T144151Z" creationid="Olivier" creationdate="20200508T144151Z">
+        <seg>[1052]&lt;0209&gt;Dividende versé|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1053]&lt;0210&gt;Stock Return|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T144229Z" creationid="Olivier" creationdate="20200508T144229Z">
+        <seg>[1053]&lt;0210&gt;Rendement des actions|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1054]&lt;0211&gt;Salaries Expense|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T144254Z" creationid="Olivier" creationdate="20200508T144254Z">
+        <seg>[1054]&lt;0211&gt;Dépenses salariales|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1055]&lt;0212&gt;Advertising|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T144312Z" creationid="Olivier" creationdate="20200508T144312Z">
+        <seg>[1055]&lt;0212&gt;Publicité|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1056]&lt;0213&gt;Training|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T144329Z" creationid="Olivier" creationdate="20200508T144329Z">
+        <seg>[1056&lt;0213&gt;Formation|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1057]&lt;0214&gt;Write-offs|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T144349Z" creationid="Olivier" creationdate="20200508T144349Z">
+        <seg>1057&lt;0214&gt;Amortissements|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1058]&lt;0215&gt;Shareholder          Owned Qty   Owned%  Stock Value   Position|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T144540Z" creationid="Olivier" creationdate="20200508T144540Z">
+        <seg>[1058]&lt;0215&gt;Actionnaire          Qté Poss   %Poss  Val actions   Position|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1075]&lt;0231&gt;No.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T054139Z" creationid="Inrepublica" creationdate="20200423T054139Z">
