@@ -8,7 +8,7 @@ set source="C:\Users\%USERNAME%\Documents\Capitalism_Lab_ENG_to_FR\target"
 set cible="C:\Users\%USERNAME%\AppData\Local\Capitalism Lab"
 
 :: Copie des fichiers
-xcopy %source%\Release\t_game.txt %cible%\Translate\ /Y
+xcopy %source%\Release\Translate\t_game.txt %cible%\Translate\ /Y
 
 Pause
 exit
