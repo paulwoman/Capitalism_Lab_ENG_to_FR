@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(The change from 12 months ago is displayed in brackets.)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T090956Z" creationid="Olivier" creationdate="20200508T090956Z">
+        <seg>(Le changement par rapport à la situation observée au cours des 12 derniers mois est indiqué entre parenthèses).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(The more loyal the person is to his/her current employer, the higher the salary you must offer.)</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T091200Z" creationid="Olivier" creationdate="20200507T090723Z">
@@ -1126,6 +1134,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>1) The city's local businesses benefit from increased competitiveness and #export#, thus hiring more workers and decreasing the city's #unemployment rate#.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091604Z" creationid="Olivier" creationdate="20200508T091604Z">
+        <seg>1) Les entreprises locales de la ville bénéficient d'une compétitivité accrue et de #l'exportation#, ce qui permet d'embaucher davantage de travailleurs et de réduire #le taux de chômage# de la ville.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>1.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T120935Z" creationid="Olivier" creationdate="20200428T120935Z">
@@ -1178,6 +1194,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150657Z" creationid="Inrepublica" creationdate="20200425T150657Z">
         <seg>2 years|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>2) #Manufacturing units# in factories have #City Quality Bonuses# added to their products' #Product Quality# ratings.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091634Z" creationid="Olivier" creationdate="20200508T091634Z">
+        <seg>2) #Les unités de production# des usines ont des #bonus de qualité de la ville# ajoutés à l'évaluation de la #qualité de leurs produits#.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1570,6 +1594,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102103Z" creationid="Olivier" creationdate="20200507T102103Z">
         <seg>Un long temps d'attente des clients affecte négativement la #qualité du service# de l'agence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A long customer waiting time negatively affects the service quality of this insurance front office.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091139Z" creationid="Olivier" creationdate="20200508T091139Z">
+        <seg>Un long temps d'attente des clients affecte négativement la qualité de service de ce front office de l'assurance.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2710,6 +2742,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All Deposits</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091505Z" creationid="Olivier" creationdate="20200508T091505Z">
+        <seg>Tous les dépôts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All Loans</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T103130Z" creationid="Olivier" creationdate="20200507T103130Z">
@@ -3406,6 +3446,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Average Brand Rating</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091354Z" creationid="Olivier" creationdate="20200508T091354Z">
+        <seg>Classement moyen de la marque</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Average Customer Waiting Time</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102749Z" creationid="Olivier" creationdate="20200507T102749Z">
@@ -3542,6 +3590,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>BATCHTRA</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091704Z" creationid="Olivier" creationdate="20200508T091704Z">
+        <seg>BATCHTRA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>BATCH_F</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T144334Z" creationid="Olivier" creationdate="20200503T144334Z">
@@ -3634,6 +3690,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200507T192629Z" creationid="Acer" creationdate="20200507T192629Z">
         <seg>BFUNDTRA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BKABRAND</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091322Z" creationid="Olivier" creationdate="20200508T091322Z">
+        <seg>BKABRAND</seg>
       </tuv>
     </tu>
     <tu>
@@ -3954,6 +4018,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T144230Z" creationid="Olivier" creationdate="20200503T144230Z">
         <seg>Changement de fournisseur par groupe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Batch Transfer Firms</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091749Z" creationid="Olivier" creationdate="20200508T091749Z">
+        <seg>Transférer les établissements par lots</seg>
       </tuv>
     </tu>
     <tu>
@@ -6422,6 +6494,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click here to switch between the standard view and the Cumulative Performance view.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091044Z" creationid="Olivier" creationdate="20200508T091044Z">
+        <seg>Cliquez ici pour basculer entre la vue standard et la vue des performances cumulées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click here to toggle this filter on and off.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T105229Z" creationid="Olivier" creationdate="20200503T105229Z">
@@ -8058,6 +8138,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102421Z" creationid="Olivier" creationdate="20200503T102421Z">
         <seg>DEMOLISC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DEPOALL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091501Z" creationid="Olivier" creationdate="20200508T091501Z">
+        <seg>DEPOALL</seg>
       </tuv>
     </tu>
     <tu>
@@ -14817,6 +14905,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>INABRAND</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091435Z" creationid="Olivier" creationdate="20200508T091435Z">
+        <seg>INABRAND</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>INAVGPRI</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151354Z" creationid="Olivier" creationdate="20200507T151354Z">
@@ -14829,6 +14925,38 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151049Z" creationid="Olivier" creationdate="20200507T151049Z">
         <seg>INBRAND</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>INBRBRAN</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091227Z" creationid="Olivier" creationdate="20200508T091227Z">
+        <seg>INBRBRAN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>INBRSERV</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091147Z" creationid="Olivier" creationdate="20200508T091147Z">
+        <seg>INBRSERV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>INBRSKIL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091045Z" creationid="Olivier" creationdate="20200508T091045Z">
+        <seg>INBRSKIL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>INBRWAIT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091132Z" creationid="Olivier" creationdate="20200508T091132Z">
+        <seg>INBRWAIT</seg>
       </tuv>
     </tu>
     <tu>
@@ -15009,10 +15137,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>INSUROE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T090958Z" creationid="Olivier" creationdate="20200508T090958Z">
+        <seg>INSUROE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>INSUR_ON</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145958Z" creationid="Inrepublica" creationdate="20200422T145958Z">
         <seg>INSUR_ON</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>INT1YEAR</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091313Z" creationid="Olivier" creationdate="20200508T091313Z">
+        <seg>INT1YEAR</seg>
       </tuv>
     </tu>
     <tu>
@@ -15685,6 +15829,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151018Z" creationid="Olivier" creationdate="20200507T151018Z">
         <seg>]Si le #DLC simulation économique de la ville# est activé, le niveau de compétence est également affecté par le niveau d'éducation des personnes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the City Economics Simulation DLC is enabled, it is also affected by the education level of people in the city.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091130Z" creationid="Olivier" creationdate="20200508T091130Z">
+        <seg>Si le DLC simulation économique de la ville est activé, il est également affecté par le niveau d'éducation des habitants de la ville.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16745,6 +16897,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Insurance Company Brand Rating</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091305Z" creationid="Olivier" creationdate="20200508T091305Z">
+        <seg>Classement de la marque de la compagnie d'assurance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Insurance Premiums</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151520Z" creationid="Olivier" creationdate="20200507T151520Z">
@@ -16765,6 +16925,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151621Z" creationid="Olivier" creationdate="20200507T151621Z">
         <seg>Les cotisations d'assurance perçues au cours des 365 derniers jours.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Interest Rate</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091318Z" creationid="Olivier" creationdate="20200508T091318Z">
+        <seg>Taux d'intérêt</seg>
       </tuv>
     </tu>
     <tu>
@@ -17021,6 +17189,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T155504Z" creationid="Olivier" creationdate="20200504T155504Z">
         <seg>Il est calculé en divisant le prix actuel de l'action par l'équité par action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is capped to a range from -50% to 50% for the purpose of calculating the average ROE.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091028Z" creationid="Olivier" creationdate="20200508T091028Z">
+        <seg>Il est plafonné à une fourchette de -50% à 50% pour le calcul du ROE moyen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18257,6 +18433,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MANAPOLI</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091756Z" creationid="Olivier" creationdate="20200508T091756Z">
+        <seg>MANAPOLI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MAPPUBLIC</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T145628Z" creationid="Olivier" creationdate="20200504T145628Z">
@@ -18861,6 +19045,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160106Z" creationid="Inrepublica" creationdate="20200422T160106Z">
         <seg>Mâle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Management Policies</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091800Z" creationid="Olivier" creationdate="20200508T091800Z">
+        <seg>Politiques de gestion</seg>
       </tuv>
     </tu>
     <tu>
@@ -21093,6 +21285,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T131735Z" creationid="Olivier" creationdate="20200427T131629Z">
         <seg>Affiche l'écran du centre d'informations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the Management Policies interface for this company.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091804Z" creationid="Olivier" creationdate="20200508T091804Z">
+        <seg>Ouvrez l'interface des politiques de gestion pour cette entreprise.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24489,6 +24689,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>RENAMESU</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091805Z" creationid="Olivier" creationdate="20200508T091805Z">
+        <seg>RENAMESU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>RENTFIXA</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T092946Z" creationid="Olivier" creationdate="20200503T092946Z">
@@ -24605,6 +24813,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T153152Z" creationid="Olivier" creationdate="20200507T153152Z">
         <seg>RINCCAP1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ROE is considered a measure of how effectively the bank is using its capital to generate profits.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T090911Z" creationid="Olivier" creationdate="20200508T090911Z">
+        <seg>Le ROE est considéré comme une mesure de l'efficacité avec laquelle la banque utilise son capital pour générer des profits.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25009,6 +25225,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Rename Subsidiary</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091810Z" creationid="Olivier" creationdate="20200508T091810Z">
+        <seg>Renommer la filiale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rename this subsidiary company.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091834Z" creationid="Olivier" creationdate="20200508T091834Z">
+        <seg>Renomme cette filiale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Rent Attractiveness</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102729Z" creationid="Olivier" creationdate="20200503T102729Z">
@@ -25285,6 +25517,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T090813Z" creationid="Olivier" creationdate="20200508T090813Z">
         <seg>Rendement des capitaux propres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Return on Equity (ROE) is calculated by dividing the bank's Net Profit by its Equity Capital.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T090905Z" creationid="Olivier" creationdate="20200508T090905Z">
+        <seg>Le rendement des capitaux propres (ROE) est calculé en divisant le bénéfice net de la banque par ses capitaux propres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Return on Equity (ROE) is calculated by dividing the insurance company's Net Profit by its Equity Capital.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091005Z" creationid="Olivier" creationdate="20200508T091005Z">
+        <seg>Le rendement des capitaux propres (ROE) est calculé en divisant le bénéfice net de la compagnie d'assurance par ses capitaux propres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25809,6 +26057,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SWITMODE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091029Z" creationid="Olivier" creationdate="20200508T091029Z">
+        <seg>SWITMODE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>S_ANY</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T150853Z" creationid="Olivier" creationdate="20200503T150853Z">
@@ -26317,6 +26573,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T103216Z" creationid="Olivier" creationdate="20200507T103216Z">
         <seg>Sélectionnez cette option pour afficher une liste des prêts qui ont été accordés à des sociétés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select this to show a summary of customer deposits made via bank branches and deposits made by corporations and game persons via the bank headquarters.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091510Z" creationid="Olivier" creationdate="20200508T091510Z">
+        <seg>Sélectionnez cette option pour afficher un résumé des dépôts des clients effectués dans les agences bancaires et des dépôts effectués par les sociétés et les personnes de jeu via le siège de la banque.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27713,6 +27977,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Switch View (hotkey: 'A')</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091038Z" creationid="Olivier" creationdate="20200508T091038Z">
+        <seg>Changer de vue (touche de raccourci : 'A')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Switch information display mode</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T101642Z" creationid="Olivier" creationdate="20200507T101642Z">
@@ -28961,6 +29233,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The average brand rating of the bank in all the cities.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091434Z" creationid="Olivier" creationdate="20200508T091434Z">
+        <seg>Le classement moyen de la marque de la marque de la banque dans toutes les villes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The average brand rating of the insurance company in all the cities.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091500Z" creationid="Olivier" creationdate="20200508T091500Z">
+        <seg>Le classement moyen de la marque de la compagnie d'assurance dans toutes les villes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The average customer waiting time of all the bank's branches.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T103013Z" creationid="Olivier" creationdate="20200507T103013Z">
@@ -29545,6 +29833,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The interest rate for 1 Year Time Deposit.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091321Z" creationid="Olivier" creationdate="20200508T091321Z">
+        <seg>Le taux d'intérêt pour un dépôt à terme d'un an.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The interest rate is set by the central bank.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143601Z" creationid="Olivier" creationdate="20200503T143601Z">
@@ -29969,6 +30265,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The quality of service of this insurance front office is primarily determined by the Staff Skill Level.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091218Z" creationid="Olivier" creationdate="20200508T091218Z">
+        <seg>La qualité de service de ce guichet d'assurance est principalement déterminée par le niveau de compétence du personnel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The quality of service provided by this civic building is determined by 1) its staff's skill and 2) its facilities' quality.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T143806Z" creationid="Olivier" creationdate="20200504T143806Z">
@@ -30109,6 +30413,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T101815Z" creationid="Olivier" creationdate="20200507T101815Z">
         <seg>Le #niveau de compétence# du personnel affecte la #qualité de service# de cette agence bancaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The staff's skill level affects the quality of service of this insurance front office.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091049Z" creationid="Olivier" creationdate="20200508T091049Z">
+        <seg>Le niveau de compétence du personnel influe sur la qualité de service de ce front office de l'assurance.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32098,6 +32410,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To increase it, select the "Marketing" tab and set up advertising.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091312Z" creationid="Olivier" creationdate="20200508T091312Z">
+        <seg>Pour l'augmenter, sélectionnez l'onglet "Marketing" et mettez en place une publicité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To increase it, select the #Marketing# page and set up advertising.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T103117Z" creationid="Olivier" creationdate="20200507T103117Z">
@@ -32198,6 +32518,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102117Z" creationid="Olivier" creationdate="20200507T102112Z">
         <seg>Pour mieux servir vos clients, vous devriez ouvrir de nouvelles agences chaque fois que le temps d'attente des clients est excessivement long.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To serve your customers better, you should open new front offices whenever the customer waiting time is alarmingly long.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091145Z" creationid="Olivier" creationdate="20200508T091145Z">
+        <seg>Pour mieux servir vos clients, vous devriez ouvrir de nouveaux bureaux de vente chaque fois que le temps d'attente des clients est excessivement long.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32658,6 +32986,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Transfer the selected firms to another company under your control.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091754Z" creationid="Olivier" creationdate="20200508T091754Z">
+        <seg>Transférez les entreprises sélectionnées à une autre société sous votre contrôle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Transfer this employee from another company under your group to the current firm.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T091329Z" creationid="Olivier" creationdate="20200507T091329Z">
@@ -32758,6 +33094,22 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100244Z" creationid="Olivier" creationdate="20200429T100244Z">
         <seg>Tutorial=TUT08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>UR_PROD</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091511Z" creationid="Olivier" creationdate="20200508T091511Z">
+        <seg>UR_PROD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>UR_TECH</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091636Z" creationid="Olivier" creationdate="20200508T091636Z">
+        <seg>UR_TECH</seg>
       </tuv>
     </tu>
     <tu>
@@ -33110,6 +33462,38 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T095501Z" creationid="Olivier" creationdate="20200424T095501Z">
         <seg>Unit has item=4, Steel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>University Research in Products</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091515Z" creationid="Olivier" creationdate="20200508T091515Z">
+        <seg>Recherche universitaire sur les produits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>University Research in Tech</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091644Z" creationid="Olivier" creationdate="20200508T091644Z">
+        <seg>Recherche universitaire en technologie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>University Research in specific fields of technology leads to increases in #skill levels# of researchers and software engineers in those fields (under the Talent system).</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091702Z" creationid="Olivier" creationdate="20200508T091702Z">
+        <seg>La recherche universitaire dans des domaines technologiques spécifiques entraîne une augmentation du #niveau de compétences# des chercheurs et des ingénieurs en logiciels dans ces domaines (dans le cadre du système Talent).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>University Research in specific industries leads to #higher competitiveness#.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091532Z" creationid="Olivier" creationdate="20200508T091532Z">
+        <seg>La recherche universitaire dans des industries spécifiques conduit à une #compétitivité accrue#.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33926,6 +34310,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T090240Z" creationid="Olivier" creationdate="20200508T090240Z">
         <seg>Lorsque le ratio de capital bancaire tombe en dessous du niveau requis, il y a 3 façons possibles de le gérer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the Customer Waiting Time is higher than 30, it starts to negatively affect the Quality of Service.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091225Z" creationid="Olivier" creationdate="20200508T091225Z">
+        <seg>Lorsque le temps d'attente des clients est supérieur à 30, il commence à avoir un effet négatif sur la qualité du service.</seg>
       </tuv>
     </tu>
     <tu>
