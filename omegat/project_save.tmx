@@ -41973,8 +41973,24 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1124]&lt;0279&gt;Issue New Shares|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T170133Z" creationid="Olivier" creationdate="20200508T170133Z">
-        <seg>[correspondance][0560]Émission de nouvelles actions|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T170206Z" creationid="Olivier" creationdate="20200508T170133Z">
+        <seg>[1124]&lt;0279&gt;Émission de nouvelles actions|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1125]&lt;0280&gt;Borrow/Repay Loan|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T172157Z" creationid="Olivier" creationdate="20200508T172157Z">
+        <seg>[1125]&lt;0280&gt;Emprunter/Remboursement un prêt|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1126]&lt;0281&gt;Public Shareholders|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T172224Z" creationid="Olivier" creationdate="20200508T172224Z">
+        <seg>[1126]&lt;0281&gt;Actionnaires publics|</seg>
       </tuv>
     </tu>
     <tu>
