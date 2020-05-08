@@ -3502,6 +3502,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>BANKROE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T090755Z" creationid="Olivier" creationdate="20200508T090755Z">
+        <seg>BANKROE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>BANKSERV</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102118Z" creationid="Olivier" creationdate="20200507T102118Z">
@@ -3578,6 +3586,38 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T084522Z" creationid="Olivier" creationdate="20200508T084522Z">
         <seg>BCOUPONR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BCRMODE0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T090021Z" creationid="Olivier" creationdate="20200508T090021Z">
+        <seg>BCRMODE0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BCRMODE1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T090241Z" creationid="Olivier" creationdate="20200508T090241Z">
+        <seg>BCRMODE1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BCRMODE2</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T090546Z" creationid="Olivier" creationdate="20200508T090546Z">
+        <seg>BCRMODE2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BCRMODE3</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T090615Z" creationid="Olivier" creationdate="20200508T090615Z">
+        <seg>BCRMODE3</seg>
       </tuv>
     </tu>
     <tu>
@@ -15345,6 +15385,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ITRANCAS</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T090704Z" creationid="Olivier" creationdate="20200508T090704Z">
+        <seg>ITRANCAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ITRANMOD</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T090742Z" creationid="Olivier" creationdate="20200508T090742Z">
+        <seg>ITRANMOD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>IVPROFIT</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200507T192941Z" creationid="Acer" creationdate="20200507T192941Z">
@@ -17181,6 +17237,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203953Z" creationid="Inrepublica" creationdate="20200422T203953Z">
         <seg>Il sera plus difficile pour les acteurs et les sociétés d'IA de lever des fonds lors de l'introduction en bourse, en émettant de nouvelles actions et obligations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It will not notify you.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T090644Z" creationid="Olivier" creationdate="20200508T090644Z">
+        <seg>Il ne vous en informera pas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19169,6 +19233,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Must Take Action</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T090535Z" creationid="Olivier" creationdate="20200508T090535Z">
+        <seg>Il faut agir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>NECEINDX</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T152615Z" creationid="Olivier" creationdate="20200507T152615Z">
@@ -19521,6 +19593,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No Notification</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T090701Z" creationid="Olivier" creationdate="20200508T090626Z">
+        <seg>Aucune notification</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Nom de votre société|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200427T080112Z" creationid="Inrepublica" creationdate="20200427T080112Z">
@@ -19605,6 +19685,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T134400Z" creationid="Olivier" creationdate="20200423T134400Z">
         <seg>Vous remarquez quelque chose de différent ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Notification Only</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T090613Z" creationid="Olivier" creationdate="20200508T090607Z">
+        <seg>Uniquement la notification</seg>
       </tuv>
     </tu>
     <tu>
@@ -21117,6 +21205,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144523Z" creationid="Olivier" creationdate="20200428T144523Z">
         <seg>Menu Options (Raccourci : 'O')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Options for Handling Insufficient Bank Capital Ratio</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T090144Z" creationid="Olivier" creationdate="20200508T090144Z">
+        <seg>Options pour remédier à l'insuffisance du ratio de fonds propres des banques</seg>
       </tuv>
     </tu>
     <tu>
@@ -25185,6 +25281,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Return on Equity</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T090813Z" creationid="Olivier" creationdate="20200508T090813Z">
+        <seg>Rendement des capitaux propres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Return on Equity=10</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T225357Z" creationid="Olivier" creationdate="20200430T225357Z">
@@ -28961,6 +29065,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The bank's Capital Ratio is too low</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T090003Z" creationid="Olivier" creationdate="20200508T090003Z">
+        <seg>Le ratio de fonds propres de la banque est trop faible</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The bank's Capital Ratio is too low and has stopped issuing new loans.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T090010Z" creationid="Olivier" creationdate="20200508T090010Z">
+        <seg>Le ratio de fonds propres de la banque est trop faible et elle a cessé d'émettre de nouveaux prêts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The bar indicates the growth progress of the crop.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T155821Z" creationid="Olivier" creationdate="20200426T155821Z">
@@ -29083,8 +29203,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>The credit rating of a subsidiary company would never exceed its parent company's credit rating.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T085806Z" creationid="Olivier" creationdate="20200508T085806Z">
-        <seg>La cote de crédit d'une filiale ne dépassera jamais celle de sa société mère.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T085958Z" creationid="Olivier" creationdate="20200508T085806Z">
+        <seg>L'évaluation de la solvabilité d'une filiale ne dépassera jamais celle de sa société mère.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29525,6 +29645,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155918Z" creationid="Olivier" creationdate="20200507T155918Z">
         <seg>Le montant maximum d'argent liquide que vous êtes autorisé à transférer de la banque vers votre société.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The maximum amount of cash that you are allowed to transfer from the insurance company to your corporation.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T090739Z" creationid="Olivier" creationdate="20200508T090739Z">
+        <seg>Le montant maximum d'argent liquide que vous êtes autorisé à transférer de la compagnie d'assurance à votre société.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30414,6 +30542,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T094237Z" creationid="Olivier" creationdate="20200424T094237Z">
         <seg>Choisissez ensuite un fournisseur qui vend du bois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then inject capital into the bank.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T090019Z" creationid="Olivier" creationdate="20200508T090019Z">
+        <seg>Ensuite, injectez des capitaux dans la banque.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32014,6 +32150,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151005Z" creationid="Olivier" creationdate="20200504T151005Z">
         <seg>Pour localiser le produit que vous souhaitez, tapez la première lettre du nom du produit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To resume loan issuance, access the bank, select [Financial] and [Fund Transfer].</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T090015Z" creationid="Olivier" creationdate="20200508T090015Z">
+        <seg>Pour reprendre l'émission du prêt, accédez à la banque, sélectionnez [Financier] et [Transfert de fonds].</seg>
       </tuv>
     </tu>
     <tu>
@@ -33778,6 +33922,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When the Bank Capital Ratio falls below the Requirement, there are 3 possible ways to handle it.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T090240Z" creationid="Olivier" creationdate="20200508T090240Z">
+        <seg>Lorsque le ratio de capital bancaire tombe en dessous du niveau requis, il y a 3 façons possibles de le gérer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When the Express mode is enabled, a new streamlined user interface will be used for retail stores, replacing the original 3x3 layout.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T195520Z" creationid="Inrepublica" creationdate="20200422T195520Z">
@@ -33798,6 +33950,30 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T105256Z" creationid="Olivier" creationdate="20200506T105256Z">
         <seg>Lorsque le mode de survie est activé, les options disponibles dans le menu "Nouveaux paramètres de jeu" seront différentes pour refléter le nouveau mécanisme de jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the bank capital ratio is too low, the game will pop up a window forcing the player to take action.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T090544Z" creationid="Olivier" creationdate="20200508T090544Z">
+        <seg>Lorsque le ratio de fonds propres des banques est trop faible, le jeu fait apparaître une fenêtre qui oblige le joueur à agir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the bank capital ratio is too low, the game will stop issuing loans and notify you via the Event Tracker.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T090629Z" creationid="Olivier" creationdate="20200508T090608Z">
+        <seg>Lorsque le ratio de capital bancaire est trop faible, le jeu cesse d'émettre des prêts et vous en informe via le suivi des événements.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the bank capital ratio is too low, the game will stop issuing loans.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T090634Z" creationid="Olivier" creationdate="20200508T090634Z">
+        <seg>Lorsque le ratio de fonds propres des banques est trop faible, le jeu cesse d'émettre des prêts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34846,6 +35022,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200507T192025Z" creationid="Acer" creationdate="20200507T192025Z">
         <seg>Vous pouvez changer le mode de transfert - que ce soit pour transférer des fonds de la banque vers sa société mère, ou l'inverse, en cliquant sur l'icône Flèche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may change the transfer mode - whether it is to transfer funds from the insurance company to its parent corporation, or the other way round, by clicking on the Arrow icon.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T090754Z" creationid="Olivier" creationdate="20200508T090754Z">
+        <seg>Vous pouvez changer le mode de transfert - que ce soit pour transférer des fonds de la compagnie d'assurance vers sa société mère, ou l'inverse, en cliquant sur l'icône Flèche.</seg>
       </tuv>
     </tu>
     <tu>
