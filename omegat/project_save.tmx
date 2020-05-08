@@ -17715,8 +17715,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>It is an equity valuation multiple, defined as the stock price divided by Earnings Per Share.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T152136Z" creationid="Olivier" creationdate="20200504T152136Z">
-        <seg>Il s'agit d'un multiple d'évaluation des actions, défini comme le prix de l'action divisé par le bénéfice par action.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T154234Z" creationid="Olivier" creationdate="20200504T152136Z">
+        <seg>Il s'agit d'un multiple d'évaluation des actions, défini comme le cours de l'action divisé par le bénéfice par action.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41557,8 +41557,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1064]&lt;0221&gt;Target Tech|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T151217Z" creationid="Olivier" creationdate="20200508T151217Z">
-        <seg>[1064 ]&lt;0221&gt;Technologie cible|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T154845Z" creationid="Olivier" creationdate="20200508T151217Z">
+        <seg>[1064]&lt;0221&gt;Technologie cible|</seg>
       </tuv>
     </tu>
     <tu>
@@ -41805,8 +41805,40 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1096]&lt;0252&gt;Stock Price|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T154125Z" creationid="Olivier" creationdate="20200508T154125Z">
-        <seg>[correspondance][0830]&lt;0050&gt;Prix de l'action|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T154657Z" creationid="Olivier" creationdate="20200508T154125Z">
+        <seg>[1096]&lt;0252&gt;Cours de l'action|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1099]&lt;0255&gt;P/E Ratio|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T154327Z" creationid="Olivier" creationdate="20200508T154327Z">
+        <seg>[1099]&lt;0255&gt;Ratio P/E|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1100]&lt;0256&gt;Dividend Yield|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T154343Z" creationid="Olivier" creationdate="20200508T154343Z">
+        <seg>[1100]&lt;0256&gt;Rendement des dividendes|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1102]&lt;0257&gt;Annual Return|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T154515Z" creationid="Olivier" creationdate="20200508T154515Z">
+        <seg>[1102]&lt;0257&gt;Rendement annuel|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1104]&lt;0259&gt;Merger|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T154526Z" creationid="Olivier" creationdate="20200508T154526Z">
+        <seg>[1104]&lt;0259&gt;Fusionner|</seg>
       </tuv>
     </tu>
     <tu>
@@ -41823,6 +41855,126 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T054246Z" creationid="Inrepublica" creationdate="20200423T054246Z">
         <seg>[1106]&lt;0261&gt;Vente|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1107]&lt;0262&gt;Price    P/E    Owned%  Stock Value|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T154617Z" creationid="Olivier" creationdate="20200508T154537Z">
+        <seg>[1107]&lt;0262&gt;Prix    P/E    %Poss  Valeur des actions|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1108]&lt;0263&gt;Stock Price|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T154954Z" creationid="Olivier" creationdate="20200508T154954Z">
+        <seg>[1108]&lt;0263&gt;Cours de l'action|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1109]&lt;0264&gt;Total Shares|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T155036Z" creationid="Olivier" creationdate="20200508T155036Z">
+        <seg>[1109]&lt;0264&gt;Total des actions|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1110]&lt;0265&gt;Equity Per Share|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T155108Z" creationid="Olivier" creationdate="20200508T155108Z">
+        <seg>[1110]&lt;0265&gt;Capitaux propres par action|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1111]&lt;0266&gt;Earnings Per Share|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T155141Z" creationid="Olivier" creationdate="20200508T155141Z">
+        <seg>[1111]&lt;0266&gt;Bénéfice Par Action|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1112]&lt;0267&gt;P/E Ratio|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T155211Z" creationid="Olivier" creationdate="20200508T155153Z">
+        <seg>[1112]&lt;0267&gt;]Rapport P/E|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1113]&lt;0268&gt;Dividend Yield|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T155218Z" creationid="Olivier" creationdate="20200508T155205Z">
+        <seg>[1113]&lt;0268&gt;Rendement des dividendes|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1114]&lt;0269&gt;Annual Return|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T155251Z" creationid="Olivier" creationdate="20200508T155251Z">
+        <seg>[1114]&lt;0269&gt;Rendement annuel|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1116]&lt;0271&gt;Who             Cash|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T155309Z" creationid="Olivier" creationdate="20200508T155309Z">
+        <seg>[1116]&lt;0271&gt;Qui             Cash|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1117]&lt;0272&gt;Buy Stock|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T155401Z" creationid="Olivier" creationdate="20200508T155401Z">
+        <seg>[1117]&lt;0272&gt;Acheter des actions|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1118]&lt;0273&gt;Sell Stock|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T155452Z" creationid="Olivier" creationdate="20200508T155452Z">
+        <seg>[1118]&lt;0273&gt;Vendre des actions|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1119]&lt;0274&gt;Offer Price|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T155543Z" creationid="Olivier" creationdate="20200508T155543Z">
+        <seg>[1119]&lt;0274&gt;Offre de prix|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1122]&lt;0277&gt;100 Billionaires|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T155559Z" creationid="Olivier" creationdate="20200508T155559Z">
+        <seg>[1122]&lt;0277&gt;100 Milliardaires|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1123]&lt;0278&gt;Local Billionaires|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T155622Z" creationid="Olivier" creationdate="20200508T155622Z">
+        <seg>[1123]&lt;0278&gt;Milliardaires locaux|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1124]&lt;0279&gt;Issue New Shares|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T170133Z" creationid="Olivier" creationdate="20200508T170133Z">
+        <seg>[correspondance][0560]Émission de nouvelles actions|</seg>
       </tuv>
     </tu>
     <tu>
