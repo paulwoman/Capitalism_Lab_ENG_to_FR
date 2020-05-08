@@ -22241,6 +22241,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>PRICSYN2</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T100113Z" creationid="Olivier" creationdate="20200508T100113Z">
+        <seg>PRICSYN2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>PRIVONLY</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T082823Z" creationid="Olivier" creationdate="20200507T082823Z">
@@ -24449,6 +24457,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Price Synchronization Enabled for All Firms</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T100134Z" creationid="Olivier" creationdate="20200508T100134Z">
+        <seg>Synchronisation des prix pour tous les établissements</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Price Synchronization Enabled for Retail Stores Only</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T095725Z" creationid="Olivier" creationdate="20200508T095725Z">
@@ -26221,6 +26237,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T103251Z" creationid="Olivier" creationdate="20200506T103251Z">
         <seg>SHOWSUPP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SINCELVR</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T100558Z" creationid="Olivier" creationdate="20200508T100558Z">
+        <seg>SINCELVR</seg>
       </tuv>
     </tu>
     <tu>
@@ -30017,6 +30041,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The demand for a software product soars during the release of a new version, then decreases over time as more users have already owned the new version.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T141323Z" creationid="Olivier" creationdate="20200508T141323Z">
+        <seg>La demande d'un logiciel monte en flèche lors de la sortie d'une nouvelle version, puis diminue au fil du temps à mesure que de plus en plus d'utilisateurs ont déjà possédé la nouvelle version.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The demand for necessary goods is fairly constant, because people must buy them even if the price they are offered is not attractive.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T152652Z" creationid="Olivier" creationdate="20200507T152652Z">
@@ -30509,6 +30541,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161233Z" creationid="Inrepublica" creationdate="20200422T161233Z">
         <seg>Le nombre de filiales que votre entreprise possède au début du jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The number of years since the release of the last version</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T100607Z" creationid="Olivier" creationdate="20200508T100607Z">
+        <seg>Le nombre d'années depuis la sortie de la dernière version</seg>
       </tuv>
     </tu>
     <tu>
@@ -35134,6 +35174,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T082316Z" creationid="Olivier" creationdate="20200507T082316Z">
         <seg>Lorsque vous vendez un produit qui provient d'un fournisseur externe, si le fournisseur vend également le même produit dans son propre magasin de détail, vous devrez accepter le prix de vente au détail fixé par le fournisseur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you set a new price, the new price will be applied to #all of your firms# of the same type selling the same product in the same city.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T100556Z" creationid="Olivier" creationdate="20200508T100556Z">
+        <seg>Lorsque vous fixez un nouveau prix, celui-ci sera appliqué à #tous vos établissements# du même type commercialisant le même produit dans la même ville.</seg>
       </tuv>
     </tu>
     <tu>
