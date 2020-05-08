@@ -4878,6 +4878,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CINTSALE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T094030Z" creationid="Olivier" creationdate="20200508T094030Z">
+        <seg>CINTSALE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CITCASH1</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145943Z" creationid="Inrepublica" creationdate="20200422T145943Z">
@@ -17093,6 +17101,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T164905Z" creationid="Olivier" creationdate="20200502T164905Z">
         <seg>Vue intérieure</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Internal Sale</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T094036Z" creationid="Olivier" creationdate="20200508T094036Z">
+        <seg>Vente interne</seg>
       </tuv>
     </tu>
     <tu>
@@ -31754,6 +31770,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This option specifies whether you want the AI executive to change products #Internal Sale# settings for you.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T094052Z" creationid="Olivier" creationdate="20200508T094052Z">
+        <seg>Cette option précise si vous souhaitez que le responsable de l'IA modifie les paramètres de #Vente interne# des produits pour vous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This percentage is calculated by dividing the total return to investors (which is the sum of all dividends paid and lifetime capital gains from stock price increases), by the stock price.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T155907Z" creationid="Olivier" creationdate="20200504T155907Z">
@@ -34422,6 +34446,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T221514Z" creationid="Olivier" creationdate="20200424T221514Z">
         <seg>Eh bien, cela suit exactement le même principe.^^Sélectionnons le deuxième titre de la liste et examinons de plus près ses données financières.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When #Internal Sale# is enabled for a product, it is for internal sale only and competitors are not allowed to buy it.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T095028Z" creationid="Olivier" creationdate="20200508T095028Z">
+        <seg>Lorsque la fonction #Vente interne# est activée pour un produit, celui-ci est uniquement destiné à la vente interne et les concurrents ne sont pas autorisés à en acheter. </seg>
       </tuv>
     </tu>
     <tu>
