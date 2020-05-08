@@ -302,6 +302,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Your company is the majority shareholder of this company.)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091901Z" creationid="Olivier" creationdate="20200508T091901Z">
+        <seg>(Votre société est l'actionnaire majoritaire de cette société)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(Your subsidiary company is the majority shareholder of this company.)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091915Z" creationid="Olivier" creationdate="20200508T091915Z">
+        <seg>(Votre filiale est l'actionnaire majoritaire de cette société)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(e.g. retail focused companies and companies with other focuses are not affected.)</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T223427Z" creationid="Olivier" creationdate="20200430T223427Z">
@@ -2226,6 +2242,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T084841Z" creationid="Olivier" creationdate="20200508T084841Z">
         <seg>Accéder à l'interface permettant d'arrêter de nouveaux dépôts et/ou prêts bancaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Access the official Capitalism Lab Forum.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T092237Z" creationid="Olivier" creationdate="20200508T092237Z">
+        <seg>Vous pouvez accéder au forum officiel de Capitalism Lab.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8198,6 +8222,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DISCORD</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T092017Z" creationid="Olivier" creationdate="20200508T092017Z">
+        <seg>DISCORD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>DIVIDEAR</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T154055Z" creationid="Olivier" creationdate="20200507T154055Z">
@@ -10086,6 +10118,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>FACEBOOK</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T092040Z" creationid="Olivier" creationdate="20200508T092040Z">
+        <seg>FACEBOOK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>FARMSET0</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T153620Z" creationid="Olivier" creationdate="20200507T153620Z">
@@ -10246,6 +10286,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>FORUM</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T092145Z" creationid="Olivier" creationdate="20200508T092145Z">
+        <seg>FORUM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>FRECON_H</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T150724Z" creationid="Olivier" creationdate="20200503T150724Z">
@@ -10258,6 +10306,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145728Z" creationid="Olivier" creationdate="20200503T145728Z">
         <seg>FRECON_L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>FREIGHTC</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T092255Z" creationid="Olivier" creationdate="20200508T092255Z">
+        <seg>FREIGHTC</seg>
       </tuv>
     </tu>
     <tu>
@@ -11134,6 +11190,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Freight Concern</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T092301Z" creationid="Olivier" creationdate="20200508T092301Z">
+        <seg>Préoccupation concernant le fret</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Freq.|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200504T102319Z" creationid="Inrepublica" creationdate="20200504T102319Z">
@@ -11314,6 +11378,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200505T162825Z" creationid="Olivier" creationdate="20200505T162825Z">
         <seg>GLOBAL_C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GLOSTOCK</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T092011Z" creationid="Olivier" creationdate="20200508T092011Z">
+        <seg>GLOSTOCK</seg>
       </tuv>
     </tu>
     <tu>
@@ -11908,6 +11980,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155550Z" creationid="Olivier" creationdate="20200507T155550Z">
         <seg>Paramètres globaux des loyers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Global Stock Market (hotkey: Ctrl-G)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T092016Z" creationid="Olivier" creationdate="20200508T092016Z">
+        <seg>Bourse mondiale (touche de raccourci : Ctrl-G)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15105,6 +15185,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>INSUBOND</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T092248Z" creationid="Olivier" creationdate="20200508T092248Z">
+        <seg>INSUBOND</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>INSUBRFI</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155220Z" creationid="Olivier" creationdate="20200507T155220Z">
@@ -15149,6 +15237,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145958Z" creationid="Inrepublica" creationdate="20200422T145958Z">
         <seg>INSUR_ON</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>INSUSTK</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T092239Z" creationid="Olivier" creationdate="20200508T092239Z">
+        <seg>INSUSTK</seg>
       </tuv>
     </tu>
     <tu>
@@ -16041,6 +16137,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If this is set to a high value, the AI executive will be more concerned with freight costs and tend to pick suppliers from closer distances.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T094028Z" creationid="Olivier" creationdate="20200508T094028Z">
+        <seg>Si cette valeur est élevée, le responsable de l'AI se préoccupera davantage des coûts de transport et aura tendance à choisir des fournisseurs situés à plus courte distance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If this is turned off, the CEO will never issue new shares for expanding the business.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T093847Z" creationid="Olivier" creationdate="20200506T093847Z">
@@ -16885,6 +16989,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T194450Z" creationid="Inrepublica" creationdate="20200422T194412Z">
         <seg>Indemnisations d'assurance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Insurance Company</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T092243Z" creationid="Olivier" creationdate="20200508T092243Z">
+        <seg>Compagnie d'assurance</seg>
       </tuv>
     </tu>
     <tu>
@@ -17737,6 +17849,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Join the Discord channel of Capitalism Lab.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T092039Z" creationid="Olivier" creationdate="20200508T092039Z">
+        <seg>Rejoignez la chaîne Discord de Capitalism Lab.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Keep a distance between this apartment and other buildings, specially factories and mines.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102657Z" creationid="Olivier" creationdate="20200503T102657Z">
@@ -17877,6 +17997,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T094046Z" creationid="Olivier" creationdate="20200507T094046Z">
         <seg>LOCAL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LOCSTOCK</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T092003Z" creationid="Olivier" creationdate="20200508T092003Z">
+        <seg>LOCSTOCK</seg>
       </tuv>
     </tu>
     <tu>
@@ -18321,6 +18449,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Local Stock Market</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T092009Z" creationid="Olivier" creationdate="20200508T092009Z">
+        <seg>Marché boursier local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Location convenience</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T144903Z" creationid="Olivier" creationdate="20200504T144903Z">
@@ -18477,6 +18613,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T151432Z" creationid="Olivier" creationdate="20200503T151432Z">
         <seg>MAYOR_MV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MERGECO2</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091902Z" creationid="Olivier" creationdate="20200508T091902Z">
+        <seg>MERGECO2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MERGECOM</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091838Z" creationid="Olivier" creationdate="20200508T091838Z">
+        <seg>MERGECOM</seg>
       </tuv>
     </tu>
     <tu>
@@ -19289,10 +19441,34 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Merge Company</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091850Z" creationid="Olivier" creationdate="20200508T091850Z">
+        <seg>Fusionner cette entreprise</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Merge Corporations</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T104335Z" creationid="Olivier" creationdate="20200502T104335Z">
         <seg>Fusionner des sociétés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Merge this company into your company.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091855Z" creationid="Olivier" creationdate="20200508T091855Z">
+        <seg>Fusionnez cette entreprise avec la vôtre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Merge this company into your subsidiary company.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091910Z" creationid="Olivier" creationdate="20200508T091910Z">
+        <seg>Fusionnez cette société avec votre filiale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21337,6 +21513,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open the official Capitalism Lab Facebook page.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T092144Z" creationid="Olivier" creationdate="20200508T092125Z">
+        <seg>Ouvre la page Facebook officielle de Capitalism Lab.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open the ~Information Center~ now.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T203650Z" creationid="Acer" creationdate="20200424T203610Z">
@@ -21429,6 +21613,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150647Z" creationid="Olivier" creationdate="20200502T150647Z">
         <seg>Barre orange = la demande.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Order this insurance company to buy or sell bonds.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T092253Z" creationid="Olivier" creationdate="20200508T092253Z">
+        <seg>Ordonnez à cette compagnie d'assurance d'acheter ou de vendre des obligations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Order this insurance company to buy or sell stocks.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T092247Z" creationid="Olivier" creationdate="20200508T092247Z">
+        <seg>Ordonnez à cette compagnie d'assurance d'acheter ou de vendre des actions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25697,6 +25897,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SELALLFI</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091929Z" creationid="Olivier" creationdate="20200508T091929Z">
+        <seg>SELALLFI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>SFM_K1</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T101858Z" creationid="Olivier" creationdate="20200502T101858Z">
@@ -26385,6 +26593,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select All</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091934Z" creationid="Olivier" creationdate="20200508T091934Z">
+        <seg>Sélectionner tout</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select City</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T172012Z" creationid="Olivier" creationdate="20200428T172012Z">
@@ -26445,6 +26661,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T145358Z" creationid="Olivier" creationdate="20200423T145358Z">
         <seg>Sélectionnez un produit à commander dans la liste des fournisseurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select all firms in the current list.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091944Z" creationid="Olivier" creationdate="20200508T091944Z">
+        <seg>Sélectionne toutes les entreprises dans la liste actuelle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28053,6 +28277,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155854Z" creationid="Olivier" creationdate="20200507T155854Z">
         <seg>TRANCASH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>TRANFIRM</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091916Z" creationid="Olivier" creationdate="20200508T091916Z">
+        <seg>TRANFIRM</seg>
       </tuv>
     </tu>
     <tu>
@@ -32962,10 +33194,26 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Transfer Firms</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091923Z" creationid="Olivier" creationdate="20200508T091923Z">
+        <seg>Transfert d'entreprises</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Transfer Mode</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200507T192013Z" creationid="Acer" creationdate="20200507T192013Z">
         <seg>Mode Transfert</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Transfer a group of selected firms from this company to another company under your control.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091926Z" creationid="Olivier" creationdate="20200508T091926Z">
+        <seg>Transférer un groupe d'entreprises sélectionnées de cette société à une autre société sous votre contrôle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33094,6 +33342,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100244Z" creationid="Olivier" creationdate="20200429T100244Z">
         <seg>Tutorial=TUT08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>UNSELALL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091946Z" creationid="Olivier" creationdate="20200508T091946Z">
+        <seg>UNSELALL</seg>
       </tuv>
     </tu>
     <tu>
@@ -33606,6 +33862,22 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164959Z" creationid="Olivier" creationdate="20200429T164959Z">
         <seg>Unlock product=All</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unselect All</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091951Z" creationid="Olivier" creationdate="20200508T091951Z">
+        <seg>Désélectionner tout</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unselect all firms in the current list.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T092001Z" creationid="Olivier" creationdate="20200508T092001Z">
+        <seg>Désélectionne toutes les entreprises de la liste actuelle.</seg>
       </tuv>
     </tu>
     <tu>
