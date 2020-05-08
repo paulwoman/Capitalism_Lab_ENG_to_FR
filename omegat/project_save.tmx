@@ -1334,10 +1334,18 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A bank must maintain a capital ratio that meets the central bank's requirement.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T083634Z" creationid="Olivier" creationdate="20200508T083234Z">
+        <seg>Une banque doit maintenir un ratio de fonds propres qui répond aux exigences de la banque centrale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A capital ratio is the ratio of a bank's equity capital to its total assets.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203240Z" creationid="Inrepublica" creationdate="20200422T203240Z">
-        <seg>Le ratio de fonds propres est le rapport entre les fonds propres d'une banque et le total de ses actifs.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T083311Z" creationid="Inrepublica" creationdate="20200422T203240Z">
+        <seg>Le ratio de capital bancaire est le rapport entre les fonds propres d'une banque et le total de ses actifs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3486,6 +3494,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>BCAPRAT1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T082901Z" creationid="Olivier" creationdate="20200508T082901Z">
+        <seg>BCAPRAT1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BCAPRAT2</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T083323Z" creationid="Olivier" creationdate="20200508T083323Z">
+        <seg>BCAPRAT2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>BCAPREQ</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145957Z" creationid="Inrepublica" creationdate="20200422T145957Z">
@@ -3770,6 +3794,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102303Z" creationid="Olivier" creationdate="20200507T102303Z">
         <seg>Classement de la marque de la banque</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bank Capital Ratio</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T083218Z" creationid="Olivier" creationdate="20200508T083014Z">
+        <seg>Ratio de capital bancaire</seg>
       </tuv>
     </tu>
     <tu>
@@ -6122,6 +6154,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T103446Z" creationid="Olivier" creationdate="20200503T103446Z">
         <seg>Cliquez ici pour mettre en vente cet établissement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to resume accepting new bank deposits.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T082837Z" creationid="Olivier" creationdate="20200508T082837Z">
+        <seg>Cliquez ici pour recommencer à accepter de nouveaux dépôts bancaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to resume approving new loans.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T082859Z" creationid="Olivier" creationdate="20200508T082859Z">
+        <seg>Cliquez ici pour reprendre l'approbation de nouveaux prêts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24129,6 +24177,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>RESULOAN</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T082838Z" creationid="Olivier" creationdate="20200508T082838Z">
+        <seg>RESULOAN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>RETIRE|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200505T162001Z" creationid="Olivier" creationdate="20200505T162001Z">
@@ -24685,6 +24741,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T165034Z" creationid="Olivier" creationdate="20200503T165034Z">
         <seg>Outil de zonage résidentiel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Resume Bank Deposits</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T082819Z" creationid="Olivier" creationdate="20200508T082819Z">
+        <seg>Reprendre les dépôts bancaires</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Resume Bank Loans</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T082843Z" creationid="Olivier" creationdate="20200508T082843Z">
+        <seg>Reprendre les prêts bancaires</seg>
       </tuv>
     </tu>
     <tu>
@@ -28233,6 +28305,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The #Capital Ratio# is the ratio of a bank's #Equity Capital# to its total #Loans to Customers#.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T083625Z" creationid="Olivier" creationdate="20200508T083625Z">
+        <seg>Le #Ratio de capital# est le ratio entre les #fonds propres# d'une banque et le total de ses #Prêts aux clients#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Earning Per Share is a company's operating profit over the past 365 days divided by the total number of outstanding shares.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151955Z" creationid="Olivier" creationdate="20200504T151955Z">
@@ -28457,6 +28537,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The bank has stopped accepting new bank deposits.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T082823Z" creationid="Olivier" creationdate="20200508T082823Z">
+        <seg>La banque a cessé d'accepter de nouveaux dépôts bancaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The bank has stopped approving new loans.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T082851Z" creationid="Olivier" creationdate="20200508T082851Z">
+        <seg>La banque a cessé d'approuver de nouveaux prêts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The bank regulation stipulates that deposits should be not concentrated on a small number of large depositors.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T195422Z" creationid="Inrepublica" creationdate="20200422T195422Z">
@@ -28525,6 +28621,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T160010Z" creationid="Olivier" creationdate="20200507T160010Z">
         <seg>Le fonds propre exigé par la banque centrale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The central bank requires banks to have set aside enough capital to cover unexpected losses and keep themselves solvent in a crisis.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T083659Z" creationid="Olivier" creationdate="20200508T083349Z">
+        <seg>La banque centrale exige que les banques aient mis de côté suffisamment de capital pour couvrir les pertes imprévues et rester solvables en cas de crise.</seg>
       </tuv>
     </tu>
     <tu>
