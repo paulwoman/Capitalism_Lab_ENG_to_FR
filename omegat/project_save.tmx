@@ -5150,10 +5150,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>COOCHG</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T095302Z" creationid="Olivier" creationdate="20200508T095302Z">
+        <seg>COOCHG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>COOPrice</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092822Z" creationid="Olivier" creationdate="20200506T092822Z">
         <seg>COOPrice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>COSTFREI</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T095438Z" creationid="Olivier" creationdate="20200508T095438Z">
+        <seg>COSTFREI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>COSTONLY</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T095447Z" creationid="Olivier" creationdate="20200508T095447Z">
+        <seg>COSTONLY</seg>
       </tuv>
     </tu>
     <tu>
@@ -5294,10 +5318,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CTOCHGRD</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T095322Z" creationid="Olivier" creationdate="20200508T095322Z">
+        <seg>CTOCHGRD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CTOCHGTR</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T095340Z" creationid="Olivier" creationdate="20200508T095340Z">
+        <seg>CTOCHGTR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CTRAFFIC</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T105046Z" creationid="Olivier" creationdate="20200503T105046Z">
         <seg>CTRAFFIC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CURPRICE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T095414Z" creationid="Olivier" creationdate="20200508T095414Z">
+        <seg>CURPRICE</seg>
       </tuv>
     </tu>
     <tu>
@@ -5586,6 +5634,30 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150731Z" creationid="Inrepublica" creationdate="20200425T150731Z">
         <seg>Chairman|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Change</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T095311Z" creationid="Olivier" creationdate="20200508T095311Z">
+        <seg>Change</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Change R&amp;D Projects</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T095330Z" creationid="Olivier" creationdate="20200508T095330Z">
+        <seg>Changer les projets de R&amp;D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Change Training Budget</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T095406Z" creationid="Olivier" creationdate="20200508T095406Z">
+        <seg>Budget de la formation en matière de changement</seg>
       </tuv>
     </tu>
     <tu>
@@ -8006,6 +8078,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cost</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T095454Z" creationid="Olivier" creationdate="20200508T095454Z">
+        <seg>Coût</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cost + Freight</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T095446Z" creationid="Olivier" creationdate="20200508T095446Z">
+        <seg>Coût + fret</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cost of the Input</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T152518Z" creationid="Olivier" creationdate="20200507T152518Z">
@@ -10318,6 +10406,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>FREIGHT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T095455Z" creationid="Olivier" creationdate="20200508T095455Z">
+        <seg>FREIGHT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>FREIGHTC</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T092255Z" creationid="Olivier" creationdate="20200508T092255Z">
@@ -11182,6 +11278,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For those products marked for #Internal Sale# in factories, the AI will always sell them at cost.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T095301Z" creationid="Olivier" creationdate="20200508T095301Z">
+        <seg>Pour les produits marqués pour la #vente interne# dans les usines, l'IA les vendra toujours au prix coûtant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For ~Jeans~, the concerns are: ~Price~ 27%, ~Quality~ 29% and ~Brand~ 44%.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T200344Z" creationid="Olivier" creationdate="20200424T113519Z">
@@ -11194,6 +11298,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T123951Z" creationid="Olivier" creationdate="20200424T123054Z">
         <seg>Pour ~caméras~, c'est  20 %, ce qui signifie qu'il ne s'agit pas d'un produit de première nécessité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Freight</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T095501Z" creationid="Olivier" creationdate="20200508T095501Z">
+        <seg>Fret</seg>
       </tuv>
     </tu>
     <tu>
@@ -15265,6 +15377,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>INTSALEC</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T095031Z" creationid="Olivier" creationdate="20200508T095031Z">
+        <seg>INTSALEC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>INT_MARG</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T083919Z" creationid="Olivier" creationdate="20200508T083919Z">
@@ -17473,6 +17593,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It shows the current price.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T095429Z" creationid="Olivier" creationdate="20200508T095429Z">
+        <seg>Cela indique le prix actuel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It shows the number of mobile users in this city.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T100121Z" creationid="Olivier" creationdate="20200507T100121Z">
@@ -19637,6 +19765,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T101553Z" creationid="Olivier" creationdate="20200507T101553Z">
         <seg>NEWGAME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>NEWPRICE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T095419Z" creationid="Olivier" creationdate="20200508T095419Z">
+        <seg>NEWPRICE</seg>
       </tuv>
     </tu>
     <tu>
@@ -22089,6 +22225,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>PRICSYN0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T095708Z" creationid="Olivier" creationdate="20200508T095708Z">
+        <seg>PRICSYN0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PRICSYN1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T095719Z" creationid="Olivier" creationdate="20200508T095719Z">
+        <seg>PRICSYN1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>PRIVONLY</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T082823Z" creationid="Olivier" creationdate="20200507T082823Z">
@@ -24285,6 +24437,30 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150712Z" creationid="Inrepublica" creationdate="20200425T150712Z">
         <seg>Price Agreement|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Price Synchronization Disabled</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T095714Z" creationid="Olivier" creationdate="20200508T095714Z">
+        <seg>Désactivation de la synchronisation des prix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Price Synchronization Enabled for Retail Stores Only</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T095725Z" creationid="Olivier" creationdate="20200508T095725Z">
+        <seg>Synchronisation des prix activée uniquement pour les magasins de détail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Price Synchronization is Disabled.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T095718Z" creationid="Olivier" creationdate="20200508T095718Z">
+        <seg>La synchronisation des prix est désactivée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26953,6 +27129,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sell factory #Internal Sale# products at cost</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T095059Z" creationid="Olivier" creationdate="20200508T095059Z">
+        <seg>Commercialiser les produits de l'usine #Vente interne# au prix coûtant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sell less stock</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T140410Z" creationid="Olivier" creationdate="20200502T140410Z">
@@ -29385,6 +29569,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Selling Price</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T095418Z" creationid="Olivier" creationdate="20200508T095418Z">
+        <seg>Le prix de vente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Top Tech value represents the highest Total Tech value that is ever achieved by a company, whether it is this company or a competitor, for this type of Internet business.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T085208Z" creationid="Olivier" creationdate="20200508T085137Z">
@@ -30954,6 +31146,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The workers are idle.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T095706Z" creationid="Olivier" creationdate="20200508T095706Z">
+        <seg>Les travailleurs sont inactifs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The yellow bar indicates the supply of the product by the current firm.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T102924Z" creationid="Olivier" creationdate="20200427T102924Z">
@@ -31262,6 +31462,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151641Z" creationid="Olivier" creationdate="20200507T151641Z">
         <seg>Il s'agit des primes d'assurance acquises dans le cadre de nouveaux contrats d'assurance au cours des 365 derniers jours.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These options specify whether you want the AI executive to change Training Budgets, R&amp;D Projects and Advertising Budgets for you.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T095321Z" creationid="Olivier" creationdate="20200508T095321Z">
+        <seg>Ces options précisent si vous souhaitez que le responsable de l'AI modifie les budgets de formation, les projets de R&amp;D et les budgets publicitaires pour vous.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31774,6 +31982,22 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T094052Z" creationid="Olivier" creationdate="20200508T094052Z">
         <seg>Cette option précise si vous souhaitez que le responsable de l'IA modifie les paramètres de #Vente interne# des produits pour vous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This option specifies whether you want the CTO to change Training Budgets in research facilities for you.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T095413Z" creationid="Olivier" creationdate="20200508T095413Z">
+        <seg>Cette option précise si vous souhaitez que le CTO modifie pour vous les budgets de formation dans les installations de recherche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This option specifies whether you want the CTO to manage and change R&amp;D Projects for you.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T095339Z" creationid="Olivier" creationdate="20200508T095339Z">
+        <seg>Cette option précise si vous souhaitez que le CTO gère et modifie les projets de R&amp;D pour vous.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33938,6 +34162,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use [+][-] to set a New Price.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T095436Z" creationid="Olivier" creationdate="20200508T095436Z">
+        <seg>Utilisez [+][-] pour fixer un nouveau prix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use the Male and Female icons (located below the arrow icons) to switch the gender of the portraits.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T165414Z" creationid="Inrepublica" creationdate="20200422T165414Z">
@@ -34366,6 +34598,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T095443Z" creationid="Olivier" creationdate="20200424T095443Z">
         <seg>Wait until it is linked with Timber, to produce Golf club</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Warning: The Capacity Utilization Rate of this unit is zero.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T095629Z" creationid="Olivier" creationdate="20200508T095629Z">
+        <seg>Avertissement : Le taux d'utilisation des capacités de cette unité est de zéro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34894,6 +35134,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T082316Z" creationid="Olivier" creationdate="20200507T082316Z">
         <seg>Lorsque vous vendez un produit qui provient d'un fournisseur externe, si le fournisseur vend également le même produit dans son propre magasin de détail, vous devrez accepter le prix de vente au détail fixé par le fournisseur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you set a new price, the new price will be applied to all of your #Retail Stores# selling the same product in the same city.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T100109Z" creationid="Olivier" creationdate="20200508T100109Z">
+        <seg>Lorsque vous fixez un nouveau prix, celui-ci sera appliqué à tous vos "magasins de détail" qui vendent le même produit dans la même ville.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36627,6 +36875,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ZEROUTIL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T095503Z" creationid="Olivier" creationdate="20200508T095503Z">
+        <seg>ZEROUTIL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ZONE_ANY</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T164810Z" creationid="Olivier" creationdate="20200503T164810Z">
@@ -36687,6 +36943,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T165539Z" creationid="Olivier" creationdate="20200503T165539Z">
         <seg>Z_SETALL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Zero Capacity Utilization Rate</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T095623Z" creationid="Olivier" creationdate="20200508T095623Z">
+        <seg>Taux d'utilisation des capacités réduit à zéro</seg>
       </tuv>
     </tu>
     <tu>
