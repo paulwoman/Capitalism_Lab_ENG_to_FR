@@ -1718,6 +1718,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A product's #Brand Rating# is the sum of its #Brand Awareness# and #Brand Loyalty#.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T143022Z" creationid="Olivier" creationdate="20200508T143022Z">
+        <seg>La #notoriété de la marque# d'un produit est la somme de sa #conscience de la marque# et de sa #fidélité à la marque#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A product's ~overall rating~ is calculated based on its price, its quality, and its brand rating.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T110605Z" creationid="Olivier" creationdate="20200423T150950Z">
@@ -1858,6 +1866,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T153122Z" creationid="Olivier" creationdate="20200507T153122Z">
         <seg>ADVERT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ADVSPEND</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T143151Z" creationid="Olivier" creationdate="20200508T143151Z">
+        <seg>ADVSPEND</seg>
       </tuv>
     </tu>
     <tu>
@@ -2162,6 +2178,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150422Z" creationid="Olivier" creationdate="20200504T150422Z">
         <seg>APPROVAL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>APREMIUM</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T143443Z" creationid="Olivier" creationdate="20200508T143443Z">
+        <seg>APREMIUM</seg>
       </tuv>
     </tu>
     <tu>
@@ -2630,6 +2654,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Advertising Expense</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T143202Z" creationid="Olivier" creationdate="20200508T143202Z">
+        <seg>Dépenses en publicité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Advertising unit is linked=5</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T170130Z" creationid="Acer" creationdate="20200424T170130Z">
@@ -2986,6 +3018,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200507T192712Z" creationid="Acer" creationdate="20200507T192712Z">
         <seg>Une compagnie d'assurance a son propre bilan et ses actifs sont séparés de ceux de la société mère.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An insurance company must maintain a positive capital ratio.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T143701Z" creationid="Olivier" creationdate="20200508T143701Z">
+        <seg>Une compagnie d'assurance doit maintenir un ratio de capital positif.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3526,6 +3566,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Average Premium Price Level</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T143447Z" creationid="Olivier" creationdate="20200508T143447Z">
+        <seg>Niveau moyen des prix des primes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Average Staff Skill Level</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102551Z" creationid="Olivier" creationdate="20200507T102551Z">
@@ -3822,10 +3870,58 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>BRANDAWA</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T143023Z" creationid="Olivier" creationdate="20200508T143023Z">
+        <seg>BRANDAWA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BRANDCOR</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T143233Z" creationid="Olivier" creationdate="20200508T143233Z">
+        <seg>BRANDCOR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BRANDLOY</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T143106Z" creationid="Olivier" creationdate="20200508T143106Z">
+        <seg>BRANDLOY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BRANDRAN</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T143336Z" creationid="Olivier" creationdate="20200508T143336Z">
+        <seg>BRANDRAN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BRANDRAT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T142908Z" creationid="Olivier" creationdate="20200508T142908Z">
+        <seg>BRANDRAT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>BRANDSTR</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T142736Z" creationid="Olivier" creationdate="20200508T142736Z">
         <seg>BRANDSTR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BRANDUNI</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T143341Z" creationid="Olivier" creationdate="20200508T143341Z">
+        <seg>BRANDUNI</seg>
       </tuv>
     </tu>
     <tu>
@@ -4286,10 +4382,50 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Brand Awareness</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T143049Z" creationid="Olivier" creationdate="20200508T143049Z">
+        <seg>Notoriété de la marque</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Brand Loyalty</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T143111Z" creationid="Olivier" creationdate="20200508T143111Z">
+        <seg>Fidélité à la marque</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Brand Rating</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T142922Z" creationid="Olivier" creationdate="20200508T142922Z">
+        <seg>Classement de la marque</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Brand Strategy</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T142744Z" creationid="Olivier" creationdate="20200508T142744Z">
         <seg>Stratégie de marque</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Brand awareness measures consumers' knowledge that a particular brand exists.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T143056Z" creationid="Olivier" creationdate="20200508T143056Z">
+        <seg>La notoriété d'une marque mesure la connaissance qu'ont les consommateurs de l'existence d'une marque particulière.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Brand loyalty measures the attachment that a customer has to a brand.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T143116Z" creationid="Olivier" creationdate="20200508T143116Z">
+        <seg>La fidélité à une marque mesure l'attachement d'un client à une marque.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7966,6 +8102,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Conversely, a bad experience with a product (#poor product quality#) will lead to a #decrease# in brand loyalty.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T143147Z" creationid="Olivier" creationdate="20200508T143147Z">
+        <seg>À l'inverse, une mauvaise expérience avec un produit (#mauvaise qualité du produit#) entraînera une #diminution# de la fidélité à la marque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Conversely, a low value indicates some regions of the city do not have adequate fire services coverage.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T144852Z" creationid="Olivier" creationdate="20200504T144852Z">
@@ -8026,6 +8170,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T155724Z" creationid="Olivier" creationdate="20200426T155724Z">
         <seg>Inversement, leur longueur diminue lorsque les récoltes sont vendues.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Corporate Brand</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T143243Z" creationid="Olivier" creationdate="20200508T143243Z">
+        <seg>Marque de société</seg>
       </tuv>
     </tu>
     <tu>
@@ -13681,6 +13833,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>HEADPRIC</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T143207Z" creationid="Olivier" creationdate="20200508T143207Z">
+        <seg>HEADPRIC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>HEADQUAL</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T142037Z" creationid="Olivier" creationdate="20200508T142037Z">
@@ -14341,6 +14501,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200505T161927Z" creationid="Olivier" creationdate="20200505T161927Z">
         <seg>Hypermarché|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ICAPRAT1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T143521Z" creationid="Olivier" creationdate="20200508T143521Z">
+        <seg>ICAPRAT1</seg>
       </tuv>
     </tu>
     <tu>
@@ -16065,6 +16233,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If a customer is satisfied after using a product (#good product quality#), brand loyalty #increases#.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T143131Z" creationid="Olivier" creationdate="20200508T143131Z">
+        <seg>Si un client est satisfait après avoir utilisé un produit (#bonne qualité de produit#), la fidélité à la marque #augmente#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If a supply problem occurs, you may not be able to solve it as easily because of the limited types of products that a specialty store can sell.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T133626Z" creationid="Olivier" creationdate="20200423T133626Z">
@@ -17249,6 +17425,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Insurance Company Capital Ratio</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T143530Z" creationid="Olivier" creationdate="20200508T143530Z">
+        <seg>Ratio de capital des compagnies d'assurance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Insurance Premiums</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151520Z" creationid="Olivier" creationdate="20200507T151520Z">
@@ -17397,6 +17581,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T150958Z" creationid="Olivier" creationdate="20200507T150958Z">
         <seg>Cela affecte la #qualité du service# de la compagnie d'assurance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It can be increased via advertising.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T143105Z" creationid="Olivier" creationdate="20200508T143105Z">
+        <seg>Elle peut être augmenté par la publicité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17701,6 +17893,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150544Z" creationid="Olivier" creationdate="20200502T150544Z">
         <seg>Cet outil indique les notes moyennes de ce produit dans la ville actuelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It shows the cost and price of this product.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T143231Z" creationid="Olivier" creationdate="20200508T143231Z">
+        <seg>Cela indique le coût et le prix de ce produit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29769,6 +29969,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The #Capital Ratio# is the ratio of an insurance company's #Equity Capital# to its #Total Assets#.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T143633Z" creationid="Olivier" creationdate="20200508T143633Z">
+        <seg>Le #ratio de capital# est le rapport entre les fonds propre d'une compagnie d'assurance et son actif total.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The #Quality Rating# gets a boost from the #City Competitiveness Rating# in this product class.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T142400Z" creationid="Olivier" creationdate="20200508T142244Z">
@@ -29849,6 +30057,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Price section</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T143212Z" creationid="Olivier" creationdate="20200508T143212Z">
+        <seg>La section Prix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Product Overall rating is the sum total of these 2 ratings.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150513Z" creationid="Olivier" creationdate="20200502T150513Z">
@@ -29925,6 +30141,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T140053Z" creationid="Olivier" creationdate="20200426T140053Z">
         <seg>La fenêtre de message ~Suivi des événements~ ci-dessus indique que votre projet de R&amp;D a été mené à bien, portant votre niveau de technologie de production de climatiseurs à 33.^^ Toutes vos usines produisant des climatiseurs bénéficieront de l'avancement technologique, leur permettant de produire des climatiseurs de meilleure qualité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The advantage is that a product's brand will not be weighted down by quality issues from other product lines.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T143441Z" creationid="Olivier" creationdate="20200508T143441Z">
+        <seg>L'avantage est que la marque d'un produit ne sera pas alourdie par des problèmes de qualité provenant d'autres gammes de produits.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30037,6 +30261,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151030Z" creationid="Olivier" creationdate="20200507T151030Z">
         <seg>Le temps d'attente moyen des clients de tous les guichets des compagnies d'assurance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The average premium price level of #Life# insurance, #Home# insurance and #Car# insurance.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T143513Z" creationid="Olivier" creationdate="20200508T143513Z">
+        <seg>Le niveau moyen des primes d'assurance #vie#, d'assurance #habitation# et d'assurance #automobile#.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30813,6 +31045,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T123847Z" creationid="Olivier" creationdate="20200423T123847Z">
         <seg>La mini carte montre la ville entière.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The monthly advertising expense on this product.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T143206Z" creationid="Olivier" creationdate="20200508T143206Z">
+        <seg>La dépense publicitaire mensuelle sur ce produit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34082,10 +34322,18 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Under this strategy, each product has a unique brand.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T143436Z" creationid="Olivier" creationdate="20200508T143436Z">
+        <seg>Dans le cadre de cette stratégie, chaque produit a une marque unique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Under this strategy, products in the #Same Product Class# are labeled with a single range brand.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T084439Z" creationid="Olivier" creationdate="20200508T084439Z">
-        <seg>Under this strategy, products in the #Same Product Class# are labeled with a single range brand.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T143413Z" creationid="Olivier" creationdate="20200508T084439Z">
+        <seg>Dans le cadre de cette stratégie, les produits de la #même classe de produits# sont étiquetés avec une seule marque de gamme.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34134,6 +34382,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T172115Z" creationid="Olivier" creationdate="20200430T172115Z">
         <seg>Malheureusement, la plupart des sociétés ne parviennent pas à le maintenir lorsqu'elles finissent par devenir grandes et volumineuses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unique Brand</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T143432Z" creationid="Olivier" creationdate="20200508T143432Z">
+        <seg>Marque unique</seg>
       </tuv>
     </tu>
     <tu>
@@ -35170,6 +35426,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When a corporation uses a single umbrella brand for all its products, newly launched products will benefit from the existing corporate brand.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T143335Z" creationid="Olivier" creationdate="20200508T143335Z">
+        <seg>Lorsqu'une entreprise utilise une seule marque collective pour tous ses produits, les produits nouvellement lancés bénéficieront de la marque collective existante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When all the workers in a unit become experienced, the unit level will increase by one (training will speed this up).</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T151027Z" creationid="Olivier" creationdate="20200502T151027Z">
@@ -35942,6 +36206,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T214140Z" creationid="Olivier" creationdate="20200423T123820Z">
         <seg>Vous pouvez modifier la vitesse du jeu en utilisant les touches de raccourci ~"1" (le plus lent) à "5" (le plus rapide)~. Vous pouvez également mettre le jeu en pause en appuyant sur la touche ~0~. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can see the price level of each insurance type on the #Insurances# page.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T143518Z" creationid="Olivier" creationdate="20200508T143518Z">
+        <seg>Vous pouvez voir le niveau de prix de chaque type d'assurance sur la page #Assurances#.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40467,6 +40739,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0887]&lt;0099&gt; per|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T143722Z" creationid="Olivier" creationdate="20200508T143722Z">
+        <seg>[0887]&lt;0099&gt; per|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0891]&lt;0103&gt;New Price|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T145315Z" creationid="Olivier" creationdate="20200429T145315Z">
@@ -40795,6 +41075,22 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0935]&lt;0143&gt;Range Brand|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T143812Z" creationid="Olivier" creationdate="20200508T143751Z">
+        <seg>[0935]&lt;0143&gt;Ensemble de marques|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0936]&lt;0144&gt;Unique Brand|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T143752Z" creationid="Olivier" creationdate="20200508T143752Z">
+        <seg>[correspondance][0881]Marque unique|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0937]&lt;0145&gt;A Single Brand Covers All Products|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T150649Z" creationid="Olivier" creationdate="20200429T150649Z">
@@ -41051,6 +41347,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1035]&lt;0192&gt;Production &amp; Retail|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T143836Z" creationid="Olivier" creationdate="20200508T143836Z">
+        <seg>[1035]&lt;0192&gt;Production &amp; commerce de détail|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1036]&lt;0193&gt;Production|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200504T102501Z" creationid="Inrepublica" creationdate="20200504T102501Z">
@@ -41127,6 +41431,22 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200504T103005Z" creationid="Inrepublica" creationdate="20200504T103005Z">
         <seg>[1047]&lt;0204&gt;Inventaire|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1048]&lt;0205&gt;Business Assets|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T143853Z" creationid="Olivier" creationdate="20200508T143853Z">
+        <seg>[1048]&lt;0205&gt;Actifs commerciaux|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1049]&lt;0206&gt;Land &amp; Resource|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T144001Z" creationid="Olivier" creationdate="20200508T144001Z">
+        <seg>1049]&lt;0206&gt;Terres et ressources|</seg>
       </tuv>
     </tu>
     <tu>
