@@ -3910,6 +3910,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>B_NATION</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T141332Z" creationid="Olivier" creationdate="20200508T141332Z">
+        <seg>B_NATION</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>B_OWNED</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T152203Z" creationid="Olivier" creationdate="20200507T152203Z">
@@ -4378,6 +4386,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T202633Z" creationid="Acer" creationdate="20200424T174542Z">
         <seg>Construisez une autre usine pour produire un autre article ~vestimentaire~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Building for preparing this product</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T141636Z" creationid="Olivier" creationdate="20200508T141636Z">
+        <seg>Bâtiment pour la préparation de ce produit</seg>
       </tuv>
     </tu>
     <tu>
@@ -18905,6 +18921,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MLAYOUT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T141647Z" creationid="Olivier" creationdate="20200508T141647Z">
+        <seg>MLAYOUT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MLOANDEP</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145940Z" creationid="Inrepublica" creationdate="20200422T145940Z">
@@ -21569,6 +21593,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Only show sovereign bonds.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T141502Z" creationid="Olivier" creationdate="20200508T141403Z">
+        <seg>Ne montrer que les emprunt d'état</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Only show technologies that your company is currently researching.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T170020Z" creationid="Olivier" creationdate="20200502T170020Z">
@@ -22009,6 +22041,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>PLANSRC4</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T141805Z" creationid="Olivier" creationdate="20200508T141805Z">
+        <seg>PLANSRC4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>PLAN_1</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T091750Z" creationid="Olivier" creationdate="20200503T091750Z">
@@ -22173,6 +22213,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T145348Z" creationid="Olivier" creationdate="20200504T145348Z">
         <seg>PO_UNEMP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PREBUILD</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T141623Z" creationid="Olivier" creationdate="20200508T141623Z">
+        <seg>PREBUILD</seg>
       </tuv>
     </tu>
     <tu>
@@ -27313,6 +27361,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Set up a layout in your firm for preparing this product.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T141833Z" creationid="Olivier" creationdate="20200508T141803Z">
+        <seg>Mettez en place une disposition dans votre établissement pour la préparation de ce produit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Set up a new floor</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T105445Z" creationid="Olivier" creationdate="20200506T105445Z">
@@ -27757,6 +27813,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T102804Z" creationid="Olivier" creationdate="20200428T163129Z">
         <seg>Effets sonores activés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sovereign Bonds</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T141449Z" creationid="Olivier" creationdate="20200508T141339Z">
+        <seg>Emprunt d'état</seg>
       </tuv>
     </tu>
     <tu>
@@ -28493,6 +28557,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T120929Z" creationid="Olivier" creationdate="20200428T120929Z">
         <seg>CONDITIONS GÉNÉRALES ET D'UTILISATION, DE REPRODUCTION ET DE DISTRIBUTION</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>TOTALCF</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T141835Z" creationid="Olivier" creationdate="20200508T141835Z">
+        <seg>TOTALCF</seg>
       </tuv>
     </tu>
     <tu>
@@ -32066,6 +32138,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This product must be prepared in this specific building using #[Prepare] units#.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T141645Z" creationid="Olivier" creationdate="20200508T141645Z">
+        <seg>Ce produit doit être préparé dans ce bâtiment spécifique à l'aide d'unités # [Préparer] #.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This product uses Noto fonts from Google.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T120847Z" creationid="Olivier" creationdate="20200428T120614Z">
@@ -32318,6 +32398,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T134223Z" creationid="Olivier" creationdate="20200424T095046Z">
         <seg>Cette ~unité de fabrication~ va maintenant produire le ~club de golf~. Découvrez comment nous avons utilisé une ~unité d'achats~ existante fournissant du bois~, et en conjonction avec une nouvelle unité d'achat ~acier~, pour fabriquer un produit différent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thus it is important to regularly release new versions to generate new demand.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T141331Z" creationid="Olivier" creationdate="20200508T141331Z">
+        <seg>Il est donc important de publier régulièrement de nouvelles versions pour générer une nouvelle demande.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35286,6 +35374,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145220Z" creationid="Olivier" creationdate="20200503T145220Z">
         <seg>Les plans d'aménagement génériques sont destinés aux usines et peuvent être utilisés pour la production de n'importe quel produit avec le même nombre d'intrants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wildcard layout plans are for setting up a layout with #[Prepare] units# and can be used for preparing any products with the same number of inputs.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T142007Z" creationid="Olivier" creationdate="20200508T141818Z">
+        <seg>Les plans d'implantation avec caractères de remplacement servent à mettre en place une implantation avec #[Préparer] unités# et peuvent être utilisés pour préparer tout produit ayant le même nombre d'intrants.</seg>
       </tuv>
     </tu>
     <tu>
