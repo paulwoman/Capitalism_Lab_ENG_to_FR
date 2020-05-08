@@ -1342,6 +1342,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A bond's Yield takes into account the bond's current market price and tells you what you will actually earn on an annualized basis when you buy the bond at its current market price.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T084809Z" creationid="Olivier" creationdate="20200508T084809Z">
+        <seg>Le rendement d'une obligation tient compte du prix actuel du marché et vous indique ce que vous gagnerez réellement sur une base annualisée lorsque vous achèterez l'obligation à son prix actuel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A capital ratio is the ratio of a bank's equity capital to its total assets.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T083311Z" creationid="Inrepublica" creationdate="20200422T203240Z">
@@ -1490,6 +1498,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T171015Z" creationid="Inrepublica" creationdate="20200422T171015Z">
         <seg>Un taux d'épargne personnel plus élevé signifie que les gens vont épargner et déposer plus d'argent dans les banques, ce qui augmente la rentabilité des banques en général.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A higher ratio increases incomes from loan interests but it also increases the bank's liquidity risks.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T083918Z" creationid="Olivier" creationdate="20200508T083918Z">
+        <seg>Un ratio plus élevé augmente les revenus provenant des intérêts des prêts, mais il augmente également les risques de liquidité de la banque.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3518,6 +3534,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>BCOUPONR</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T084522Z" creationid="Olivier" creationdate="20200508T084522Z">
+        <seg>BCOUPONR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BFACEVAL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T084509Z" creationid="Olivier" creationdate="20200508T084509Z">
+        <seg>BFACEVAL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>BFUNDTRA</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200507T192629Z" creationid="Acer" creationdate="20200507T192629Z">
@@ -3626,6 +3658,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102227Z" creationid="Olivier" creationdate="20200503T102227Z">
         <seg>BUYFIRMC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BYIELD</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T084659Z" creationid="Olivier" creationdate="20200508T084659Z">
+        <seg>BYIELD</seg>
       </tuv>
     </tu>
     <tu>
@@ -7734,6 +7774,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Coupon Rate</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T084607Z" creationid="Olivier" creationdate="20200508T084607Z">
+        <seg>Taux du coupon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cuir|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155538Z" creationid="Inrepublica" creationdate="20200425T155538Z">
@@ -10074,6 +10122,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155604Z" creationid="Inrepublica" creationdate="20200425T155604Z">
         <seg>Fab|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Face Value</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T084519Z" creationid="Olivier" creationdate="20200508T084513Z">
+        <seg>Valeur nominale</seg>
       </tuv>
     </tu>
     <tu>
@@ -14801,6 +14857,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>INT_MARG</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T083919Z" creationid="Olivier" creationdate="20200508T083919Z">
+        <seg>INT_MARG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>INT_SPRE</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145956Z" creationid="Inrepublica" creationdate="20200422T145956Z">
@@ -16961,6 +17025,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It tells you what the bond paid when it was issued.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T084621Z" creationid="Olivier" creationdate="20200508T084621Z">
+        <seg>Cela  vous indique le montant de l'obligation lors de son émission.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It was saved with a different version of Capitalism.|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T162742Z" creationid="Inrepublica" creationdate="20200423T162742Z">
@@ -17373,6 +17445,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155315Z" creationid="Olivier" creationdate="20200507T155315Z">
         <seg>LOANCRED</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LOANDEPP</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T083840Z" creationid="Olivier" creationdate="20200508T083840Z">
+        <seg>LOANDEPP</seg>
       </tuv>
     </tu>
     <tu>
@@ -19101,6 +19181,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T095750Z" creationid="Olivier" creationdate="20200506T095750Z">
         <seg>Les exportations nettes sont égales aux exportations moins les importations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Net Interest Margin</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T084457Z" creationid="Olivier" creationdate="20200508T084457Z">
+        <seg>Marge d'intérêt nette</seg>
       </tuv>
     </tu>
     <tu>
@@ -24153,6 +24241,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>RESETSRH</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T084811Z" creationid="Olivier" creationdate="20200508T084811Z">
+        <seg>RESETSRH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>RESGOAL</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T144457Z" creationid="Olivier" creationdate="20200503T144457Z">
@@ -24333,6 +24429,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161033Z" creationid="Inrepublica" creationdate="20200422T161033Z">
         <seg>Désactivation aléatoire des classes de produits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Range Brand</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T084433Z" creationid="Olivier" creationdate="20200508T084433Z">
+        <seg>Ensemble de marques</seg>
       </tuv>
     </tu>
     <tu>
@@ -24709,6 +24813,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T133215Z" creationid="Olivier" creationdate="20200426T133215Z">
         <seg>Les projets de recherche peuvent prendre un certain temps pour être menés à bien, c'est donc une bonne idée de commencer les recherches le plus tôt possible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reset Stock Returns History</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T084817Z" creationid="Olivier" creationdate="20200508T084817Z">
+        <seg>Rétablir l'historique des rendements boursiers</seg>
       </tuv>
     </tu>
     <tu>
@@ -25333,6 +25445,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155607Z" creationid="Inrepublica" creationdate="20200425T155607Z">
         <seg>STOP PURCHASE|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>STOPBANK</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T084819Z" creationid="Olivier" creationdate="20200508T084819Z">
+        <seg>STOPBANK</seg>
       </tuv>
     </tu>
     <tu>
@@ -26945,6 +27065,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Stop Bank Deposits and Loans</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T084824Z" creationid="Olivier" creationdate="20200508T084824Z">
+        <seg>Arrêter les dépôts et les prêts bancaires</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Stop Bank Loans</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T205526Z" creationid="Olivier" creationdate="20200507T205526Z">
@@ -28313,6 +28441,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The #net interest margin# is a measure of the difference between the bank's #interest income from loans# and the amount of #deposit interest paid out to its customers#, relative to the amount of its #interest-earning assets#.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T084508Z" creationid="Olivier" creationdate="20200508T084508Z">
+        <seg>La #marge d'intérêt nette# est une mesure de la différence entre les #revenus d'intérêts des prêts# de la banque et le montant des #intérêts de dépôt payés à ses clients#, par rapport au montant de ses #actifs productifs d'intérêts#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Earning Per Share is a company's operating profit over the past 365 days divided by the total number of outstanding shares.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151955Z" creationid="Olivier" creationdate="20200504T151955Z">
@@ -28413,6 +28549,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T103141Z" creationid="Olivier" creationdate="20200506T103141Z">
         <seg>Le montant du déficit que la ville actuelle a enregistré au cours des 12 derniers mois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The amount of interest income earned on the bond each year can be calculated by multiplying the bond's Face Value by its Coupon Rate.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T084658Z" creationid="Olivier" creationdate="20200508T084658Z">
+        <seg>Le montant des revenus d'intérêt gagnés sur l'obligation chaque année peut être calculé en multipliant la valeur nominale de l'obligation par son taux d'intérêt nominal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29117,6 +29261,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155918Z" creationid="Olivier" creationdate="20200507T155918Z">
         <seg>Le montant maximum d'argent liquide que vous êtes autorisé à transférer de la banque vers votre société.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The maximum amount of loans that the bank can lend out is restricted by this ratio.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T083912Z" creationid="Olivier" creationdate="20200508T083912Z">
+        <seg>Le montant maximum des prêts que la banque peut accorder est limité par ce ratio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32234,6 +32386,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Under this strategy, products in the #Same Product Class# are labeled with a single range brand.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T084439Z" creationid="Olivier" creationdate="20200508T084439Z">
+        <seg>Under this strategy, products in the #Same Product Class# are labeled with a single range brand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Under your leadership, the company continues to grow.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164232Z" creationid="Olivier" creationdate="20200429T164232Z">
@@ -33290,6 +33450,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When the Inflation mode is set to #Inverse Inflation#, a bond's #Face Value# may decline over time due to inflation.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T084603Z" creationid="Olivier" creationdate="20200508T084516Z">
+        <seg>Lorsque le mode d'inflation est réglé sur #Inflation Inverse#I, la #valeur nominale# d'une obligation peut diminuer au fil du temps en raison de l'inflation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When the Survival Mode is enabled, the options available on the New Game Settings menu will be different to reflect the new gameplay mechanism.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T105256Z" creationid="Olivier" creationdate="20200506T105256Z">
@@ -33750,6 +33918,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150638Z" creationid="Olivier" creationdate="20200502T150638Z">
         <seg>Barre jaune = l'offre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Yield (also called Yield to Maturity)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T084757Z" creationid="Olivier" creationdate="20200508T084757Z">
+        <seg>Rendement (également appelé rendement à l'échéance)</seg>
       </tuv>
     </tu>
     <tu>
@@ -37861,8 +38037,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0798]&lt;0018&gt;If your company is using 'Corporate Brand' strategy,|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T142806Z" creationid="Olivier" creationdate="20200429T142754Z">
-        <seg>[0798]&lt;0018&gt;Si votre entreprise utilise une stratégie de 'marque d'entreprise',|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T084001Z" creationid="Olivier" creationdate="20200429T142754Z">
+        <seg>[0798]&lt;0018&gt;Si votre entreprise utilise une 'stratégie de 'marque d'entreprise',|</seg>
       </tuv>
     </tu>
     <tu>
@@ -37895,6 +38071,22 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T142846Z" creationid="Olivier" creationdate="20200429T142846Z">
         <seg>[0803]&lt;0023&gt;Fidélité à la marque|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0804]&lt;0024&gt;Range Band|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T084300Z" creationid="Olivier" creationdate="20200508T083932Z">
+        <seg>[0804]&lt;0024&gt;Groupe de marques|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0805]&lt;0025&gt;Unique Band|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T084310Z" creationid="Olivier" creationdate="20200508T084144Z">
+        <seg>[0805]&lt;0025&gt;Marque unique|</seg>
       </tuv>
     </tu>
     <tu>
@@ -38311,6 +38503,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T120923Z" creationid="Inrepublica" creationdate="20200426T120923Z">
         <seg>[0879]Marque de société|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0880]Range Brand|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T084348Z" creationid="Olivier" creationdate="20200508T084348Z">
+        <seg>[0880]Ensemble de marques|</seg>
       </tuv>
     </tu>
     <tu>
