@@ -42021,8 +42021,136 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1130]&lt;0285&gt;BORROW|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T172343Z" creationid="Olivier" creationdate="20200508T172343Z">
-        <seg>[correspondance][0707]Emprunter|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T172402Z" creationid="Olivier" creationdate="20200508T172355Z">
+        <seg>[1130]&lt;0285&gt;EMPRUNTER|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1131]&lt;0286&gt;REPAY|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T172411Z" creationid="Olivier" creationdate="20200508T172405Z">
+        <seg>[1131]&lt;0286&gt;REMBOURSER|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1132]&lt;0287&gt;Issues|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T172432Z" creationid="Olivier" creationdate="20200508T172420Z">
+        <seg>[1132]&lt;0287&gt;Émissions|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1133]&lt;0288&gt;New Shares at|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T172444Z" creationid="Olivier" creationdate="20200508T172422Z">
+        <seg>[1133]&lt;0288&gt;Nouvelles actions à|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1134]&lt;0289&gt; Per Share.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T172504Z" creationid="Olivier" creationdate="20200508T172504Z">
+        <seg>[1134]&lt;0289&gt; Par action.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1135]&lt;0290&gt;Total Loan|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T172515Z" creationid="Olivier" creationdate="20200508T172508Z">
+        <seg>[1135]&lt;0290&gt;Total des prêts|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1136]&lt;0291&gt;Monthly Interest|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T172524Z" creationid="Olivier" creationdate="20200508T172518Z">
+        <seg>[1136]&lt;0291&gt;Intérêts mensuels|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1137]&lt;0292&gt;Credit Limit|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T172534Z" creationid="Olivier" creationdate="20200508T172528Z">
+        <seg>[1137]&lt;0292&gt;Limite de crédit|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1138]&lt;0293&gt;Interest Rate|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T172544Z" creationid="Olivier" creationdate="20200508T172538Z">
+        <seg>[1138]&lt;0293&gt;Taux d'intérêt|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1139]&lt;0294&gt;Borrow|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T172553Z" creationid="Olivier" creationdate="20200508T172549Z">
+        <seg>[1139]&lt;0294&gt;Emprunter|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1140]&lt;0295&gt;Repay|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T172604Z" creationid="Olivier" creationdate="20200508T172557Z">
+        <seg>[1140]&lt;0295&gt;Rembourser|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1141]&lt;0296&gt;Loan Interest Rate|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T172647Z" creationid="Olivier" creationdate="20200508T172607Z">
+        <seg>[1141]&lt;0296&gt;Taux d'intérêt de l'emprunt|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1142]&lt;0296&gt;Loan Amount|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T172638Z" creationid="Olivier" creationdate="20200508T172638Z">
+        <seg>[1142]&lt;0296&gt;Montant du prêt|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1143]&lt;0297&gt;ISSUE NOW|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T172701Z" creationid="Olivier" creationdate="20200508T172653Z">
+        <seg>[1143]&lt;0297&gt;EMETTRE MAINTENANT|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1144]&lt;0298&gt;Owner:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T172714Z" creationid="Olivier" creationdate="20200508T172705Z">
+        <seg>[1144]&lt;0298&gt;Propriétaire :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1145]&lt;0299&gt;Your purchase price|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T172730Z" creationid="Olivier" creationdate="20200508T172730Z">
+        <seg>[1145]&lt;0299&gt;Votre prix d'achat|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1146]&lt;0300&gt;Land and building cost|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T173427Z" creationid="Olivier" creationdate="20200508T173427Z">
+        <seg>[1146]&lt;0300&gt;Coût des terrains et des bâtiments|</seg>
       </tuv>
     </tu>
     <tu>
