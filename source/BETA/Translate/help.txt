@@ -420,11 +420,11 @@ You can only trade stock once a day in a Challenge Game.
 ~
 IN_SM_OI
 Left-click to increase. (hotkey: '+' or '=')
-Right-click to increase at a higher rate. Hold SHIFT key while clicking for 10X speed.
+Right-click to increase at a higher rate. Hold #SHIFT# key while clicking for #10X# speed. Hold #CTRL# key while clicking for #100X# speed. 
 ~
 IN_SM_OD
 Left-click to decrease. (hotkey: '-' )
-Right-click to decrease at a higher rate. Hold SHIFT key while clicking for 10X speed.
+Right-click to decrease at a higher rate. Hold #SHIFT# key while clicking for #10X# speed. Hold #CTRL# key while clicking for #100X# speed. 
 ~
 IN_SM_BI
 Buy more stock
@@ -2134,7 +2134,7 @@ The total value of exports. It is used for calculating the Net Exports component
 ~
 E_IMPORT
 Total Imports 
-The total value of imports. It is used for calculating the Net Exports component of GDP. 
+The total value of imports. It is used for calculating the Net Imports component of GDP. 
 ~
 G_CASH
 City fund  
@@ -2370,7 +2370,7 @@ Link to a media firm
 Run advertising for the current web site on another media firm to boost up the current web site's visitor traffic.
 ~
 SLOTIIMG
-Toogle Display (Hotkey: Ctrl-A)
+Toggle Display (Hotkey: Ctrl-A)
 Toggle the display of product images on the 3x3 layout area. 
 ~
 PS_FIND2
@@ -2430,7 +2430,7 @@ Personal Computer Users
 It shows the number of personal computer users in this city.
 ~
 D_PCI
-Personal Computer Users
+Internet Users
 It shows the number of personal computer users who have access to the Internet in this city.
 ~
 HIDEINAC
@@ -2470,7 +2470,7 @@ Total sales in this city
 The sale data include both retail and ecommerce sales.
 ~
 ANALYSIS
-Toogle Analysis Mode (Hotkey: X)
+Toggle Analysis Mode (Hotkey: X)
 Toggle between the Analysis Mode and the standard 3x3 layout mode. 
 ~
 FA_LEVEL
