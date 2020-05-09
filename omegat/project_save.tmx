@@ -42029,8 +42029,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1125]&lt;0280&gt;Borrow/Repay Loan|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T172157Z" creationid="Olivier" creationdate="20200508T172157Z">
-        <seg>[1125]&lt;0280&gt;Emprunter/Remboursement un prêt|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T134852Z" creationid="Olivier" creationdate="20200508T172157Z">
+        <seg>[1125]&lt;0280&gt;Emprunter/Rembourser un prêt|</seg>
       </tuv>
     </tu>
     <tu>
@@ -42735,6 +42735,30 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T134738Z" creationid="Olivier" creationdate="20200509T134738Z">
         <seg>[1292]&lt;0406&gt;Acheter l'établissement|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1298]All|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T134753Z" creationid="Olivier" creationdate="20200509T134753Z">
+        <seg>[1298]Tous|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1299]Has Trade Sales|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T134820Z" creationid="Olivier" creationdate="20200509T134820Z">
+        <seg>[1299]A la vente de commerce|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1300]Has Retail Sales|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T134843Z" creationid="Olivier" creationdate="20200509T134843Z">
+        <seg>[1300]A la vente au détail|</seg>
       </tuv>
     </tu>
     <tu>
