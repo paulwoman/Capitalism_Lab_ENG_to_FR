@@ -42857,6 +42857,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1298]&lt;AA00&gt;All|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T224153Z" creationid="Olivier" creationdate="20200509T224153Z">
+        <seg>[1298]Tous|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1298]All|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T134753Z" creationid="Olivier" creationdate="20200509T134753Z">
@@ -44353,6 +44361,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1632]&lt;AK00&gt;Operating Revenue|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T223935Z" creationid="Olivier" creationdate="20200509T223935Z">
+        <seg>[1632]Recettes d'exploitation|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1632]Operating Revenue|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T144756Z" creationid="Olivier" creationdate="20200509T144756Z">
@@ -45185,6 +45201,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1857]&lt;AL00&gt;|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T223558Z" creationid="Olivier" creationdate="20200509T223558Z">
+        <seg>[1857]&lt;AL00&gt;|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1857]|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T154338Z" creationid="Olivier" creationdate="20200509T154338Z">
@@ -45201,9 +45225,25 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1858]&lt;AL01&gt; million|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T223650Z" creationid="Olivier" creationdate="20200509T223650Z">
+        <seg>[1858] millions|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1859] billion|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T154428Z" creationid="Olivier" creationdate="20200509T154428Z">
+        <seg>[1859] milliards|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1859]&lt;AL02&gt; billion|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T223851Z" creationid="Olivier" creationdate="20200509T223851Z">
         <seg>[1859] milliards|</seg>
       </tuv>
     </tu>
@@ -45337,6 +45377,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1877]&lt;AN07&gt;QUIT TO WINDOWS|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T223531Z" creationid="Olivier" creationdate="20200509T223531Z">
+        <seg>[1877]QUITTER VERS WINDOWS|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1877]QUIT TO WINDOWS|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T091740Z" creationid="Inrepublica" creationdate="20200426T091740Z">
@@ -45345,10 +45393,26 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1878]&lt;AN08&gt;CONTINUE GAME|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T223524Z" creationid="Olivier" creationdate="20200509T223524Z">
+        <seg>[1878]CONTINUER LA PARTIE|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1878]CONTINUE GAME|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T091756Z" creationid="Inrepublica" creationdate="20200426T091756Z">
         <seg>[1878]CONTINUER LA PARTIE|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1879]&lt;AN09&gt;HOTKEY LIST (K)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T223519Z" creationid="Olivier" creationdate="20200509T223519Z">
+        <seg>[1879]LISTE DES RACCOURCIS (K)|</seg>
       </tuv>
     </tu>
     <tu>
