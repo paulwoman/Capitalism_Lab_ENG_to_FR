@@ -22609,6 +22609,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>PRENDRE SA RETRAITE|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T154702Z" creationid="Olivier" creationdate="20200509T154702Z">
+        <seg>PRENDRE SA RETRAITE|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>PRICAGGR</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150001Z" creationid="Inrepublica" creationdate="20200422T150001Z">
@@ -45203,10 +45211,34 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1872]LOAD GAME (L)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T154756Z" creationid="Olivier" creationdate="20200509T154756Z">
+        <seg>[1872]CHARGER (L)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1873]RESTART GAME|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T154832Z" creationid="Olivier" creationdate="20200509T154832Z">
+        <seg>[1873]REDÉMARRER LA PARTIE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1874]RETIRE|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T141331Z" creationid="Olivier" creationdate="20200509T141331Z">
-        <seg>[1874]SE RETIRER|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T154851Z" creationid="Olivier" creationdate="20200509T141331Z">
+        <seg>[1874]PRENDRE SA RETRAITE|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1875]GAME SETTINGS (F9)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T164807Z" creationid="Olivier" creationdate="20200509T154917Z">
+        <seg>[1875]PARAMÈTRES (F9)|</seg>
       </tuv>
     </tu>
     <tu>
