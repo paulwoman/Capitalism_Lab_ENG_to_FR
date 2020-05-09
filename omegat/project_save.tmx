@@ -43219,6 +43219,22 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1374]&lt;0439&gt;Total Score: -1 (You have enabled the cheated mode.)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T140609Z" creationid="Olivier" creationdate="20200509T140609Z">
+        <seg>[1374]&lt;0439&gt;Score total: -1 (Vous avez activé le mode triche.)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1375]&lt;0440&gt;Total Score:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T140635Z" creationid="Olivier" creationdate="20200509T140624Z">
+        <seg>[1375]&lt;0440&gt;Score Total :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1376]&lt;0441&gt; x |</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T054332Z" creationid="Inrepublica" creationdate="20200423T054332Z">
@@ -43235,10 +43251,42 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1379]&lt;0444&gt; (Goal Bonus) =|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T140656Z" creationid="Olivier" creationdate="20200509T140656Z">
+        <seg>[1379]&lt;0444&gt; (Bonus d'objectif) =|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1380]&lt;0445&gt; x 2 (Goal Bonus) =|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T140717Z" creationid="Olivier" creationdate="20200509T140717Z">
+        <seg>[1380]&lt;0445&gt; x 2 (Bonus d'objectif =|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1381]&lt;0446&gt; =|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T054336Z" creationid="Inrepublica" creationdate="20200423T054336Z">
         <seg>[1381]&lt;0446&gt; =|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1382]&lt;0447&gt; (Years)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T140720Z" creationid="Olivier" creationdate="20200509T140720Z">
+        <seg>[1515]&lt;0580&gt; (Années)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1383]&lt;0448&gt; x 2 (Goal Bonus)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T140738Z" creationid="Olivier" creationdate="20200509T140738Z">
+        <seg>[1383]&lt;0448&gt; x 2 (Bonus d'objectif) =|</seg>
       </tuv>
     </tu>
     <tu>
@@ -43267,10 +43315,114 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1387]&lt;0452&gt; million|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T140743Z" creationid="Olivier" creationdate="20200509T140743Z">
+        <seg>[1387]&lt;0452&gt; million|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1389]&lt;0454&gt;Rating (0-100)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T140756Z" creationid="Olivier" creationdate="20200509T140756Z">
+        <seg>[1389]&lt;0454&gt;Classement (0-100)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1390]&lt;0455&gt;Farming|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T140813Z" creationid="Olivier" creationdate="20200509T140813Z">
+        <seg>[1390]&lt;0455&gt;Agriculture|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1391]&lt;0456&gt;Manufacturing|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T094054Z" creationid="Inrepublica" creationdate="20200426T094054Z">
         <seg>[1391]&lt;0456&gt;Fabrication|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1392]&lt;0457&gt;Research and Development|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T140829Z" creationid="Olivier" creationdate="20200509T140829Z">
+        <seg>[1392]&lt;0457&gt;Recherche et Développement|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1393]&lt;0458&gt;Raw Material Production|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T140840Z" creationid="Olivier" creationdate="20200509T140840Z">
+        <seg>[1393]&lt;0458&gt;Production de matières premières|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1394]&lt;0459&gt;Marketing|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T140850Z" creationid="Olivier" creationdate="20200509T140850Z">
+        <seg>[1394]&lt;0459&gt;Marketing|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1395]&lt;0460&gt;Training|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T140903Z" creationid="Olivier" creationdate="20200509T140903Z">
+        <seg>[1395]&lt;0460&gt;Formation|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1396]&lt;0461&gt;Career|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T140915Z" creationid="Olivier" creationdate="20200509T140915Z">
+        <seg>[1396]&lt;0461&gt;Carrière|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1397]&lt;0462&gt;Corporation|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T140924Z" creationid="Olivier" creationdate="20200509T140924Z">
+        <seg>[1397]&lt;0462&gt;Société|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1398]&lt;0463&gt;Job Title|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T140938Z" creationid="Olivier" creationdate="20200509T140938Z">
+        <seg>[1398]&lt;0463&gt;Titre du poste|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1399]&lt;0464&gt;Years of Service|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T140948Z" creationid="Olivier" creationdate="20200509T140948Z">
+        <seg>[1399]&lt;0464&gt;Années de service|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1400]&lt;0465&gt;Retired|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T141029Z" creationid="Olivier" creationdate="20200509T141029Z">
+        <seg>[1400]&lt;0465&gt;Se retirer|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1401]&lt;0466&gt;Independent Investor|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T141030Z" creationid="Olivier" creationdate="20200509T141030Z">
+        <seg>[1401]&lt;0466&gt;Independent Investor|</seg>
       </tuv>
     </tu>
     <tu>
@@ -43599,6 +43751,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T121754Z" creationid="Inrepublica" creationdate="20200426T121754Z">
         <seg>[1821]&lt;0825&gt;Nb.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1874]RETIRE|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T141331Z" creationid="Olivier" creationdate="20200509T141331Z">
+        <seg>[1874]SE RETIRER|</seg>
       </tuv>
     </tu>
     <tu>
