@@ -44939,6 +44939,118 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1836]&lt;0840&gt;Total No.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T153054Z" creationid="Olivier" creationdate="20200509T153054Z">
+        <seg>[1836]&lt;0840&gt;Nbre total</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1837]&lt;0841&gt;Operating Profit Margin|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T153109Z" creationid="Olivier" creationdate="20200509T153109Z">
+        <seg>[1837]&lt;0841&gt;Marge bénéficiaire d'exploitation|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1838]&lt;0842&gt;Return on Equity|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T153134Z" creationid="Olivier" creationdate="20200509T153116Z">
+        <seg>[1838]&lt;0842&gt;Retour sur les capitaux propres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1839]&lt;0843&gt;Stock Price|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T153127Z" creationid="Olivier" creationdate="20200509T153127Z">
+        <seg>[1839]&lt;0843&gt;Cours de l'action|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1840]&lt;0844&gt;Ownership|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T153252Z" creationid="Olivier" creationdate="20200509T153252Z">
+        <seg>[1840]&lt;0844&gt;Actionnariat&lt;/0844&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1841]&lt;0845&gt;No.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T153300Z" creationid="Olivier" creationdate="20200509T153300Z">
+        <seg>[1841]&lt;0845&gt;Nbre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1842]&lt;0846&gt;No.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T153312Z" creationid="Olivier" creationdate="20200509T153312Z">
+        <seg>[1842]&lt;0846&gt;Nbre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1843]&lt;0847&gt;Goal Industries - Goals of Industry Dominance|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T153459Z" creationid="Olivier" creationdate="20200509T153405Z">
+        <seg>[1843]&lt;0847&gt;Objectifs des industries - Objectifs du domination de l'industrie|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1844]&lt;0848&gt;Excluded Industries|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T153414Z" creationid="Olivier" creationdate="20200509T153414Z">
+        <seg>[1844]&lt;0848&gt;Industries exclues|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1845]&lt;0849&gt;Included Industries|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T153422Z" creationid="Olivier" creationdate="20200509T153422Z">
+        <seg>[1845]&lt;0849&gt;Industries inclues|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1846]&lt;0850&gt;Goal Products - Goals of Product Market Dominance|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T153445Z" creationid="Olivier" creationdate="20200509T153445Z">
+        <seg>[1846]&lt;0850&gt;Objectifs des produits - Objectifs de domination du marché des produits|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1847]&lt;0851&gt;Excluded products|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T153510Z" creationid="Olivier" creationdate="20200509T153510Z">
+        <seg>[1847]&lt;0851&gt;Produits exclus|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1848]&lt;0852&gt;Included products|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T153520Z" creationid="Olivier" creationdate="20200509T153520Z">
+        <seg>[1848]&lt;0852&gt;Produits inclus|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1849]&lt;0853&gt;Add|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T153546Z" creationid="Olivier" creationdate="20200509T153546Z">
+        <seg>[1849]&lt;0853&gt;Ajouter|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1874]RETIRE|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T141331Z" creationid="Olivier" creationdate="20200509T141331Z">
@@ -46357,6 +46469,14 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>of Product Classes Being Produced|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T153307Z" creationid="Olivier" creationdate="20200509T153307Z">
+        <seg>de classes de produits en cours de production|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>of Product Classes Produced by Your Corporation|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T145716Z" creationid="Olivier" creationdate="20200509T145716Z">
@@ -46369,6 +46489,14 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T152158Z" creationid="Olivier" creationdate="20200508T152158Z">
         <seg>de classes de produits|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>of Product Types Being Produced|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T153319Z" creationid="Olivier" creationdate="20200509T153319Z">
+        <seg>de types de produits en cours de production|</seg>
       </tuv>
     </tu>
     <tu>
