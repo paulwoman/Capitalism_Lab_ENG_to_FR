@@ -45363,8 +45363,16 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1913]&lt;0862&gt;Revenue Graph|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Acer" changedate="20200509T211856Z" creationid="Acer" creationdate="20200509T211856Z">
-        <seg>[1913]&lt;0862&gt;Revenue Graph|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T222446Z" creationid="Acer" creationdate="20200509T211856Z">
+        <seg>[1913]&lt;0862&gt;Graphique des revenus|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1914]&lt;0863&gt;Qty Sold Graph|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T222508Z" creationid="Olivier" creationdate="20200509T222431Z">
+        <seg>[1914]&lt;0863&gt;Graphique de la Qté vendues|</seg>
       </tuv>
     </tu>
     <tu>
