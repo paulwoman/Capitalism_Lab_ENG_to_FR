@@ -255,7 +255,6 @@ Occupancy graph	Graphique d'occupation
 PR	Relation publique
 Training	formation
 Write-offs	amortissement	à vérifier ingame
-Operating Overhead	Frais généraux de l'usine
 Advertising & PR Expense	Frais de publicité et de relations publiques
 Sales Revenue	Recettes des ventes
 Salaries Expense	Dépenses salariales	Salaries Expense
@@ -438,3 +437,15 @@ Assets Turnover	Chiffre d'affaire
 Inventory Turnover	Rotation de stock	Je préfère rotation de stock
 Loan	Prêt
 of	de	[1128]<0283> à vérifier
+Manager	Management
+Progress	Progression
+Frozen	Congelés
+Warm	Tiède
+Hot	Brûlant
+Dry	Sec	t_game 1199 à vérifier
+Cold	Froid
+Cool	Frais
+Warm, Cool or Cold	Tiède, Frais or Froid	t_game [1203]<034> à vérifier
+Function	Fonction
+Operating Overhead	Frais généraux d'exploitation
+Dominated Industries	Industries dominante
