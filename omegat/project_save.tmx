@@ -43053,8 +43053,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1347]&lt;0412&gt;Summary|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T140048Z" creationid="Olivier" creationdate="20200509T140022Z">
-        <seg>[1347&lt;0412&gt;Résumé|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T141930Z" creationid="Olivier" creationdate="20200509T140022Z">
+        <seg>[1347]&lt;0412&gt;Résumé|</seg>
       </tuv>
     </tu>
     <tu>
@@ -43125,8 +43125,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1358]&lt;0423&gt;No.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T140251Z" creationid="Olivier" creationdate="20200509T140251Z">
-        <seg>[1358]&lt;0423&gt;N°.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T141956Z" creationid="Olivier" creationdate="20200509T140251Z">
+        <seg>[1358]&lt;0423&gt;Nbre</seg>
       </tuv>
     </tu>
     <tu>
@@ -43181,8 +43181,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1366]&lt;0431&gt;Dominated Industries|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T140540Z" creationid="Olivier" creationdate="20200509T140540Z">
-        <seg>[1504]&lt;0569&gt;Industries dominantes|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T142017Z" creationid="Olivier" creationdate="20200509T140540Z">
+        <seg>[1366]&lt;0431&gt;Industries dominantes|</seg>
       </tuv>
     </tu>
     <tu>
@@ -43277,8 +43277,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1382]&lt;0447&gt; (Years)|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T140720Z" creationid="Olivier" creationdate="20200509T140720Z">
-        <seg>[1515]&lt;0580&gt; (Années)|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T142053Z" creationid="Olivier" creationdate="20200509T140720Z">
+        <seg>[1382]&lt;0447&gt; (Années)|</seg>
       </tuv>
     </tu>
     <tu>
@@ -43413,16 +43413,144 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1400]&lt;0465&gt;Retired|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T141029Z" creationid="Olivier" creationdate="20200509T141029Z">
-        <seg>[1400]&lt;0465&gt;Se retirer|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T141519Z" creationid="Olivier" creationdate="20200509T141029Z">
+        <seg>[1400]&lt;0465&gt;Prendre sa retraite|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1401]&lt;0466&gt;Independent Investor|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T141030Z" creationid="Olivier" creationdate="20200509T141030Z">
-        <seg>[1401]&lt;0466&gt;Independent Investor|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T141542Z" creationid="Olivier" creationdate="20200509T141030Z">
+        <seg>[1401]&lt;0466&gt;Investisseurs indépendants|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1402]&lt;0467&gt;Attitude Towards You|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T141552Z" creationid="Olivier" creationdate="20200509T141504Z">
+        <seg>[1402]&lt;0467&gt;Attitude envers vous|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1403]&lt;0468&gt;Annual Salary|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T141832Z" creationid="Olivier" creationdate="20200509T141615Z">
+        <seg>[1403]&lt;0468&gt;Salaire annuel|&lt;/0468&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1404]&lt;0469&gt;Terminate Employment|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T141633Z" creationid="Olivier" creationdate="20200509T141633Z">
+        <seg>[1404]&lt;0469&gt;Mettre fin au contrat de travail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1405]&lt;0470&gt;Hire Chief Operating Officer|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T141649Z" creationid="Olivier" creationdate="20200509T141649Z">
+        <seg>[1405]&lt;0470&gt;Engager le directeur d'exploitation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1406]&lt;0471&gt;Hire Chief Marketing Officer|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T141824Z" creationid="Olivier" creationdate="20200509T141727Z">
+        <seg>[1406]&lt;0471&gt;Embaucher le directeur général du marketing&lt;/0471&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1407]&lt;0472&gt;Hire Chief Technical Officer|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T141744Z" creationid="Olivier" creationdate="20200509T141744Z">
+        <seg>[1407]&lt;0472&gt;Engager le Directeur technique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1408]&lt;0473&gt;MANAGEMENT POLICIES|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T141809Z" creationid="Olivier" creationdate="20200509T141809Z">
+        <seg>[1408]&lt;0473&gt;POLITIQUES DE GESTION|&lt;/0473&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1409]&lt;0474&gt;Pricing Policy|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T142139Z" creationid="Olivier" creationdate="20200509T142139Z">
+        <seg>[1409]&lt;0474&gt;Politique des prix|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1411]&lt;0476&gt;Aggressive|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T142205Z" creationid="Olivier" creationdate="20200509T142205Z">
+        <seg>[1411]&lt;0476&gt;Agressif|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1412]&lt;0477&gt;Very Aggressive|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T142218Z" creationid="Olivier" creationdate="20200509T142218Z">
+        <seg>[1412]&lt;0477&gt;Très agressif|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1419]&lt;0484&gt;The severance for terminating the employment of \n|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T142242Z" creationid="Olivier" creationdate="20200509T142242Z">
+        <seg>[1419]&lt;0484&gt;L'indemnité de licenciement pour cessation d'emploi de \n|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1424]&lt;0489&gt;, is \n|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T142249Z" creationid="Olivier" creationdate="20200509T142249Z">
+        <seg>[1424]&lt;0489&gt;, est \n|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1425]&lt;0490&gt; (monthly salary)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T142312Z" creationid="Olivier" creationdate="20200509T142312Z">
+        <seg>[1425]&lt;0490&gt; (salaire mensuel)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1426]&lt;0491&gt; (weekly salary) x|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T142324Z" creationid="Olivier" creationdate="20200509T142324Z">
+        <seg>[1426]&lt;0491&gt; (salaire hebdomadaire) x|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1427]&lt;0492&gt; (years of service)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T142348Z" creationid="Olivier" creationdate="20200509T142348Z">
+        <seg>[1427]&lt;0492&gt; (années de service)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1428]&lt;0493&gt;Do you want to proceed ?|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T142404Z" creationid="Olivier" creationdate="20200509T142404Z">
+        <seg>[1428]&lt;0493&gt;Voulez-vous procéder ?|</seg>
       </tuv>
     </tu>
     <tu>
