@@ -7854,6 +7854,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Conserve de Maïs|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Acer" changedate="20200509T182406Z" creationid="Acer" creationdate="20200509T182406Z">
+        <seg>Conserve de Maïs|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Consider Tender Offers from other players.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T145738Z" creationid="Olivier" creationdate="20200428T145724Z">
@@ -24947,16 +24955,16 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Proceed ?|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145255Z" creationid="Inrepublica" creationdate="20200422T145255Z">
-        <seg>Procéder ?|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T172313Z" creationid="Inrepublica" creationdate="20200422T145255Z">
+        <seg>Poursuivre ?|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Proceed?|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T164354Z" creationid="Inrepublica" creationdate="20200423T164354Z">
-        <seg>Poursuivre?|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T172300Z" creationid="Inrepublica" creationdate="20200423T164354Z">
+        <seg>Poursuivre ?|</seg>
       </tuv>
     </tu>
     <tu>
@@ -37755,6 +37763,84 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0001]&lt;VERS&gt;Version %1s|
+[0011]&lt;QUIT&gt;Quit|
+[0012]&lt;TRAN&gt;Training|
+[0017]&lt;CANC&gt;Cancel|
+[0019]&lt;NEWP&gt;New Player|
+[0020]&lt;DELP&gt;Delete|
+[0021]&lt;SELP&gt;Continue|
+[0022]Please select your name from this list|
+[0023]If your name is not here, click on "New Player" below|
+[0024]&lt;PRFN&gt;Please enter your name|
+[0025]&lt;PRFD&gt;Are you Certain that you wish to delete this person from the list?|
+[0026]&lt;PRDY&gt;Yes|
+[0027]&lt;PRDN&gt;No|
+[0028]&lt;PRED&gt;Same profile has already been created|
+[0029]&lt;PREI&gt;Error creating %1s directory|
+[0030]&lt;PREC&gt;Error creating profile|
+[0038]&lt;NAH_&gt;Human|
+[0040]&lt;DIFF&gt;Difficulty Level|
+[0092]&lt;RNDE&gt;Random Events|
+[0118]The host refuses you|
+[0119]Cannot join a new game session|
+[0120]Cannot join a load game session|
+[0121]You cannot join the game because the save game is different from the host|
+[0122]You cannot join the game because the host does not accept your game version|
+[0123]You cannot join the game because the session is full|
+[0148]&lt;SV_G&gt;Save Game|
+[0149]&lt;0SAV&gt;You haven't saved any games yet.|
+[0150]&lt;SAVE&gt;Save|
+[0152]&lt;LOAD&gt;Load|
+[0154]&lt;EMGS&gt;Empty Game Slot|
+[0155]&lt;PAGE&gt;page %1d/%2d|
+[0156]&lt;-DSL&gt;Cannot delete this slot|
+[0158]&lt;GDAT&gt;Game date: |
+[0159]&lt;FDAT&gt;File date: |
+[0160]&lt;FNAM&gt;File name: |
+[0161]&lt;AOVW&gt;It will overwrite the existing save game.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T173021Z" creationid="Olivier" creationdate="20200509T173021Z">
+        <seg>[0001]&lt;VERS&gt;Version %1s|
+[0011]&lt;QUIT&gt;Quit|
+[0012]&lt;TRAN&gt;Training|
+[0017]&lt;CANC&gt;Cancel|
+[0019]&lt;NEWP&gt;New Player|
+[0020]&lt;DELP&gt;Delete|
+[0021]&lt;SELP&gt;Continue|
+[0022]Please select your name from this list|
+[0023]If your name is not here, click on "New Player" below|
+[0024]&lt;PRFN&gt;Please enter your name|
+[0025]&lt;PRFD&gt;Are you Certain that you wish to delete this person from the list?|
+[0026]&lt;PRDY&gt;Yes|
+[0027]&lt;PRDN&gt;No|
+[0028]&lt;PRED&gt;Same profile has already been created|
+[0029]&lt;PREI&gt;Error creating %1s directory|
+[0030]&lt;PREC&gt;Error creating profile|
+[0038]&lt;NAH_&gt;Human|
+[0040]&lt;DIFF&gt;Difficulty Level|
+[0092]&lt;RNDE&gt;Random Events|
+[0118]The host refuses you|
+[0119]Cannot join a new game session|
+[0120]Cannot join a load game session|
+[0121]You cannot join the game because the save game is different from the host|
+[0122]You cannot join the game because the host does not accept your game version|
+[0123]You cannot join the game because the session is full|
+[0148]&lt;SV_G&gt;Save Game|
+[0149]&lt;0SAV&gt;You haven't saved any games yet.|
+[0150]&lt;SAVE&gt;Save|
+[0152]&lt;LOAD&gt;Load|
+[0154]&lt;EMGS&gt;Empty Game Slot|
+[0155]&lt;PAGE&gt;page %1d/%2d|
+[0156]&lt;-DSL&gt;Cannot delete this slot|
+[0158]&lt;GDAT&gt;Game date: |
+[0159]&lt;FDAT&gt;File date: |
+[0160]&lt;FNAM&gt;File name: |
+[0161]&lt;AOVW&gt;It will overwrite the existing save game.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0011]&lt;QUIT&gt;Quit|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T124949Z" creationid="Inrepublica" creationdate="20200422T124949Z">
@@ -38517,8 +38603,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0508]Do you really want to retire?|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T100953Z" creationid="Inrepublica" creationdate="20200426T100953Z">
-        <seg>[0508]Voulez-vous réellement vous retirer?|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T172256Z" creationid="Inrepublica" creationdate="20200426T100953Z">
+        <seg>[0508]Voulez-vous réellement prendre votre retraite ?|</seg>
       </tuv>
     </tu>
     <tu>
@@ -42771,6 +42857,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1298]&lt;AA00&gt;All|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T224153Z" creationid="Olivier" creationdate="20200509T224153Z">
+        <seg>[1298]Tous|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1298]All|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T134753Z" creationid="Olivier" creationdate="20200509T134753Z">
@@ -44267,6 +44361,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1632]&lt;AK00&gt;Operating Revenue|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T223935Z" creationid="Olivier" creationdate="20200509T223935Z">
+        <seg>[1632]Recettes d'exploitation|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1632]Operating Revenue|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T144756Z" creationid="Olivier" creationdate="20200509T144756Z">
@@ -44773,16 +44875,16 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1811]&lt;0815&gt;CORPORATE COLOR|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T121559Z" creationid="Inrepublica" creationdate="20200426T121559Z">
-        <seg>[1811]&lt;0815&gt;COULEUR SOCIÉTÉ|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T165323Z" creationid="Inrepublica" creationdate="20200426T121559Z">
+        <seg>[1811]&lt;0815&gt;COULEUR DE LA SOCIÉTÉ|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1812]&lt;0816&gt;CORPORATE LOGO|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T121620Z" creationid="Inrepublica" creationdate="20200426T121620Z">
-        <seg>[1812]&lt;0816&gt;LOGO SOCIÉTÉ|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T165333Z" creationid="Inrepublica" creationdate="20200426T121620Z">
+        <seg>[1812]&lt;0816&gt;LOGO DE LA SOCIÉTÉ|</seg>
       </tuv>
     </tu>
     <tu>
@@ -44981,8 +45083,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1840]&lt;0844&gt;Ownership|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T153252Z" creationid="Olivier" creationdate="20200509T153252Z">
-        <seg>[1840]&lt;0844&gt;Actionnariat&lt;/0844&gt;</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T171219Z" creationid="Olivier" creationdate="20200509T153252Z">
+        <seg>[1840]&lt;0844&gt;Actionnariat|</seg>
       </tuv>
     </tu>
     <tu>
@@ -45099,6 +45201,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1857]&lt;AL00&gt;|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T223558Z" creationid="Olivier" creationdate="20200509T223558Z">
+        <seg>[1857]&lt;AL00&gt;|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1857]|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T154338Z" creationid="Olivier" creationdate="20200509T154338Z">
@@ -45115,9 +45225,25 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1858]&lt;AL01&gt; million|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T223650Z" creationid="Olivier" creationdate="20200509T223650Z">
+        <seg>[1858] millions|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1859] billion|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T154428Z" creationid="Olivier" creationdate="20200509T154428Z">
+        <seg>[1859] milliards|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1859]&lt;AL02&gt; billion|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T223851Z" creationid="Olivier" creationdate="20200509T223851Z">
         <seg>[1859] milliards|</seg>
       </tuv>
     </tu>
@@ -45205,8 +45331,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1871]SAVE GAME (S or Alt-S)|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T154632Z" creationid="Olivier" creationdate="20200509T154632Z">
-        <seg>SAVE GAME (S or Alt-S)|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T172010Z" creationid="Olivier" creationdate="20200509T154632Z">
+        <seg>[1871]ENREGISTRER (S ou Alt-S)|</seg>
       </tuv>
     </tu>
     <tu>
@@ -45221,8 +45347,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1873]RESTART GAME|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T154832Z" creationid="Olivier" creationdate="20200509T154832Z">
-        <seg>[1873]REDÉMARRER LA PARTIE</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T172020Z" creationid="Olivier" creationdate="20200509T154832Z">
+        <seg>[1873]REDÉMARRER LA PARTIE|</seg>
       </tuv>
     </tu>
     <tu>
@@ -45237,16 +45363,24 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1875]GAME SETTINGS (F9)|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T164807Z" creationid="Olivier" creationdate="20200509T154917Z">
-        <seg>[1875]PARAMÈTRES (F9)|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T172027Z" creationid="Olivier" creationdate="20200509T154917Z">
+        <seg>[1875]PARAMÈTRE (F9)|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1876]QUIT TO MAIN MENU|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T091717Z" creationid="Inrepublica" creationdate="20200426T091717Z">
-        <seg>[1876]RETOUR AU MENU PRINCIPAL|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T172125Z" creationid="Inrepublica" creationdate="20200426T091717Z">
+        <seg>[1876]RETOUR MENU PRINCIPAL|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1877]&lt;AN07&gt;QUIT TO WINDOWS|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T223531Z" creationid="Olivier" creationdate="20200509T223531Z">
+        <seg>[1877]QUITTER VERS WINDOWS|</seg>
       </tuv>
     </tu>
     <tu>
@@ -45259,6 +45393,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1878]&lt;AN08&gt;CONTINUE GAME|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T223524Z" creationid="Olivier" creationdate="20200509T223524Z">
+        <seg>[1878]CONTINUER LA PARTIE|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1878]CONTINUE GAME|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T091756Z" creationid="Inrepublica" creationdate="20200426T091756Z">
@@ -45267,10 +45409,42 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1879]&lt;AN09&gt;HOTKEY LIST (K)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T223519Z" creationid="Olivier" creationdate="20200509T223519Z">
+        <seg>[1879]LISTE DES RACCOURCIS (K)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1879]HOTKEY LIST (K)|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T090916Z" creationid="Inrepublica" creationdate="20200426T090916Z">
-        <seg>[1879]LISTE RACCOURCIS (K)|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T164822Z" creationid="Inrepublica" creationdate="20200426T090916Z">
+        <seg>[1879]LISTE DES RACCOURCIS (K)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1913]&lt;0862&gt;Revenue Graph|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T222446Z" creationid="Acer" creationdate="20200509T211856Z">
+        <seg>[1913]&lt;0862&gt;Graphique des revenus|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1914]&lt;0863&gt;Qty Sold Graph|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T222508Z" creationid="Olivier" creationdate="20200509T222431Z">
+        <seg>[1914]&lt;0863&gt;Graphique de la Qté vendues|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1916]&lt;0865&gt;Go|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T223303Z" creationid="Olivier" creationdate="20200509T223303Z">
+        <seg>[0865]&lt;0080&gt;Allez|</seg>
       </tuv>
     </tu>
     <tu>
@@ -46757,6 +46931,20 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>~
+LOANALLO
+New Loans Allocation
+At the initial setting, a bank lends money evenly to borrowers of different credit ratings (20% each).</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T223127Z" creationid="Olivier" creationdate="20200509T223127Z">
+        <seg>~
+LOANALLO
+New Loans Allocation
+At the initial setting, a bank lends money evenly to borrowers of different credit ratings (20% each).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>~Brand awareness~ is simply a measure the consumers' knowledge of the brand.^^Besides driven by advertising, it also increases automatically over time, if the products featuring the brand are widely distributed and enjoy constant retail exposure.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T181039Z" creationid="Acer" creationdate="20200424T181039Z">
@@ -47021,17 +47209,6 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
     </tu>
 <!-- Alternative translations -->
     <tu>
-      <prop type="file">scenario/Dilemma_of_a_Camera_Manufacturer.txt</prop>
-      <prop type="prev">Description=With over twenty of years of experience in producing world-class photography equipment under your belt, you have earned the trust of a group of investors for funding your startup.</prop>
-      <prop type="next">Difficulty Rating=120</prop>
-      <tuv lang="en-US">
-        <seg>^^While traditional film cameras still dominate the market at the moment, development in digital photography technology has been gaining momentum.^^You see a great opportunity here but it requires committing a long term investment in research and development before any commercial products will materialize.^^Should you dedicate your resources to it at the outset or start with traditional film cameras and transit to digital cameras later for a hopefully smoother ride?</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T171302Z" creationid="Olivier" creationdate="20200429T171302Z">
-        <seg>^^Tandis que les appareils photo argentiques traditionnels dominent encore le marché pour le moment, le développement de la technologie de la photographie numérique a pris de l'ampleur.^^Vous y voyez une grande opportunité, mais il faut investir à long terme dans la recherche et le développement avant de pouvoir réaliser des produits commerciaux.^^Devriez-vous y consacrer vos ressources dès le départ ou commencer par les appareils photo argentiques traditionnels et passer ensuite aux appareils numériques pour une conduite plus souple ?</seg>
-      </tuv>
-    </tu>
-    <tu>
       <prop type="file">t_game.txt</prop>
       <prop type="prev">[1651]&lt;0655&gt;Month|</prop>
       <prop type="next">[1653]&lt;0657&gt; year|</prop>
@@ -47040,6 +47217,17 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T171141Z" creationid="Inrepublica" creationdate="20200423T171004Z">
         <seg>[1652]&lt;0656&gt;Manoir|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">scenario/Dilemma_of_a_Camera_Manufacturer.txt</prop>
+      <prop type="prev">Description=With over twenty of years of experience in producing world-class photography equipment under your belt, you have earned the trust of a group of investors for funding your startup.</prop>
+      <prop type="next">Difficulty Rating=120</prop>
+      <tuv lang="en-US">
+        <seg>^^While traditional film cameras still dominate the market at the moment, development in digital photography technology has been gaining momentum.^^You see a great opportunity here but it requires committing a long term investment in research and development before any commercial products will materialize.^^Should you dedicate your resources to it at the outset or start with traditional film cameras and transit to digital cameras later for a hopefully smoother ride?</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T171302Z" creationid="Olivier" creationdate="20200429T171302Z">
+        <seg>^^Tandis que les appareils photo argentiques traditionnels dominent encore le marché pour le moment, le développement de la technologie de la photographie numérique a pris de l'ampleur.^^Vous y voyez une grande opportunité, mais il faut investir à long terme dans la recherche et le développement avant de pouvoir réaliser des produits commerciaux.^^Devriez-vous y consacrer vos ressources dès le départ ou commencer par les appareils photo argentiques traditionnels et passer ensuite aux appareils numériques pour une conduite plus souple ?</seg>
       </tuv>
     </tu>
   </body>
