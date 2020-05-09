@@ -42373,8 +42373,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1190]&lt;0344&gt;This Item can be sold in ...|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T105501Z" creationid="Olivier" creationdate="20200509T104743Z">
-        <seg>[1190]&lt;0344&gt;Cet article peut être commercialisé dans...||</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T110750Z" creationid="Olivier" creationdate="20200509T104743Z">
+        <seg>[1190]&lt;0344&gt;Cet article peut être commercialisé dans...|</seg>
       </tuv>
     </tu>
     <tu>
@@ -42383,6 +42383,78 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T110735Z" creationid="Olivier" creationdate="20200509T104813Z">
         <seg>[1194]Congelés|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1195]Cold|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T110756Z" creationid="Olivier" creationdate="20200509T110737Z">
+        <seg>[1195]Froid|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1196]Cool|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T110801Z" creationid="Olivier" creationdate="20200509T110801Z">
+        <seg>[1196]Froid|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1197]Warm|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T110900Z" creationid="Olivier" creationdate="20200509T110811Z">
+        <seg>[1197]Tiède|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1198]Hot|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T110926Z" creationid="Olivier" creationdate="20200509T110840Z">
+        <seg>[1198]Brûlant|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1199]Dry|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T111017Z" creationid="Olivier" creationdate="20200509T110931Z">
+        <seg>[1199]Sec|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1200]Little|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T111035Z" creationid="Olivier" creationdate="20200509T110933Z">
+        <seg>[1200]Petit|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1201]Moderate|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T111053Z" creationid="Olivier" creationdate="20200509T111053Z">
+        <seg>[1201]Modérée|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1202]Plentiful|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T111037Z" creationid="Olivier" creationdate="20200509T111037Z">
+        <seg>[1202]Plentiful|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1203]&lt;0348&gt;Warm, Cool or Cold|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T111334Z" creationid="Olivier" creationdate="20200509T111334Z">
+        <seg>[1203]&lt;0348&gt;Tiède, Cool or Cold|</seg>
       </tuv>
     </tu>
     <tu>
