@@ -42397,8 +42397,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1196]Cool|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T110801Z" creationid="Olivier" creationdate="20200509T110801Z">
-        <seg>[1196]Froid|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T111359Z" creationid="Olivier" creationdate="20200509T110801Z">
+        <seg>[1196]Frais|</seg>
       </tuv>
     </tu>
     <tu>
@@ -42445,16 +42445,16 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1202]Plentiful|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T111037Z" creationid="Olivier" creationdate="20200509T111037Z">
-        <seg>[1202]Plentiful|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T111407Z" creationid="Olivier" creationdate="20200509T111037Z">
+        <seg>[1202]Nombreux|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1203]&lt;0348&gt;Warm, Cool or Cold|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T111334Z" creationid="Olivier" creationdate="20200509T111334Z">
-        <seg>[1203]&lt;0348&gt;Tiède, Cool or Cold|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T111512Z" creationid="Olivier" creationdate="20200509T111334Z">
+        <seg>[1203]&lt;0348&gt;Tiède, Frais or Froid|</seg>
       </tuv>
     </tu>
     <tu>
@@ -42475,6 +42475,86 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1237]&lt;0351&gt;Average Unit Level|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T111536Z" creationid="Olivier" creationdate="20200509T111536Z">
+        <seg>[1237]&lt;0351&gt;Niveau moyen des unités|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1238]&lt;0352&gt;Average Utilization|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T111555Z" creationid="Olivier" creationdate="20200509T111555Z">
+        <seg>[1238]&lt;0352&gt;Utilisation moyenne|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1239]&lt;0353&gt;Who manages this firm?|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T111609Z" creationid="Olivier" creationdate="20200509T111609Z">
+        <seg>[1239]&lt;0353&gt;Qui dirige cet établissement ?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1240]&lt;0354&gt;C.E.O.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T111622Z" creationid="Olivier" creationdate="20200509T111622Z">
+        <seg>[1240]&lt;0354&gt;P.D.G</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1241]&lt;0355&gt;President|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T111628Z" creationid="Olivier" creationdate="20200509T111628Z">
+        <seg>[1241]&lt;0355&gt;Président|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1242]&lt;0356&gt;Do you want to manage all of your firms yourself?|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T111742Z" creationid="Olivier" creationdate="20200509T111742Z">
+        <seg>[1242]&lt;0356&gt;Souhaitez-vous gérer vous-même tous vos établissements ?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1243]&lt;0357&gt;Do you want President |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T111817Z" creationid="Olivier" creationdate="20200509T111817Z">
+        <seg>[1243]&lt;0357&gt;Souhaitez-vous que le président |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1244]&lt;0358&gt; to manage all of your firms|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T111848Z" creationid="Olivier" creationdate="20200509T111848Z">
+        <seg>[1244]&lt;0358&gt;gère l'ensemble de vos établissements ?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1245]&lt;0359&gt;Layout Plan Library - |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T111903Z" creationid="Olivier" creationdate="20200509T111903Z">
+        <seg>[1245]&lt;0359&gt;Bibliothèque de plans d'aménagement - |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1247]&lt;0361&gt;Description|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T111908Z" creationid="Olivier" creationdate="20200509T111908Z">
+        <seg>[1247]&lt;0361&gt;Description|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1249]&lt;0363&gt;Output|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T092915Z" creationid="Inrepublica" creationdate="20200426T092915Z">
@@ -42487,6 +42567,86 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T092330Z" creationid="Inrepublica" creationdate="20200426T092330Z">
         <seg>[1250]&lt;0364&gt;Entrée|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1251]&lt;0365&gt;Available|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T111919Z" creationid="Olivier" creationdate="20200509T111919Z">
+        <seg>[1251]&lt;0365&gt;Disponible|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1253]&lt;0367&gt;Chief Operating Officer|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T111935Z" creationid="Olivier" creationdate="20200509T111935Z">
+        <seg>[1253]&lt;0367&gt;Directeur général des opérations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1255]&lt;0369&gt;He currently manages this firm|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T111953Z" creationid="Olivier" creationdate="20200509T111953Z">
+        <seg>[1255]&lt;0369&gt;Il dirige actuellement cet établissement|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1256]&lt;0370&gt;She currently manages this firm|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T112008Z" creationid="Olivier" creationdate="20200509T112008Z">
+        <seg>[1256]&lt;0370&gt;Elle dirige actuellement cet établissement|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1263]&lt;0377&gt;Market Value:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T112022Z" creationid="Olivier" creationdate="20200509T112022Z">
+        <seg>[1263]&lt;0377&gt;Valeur marchande|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1264]&lt;0378&gt;This mansion is for sale|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T112034Z" creationid="Olivier" creationdate="20200509T112034Z">
+        <seg>[1264]&lt;0378&gt;Ce manoir est à vendre|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1265]&lt;0379&gt;FOR SALE|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T112057Z" creationid="Olivier" creationdate="20200509T112057Z">
+        <seg>[1265]&lt;0379&gt;A VENDRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1267]&lt;0381&gt;Function: Issuing new shares|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T112120Z" creationid="Olivier" creationdate="20200509T112120Z">
+        <seg>[1267]&lt;0381&gt;Fonctionnalité : Emission de nouvelles actions|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1268]&lt;0382&gt;Function: Borrowing bank loans|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T112218Z" creationid="Olivier" creationdate="20200509T112218Z">
+        <seg>[1268]&lt;0382&gt;Fonctionnalité : Emprunt de prêts bancaires|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1269]&lt;0383&gt;Function: Trading stocks|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T112309Z" creationid="Olivier" creationdate="20200509T112309Z">
+        <seg>[1269]&lt;0383&gt;Fonctionnalité : Négociation des actions|</seg>
       </tuv>
     </tu>
     <tu>
@@ -44321,6 +44481,14 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T152204Z" creationid="Olivier" creationdate="20200508T152204Z">
         <seg>de types de produits|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>of Units|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T111518Z" creationid="Olivier" creationdate="20200509T111518Z">
+        <seg>d'unités|</seg>
       </tuv>
     </tu>
     <tu>
