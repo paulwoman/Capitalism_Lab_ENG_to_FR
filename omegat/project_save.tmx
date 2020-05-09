@@ -41973,8 +41973,232 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1124]&lt;0279&gt;Issue New Shares|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T170133Z" creationid="Olivier" creationdate="20200508T170133Z">
-        <seg>[correspondance][0560]Émission de nouvelles actions|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T170206Z" creationid="Olivier" creationdate="20200508T170133Z">
+        <seg>[1124]&lt;0279&gt;Émission de nouvelles actions|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1125]&lt;0280&gt;Borrow/Repay Loan|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T172157Z" creationid="Olivier" creationdate="20200508T172157Z">
+        <seg>[1125]&lt;0280&gt;Emprunter/Remboursement un prêt|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1126]&lt;0281&gt;Public Shareholders|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T172224Z" creationid="Olivier" creationdate="20200508T172224Z">
+        <seg>[1126]&lt;0281&gt;Actionnaires publics|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1127]&lt;0282&gt;Past 30 Days|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T172244Z" creationid="Olivier" creationdate="20200508T172244Z">
+        <seg>[1127]&lt;0282&gt;30 derniers jours|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1128]&lt;0283&gt;of|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T172319Z" creationid="Olivier" creationdate="20200508T172319Z">
+        <seg>[1128]&lt;0283&gt;de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1129]&lt;0284&gt;ISSUE NOW|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T172335Z" creationid="Olivier" creationdate="20200508T172335Z">
+        <seg>[1129]&lt;0284&gt;EMETTRE MAINTENANT|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1130]&lt;0285&gt;BORROW|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T172402Z" creationid="Olivier" creationdate="20200508T172355Z">
+        <seg>[1130]&lt;0285&gt;EMPRUNTER|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1131]&lt;0286&gt;REPAY|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T172411Z" creationid="Olivier" creationdate="20200508T172405Z">
+        <seg>[1131]&lt;0286&gt;REMBOURSER|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1132]&lt;0287&gt;Issues|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T172432Z" creationid="Olivier" creationdate="20200508T172420Z">
+        <seg>[1132]&lt;0287&gt;Émissions|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1133]&lt;0288&gt;New Shares at|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T172444Z" creationid="Olivier" creationdate="20200508T172422Z">
+        <seg>[1133]&lt;0288&gt;Nouvelles actions à|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1134]&lt;0289&gt; Per Share.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T172504Z" creationid="Olivier" creationdate="20200508T172504Z">
+        <seg>[1134]&lt;0289&gt; Par action.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1135]&lt;0290&gt;Total Loan|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T172515Z" creationid="Olivier" creationdate="20200508T172508Z">
+        <seg>[1135]&lt;0290&gt;Total des prêts|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1136]&lt;0291&gt;Monthly Interest|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T172524Z" creationid="Olivier" creationdate="20200508T172518Z">
+        <seg>[1136]&lt;0291&gt;Intérêts mensuels|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1137]&lt;0292&gt;Credit Limit|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T172534Z" creationid="Olivier" creationdate="20200508T172528Z">
+        <seg>[1137]&lt;0292&gt;Limite de crédit|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1138]&lt;0293&gt;Interest Rate|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T172544Z" creationid="Olivier" creationdate="20200508T172538Z">
+        <seg>[1138]&lt;0293&gt;Taux d'intérêt|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1139]&lt;0294&gt;Borrow|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T172553Z" creationid="Olivier" creationdate="20200508T172549Z">
+        <seg>[1139]&lt;0294&gt;Emprunter|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1140]&lt;0295&gt;Repay|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T172604Z" creationid="Olivier" creationdate="20200508T172557Z">
+        <seg>[1140]&lt;0295&gt;Rembourser|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1141]&lt;0296&gt;Loan Interest Rate|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T172647Z" creationid="Olivier" creationdate="20200508T172607Z">
+        <seg>[1141]&lt;0296&gt;Taux d'intérêt de l'emprunt|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1142]&lt;0296&gt;Loan Amount|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T172638Z" creationid="Olivier" creationdate="20200508T172638Z">
+        <seg>[1142]&lt;0296&gt;Montant du prêt|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1143]&lt;0297&gt;ISSUE NOW|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T172701Z" creationid="Olivier" creationdate="20200508T172653Z">
+        <seg>[1143]&lt;0297&gt;EMETTRE MAINTENANT|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1144]&lt;0298&gt;Owner:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T172714Z" creationid="Olivier" creationdate="20200508T172705Z">
+        <seg>[1144]&lt;0298&gt;Propriétaire :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1145]&lt;0299&gt;Your purchase price|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T172730Z" creationid="Olivier" creationdate="20200508T172730Z">
+        <seg>[1145]&lt;0299&gt;Votre prix d'achat|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1146]&lt;0300&gt;Land and building cost|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T173427Z" creationid="Olivier" creationdate="20200508T173427Z">
+        <seg>[1146]&lt;0300&gt;Coût des terrains et des bâtiments|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1147]&lt;0301&gt;Market value|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T173547Z" creationid="Olivier" creationdate="20200508T173531Z">
+        <seg>[1147]&lt;0301&gt;Valeur marchande|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1148]&lt;0302&gt;Put this mansion on sale for:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T173604Z" creationid="Olivier" creationdate="20200508T173604Z">
+        <seg>[1148]&lt;0302&gt;Mettre en vente ce manoir pour :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1149]&lt;0303&gt;Put this mansion on sale|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T173626Z" creationid="Olivier" creationdate="20200508T173626Z">
+        <seg>[1149]&lt;0303&gt;Mettre en vente ce manoir :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1150]&lt;0304&gt;Demolish the mansion and sell the land|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T173644Z" creationid="Olivier" creationdate="20200508T173644Z">
+        <seg>[1150]&lt;0304&gt;Démolir le manoir et vendre le terrain|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1151]&lt;0305&gt;This mansion is for sale|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T173717Z" creationid="Olivier" creationdate="20200508T173717Z">
+        <seg>[1151]&lt;0305&gt;Ce manoir est à vendre|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1152]&lt;0306&gt;Buy this mansion|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T173930Z" creationid="Olivier" creationdate="20200508T173930Z">
+        <seg>[1152]&lt;0306&gt;Acheter ce manoir|</seg>
       </tuv>
     </tu>
     <tu>

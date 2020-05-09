@@ -47,7 +47,7 @@ Il est à préciser que les fichiers proposés actuellement doivent encore être
 | t_basic.txt      | 100 %           | ok             | ok             | ok             |
 | t_game.txt       |   0 %           |                |                |                |
 | gm_help.txt      | 100 %           |                |                |                |
-| help.txt         |   0 %           |                |                |                |
+| help.txt         | 100 %           |                |                |                |
 | translate.txt    |                 |                |                |                |
 
 ## Fichiers qui doivent s'installer dans un dossier dédié:
@@ -63,7 +63,7 @@ Il est à préciser que les fichiers proposés actuellement doivent encore être
 | tut05.txt        | 100 %           |                |                |                |
 | tut06.txt        | 100 %           |                |                |                |
 | tut07.txt        | 100 %           |                |                |                |
-| tut08.txt        |   0 %           |                |                |                |
+| tut08.txt        | 100 %           |                |                |                |
 
 ### Sous-dossier "script"
 
@@ -151,9 +151,9 @@ Il est à préciser que les fichiers proposés actuellement doivent encore être
 ### Fichiers pour la beta 6.4.03 (Se traduit en partie automatiquement par rapport à la version stable) 
 | Fichiers         | Progression     | Relecture Inrepublica | Relecture PaulWoman | Concordance |
 | :--------------- |:--------------- |:---------------|:---------------|:---------------|
-| t_game.txt       |   0 %           |                |                |                |
-| gm_help.txt      |   0 %           |                |                |                |
-| help.txt         |   0 %           |                |                |                |
+| t_game.txt       |    0 %           |                |                |                |
+| gm_help.txt      |  100 %           |                |                |                |
+| help.txt         |  100 %           |                |                |                |
 
 
 # Outils
