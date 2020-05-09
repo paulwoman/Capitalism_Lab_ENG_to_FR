@@ -44773,16 +44773,16 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1811]&lt;0815&gt;CORPORATE COLOR|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T121559Z" creationid="Inrepublica" creationdate="20200426T121559Z">
-        <seg>[1811]&lt;0815&gt;COULEUR SOCIÉTÉ|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T165323Z" creationid="Inrepublica" creationdate="20200426T121559Z">
+        <seg>[1811]&lt;0815&gt;COULEUR DE LA SOCIÉTÉ|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1812]&lt;0816&gt;CORPORATE LOGO|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T121620Z" creationid="Inrepublica" creationdate="20200426T121620Z">
-        <seg>[1812]&lt;0816&gt;LOGO SOCIÉTÉ|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T165333Z" creationid="Inrepublica" creationdate="20200426T121620Z">
+        <seg>[1812]&lt;0816&gt;LOGO DE LA SOCIÉTÉ|</seg>
       </tuv>
     </tu>
     <tu>
@@ -45205,8 +45205,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1871]SAVE GAME (S or Alt-S)|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T154632Z" creationid="Olivier" creationdate="20200509T154632Z">
-        <seg>SAVE GAME (S or Alt-S)|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T164940Z" creationid="Olivier" creationdate="20200509T154632Z">
+        <seg>[1871]SAUVER LA PARTIE (S oU Alt-S)|</seg>
       </tuv>
     </tu>
     <tu>
@@ -45269,8 +45269,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1879]HOTKEY LIST (K)|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T090916Z" creationid="Inrepublica" creationdate="20200426T090916Z">
-        <seg>[1879]LISTE RACCOURCIS (K)|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T164822Z" creationid="Inrepublica" creationdate="20200426T090916Z">
+        <seg>[1879]LISTE DES RACCOURCIS (K)|</seg>
       </tuv>
     </tu>
     <tu>
