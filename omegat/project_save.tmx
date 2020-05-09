@@ -38033,10 +38033,26 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0120]&lt;RFU2&gt;Cannot join a load game session|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T230128Z" creationid="Olivier" creationdate="20200509T230128Z">
+        <seg>[0120]&lt;RFU2&gt;Ne peut rejoindre une session de partie sauvegardée|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0120]Cannot join a load game session|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T144826Z" creationid="Inrepublica" creationdate="20200422T144826Z">
         <seg>[0120]Ne peut rejoindre une session de partie sauvegardée|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0121]&lt;RFU3&gt;You cannot join the game because the save game is different from the host|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T230201Z" creationid="Olivier" creationdate="20200509T230130Z">
+        <seg>[0121]&lt;RFU3&gt;Vous ne pouvez rejoindre une partie car la sauvegarde est différente|</seg>
       </tuv>
     </tu>
     <tu>
@@ -38049,10 +38065,26 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0122]&lt;RFU4&gt;You cannot join the game because the host does not accept your game version|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T230206Z" creationid="Olivier" creationdate="20200509T230153Z">
+        <seg>[0122]&lt;RFU4&gt;Vous ne pouvez rejoindre car vous utilisez une version différente|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0122]You cannot join the game because the host does not accept your game version|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T144957Z" creationid="Inrepublica" creationdate="20200422T144957Z">
         <seg>[0122]Vous ne pouvez rejoindre car vous utilisez une version différente|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0123]&lt;RFU5&gt;You cannot join the game because the session is full|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T230215Z" creationid="Olivier" creationdate="20200509T230215Z">
+        <seg>[0123]&lt;RFU5&gt;Vous ne pouvez rejoindre car la partie est pleine|</seg>
       </tuv>
     </tu>
     <tu>
@@ -38545,10 +38577,26 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0463]&lt;DSM1&gt;Many|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T230229Z" creationid="Olivier" creationdate="20200509T230229Z">
+        <seg>[0463]&lt;DSM1&gt;Souvent|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0463]Many|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T200147Z" creationid="Inrepublica" creationdate="20200422T200147Z">
         <seg>[0463]Souvent|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0464]&lt;DSM2&gt;One|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T230235Z" creationid="Olivier" creationdate="20200509T230235Z">
+        <seg>[0464]&lt;DSM2&gt;Un|</seg>
       </tuv>
     </tu>
     <tu>
@@ -38569,10 +38617,26 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0504]&lt;AIG1&gt;Grand strategy failed, cannot find location to build.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T230249Z" creationid="Olivier" creationdate="20200509T230249Z">
+        <seg>[0504]&lt;AIG1&gt;Erreur sur la grande stratégie, ne peut trouver un terrain pour construire.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0504]Grand strategy failed, cannot find location to build.|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T100806Z" creationid="Inrepublica" creationdate="20200426T100806Z">
         <seg>[0504]Erreur sur la grande stratégie, ne peut trouver un terrain pour construire.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0505]&lt;GP41&gt;Declare Bankruptcy, ARE YOU SURE ?|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T230256Z" creationid="Olivier" creationdate="20200509T230256Z">
+        <seg>[0505]&lt;GP41&gt;Déclarer la faillite, ÊTES VOUS SUR ?|</seg>
       </tuv>
     </tu>
     <tu>
@@ -38585,10 +38649,26 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0506]&lt;GP42&gt;Yes|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T230304Z" creationid="Olivier" creationdate="20200509T230304Z">
+        <seg>[0506]&lt;GP42&gt;Oui|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0506]Yes|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T200209Z" creationid="Inrepublica" creationdate="20200422T200209Z">
         <seg>[0506]Oui|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[0507]&lt;GP43&gt;No|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T230333Z" creationid="Olivier" creationdate="20200509T230333Z">
+        <seg>[0507]&lt;GP43&gt;No|</seg>
       </tuv>
     </tu>
     <tu>
@@ -42497,6 +42577,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1194]&lt;A700&gt;Frozen|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T224405Z" creationid="Olivier" creationdate="20200509T224405Z">
+        <seg>[1194]Congelés|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1194]Frozen|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T110735Z" creationid="Olivier" creationdate="20200509T104813Z">
@@ -42859,8 +42947,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1298]&lt;AA00&gt;All|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T224153Z" creationid="Olivier" creationdate="20200509T224153Z">
-        <seg>[1298]Tous|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T224322Z" creationid="Olivier" creationdate="20200509T224153Z">
+        <seg>[1298]&lt;AA00&gt;Tous|</seg>
       </tuv>
     </tu>
     <tu>
@@ -42869,6 +42957,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T134753Z" creationid="Olivier" creationdate="20200509T134753Z">
         <seg>[1298]Tous|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1299]&lt;AA01&gt;Has Trade Sales|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T224333Z" creationid="Olivier" creationdate="20200509T224333Z">
+        <seg>[1299]&lt;AA01&gt;A la vente de commerce|</seg>
       </tuv>
     </tu>
     <tu>
@@ -45313,10 +45409,26 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1869]&lt;AM08&gt;NONE|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T224450Z" creationid="Olivier" creationdate="20200509T224450Z">
+        <seg>[1869]&lt;AM08&gt;AUCUN|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1869]NONE|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T154600Z" creationid="Olivier" creationdate="20200509T154600Z">
         <seg>[1869]AUCUN|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1870]&lt;AN00&gt;OPTIONS (O)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T224508Z" creationid="Olivier" creationdate="20200509T224444Z">
+        <seg>[1870]&lt;AN00&gt;OPTIONS (O)|</seg>
       </tuv>
     </tu>
     <tu>
@@ -45329,10 +45441,26 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1871]&lt;AN01&gt;SAVE GAME (S or Alt-S)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T224515Z" creationid="Olivier" creationdate="20200509T224515Z">
+        <seg>[1871]&lt;AN01&gt;ENREGISTRER (S ou Alt-S)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1871]SAVE GAME (S or Alt-S)|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T172010Z" creationid="Olivier" creationdate="20200509T154632Z">
         <seg>[1871]ENREGISTRER (S ou Alt-S)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1872]&lt;AN02&gt;LOAD GAME (L)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T224522Z" creationid="Olivier" creationdate="20200509T224522Z">
+        <seg>[1872]&lt;AN02&gt;CHARGER (L)|</seg>
       </tuv>
     </tu>
     <tu>
@@ -45345,10 +45473,26 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1873]&lt;AN03&gt;RESTART GAME|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T224532Z" creationid="Olivier" creationdate="20200509T224532Z">
+        <seg>[1873]&lt;AN03&gt;REDÉMARRER LA PARTIE|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1873]RESTART GAME|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T172020Z" creationid="Olivier" creationdate="20200509T154832Z">
         <seg>[1873]REDÉMARRER LA PARTIE|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1874]&lt;AN04&gt;RETIRE|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T224540Z" creationid="Olivier" creationdate="20200509T224540Z">
+        <seg>[1874]&lt;AN04&gt;PRENDRE SA RETRAITE|</seg>
       </tuv>
     </tu>
     <tu>
@@ -45361,10 +45505,26 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1875]&lt;AN05&gt;GAME SETTINGS (F9)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T224547Z" creationid="Olivier" creationdate="20200509T224547Z">
+        <seg>[1875]&lt;AN05&gt;PARAMÈTRE (F9)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1875]GAME SETTINGS (F9)|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T172027Z" creationid="Olivier" creationdate="20200509T154917Z">
         <seg>[1875]PARAMÈTRE (F9)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1876]&lt;AN06&gt;QUIT TO MAIN MENU|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T224554Z" creationid="Olivier" creationdate="20200509T224554Z">
+        <seg>[1876]&lt;AN06&gt;RETOUR MENU PRINCIPAL|</seg>
       </tuv>
     </tu>
     <tu>
@@ -45379,8 +45539,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1877]&lt;AN07&gt;QUIT TO WINDOWS|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T223531Z" creationid="Olivier" creationdate="20200509T223531Z">
-        <seg>[1877]QUITTER VERS WINDOWS|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T224414Z" creationid="Olivier" creationdate="20200509T223531Z">
+        <seg>[1877]&lt;AN07&gt;QUITTER VERS WINDOWS|</seg>
       </tuv>
     </tu>
     <tu>
@@ -45395,8 +45555,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1878]&lt;AN08&gt;CONTINUE GAME|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T223524Z" creationid="Olivier" creationdate="20200509T223524Z">
-        <seg>[1878]CONTINUER LA PARTIE|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T224423Z" creationid="Olivier" creationdate="20200509T223524Z">
+        <seg>[1878]&lt;AN08&gt;CONTINUER LA PARTIE|</seg>
       </tuv>
     </tu>
     <tu>
@@ -45411,8 +45571,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1879]&lt;AN09&gt;HOTKEY LIST (K)|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T223519Z" creationid="Olivier" creationdate="20200509T223519Z">
-        <seg>[1879]LISTE DES RACCOURCIS (K)|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T224431Z" creationid="Olivier" creationdate="20200509T223519Z">
+        <seg>[1879]&lt;AN09&gt;LISTE DES RACCOURCIS (K)|</seg>
       </tuv>
     </tu>
     <tu>
