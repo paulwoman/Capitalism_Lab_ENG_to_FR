@@ -406,6 +406,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T150817Z" creationid="Olivier" creationdate="20200509T150817Z">
+        <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T150819Z" creationid="Olivier" creationdate="20200509T150819Z">
+        <seg>.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// (The total number of competitors defined here should not exceed the number  in the Number of Competitors line.)</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T223105Z" creationid="Olivier" creationdate="20200430T223105Z">
@@ -44477,8 +44493,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1663]&lt;0667&gt;Annual Revenue of Companies Under Your Control|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T145440Z" creationid="Olivier" creationdate="20200509T145440Z">
-        <seg>[1663[&lt;0667&gt;Recettes annuelles des sociétés sous votre contrôle|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T150739Z" creationid="Olivier" creationdate="20200509T145440Z">
+        <seg>[1663]&lt;0667&gt;Recettes annuelles des sociétés sous votre contrôle|</seg>
       </tuv>
     </tu>
     <tu>
@@ -44659,6 +44675,54 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1787]&lt;0790&gt;You corporation has been taken over by |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T150235Z" creationid="Olivier" creationdate="20200509T150235Z">
+        <seg>[1787]&lt;0790&gt;Votre société a été achetée par |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1788]&lt;0791&gt;You have lost the ownership of your corporation !|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T150317Z" creationid="Olivier" creationdate="20200509T150317Z">
+        <seg>[1788]&lt;0791&gt;Vous avez perdu le contrôle de votre société!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1789]&lt;0792&gt;Government|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T150748Z" creationid="Olivier" creationdate="20200509T150748Z">
+        <seg>[1789]&lt;0792&gt;Gouvernement|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1790]&lt;0793&gt;Creating a New Game .</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T150815Z" creationid="Olivier" creationdate="20200509T150815Z">
+        <seg>[1790]&lt;0793&gt;Création d'une nouvelle partie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1791]&lt;0794&gt;FINAL SCORE UPON RETIREMENT|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T150844Z" creationid="Olivier" creationdate="20200509T150844Z">
+        <seg>[1791]&lt;0794&gt;SCORE FINAL AU MOMENT DE LA RETRAITE|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1792]&lt;0795&gt;FINAL SCORE UPON TAKEOVER|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T150935Z" creationid="Olivier" creationdate="20200509T150935Z">
+        <seg>[1792]&lt;0795&gt;[1792]&lt;0795&gt;SCORE FINAL AU MOMENT DE LA PRISE DE CONTRÔLE|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1797]&lt;0800&gt;Score:|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T122027Z" creationid="Inrepublica" creationdate="20200426T122027Z">
@@ -44757,8 +44821,72 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1821]&lt;0825&gt;No.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T121754Z" creationid="Inrepublica" creationdate="20200426T121754Z">
-        <seg>[1821]&lt;0825&gt;Nb.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T150950Z" creationid="Inrepublica" creationdate="20200426T121754Z">
+        <seg>[1821]&lt;0825&gt;Nbre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1822]&lt;0826&gt;Goal Score Bonus|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T151523Z" creationid="Olivier" creationdate="20200509T151523Z">
+        <seg>[1822]&lt;0826&gt;Bonus pour le score de l'objectif|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1823]&lt;0827&gt;Player's Wealth ($million)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T151545Z" creationid="Olivier" creationdate="20200509T151545Z">
+        <seg>[1823]&lt;0827&gt;Richesses du joueur (million $)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1824]&lt;0828&gt;Goals of the Player's Own Corporation ($million)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T151612Z" creationid="Olivier" creationdate="20200509T151612Z">
+        <seg>[1824]&lt;0828&gt;Objectifs de la société du joueur (millions $)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1825]&lt;0829&gt;Annual Revenue|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T151624Z" creationid="Olivier" creationdate="20200509T151624Z">
+        <seg>[1825]&lt;0829&gt;Recettes annuelles|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1826]&lt;0830&gt;Net Worth|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T151634Z" creationid="Olivier" creationdate="20200509T151634Z">
+        <seg>[1826]&lt;0830&gt;Valeur nette|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1827]&lt;0831&gt;Annual Operating Profit|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T151643Z" creationid="Olivier" creationdate="20200509T151643Z">
+        <seg>[1827]&lt;0831&gt;Résultat d'exploitation annuel|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1828]&lt;0832&gt;Market Cap|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T151653Z" creationid="Olivier" creationdate="20200509T151653Z">
+        <seg>[1828]&lt;0832&gt;Capitalisation boursière|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1829]&lt;0833&gt;Goals of Companies Controlled by the Player ($million)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T152915Z" creationid="Olivier" creationdate="20200509T152915Z">
+        <seg>[1829]&lt;0833&gt;]Objectifs des entreprises contrôlées par le joueur (millions $)|</seg>
       </tuv>
     </tu>
     <tu>
