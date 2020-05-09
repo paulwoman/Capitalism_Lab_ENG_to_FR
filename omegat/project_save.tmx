@@ -37755,6 +37755,84 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[0001]&lt;VERS&gt;Version %1s|
+[0011]&lt;QUIT&gt;Quit|
+[0012]&lt;TRAN&gt;Training|
+[0017]&lt;CANC&gt;Cancel|
+[0019]&lt;NEWP&gt;New Player|
+[0020]&lt;DELP&gt;Delete|
+[0021]&lt;SELP&gt;Continue|
+[0022]Please select your name from this list|
+[0023]If your name is not here, click on "New Player" below|
+[0024]&lt;PRFN&gt;Please enter your name|
+[0025]&lt;PRFD&gt;Are you Certain that you wish to delete this person from the list?|
+[0026]&lt;PRDY&gt;Yes|
+[0027]&lt;PRDN&gt;No|
+[0028]&lt;PRED&gt;Same profile has already been created|
+[0029]&lt;PREI&gt;Error creating %1s directory|
+[0030]&lt;PREC&gt;Error creating profile|
+[0038]&lt;NAH_&gt;Human|
+[0040]&lt;DIFF&gt;Difficulty Level|
+[0092]&lt;RNDE&gt;Random Events|
+[0118]The host refuses you|
+[0119]Cannot join a new game session|
+[0120]Cannot join a load game session|
+[0121]You cannot join the game because the save game is different from the host|
+[0122]You cannot join the game because the host does not accept your game version|
+[0123]You cannot join the game because the session is full|
+[0148]&lt;SV_G&gt;Save Game|
+[0149]&lt;0SAV&gt;You haven't saved any games yet.|
+[0150]&lt;SAVE&gt;Save|
+[0152]&lt;LOAD&gt;Load|
+[0154]&lt;EMGS&gt;Empty Game Slot|
+[0155]&lt;PAGE&gt;page %1d/%2d|
+[0156]&lt;-DSL&gt;Cannot delete this slot|
+[0158]&lt;GDAT&gt;Game date: |
+[0159]&lt;FDAT&gt;File date: |
+[0160]&lt;FNAM&gt;File name: |
+[0161]&lt;AOVW&gt;It will overwrite the existing save game.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T173021Z" creationid="Olivier" creationdate="20200509T173021Z">
+        <seg>[0001]&lt;VERS&gt;Version %1s|
+[0011]&lt;QUIT&gt;Quit|
+[0012]&lt;TRAN&gt;Training|
+[0017]&lt;CANC&gt;Cancel|
+[0019]&lt;NEWP&gt;New Player|
+[0020]&lt;DELP&gt;Delete|
+[0021]&lt;SELP&gt;Continue|
+[0022]Please select your name from this list|
+[0023]If your name is not here, click on "New Player" below|
+[0024]&lt;PRFN&gt;Please enter your name|
+[0025]&lt;PRFD&gt;Are you Certain that you wish to delete this person from the list?|
+[0026]&lt;PRDY&gt;Yes|
+[0027]&lt;PRDN&gt;No|
+[0028]&lt;PRED&gt;Same profile has already been created|
+[0029]&lt;PREI&gt;Error creating %1s directory|
+[0030]&lt;PREC&gt;Error creating profile|
+[0038]&lt;NAH_&gt;Human|
+[0040]&lt;DIFF&gt;Difficulty Level|
+[0092]&lt;RNDE&gt;Random Events|
+[0118]The host refuses you|
+[0119]Cannot join a new game session|
+[0120]Cannot join a load game session|
+[0121]You cannot join the game because the save game is different from the host|
+[0122]You cannot join the game because the host does not accept your game version|
+[0123]You cannot join the game because the session is full|
+[0148]&lt;SV_G&gt;Save Game|
+[0149]&lt;0SAV&gt;You haven't saved any games yet.|
+[0150]&lt;SAVE&gt;Save|
+[0152]&lt;LOAD&gt;Load|
+[0154]&lt;EMGS&gt;Empty Game Slot|
+[0155]&lt;PAGE&gt;page %1d/%2d|
+[0156]&lt;-DSL&gt;Cannot delete this slot|
+[0158]&lt;GDAT&gt;Game date: |
+[0159]&lt;FDAT&gt;File date: |
+[0160]&lt;FNAM&gt;File name: |
+[0161]&lt;AOVW&gt;It will overwrite the existing save game.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[0011]&lt;QUIT&gt;Quit|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T124949Z" creationid="Inrepublica" creationdate="20200422T124949Z">
@@ -47021,17 +47099,6 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
     </tu>
 <!-- Alternative translations -->
     <tu>
-      <prop type="file">scenario/Dilemma_of_a_Camera_Manufacturer.txt</prop>
-      <prop type="prev">Description=With over twenty of years of experience in producing world-class photography equipment under your belt, you have earned the trust of a group of investors for funding your startup.</prop>
-      <prop type="next">Difficulty Rating=120</prop>
-      <tuv lang="en-US">
-        <seg>^^While traditional film cameras still dominate the market at the moment, development in digital photography technology has been gaining momentum.^^You see a great opportunity here but it requires committing a long term investment in research and development before any commercial products will materialize.^^Should you dedicate your resources to it at the outset or start with traditional film cameras and transit to digital cameras later for a hopefully smoother ride?</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T171302Z" creationid="Olivier" creationdate="20200429T171302Z">
-        <seg>^^Tandis que les appareils photo argentiques traditionnels dominent encore le marché pour le moment, le développement de la technologie de la photographie numérique a pris de l'ampleur.^^Vous y voyez une grande opportunité, mais il faut investir à long terme dans la recherche et le développement avant de pouvoir réaliser des produits commerciaux.^^Devriez-vous y consacrer vos ressources dès le départ ou commencer par les appareils photo argentiques traditionnels et passer ensuite aux appareils numériques pour une conduite plus souple ?</seg>
-      </tuv>
-    </tu>
-    <tu>
       <prop type="file">t_game.txt</prop>
       <prop type="prev">[1651]&lt;0655&gt;Month|</prop>
       <prop type="next">[1653]&lt;0657&gt; year|</prop>
@@ -47040,6 +47107,17 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T171141Z" creationid="Inrepublica" creationdate="20200423T171004Z">
         <seg>[1652]&lt;0656&gt;Manoir|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">scenario/Dilemma_of_a_Camera_Manufacturer.txt</prop>
+      <prop type="prev">Description=With over twenty of years of experience in producing world-class photography equipment under your belt, you have earned the trust of a group of investors for funding your startup.</prop>
+      <prop type="next">Difficulty Rating=120</prop>
+      <tuv lang="en-US">
+        <seg>^^While traditional film cameras still dominate the market at the moment, development in digital photography technology has been gaining momentum.^^You see a great opportunity here but it requires committing a long term investment in research and development before any commercial products will materialize.^^Should you dedicate your resources to it at the outset or start with traditional film cameras and transit to digital cameras later for a hopefully smoother ride?</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T171302Z" creationid="Olivier" creationdate="20200429T171302Z">
+        <seg>^^Tandis que les appareils photo argentiques traditionnels dominent encore le marché pour le moment, le développement de la technologie de la photographie numérique a pris de l'ampleur.^^Vous y voyez une grande opportunité, mais il faut investir à long terme dans la recherche et le développement avant de pouvoir réaliser des produits commerciaux.^^Devriez-vous y consacrer vos ressources dès le départ ou commencer par les appareils photo argentiques traditionnels et passer ensuite aux appareils numériques pour une conduite plus souple ?</seg>
       </tuv>
     </tu>
   </body>
