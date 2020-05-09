@@ -39045,8 +39045,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0610]Freight Cost|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200427T075438Z" creationid="Inrepublica" creationdate="20200427T075430Z">
-        <seg>[0610]Coûts transport|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T135408Z" creationid="Inrepublica" creationdate="20200427T075430Z">
+        <seg>[0610]Coût du fret|</seg>
       </tuv>
     </tu>
     <tu>
@@ -39429,8 +39429,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0665]Factory Overhead|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T083256Z" creationid="Olivier" creationdate="20200428T083256Z">
-        <seg>[0665]Frais généraux de l'usine|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T135618Z" creationid="Olivier" creationdate="20200428T083256Z">
+        <seg>[0665]Frais généraux d'exploitation|</seg>
       </tuv>
     </tu>
     <tu>
@@ -39469,8 +39469,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0670]Operating Overhead|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T083624Z" creationid="Olivier" creationdate="20200428T083624Z">
-        <seg>[0670]Frais généraux de l'usine|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T135618Z" creationid="Olivier" creationdate="20200428T083624Z">
+        <seg>[0670]Frais généraux d'exploitation|</seg>
       </tuv>
     </tu>
     <tu>
@@ -39509,8 +39509,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0675]Operating Overhead|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T083800Z" creationid="Olivier" creationdate="20200428T083800Z">
-        <seg>[0675]Frais généraux de l'usine|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T135618Z" creationid="Olivier" creationdate="20200428T083800Z">
+        <seg>[0675]Frais généraux d'exploitation|</seg>
       </tuv>
     </tu>
     <tu>
@@ -39557,8 +39557,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0681]Operating Overhead|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T084027Z" creationid="Olivier" creationdate="20200428T084027Z">
-        <seg>[0681]Frais généraux de l'usine|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T135618Z" creationid="Olivier" creationdate="20200428T084027Z">
+        <seg>[0681]Frais généraux d'exploitation|</seg>
       </tuv>
     </tu>
     <tu>
@@ -39613,8 +39613,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0688]Operating Overhead|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T084155Z" creationid="Olivier" creationdate="20200428T084155Z">
-        <seg>[0688]Frais généraux de l'usine|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T135618Z" creationid="Olivier" creationdate="20200428T084155Z">
+        <seg>[0688]Frais généraux d'exploitation|</seg>
       </tuv>
     </tu>
     <tu>
@@ -42621,8 +42621,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1265]&lt;0379&gt;FOR SALE|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T112057Z" creationid="Olivier" creationdate="20200509T112057Z">
-        <seg>[1265]&lt;0379&gt;A VENDRE</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T135056Z" creationid="Olivier" creationdate="20200509T112057Z">
+        <seg>[1265]&lt;0379&gt;A VENDRE|</seg>
       </tuv>
     </tu>
     <tu>
@@ -42759,6 +42759,318 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T134843Z" creationid="Olivier" creationdate="20200509T134843Z">
         <seg>[1300]A la vente au détail|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1301]All|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T134956Z" creationid="Olivier" creationdate="20200509T134956Z">
+        <seg>[1301]Tous|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1302]Consumer Goods|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T134959Z" creationid="Olivier" creationdate="20200509T134959Z">
+        <seg>[1302]Biens de consommation|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1303]Industrial Goods|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T135002Z" creationid="Olivier" creationdate="20200509T135002Z">
+        <seg>[1303]Biens industriels|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1304]Sales Revenue|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T135005Z" creationid="Olivier" creationdate="20200509T135005Z">
+        <seg>[1304]Recettes des ventes|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1305]Raw Material Cost|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T135038Z" creationid="Olivier" creationdate="20200509T135038Z">
+        <seg>[1305]Coût des matières premières|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1306]Freight Cost|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T135148Z" creationid="Olivier" creationdate="20200509T135148Z">
+        <seg>[1306]Coût du fret|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1307]Salaries Expense|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T135200Z" creationid="Olivier" creationdate="20200509T135200Z">
+        <seg>[1307]Dépenses salariales|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1308]Factory Overhead|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T135618Z" creationid="Olivier" creationdate="20200509T135214Z">
+        <seg>[1308]Frais généraux d'exploitation|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1309]Advertising &amp; PR Expense|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T135222Z" creationid="Olivier" creationdate="20200509T135222Z">
+        <seg>[1309]Frais de publicité et de relations publiques|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1310]Training|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T135228Z" creationid="Olivier" creationdate="20200509T135228Z">
+        <seg>[1310]Formation|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1311]Write-offs|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T135239Z" creationid="Olivier" creationdate="20200509T135239Z">
+        <seg>[1311]Amortissement|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1312]Salaries Expense|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T135245Z" creationid="Olivier" creationdate="20200509T135245Z">
+        <seg>[1312]Dépenses salariales|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1313]Operating Overhead|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T135618Z" creationid="Olivier" creationdate="20200509T135303Z">
+        <seg>[1313]Frais généraux d'exploitation|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1314]Training|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T135307Z" creationid="Olivier" creationdate="20200509T135307Z">
+        <seg>[1314]Formation|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1315]Write-offs|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T135318Z" creationid="Olivier" creationdate="20200509T135318Z">
+        <seg>[1315]Amortissement|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1316]Sales Revenue|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T135323Z" creationid="Olivier" creationdate="20200509T135323Z">
+        <seg>[1316]Recettes des ventes|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1317]Purchase Cost|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T135337Z" creationid="Olivier" creationdate="20200509T135337Z">
+        <seg>[1317]Coût d'achat|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1318]Freight Cost|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T135435Z" creationid="Olivier" creationdate="20200509T135423Z">
+        <seg>[1318]Coût du fret|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1319]Salaries Expense|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T135442Z" creationid="Olivier" creationdate="20200509T135411Z">
+        <seg>[1319]Dépenses salariales|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1320]Operating Overhead|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T135639Z" creationid="Olivier" creationdate="20200509T135639Z">
+        <seg>[1320]Frais généraux d'exploitation|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1321]Advertising &amp; PR Expense|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T135648Z" creationid="Olivier" creationdate="20200509T135648Z">
+        <seg>[1321]Frais de publicité et de relations publiques|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1322]Training|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T135653Z" creationid="Olivier" creationdate="20200509T135653Z">
+        <seg>[1322]Formation|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1323]Write-offs|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T135702Z" creationid="Olivier" creationdate="20200509T135702Z">
+        <seg>[1323]Amortissement|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1324]Sales Revenue|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T135706Z" creationid="Olivier" creationdate="20200509T135706Z">
+        <seg>[1324]Recettes des ventes|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1325]Salaries Expense|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T135720Z" creationid="Olivier" creationdate="20200509T135720Z">
+        <seg>[1325]Dépenses salariales|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1326]Operating Overhead|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T135734Z" creationid="Olivier" creationdate="20200509T135734Z">
+        <seg>[1326]Frais généraux d'exploitation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1327]Advertising &amp; PR Expense|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T135747Z" creationid="Olivier" creationdate="20200509T135747Z">
+        <seg>[1327]Frais de publicité et de relations publiques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1328]Training|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T135751Z" creationid="Olivier" creationdate="20200509T135751Z">
+        <seg>[1328]Formation|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1329]Write-offs|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T135807Z" creationid="Olivier" creationdate="20200509T135807Z">
+        <seg>[1329]Amortissement|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1330]Sales Revenue|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T135813Z" creationid="Olivier" creationdate="20200509T135813Z">
+        <seg>[1330]Recettes des ventes|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1331]Consumption of Reserve|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T135828Z" creationid="Olivier" creationdate="20200509T135828Z">
+        <seg>[1331]Utilisation de la réserve|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1332]Salaries Expense|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T135837Z" creationid="Olivier" creationdate="20200509T135837Z">
+        <seg>[1332]Dépenses salariales|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1333]Operating Overhead|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T135843Z" creationid="Olivier" creationdate="20200509T135843Z">
+        <seg>[1333]Frais généraux d'exploitation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1334]Advertising &amp; PR Expense|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T135853Z" creationid="Olivier" creationdate="20200509T135853Z">
+        <seg>[1334]Frais de publicité et de relations publiques|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1335]Training|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T135857Z" creationid="Olivier" creationdate="20200509T135857Z">
+        <seg>[1335]Formation|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1336]Write-offs|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T140027Z" creationid="Olivier" creationdate="20200509T140019Z">
+        <seg>[1336]Amortissement|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1347]&lt;0412&gt;Summary|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T140048Z" creationid="Olivier" creationdate="20200509T140022Z">
+        <seg>[1347&lt;0412&gt;Résumé|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1348]&lt;0413&gt;Wealth|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T140055Z" creationid="Olivier" creationdate="20200509T140042Z">
+        <seg>[1348]&lt;0413&gt;Richesse|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1349]&lt;0414&gt;Career|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T140106Z" creationid="Olivier" creationdate="20200509T140106Z">
+        <seg>[1349]&lt;0414&gt;Carrière|</seg>
       </tuv>
     </tu>
     <tu>
