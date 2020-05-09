@@ -42629,24 +42629,112 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1267]&lt;0381&gt;Function: Issuing new shares|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T112120Z" creationid="Olivier" creationdate="20200509T112120Z">
-        <seg>[1267]&lt;0381&gt;Fonctionnalité : Emission de nouvelles actions|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T112639Z" creationid="Olivier" creationdate="20200509T112120Z">
+        <seg>[1267]&lt;0381&gt;Fonction : Émission de nouvelles actions|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1268]&lt;0382&gt;Function: Borrowing bank loans|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T112218Z" creationid="Olivier" creationdate="20200509T112218Z">
-        <seg>[1268]&lt;0382&gt;Fonctionnalité : Emprunt de prêts bancaires|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T112650Z" creationid="Olivier" creationdate="20200509T112218Z">
+        <seg>[1268]&lt;0382&gt;Fonction : Emprunt de prêts bancaires|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1269]&lt;0383&gt;Function: Trading stocks|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T112309Z" creationid="Olivier" creationdate="20200509T112309Z">
-        <seg>[1269]&lt;0383&gt;Fonctionnalité : Négociation des actions|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T112659Z" creationid="Olivier" creationdate="20200509T112309Z">
+        <seg>[1269]&lt;0383&gt;Fonction : Négociation des actions|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1270]&lt;0384&gt;Function: Advertising your products|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T112720Z" creationid="Olivier" creationdate="20200509T112615Z">
+        <seg>[1270]&lt;0384&gt;Fonction : Fais de la publicité pour vos produits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1271]&lt;0385&gt;Function: Provide information|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T112833Z" creationid="Olivier" creationdate="20200509T112833Z">
+        <seg>[1271]&lt;0385&gt;Fonction : Fournir des informations|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1272]&lt;0386&gt;Rating Points|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T112851Z" creationid="Olivier" creationdate="20200509T112851Z">
+        <seg>[1272]&lt;0386&gt;Points de classements|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1273]&lt;0387&gt;Rating Points for past 36 months|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T112908Z" creationid="Olivier" creationdate="20200509T112908Z">
+        <seg>[1273]&lt;0387&gt;Points de classements de ces 36 derniers mois|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1274]&lt;0388&gt;Content Volume|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T112922Z" creationid="Olivier" creationdate="20200509T112922Z">
+        <seg>[1274]&lt;0388&gt;Volume du contenu|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1275]&lt;0389&gt;Content Quality|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T112931Z" creationid="Olivier" creationdate="20200509T112931Z">
+        <seg>[1275]&lt;0389&gt;Qualité du contenu|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1278]&lt;0392&gt;Rating Points|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T112942Z" creationid="Olivier" creationdate="20200509T112942Z">
+        <seg>[1278]&lt;0392&gt;Points de classements|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1281]&lt;0395&gt;Monthly Budget for New Content Development|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T112958Z" creationid="Olivier" creationdate="20200509T112958Z">
+        <seg>[1281]&lt;0395&gt;]Budget mensuel pour le développement de nouveaux contenus|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1287]&lt;0401&gt;Next Month Advertising Pricing|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T113011Z" creationid="Olivier" creationdate="20200509T113011Z">
+        <seg>[1287]&lt;0401&gt;Prix de la publicité du mois prochain|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1289]&lt;0403&gt;Current Advertising Pricing|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T113029Z" creationid="Olivier" creationdate="20200509T113029Z">
+        <seg>[1289]&lt;0403&gt;Prix actuel de la publicité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1292]&lt;0406&gt;Buy Firm|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T134738Z" creationid="Olivier" creationdate="20200509T134738Z">
+        <seg>[1292]&lt;0406&gt;Acheter l'établissement|</seg>
       </tuv>
     </tu>
     <tu>
