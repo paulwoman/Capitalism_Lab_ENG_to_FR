@@ -83,8 +83,8 @@ Niveau d'expertise des IA
 Détermine la compétence des personnes IA.  
 ~
 GM_CTS
-Montrer les secrets commerciaux des concurents
-Si vous selectionnez oui, vous verrez le niveau de technologie des concurents. 
+Montrer les secrets commerciaux des concurrents
+Si vous selectionnez oui, vous verrez le niveau de technologie des concurrents. 
 ~
 GM_CLC
 Compétence de la concurence locale
@@ -332,7 +332,7 @@ La marge d'intérêt nette correspond à la différence entre le taux auquel une
 ~
 BCAPREQ
 Ratio de capital bancaire requis
-La banque centrale exige que les banques mettent de côté suffisamment de capitaux pour couvrir les pertes imprévues et rester solvables en cas de crise. Le ratio de fonds propres est le rapport entre les fonds propres d'une banque et le total de ses actifs. 
+La banque centrale exige que les banques mettent de côté suffisamment de capitaux pour couvrir les pertes imprévues et rester solvables en cas de crise. Le ratio de capital bancaire est le rapport entre les fonds propres d'une banque et le total de ses actifs. 
 ~
 INSUR_ON
 Fonctionnalité : L'assurance 

@@ -1,22 +1,22 @@
 [0001]<VERS>Version %1s|
 [0011]<QUIT>Quitter|
 [0012]<TRAN>Entraînement|
-[0017]<CANC>Annuler|r
+[0017]<CANC>Annuler|
 [0019]<NEWP>Nouveau Joueur|
-[0020]<DELP>Supprimez|
+[0020]<DELP>Supprimer|
 [0021]<SELP>Continuer|
-[0022]Svp sélectionner votre nom dans la liste|<PRF1>
+[0022]Svp, sélectionnez votre nom dans la liste|<PRF1>
 [0023]Si votre nom n’apparaît pas, cliquez sur "Nouveau Joueur" ci-dessous|<PRF2>
-[0024]<PRFN>Svp entrez votre nom|
-[0025]<PRFD>Etes-vous certain de vouloir supprimer cette personne de la liste?|
+[0024]<PRFN>Svp, entrez votre nom|
+[0025]<PRFD>Êtes-vous certain de vouloir supprimer cette personne de la liste?|
 [0026]<PRDY>Oui|
 [0027]<PRDN>Non|
-[0028]<PRED>Un profile identique est déjà présent|
+[0028]<PRED>Un profil identique est déjà présent|
 [0029]<PREI>Erreur pendant la création du répertoire %1s|
 [0030]<PREC>Erreur pendant la création du profil|
 [0038]<NAH_>Humain|
 [0040]<DIFF>Niv. de difficulté|
-[0092]<RNDE>Evènement Aléatoire|
+[0092]<RNDE>Événement Aléatoire|
 [0118]L'hôte vous refuse|<RFU0>
 [0119]Ne peut rejoindre une nouvelle session|<RFU1>
 [0120]Ne peut rejoindre une session de partie sauvegardée|<RFU2>
@@ -42,7 +42,7 @@
 [0167]<LE_H>Ne peux lire l'en-tête du fichier|
 [0168]<LE_P>Ne peut charger la sauvegarde. Il s'agit d'une version différente de CapitalismLab.|
 [0169]<LE_G>Erreur pendant le chargement|
-[0170]<SE_C>Erreur pedant la sauvegarde.|
+[0170]<SE_C>Erreur pendant la sauvegarde.|
 [0171]<SE_H>Erreur pendant la sauvegarde de l'entête.|
 [0172]<SE_G>Erreur pendant la sauvegarde des données du jeu.|
 [0174]<LOB?>impossible de se connecter au lobby|
@@ -72,11 +72,11 @@
 [0327]<SCAP>Votre capital de départ|
 [0329]<ALLS>Bourse|
 [0341]<NCOM>Nombre de compétiteurs|
-[0342]<CCAP>Capital de départ des concurents|
+[0342]<CCAP>Capital de départ des concurrents|
 [0343]<CAGG>Agressivité de l’expansion des IA|
 [0344]<COML>Niveau de compétence des IA|
-[0346]<CSEC>Montrer les secrets commerciaux des concurents|
-[0347]<CCOM>Compétence des concurents locaux|
+[0346]<CSEC>Montrer les secrets commerciaux des concurrents|
+[0347]<CCOM>Compétence des concurrents locaux|
 [0348]<CSEA>Ports maritimes important des biens de consommation|
 [0349]<ISEA>Ports maritimes important des biens industriel|
 [0351]<ISUP>Approvisionnement constant des importations|
@@ -118,7 +118,7 @@
 [0549] échec de la mise en place d'une usine de construction.|<AII4>
 [0551]Acquisition de technologies d'une autre entreprise|<FHQ1>
 [0552]Vous ne pouvez pas acquérir une nouvelle technologie maintenant. Aucune des autres entreprises ne dispose d'une technologie plus avancée que la vôtre.<FHQ2>
-[0553]Stratégie de changement de marque|<FIN1>
+[0553]Changer de stratégie de marque|<FIN1>
 [0554]Quand vous changez de stratégie marketing, tous les produits seront étiquetés avec la nouvelle marque et leur cote sera par conséquent remise à zéro. Poursuivre?|<FIN2>
 [0555]Cessation d'emploi|<FIN3>
 [0556]Emploi refusé|<FIN4>
@@ -160,7 +160,7 @@
 [0607]Ville|<DIJ2>
 [0608]Distance|<DIJ3>
 [0609]Prix|<DIJ4>
-[0610]Coûts transport|<DIJ5>
+[0610]Coût du fret|<DIJ5>
 [0611]Approvisionnement|<DIJ6>
 [0612]Demande|<DIJ7>
 [0613]Ports maritimes|<DIJ8>
@@ -208,30 +208,30 @@
 [0662]Coût des matières premières|<FR01>
 [0663]Frais de transport|<FR02>
 [0664]Dépenses salariales|<FR03>
-[0665]Frais généraux de l'usine|<FR04>
+[0665]Frais généraux d'exploitation|<FR04>
 [0666]Frais de publicité et de relations publiques|<FR05>
 [0667]Formation|<FR06>
 [0668]Amortissements|<FR07>
 [0669]Dépenses salariales|<FR10>
-[0670]Frais généraux de l'usine|<FR11>
+[0670]Frais généraux d'exploitation|<FR11>
 [0671]Formation|<FR12>
 [0672]Amortissement|<FR13>
 [0673]Recettes des ventes<FR20>
 [0674]Dépenses salariales|<FR21>
-[0675]Frais généraux de l'usine|<FR22>
+[0675]Frais généraux d'exploitation|<FR22>
 [0676]Frais de publicité et de relations publiques|<FR23>
 [0677]Formation|<FR24>
 [0678]Amortissement|<FR25>
 [0679]Recettes des ventes|<FR30>
 [0680]Dépenses salariales|<FR31>
-[0681]Frais généraux de l'usine|<FR32>
+[0681]Frais généraux d'exploitation|<FR32>
 [0682]Frais de publicité et de relations publiques|<FR33>
 [0683]Formation|<FR34>
 [0684]Amortissement|<FR35>
 [0685]Recettes des ventes|<FR40>
 [0686]Utilisation de la réserve|<FR41>
 [0687]Dépenses salariales|<FR42>
-[0688]Frais généraux de l'usine|<FR43>
+[0688]Frais généraux d'exploitation|<FR43>
 [0689]Frais de publicité et de relations publiques|<FR44>
 [0690]Formation|<FR45>
 [0691]Amortissement|<FR46>
@@ -313,13 +313,13 @@
 [0794]<0014>dans ses compétences et sa productivité.|
 [0795]<0015>SERVICE DES RELATIONS PUBLIQUES|
 [0796]<0016>Dépenses mensuelles consacrées aux efforts de relations publiques par ville active|
-[0798]<0018>Si votre entreprise utilise une stratégie de 'marque d'entreprise',|
+[0798]<0018>Si votre entreprise utilise une 'stratégie de 'marque d'entreprise',|
 [0799]<0019>la marque bénéficiera des efforts de relations publiques.|
 [0801]<0021>Marque de société|
 [0802]<0022>Notoriété de la marque|
 [0803]<0023>Fidélité à la marque|
-[0804]<0024>Range Band|
-[0805]<0025>Unique Band|
+[0804]<0024>Groupe de marques|
+[0805]<0025>Marque unique|
 [0806]<0026>SERVICE DES RELATIONS AVEC LES INVESTISSEURS|
 [0807]<0027>Dépenses mensuelles consacrées aux relations avec les investisseurs|
 [0809]<0029>performance des actions de la société.|
@@ -342,7 +342,7 @@
 [0826]<0046>DIRECTEUR DU MARKETING|
 [0828]<0048>Acquérir de la technologie auprès d'autres entreprises|
 [0829]<0049>BUREAU DU DIRECTEUR TECHNIQUE|
-[0830]<0050>Prix de l'action|
+[0830]<0050>Cours de l'action|
 [0832]<0052>Rendement des dividendes|
 [0837]<0057>Offre|
 [0845]<0060>Société|
@@ -372,7 +372,7 @@
 [0876]<0091>Qualité de la production|
 [0877]<0092>Qualité des matières premières|
 [0879]Marque de société|<A300>
-[0880]<A301>Range Brand|
+[0880]Ensemble de marques|<A301>
 [0881]Marque unique|<A302>
 [0882]<0094>Stratégie de marque|
 [0883]<0095>Classement de la marque|
@@ -380,7 +380,7 @@
 [0885]<0097>Fidélité à la marque|
 [0886]<0098>Dépenses en publicité|
 [0887]<0099> per|
-[0891]<0103>New prix|
+[0891]<0103>Nouveau prix|
 [0892]<0104>Toutes les entreprises|
 [0893]<0105>Toutes les villes|
 [0894]<0106>(Une technologie qui vous est inconnue)|
@@ -421,8 +421,8 @@
 [0932]<0140>Trier par nom de produits|
 [0933]<0141>Tirer par nom de ville|
 [0934]<0142>Marque de société|
-[0935]<0143>Range Brand|
-[0936]<0144>Unique Brand|
+[0935]<0143>Ensemble de marques|
+[0936]<0144>Marque unique|
 [0937]<0145>Une seule marque couvre tous les produits|
 [0938]<0146>Une marque couvre une gamme de produits|
 [0939]<0147>Chaque produit a une marque unique|
@@ -442,431 +442,431 @@
 [1013]<0170>Bénéfice d'exploitation|
 [1015]<0172>Bénéfice net|
 [1016]<0173>Actionnaires|
-[1017]<0174>Chart|
+[1017]<0174>Graphique|
 [1018]<0175>Total|
 [1021]<0178>Management|
-[1022]<0179>Strategy:|
-[1024]<0181>Chairman and CEO|
-[1025]<0182>Chairman|
-[1027]<0184>Chief Technical Officer|
-[1028]<0185>Financial Overview|
-[1029]<0186>Stock Overview|
-[1031]<0188>Private Corporation|
-[1032]<0189>Firm Overview|
-[1033]<0190>Annual Revenue|
-[1034]<0191>Annual Gross Profit|
-[1035]<0192>Production & Retail|
+[1022]<0179>Strategie:|
+[1024]<0181>Président et PDG|
+[1025]<0182>Président|
+[1027]<0184>Directeur technique|
+[1028]<0185>Aperçu financier|
+[1029]<0186>Aperçu des actions|
+[1031]<0188>Sociétés privées|
+[1032]<0189>Vue d'ensemble des établissements|
+[1033]<0190>Recettes annuelles|
+[1034]<0191>Bénéfice brut annuel|
+[1035]<0192>Production & commerce de détail|
 [1036]<0193>Production|
-[1037]<0194>Retail|
-[1039]<0196>Revenue|
-[1040]<0197>Operating Profit|
-[1041]<0198>Net Profit|
-[1042]<0199>Net Worth|
-[1043]<0200>Stock Price|
-[1044]<0201>Past 30 Years|
-[1046]<0203>Cash|
-[1047]<0204>Inventory|
-[1048]<0205>Business Assets|
-[1049]<0206>Land & Resource|
-[1050]<0207>Stock Assets|
-[1051]<0208>Total Loans|
-[1052]<0209>Dividend Paid|
-[1053]<0210>Stock Return|
-[1054]<0211>Salaries Expense|
-[1055]<0212>Advertising|
-[1056]<0213>Training|
-[1057]<0214>Write-offs|
-[1058]<0215>Shareholder          Owned Qty   Owned%  Stock Value   Position|
-[1061]<0218>Confidential|
-[1062]<0219>Current Tech|
-[1063]<0220>Top Tech|
-[1064]<0221>Target Tech|
-[1065]<0222>R&D Progress|
-[1067]<0224>YTD Trade|
-[1068]<0225>Lifetime Trade|
-[1069]<0226>Annual Revenue|
-[1070]<0227>Annual Operating Profit|
-[1071]<0228>Annual Net Profit|
-[1072]<0229>Total Assets|
-[1073]<0230>Total Loans|
-[1074]<0231>Stock Asset|
-[1075]<0231>Non. of Years of Operation|
-[1076]<0232>No. of Employees|
-[1077]<0233>Non. of Product Classes|
-[1078]<0234>Non. of Product Types|
-[1079]<0235>Return on Equity|
-[1080]<0236>Return on Total Assets|
-[1081]<0237>Dividend Yield|
-[1082]<0238>Stock Return to Investors|
-[1083]<0239>Operating Profit Margin|
-[1084]<0240>Net Profit Margin|
-[1085]<0241>Inventory Turnover|
-[1086]<0242>Assets Turnover|
-[1087]<0243>Equity-to-Assets Ratio|
-[1088]<0244>Researching new product|
+[1037]<0194>Vente au détail|
+[1039]<0196>Recette|
+[1040]<0197>bénéfice d'exploitation|
+[1041]<0198>Bénéfice net|
+[1042]<0199>Valeur nette|
+[1043]<0200>Cours de l'action|
+[1044]<0201>30 dernières années|
+[1046]<0203>Trésorerie|
+[1047]<0204>Inventaire|
+[1048]<0205>Actifs commerciaux|
+[1049]<0206>Terres et ressources|
+[1050]<0207>Actifs boursiers|
+[1051]<0208>Total des prêts|
+[1052]<0209>Dividende versé|
+[1053]<0210>Rendement des actions|
+[1054]<0211>Dépenses salariales|
+[1055]<0212>Publicité|
+[1056]<0213>Formation|
+[1057]<0214>Amortissements|
+[1058]<0215>Actionnaire          Quant Poss   %Poss  Valeur Actions   Position|
+[1061]<0218>Confidentialité|
+[1062]<0219>Technologie actuelle|
+[1063]<0220>Technologie de pointe|
+[1064]<0221>Technologie cible|
+[1065]<0222>Progression de la R&D|
+[1067]<0224>Échange AAJ|
+[1068]<0225]Échanges à vie|
+[1069]<0226>Recettes annuelles|
+[1070]<0227>Résultat d'exploitation annuel|
+[1071]<0228>]Bénéfice net annuel|
+[1072]<0229>Total des actifs
+[1073]<0230>Total des prêts|
+[1074]<0231>Actifs boursiers|
+[1075]<0231>Non. d'années d'exploitations|
+[1076]<0232>Non. d'employés|
+[1077]<0233>Non. de classes de produits|
+[1078]<0234>Non. de types de produits|
+[1079]<0235>Retour sur les capitaux propres
+[1080]<0236>Rendement de l'ensemble des actifs|
+[1081]<0237>Rendement des dividendes|
+[1082]<0238>Rendement des actions pour les investisseurs|
+[1083]<0239>Marge bénéficiaire d'exploitation|
+[1084]<0240>Marge bénéficiaire nette|
+[1085]<0241>Rotation de stock|
+[1086]<0242>Chiffre d'affaire|
+[1087]<0243>Ratio capitaux propres/actifs|
+[1088]<0244>Recherche d'un nouveau produit|
 [1089]<0245>années|
 [1090]<0246>ans|
-[1091]<0247>units|
-[1092]<0248>unit|
-[1093]<0249>Public Shareholders|
+[1091]<0247>unités|
+[1092]<0248>unité|
+[1093]<0249>Actionnaires publics|
 [1094]<0250>total|
-[1095]<0251>Annual Profit|
-[1096]<0252>Stock Price|
-[1099]<0255>P/E Ratio|
-[1100]<0256>Dividend Yield|
-[1102]<0257>Annual Return|
-[1104]<0259>Merger|
+[1095]<0251>Bénéfice annuel|
+[1096]<0252>Cours de l'action|
+[1099]<0255>Ratio P/E|
+[1100]<0256>Rendement des dividendes|
+[1102]<0257>Rendement annuel|
+[1104]<0259>Fusionner|
 [1105]<0260>Achat|
 [1106]<0261>Vente|
-[1107]<0262>Price    P/E    Owned%  Stock Value|
-[1108]<0263>Stock Price|
-[1109]<0264>Total Shares|
-[1110]<0265>Equity Per Share|
-[1111]<0266>Earnings Per Share|
-[1112]<0267>P/E Ratio|
-[1113]<0268>Dividend Yield|
-[1114]<0269>Annual Return|
-[1116]<0271>Who             Cash|
-[1117]<0272>Buy Stock|
-[1118]<0273>Sell Stock|
-[1119]<0274>Offer Price|
-[1122]<0277>100 Billionaires|
-[1123]<0278>Local Billionaires|
-[1124]<0279>Issue New Shares|
-[1125]<0280>Borrow/Repay Loan|
-[1126]<0281>Public Shareholders|
-[1127]<0282>Past 30 Days|
-[1128]<0283>of|
-[1129]<0284>ISSUE NOW|
-[1130]<0285>BORROW|
-[1131]<0286>REPAY|
-[1132]<0287>Issues|
-[1133]<0288>New Shares at|
-[1134]<0289> Per Share.|
-[1135]<0290>Total Loan|
-[1136]<0291>Monthly Interest|
-[1137]<0292>Credit Limit|
-[1138]<0293>Interest Rate|
-[1139]<0294>Borrow|
-[1140]<0295>Repay|
-[1141]<0296>Loan Interest Rate|
-[1142]<0296>Loan Amount|
-[1143]<0297>ISSUE NOW|
-[1144]<0298>Owner:|
-[1145]<0299>Your purchase price|
-[1146]<0300>Land and building cost|
-[1147]<0301>Market value|
-[1148]<0302>Put this mansion on sale for:|
-[1149]<0303>Put this mansion on sale|
-[1150]<0304>Demolish the mansion and sell the land|
-[1151]<0305>This mansion is for sale|
-[1152]<0306>Buy this mansion|
-[1154]<0308>Are you sure that you want to demolish the mansion and sell the land? \n \nThe land can be sold for |
-[1155]<0309>Manager|
-[1156]<0310>TV Broadcast|
-[1157]<0311>Radio Broadcast|
-[1158]<0312>Newspaper|
+[1107]<0262>Prix    P/E    %Poss  Valeur des actions|
+[1108]<0263>Cours de l'action|
+[1109]<0264>Total des actions|
+[1110]<0265>Capitaux propres par action|
+[1111]<0266>Bénéfice Par Action|
+[1112]<0267>]Rapport P/E|
+[1113]<0268>Rendement des dividendes|
+[1114]<0269>Rendement annuel|
+[1116]<0271>Qui             Cash|
+[1117]<0272>Acheter des actions|
+[1118]<0273>Vendre des actions|
+[1119]<0274>Offre de prix|
+[1122]<0277>100 Milliardaires|
+[1123]<0278>Milliardaires locaux|
+[1124]<0279>Émission de nouvelles actions|
+[1125]<0280>Emprunter/Rembourser un prêt|
+[1126]<0281>Actionnaires publics|
+[1127]<0282>30 derniers jours|
+[1128]<0283>de|
+[1129]<0284>EMETTRE MAINTENANT|
+[1130]<0285>EMPRUNTER|
+[1131]<0286>REMBOURSER|
+[1132]<0287>Émissions|
+[1133]<0288>Nouvelles actions à|
+[1134]<0289> Par action.|
+[1135]<0290>Total des prêts|
+[1136]<0291>Intérêts mensuels|
+[1137]<0292>Limite de crédit|
+[1138]<0293>Taux d'intérêt|
+[1139]<0294>Emprunter|
+[1140]<0295>Rembourser|
+[1141]<0296>Taux d'intérêt de l'emprunt|
+[1142]<0296>Montant du prêt|
+[1143]<0297>EMETTRE MAINTENANT|
+[1144]<0298>Propriétaire :|
+[1145]<0299>Votre prix d'achat|
+[1146]<0300>Coût des terrains et des bâtiments|
+[1147]<0301>Valeur marchande|
+[1148]<0302>Mettre en vente ce manoir pour :|
+[1149]<0303>Mettre en vente ce manoir :|
+[1150]<0304>Démolir le manoir et vendre le terrain|
+[1151]<0305>Ce manoir est à vendre|
+[1152]<0306>Acheter ce manoir|
+[1154]<0308>Êtes-vous sûr de vouloir démolir le manoir et vendre le terrain ? \n \nLe terrain ne peut pas être vendu pour  |
+[1155]<0309>Management|
+[1156]<0310>Diffusion TV|
+[1157]<0311>Radiodiffusion
+[1158]<0312>Journal|
 [1163]<0317>magasins de détail.|
-[1164]<0318>Double-click here to view the product detail report.|
-[1175]<0329>City Overall|
-[1181]<0335>New Product|
-[1182]<0336>Development|
-[1185]<0339>Target Technology:|
-[1186]<0340>Duration:|
-[1187]<0341>Progress|
-[1188]<0342>NONE|
-[1189]<0343>There is no space for adding new products|
-[1190]<0344>This Item can be sold in ...|
-[1194]<A700>Frozen|
-[1195]<A701>Cold|
-[1196]<A702>Cool|
-[1197]<A703>Warm|
-[1198]<A704>Hot|
-[1199]<A800>Dry|
-[1200]<A801>Little|
-[1201]<A802>Moderate|
-[1202]<A803>Plentiful|
-[1203]<0348>Warm, Cool or Cold|
-[1235]<0349>Non. of Employees|
-[1236]<0350>Non. of Units|
-[1237]<0351>Average Unit Level|
-[1238]<0352>Average Utilization|
-[1239]<0353>Who manages this firm?|
-[1240]<0354>C.E.O.|
-[1241]<0355>President|
-[1242]<0356>Do you want to manage all of your firms yourself?|
-[1243]<0357>Do you want President |
-[1244]<0358> to manage all of your firms|
-[1245]<0359>Layout Plan Library - |
+[1164]<0318>Double-cliquez ici pour voir le rapport détaillé du produit.|
+[1175]<0329>Ville dans son ensemble|
+[1181]<0335>Nouveau produit|
+[1182]<0336>Développement|
+[1185]<0339>Technologie cible :|
+[1186]<0340>Durée:|
+[1187]<0341>Progression|
+[1188]<0342>AUCUN|
+[1189]<0343>Il n'y a pas de place pour ajouter de nouveaux produits|
+[1190]<0344>Cet article peut être commercialisé dans...|
+[1194]Congelés|<A700>
+[1195]Froid|<A701>
+[1196]Frais|<A702>
+[1197]Tiède|<A703>
+[1198]Brûlant|<A704>
+[1199]Sec|<A800>
+[1200]Petit|<A801>
+[1201]Modérée|<A802>
+[1202]Nombreux|<A803>
+[1203]<0348>Tiède, Frais or Froid|
+[1235]<0349>Non. d'employés|
+[1236]<0350>Non. d'unités|
+[1237]<0351>Niveau moyen des unités|
+[1238]<0352>Utilisation moyenne|
+[1239]<0353>Qui dirige cet établissement ?|
+[1240]<0354>P.D.G
+[1241]<0355>Président|
+[1242]<0356>Souhaitez-vous gérer vous-même tous vos établissements ?|
+[1243]<0357>Souhaitez-vous que le président |
+[1244]<0358>gère l'ensemble de vos établissements ?|
+[1245]<0359>Bibliothèque de plans d'aménagement - |
 [1247]<0361>Description|
 [1249]<0363>Sortie|
 [1250]<0364>Entrée|
-[1251]<0365>Available|
-[1253]<0367>Chief Operating Officer|
-[1255]<0369>He currently manages this firm|
-[1256]<0370>She currently manages this firm|
-[1263]<0377>Market Value:|
-[1264]<0378>This mansion is for sale|
-[1265]<0379>FOR SALE|
-[1267]<0381>Function: Issuing new shares|
-[1268]<0382>Function: Borrowing bank loans|
-[1269]<0383>Function: Trading stocks|
-[1270]<0384>Function: Advertising your products|
-[1271]<0385>Function: Provide information|
-[1272]<0386>Rating Points|
-[1273]<0387>Rating Points for past 36 months|
-[1274]<0388>Content Volume|
-[1275]<0389>Content Quality|
-[1278]<0392>Rating Points|
-[1281]<0395>Monthly Budget for New Content Development|
-[1287]<0401>Next Month Advertising Pricing|
-[1289]<0403>Current Advertising Pricing|
-[1292]<0406>Buy Firm|
-[1298]<AA00>All|
-[1299]<AA01>Has Trade Sales|
-[1300]<AA02>Has Retail Sales|
-[1301]<AB00>All|
-[1302]<AB01>Consumer Goods|
-[1303]<AB02>Industrial Goods|
-[1304]<AC00>Sales Revenue|
-[1305]<AC01>Raw Material Cost|
-[1306]<AC02>Freight Cost|
-[1307]<AC03>Salaries Expense|
-[1308]<AC04>Factory Overhead|
-[1309]<AC05>Advertising & PR Expense|
-[1310]<AC06>Training|
-[1311]<AC07>Write-offs|
-[1312]<AD00>Salaries Expense|
-[1313]<AD01>Operating Overhead|
-[1314]<AD02>Training|
-[1315]<AD03>Write-offs|
-[1316]<AE00>Sales Revenue|
-[1317]<AE01>Purchase Cost|
-[1318]<AE02>Freight Cost|
-[1319]<AE03>Salaries Expense|
-[1320]<AE04>Operating Overhead|
-[1321]<AE05>Advertising & PR Expense|
-[1322]<AE06>Training|
-[1323]<AE07>Write-offs|
-[1324]<AF00>Sales Revenue|
-[1325]<AF01>Salaries Expense|
-[1326]<AF02>Operating Overhead|
-[1327]<AF03>Advertising & PR Expense|
-[1328]<AF04>Training|
-[1329]<AF05>Write-offs|
-[1330]<AG00>Sales Revenue|
-[1331]<AG01>Consumption of Reserve|
-[1332]<AG02>Salaries Expense|
-[1333]<AG03>Operating Overhead|
-[1334]<AG04>Advertising & PR Expense|
-[1335]<AG05>Training|
-[1336]<AG06>Write-offs|
-[1347]<0412>Summary|
-[1348]<0413>Wealth|
-[1349]<0414>Career|
-[1350]<0415>Personality|
-[1351]<0416>Expertise|
-[1352]<0417>Score|
-[1353]<0418>Corporate Balance Sheet|
-[1354]<0419>Corporate Income Statement|
-[1355]<0420>Firm Income Statement|
-[1358]<0423>No. of years passed|
+[1251]<0365>Disponible|
+[1253]<0367>Directeur général des opérations
+[1255]<0369>Il dirige actuellement cet établissement|
+[1256]<0370>Elle dirige actuellement cet établissement|
+[1263]<0377>Valeur marchande|
+[1264]<0378>Ce manoir est à vendre|
+[1265]<0379>A VENDRE|
+[1267]<0381>Fonction : Émission de nouvelles actions|
+[1268]<0382>Fonction : Emprunt de prêts bancaires|
+[1269]<0383>Fonction : Négociation des actions|
+[1270]<0384>Fonction : Fais de la publicité pour vos produits
+[1271]<0385>Fonction : Fournir des informations|
+[1272]<0386>Points de classements|
+[1273]<0387>Points de classements de ces 36 derniers mois|
+[1274]<0388>Volume du contenu|
+[1275]<0389>Qualité du contenu|
+[1278]<0392>Points de classements|
+[1281]<0395>]Budget mensuel pour le développement de nouveaux contenus|
+[1287]<0401>Prix de la publicité du mois prochain|
+[1289]<0403>Prix actuel de la publicité
+[1292]<0406>Acheter l'établissement|
+[1298]Tous|<AA00>
+[1299]A la vente de commerce|<AA01>
+[1300]A la vente au détail|<AA02>
+[1301]Tous|<AB00>
+[1302]Biens de consommation|<AB01>
+[1303]Biens industriels|<AB02>
+[1304]Recettes des ventes|<AC00>
+[1305]Coût des matières premières|<AC01>
+[1306]Coût du fret|<AC02>
+[1307]Dépenses salariales|<AC03>
+[1308]Frais généraux d'exploitation|<AC04>
+[1309]Frais de publicité et de relations publiques|<AC05>
+[1310]Formation|<AC06>
+[1311]Amortissement|<AC07>
+[1312]Dépenses salariales|<AD00>
+[1313]Frais généraux d'exploitation|<AD01>
+[1314]Formation|<AD02>
+[1315]Amortissement|<AD03>
+[1316]Recettes des ventes|<AE00>
+[1317]Coût d'achat|<AE01>
+[1318]Coût du fret|<AE02>
+[1319]Dépenses salariales|<AE03>
+[1320]Frais généraux d'exploitation|<AE04>
+[1321]Frais de publicité et de relations publiques|<AE05>
+[1322]Formation|<AE06>
+[1323]Amortissement|<AE07>
+[1324]Recettes des ventes|<AF00>
+[1325]Dépenses salariales|<AF01>
+[1326]Frais généraux d'exploitation<AF02>
+[1327]Frais de publicité et de relations publiques<AF03>
+[1328]Formation|<AF04>
+[1329]Amortissement|<AF05>
+[1330]Recettes des ventes|<AG00>
+[1331]Utilisation de la réserve|<AG01>
+[1332]Dépenses salariales|<AG02>
+[1333]Frais généraux d'exploitation<AG03>
+[1334]Frais de publicité et de relations publiques|<AG04>
+[1335]Formation|<AG05>
+[1336]Amortissement|<AG06>
+[1347]<0412>Résumé|
+[1348]<0413>Richesse|
+[1349]<0414>Carrière|
+[1350]<0415>Personnalité|
+[1351]<0416>Compétence|
+[1352]<0428>SCORE|
+[1353]<0418>Bilan financier de l'entreprise|
+[1354]<0419>Compte de résultat de la société|
+[1355]<0420>Compte de résultat de l'entreprise|
+[1358]<0423>Nbre d'années passées|
 [1360]<0425>CIBLE|
 [1361]<0426>ACTUEL|
 [1362]<0427>ACHEVE|
 [1363]<0428>SCORE|
-[1364]<0429>Personal Wealth|
-[1365]<0430>Value of Companies Controlled by You|
-[1366]<0431>Dominated Industries|
-[1367]<0432>Dominated Products|
+[1364]<0429>Richesse personnelle|
+[1365]<0430>Valeur des entreprises que vous contrôlez|
+[1366]<0431>Industries dominantes|
+[1367]<0432>Produits dominants|
 [1370]<0435> Points|
 [1372]<0437> x 20|
 [1373]<0438> x 5|
-[1374]<0439>Total Score: -1 (You have enabled the cheated mode.)|
-[1375]<0440>Total Score:|
+[1374]<0439>Score total: -1 (Vous avez activé le mode triche.)|
+[1375]<0440>Score Total :|
 [1376]<0441> x |
 [1377]<0442> (Difficulté)|
-[1379]<0444> (Goal Bonus) =|
-[1380]<0445> x 2 (Goal Bonus) =|
+[1379]<0444> (Bonus d'objectif) =|
+[1380]<0445> x 2 (Bonus d'objectif =|
 [1381]<0446> =|
-[1382]<0447> (Years)|
-[1383]<0448> x 2 (Goal Bonus)|
+[1382]<0447> (Années)|
+[1383]<0448> x 2 (Bonus d'objectif) =|
 [1384]<0449>ENTRÉE|
 [1385]<0450>SORTIE|
 [1386]<0451>PLUS|
 [1387]<0452> million|
-[1389]<0454>Rating (0-100)|
-[1390]<0455>Farming|
+[1389]<0454>Classement (0-100)|
+[1390]<0455>Agriculture|
 [1391]<0456>Fabrication|
-[1392]<0457>Research and Development|
-[1393]<0458>Raw Material Production|
+[1392]<0457>Recherche et Développement|
+[1393]<0458>Production de matières premières|
 [1394]<0459>Marketing|
-[1395]<0460>Training|
-[1396]<0461>Career|
-[1397]<0462>Corporation|
-[1398]<0463>Job Title|
-[1399]<0464>Years of Service|
-[1400]<0465>Retired|
-[1401]<0466>Independent Investor|
-[1402]<0467>Attitude Towards You|
-[1403]<0468>Annual Salary|
-[1404]<0469>Terminate Employment|
-[1405]<0470>Hire Chief Operating Officer|
-[1406]<0471>Hire Chief Marketing Officer|
-[1407]<0472>Hire Chief Technical Officer|
-[1408]<0473>MANAGEMENT POLICIES|
-[1409]<0474>Pricing Policy|
-[1411]<0476>Aggressive|
-[1412]<0477>Very Aggressive|
-[1419]<0484>The severance for terminating the employment of \n|
-[1424]<0489>, is \n|
-[1425]<0490> (monthly salary)|
-[1426]<0491> (weekly salary) x|
-[1427]<0492> (years of service)|
-[1428]<0493>Do you want to proceed ?|
-[1445]<0510>You offered|
-[1448]<0513>She|
-[1449]<0514>He|
-[1450]<0515> rejected your offer.|
-[1451]<0516> requested an annual salary of|
-[1452]<0517>Do you accept?|
-[1474]<0539>Crop Name|
-[1475]<0540>Crop in Barn|
-[1476]<0541>Growth Progress|
-[1477]<0542> units|
-[1478]<0543> unit|
-[1479]<0544>Quality: |
-[1480]<0545>Quality is determined by:|
-[1481]<0546>Production Tech|
-[1482]<0547>Raw Material Quality|
-[1483]<0548>Tech Invented|
-[1484]<0549>Tech Known to You|
-[1485]<0550>Character:|
-[1487]<0552>Degree (0-100)|
-[1488]<0553>Investing in Research and Development|
-[1489]<0554>Investing in Training|
-[1490]<0555>Frequency of Upgrading Production Facilities|
-[1491]<0556>Spending on Advertising|
-[1492]<0557>Paying Dividend|
-[1493]<0558>Investing in Stocks|
-[1494]<0559>Corporation Takeover and Merger|
-[1495]<0560>Strengthening Corporation Ownership|
-[1496]<0561>Endure Loss for Avoiding Layoff|
+[1395]<0460>Formation|
+[1396]<0461>Carrière|
+[1397]<0462>Société|
+[1398]<0463>Titre du poste|
+[1399]<0464>Années de service|
+[1400]<0465>Prendre sa retraite|
+[1401]<0466>Investisseurs indépendants|
+[1402]<0467>Attitude envers vous|
+[1403]<0468>Salaire annuel|</0468>
+[1404]<0469>Mettre fin au contrat de travail
+[1405]<0470>Engager le directeur d'exploitation
+[1406]<0471>Embaucher le directeur général du marketing</0471>
+[1407]<0472>Engager le Directeur technique
+[1408]<0473>POLITIQUES DE GESTION|</0473>
+[1409]<0474>Politique des prix|
+[1411]<0476>Agressif|
+[1412]<0477>Très agressif|
+[1419]<0484>L'indemnité de licenciement pour cessation d'emploi de \n|
+[1424]<0489>, est \n|
+[1425]<0490> (salaire mensuel)|
+[1426]<0491> (salaire hebdomadaire) x|
+[1427]<0492> (années de service)|
+[1428]<0493>Voulez-vous procéder ?|
+[1445]<0510>Vous avez offert|
+[1448]<0513>Elle|
+[1449]<0514>Il|
+[1450]<0515> a rejeté votre offre.|
+[1451]<0516> a demandé un salaire annuel de|
+[1452]<0517>Acceptez-vous ?|
+[1474]<0539>Nom de la culture|
+[1475]<0540>Récolte dans une grange|
+[1476]<0541>Progression de la croissance|
+[1477]<0542> unités|
+[1478]<0248> unité|
+[1479]<0544>Qualité : |
+[1480]<0545>La qualité est déterminée par :|
+[1481]<0546>Technologie de production|
+[1482]<0547>Qualité des matières premières|
+[1483]<0548>Technologie inventée|
+[1484]<0549>Technologies dont vous avez connaissances|
+[1485]<0550>Personnage :|
+[1487]<0552>Degrés (0-100)|
+[1488]<0553>Investir dans la recherche et le développement|
+[1489]<0554>Investir dans la formation|
+[1490]<0555>Fréquence de mise à niveau des installations de production|
+[1491]<0556>Dépenses en publicité|
+[1492]<0557>Payer un dividende|
+[1493]<0558>Investissement en actions|
+[1494]<0559>Rachat et fusion de sociétés|
+[1495]<0560>Renforcer la participation des entreprises|
+[1496]<0561>Perte à terme permettant d'éviter le licenciement|
 [1497]<0562>Acheter les produits de vos établissements|
-[1498]<0563>richesse personnelle|
-[1499]<0564>Market Cap of Companies Controlled|
-[1500]<0565>Score:|
+[1498]<0563>Richesse personnelle|
+[1499]<0564>Capitalisation boursière des sociétés contrôlées|
+[1500]<0565>Score :|
 [1501]<0566> billion x 100|
-[1502]<0567>Score:|
+[1502]<0567>Score :|
 [1503]<0568> billion x 10|
-[1504]<0569>Industries dominées|
-[1505]<0570>Dominated Products|
-[1506]<0571>Score:|
+[1504]<0569>Industries dominantes|
+[1405]<0570>Produits dominants|
+[1506]<0571>Score :|
 [1507]<0572> x 20 =|
 [1509]<0574> x 5 =|
-[1510]<0575>Score total: -1 (Vous avez activé le mode triche.)|
-[1511]<0576>Score Total:|
+[1510]<0575>Score total : -1 (Vous avez activé le mode triche.)|
+[1511]<0576>Score Total :|
 [1512]<0577> (Difficulté)|
-[1513]<0578> (Goal Bonus) =|
+[1513]<0578> (Bonus d'objectif) =|
 [1515]<0580> (Années)|
 [1517]<0582>Personnage  |
-[1518]<0583>Job Title  |
-[1519]<0584>Corporation|
-[1520]<0585>Cash|
-[1521]<0586>Stock|
-[1522]<0587>Total Wealth|
-[1546]<0611>Personal Wealth|
-[1547]<0612>Cash|
-[1548]<0613>Stock|
-[1549]<0614>Mansions market|
-[1550]<0615>   values|
+[1518]<0583>Titre du poste|
+[1519]<0584>Société|
+[1520]<0585>Trésorerie|
+[1521]<0586>Actions|
+[1522]<0587>Richesse totale|
+[1546]<0611>Richesse personnelle|
+[1547]<0612>Trésorerie|
+[1548]<0613>Actions|
+[1549]<0614>Marché de l'immobilier|
+[1550]<0615> valeurs|
 [1551]<0616>Total|
-[1552]<0617>Owned Stocks|
-[1553]<0618>Corporation|
-[1554]<0619>Price|
-[1555]<0620>Owned Qty|
-[1556]<0621>Owned %|
-[1557]<0622>Stock Value|
+[1552]<0617>Actions possédées|
+[1553]<0618>Société|
+[1554]<0619>Prix|
+[1555]<0620>Qté possédées|
+[1556]<0621>% possédé|
+[1557]<0622>Valeur des actions
 [1558]<0623>Position|
 [1559]<0624>Total|
-[1600]<0625>YTD Changes|
-[1601]<0626>Last Year Changes|
-[1602]<0627>YTD Changes|
-[1603]<0628>YTD Changes|
-[1604]<0629>Last Year Changes|
-[1605]<0630>Lifetime |
-[1606]<0631>Description|
-[1607]<0632>Current Month|
-[1608]<0633>Last Month|
-[1615]<0640>Description|
-[1616]<0641>Current Month|
-[1617]<0642>Last Month|
-[1619]<0644>OPERATING REVENUE|
-[1620]<0645>OPERATING EXPENSES|
-[1621]<0646>OPERATING PROFIT|
-[1622]<0647>Sowing Month|
-[1623]<0648>Product|
-[1624]<0649>Harvesting Month|
-[1625]<0650>Livestock Products:|
-[1626]<0651> Unit|
-[1632]<AK00>Operating Revenue|
-[1633]<AK01>Cost of Sales|
-[1634]<AK02>Salaries Expense|
-[1635]<AK03>Operating Overhead|
-[1636]<AK04>Advertising & PR Expense|
-[1637]<AK05>Training|
-[1638]<AK06>R&D Expense|
-[1639]<AK07>Donation to Public Facilities|
-[1640]<AK08>Write-offs|
-[1641]<AK09>Stock Return|
+[1600]<0625>Changements AAJ
+[1601]<0626>Changements de l'année dernière|
+[1602]<0627>Changements AAJ|
+[1603]<0628>Changements AAJ|
+[1604]<0629>Changements de l'année dernière|
+[1605]<0630>Vie entière|
+[0951]<0159>Description|
+[1607]<0632>Mois actuel|
+[1608]<0633>Mois dernier|
+[0951]<0159>Description|
+[1616]<0641>Mois actuel|
+[1617]<0642>Mois dernier|
+[1619]<0644>RECETTES D'EXPLOITATION|
+[1620]<0645>DÉPENSES D'EXPLOITATION|
+[1621]<0646>BENEFICE D'EXPLOITATION|
+[1622]<0647>Mois des semences|
+[1623]<0648>Produit|
+[1624]<0649>Mois de récolte|
+[1625]<0650>produit d'origine animale :|
+[1626]<0651> Unité|
+[1632]Recettes d'exploitation|<AK00>
+[1633]Coût des ventes|<AK01>
+[1634]Dépenses salariales|<AK02>
+[1635]Frais généraux d'exploitation<AK03>
+[1636]Frais de publicité et de relations publiques<AK04>
+[1637]Formation|<AK05>
+[1638]Dépenses de R&D|<AK06>
+[1639]Don aux établissements publics|<AK07>
+[1640]Amortissement|<AK08>
+[1641]Rendement des actions|<AK09>
 [1642]6 mois|<AL00>
 [1643]1 an|<AL01>
 [1644]2 ans|<AL02>
 [1645]3 ans|<AL03>
 [1646]5 ans|<AL04>
 [1647]10 ans|<AL05>
-[1648]<0652>Stock Price Graph|
+[1648]<0652>Graphique du cours|
 [1650]<0654>Jour|
 [1651]<0655>Mois|
-[1652]<0656>Mansion|
+[1652]<0656>Manoir|
 [1653]<0657> an|
 [1654]<0658> ans|
-[1656]<0660>Your Personal Wealth|
-[1657]<0661>Net Worth of Your Corporation|
-[1658]<0662>Market Cap of Your Corporation|
-[1659]<0663>Annual Revenue of Your Corporation|
-[1660]<0664>Annual Operating Profit of Your Corporation|
-[1661]<0665>Net Worth of Companies Under Your Control|
-[1662]<0666>Market Cap of Companies Under Your Control|
-[1663]<0667>Annual Revenue of Companies Under Your Control|
-[1664]<0668>Annual Operating Profit of Your Companies|
-[1665]<0669>No. of Companies Under Your Control|
-[1666]<0670>Total No. of Employees in Your Corporation|
-[1667]<0671>Operating Profit Margin of Your Corporation|
-[1668]<0672>Return on Equity of Your Corporation|
-[1669]<0673>Stock Price of Your Corporation|
-[1670]<0674>Your Ownership of Your Corporation|
-[1671]<0675>No. of Product Classes Produced by Your Corporation|
-[1672]<0676>No. of Product Types Produced by Your Corporation|
+[1656]<0660>Votre richesse personnelle|
+[1657]<0661>Valeur nette de votre société|
+[1658]<0662>Capitalisation boursière de votre société|
+[1659]<0663>Revenu annuel de votre société|
+[1660]<0664>]Bénéfice d'exploitation annuel de votre société|
+[1661]<0665>Valeur nette des sociétés sous votre contrôle|
+[1662]<0666>Capitalisation boursière des sociétés sous votre contrôle|
+[1663]<0667>Recettes annuelles des sociétés sous votre contrôle|
+[1664]<0668>Résultat d'exploitation annuel de vos entreprises|
+[1665]<0669>Nbre d'entreprises sous votre contrôlent
+[1666]<0670>Nbre total d'employés dans votre entreprise|
+[1667]<0671>Marge bénéficiaire d'exploitation de votre société|
+[1668]<0672>Rendement des capitaux propres de votre société|
+[1669]<0673>Cours de l'action de votre société|
+[1670]<0674>Votre participation dans votre société
+[1671]<0675>Nbre. des catégories de produits fabriqués par votre société|
+[1672]<0676>Nbre de types de produits fabriqués par votre société|
 [1673]<0677>Monopole dans le marche de |
-[1674]<0678> Sector|
+[1674]<0678> Secteur|
 [1675]<0679>Monopole dans le marche de |
-[1676]<0680> Industry|
-[1678]<0681>Score: |
-[1679]<0682>Wealth: |
-[1680]<0683> billion|
-[1681]<0684> million|
-[1682]<0685>Period: |
-[1712]<0715>You have |
-[1715]<0718> left to achieve the main goal. Hurry Up!|
-[1721]<0724>Corporation Name|
-[1722]<0725>Your Name|
-[1787]<0790>You corporation has been taken over by |
-[1788]<0791>You have lost the ownership of your corporation !|
-[1789]<0792>Government|
-[1790]<0793>Creating a New Game . . . . .|
-[1791]<0794>FINAL SCORE UPON RETIREMENT|
-[1792]<0795>FINAL SCORE UPON TAKEOVER|
+[1676]<0680>Industries|
+[1678]<0581>Score :|
+[1379]<0682>Richesse|
+[1680]<0683> milliard|
+[1387]<0452> million|
+[1682]<0685>Période : |
+[1712]<0715>Vous avez |
+[1715]<0718> pour atteindre l'objectif principal.. Dépêchez-vous !
+[1721]<0724>Nom de la société|
+[1722]<0725>Votre nom|
+[1787]<0790>Votre société a été achetée par |
+[1788]<0791>Vous avez perdu le contrôle de votre société!|
+[1789]<0792>Gouvernement|
+[1790]<0793>Création d'une nouvelle partie. . . . .|
+[1791]<0794>SCORE FINAL AU MOMENT DE LA RETRAITE|
+[1792]<0795>[1792]<0795>SCORE FINAL AU MOMENT DE LA PRISE DE CONTRÔLE|
 [1797]<0800>Score:|
 [1807]<0811>Valeurs 1|
 [1808]<0812>Valeurs 2|
@@ -879,35 +879,35 @@
 [1818]<0822>Démarrer|
 [1819]<0823>Revenir|
 [1820]<0824>Valeur de l'objectif|
-[1821]<0825>Nb. d'années|
-[1822]<0826>Goal Score Bonus|
-[1823]<0827>Player's Wealth ($million)|
-[1824]<0828>Goals of the Player's Own Corporation ($million)|
-[1825]<0829>Annual Revenue|
-[1826]<0830>Net Worth|
-[1827]<0831>Annual Operating Profit|
-[1828]<0832>Market Cap|
-[1829]<0833>Goals of Companies Controlled by the Player ($million)|
-[1830]<0834>Annual Revenue|
-[1831]<0835>Net Worth|
-[1832]<0836>Annual Operating Profit|
-[1833]<0837>Market Cap|
-[1834]<0838>No. of Controlled Companies|
-[1835]<0839>Goals of the Player's Own Corporation|
-[1836]<0840>Total No. of Employees|
-[1837]<0841>Operating Profit Margin|
-[1838]<0842>Return on Equity|
-[1839]<0843>Stock Price|
-[1840]<0844>Ownership|
-[1841]<0845>No. of Product Classes Being Produced|
-[1842]<0846>No. of Product Types Being Produced|
-[1843]<0847>Goal Industries - Goals of Industry Dominance|
-[1844]<0848>Excluded Industries|
-[1845]<0849>Included Industries|
-[1846]<0850>Goal Products - Goals of Product Market Dominance|
-[1847]<0851>Excluded products|
-[1848]<0852>Included products|
-[1849]<0853>Add|
+[1821]<0825>Nbre. d'années|
+[1822]<0826>Bonus pour le score de l'objectif|
+[1823]<0827>Richesses du joueur (million $)|
+[1824]<0828>Objectifs de la société du joueur (millions $)|
+[1825]<0829>Recettes annuelles|
+[1826]<0830>Valeur nette|
+[1827]<0831>Résultat d'exploitation annuel|
+[1828]<0832>Capitalisation boursière|
+[1829]<0833>]Objectifs des entreprises contrôlées par le joueur (millions $)|
+[1830]<0834>Recettes annuelles|
+[1831]<0835>Valeur nette|
+[1832]<0836>Résultat d'exploitation annuel|
+[1833]<0837>Capitalisation boursière|
+[1834]<0838>Nbre de sociétés contrôlées|
+[1835]<0839>Objectifs de la société mère du joueur|
+[1836]<0840>Nbre total d'employés|
+[1837]<0841>Marge bénéficiaire d'exploitation|
+[1838]<0842>Retour sur les capitaux propres
+[1839]<0843>Cours de l'action|
+[1840]<0844>Actionnariat</0844>
+[1841]<0845>Nbre de classes de produits en cours de production|
+[1842]<0846>Nbre de types de produits en cours de production|
+[1843]<0847>Objectifs des industries - Objectifs du domination de l'industrie|
+[1844]<0848>Industries exclues|
+[1845]<0849>Industries inclues|
+[1846]<0850>Objectifs des produits - Objectifs de domination du marché des produits|
+[1847]<0851>Produits exclus|
+[1848]<0852>Produits inclus|
+[1849]<0853>Ajouter|
 [1850]<0854>Add All|
 [1851]<0855>Remove|
 [1852]<0856>Remove All|
@@ -929,7 +929,7 @@
 [1871]<AN01>SAVE GAME (S or Alt-S)|
 [1872]<AN02>LOAD GAME (L)|
 [1873]<AN03>RESTART GAME|
-[1874]<AN04>RETIRE|
+[1874]SE RETIRER|<AN04>
 [1875]<AN05>GAME SETTINGS (F9)|
 [1876]RETOUR AU MENU PRINCIPAL|<AN06>
 [1877]QUITTER VERS WINDOWS|<AN07>
@@ -1867,7 +1867,7 @@
 [3053]<UNVI>Unique Visitors|
 [3054]<UNVM>Monthly Unique Visitors|
 [3055]<INTT>This Internet company does not have the required technology to start operation yet. Build an R&D center and set up Tech R&D units to research the required tech.|
-[3056]<BCRW>Your bank's Capital Ratio is too low and has stopped issuing new loans. To resume loan issuance, access the bank, select [Financial] and [Fund Transfer]. Then inject capital into the bank. 
+[3056]<BCRW>Your bank's Capital Ratio is too low and has stopped issuing new loans. Pour reprendre l'émission du prêt, accédez à la banque, sélectionnez [Financier] et [Transfert de fonds]. Ensuite, injectez des capitaux dans la banque. 
 [3057]<RRD1>Your radical R&D of|
 [3058]<RRD2>is a success!\nYour technology is now|
 [3059]<RRF1>Unfortunately, your radical R&D project of|
