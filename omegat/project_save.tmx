@@ -42203,10 +42203,90 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1154]&lt;0308&gt;Are you sure that you want to demolish the mansion and sell the land?</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T091225Z" creationid="Olivier" creationdate="20200509T091205Z">
+        <seg>[1154]&lt;0308&gt;Êtes-vous sûr de vouloir démolir le manoir et vendre le terrain ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1155]&lt;0309&gt;Manager|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T091343Z" creationid="Olivier" creationdate="20200509T091343Z">
+        <seg>[1155]&lt;0309&gt;Management|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1156]&lt;0310&gt;TV Broadcast|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T091352Z" creationid="Olivier" creationdate="20200509T091352Z">
+        <seg>[1156]&lt;0310&gt;Diffusion TV|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1157]&lt;0311&gt;Radio Broadcast|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T091407Z" creationid="Olivier" creationdate="20200509T091407Z">
+        <seg>[1157]&lt;0311&gt;Radiodiffusion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1158]&lt;0312&gt;Newspaper|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T091429Z" creationid="Olivier" creationdate="20200509T091429Z">
+        <seg>[1158]&lt;0312&gt;Journal|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1163]&lt;0317&gt;retail stores.|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T092013Z" creationid="Inrepublica" creationdate="20200426T092013Z">
         <seg>[1163]&lt;0317&gt;magasins de détail.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1164]&lt;0318&gt;Double-click here to view the product detail report.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T091448Z" creationid="Olivier" creationdate="20200509T091448Z">
+        <seg>[1164]&lt;0318&gt;Double-cliquez ici pour voir le rapport détaillé du produit.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1175]&lt;0329&gt;City Overall|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T091524Z" creationid="Olivier" creationdate="20200509T091524Z">
+        <seg>[1175]&lt;0329&gt;Ville dans son ensemble|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1181]&lt;0335&gt;New Product|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T091531Z" creationid="Olivier" creationdate="20200509T091531Z">
+        <seg>[1181]&lt;0335&gt;Nouveau produit|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1182]&lt;0336&gt;Development|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T091545Z" creationid="Olivier" creationdate="20200509T091545Z">
+        <seg>[1182]&lt;0336&gt;Développement|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1185]&lt;0339&gt;Target Technology:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T103142Z" creationid="Olivier" creationdate="20200509T103142Z">
+        <seg>[1185]&lt;0339&gt;Technologie cible :|</seg>
       </tuv>
     </tu>
     <tu>
@@ -43793,6 +43873,14 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T103825Z" creationid="Olivier" creationdate="20200427T103825Z">
         <seg>[Warehouse Storage]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>\n \nThe land can be sold for |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T091247Z" creationid="Olivier" creationdate="20200509T091247Z">
+        <seg>\n \nLe terrain ne peut pas être vendu pour  |</seg>
       </tuv>
     </tu>
     <tu>
