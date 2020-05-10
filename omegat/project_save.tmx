@@ -2078,6 +2078,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>AI will take over the duties.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T163517Z" creationid="Olivier" creationdate="20200510T163517Z">
+        <seg>Une IA prendra ses fonctions|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>AIBANKAG</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145922Z" creationid="Inrepublica" creationdate="20200422T145922Z">
@@ -10886,6 +10894,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fields are Completely Stripped of Vegetation.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T162916Z" creationid="Olivier" creationdate="20200510T162916Z">
+        <seg>Les champs sont complètement dépourvus de végétation.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Finally you may set up an office for the ~Chief Executive Officer~.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T135240Z" creationid="Olivier" creationdate="20200427T135240Z">
@@ -19033,6 +19049,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Looters Steal |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T163041Z" creationid="Olivier" creationdate="20200510T163041Z">
+        <seg>Les pilleurs volent |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Lotion de Bain|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200505T161915Z" creationid="Olivier" creationdate="20200505T161915Z">
@@ -22925,6 +22949,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200505T161917Z" creationid="Olivier" creationdate="20200505T161917Z">
         <seg>Pain|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Panic Selling Ensues!|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T163420Z" creationid="Olivier" creationdate="20200510T163420Z">
+        <seg>Une vente effrénée s'ensuit !|</seg>
       </tuv>
     </tu>
     <tu>
@@ -49541,6 +49573,166 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T162518Z" creationid="Olivier" creationdate="20200510T162518Z">
         <seg>[2243]&lt;1164&gt; Région.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2244]&lt;1165&gt; Are Destroyed.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T162529Z" creationid="Olivier" creationdate="20200510T162529Z">
+        <seg>[2244]&lt;1165&gt; Sont détruits.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2245]&lt;1166&gt;Researchers at |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T162538Z" creationid="Olivier" creationdate="20200510T162538Z">
+        <seg>[2245]&lt;1166&gt;Les chercheurs du |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2246]&lt;1167&gt;'s R&amp;D Center Make a Breakthrough.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T162617Z" creationid="Olivier" creationdate="20200510T162617Z">
+        <seg>[2246]&lt;1167&gt; centre de R&amp;D fait une percée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2247]&lt;1168&gt; Unveiled at Press Conference.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T162631Z" creationid="Olivier" creationdate="20200510T162631Z">
+        <seg>[2247]&lt;1168&gt; Dévoilé lors de la conférence de presse.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2248]&lt;1169&gt;Researchers at |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T162642Z" creationid="Olivier" creationdate="20200510T162642Z">
+        <seg>[2248]&lt;1169&gt;Les chercheurs du |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2249]&lt;1170&gt;'s R&amp;D Center Make a Breakthrough in |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T162717Z" creationid="Olivier" creationdate="20200510T162717Z">
+        <seg>[2249]&lt;1170&gt;centre de R&amp;D fait une percée dans le domaine de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2250]&lt;1171&gt;'s Production Technology.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T162732Z" creationid="Olivier" creationdate="20200510T162732Z">
+        <seg>[2250]&lt;1171&gt;la technologie de production|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2251]&lt;1172&gt;Fire Destroyed the |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T162745Z" creationid="Olivier" creationdate="20200510T162745Z">
+        <seg>[2251]&lt;1172&gt;Le feu a détruit le |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2252]&lt;1173&gt;'s |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T162820Z" creationid="Olivier" creationdate="20200510T162820Z">
+        <seg>[2252]&lt;1173&gt;de |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2253]&lt;1174&gt; in |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T162825Z" creationid="Olivier" creationdate="20200510T162825Z">
+        <seg>[2253]&lt;1174&gt; dans |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2254]&lt;1175&gt; near |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T162836Z" creationid="Olivier" creationdate="20200510T162836Z">
+        <seg>[2254]&lt;1175&gt; près de |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2255]&lt;1176&gt;Plague of Insects Descends on Crops in |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T162856Z" creationid="Olivier" creationdate="20200510T162856Z">
+        <seg>[2255]&lt;1176&gt;Le fléau des insectes descend sur les cultures de |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2256]&lt;1177&gt; Area.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T162904Z" creationid="Olivier" creationdate="20200510T162904Z">
+        <seg>[2256]&lt;1177&gt; Région.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2257]&lt;1178&gt; Blacked Out for |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T163016Z" creationid="Olivier" creationdate="20200510T163016Z">
+        <seg>[2257]&lt;1178&gt; Censuré pour |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2258]&lt;1179&gt; Hours!</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T163125Z" creationid="Olivier" creationdate="20200510T163023Z">
+        <seg>[2258]&lt;1179&gt; Heures !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2259]&lt;1180&gt; Worth of Goods from City's Retail Stores.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T163141Z" creationid="Olivier" creationdate="20200510T163118Z">
+        <seg>[2259]&lt;1180&gt; Valeur des marchandises des magasins de détail de la ville.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2260]&lt;1181&gt;Stock Exchange Dives |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T163212Z" creationid="Olivier" creationdate="20200510T163212Z">
+        <seg>[2260]&lt;1181&gt;Plongées en bourse |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2261]&lt;1182&gt;!</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T163217Z" creationid="Olivier" creationdate="20200510T163217Z">
+        <seg>[2261]&lt;1182&gt;!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2278]&lt;1198&gt;Player group |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T163444Z" creationid="Olivier" creationdate="20200510T163444Z">
+        <seg>[2278]&lt;1198&gt;Groupe de joueur|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2279]&lt;1199&gt; has left the game.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T163501Z" creationid="Olivier" creationdate="20200510T163501Z">
+        <seg>[2279]&lt;1199&gt; a quitté la partie.</seg>
       </tuv>
     </tu>
     <tu>
