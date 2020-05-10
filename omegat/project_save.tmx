@@ -47979,16 +47979,16 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1957]&lt;0906&gt;Cash:|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T084620Z" creationid="Olivier" creationdate="20200510T084603Z">
-        <seg>[1957]&lt;0906&gt;Trésorerie :|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T165611Z" creationid="Olivier" creationdate="20200510T084603Z">
+        <seg>[1957]&lt;0906&gt;Cash :|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1958]&lt;0907&gt;Profit:|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T084634Z" creationid="Olivier" creationdate="20200510T084609Z">
-        <seg>[1958]&lt;0907&gt;Bénéfice|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T165617Z" creationid="Olivier" creationdate="20200510T084609Z">
+        <seg>[1958]&lt;0907&gt;Bén.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -49841,6 +49841,46 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2292]&lt;1212&gt;I would like to buy this firm for |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T164753Z" creationid="Olivier" creationdate="20200510T164753Z">
+        <seg>[2292]&lt;1212&gt;Je voudrais acheter cet établissement pour |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2293]&lt;1213&gt;OK, I agree to sell this firm for |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T164814Z" creationid="Olivier" creationdate="20200510T164814Z">
+        <seg>[2293]&lt;1213&gt;OK, je suis d'accord de vendre l'établissement pour |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2294]&lt;1214&gt;The Securities and Exchange Commission does not approve your purchase.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T165712Z" creationid="Olivier" creationdate="20200510T165712Z">
+        <seg>[2294]&lt;1214&gt;La Commission des opérations de bourse n'approuve pas votre achat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2295]&lt;1215&gt;The Securities and Exchange Commission does not approve your purchase.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T165747Z" creationid="Olivier" creationdate="20200510T165747Z">
+        <seg>[2295]&lt;1215&gt;La Commission des opérations de bourse n'approuve pas votre achat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2296]&lt;1216&gt;The Securities and Exchange Commission does not approve your purchase.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T165826Z" creationid="Olivier" creationdate="20200510T165826Z">
+        <seg>[2296]&lt;1216&gt;La Commission des opérations de bourse n'approuve pas votre achat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2503]&lt;1393&gt;All products|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T093321Z" creationid="Inrepublica" creationdate="20200426T093321Z">
@@ -50911,6 +50951,22 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T091247Z" creationid="Olivier" creationdate="20200509T091247Z">
         <seg>\n \nLe terrain ne peut pas être vendu pour  |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>\nYou cannot use a corporation that you control to buy a stock in which you personally have ownership.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T165813Z" creationid="Olivier" creationdate="20200510T165735Z">
+        <seg>\nVous ne pouvez pas utiliser une société que vous contrôlez pour acheter une action dont vous êtes personnellement propriétaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>\nYou cannot use a corporation that you control to buy a stock in which your corporation or its subsidiary has ownership.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T165808Z" creationid="Olivier" creationdate="20200510T165808Z">
+        <seg>\nVous ne pouvez pas utiliser une société que vous contrôlez pour acheter une action dont votre société ou sa filiale est propriétaire.</seg>
       </tuv>
     </tu>
     <tu>
