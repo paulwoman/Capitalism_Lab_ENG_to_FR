@@ -48713,6 +48713,230 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2117]&lt;1038&gt; New Competitor|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T093236Z" creationid="Olivier" creationdate="20200510T093236Z">
+        <seg>[2117]&lt;1038&gt; Nouveau concurrent|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2118]&lt;1039&gt; Firm Setting Up|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T093256Z" creationid="Olivier" creationdate="20200510T093256Z">
+        <seg>[2118]&lt;1039&gt; Installer l'établissement|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2119]&lt;1040&gt; Firm Closing Down|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T093312Z" creationid="Olivier" creationdate="20200510T093312Z">
+        <seg>[2119]&lt;1040&gt; Fermeture d'un établissement|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2120]&lt;1041&gt; Competitor Bankrupts|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T093336Z" creationid="Olivier" creationdate="20200510T093336Z">
+        <seg>[2120]&lt;1041&gt; Concurrent en faillite|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2121]&lt;1042&gt; Resource Reserve Exhausted|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T093451Z" creationid="Olivier" creationdate="20200510T093451Z">
+        <seg>[2121]&lt;1042&gt;  Réserve de ressources épuisée|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2122]&lt;1043&gt; Resource DISCOVERY|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T093511Z" creationid="Olivier" creationdate="20200510T093511Z">
+        <seg>[2122]&lt;1043&gt; Ressource DÉCOUVERTE|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2123]&lt;1044&gt; Competitor Borrows Bank Loan|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T093548Z" creationid="Olivier" creationdate="20200510T093548Z">
+        <seg>[2123]&lt;1044&gt; Un concurrent emprunte un prêt bancaire|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2124]&lt;1045&gt; Competitor Repaies Bank Loan|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T093607Z" creationid="Olivier" creationdate="20200510T093607Z">
+        <seg>[2124]&lt;1045&gt; Un concurrent rembourse un prêt bancaire|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2125]&lt;1046&gt; Competitor Issues New Share|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T093626Z" creationid="Olivier" creationdate="20200510T093626Z">
+        <seg>[2125]&lt;1046&gt; Un concurrent émet de nouvelles actions|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2126]&lt;1047&gt; Competitor Buys/Sells Share|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T093645Z" creationid="Olivier" creationdate="20200510T093645Z">
+        <seg>[2126]&lt;1047&gt; Un concurrent achète/vend des actions|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2127]&lt;1048&gt; Competitor Takes/Loses Ownership|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T093721Z" creationid="Olivier" creationdate="20200510T093721Z">
+        <seg>[2127]&lt;1048&gt; Un concurrent a pris/a perdu le contrôle|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2128]&lt;1049&gt; MERGER|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T093733Z" creationid="Olivier" creationdate="20200510T093733Z">
+        <seg>[2128]&lt;1049&gt;Fusionner|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2129]&lt;1050&gt; Annual Stock Dividend|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T093752Z" creationid="Olivier" creationdate="20200510T093752Z">
+        <seg>[2129]&lt;1050&gt; Dividende annuel par action|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2130]&lt;1051&gt; Competitors Retires|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T093808Z" creationid="Olivier" creationdate="20200510T093808Z">
+        <seg>[2130]&lt;1051&gt; Des concurrents prennent leur retraite|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2131]&lt;1052&gt; Resource Discovered|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T093820Z" creationid="Olivier" creationdate="20200510T093820Z">
+        <seg>[2131]&lt;1052&gt; Ressource découverte|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2132]&lt;1053&gt; New City|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T093828Z" creationid="Olivier" creationdate="20200510T093828Z">
+        <seg>[2132]&lt;1053&gt; Nouvelle ville|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2133]&lt;1054&gt; Competitor Declares a Price War|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T093852Z" creationid="Olivier" creationdate="20200510T093852Z">
+        <seg>[2133]&lt;1054&gt; Un concurrent déclare une guerre des prix|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2134]&lt;1055&gt; Ultimate Dominance|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T093905Z" creationid="Olivier" creationdate="20200510T093905Z">
+        <seg>[2134]&lt;1055&gt; Domination ultime|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2135]&lt;1056&gt; Tender Offering|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T093918Z" creationid="Olivier" creationdate="20200510T093918Z">
+        <seg>[2135]&lt;1056&gt; Offre publique d'achat|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2136]&lt;1057&gt; Tender Offer|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T093928Z" creationid="Olivier" creationdate="20200510T093928Z">
+        <seg>[2136]&lt;1057&gt;Offre publique d'achat|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2137]&lt;1058&gt; Succeeding CEO|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T093941Z" creationid="Olivier" creationdate="20200510T093941Z">
+        <seg>[2137]&lt;1058&gt; Succède au PDG|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2138]&lt;1059&gt; New Invention|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T093951Z" creationid="Olivier" creationdate="20200510T093951Z">
+        <seg>[2138]&lt;1059&gt; Nouvelle invention|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2139]&lt;1060&gt; Technology Acquisition|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T094007Z" creationid="Olivier" creationdate="20200510T094007Z">
+        <seg>[2139]&lt;1060&gt; Acquisition de technologies|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2140]&lt;1061&gt; Animal Disease!|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T094019Z" creationid="Olivier" creationdate="20200510T094019Z">
+        <seg>[2140]&lt;1061&gt; Animal malade !|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2141]&lt;1062&gt; Fire!|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T094027Z" creationid="Olivier" creationdate="20200510T094027Z">
+        <seg>[2141]&lt;1062&gt; Feu !|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2142]&lt;1063&gt; Plague of Insects!</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T094114Z" creationid="Olivier" creationdate="20200510T094114Z">
+        <seg>[2142]&lt;1063&gt; Invasion d'insectes!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2143]&lt;1064&gt; Technology Breakthrough!|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T094140Z" creationid="Olivier" creationdate="20200510T094140Z">
+        <seg>[2143]&lt;1064&gt; Percée technologique !|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2146]&lt;1067&gt; Firm Acquisition|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T094153Z" creationid="Olivier" creationdate="20200510T094153Z">
+        <seg>[2146]&lt;1067&gt; Acquisition d'établissement|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2503]&lt;1393&gt;All products|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T093321Z" creationid="Inrepublica" creationdate="20200426T093321Z">
@@ -50159,6 +50383,14 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T115516Z" creationid="Olivier" creationdate="20200429T115516Z">
         <seg>retour</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T094115Z" creationid="Olivier" creationdate="20200510T094115Z">
+        <seg>|</seg>
       </tuv>
     </tu>
     <tu>
