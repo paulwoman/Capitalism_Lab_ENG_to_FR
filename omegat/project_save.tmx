@@ -48937,6 +48937,118 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2147]&lt;1068&gt; Stock Offer|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T094225Z" creationid="Olivier" creationdate="20200510T094225Z">
+        <seg>[2147]&lt;1068&gt; Offre publique d'achat|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2148]&lt;1069&gt; Merger!|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T094232Z" creationid="Olivier" creationdate="20200510T094232Z">
+        <seg>[2148]&lt;1069&gt;Fusionner|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2149]&lt;1070&gt; sets up Headquarters|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T094301Z" creationid="Olivier" creationdate="20200510T094245Z">
+        <seg>[2149]&lt;1070&gt; crée un siège social|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2152]&lt;1073&gt; sets up a Factory|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T094310Z" creationid="Olivier" creationdate="20200510T094254Z">
+        <seg>[2152]&lt;1073&gt; crée une usine|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2153]&lt;1074&gt; opens a R&amp;D Center|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T094624Z" creationid="Olivier" creationdate="20200510T094624Z">
+        <seg>[2153]&lt;1074&gt; ouvre un centres R&amp;D|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2154]&lt;1075&gt; sets up a Farm|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T094703Z" creationid="Olivier" creationdate="20200510T094638Z">
+        <seg>[2154]&lt;1075&gt; crée une ferme|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2155]&lt;1076&gt; sets up a Logging Camp|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T094808Z" creationid="Olivier" creationdate="20200510T094655Z">
+        <seg>[2155]&lt;1076&gt; crée un camp forestier|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2156]&lt;1077&gt; sets up a Mine|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T094822Z" creationid="Olivier" creationdate="20200510T094822Z">
+        <seg>[2156]&lt;1077&gt; crée une mine|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2157]&lt;1078&gt; Drills an Oil Well|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T094847Z" creationid="Olivier" creationdate="20200510T094847Z">
+        <seg>[2157]&lt;1078&gt; Forage d'un puits de pétrole|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2158]&lt;1079&gt;TV Station Started|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T094954Z" creationid="Olivier" creationdate="20200510T094954Z">
+        <seg>[2158]&lt;1079&gt;Démarrage de la station de télévision|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2159]&lt;1080&gt;Newspaper Publisher Started|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T095006Z" creationid="Olivier" creationdate="20200510T095006Z">
+        <seg>[2159]&lt;1080&gt;Début de l'activité d'éditeur de journaux|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2160]&lt;1081&gt;Radio Station Started|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T095038Z" creationid="Olivier" creationdate="20200510T095016Z">
+        <seg>[2160]&lt;1081&gt;Démarrage de la station radio|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2161]&lt;1082&gt;Seaport Opened|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T095051Z" creationid="Olivier" creationdate="20200510T095051Z">
+        <seg>[2161]&lt;1082&gt;Ouverture d'un port maritime|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2162]&lt;1083&gt; Builds a Mansion|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T101033Z" creationid="Olivier" creationdate="20200510T101033Z">
+        <seg>[2162]&lt;1083&gt; Construis un manoir|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2503]&lt;1393&gt;All products|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T093321Z" creationid="Inrepublica" creationdate="20200426T093321Z">
