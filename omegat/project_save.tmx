@@ -50297,6 +50297,110 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2349]&lt;1269&gt;( Total payment: |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T172849Z" creationid="Olivier" creationdate="20200510T172849Z">
+        <seg>[2349]&lt;1269&gt;( Payement total : |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2350]&lt;1270&gt;I would like to buy this stock for |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T172910Z" creationid="Olivier" creationdate="20200510T172910Z">
+        <seg>[2350]&lt;1270&gt;Je voudrais acheter cette action pour |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2351]&lt;1271&gt;I want to buy this mansion for |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T172923Z" creationid="Olivier" creationdate="20200510T172923Z">
+        <seg>[2351]&lt;1271&gt;Je veux acheter ce manoir pour |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2352]&lt;1272&gt; \nThe market value of this mansion is |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T172938Z" creationid="Olivier" creationdate="20200510T172938Z">
+        <seg>[2352]&lt;1272&gt; \nLa valeur marchande de ce manoir est |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2353]&lt;1273&gt;I would like to sell this mansion for |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T172952Z" creationid="Olivier" creationdate="20200510T172952Z">
+        <seg>[2353]&lt;1273&gt;Je voudrais vendre ce manoir pour |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2354]&lt;1274&gt;I would like to sell this mansion.\n|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T173008Z" creationid="Olivier" creationdate="20200510T173008Z">
+        <seg>[2354]&lt;1274&gt;Je voudrais vendre ce manoir.\n|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2355]&lt;1275&gt;How much can you offer?|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T173022Z" creationid="Olivier" creationdate="20200510T173022Z">
+        <seg>[2355]&lt;1275&gt;Combien pouvez-vous offrir ?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2356]&lt;1276&gt; \nThe market value of this mansion is |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T173039Z" creationid="Olivier" creationdate="20200510T173039Z">
+        <seg>[2356]&lt;1276&gt; \nLa valeur marchande de ce manoir est |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2357]&lt;1277&gt;I want to sell this mansion for |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T173049Z" creationid="Olivier" creationdate="20200510T173049Z">
+        <seg>[2357]&lt;1277&gt;Je souhaite vendre ce manoir pour |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2358]&lt;1278&gt; \nThe market value of this mansion is |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T173105Z" creationid="Olivier" creationdate="20200510T173105Z">
+        <seg>[2358]&lt;1278&gt; \nLa valeur marchande de ce manoir est |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2359]&lt;1279&gt;I would like to buy this mansion for |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T173115Z" creationid="Olivier" creationdate="20200510T173115Z">
+        <seg>[2359]&lt;1279&gt;Je voudrais acheter ce manoir pour |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2360]&lt;1280&gt;I want to buy this firm for |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T173146Z" creationid="Olivier" creationdate="20200510T173146Z">
+        <seg>[2360]&lt;1280&gt;Je veux acheter cet établissement pour |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2361]&lt;1281&gt; \nIts market value is |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T173208Z" creationid="Olivier" creationdate="20200510T173208Z">
+        <seg>[2361]&lt;1281&gt; \nSa valeur marchande est de |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2503]&lt;1393&gt;All products|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T093321Z" creationid="Inrepublica" creationdate="20200426T093321Z">
