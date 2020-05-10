@@ -48209,6 +48209,118 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2005]&lt;0950&gt;Clear Stock|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T091733Z" creationid="Olivier" creationdate="20200510T091733Z">
+        <seg>[2005]&lt;0950&gt;Vider les stocks </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2015]&lt;0960&gt;Brand Awareness|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T091746Z" creationid="Olivier" creationdate="20200510T091746Z">
+        <seg>[2015]&lt;0960&gt;Notoriété de la marque|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2016]&lt;0961&gt;Brand Loyalty|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T091755Z" creationid="Olivier" creationdate="20200510T091755Z">
+        <seg>[2016]&lt;0961&gt;Fidélité à la marque|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2017]&lt;0962&gt;Brand Rating|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T091806Z" creationid="Olivier" creationdate="20200510T091806Z">
+        <seg>[2017]&lt;0962&gt;Classement de la marque|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2020]&lt;0965&gt;Upgrade Tech|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T091825Z" creationid="Olivier" creationdate="20200510T091825Z">
+        <seg>[2020]&lt;0965&gt;Mettre à jour la technologie|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2024]&lt;0969&gt;Current Technology Level: |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T091841Z" creationid="Olivier" creationdate="20200510T091841Z">
+        <seg>[2024]&lt;0969&gt;Niveau actuel de la technologie |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2025]&lt;0970&gt;\n\nTarget Technology Level: |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T091858Z" creationid="Olivier" creationdate="20200510T091858Z">
+        <seg>[2025]&lt;0970&gt;\n\nNiveau de technologie cible : |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2026]&lt;0971&gt;\n\nThe current functional unit will be downgraded |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T091924Z" creationid="Olivier" creationdate="20200510T091924Z">
+        <seg>[2026]&lt;0971&gt;\n\n L'unité fonctionnelle actuelle sera déclassée |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2027]&lt;0972&gt;from level |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T091941Z" creationid="Olivier" creationdate="20200510T091941Z">
+        <seg>[2027]&lt;0972&gt;à partir du niveau de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2028]&lt;0973&gt; to level |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T091953Z" creationid="Olivier" creationdate="20200510T091953Z">
+        <seg>[2028]&lt;0973&gt; au niveau |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2029]&lt;0974&gt;\n\nUpgrade now ?|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T092006Z" creationid="Olivier" creationdate="20200510T092006Z">
+        <seg>[2029]&lt;0974&gt;\n\nMettre à jour maintenant ?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2030]&lt;0975&gt;Product Quality|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T092015Z" creationid="Olivier" creationdate="20200510T092015Z">
+        <seg>[2030]&lt;0975&gt;Qualité du produit|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2032]&lt;0977&gt;Production Quality|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T092023Z" creationid="Olivier" creationdate="20200510T092023Z">
+        <seg>[2032]&lt;0977&gt;Qualité de la production|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2033]&lt;0978&gt;Raw Material Quality|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T092030Z" creationid="Olivier" creationdate="20200510T092030Z">
+        <seg>[2033]&lt;0978&gt;Qualité des matières premières|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2037]&lt;0982&gt;Link|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T085553Z" creationid="Inrepublica" creationdate="20200426T085553Z">
@@ -48217,10 +48329,386 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2038]&lt;0983&gt;Supplier|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T092052Z" creationid="Olivier" creationdate="20200510T092052Z">
+        <seg>[2038]&lt;0983&gt;Fournisseur|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2039]&lt;0984&gt;Stop Purchase|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T094618Z" creationid="Inrepublica" creationdate="20200426T094618Z">
         <seg>[2039]&lt;0984&gt;Stopper l'achat|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2041]&lt;0986&gt;Unit Level|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T092101Z" creationid="Olivier" creationdate="20200510T092101Z">
+        <seg>[2041]&lt;0986&gt;Niveau de l'unité|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2042]&lt;0987&gt;Cost+Freight|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T092137Z" creationid="Olivier" creationdate="20200510T092112Z">
+        <seg>[3042]&lt;0987&gt;Coût + fret|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2043]&lt;0988&gt;Quality|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T092126Z" creationid="Olivier" creationdate="20200510T092126Z">
+        <seg>[2043]&lt;0988&gt;Qualité|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2044]&lt;0989&gt;Brand|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T092232Z" creationid="Olivier" creationdate="20200510T092128Z">
+        <seg>[2044]&lt;0989&gt;Marque|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2045]&lt;0990&gt;Supply|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T092241Z" creationid="Olivier" creationdate="20200510T092241Z">
+        <seg>[2045]&lt;0990&gt;Approvisionnement|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2046]&lt;0991&gt;Demand|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T092250Z" creationid="Olivier" creationdate="20200510T092250Z">
+        <seg>[2046]&lt;0991&gt;Demande|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2049]&lt;0994&gt;SUPPLY STOPPED|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T092304Z" creationid="Olivier" creationdate="20200510T092304Z">
+        <seg>[2049]&lt;0994&gt;APPROVISIONNEMENT STOPPE|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2056]&lt;1001&gt;Reserve|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T092321Z" creationid="Olivier" creationdate="20200510T092313Z">
+        <seg>[2056]&lt;1001&gt;Réserve|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2059]&lt;1004&gt; years|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T092334Z" creationid="Olivier" creationdate="20200510T092316Z">
+        <seg>[2059]&lt;1004&gt; ans|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2060]&lt;1005&gt; year|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T092343Z" creationid="Olivier" creationdate="20200510T092343Z">
+        <seg>[2060]&lt;1005&gt; an|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2062]&lt;1007&gt;R&amp;D New Product|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T092406Z" creationid="Olivier" creationdate="20200510T092406Z">
+        <seg>[2062]&lt;1007&gt;R&amp;D un nouveau produit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2063]&lt;1008&gt;R&amp;D Tech|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T092418Z" creationid="Olivier" creationdate="20200510T092418Z">
+        <seg>[2063]&lt;1008&gt;Tech R&amp;D|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2064]&lt;1009&gt;Apply Tech|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T092433Z" creationid="Olivier" creationdate="20200510T092433Z">
+        <seg>[2064]&lt;1009&gt;Appliquer Tech|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2065]&lt;1010&gt;Terminate R&amp;D|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T092439Z" creationid="Olivier" creationdate="20200510T092439Z">
+        <seg>[2065]&lt;1010&gt;Terminer R&amp;D|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2070]&lt;1015&gt;New Product R&amp;D|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T092454Z" creationid="Olivier" creationdate="20200510T092454Z">
+        <seg>[2070]&lt;1015&gt;R&amp;D nouveau produit|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2073]&lt;1018&gt;Original Tech|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T092508Z" creationid="Olivier" creationdate="20200510T092508Z">
+        <seg>[2073]&lt;1018&gt;Tech originale|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2074]&lt;1019&gt;Target Tech|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T092531Z" creationid="Olivier" creationdate="20200510T092510Z">
+        <seg>[2074]&lt;1019&gt;Technologie cible|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2075]&lt;1020&gt;Progress|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T092539Z" creationid="Olivier" creationdate="20200510T092521Z">
+        <seg>[2075]&lt;1020&gt;Progression|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2078]&lt;1023&gt;Internal Sale|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T092557Z" creationid="Olivier" creationdate="20200510T092557Z">
+        <seg>[2078]&lt;1023&gt;Vente interne|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2084]&lt;1029&gt;Price|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T092607Z" creationid="Olivier" creationdate="20200510T092607Z">
+        <seg>[2084]&lt;1029&gt;Prix|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2091]&lt;1036&gt;Select|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T092621Z" creationid="Olivier" creationdate="20200510T092621Z">
+        <seg>[2091]&lt;1036&gt;Sélectionner|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2092]&lt;1037&gt;Input Material|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T092636Z" creationid="Olivier" creationdate="20200510T092636Z">
+        <seg>[2092]&lt;1037&gt;Matières premières</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2093]&lt;AR00&gt;Cattle|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T092649Z" creationid="Olivier" creationdate="20200510T092649Z">
+        <seg>[2093]&lt;AR00&gt;Bovin|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2094]&lt;AR01&gt;Sheep|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T092711Z" creationid="Olivier" creationdate="20200510T092711Z">
+        <seg>[2094]&lt;AR01&gt;Moutons|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2095]&lt;AR02&gt;Pig|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T092719Z" creationid="Olivier" creationdate="20200510T092719Z">
+        <seg>[2095]&lt;AR02&gt;Porc|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2096]&lt;AR03&gt;Chicken|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T092725Z" creationid="Olivier" creationdate="20200510T092725Z">
+        <seg>[2096]&lt;AR03&gt;Poulet|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2097]&lt;AR04&gt;Goat|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T092732Z" creationid="Olivier" creationdate="20200510T092732Z">
+        <seg>[2097]&lt;AR04&gt;Chèvre|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2098]&lt;AR05&gt;Goose|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T092737Z" creationid="Olivier" creationdate="20200510T092737Z">
+        <seg>[2098]&lt;AR05&gt;Oie|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2099]&lt;AR06&gt;Ostrich|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T092748Z" creationid="Olivier" creationdate="20200510T092748Z">
+        <seg>[2099]&lt;AR06&gt;Autruche|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2100]&lt;AR07&gt;Turkey|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T092753Z" creationid="Olivier" creationdate="20200510T092753Z">
+        <seg>[2100]&lt;AR07&gt;Turquie|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2101]&lt;AS00&gt;Cattle|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T092808Z" creationid="Olivier" creationdate="20200510T092808Z">
+        <seg>[2101]&lt;AS00&gt;&gt;Bovin|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2102]&lt;AS01&gt;Sheep|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T092816Z" creationid="Olivier" creationdate="20200510T092816Z">
+        <seg>[2012]&lt;AS01&gt;&gt;Moutons|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2103]&lt;AS02&gt;Pigs|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T092822Z" creationid="Olivier" creationdate="20200510T092822Z">
+        <seg>[2013]&lt;AS02&gt;&gt;Porc|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2104]&lt;AS03&gt;Chickens|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T092828Z" creationid="Olivier" creationdate="20200510T092828Z">
+        <seg>[2014]&lt;AS03&gt;&gt;Poulet|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2105]&lt;AS04&gt;Goats|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T092835Z" creationid="Olivier" creationdate="20200510T092835Z">
+        <seg>[2015]&lt;AS04&gt;&gt;Chèvre|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2106]&lt;AS05&gt;Geese|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T092849Z" creationid="Olivier" creationdate="20200510T092849Z">
+        <seg>[2106]&lt;AS05&gt;Oies|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2107]&lt;AS06&gt;Ostriches|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T092904Z" creationid="Olivier" creationdate="20200510T092904Z">
+        <seg>[2107]&lt;AS06&gt;&gt;Autruches|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2108]&lt;AS07&gt;Turkeys|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T092917Z" creationid="Olivier" creationdate="20200510T092917Z">
+        <seg>[2108]&lt;AS07&gt;&gt;Turquie|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2109]&lt;AT00&gt;Operations News|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T093027Z" creationid="Olivier" creationdate="20200510T092931Z">
+        <seg>[2109]&lt;AT00&gt;Actualités des opérations|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2110]&lt;AT01&gt;Financial News|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T093032Z" creationid="Olivier" creationdate="20200510T092939Z">
+        <seg>[2110]&lt;AT01&gt;Actualités financières|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2111]&lt;AT02&gt;Technology News|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T093038Z" creationid="Olivier" creationdate="20200510T092948Z">
+        <seg>[2111]&lt;AT02&gt;Actualité des technologies|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2112]&lt;AT03&gt;Special News|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T093049Z" creationid="Olivier" creationdate="20200510T092955Z">
+        <seg>[2112]&lt;AT03&gt;Actualités spéciales|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2113]&lt;AU00&gt;News related to all corporations|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T093055Z" creationid="Olivier" creationdate="20200510T093011Z">
+        <seg>[2113]&lt;AU00&gt;Actualités relative à toutes les entreprises|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2114]&lt;AU01&gt;News related to corporations that you control + Special news|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T093108Z" creationid="Olivier" creationdate="20200510T093017Z">
+        <seg>[2114]&lt;AU01&gt;Actualités relatives aux sociétés que vous contrôlez + Actualités spéciales|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2115]&lt;AU02&gt;News related to your corporation + Special news|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T093138Z" creationid="Olivier" creationdate="20200510T093138Z">
+        <seg>[2115]&lt;AU02&gt;Actualités relatives à votre société + Nouvelles spéciales|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2116]&lt;AU03&gt;Special news only|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T093216Z" creationid="Olivier" creationdate="20200510T093216Z">
+        <seg>[2116]&lt;AU03&gt;Nouvelles spéciales seulement|</seg>
       </tuv>
     </tu>
     <tu>
