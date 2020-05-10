@@ -49299,16 +49299,248 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2202]&lt;1123&gt; Buys |</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T160919Z" creationid="Olivier" creationdate="20200510T160919Z">
-        <seg>[2202]&lt;1123&gt; Achats|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T161652Z" creationid="Olivier" creationdate="20200510T160919Z">
+        <seg>[2202]&lt;1123&gt; Achète |</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2203]&lt;1124&gt; Sells |</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T161600Z" creationid="Olivier" creationdate="20200510T161600Z">
-        <seg>[1106]&lt;0261&gt;Vente|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T161648Z" creationid="Olivier" creationdate="20200510T161600Z">
+        <seg>[2203]&lt;1124&gt; Vend |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2204]&lt;1125&gt; Shares of |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T161626Z" creationid="Olivier" creationdate="20200510T161605Z">
+        <seg>[2204]&lt;1125&gt; Actions de |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2205]&lt;1126&gt;its Own Stock|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T161713Z" creationid="Olivier" creationdate="20200510T161629Z">
+        <seg>[2205]&lt;1126&gt;ses propres actions|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2206]&lt;1127&gt; at |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T161719Z" creationid="Olivier" creationdate="20200510T161719Z">
+        <seg>[2206]&lt;1127&gt; à |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2207]&lt;1128&gt; Per Share.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T161728Z" creationid="Olivier" creationdate="20200510T161728Z">
+        <seg>[2207]&lt;1128&gt; Par action.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2208]&lt;1129&gt; Takes Control of |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T161742Z" creationid="Olivier" creationdate="20200510T161742Z">
+        <seg>[2208]&lt;1129&gt; Prend le contrôle de |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2209]&lt;1130&gt; Loses Control of |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T161755Z" creationid="Olivier" creationdate="20200510T161755Z">
+        <seg>[2209]&lt;1130&gt; Perd le contrôle de |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2210]&lt;1131&gt;FRIENDLY MERGER!</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T161816Z" creationid="Olivier" creationdate="20200510T161816Z">
+        <seg>[2210]&lt;1131&gt;FUSION AMICALE !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2211]&lt;1132&gt;MERGER!</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T161837Z" creationid="Olivier" creationdate="20200510T161837Z">
+        <seg>[2211]&lt;1132&gt;FUSIONNER !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2212]&lt;1133&gt; Merges with |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T161849Z" creationid="Olivier" creationdate="20200510T161849Z">
+        <seg>[2212]&lt;1133&gt; Fusionne avec |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2213]&lt;1134&gt; Pays an Annual Stock Dividend of |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T161938Z" creationid="Olivier" creationdate="20200510T161938Z">
+        <seg>[2213]&lt;1134&gt; verse un dividende annuel en actions de |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2214]&lt;1135&gt; Per Share.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T161946Z" creationid="Olivier" creationdate="20200510T161946Z">
+        <seg>[2214]&lt;1135&gt; Par action.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2215]&lt;1136&gt; of the Stock Price).|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T162032Z" creationid="Olivier" creationdate="20200510T162032Z">
+        <seg>[2215]&lt;1136&gt;au cours de l'action).|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2216]&lt;1137&gt; Retires after |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T162046Z" creationid="Olivier" creationdate="20200510T162046Z">
+        <seg>[2216]&lt;1137&gt; Prend sa retraite après |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2217]&lt;1138&gt; Years of Service as the CEO of |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T162114Z" creationid="Olivier" creationdate="20200510T162114Z">
+        <seg>[2217]&lt;1138&gt; Années de services en tant que PDG de |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2227]&lt;1148&gt; Buys |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T162124Z" creationid="Olivier" creationdate="20200510T162124Z">
+        <seg>[2227]&lt;1148&gt; Achète |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2228]&lt;1149&gt;Back |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T162140Z" creationid="Olivier" creationdate="20200510T162140Z">
+        <seg>[2228]&lt;1149&gt;Revenir |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2229]&lt;1150&gt; Shares of |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T162153Z" creationid="Olivier" creationdate="20200510T162153Z">
+        <seg>[2229]&lt;1150&gt; Actions de |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2230]&lt;1151&gt;its Own Stock|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T162207Z" creationid="Olivier" creationdate="20200510T162207Z">
+        <seg>[2230]&lt;1151&gt;ses propres actions|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2231]&lt;1152&gt; from |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T162213Z" creationid="Olivier" creationdate="20200510T162213Z">
+        <seg>[2231]&lt;1152&gt; de |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2232]&lt;1153&gt; at |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T162218Z" creationid="Olivier" creationdate="20200510T162218Z">
+        <seg>[2232]&lt;1153&gt; à |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2233]&lt;1154&gt; Per Share.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T162228Z" creationid="Olivier" creationdate="20200510T162228Z">
+        <seg>[2233]&lt;1154&gt; Par action.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2234]&lt;1155&gt; Succeeds |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T162257Z" creationid="Olivier" creationdate="20200510T162257Z">
+        <seg>[2234]&lt;1155&gt; Succède|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2235]&lt;1156&gt; as the CEO of |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T162311Z" creationid="Olivier" creationdate="20200510T162311Z">
+        <seg>[2235]&lt;1156&gt; en tant que PDG de |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2236]&lt;1157&gt;Researchers at |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T162338Z" creationid="Olivier" creationdate="20200510T162325Z">
+        <seg>[2236]&lt;1157&gt;Les chercheurs du |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2237]&lt;1158&gt;'s R&amp;D Center Announce Invention.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T162407Z" creationid="Olivier" creationdate="20200510T162335Z">
+        <seg>[2237]&lt;1158&gt;'centres de R&amp;D annoncent une invention.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2238]&lt;1159&gt; Unveiled at Press Conference.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T162422Z" creationid="Olivier" creationdate="20200510T162422Z">
+        <seg>[2238]&lt;1159&gt; Dévoilé lors de la conférence de presse.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2241]&lt;1162&gt;Unknown Disease Decimates |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T162440Z" creationid="Olivier" creationdate="20200510T162440Z">
+        <seg>[2241]&lt;1162&gt;Une maladie inconnue décime |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2242]&lt;1163&gt; Population in |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T162503Z" creationid="Olivier" creationdate="20200510T162503Z">
+        <seg>[2242]&lt;1163&gt; Population de |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2243]&lt;1164&gt; Area.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T162518Z" creationid="Olivier" creationdate="20200510T162518Z">
+        <seg>[2243]&lt;1164&gt; Région.</seg>
       </tuv>
     </tu>
     <tu>
