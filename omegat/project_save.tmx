@@ -14531,8 +14531,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>How much can you pay?|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T164734Z" creationid="Olivier" creationdate="20200510T164734Z">
-        <seg>Combien pouvez-vous payer ?</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T165852Z" creationid="Olivier" creationdate="20200510T164734Z">
+        <seg>Combien pouvez-vous payer ?|</seg>
       </tuv>
     </tu>
     <tu>
@@ -36074,6 +36074,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Will you accept this offer?|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T170628Z" creationid="Olivier" creationdate="20200510T170628Z">
+        <seg>Acceptez-vous cette offre ?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Window=Bottom Toolbar</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T122747Z" creationid="Inrepublica" creationdate="20200423T122747Z">
@@ -49715,8 +49723,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2260]&lt;1181&gt;Stock Exchange Dives |</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T163212Z" creationid="Olivier" creationdate="20200510T163212Z">
-        <seg>[2260]&lt;1181&gt;Plongées en bourse |</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T165916Z" creationid="Olivier" creationdate="20200510T163212Z">
+        <seg>[2260]&lt;1181&gt;Plongée en bourse |</seg>
       </tuv>
     </tu>
     <tu>
@@ -49835,8 +49843,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2291]&lt;1211&gt;I want to sell this firm.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T164722Z" creationid="Olivier" creationdate="20200510T164722Z">
-        <seg>[2291]&lt;1211&gt;Je veux vendre cet établissement.|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T165859Z" creationid="Olivier" creationdate="20200510T164722Z">
+        <seg>[2291]&lt;1211&gt;Je veux vendre cet établissement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49877,6 +49885,222 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T165826Z" creationid="Olivier" creationdate="20200510T165826Z">
         <seg>[2296]&lt;1216&gt;La Commission des opérations de bourse n'approuve pas votre achat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2297]&lt;1217&gt;I don't want to sell my firm at this price to you.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T170050Z" creationid="Olivier" creationdate="20200510T170050Z">
+        <seg>[2297]&lt;1217&gt;Je ne veux pas vous vendre mon entreprise à ce prix.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2298]&lt;1218&gt;I don't want to sell my stock to you.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T170106Z" creationid="Olivier" creationdate="20200510T170106Z">
+        <seg>[2298]&lt;1218&gt;Je ne veux pas vous vendre mes actions|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2299]&lt;1219&gt;I reject your offer and demand |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T170120Z" creationid="Olivier" creationdate="20200510T170120Z">
+        <seg>[2299]&lt;1219&gt;e rejette votre offre et votre demande |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2300]&lt;1220&gt; per share.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T170133Z" creationid="Olivier" creationdate="20200510T170133Z">
+        <seg>[2300]&lt;1220&gt; par action.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2301]&lt;1221&gt;( Total payment: |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T170212Z" creationid="Olivier" creationdate="20200510T170212Z">
+        <seg>[2301]&lt;1221&gt;( Payement total : |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2302]&lt;1222&gt;You don't have enough cash to purchase my stock.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T170226Z" creationid="Olivier" creationdate="20200510T170226Z">
+        <seg>[2302]&lt;1222&gt;Vous n'avez pas assez d'argent pour acheter mes actions.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2303]&lt;1223&gt;How would you prefer to acquire the remaining shares of |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T170241Z" creationid="Olivier" creationdate="20200510T170241Z">
+        <seg>[2303]&lt;1223&gt;Comment préféreriez-vous acquérir les actions restantes de |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2304]&lt;1224&gt;1) By paying |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T170256Z" creationid="Olivier" creationdate="20200510T170256Z">
+        <seg>[2304]&lt;1224&gt;1) En payant |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2305]&lt;1225&gt;) cash|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T170320Z" creationid="Olivier" creationdate="20200510T170320Z">
+        <seg>[2305]&lt;1225&gt;trésorerie|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2306]&lt;1226&gt;2) By issuing |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T170352Z" creationid="Olivier" creationdate="20200510T170352Z">
+        <seg>[2306]&lt;1226&gt;2) En émettant |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2307]&lt;1227&gt; new shares of |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T170406Z" creationid="Olivier" creationdate="20200510T170406Z">
+        <seg>[2307]&lt;1227&gt; nouvelles actions à |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2308]&lt;1228&gt; in exchange with |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T170415Z" creationid="Olivier" creationdate="20200510T170415Z">
+        <seg>[2308]&lt;1228&gt; en échange de |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2309]&lt;1229&gt; shares|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T170430Z" creationid="Olivier" creationdate="20200510T170430Z">
+        <seg>[2309]&lt;1229&gt; actions|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2310]&lt;1230&gt; offers you |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T170437Z" creationid="Olivier" creationdate="20200510T170437Z">
+        <seg>[2310]&lt;1230&gt; vous offre |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2311]&lt;1231&gt; per share for buying |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T170450Z" creationid="Olivier" creationdate="20200510T170450Z">
+        <seg>[2311]&lt;1231&gt; par action pour acheter |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2312]&lt;1232&gt;back |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T170509Z" creationid="Olivier" creationdate="20200510T170509Z">
+        <seg>[2312]&lt;1232&gt;revenir |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2313]&lt;1233&gt; shares (|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T170525Z" creationid="Olivier" creationdate="20200510T170518Z">
+        <seg>[2313]&lt;1233&gt; actions (|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2314]&lt;1234&gt;) of |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T170534Z" creationid="Olivier" creationdate="20200510T170520Z">
+        <seg>[2314]&lt;1234&gt;) de |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2315]&lt;1235&gt;its own stock|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T170545Z" creationid="Olivier" creationdate="20200510T170545Z">
+        <seg>[2315]&lt;1235&gt;ses propres actions|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2316]&lt;1236&gt; held by |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T170554Z" creationid="Olivier" creationdate="20200510T170554Z">
+        <seg>[2316]&lt;1236&gt; détenu par |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2317]&lt;1237&gt;The market price of the stock is |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T170612Z" creationid="Olivier" creationdate="20200510T170612Z">
+        <seg>[2317]&lt;1237&gt;Le prix du marché de l'action est |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2318]&lt;1238&gt;.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T170615Z" creationid="Olivier" creationdate="20200510T170615Z">
+        <seg>[2318]&lt;1238&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2319]&lt;1239&gt;I want to sell this mansion for |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T170649Z" creationid="Olivier" creationdate="20200510T170649Z">
+        <seg>[2319]&lt;1239&gt;Je souhaite vendre ce manoir pour |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2320]&lt;1240&gt; \nThe market value of this mansion is |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T170705Z" creationid="Olivier" creationdate="20200510T170705Z">
+        <seg>[2320]&lt;1240&gt; \nLa valeur marchande de ce manoir est de |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2321]&lt;1241&gt;The market value of this mansion is |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T170725Z" creationid="Olivier" creationdate="20200510T170725Z">
+        <seg>[2321]&lt;1241&gt;La valeur marchande de ce manoir est de |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2322]&lt;1242&gt;.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T170727Z" creationid="Olivier" creationdate="20200510T170727Z">
+        <seg>[2322]&lt;1242&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2323]&lt;1243&gt;I would like to buy this mansion for |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T172122Z" creationid="Olivier" creationdate="20200510T172122Z">
+        <seg>[2323]&lt;1243&gt;Je voudrais acheter ce manoir pour |</seg>
       </tuv>
     </tu>
     <tu>
@@ -50955,18 +51179,42 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>\nHow much can you pay ?|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T170742Z" creationid="Olivier" creationdate="20200510T170742Z">
+        <seg>\nCombien pouvez-vous payer ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>\nWill you accept this offer?|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T170154Z" creationid="Olivier" creationdate="20200510T170154Z">
+        <seg>\nAcceptez-vous cette offre ?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>\nYou cannot buy a stock in which your corporation or its subsidiary has ownership.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T170027Z" creationid="Olivier" creationdate="20200510T165840Z">
+        <seg>\nVous ne pouvez pas acheter une action dont votre société ou sa filiale est propriétaire.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>\nYou cannot use a corporation that you control to buy a stock in which you personally have ownership.|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T165813Z" creationid="Olivier" creationdate="20200510T165735Z">
-        <seg>\nVous ne pouvez pas utiliser une société que vous contrôlez pour acheter une action dont vous êtes personnellement propriétaire.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T170002Z" creationid="Olivier" creationdate="20200510T165735Z">
+        <seg>\nVous ne pouvez pas utiliser une société que vous contrôlez pour acheter une action dont vous êtes personnellement propriétaire.|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>\nYou cannot use a corporation that you control to buy a stock in which your corporation or its subsidiary has ownership.|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T165808Z" creationid="Olivier" creationdate="20200510T165808Z">
-        <seg>\nVous ne pouvez pas utiliser une société que vous contrôlez pour acheter une action dont votre société ou sa filiale est propriétaire.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T170008Z" creationid="Olivier" creationdate="20200510T165808Z">
+        <seg>\nVous ne pouvez pas utiliser une société que vous contrôlez pour acheter une action dont votre société ou sa filiale est propriétaire.|</seg>
       </tuv>
     </tu>
     <tu>
