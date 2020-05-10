@@ -49131,16 +49131,112 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2177]&lt;1098&gt;NEWCOMER!</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T155111Z" creationid="Olivier" creationdate="20200510T155111Z">
-        <seg>[2177]&lt;1098&gt;NOUVEAU VENU!</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T155438Z" creationid="Olivier" creationdate="20200510T155111Z">
+        <seg>[2177]&lt;1098&gt;NOUVEAU VENU !</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2178]&lt;1099&gt; Joins the Competition.|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T155308Z" creationid="Olivier" creationdate="20200510T155308Z">
-        <seg>[2178]&lt;1099&gt; Joins the Competition.|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T155459Z" creationid="Olivier" creationdate="20200510T155308Z">
+        <seg>[2178]&lt;1099&gt; Rejoint la compétition|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2179]&lt;1100&gt;BANKRUPTCY!</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T155501Z" creationid="Olivier" creationdate="20200510T155501Z">
+        <seg>[2179]&lt;1100&gt;BANKRUPTCY!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2181]&lt;1102&gt; Goes Bankrupt after |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T160204Z" creationid="Olivier" creationdate="20200510T160204Z">
+        <seg>[2181]&lt;1102&gt;  Est tombé en faillite après |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2182]&lt;1103&gt; Year|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T160230Z" creationid="Olivier" creationdate="20200510T160207Z">
+        <seg>[2182]&lt;1103&gt; An|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2183]&lt;1104&gt; Years|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T160239Z" creationid="Olivier" creationdate="20200510T160215Z">
+        <seg>[2183]&lt;1104&gt; Ans|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2184]&lt;1105&gt; of Operation.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T160252Z" creationid="Olivier" creationdate="20200510T160252Z">
+        <seg>[2184]&lt;1105&gt;d’opération.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2185]&lt;1106&gt; The Shareholders Received |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T160321Z" creationid="Olivier" creationdate="20200510T160321Z">
+        <seg>[2185]&lt;1106&gt; Les actionnaires ont reçus |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2186]&lt;1107&gt; Per Share.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T160331Z" creationid="Olivier" creationdate="20200510T160331Z">
+        <seg>[2186]&lt;1107&gt; Par action.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2187]&lt;1108&gt; Reserve near |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T160344Z" creationid="Olivier" creationdate="20200510T160344Z">
+        <seg>[2187]&lt;1108&gt; Réserve près de |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2188]&lt;1109&gt; Exhausted.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T160357Z" creationid="Olivier" creationdate="20200510T160357Z">
+        <seg>[2188]&lt;1109&gt; Épuise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2189]&lt;1110&gt;Production at the |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T160422Z" creationid="Olivier" creationdate="20200510T160422Z">
+        <seg>[2189]&lt;1110&gt;Production à la|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2190]&lt;1111&gt; Owned by |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T160441Z" creationid="Olivier" creationdate="20200510T160441Z">
+        <seg>[2190]&lt;1111&gt; Possédé par |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2191]&lt;1112&gt; Ceases.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T160509Z" creationid="Olivier" creationdate="20200510T160509Z">
+        <seg>[2191]&lt;1112&gt; Cesse.|</seg>
       </tuv>
     </tu>
     <tu>
