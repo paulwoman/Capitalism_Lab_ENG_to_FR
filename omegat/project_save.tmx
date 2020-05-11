@@ -37499,6 +37499,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Your current technology level is %3s.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T091053Z" creationid="Olivier" creationdate="20200511T091053Z">
+        <seg>Votre niveau technologique actuel est de %3s.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Your cursor now highlights a square on the city.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T141414Z" creationid="Olivier" creationdate="20200423T124651Z">
@@ -47995,8 +48003,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1958]&lt;0907&gt;Profit:|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T165617Z" creationid="Olivier" creationdate="20200510T084609Z">
-        <seg>[1958]&lt;0907&gt;Bén.|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T085624Z" creationid="Olivier" creationdate="20200510T084609Z">
+        <seg>[1958]&lt;0907&gt;Profit : |</seg>
       </tuv>
     </tu>
     <tu>
@@ -50461,6 +50469,30 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T085432Z" creationid="Olivier" creationdate="20200511T085432Z">
         <seg>[2368]&lt;1288&gt;Je voudrais acheter cet établissement pour |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2369]&lt;1289&gt;I want to buy the production technology of %1s from you for %2s.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T091048Z" creationid="Olivier" creationdate="20200511T091048Z">
+        <seg>[2369]&lt;1289&gt;Je veux vous acheter la technologie de production de %1s pour %2s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2370]&lt;1290&gt;I will only sell this technology for |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T091108Z" creationid="Olivier" creationdate="20200511T091108Z">
+        <seg>[2370]&lt;1290&gt;Je ne vendrai cette technologie que pour |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2371]&lt;1291&gt;I would like to sell this technology.\n|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T094827Z" creationid="Olivier" creationdate="20200511T094827Z">
+        <seg>[2371]&lt;1291&gt;Je voudrais vendre cette technologie.\n|</seg>
       </tuv>
     </tu>
     <tu>
