@@ -51403,16 +51403,24 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2518]&lt;1408&gt;Your large quantity stock purchase put an upward pressure on the stock price.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T105540Z" creationid="Olivier" creationdate="20200511T105540Z">
-        <seg>[2518]&lt;1408&gt;Votre achat d'actions en grande quantité a exercé une pression à la hausse sur le prix de l'action.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T123239Z" creationid="Olivier" creationdate="20200511T105540Z">
+        <seg>[2518]&lt;1408&gt;Votre achat d'actions en grande quantité a exercé une pression à la hausse du prix de l'action.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2519]&lt;1409&gt;Your large quantity stock sale put a downward pressure on the stock price.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T114826Z" creationid="Olivier" creationdate="20200511T114826Z">
-        <seg>[2519]&lt;1409&gt;Your large quantity stock sale put a downward pressure on the stock price.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T123233Z" creationid="Olivier" creationdate="20200511T114826Z">
+        <seg>[2519]&lt;1409&gt;Votre vente d'actions en grande quantité a exercé une pression à la baisse du prix de l'action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2520]&lt;1410&gt;The stock price rose from |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T123209Z" creationid="Olivier" creationdate="20200511T123209Z">
+        <seg>[2520]&lt;1410&gt;The stock price rose from |</seg>
       </tuv>
     </tu>
     <tu>
