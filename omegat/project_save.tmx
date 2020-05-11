@@ -51777,6 +51777,270 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2582]&lt;1463&gt;Yes All|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T152746Z" creationid="Olivier" creationdate="20200511T152746Z">
+        <seg>[2582]&lt;1463&gt;Oui à tout|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2583]&lt;1464&gt;Ignore|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T152748Z" creationid="Olivier" creationdate="20200511T152748Z">
+        <seg>[2571]&lt;1452&gt;Ignorer|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2584]&lt;1465&gt;Ignore All|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T152757Z" creationid="Olivier" creationdate="20200511T152757Z">
+        <seg>[2584]&lt;1465&gt;Ignorer tout|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2585]&lt;1466&gt;City|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T152828Z" creationid="Olivier" creationdate="20200511T152806Z">
+        <seg>[2585]&lt;1466&gt;Ville|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2586]&lt;1467&gt;Population|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T152822Z" creationid="Olivier" creationdate="20200511T152822Z">
+        <seg>[2586]&lt;1467&gt;Population</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2588]&lt;1469&gt;Real Wage Rate|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T152915Z" creationid="Olivier" creationdate="20200511T152906Z">
+        <seg>[2588]&lt;1469&gt;Taux salarial réel|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2589]&lt;1470&gt;Unemployment Rate|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T152952Z" creationid="Olivier" creationdate="20200511T152952Z">
+        <seg>[2589]&lt;1470&gt;Taux de chômage|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2590]&lt;1471&gt;Current city|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T153003Z" creationid="Olivier" creationdate="20200511T152954Z">
+        <seg>[2590]&lt;1471&gt;Ville actuelle|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2591]&lt;1472&gt;Your Final Score|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T153012Z" creationid="Olivier" creationdate="20200511T152955Z">
+        <seg>[2591]&lt;1472&gt;Votre score final|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2594]&lt;1475&gt;The Corporation Name and Player Name cannot be empty.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T153026Z" creationid="Olivier" creationdate="20200511T153026Z">
+        <seg>[2594]&lt;1475&gt;Le nom de la société et le nom du joueur ne peuvent pas être vides.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2595]&lt;1476&gt;The Player Name cannot be empty.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T153318Z" creationid="Olivier" creationdate="20200511T153318Z">
+        <seg>[2595]&lt;1476&gt;Le nom du joueur ne peut pas être vide.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2596]&lt;1477&gt;The Corporation Name cannot be empty.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T153328Z" creationid="Olivier" creationdate="20200511T153328Z">
+        <seg>[2596]&lt;1477&gt;Le nom de la société ne peut pas être vide.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2599]&lt;1479&gt;Select Building Type|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T153341Z" creationid="Olivier" creationdate="20200511T153341Z">
+        <seg>[2599]&lt;1479&gt;Sélectionnez le type de bâtiments|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2600]&lt;1480&gt;Not enough cash|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T153350Z" creationid="Olivier" creationdate="20200511T153350Z">
+        <seg>[2600]&lt;1480&gt;Pas assez d'argent|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2601]&lt;1481&gt;OK, I agree to sell my stock.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T153353Z" creationid="Olivier" creationdate="20200511T153353Z">
+        <seg>[2601]&lt;1481&gt;OK, I agree to sell my stock.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2602]&lt;1482&gt;Randomize|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T153454Z" creationid="Olivier" creationdate="20200511T153454Z">
+        <seg>[2602]&lt;1482&gt;Aléatoire|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2605]&lt;1485&gt;enabled the cheat mode.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T153509Z" creationid="Olivier" creationdate="20200511T153509Z">
+        <seg>[2605]&lt;1485&gt;a activé le mode triche.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2606]&lt;1486&gt;Setup Cost|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T153519Z" creationid="Olivier" creationdate="20200511T153519Z">
+        <seg>[2606]&lt;1486&gt;Coût d'installation|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2607]&lt;1487&gt;I want to buy your %1s for %2s.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T153540Z" creationid="Olivier" creationdate="20200511T153540Z">
+        <seg>[2607]&lt;1487&gt;Je veux acheter votre %1s for %2s.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2608]&lt;1488&gt;Year|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T153552Z" creationid="Olivier" creationdate="20200511T153552Z">
+        <seg>[2608]&lt;1488&gt;Ans|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2609]&lt;1489&gt;Building cost: |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T153606Z" creationid="Olivier" creationdate="20200511T153606Z">
+        <seg>[2609]&lt;1489&gt;Coût de construction : |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2610]&lt;1490&gt;Annual return on investment:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T153623Z" creationid="Olivier" creationdate="20200511T153623Z">
+        <seg>[2610]&lt;1490&gt;Retour annuel sur l'investissement :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2611]&lt;1491&gt;Market Share for past 36 months|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T153636Z" creationid="Olivier" creationdate="20200511T153636Z">
+        <seg>[2611]&lt;1491&gt;Part de marché pour les 36 derniers mois|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2612]&lt;1492&gt; Point|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T153639Z" creationid="Olivier" creationdate="20200511T153639Z">
+        <seg>[1370]&lt;0435&gt; Points|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2613]&lt;1493&gt;Clear|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T153719Z" creationid="Olivier" creationdate="20200511T153719Z">
+        <seg>[2613]&lt;1493&gt;Clair|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2614]&lt;1494&gt;Clients|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T153733Z" creationid="Olivier" creationdate="20200511T153733Z">
+        <seg>[2614]&lt;1494&gt;Clients|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2615]&lt;1495&gt;Firm Type|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T153747Z" creationid="Olivier" creationdate="20200511T153747Z">
+        <seg>[2615]&lt;1495&gt;Type d'établissement|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2616]&lt;1496&gt;Monthly Purchase|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T153759Z" creationid="Olivier" creationdate="20200511T153759Z">
+        <seg>[2616]&lt;1496&gt;Achat mensuel|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2618]&lt;1498&gt;NEWS|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T153806Z" creationid="Olivier" creationdate="20200511T153806Z">
+        <seg>[2618]&lt;1498&gt;NOUVELLES|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2619]&lt;1499&gt;Price|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T153814Z" creationid="Olivier" creationdate="20200511T153814Z">
+        <seg>[2619]&lt;1499&gt;Prix|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2621]&lt;1501&gt;New Price|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T153822Z" creationid="Olivier" creationdate="20200511T153822Z">
+        <seg>[2621]&lt;1501&gt;Nouveau prix|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2622]&lt;1502&gt;Size|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T153828Z" creationid="Olivier" creationdate="20200511T153828Z">
+        <seg>[2622]&lt;1502&gt;Taille|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2623]&lt;1503&gt;All Cities|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T153838Z" creationid="Olivier" creationdate="20200511T153838Z">
+        <seg>[2623]&lt;0103&gt;Toutes les villes|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2649]&lt;1529&gt;SKIP TUTORIAL|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T091002Z" creationid="Inrepublica" creationdate="20200426T091002Z">
