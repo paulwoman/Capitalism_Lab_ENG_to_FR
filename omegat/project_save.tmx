@@ -4720,8 +4720,8 @@
       <tuv lang="en-US">
         <seg>Buy Stock</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T104552Z" creationid="Olivier" creationdate="20200502T104552Z">
-        <seg>Acheter des actions</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T115702Z" creationid="Olivier" creationdate="20200502T104552Z">
+        <seg>Achat d'actions</seg>
       </tuv>
     </tu>
     <tu>
@@ -43971,16 +43971,16 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1117]&lt;0272&gt;Buy Stock|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T155401Z" creationid="Olivier" creationdate="20200508T155401Z">
-        <seg>[1117]&lt;0272&gt;Acheter des actions|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T115857Z" creationid="Olivier" creationdate="20200508T155401Z">
+        <seg>[1117]&lt;0272&gt;Achats|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1118]&lt;0273&gt;Sell Stock|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T155452Z" creationid="Olivier" creationdate="20200508T155452Z">
-        <seg>[1118]&lt;0273&gt;Vendre des actions|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T115903Z" creationid="Olivier" creationdate="20200508T155452Z">
+        <seg>[1118]&lt;0273&gt;Ventes|</seg>
       </tuv>
     </tu>
     <tu>
@@ -50611,8 +50611,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2387]&lt;AV00&gt;NONE|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T095234Z" creationid="Olivier" creationdate="20200511T095234Z">
-        <seg>[2387]&lt;AV00&gt;&gt;AUCUN|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T120422Z" creationid="Olivier" creationdate="20200511T095234Z">
+        <seg>[2387]&lt;AV00&gt;AUCUN|</seg>
       </tuv>
     </tu>
     <tu>
@@ -50851,24 +50851,24 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2436]&lt;AU01&gt;Moderate|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T101647Z" creationid="Olivier" creationdate="20200511T101647Z">
-        <seg>[2436]&lt;AU01&gt;&gt;Modérée|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T120422Z" creationid="Olivier" creationdate="20200511T101647Z">
+        <seg>[2436]&lt;AU01&gt;Modérée|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2437]&lt;AU02&gt;Aggressive|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T101655Z" creationid="Olivier" creationdate="20200511T101655Z">
-        <seg>[2437]&lt;AU02&gt;&gt;Agressif|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T120422Z" creationid="Olivier" creationdate="20200511T101655Z">
+        <seg>[2437]&lt;AU02&gt;Agressif|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2438]&lt;AU03&gt;Very Aggressive|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T101703Z" creationid="Olivier" creationdate="20200511T101703Z">
-        <seg>[2438]&lt;AU03&gt;&gt;Très agressif|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T120422Z" creationid="Olivier" creationdate="20200511T101703Z">
+        <seg>[2438]&lt;AU03&gt;Très agressif|</seg>
       </tuv>
     </tu>
     <tu>
@@ -50891,8 +50891,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2441]&lt;AV01&gt;Chairman|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T101741Z" creationid="Olivier" creationdate="20200511T101741Z">
-        <seg>[2441]&lt;AV01&gt;&gt;Président|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T120422Z" creationid="Olivier" creationdate="20200511T101741Z">
+        <seg>[2441]&lt;AV01&gt;Président|</seg>
       </tuv>
     </tu>
     <tu>
@@ -50995,8 +50995,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2454]&lt;AW05&gt;Chief Marketing Officer|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T102007Z" creationid="Olivier" creationdate="20200511T102007Z">
-        <seg>[2454]&lt;AW05&gt;&gt;Directeur du marketing|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T120422Z" creationid="Olivier" creationdate="20200511T102007Z">
+        <seg>[2454]&lt;AW05&gt;Directeur du marketing|</seg>
       </tuv>
     </tu>
     <tu>
@@ -51011,8 +51011,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2456]&lt;AW07&gt;Chief Technical Officer|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T102036Z" creationid="Olivier" creationdate="20200511T102036Z">
-        <seg>[2456]&lt;AW07&gt;&gt;Directeur technique|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T120422Z" creationid="Olivier" creationdate="20200511T102036Z">
+        <seg>[2456]&lt;AW07&gt;Directeur technique|</seg>
       </tuv>
     </tu>
     <tu>
