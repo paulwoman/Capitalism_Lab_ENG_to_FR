@@ -50497,6 +50497,238 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2372]&lt;1292&gt;How much can you offer?|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T094838Z" creationid="Olivier" creationdate="20200511T094838Z">
+        <seg>[2372]&lt;1292&gt;Combien pouvez-vous offrir ?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2373]&lt;1293&gt;I want to sell this technology for |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T094916Z" creationid="Olivier" creationdate="20200511T094848Z">
+        <seg>[2373]&lt;1293&gt;Je veux vendre cette technologie pour |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2374]&lt;1294&gt;I would like to buy this technology for |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T094922Z" creationid="Olivier" creationdate="20200511T094912Z">
+        <seg>[2374]&lt;1294&gt;Je voudrais acheter cette technologie pour |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2375]&lt;1295&gt;, CEO, |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T094948Z" creationid="Olivier" creationdate="20200511T094948Z">
+        <seg>[2375]&lt;1295&gt;, PDG, |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2377]&lt;1297&gt;LOG|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T095027Z" creationid="Olivier" creationdate="20200511T095027Z">
+        <seg>[2377]&lt;1297&gt;LOG|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2378]&lt;1298&gt;PREVIOUS|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T095042Z" creationid="Olivier" creationdate="20200511T095042Z">
+        <seg>[2378]&lt;1298&gt;PRÉCÉDENT|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2379]&lt;1299&gt;NEXT|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T095049Z" creationid="Olivier" creationdate="20200511T095049Z">
+        <seg>[2379]&lt;1299&gt;Suivant|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2380]&lt;1300&gt;CLOSE|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T095109Z" creationid="Olivier" creationdate="20200511T095109Z">
+        <seg>[2380]&lt;1300&gt;FERMER|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2381]&lt;1301&gt;Invented|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T095115Z" creationid="Olivier" creationdate="20200511T095115Z">
+        <seg>[2381]&lt;1301&gt;Inventé|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2382]&lt;1302&gt;Known to You|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T095125Z" creationid="Olivier" creationdate="20200511T095125Z">
+        <seg>[2382]&lt;1302&gt;Connu de vous|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2383]&lt;AT00&gt;DISABLED|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T095144Z" creationid="Olivier" creationdate="20200511T095127Z">
+        <seg>[2383]&lt;AT00&gt;DÉSACTIVE|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2384]&lt;AT01&gt;ENABLED|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T095155Z" creationid="Olivier" creationdate="20200511T095128Z">
+        <seg>[2384]&lt;AT01&gt;ACTIVE|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2385]&lt;AU00&gt;OFF|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T095222Z" creationid="Olivier" creationdate="20200511T095222Z">
+        <seg>[2385]&lt;AU00&gt;OFF|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2386]&lt;AU01&gt;ON|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T095223Z" creationid="Olivier" creationdate="20200511T095223Z">
+        <seg>[2386]&lt;AU01&gt;ON|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2387]&lt;AV00&gt;NONE|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T095234Z" creationid="Olivier" creationdate="20200511T095234Z">
+        <seg>[2387]&lt;AV00&gt;&gt;AUCUN|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2388]&lt;AV01&gt;BRIEF|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T095242Z" creationid="Olivier" creationdate="20200511T095242Z">
+        <seg>[2388]&lt;AV01&gt;ABRÉGÉE|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2389]&lt;AV02&gt;DETAILED|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T095341Z" creationid="Olivier" creationdate="20200511T095301Z">
+        <seg>[2389&lt;AV02&gt;]DÉTAILLÉ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2390]&lt;1303&gt;Game Options|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T095353Z" creationid="Olivier" creationdate="20200511T095335Z">
+        <seg>[2390]&lt;1303&gt;Options de jeu|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2392]&lt;1305&gt;Default Internal Sale|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T095408Z" creationid="Olivier" creationdate="20200511T095408Z">
+        <seg>[2392]&lt;1305&gt;Vente interne par défaut|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2393]&lt;1306&gt;Default Auto Link Supplier|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T095427Z" creationid="Olivier" creationdate="20200511T095427Z">
+        <seg>[2393]&lt;1306&gt;Liaison automatique du fournisseur|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2394]&lt;1307&gt;Consider Stock Offers from AI|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T095500Z" creationid="Olivier" creationdate="20200511T095442Z">
+        <seg>[2394]&lt;1307&gt;Examiner les offres d'actions de l'IA|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2395]&lt;1308&gt;Music|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T095455Z" creationid="Olivier" creationdate="20200511T095450Z">
+        <seg>[2395]&lt;1308&gt;Musique|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2396]&lt;1309&gt;Sound Effects|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T095511Z" creationid="Olivier" creationdate="20200511T095456Z">
+        <seg>[2396]&lt;1309&gt;Effets sonores|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2397]&lt;1310&gt;Context Sensitive Help|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T095524Z" creationid="Olivier" creationdate="20200511T095524Z">
+        <seg>[2397]&lt;1310&gt;Aide contextuelle|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2398]&lt;1311&gt;Auto Save|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T095536Z" creationid="Olivier" creationdate="20200511T095536Z">
+        <seg>[2398]&lt;1311&gt;Sauvegarde automatique|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2400]&lt;1313&gt;YOU HAVE RUN OUT OF CASH!!|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T095554Z" creationid="Olivier" creationdate="20200511T095554Z">
+        <seg>[2400]&lt;1313&gt;VOUS ÊTES À COURT D'ARGENT !!|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2401]&lt;1314&gt;WHAT WOULD YOU LIKE TO DO ?|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T095610Z" creationid="Olivier" creationdate="20200511T095610Z">
+        <seg>[2401]&lt;1314&gt;QUE VOULEZ-VOUS FAIRE ?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2402]&lt;1315&gt;If you do not respond in |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T095629Z" creationid="Olivier" creationdate="20200511T095629Z">
+        <seg>[2402]&lt;1315&gt;Si vous ne répondez pas dans les |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2403]&lt;1316&gt; seconds, you will be forced to declare bankruptcy.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T095647Z" creationid="Olivier" creationdate="20200511T095647Z">
+        <seg>[2403]&lt;1316&gt; seconds,  vous serez contraint de déclarer faillite|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2503]&lt;1393&gt;All products|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T093321Z" creationid="Inrepublica" creationdate="20200426T093321Z">
