@@ -52273,6 +52273,78 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2658]&lt;1538&gt;Auto Set Up Purchase Links|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T170552Z" creationid="Olivier" creationdate="20200511T170552Z">
+        <seg>[2658]&lt;1538&gt;Lier automatiquement les achats|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2659]&lt;1539&gt;Do you want the purchase links to be automatically set up for you?|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T170608Z" creationid="Olivier" creationdate="20200511T170608Z">
+        <seg>[2659]&lt;1539&gt;Voulez-vous que les liens d'achat soient automatiquement mis en place pour vous ?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2663]&lt;1543&gt;Go to Goal Report|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T170624Z" creationid="Olivier" creationdate="20200511T170624Z">
+        <seg>[2663]&lt;1543&gt;Voir le rapport de l'objectif|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2664]&lt;1544&gt;View Supplier|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T170635Z" creationid="Olivier" creationdate="20200511T170635Z">
+        <seg>[2664]&lt;1544&gt;Voir le fournisseur|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2665]&lt;1545&gt;View Clients|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T170642Z" creationid="Olivier" creationdate="20200511T170642Z">
+        <seg>[2665]&lt;1545&gt;Voir les clients|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2666]&lt;1546&gt;Show all layout plans|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T170654Z" creationid="Olivier" creationdate="20200511T170654Z">
+        <seg>[2666]&lt;1546&gt;Voir tous les plans d'aménagement|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2667]&lt;1547&gt;Only show plans with all inputs available|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T170709Z" creationid="Olivier" creationdate="20200511T170709Z">
+        <seg>[2667]&lt;1547&gt;Afficher uniquement les plans avec toutes les entrées disponibles|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2668]&lt;1548&gt;Annual rent per square foot|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T170725Z" creationid="Olivier" creationdate="20200511T170725Z">
+        <seg>[2668]&lt;1548&gt;Loyer annuel par pied au carré|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2669]&lt;1549&gt;Occupancy|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T170726Z" creationid="Olivier" creationdate="20200511T170726Z">
+        <seg>[2669]&lt;1549&gt;Occupancy|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2858]&lt;DIFF&gt;DIFFICULTY RATING|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200427T080749Z" creationid="Inrepublica" creationdate="20200427T080730Z">
