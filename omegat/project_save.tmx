@@ -51419,8 +51419,224 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2520]&lt;1410&gt;The stock price rose from |</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T123209Z" creationid="Olivier" creationdate="20200511T123209Z">
-        <seg>[2520]&lt;1410&gt;The stock price rose from |</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T145307Z" creationid="Olivier" creationdate="20200511T123209Z">
+        <seg>[2520]&lt;1410&gt;Le cours de l'action est monté de |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2521]&lt;1411&gt;The stock price fell from |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T145312Z" creationid="Olivier" creationdate="20200511T145208Z">
+        <seg>[2521]&lt;1411&gt;Le cours de l'action est descendu de  |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2522]&lt;1412&gt; to |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T145320Z" creationid="Olivier" creationdate="20200511T145320Z">
+        <seg>[2522]&lt;1412&gt; à  |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2523]&lt;1413&gt;Your Average Price|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T145336Z" creationid="Olivier" creationdate="20200511T145336Z">
+        <seg>[2523]&lt;1413&gt;Votre prix moyen|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2524]&lt;1414&gt;Your Average Purchase Price|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T145410Z" creationid="Olivier" creationdate="20200511T145410Z">
+        <seg>[2524]&lt;1414&gt;Votre prix d’achat moyen|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2525]&lt;1415&gt;Your Total Sale Amount|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T145425Z" creationid="Olivier" creationdate="20200511T145425Z">
+        <seg>[2525]&lt;1415&gt;Montant total de votre vente|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2526]&lt;1416&gt;Your Total Purchase Cost|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T145443Z" creationid="Olivier" creationdate="20200511T145443Z">
+        <seg>[2526]&lt;1416&gt;Votre coût d'achat total|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2533]&lt;1423&gt;My Firms|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T145753Z" creationid="Olivier" creationdate="20200511T145453Z">
+        <seg>[2533]&lt;1423&gt;Mes firmes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2534]&lt;1424&gt;Corp.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T145505Z" creationid="Olivier" creationdate="20200511T145505Z">
+        <seg>[2534]&lt;1424&gt;Ent.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2535]&lt;1425&gt;Firm|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T145700Z" creationid="Olivier" creationdate="20200511T145513Z">
+        <seg>[2535]&lt;1425&gt;Firmes|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2536]&lt;1426&gt;Product|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T145806Z" creationid="Olivier" creationdate="20200511T145519Z">
+        <seg>[2536]&lt;1426&gt;Produit|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2541]&lt;AW00&gt;Underdeveloped|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T145816Z" creationid="Olivier" creationdate="20200511T145816Z">
+        <seg>[2541]&lt;AW00&gt;Sous-développé|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2542]&lt;AW01&gt;Developing|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T145844Z" creationid="Olivier" creationdate="20200511T145826Z">
+        <seg>[2542]&lt;&lt;AW01&gt;&gt;Développé|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2543]&lt;AW02&gt;Newly Industrialized|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T145859Z" creationid="Olivier" creationdate="20200511T145837Z">
+        <seg>[2543]&lt;AW02&gt;Nouveau pays industrialisé|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2544]&lt;AW03&gt;Industrial|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T145910Z" creationid="Olivier" creationdate="20200511T145910Z">
+        <seg>[2544]&lt;AW03&gt;&gt;Industries|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2552]&lt;1433&gt;Your supply of |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T145928Z" creationid="Olivier" creationdate="20200511T145920Z">
+        <seg>[2552]&lt;1433&gt;Votre approvisionnement de |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2553]&lt;1434&gt; has stopped.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T145936Z" creationid="Olivier" creationdate="20200511T145922Z">
+        <seg>[2553]&lt;1434&gt; a été stoppé.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2554]&lt;1435&gt;Your supply of |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T145942Z" creationid="Olivier" creationdate="20200511T145942Z">
+        <seg>[2554]&lt;1435&gt;Votre approvisionnement de |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2555]&lt;1436&gt; was stopped and has been automatically relinked.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T150011Z" creationid="Olivier" creationdate="20200511T150011Z">
+        <seg>[2555]&lt;1436&gt; a été arrêtée et a été automatiquement rétablie.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2556]&lt;1437&gt;Your R&amp;D of |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T150028Z" creationid="Olivier" creationdate="20200511T150028Z">
+        <seg>[2556]&lt;1437&gt;Votre R&amp;D de |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2557]&lt;1438&gt; is complete.\nYour technology is now |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T150144Z" creationid="Olivier" creationdate="20200511T150144Z">
+        <seg>[2557]&lt;1438&gt; est complète.\nVotre technologie est à présent  |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2558]&lt;1439&gt;Your R&amp;D of |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T150156Z" creationid="Olivier" creationdate="20200511T150156Z">
+        <seg>[2558]&lt;1439&gt;Votre R&amp;D de |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2559]&lt;1440&gt; is complete.\n|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T150209Z" creationid="Olivier" creationdate="20200511T150209Z">
+        <seg>[2559]&lt;1440&gt; est complète.\n|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2560]&lt;1441&gt;You now have the technology to produce |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T150236Z" creationid="Olivier" creationdate="20200511T150236Z">
+        <seg>[2560]&lt;1441&gt;Vous avez à présent la technologie pour produire |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2561]&lt;1442&gt;Your |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T150244Z" creationid="Olivier" creationdate="20200511T150244Z">
+        <seg>[2561]&lt;1442&gt;Votre |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2562]&lt;1443&gt; reserve is now exhausted.\nThe production at your |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T150315Z" creationid="Olivier" creationdate="20200511T150315Z">
+        <seg>[2562]&lt;1443&gt; a réserve est maintenant épuisée. La production à votre |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2563]&lt;1444&gt; has stopped.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T150324Z" creationid="Olivier" creationdate="20200511T150324Z">
+        <seg>[2563]&lt;1444&gt; a été stoppé.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2564]&lt;1445&gt;Your total cost for producing |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T152347Z" creationid="Olivier" creationdate="20200511T152347Z">
+        <seg>[2564]&lt;1445&gt;Votre coût total de production |</seg>
       </tuv>
     </tu>
     <tu>
