@@ -4182,6 +4182,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Banknotes and coins for the revalued currency will enter into circulation.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T172555Z" creationid="Olivier" creationdate="20200511T172555Z">
+        <seg>Les billets et les pièces de la monnaie réévaluée seront mis en circulation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Base Loan Interest Rate</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T164720Z" creationid="Inrepublica" creationdate="20200422T164720Z">
@@ -30633,6 +30641,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The creator's version is %1s while your version is %2s.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T172526Z" creationid="Olivier" creationdate="20200511T172526Z">
+        <seg>La version du créateur est %1s alors que votre version est %2s.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The credit rating of a subsidiary company would never exceed its parent company's credit rating.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T085958Z" creationid="Olivier" creationdate="20200508T085806Z">
@@ -30885,6 +30901,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T152643Z" creationid="Inrepublica" creationdate="20200423T152643Z">
         <seg>Partie non sauvegardée.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The government announced that the currency will be revalued at a ratio of 1 to 100.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T172547Z" creationid="Olivier" creationdate="20200511T172547Z">
+        <seg>Le gouvernement a annoncé que la monnaie sera réévaluée à un ratio de 1 pour 100.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52339,8 +52363,512 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2669]&lt;1549&gt;Occupancy|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T170726Z" creationid="Olivier" creationdate="20200511T170726Z">
-        <seg>[2669]&lt;1549&gt;Occupancy|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T171718Z" creationid="Olivier" creationdate="20200511T170726Z">
+        <seg>[2669]&lt;1549&gt;Occupation|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2670]&lt;1550&gt;Annual return|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T171742Z" creationid="Olivier" creationdate="20200511T171742Z">
+        <seg>[2670]&lt;1550&gt;Rendement annuel|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2672]&lt;1552&gt;Market value|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T171751Z" creationid="Olivier" creationdate="20200511T171751Z">
+        <seg>[2672]&lt;1552&gt;Valeur marchande|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2673]&lt;1553&gt;Spending on Public Relations|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T171902Z" creationid="Olivier" creationdate="20200511T171801Z">
+        <seg>[2673]&lt;1553&gt;Dépenses pour les relations publiques|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2674]&lt;1554&gt;Spending on Investor Relations|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T171857Z" creationid="Olivier" creationdate="20200511T171818Z">
+        <seg>[2674]&lt;1554&gt;Dépenses pour les relations avec les investisseurs|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2675]&lt;1555&gt;Media Firms|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T171916Z" creationid="Olivier" creationdate="20200511T171916Z">
+        <seg>[2675]&lt;1555&gt;Entreprises médiatiques|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2676]&lt;1556&gt;Current advertising pricing (CPM)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T171928Z" creationid="Olivier" creationdate="20200511T171928Z">
+        <seg>[2676]&lt;1556&gt;Prix actuels de la publicité (CPM)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2677]&lt;1557&gt;New content development budget|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T171940Z" creationid="Olivier" creationdate="20200511T171940Z">
+        <seg>[2677]&lt;1557&gt;Nouveau budget pour le développement du contenu|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2678]&lt;1558&gt;Products sold in|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T172005Z" creationid="Olivier" creationdate="20200511T172005Z">
+        <seg>[2678]&lt;1558&gt;Produits vendus dans|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2679]&lt;C001&gt;Enlight Software|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T172105Z" creationid="Olivier" creationdate="20200511T172105Z">
+        <seg>[2679]&lt;C001&gt;Enlight Software|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2680]&lt;C002&gt;Game Design &amp;|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T172119Z" creationid="Olivier" creationdate="20200511T172038Z">
+        <seg>[2680]&lt;C002&gt;Conception de jeux &amp;|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2681]&lt;C003&gt;Trevor Chan|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T172039Z" creationid="Olivier" creationdate="20200511T172039Z">
+        <seg>[2681]&lt;C003&gt;Trevor Chan|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2682]&lt;C004&gt;Project Management:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T172058Z" creationid="Olivier" creationdate="20200511T172058Z">
+        <seg>[2682]&lt;C004&gt;Gestion du projet :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2683]&lt;C005&gt;Programming:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T172127Z" creationid="Olivier" creationdate="20200511T172059Z">
+        <seg>[2683]&lt;C005&gt;Programmation :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2684]&lt;C006&gt;Thomas Lam, Charles Wong, Stephen Ho|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T172129Z" creationid="Olivier" creationdate="20200511T172129Z">
+        <seg>[2684]&lt;C006&gt;Thomas Lam, Charles Wong, Stephen Ho|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2685]&lt;C007&gt;Graphics:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T172146Z" creationid="Olivier" creationdate="20200511T172146Z">
+        <seg>[2685]&lt;C007&gt;Graphismes :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2686]&lt;C008&gt;Ada Chui, Yanwei|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T172148Z" creationid="Olivier" creationdate="20200511T172148Z">
+        <seg>[2686]&lt;C008&gt;Ada Chui, Yanwei|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2687]&lt;C009&gt; |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T172151Z" creationid="Olivier" creationdate="20200511T172151Z">
+        <seg>[2687]&lt;C009&gt; |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2688]&lt;C010&gt;Marketing &amp;|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T172152Z" creationid="Olivier" creationdate="20200511T172152Z">
+        <seg>[2688]&lt;C010&gt;Marketing &amp;|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2689]&lt;C011&gt;David Lee|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T172153Z" creationid="Olivier" creationdate="20200511T172153Z">
+        <seg>[2689]&lt;C011&gt;David Lee|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2690]&lt;C012&gt;User Community:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T172208Z" creationid="Olivier" creationdate="20200511T172208Z">
+        <seg>[2690]&lt;C012&gt;Communauté d'utilisateurs :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2691]&lt;C013&gt;Testing:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T172216Z" creationid="Olivier" creationdate="20200511T172216Z">
+        <seg>[2691]&lt;C013&gt;Testeurs :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2692]&lt;C014&gt;Daniel Yip, Eva Cheung, Alan Ng|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T172219Z" creationid="Olivier" creationdate="20200511T172219Z">
+        <seg>[2692]&lt;C014&gt;Daniel Yip, Eva Cheung, Alan Ng|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2693]&lt;C015&gt; |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T172219Z" creationid="Olivier" creationdate="20200511T172219Z">
+        <seg>[2693]&lt;C015&gt; |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2694]&lt;C016&gt; |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T172220Z" creationid="Olivier" creationdate="20200511T172220Z">
+        <seg>[2694]&lt;C016&gt; |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2696]&lt;NANA&gt;N/A|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T172223Z" creationid="Olivier" creationdate="20200511T172223Z">
+        <seg>[2696]&lt;NANA&gt;N/A|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2697]&lt;YOUR&gt;Your |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T172234Z" creationid="Olivier" creationdate="20200511T172234Z">
+        <seg>[2697]&lt;YOUR&gt;Votre |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2698]&lt;RESI&gt; resigned from your corporation.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T172252Z" creationid="Olivier" creationdate="20200511T172252Z">
+        <seg>[2698]&lt;RESI&gt; a démissionné de votre société.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2699]&lt;RES2&gt;Resignation|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T172409Z" creationid="Olivier" creationdate="20200511T172409Z">
+        <seg>[2699]&lt;RES2&gt;Démission|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2700]&lt;LAYS&gt; layout plans found|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T172419Z" creationid="Olivier" creationdate="20200511T172419Z">
+        <seg>[2700]&lt;LAYS&gt; plans d'aménagement trouvés|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2701]&lt;LAYM&gt;You do not have enough cash to setup this layout.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T172454Z" creationid="Olivier" creationdate="20200511T172454Z">
+        <seg>[2701]&lt;LAYM&gt;Vous n'avez pas assez d'argent pour mettre en place cette disposition.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2702]&lt;DOWR&gt;You cannot join the game because your Capitalism II version is different from that of this multiplayer game's creator.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T172516Z" creationid="Olivier" creationdate="20200511T172516Z">
+        <seg>[2702]&lt;DOWR&gt;Vous ne pouvez pas rejoindre le jeu car votre version de Capitalisme II est différente de celle du créateur de ce jeu multijoueur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2705]&lt;NCUR&gt;CURRENCY REVALUED!</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T172539Z" creationid="Olivier" creationdate="20200511T172539Z">
+        <seg>[2705]&lt;NCUR&gt;MONNAIE RÉÉVALUÉE !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2708]&lt;BL01&gt;Buy Land|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T172610Z" creationid="Olivier" creationdate="20200511T172610Z">
+        <seg>[2708]&lt;BL01&gt;Acheter le terrain|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2709]&lt;BL02&gt;Sorry, you cannot buy this land plot.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T172623Z" creationid="Olivier" creationdate="20200511T172623Z">
+        <seg>[2709]&lt;BL02&gt;Désolé, vous ne pouvez pas acheter cette parcelle de terrain|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2710]&lt;P36M&gt;Past 36 months|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T172634Z" creationid="Olivier" creationdate="20200511T172634Z">
+        <seg>[2710]&lt;P36M&gt;36 derniers mois|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2711]&lt;AIG4&gt;Tech Focused|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T172648Z" creationid="Olivier" creationdate="20200511T172648Z">
+        <seg>[2711]&lt;AIG4&gt;Focalisé sur la technologie|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2712]&lt;AIG5&gt;Media Focused|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T172702Z" creationid="Olivier" creationdate="20200511T172702Z">
+        <seg>[2712]&lt;AIG5&gt;Focalisé sur les médias|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2713]&lt;AIS4&gt;Tech|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T172704Z" creationid="Olivier" creationdate="20200511T172704Z">
+        <seg>[2713]&lt;AIS4&gt;Tech|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2714]&lt;AIS5&gt;Media|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T172734Z" creationid="Olivier" creationdate="20200511T172734Z">
+        <seg>[2714]&lt;AIS5&gt;Media|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2715]&lt;RDTL&gt;Tech level|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T172746Z" creationid="Olivier" creationdate="20200511T172746Z">
+        <seg>[2715]&lt;RDTL&gt;Niveau technologique|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2716]&lt;NCJ1&gt;founded|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T172753Z" creationid="Olivier" creationdate="20200511T172753Z">
+        <seg>[2716]&lt;NCJ1&gt;a fondé|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2717]&lt;NCJ2&gt;and serves as its|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T172828Z" creationid="Olivier" creationdate="20200511T172828Z">
+        <seg>[2717]&lt;NCJ2&gt;et lui sert de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2718]&lt;NCJ3&gt;joins|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T172836Z" creationid="Olivier" creationdate="20200511T172836Z">
+        <seg>[2718]&lt;NCJ3&gt;rejoint|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2719]&lt;NCJ4&gt;as|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T172850Z" creationid="Olivier" creationdate="20200511T172850Z">
+        <seg>[2719]&lt;NCJ4&gt;comme|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2720]&lt;NCJ5&gt;becomes|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T172855Z" creationid="Olivier" creationdate="20200511T172855Z">
+        <seg>[2720]&lt;NCJ5&gt;devient|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2721]&lt;NCJ6&gt;of|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T172858Z" creationid="Olivier" creationdate="20200511T172858Z">
+        <seg>[2721]&lt;NCJ6&gt;de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2722]&lt;NCJ7&gt;resigns from his job at|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T172911Z" creationid="Olivier" creationdate="20200511T172911Z">
+        <seg>[2722]&lt;NCJ7&gt;]démissionne de son poste de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2723]&lt;NCJ8&gt;resigns from her job at|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T172922Z" creationid="Olivier" creationdate="20200511T172922Z">
+        <seg>[2723]&lt;NCJ8&gt;démissionne de son poste de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2724]&lt;NCJ9&gt;discharged by|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T172950Z" creationid="Olivier" creationdate="20200511T172950Z">
+        <seg>[2724]&lt;NCJ9&gt;congédié par|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2725]&lt;NCK1&gt;went bankrupt and|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T173000Z" creationid="Olivier" creationdate="20200511T173000Z">
+        <seg>[2725]&lt;NCK1&gt;a fait faillite et|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2726]&lt;NCK2&gt;loses his job as|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T173014Z" creationid="Olivier" creationdate="20200511T173014Z">
+        <seg>[2726]&lt;NCK2&gt;perd son emplois dans|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2727]&lt;NCK3&gt;loses her job as|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T173023Z" creationid="Olivier" creationdate="20200511T173023Z">
+        <seg>[2727]&lt;NCK3&gt;perd son emplois dans|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2728]&lt;NCK4&gt;after serving as|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T173044Z" creationid="Olivier" creationdate="20200511T173044Z">
+        <seg>[2728]&lt;NCK4&gt;après avoir exercé en tant que|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2729]&lt;NCK5&gt;after serving as|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T173057Z" creationid="Olivier" creationdate="20200511T173057Z">
+        <seg>[2729]&lt;NCK5&gt;après avoir exercé en tant que|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2730]&lt;MTH1&gt;month|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T173102Z" creationid="Olivier" creationdate="20200511T173102Z">
+        <seg>[2730]&lt;MTH1&gt;mois|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2731]&lt;MTH2&gt;months|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T173107Z" creationid="Olivier" creationdate="20200511T173107Z">
+        <seg>[2731]&lt;MTH2&gt;mois|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2732]&lt;NBF1&gt;opens an|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T173113Z" creationid="Olivier" creationdate="20200511T173113Z">
+        <seg>[2732]&lt;NBF1&gt;ouvre un|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2733]&lt;NBF2&gt;opens a|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T173125Z" creationid="Olivier" creationdate="20200511T173125Z">
+        <seg>[2733]&lt;NBF2&gt;ouvrent un|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2734]&lt;NBF3&gt;sets up a Warehouse|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T173255Z" creationid="Olivier" creationdate="20200511T173146Z">
+        <seg>[2734]&lt;NBF3&gt;crée un entrepôt|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2735]&lt;NBF4&gt;sets up a TV Station|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T173304Z" creationid="Olivier" creationdate="20200511T173155Z">
+        <seg>[2735]&lt;NBF4&gt;crée une station de TV|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2736]&lt;NBF5&gt;sets up a Newspaper Publisher|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T173234Z" creationid="Olivier" creationdate="20200511T173234Z">
+        <seg>[2736]&lt;NBF5&gt;crée un éditeur de journaux|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2737]&lt;NBF6&gt;sets up a Radio Station|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T173248Z" creationid="Olivier" creationdate="20200511T173248Z">
+        <seg>[2737]&lt;NBF6&gt;crée une station de radio|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2738]&lt;NBF7&gt;builds a|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T173250Z" creationid="Olivier" creationdate="20200511T173250Z">
+        <seg>[2738]&lt;NBF7&gt;builds a|</seg>
       </tuv>
     </tu>
     <tu>
