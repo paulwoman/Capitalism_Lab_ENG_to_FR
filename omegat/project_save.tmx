@@ -51641,6 +51641,142 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2565]&lt;1446&gt; is higher than your selling price.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T152410Z" creationid="Olivier" creationdate="20200511T152410Z">
+        <seg>[2565]&lt;1446&gt; est plus élevé que votre prix de vente.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2566]&lt;1447&gt;A firm has been acquired in the merger.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T152431Z" creationid="Olivier" creationdate="20200511T152431Z">
+        <seg>[2566]&lt;1447&gt;Une entreprise a été acquise dans le cadre de la fusion.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2567]&lt;1448&gt;Message |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T152434Z" creationid="Olivier" creationdate="20200511T152434Z">
+        <seg>[2567]&lt;1448&gt;Message |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2568]&lt;1449&gt;Prev|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T152441Z" creationid="Olivier" creationdate="20200511T152441Z">
+        <seg>[2568]&lt;1449&gt;Prec.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2569]&lt;1450&gt;Next|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T152451Z" creationid="Olivier" creationdate="20200511T152451Z">
+        <seg>[2569]&lt;1450&gt;Suivant|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2570]&lt;1451&gt;Go|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T152502Z" creationid="Olivier" creationdate="20200511T152502Z">
+        <seg>[2570]&lt;1451&gt;Aller|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2571]&lt;1452&gt;Ignore|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T152506Z" creationid="Olivier" creationdate="20200511T152506Z">
+        <seg>[2571]&lt;1452&gt;Ignorer|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2572]&lt;1453&gt;Ignore All|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T152511Z" creationid="Olivier" creationdate="20200511T152511Z">
+        <seg>[2572]&lt;1453&gt;Ignorer tout|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2573]&lt;1454&gt;Apply Latest Production Technology to This Manufacturing Unit|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T152531Z" creationid="Olivier" creationdate="20200511T152531Z">
+        <seg>[2573]&lt;1454&gt;Appliquer les dernières technologies de production à cette unité de fabrication|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2574]&lt;1455&gt;Current Technology Level: |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T152544Z" creationid="Olivier" creationdate="20200511T152544Z">
+        <seg>[2574]&lt;1455&gt;Niveau actuel de la technologie : |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2575]&lt;1456&gt;Target Technology Level: |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T152559Z" creationid="Olivier" creationdate="20200511T152559Z">
+        <seg>[2575]&lt;1456&gt;Niveau technologique cible : |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2576]&lt;1457&gt;\nUpdate production facilities now ?|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T152637Z" creationid="Olivier" creationdate="20200511T152620Z">
+        <seg>[2576]&lt;1457&gt;\nMettre à jour les installations de production maintenant ?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2577]&lt;1458&gt;Message |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T152646Z" creationid="Olivier" creationdate="20200511T152622Z">
+        <seg>[2577]&lt;1458&gt;Message |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2578]&lt;1459&gt;Prev|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T152658Z" creationid="Olivier" creationdate="20200511T152658Z">
+        <seg>[2578]&lt;1459&gt;Prec.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2579]&lt;1460&gt;Next|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T152706Z" creationid="Olivier" creationdate="20200511T152706Z">
+        <seg>[2579]&lt;1460&gt;Suivant|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2580]&lt;1461&gt;Go|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T152714Z" creationid="Olivier" creationdate="20200511T152714Z">
+        <seg>[2580]&lt;1461&gt;Aller|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2581]&lt;1462&gt;Yes|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T152729Z" creationid="Olivier" creationdate="20200511T152729Z">
+        <seg>[2581]&lt;1462&gt;Oui|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2649]&lt;1529&gt;SKIP TUTORIAL|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T091002Z" creationid="Inrepublica" creationdate="20200426T091002Z">
