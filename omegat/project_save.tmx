@@ -52041,6 +52041,166 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2624]&lt;1504&gt;This City|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T154039Z" creationid="Olivier" creationdate="20200511T154026Z">
+        <seg>[2624]&lt;1504&gt;Cette Ville|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2626]&lt;1506&gt;View Clients|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T154048Z" creationid="Olivier" creationdate="20200511T154048Z">
+        <seg>[2626]&lt;1506&gt;Voir les clients|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2628]&lt;1508&gt;YOUR FINANCIAL REPORT|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T154059Z" creationid="Olivier" creationdate="20200511T154059Z">
+        <seg>[2628]&lt;1508&gt;VOTRE RAPPORT FINANCIER|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2629]&lt;1509&gt;You do not have enough cash.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T154112Z" creationid="Olivier" creationdate="20200511T154112Z">
+        <seg>[2629]&lt;1509&gt;Vous n'avez pas assez de trésorerie.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2630]&lt;1510&gt;You must resign your Chief Operating Officer before you can remove the office.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T154154Z" creationid="Olivier" creationdate="20200511T154143Z">
+        <seg>[2630]&lt;1510&gt;Vous devez démissionner de votre poste de directeur de l'exploitation avant de pouvoir supprimer le bureau.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2631]&lt;1511&gt;You must resign your Chief Marketing Officer before you can remove the office.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T154230Z" creationid="Olivier" creationdate="20200511T154147Z">
+        <seg>[2631]&lt;1511&gt;Vous devez démissionner de votre poste de directeur général du marketing avant de pouvoir supprimer le bureau.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2632]&lt;1512&gt;You must resign your Chief Technical Officer before you can remove the office.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T154258Z" creationid="Olivier" creationdate="20200511T154258Z">
+        <seg>[2632]&lt;1512&gt;Vous devez démissionner de votre poste de directeur technique avant de pouvoir supprimer le bureau.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2635]&lt;1515&gt;Annual Salary|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T154317Z" creationid="Olivier" creationdate="20200511T154317Z">
+        <seg>[2635]&lt;1515&gt;Salaire annuel|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2636]&lt;1516&gt;SELECT MEDIA|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T154323Z" creationid="Olivier" creationdate="20200511T154323Z">
+        <seg>[2636]&lt;1516&gt;SELECTIONNER LE MEDIA|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2637]&lt;1517&gt;Auto Apply R&amp;D Results To Factories|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T154353Z" creationid="Olivier" creationdate="20200511T154353Z">
+        <seg>[2637]&lt;1517&gt;Appliquer automatiquement les résultats de la R&amp;D aux usines|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2638]&lt;1518&gt;Alert Messages (Hotkey: F5)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T154430Z" creationid="Olivier" creationdate="20200511T154430Z">
+        <seg>[2638]&lt;1518&gt;Messages d'alerte (raccourci : F5|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2639]&lt;1519&gt;I don't want to sell my mansion at this price to you.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T154447Z" creationid="Olivier" creationdate="20200511T154447Z">
+        <seg>[2639]&lt;1519&gt;e ne veux pas vous vendre mon manoir à ce prix|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2641]&lt;1521&gt;, CTO, |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T154453Z" creationid="Olivier" creationdate="20200511T154453Z">
+        <seg>[2641]&lt;1521&gt;, CTO, |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2642]&lt;1522&gt;The media does not have any advertising space available currently.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T154511Z" creationid="Olivier" creationdate="20200511T154511Z">
+        <seg>[2642]&lt;1522&gt;Les médias n'ont pas d'espace publicitaire disponible actuellement.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2643]&lt;1523&gt;Advertisers Shares|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T154536Z" creationid="Olivier" creationdate="20200511T154536Z">
+        <seg>[2643]&lt;1523&gt;Actions des annonceurs|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2644]&lt;1524&gt;Local Advertisers |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T154557Z" creationid="Olivier" creationdate="20200511T154557Z">
+        <seg>[2644]&lt;1524&gt;Annonceurs locaux |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2645]&lt;1525&gt;I accept your offer and agree to sell my technology to you.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T154609Z" creationid="Olivier" creationdate="20200511T154609Z">
+        <seg>[2645]&lt;1525&gt;J'accepte votre offre et j'accepte de vous vendre ma technologie|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2646]&lt;1526&gt;Your corporation has been acquired by |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T154622Z" creationid="Olivier" creationdate="20200511T154622Z">
+        <seg>[2646]&lt;1526&gt;Votre société a été acquise par |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2647]&lt;1527&gt;You cannot use this plan yet as you have not invented the product.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T154639Z" creationid="Olivier" creationdate="20200511T154639Z">
+        <seg>[2647]&lt;1527&gt;Vous ne pouvez pas encore utiliser ce plan car vous n'avez pas encore inventé le produit.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2648]&lt;1528&gt;You do not have enough cash to setup this unit.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T154656Z" creationid="Olivier" creationdate="20200511T154656Z">
+        <seg>[2648]&lt;1528&gt;Vous n'avez pas assez d'argent pour mettre en place cette unité|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2649]&lt;1529&gt;SKIP TUTORIAL|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T091002Z" creationid="Inrepublica" creationdate="20200426T091002Z">
@@ -52049,10 +52209,66 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2650]&lt;1530&gt;Are you sure that you want to skip this tutorial?|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T154729Z" creationid="Olivier" creationdate="20200511T154729Z">
+        <seg>[2650]&lt;1530&gt;Êtes-vous sûr de vouloir sauter ce tutoriel ?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2651]&lt;1531&gt;RESTART TUTORIAL|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T091533Z" creationid="Inrepublica" creationdate="20200426T091533Z">
         <seg>[2651]&lt;1531&gt;REDÉMARRER TUTORIEL|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2652]&lt;1532&gt;Are you sure that you want to restart this tutorial?|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T154756Z" creationid="Olivier" creationdate="20200511T154756Z">
+        <seg>[2652]&lt;1532&gt;Êtes-vous sûr de vouloir redémarrer ce tutoriel ?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2653]&lt;1533&gt;SCENARIO DESCRIPTION|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T154811Z" creationid="Olivier" creationdate="20200511T154811Z">
+        <seg>[2653]&lt;1533&gt;DESCRIPTION DU SCENARIO|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2654]&lt;1534&gt;This Game is Over!|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T154827Z" creationid="Olivier" creationdate="20200511T154827Z">
+        <seg>[2654]&lt;1534&gt;Cette partie est finie !|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2655]&lt;1535&gt;%1s of %2s has achieved the goal and won the game.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T154938Z" creationid="Olivier" creationdate="20200511T154938Z">
+        <seg>[2655]&lt;1535&gt;%1s of %2s a a atteint l'objectif et a gagné la partie.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2656]&lt;1536&gt;Paused|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T154946Z" creationid="Olivier" creationdate="20200511T154940Z">
+        <seg>[2656]&lt;1536&gt;Pause|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2657]&lt;1537&gt;This dialog box will be automatically closed in %1d %1p{day|days}|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T154941Z" creationid="Olivier" creationdate="20200511T154941Z">
+        <seg>[2657]&lt;1537&gt;This dialog box will be automatically closed in %1d %1p{day|days}|</seg>
       </tuv>
     </tu>
     <tu>
