@@ -38883,8 +38883,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0189]&lt;RETI&gt;Retire|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T163606Z" creationid="Inrepublica" creationdate="20200423T163606Z">
-        <seg>[0189]&lt;RETI&gt;Se retirer|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T222233Z" creationid="Inrepublica" creationdate="20200423T163606Z">
+        <seg>[0189]&lt;RETI&gt;Prendre sa retraite|</seg>
       </tuv>
     </tu>
     <tu>
@@ -38899,8 +38899,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0196]&lt;ASRS&gt;Do you really want to restart?|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T163731Z" creationid="Inrepublica" creationdate="20200423T163731Z">
-        <seg>[0196]&lt;ASRS&gt;Voulez-vous vraiment redémarrer?|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T222303Z" creationid="Inrepublica" creationdate="20200423T163731Z">
+        <seg>[0196]&lt;ASRS&gt;Voulez-vous vraiment recommencer ?|</seg>
       </tuv>
     </tu>
     <tu>
@@ -38931,8 +38931,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0274]&lt;GOAW&gt;You will be victorious when you have:|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T163917Z" creationid="Inrepublica" creationdate="20200423T163917Z">
-        <seg>[0274]&lt;GOAW&gt;Vous serez victorieux quand vous aurez fait:|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T222330Z" creationid="Inrepublica" creationdate="20200423T163917Z">
+        <seg>[0274]&lt;GOAW&gt;Vous serez victorieux quand vous aurez fait :|</seg>
       </tuv>
     </tu>
     <tu>
@@ -38963,16 +38963,16 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0289]&lt;COML&gt;Join with another player linked by serial cable|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T164153Z" creationid="Inrepublica" creationdate="20200423T164153Z">
-        <seg>[0289]&lt;COML&gt;Rejoindre un autre joueur par réseau série|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T222414Z" creationid="Inrepublica" creationdate="20200423T164153Z">
+        <seg>[0289]&lt;COML&gt;Se joindre à un autre joueur relié par un câble série|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[0298]&lt;PRFL&gt;Warning: This will delete all information in your multiplayer lobby account that is linked to this player profile.|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T164224Z" creationid="Inrepublica" creationdate="20200423T164224Z">
-        <seg>[0298]&lt;PRFL&gt;Attention: Cela supprimera toutes les informations de votre compte de lobby multijoueur qui sont liées à ce profil de joueur.|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T222425Z" creationid="Inrepublica" creationdate="20200423T164224Z">
+        <seg>[0298]&lt;PRFL&gt;Attention : Cela supprimera toutes les informations de votre compte de lobby multijoueur qui sont liées à ce profil de joueur.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -39011,8 +39011,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0323]&lt;CMPT&gt;COMPETITORS|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T172523Z" creationid="Inrepublica" creationdate="20200423T172523Z">
-        <seg>[0323]&lt;CMPT&gt;COMPETITEURS|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T222454Z" creationid="Inrepublica" creationdate="20200423T172523Z">
+        <seg>[0323]&lt;CMPT&gt;CONCURRENTS|</seg>
       </tuv>
     </tu>
     <tu>
@@ -39059,8 +39059,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0341]&lt;NCOM&gt;Number of Competitors|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T200126Z" creationid="Inrepublica" creationdate="20200422T200126Z">
-        <seg>[0341]&lt;NCOM&gt;Nombre de compétiteurs|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T222520Z" creationid="Inrepublica" creationdate="20200422T200126Z">
+        <seg>[0341]&lt;NCOM&gt;Nombre de concurrents|</seg>
       </tuv>
     </tu>
     <tu>
@@ -39091,8 +39091,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0346]&lt;CSEC&gt;Show Competitor Trade Secrets|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T152855Z" creationid="Inrepublica" creationdate="20200426T100324Z">
-        <seg>[0346]&lt;CSEC&gt;Montrer les secrets commerciaux des concurrents|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T223107Z" creationid="Inrepublica" creationdate="20200426T100324Z">
+        <seg>[0346]&lt;CSEC&gt;Voir les secrets commerciaux des concurrents|</seg>
       </tuv>
     </tu>
     <tu>
@@ -39155,8 +39155,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0463]&lt;DSM1&gt;Many|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T230229Z" creationid="Olivier" creationdate="20200509T230229Z">
-        <seg>[0463]&lt;DSM1&gt;Souvent|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T222623Z" creationid="Olivier" creationdate="20200509T230229Z">
+        <seg>[0463]&lt;DSM1&gt;Beaucoup|</seg>
       </tuv>
     </tu>
     <tu>
@@ -55907,8 +55907,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[3050]&lt;DLC3&gt;The Digital Age DLC offers you an exciting opportunity to build a tech startup at the dawn of the digital age and oversee its growth to eventually become a tech powerhouse that joins the ranks of tech titans such as Microsoft and Google!|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T150334Z" creationid="Olivier" creationdate="20200512T150334Z">
-        <seg>[3050]&lt;DLC3&gt;Le DLC Age Digital vous offre une opportunité passionnante de créer une start-up à l'aube de l'ère numérique et de superviser sa croissance pour finalement devenir une puissance technologique qui rejoint les rangs des titans de la technologie tels que Microsoft et Google !|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T223737Z" creationid="Olivier" creationdate="20200512T150334Z">
+        <seg>[3050]&lt;DLC3&gt;Le DLC Age Digital vous offre l'opportunité de créer une start-up à l'aube de l'ère numérique et de superviser sa croissance pour devenir une puissance technologique qui rejoint les rangs des titans de la technologie tels que Microsoft et Google !|</seg>
       </tuv>
     </tu>
     <tu>
