@@ -4646,6 +4646,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Build an R&amp;D center and set up Tech R&amp;D units to research the required tech.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T150606Z" creationid="Olivier" creationdate="20200512T150606Z">
+        <seg>Construisez un centre de R&amp;D et mettez en place des unités de R&amp;D technologique pour la recherche des technologies nécessaires|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Build an oil well for extracting oil.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151551Z" creationid="Olivier" creationdate="20200504T151551Z">
@@ -18149,6 +18157,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T165658Z" creationid="Olivier" creationdate="20200422T165658Z">
         <seg>Elle répertorie tous les produits actuellement disponibles dans le jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It offers a powerful suite of features that allow you to set up banks and insurance companies, issue and trade bonds, and invest in global stocks.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T150413Z" creationid="Olivier" creationdate="20200512T150413Z">
+        <seg>Il offre un ensemble de fonctionnalités puissantes qui vous permettent de créer des banques et des compagnies d'assurance, d'émettre et de négocier des obligations et d'investir dans des actions mondiales|</seg>
       </tuv>
     </tu>
     <tu>
@@ -55657,10 +55673,170 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3030]&lt;IOC5&gt;Raise funds from your corporation.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T145559Z" creationid="Olivier" creationdate="20200512T145559Z">
+        <seg>[3030]&lt;IOC5&gt;Collectez des fonds auprès de votre société|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3031]&lt;IOC6&gt;Transfer funds from your subsidiary company to the insurance company.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T145609Z" creationid="Olivier" creationdate="20200512T145609Z">
+        <seg>[3031]&lt;IOC6&gt;Transférez des fonds de votre filiale à la compagnie d'assurance|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3032]&lt;IOC7&gt;Raise funds from your subsidiary company.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T145628Z" creationid="Olivier" creationdate="20200512T145628Z">
+        <seg>[3032]&lt;IOC7&gt;Collectez des fonds auprès de votre filiale.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3033]&lt;BD01&gt;Bond Value Return|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T145704Z" creationid="Olivier" creationdate="20200512T145704Z">
+        <seg>[3033]&lt;BD01&gt;Rendement de la valeur des obligations|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3034]&lt;BD02&gt;Received Bond Interests|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T145722Z" creationid="Olivier" creationdate="20200512T145722Z">
+        <seg>[3034]&lt;BD02&gt;Intérêts reçus sur les obligations|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3035]&lt;AP01&gt;Rental Income|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T145735Z" creationid="Olivier" creationdate="20200512T145735Z">
+        <seg>[3035]&lt;AP01&gt;Revenus de locations|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3036]&lt;AP02&gt;Property Maintenance Cost|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T145800Z" creationid="Olivier" creationdate="20200512T145800Z">
+        <seg>[3036]&lt;AP02&gt;Frais d'entretien de la propriété|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3037]&lt;DEBT&gt;Total Debt|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T145810Z" creationid="Olivier" creationdate="20200512T145810Z">
+        <seg>[3037]&lt;DEBT&gt;Dette totale|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3038]&lt;DEAS&gt;Debt-to-Assets Ratio|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T145840Z" creationid="Olivier" creationdate="20200512T145840Z">
+        <seg>[3038]&lt;DEAS&gt;Ratio dette/actifs|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3039]&lt;STOC&gt;Stocks|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T145845Z" creationid="Olivier" creationdate="20200512T145845Z">
+        <seg>[3039]&lt;STOC&gt;Actions|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3040]&lt;BOND&gt;Bonds|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T145851Z" creationid="Olivier" creationdate="20200512T145851Z">
+        <seg>[3040]&lt;BOND&gt;Obligations|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3041]&lt;DEPO&gt;Bank Deposits|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T145908Z" creationid="Olivier" creationdate="20200512T145908Z">
+        <seg>[3041]&lt;DEPO&gt;Dépôt bancaires|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3042]&lt;MANS&gt;Mansions Market Values|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T145925Z" creationid="Olivier" creationdate="20200512T145925Z">
+        <seg>[3042]&lt;MANS&gt;Valeurs marchandes des manoirs|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3043]&lt;BCR1&gt;Your Bank's Capital Ratio is Too Low!|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T145939Z" creationid="Olivier" creationdate="20200512T145939Z">
+        <seg>[3043]&lt;BCR1&gt;Le ratio de fonds propres de votre banque est trop faible !|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3044]&lt;BCR2&gt;The Capital Ratio of Your Subsidiary Bank |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T145952Z" creationid="Olivier" creationdate="20200512T145952Z">
+        <seg>[3044]&lt;BCR2&gt;Le ratio de fonds propres de votre filiale bancaire |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3045]&lt;BCR3&gt; is Too Low!|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T150006Z" creationid="Olivier" creationdate="20200512T150006Z">
+        <seg>[3045]&lt;BCR3&gt; est trop faible !|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3046]&lt;BCR4&gt;Bank Capital Ratio|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T150024Z" creationid="Olivier" creationdate="20200512T150024Z">
+        <seg>[3046]&lt;BCR4&gt;Ratio de capital bancaire||</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3047]&lt;BCR5&gt;Required Bank Capital Ratio|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T150039Z" creationid="Olivier" creationdate="20200512T150039Z">
+        <seg>[3047]&lt;BCR5&gt;Ratio de capital bancaire requis|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3048]&lt;DLC1&gt;The Subsidiary DLC offers you a new set of powerful tools for conquering the business world on a grander scale!|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T150118Z" creationid="Olivier" creationdate="20200512T150118Z">
+        <seg>[3048]&lt;DLC1&gt;Le DLC Filiale vous offre un nouvel ensemble d'outils puissants pour conquérir le monde des affaires à plus grande échelle !|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3048]The Subsidiary DLC offers you a new set of powerful tools for conquering the business world on a grander scale!|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T104623Z" creationid="Olivier" creationdate="20200428T104623Z">
         <seg>[3048]Le DLC Filiale vous offre un nouvel ensemble d'outils puissants pour conquérir le monde des affaires à une plus grande échelle !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3049]&lt;DLC2&gt;The City Economic Simulation DLC lets you build new cities from scratch, form your own political party, and assume the role of mayor while simultaneously growing your business empire!|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T150144Z" creationid="Olivier" creationdate="20200512T150144Z">
+        <seg>[3049]&lt;DLC2&gt;Le DLC simulation économique de la ville vous permet de construire de nouvelles villes à partir de zéro, de former votre propre parti politique et d'assumer le rôle de maire tout en développant votre empire commercial !|</seg>
       </tuv>
     </tu>
     <tu>
@@ -55673,6 +55849,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3050]&lt;DLC3&gt;The Digital Age DLC offers you an exciting opportunity to build a tech startup at the dawn of the digital age and oversee its growth to eventually become a tech powerhouse that joins the ranks of tech titans such as Microsoft and Google!|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T150334Z" creationid="Olivier" creationdate="20200512T150334Z">
+        <seg>[3050]&lt;DLC3&gt;Le DLC Age Digital vous offre une opportunité passionnante de créer une start-up à l'aube de l'ère numérique et de superviser sa croissance pour finalement devenir une puissance technologique qui rejoint les rangs des titans de la technologie tels que Microsoft et Google !|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3050]The Digital Age DLC offers you an exciting opportunity to build a tech startup at the dawn of the digital age and oversee its growth to eventually become a tech powerhouse that joins the ranks of tech titans such as Microsoft and Google!|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T104803Z" creationid="Olivier" creationdate="20200428T104803Z">
@@ -55681,10 +55865,50 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3051]&lt;DLC4&gt;The Banking and Finance DLC simulates the financial world with a level of realism that is unprecedented in video games.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T150402Z" creationid="Olivier" creationdate="20200512T150402Z">
+        <seg>[3051]Le DLC Banque et Finance simule le monde financier avec un niveau de réalisme sans précédent dans les jeux vidéo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3051]The Banking and Finance DLC simulates the financial world with a level of realism that is unprecedented in video games.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T114819Z" creationid="Olivier" creationdate="20200428T114819Z">
         <seg>[3051]Le DLC Banque et Finance simule le monde financier avec un niveau de réalisme sans précédent dans les jeux vidéo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3052]&lt;LTAX&gt;Accumulated losses for future tax deduction|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T150425Z" creationid="Olivier" creationdate="20200512T150425Z">
+        <seg>[3052]&lt;LTAX&gt;Pertes cumulées pour une déduction fiscale future|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3053]&lt;UNVI&gt;Unique Visitors|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T150439Z" creationid="Olivier" creationdate="20200512T150439Z">
+        <seg>[3053]&lt;UNVI&gt;Visiteurs uniques|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3054]&lt;UNVM&gt;Monthly Unique Visitors|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T150457Z" creationid="Olivier" creationdate="20200512T150457Z">
+        <seg>[3054]&lt;UNVM&gt;Visiteurs uniques mensuels|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3055]&lt;INTT&gt;This Internet company does not have the required technology to start operation yet.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T150517Z" creationid="Olivier" creationdate="20200512T150517Z">
+        <seg>[3055]&lt;INTT&gt;Cette société Internet ne dispose pas encore de la technologie nécessaire pour commencer à fonctionner.</seg>
       </tuv>
     </tu>
     <tu>
