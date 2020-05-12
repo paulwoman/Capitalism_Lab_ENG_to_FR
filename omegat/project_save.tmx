@@ -55089,6 +55089,190 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2990]&lt;BIPR&gt;Claims Reserves|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T142949Z" creationid="Olivier" creationdate="20200512T142949Z">
+        <seg>[2990]&lt;BIPR&gt;Réserves de créances|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2991]&lt;ISBP&gt;Bank Net Profit|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T142959Z" creationid="Olivier" creationdate="20200512T142959Z">
+        <seg>[2991]&lt;ISBP&gt;Bénéfice net de la banque|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2992]&lt;ISLP&gt;Insurance Net Profit|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T143019Z" creationid="Olivier" creationdate="20200512T143019Z">
+        <seg>[2992]&lt;ISLP&gt;Bénéfice net de l'assurance|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2993]&lt;BLBA&gt;Bank Net Asset|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T143031Z" creationid="Olivier" creationdate="20200512T143031Z">
+        <seg>[2993]&lt;BLBA&gt;Actif net de la banque|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2994]&lt;BLIA&gt;Insurance Net Asset|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T143044Z" creationid="Olivier" creationdate="20200512T143044Z">
+        <seg>[2994]&lt;BLIA&gt;Actif net de la banque|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2995]&lt;EXPE&gt;Expenses|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T143052Z" creationid="Olivier" creationdate="20200512T143052Z">
+        <seg>[2995]&lt;EXPE&gt;Dépenses|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2996]&lt;SEHQ&gt;Salaries Expense (HQ)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T143131Z" creationid="Olivier" creationdate="20200512T143131Z">
+        <seg>[2996]&lt;SEHQ&gt;Dépenses salariales (QG)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2997]&lt;SEBR&gt;Salaries Expense (Branches)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T143148Z" creationid="Olivier" creationdate="20200512T143148Z">
+        <seg>[2997]&lt;SEBR&gt;Dépenses salariales (Filiales)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2998]&lt;OOHQ&gt;Operating Overhead (HQ)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T143205Z" creationid="Olivier" creationdate="20200512T143205Z">
+        <seg>[2998]&lt;OOHQ&gt;Frais généraux d'exploitation (QG)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2999]&lt;OOBR&gt;Operating Overhead (Branches)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T143232Z" creationid="Olivier" creationdate="20200512T143232Z">
+        <seg>[2999]&lt;OOBR&gt;Frais généraux d'exploitation (Filiales)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3000]&lt;AM09&gt;Real Estate Department|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T143243Z" creationid="Olivier" creationdate="20200512T143243Z">
+        <seg>[3000]&lt;AM09&gt;Département de l'immobilier|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3001]&lt;KNO1&gt;You must first possess the knowhow for|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T143254Z" creationid="Olivier" creationdate="20200512T143254Z">
+        <seg>[3001]&lt;KNO1&gt;Vous devez d'abord posséder le savoir-faire pour|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3002]&lt;KNO2&gt;(click to view it now)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T143309Z" creationid="Olivier" creationdate="20200512T143309Z">
+        <seg>[3002]&lt;KNO2&gt;(cliquez pour le voir maintenant|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3003]&lt;KNO3&gt;and|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T143847Z" creationid="Olivier" creationdate="20200512T143847Z">
+        <seg>[3003]&lt;KNO3&gt;et|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3004]&lt;KNO4&gt;And talents required for the invention project is expected to be available in year|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T143930Z" creationid="Olivier" creationdate="20200512T143859Z">
+        <seg>[3004]&lt;KNO4&gt;Et les talents requis pour le projet d'invention devraient être disponibles dans l'année|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3005]&lt;KNO5&gt;Talents required for the invention project is expected to be available in year|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T143923Z" creationid="Olivier" creationdate="20200512T143923Z">
+        <seg>[3005]&lt;KNO5&gt;Les talents requis pour le projet d'invention devraient être disponibles dans l'année|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3006]&lt;KNO6&gt;You must first own an IP or have access to open-source tech.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T143947Z" creationid="Olivier" creationdate="20200512T143947Z">
+        <seg>[3006]&lt;KNO6&gt;Vous devez d'abord posséder une propriété intellectuelle ou avoir accès à une technologie à source ouverte|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3007]&lt;KNO7&gt;Missing knowhow for input(s):|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T144038Z" creationid="Olivier" creationdate="20200512T144038Z">
+        <seg>[3007]&lt;KNO7&gt;Manque de savoir-faire pour le(s) intrant(s) :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3008]&lt;KNO8&gt;Nil|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T144259Z" creationid="Olivier" creationdate="20200512T144259Z">
+        <seg>[3008]&lt;KNO8&gt;Nil|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3009]&lt;KNO9&gt;Invention Pre-requisites:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T144109Z" creationid="Olivier" creationdate="20200512T144109Z">
+        <seg>[3009]&lt;KNO9&gt;Conditions préalables à l'invention :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3010]&lt;KN10&gt;Invention Pre-requisite:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T144110Z" creationid="Olivier" creationdate="20200512T144110Z">
+        <seg>[3010]&lt;KN10&gt;Invention Pre-requisite:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3011]&lt;BIP2&gt;Claims Reserves|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T144120Z" creationid="Olivier" creationdate="20200512T144120Z">
+        <seg>[3011]&lt;BIP2&gt;Claims Reserves|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3012]&lt;BIP3&gt;Claims Reserves|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T144306Z" creationid="Olivier" creationdate="20200512T144306Z">
+        <seg>[3012]&lt;BIP3&gt;Claims Reserves|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3048]The Subsidiary DLC offers you a new set of powerful tools for conquering the business world on a grander scale!|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T104623Z" creationid="Olivier" creationdate="20200428T104623Z">
