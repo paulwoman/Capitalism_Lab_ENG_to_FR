@@ -542,6 +542,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// For product based expertise, &lt;product class&gt; can be one of the product classes in the game, such as Apparel, Automobile, Beverage and etc.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T134742Z" creationid="Olivier" creationdate="20200512T134742Z">
+        <seg>// Pour l'expertise basée sur les produits, &lt;classe de produit&gt; peut être l'une des classes de produits du jeu, comme l'habillement, l'automobile, les boissons, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// For skill based expertise, &lt;expertise type&gt; can be: retail, manufacturing, farming, research and development, raw material production, marketing, training</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T134720Z" creationid="Olivier" creationdate="20200512T134720Z">
+        <seg> Pour l'expertise basée sur les compétences, &lt;le type d'expertise&gt; peut être : vente au détail, fabrication, agriculture, recherche et développement, production de matières premières, marketing, formation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// Game Starting Year=&lt;1900 to 2100&gt;</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T225152Z" creationid="Inrepublica" creationdate="20200423T151518Z">
@@ -562,6 +578,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T223808Z" creationid="Olivier" creationdate="20200430T223808Z">
         <seg>// S'il s'agit d'une définition, l'image de l'objectif sera affichée sur le rapport d'objectif.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// If this is defined, the product type will be invented instantly by your corporation when you have achieved the goal.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T134833Z" creationid="Olivier" creationdate="20200512T134833Z">
+        <seg>// Si cela est défini, le type de produit sera inventé instantanément par votre société lorsque vous aurez atteint l'objectif.</seg>
       </tuv>
     </tu>
     <tu>
@@ -650,6 +674,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T215312Z" creationid="Olivier" creationdate="20200429T215312Z">
         <seg>// Initial corporate brand awareness and brand royalty ratings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// Instant invention=&lt;product type&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T134823Z" creationid="Olivier" creationdate="20200512T134823Z">
+        <seg>// Instant invention=&lt;product type&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -750,6 +782,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// Tech change=&lt;product type&gt;, &lt;change value -1000 to 1000&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T134757Z" creationid="Olivier" creationdate="20200512T134757Z">
+        <seg>// Tech change=&lt;product type&gt;, &lt;change value -1000 to 1000&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// Technology Disruption=&lt;Yes, No&gt;</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151235Z" creationid="Inrepublica" creationdate="20200423T151235Z">
@@ -814,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// This will change your corporation's technology level of the specified product type when you have achieved the goal.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T134820Z" creationid="Olivier" creationdate="20200512T134820Z">
+        <seg>// Cela modifiera le niveau technologique de votre entreprise pour le type de produit spécifié lorsque vous aurez atteint l'objectif.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// Use this statement to assign a specified type of expertise to AI competitors.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T223242Z" creationid="Olivier" creationdate="20200430T223242Z">
@@ -842,6 +890,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222931Z" creationid="Olivier" creationdate="20200430T222931Z">
         <seg>// Vous pouvez attribuer une séquence de carte spécifique à votre ville et la carte de la ville sera générée de manière identique à chaque fois qu'un nouveau jeu sera créé à l'aide du script.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// You may change either the person's skill based expertise or the person's product based expertise.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T134623Z" creationid="Olivier" creationdate="20200512T134623Z">
+        <seg>// Vous pouvez modifier soit l'expertise basée sur les compétences de la personne, soit l'expertise basée sur le produit de la personne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5314,6 +5370,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171309Z" creationid="Olivier" creationdate="20200427T171309Z">
         <seg>COO Salary Modifier=50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>COO expertise change=Electronic Products, 50</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T134753Z" creationid="Olivier" creationdate="20200512T134753Z">
+        <seg>COO expertise change=Electronic Products, 50</seg>
       </tuv>
     </tu>
     <tu>
@@ -23729,6 +23793,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Player expertise change=Computer, 30</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T134747Z" creationid="Olivier" creationdate="20200512T134747Z">
+        <seg>Player expertise change=Computer, 30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Player expertise change=manufacturing, 60</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T221237Z" creationid="Olivier" creationdate="20200430T221237Z">
@@ -29389,6 +29461,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171040Z" creationid="Olivier" creationdate="20200427T171040Z">
         <seg>Tech change=Notebook Computer, 1000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tech change=Notebook Computer, 30</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T134756Z" creationid="Olivier" creationdate="20200512T134756Z">
+        <seg>Tech change=Notebook Computer, 30</seg>
       </tuv>
     </tu>
     <tu>
@@ -44425,10 +44505,18 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1190]&lt;0344&gt;This item can be sold in...|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T135058Z" creationid="Olivier" creationdate="20200512T135040Z">
+        <seg>[1190]&lt;0344&gt;Cet article peut être vendu dans...|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1194]&lt;A700&gt;Frozen|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T224405Z" creationid="Olivier" creationdate="20200509T224405Z">
-        <seg>[1194]Congelés|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T135107Z" creationid="Olivier" creationdate="20200509T224405Z">
+        <seg>[1194]&lt;A700&gt;Congelés|</seg>
       </tuv>
     </tu>
     <tu>
@@ -45579,8 +45667,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1362]&lt;0427&gt;ACHIEVED|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T102635Z" creationid="Olivier" creationdate="20200429T102635Z">
-        <seg>[1362]&lt;0427&gt;ACHEVE|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T135137Z" creationid="Olivier" creationdate="20200429T102635Z">
+        <seg>[1362]&lt;0427&gt;ATTEINT|</seg>
       </tuv>
     </tu>
     <tu>
@@ -54413,6 +54501,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T102025Z" creationid="Olivier" creationdate="20200512T102025Z">
         <seg>[2923]&lt;TGD1&gt;Fait grandir la ville de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2924]&lt;TGD2&gt;and improve the quality of life of its citizens.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T135821Z" creationid="Olivier" creationdate="20200512T135821Z">
+        <seg>[2924]&lt;TGD2&gt;et améliorer la qualité de vie de ses citoyens|</seg>
       </tuv>
     </tu>
     <tu>
