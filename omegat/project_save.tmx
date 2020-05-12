@@ -56633,6 +56633,214 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3132]&lt;LAU2&gt;Set up a farm to produce|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T154627Z" creationid="Olivier" creationdate="20200512T154627Z">
+        <seg>[3132]&lt;LAU2&gt;Créer une ferme pour produire|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3133]&lt;LAU3&gt;Set up a factory to produce|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T154643Z" creationid="Olivier" creationdate="20200512T154643Z">
+        <seg>[3133]&lt;LAU3&gt;Créer une usine pour produire|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3134]&lt;LAU4&gt;and launch it onto the market|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T154655Z" creationid="Olivier" creationdate="20200512T154655Z">
+        <seg>[3134]&lt;LAU4&gt;et le lancer sur le marché|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3135]&lt;GSU1&gt;Subsidiaries with Net Worth of|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T154708Z" creationid="Olivier" creationdate="20200512T154708Z">
+        <seg>[3135]&lt;GSU1&gt;Filiales avec une valeur nette de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3136]&lt;GSU2&gt;Subsidiaries with Market Value of|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T154721Z" creationid="Olivier" creationdate="20200512T154721Z">
+        <seg>[3136]&lt;GSU2&gt;Filiales ayant une valeur marchande de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3137]&lt;GSU3&gt;Subsidiaries with Annual Revenue of|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T154734Z" creationid="Olivier" creationdate="20200512T154734Z">
+        <seg>[3137]&lt;GSU3&gt;Filiales ayant un revenu annuel de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3138]&lt;GSU4&gt;Subsidiaries with Operating Profit of|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T154746Z" creationid="Olivier" creationdate="20200512T154746Z">
+        <seg>[3138]&lt;GSU4&gt;]Filiales avec un bénéfice d'exploitation de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3139]&lt;GSU5&gt;Subsidiaries with Dominance in|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T154803Z" creationid="Olivier" creationdate="20200512T154803Z">
+        <seg>[3139]&lt;GSU5&gt;iliales à prédominance en|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3140]&lt;IND1&gt;Industry|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T154809Z" creationid="Olivier" creationdate="20200512T154809Z">
+        <seg>[3140]&lt;IND1&gt;Industrie|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3141]&lt;IND2&gt;Industries|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T154818Z" creationid="Olivier" creationdate="20200512T154818Z">
+        <seg>[3141]&lt;IND2&gt;Industries|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3142]&lt;GSU6&gt;Subsidiaries IPOs with $1 billion market cap|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T154842Z" creationid="Olivier" creationdate="20200512T154842Z">
+        <seg>[3142]&lt;GSU6&gt;Introduction en bourse de filiales avec une capitalisation boursière d'un milliard de dollars|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3143]&lt;GLSR&gt;Lifetime Shareholder Return|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T154852Z" creationid="Olivier" creationdate="20200512T154852Z">
+        <seg>[3143]&lt;GLSR&gt;Rendement à vie des actionnaires|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3144]&lt;GOW1&gt;Own at least|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T154914Z" creationid="Olivier" creationdate="20200512T154914Z">
+        <seg>[3144]&lt;GOW1&gt;Possède au moins|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3145]&lt;GOW2&gt;equity in|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T154930Z" creationid="Olivier" creationdate="20200512T154930Z">
+        <seg>[3145]&lt;GOW2&gt;capitaux propres en|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3146]&lt;GBNC&gt;Build a New City|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T154943Z" creationid="Olivier" creationdate="20200512T154943Z">
+        <seg>[3146]&lt;GBNC&gt;Construire une nouvelle ville|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3147]&lt;NCIT&gt;Number of Cities You Manage|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T154957Z" creationid="Olivier" creationdate="20200512T154957Z">
+        <seg>[3147]&lt;NCIT&gt;Nombre de villes que vous gérez|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3148]&lt;GNPO&gt;National Population|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T155006Z" creationid="Olivier" creationdate="20200512T155006Z">
+        <seg>[3148]&lt;GNPO&gt;Population nationale|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3149]&lt;NQOL&gt;National Quality of Life index|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T155018Z" creationid="Olivier" creationdate="20200512T155018Z">
+        <seg>[3149]&lt;NQOL&gt;Indice national de la qualité de vie|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3150]&lt;NUNE&gt;National Unemployment Rate|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T155037Z" creationid="Olivier" creationdate="20200512T155037Z">
+        <seg>[3150]&lt;NUNE&gt;Taux de chômage national|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3151]&lt;NGDP&gt;National GDP|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T155050Z" creationid="Olivier" creationdate="20200512T155050Z">
+        <seg>[3151]&lt;NGDP&gt;PIB National|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3152]&lt;NGDC&gt;National GDP per capita|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T155103Z" creationid="Olivier" creationdate="20200512T155103Z">
+        <seg>[3152]&lt;NGDC&gt;PIB National par capitale|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3153]&lt;NWAG&gt;National Wage Rate|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T155117Z" creationid="Olivier" creationdate="20200512T155117Z">
+        <seg>[3153]&lt;NWAG&gt;Taux salarial national|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3154]&lt;NSCO&gt;National Score|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T155126Z" creationid="Olivier" creationdate="20200512T155126Z">
+        <seg>[3154]&lt;NSCO&gt;Score National|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3155]&lt;POIS&gt;Political Influence Score|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T155144Z" creationid="Olivier" creationdate="20200512T155144Z">
+        <seg>[3155]&lt;POIS&gt;Score d'influence politique|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3156]&lt;DMOS&gt;Market Dominance of Mobile OS|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T155159Z" creationid="Olivier" creationdate="20200512T155159Z">
+        <seg>[3156]&lt;DMOS&gt;La domination du marché des systèmes d'exploitation mobiles|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3157]&lt;DCOS&gt;Market Dominance of Computer OS|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T155227Z" creationid="Olivier" creationdate="20200512T155227Z">
+        <seg>[3157]&lt;DCOS&gt;Domination du marché des systèmes d'exploitation pour ordinateurs|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202555Z" creationid="Inrepublica" creationdate="20200422T202555Z">
