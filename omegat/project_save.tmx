@@ -10118,6 +10118,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each shareholder now holds|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T091756Z" creationid="Olivier" creationdate="20200512T091756Z">
+        <seg>Chaque actionnaire détient désormais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Each software company can only have one Project Management unit.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T102010Z" creationid="Olivier" creationdate="20200427T102010Z">
@@ -52891,8 +52899,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2739]&lt;NBF8&gt;donates to build a|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T091215Z" creationid="Olivier" creationdate="20200512T091215Z">
-        <seg>[2739]&lt;NBF8&gt;donates to build a|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T091419Z" creationid="Olivier" creationdate="20200512T091215Z">
+        <seg>[2739]&lt;NBF8&gt;fait un don pour construire un|</seg>
       </tuv>
     </tu>
     <tu>
@@ -52901,6 +52909,286 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T091236Z" creationid="Olivier" creationdate="20200512T091236Z">
         <seg>[2739]donates to build a|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2740]&lt;NBF9&gt;sets up|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T091432Z" creationid="Olivier" creationdate="20200512T091357Z">
+        <seg>[2740]&lt;NBF9&gt;installe|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2741]&lt;NBG1&gt;builds|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T091444Z" creationid="Olivier" creationdate="20200512T091444Z">
+        <seg>[2741]&lt;NBG1&gt;construisent|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2742]&lt;NDF1&gt;demolishes his Mansion and sells the land.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T091507Z" creationid="Olivier" creationdate="20200512T091507Z">
+        <seg>[2742]&lt;NDF1&gt;démolit son manoir et vend le terrain.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2743]&lt;NDF2&gt;demolishes her Mansion and sells the land.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T091521Z" creationid="Olivier" creationdate="20200512T091446Z">
+        <seg>[2743]&lt;NDF2&gt;démolit son manoir et vend le terrain.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2744]&lt;NAC1&gt;changes its corporate strategy from|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T091547Z" creationid="Olivier" creationdate="20200512T091547Z">
+        <seg>[2744]&lt;NAC1&gt;modifie sa stratégie de société en|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2745]&lt;NAC2&gt;to|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T091556Z" creationid="Olivier" creationdate="20200512T091551Z">
+        <seg>[2745]&lt;NAC2&gt;à|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2746]&lt;NBF1&gt;acquires an|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T091611Z" creationid="Olivier" creationdate="20200512T091553Z">
+        <seg>[2746]&lt;NBF1&gt;acquiert un|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2747]&lt;NBF2&gt;acquires a|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T091641Z" creationid="Olivier" creationdate="20200512T091617Z">
+        <seg>[2747]&lt;NBF2&gt;acquiert un|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2748]&lt;NBF3&gt;in|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T091646Z" creationid="Olivier" creationdate="20200512T091646Z">
+        <seg>[2748]&lt;NBF3&gt;dans|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2749]&lt;NBF4&gt;from|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T091707Z" creationid="Olivier" creationdate="20200512T091707Z">
+        <seg>[2749]&lt;NBF4&gt;à partir de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2750]&lt;NBF5&gt;for|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T091711Z" creationid="Olivier" creationdate="20200512T091711Z">
+        <seg>[2750]&lt;NBF5&gt;pour|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2751]&lt;NSS1&gt;splits its share|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T091743Z" creationid="Olivier" creationdate="20200512T091743Z">
+        <seg>[2751]&lt;NSS1&gt;fractionne ses actions|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2752]&lt;NSS2&gt;-for-1.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T091749Z" creationid="Olivier" creationdate="20200512T091749Z">
+        <seg>[2752]&lt;NSS2&gt;-pour-1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2753]&lt;NSS3&gt;times as many shares.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T091811Z" creationid="Olivier" creationdate="20200512T091811Z">
+        <seg>[2753]&lt;NSS3&gt;fois plus d'actions.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2754]&lt;NSS4&gt;undergoes a 1-|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T091836Z" creationid="Olivier" creationdate="20200512T091836Z">
+        <seg>[2754]&lt;NSS4&gt;subit un 1-|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2755]&lt;NSS5&gt;stock merge, which groups every|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T091919Z" creationid="Olivier" creationdate="20200512T091919Z">
+        <seg>[2755]&lt;NSS5&gt;fusion de titres, qui regroupe toutes les|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2756]&lt;NSS6&gt;shares into one share.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T091939Z" creationid="Olivier" creationdate="20200512T091939Z">
+        <seg>[2756]&lt;NSS6&gt;actions en une seule action.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2757]&lt;NBM1&gt;buys an|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T091949Z" creationid="Olivier" creationdate="20200512T091949Z">
+        <seg>[2757]&lt;NBM1&gt;achète un|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2758]&lt;NBM2&gt;buys a|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T091955Z" creationid="Olivier" creationdate="20200512T091955Z">
+        <seg>[2758]&lt;NBM2&gt;achète un|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2759]&lt;NBM3&gt;in|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092004Z" creationid="Olivier" creationdate="20200512T092004Z">
+        <seg>[2759]&lt;NBM3&gt;dans|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2760]&lt;NBM4&gt;from|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092010Z" creationid="Olivier" creationdate="20200512T092010Z">
+        <seg>[2760]&lt;NBM4&gt;à partir de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2761]&lt;NBM5&gt;for|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092016Z" creationid="Olivier" creationdate="20200512T092016Z">
+        <seg>[2761]&lt;NBM5&gt;pour|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2762]&lt;NCI1&gt;The central bank increases the interest rate from|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092034Z" creationid="Olivier" creationdate="20200512T092034Z">
+        <seg>[2762]&lt;NCI1&gt;La banque centrale augmente le taux d'intérêt de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2763]&lt;NCI2&gt;The central bank decreases the interest rate from|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092042Z" creationid="Olivier" creationdate="20200512T092042Z">
+        <seg>[2763]&lt;NCI2&gt;La banque centrale diminue le taux d'intérêt de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2764]&lt;NCI3&gt;to|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092046Z" creationid="Olivier" creationdate="20200512T092046Z">
+        <seg>[2764]&lt;NCI3&gt;de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2765]&lt;NCB1&gt;A new chairman with|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092058Z" creationid="Olivier" creationdate="20200512T092058Z">
+        <seg>[2765]&lt;NCB1&gt;Un nouveau président avec|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2766]&lt;NCB2&gt;attitude is now at the helm of the central bank.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092141Z" creationid="Olivier" creationdate="20200512T092141Z">
+        <seg>[2766]&lt;NCB2&gt;attitude est maintenant à la tête de la banque centrale.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2767]&lt;NAT1&gt;acquires technology for|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092152Z" creationid="Olivier" creationdate="20200512T092152Z">
+        <seg>[2767]&lt;NAT1&gt;acquiert une technologie pour|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2768]&lt;NAT2&gt;from|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092204Z" creationid="Olivier" creationdate="20200512T092157Z">
+        <seg>[2768]&lt;NAT2&gt;à partir de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2769]&lt;NAT3&gt;for|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092208Z" creationid="Olivier" creationdate="20200512T092159Z">
+        <seg>[2769]&lt;NAT3&gt;pour|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2770]&lt;NGV1&gt;The Government|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092217Z" creationid="Olivier" creationdate="20200512T092217Z">
+        <seg>[2770]&lt;NGV1&gt;Le Gouvernement|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2771]&lt;NGV2&gt;the Government|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092226Z" creationid="Olivier" creationdate="20200512T092226Z">
+        <seg>[2771]&lt;NGV2&gt;le Gouvernement|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2772]&lt;NAC0&gt;Corporation Changes Strategy|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092247Z" creationid="Olivier" creationdate="20200512T092247Z">
+        <seg>[2772]&lt;NAC0&gt;Stratégie de changement des sociétés|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2773]&lt;NIR0&gt;Central Bank Changes Interest Rate|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092302Z" creationid="Olivier" creationdate="20200512T092302Z">
+        <seg>[2773]&lt;NIR0&gt;La banque centrale modifie son taux d'intérêt|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2774]&lt;NBC0&gt;The New Central Bank Chairman|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092313Z" creationid="Olivier" creationdate="20200512T092313Z">
+        <seg>[2774]&lt;NBC0&gt;Le nouveau président de la Banque centrale|</seg>
       </tuv>
     </tu>
     <tu>
