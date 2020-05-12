@@ -88,8 +88,8 @@
       <tuv lang="en-US">
         <seg>#Life insurance policies#, which are assumed to last an average of 30 years in this game, will generate premium incomes for the insurance company on a yearly basis until the policies mature.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151717Z" creationid="Olivier" creationdate="20200507T151717Z">
-        <seg>#Les polices d'assurance vie#, qui sont supposées durer en moyenne 30 ans dans ce jeu, généreront des revenus de primes pour la compagnie d'assurance sur une base annuelle jusqu'à l'échéance des polices.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151139Z" creationid="Olivier" creationdate="20200507T151717Z">
+        <seg>#Les polices d'assurance vie#, qui sont supposées durer en moyenne 30 ans dans ce jeu, généreront des revenus de primes pour la compagnie d'assurances sur une base annuelle jusqu'à l'échéance des polices.</seg>
       </tuv>
     </tu>
     <tu>
@@ -226,6 +226,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T142058Z" creationid="Olivier" creationdate="20200504T142058Z">
         <seg>(Sélectionnez le mode Pollution sur la mini-carte pour voir le niveau de population de la ville).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(Success chance:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T150812Z" creationid="Olivier" creationdate="20200512T150812Z">
+        <seg>(Chance de réussite :|</seg>
       </tuv>
     </tu>
     <tu>
@@ -3104,16 +3112,16 @@
       <tuv lang="en-US">
         <seg>An insurance company has its own balance sheet and its assets are separate from the parent company's.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Acer" changedate="20200507T192712Z" creationid="Acer" creationdate="20200507T192712Z">
-        <seg>Une compagnie d'assurance a son propre bilan et ses actifs sont séparés de ceux de la société mère.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151139Z" creationid="Acer" creationdate="20200507T192712Z">
+        <seg>Une compagnie d'assurances a son propre bilan et ses actifs sont séparés de ceux de la société mère.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>An insurance company must maintain a positive capital ratio.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T143701Z" creationid="Olivier" creationdate="20200508T143701Z">
-        <seg>Une compagnie d'assurance doit maintenir un ratio de capital positif.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151139Z" creationid="Olivier" creationdate="20200508T143701Z">
+        <seg>Une compagnie d'assurances doit maintenir un ratio de capital positif.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10544,8 +10552,8 @@
       <tuv lang="en-US">
         <seg>Existing Life Insurance Policies provide a reliable stream of premium incomes to the insurance company.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151751Z" creationid="Olivier" creationdate="20200507T151746Z">
-        <seg>Les polices d'assurance vie existantes fournissent un flux fiable de revenus de primes à la compagnie d'assurance.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151139Z" creationid="Olivier" creationdate="20200507T151746Z">
+        <seg>Les polices d'assurance vie existantes fournissent un flux fiable de revenus de primes à la compagnie d'assurances.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17707,8 +17715,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Insurance Company</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T092243Z" creationid="Olivier" creationdate="20200508T092243Z">
-        <seg>Compagnie d'assurance</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151139Z" creationid="Olivier" creationdate="20200508T092243Z">
+        <seg>compagnie d'assurances</seg>
       </tuv>
     </tu>
     <tu>
@@ -17723,8 +17731,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Insurance Company Brand Rating</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091305Z" creationid="Olivier" creationdate="20200508T091305Z">
-        <seg>Classement de la marque de la compagnie d'assurance</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151139Z" creationid="Olivier" creationdate="20200508T091305Z">
+        <seg>Classement de la marque de la compagnie d'assurances</seg>
       </tuv>
     </tu>
     <tu>
@@ -17891,8 +17899,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>It affects the overall #service quality# of the insurance company.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T150958Z" creationid="Olivier" creationdate="20200507T150958Z">
-        <seg>Cela affecte la #qualité du service# de la compagnie d'assurance.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151139Z" creationid="Olivier" creationdate="20200507T150958Z">
+        <seg>Cela affecte la #qualité du service# de la compagnie d'assurances.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18357,6 +18365,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T124438Z" creationid="Olivier" creationdate="20200424T124438Z">
         <seg>Il est temps de les mettre en service ! Construisons une usine pour fabriquer des ~articles vestimentaires~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Its bondholders lost all their investments in the bonds.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151347Z" creationid="Olivier" creationdate="20200512T151347Z">
+        <seg>Ses détenteurs d'obligations ont perdu tous leurs investissements dans les obligations|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Its bondholders receive|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151403Z" creationid="Olivier" creationdate="20200512T151403Z">
+        <seg>Ses détenteurs d'obligations reçoivent|</seg>
       </tuv>
     </tu>
     <tu>
@@ -22467,16 +22491,16 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Order this insurance company to buy or sell bonds.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T092253Z" creationid="Olivier" creationdate="20200508T092253Z">
-        <seg>Ordonnez à cette compagnie d'assurance d'acheter ou de vendre des obligations.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151139Z" creationid="Olivier" creationdate="20200508T092253Z">
+        <seg>Ordonnez à cette compagnie d'assurances d'acheter ou de vendre des obligations.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Order this insurance company to buy or sell stocks.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T092247Z" creationid="Olivier" creationdate="20200508T092247Z">
-        <seg>Ordonnez à cette compagnie d'assurance d'acheter ou de vendre des actions.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151139Z" creationid="Olivier" creationdate="20200508T092247Z">
+        <seg>Ordonnez à cette compagnie d'assurances d'acheter ou de vendre des actions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26803,8 +26827,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Return on Equity (ROE) is calculated by dividing the insurance company's Net Profit by its Equity Capital.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091005Z" creationid="Olivier" creationdate="20200508T091005Z">
-        <seg>Le rendement des capitaux propres (ROE) est calculé en divisant le bénéfice net de la compagnie d'assurance par ses capitaux propres.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151139Z" creationid="Olivier" creationdate="20200508T091005Z">
+        <seg>Le rendement des capitaux propres (ROE) est calculé en divisant le bénéfice net de la compagnie d'assurances par ses capitaux propres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30427,8 +30451,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>The #Capital Ratio# is the ratio of an insurance company's #Equity Capital# to its #Total Assets#.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T143633Z" creationid="Olivier" creationdate="20200508T143633Z">
-        <seg>Le #ratio de capital# est le rapport entre les fonds propre d'une compagnie d'assurance et son actif total.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151139Z" creationid="Olivier" creationdate="20200508T143633Z">
+        <seg>Le #ratio de capital# est le rapport entre les fonds propre d'une compagnie d'assurances et son actif total.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30699,8 +30723,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>The average brand rating of the insurance company in all the cities.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091500Z" creationid="Olivier" creationdate="20200508T091500Z">
-        <seg>Le classement moyen de la marque de la compagnie d'assurance dans toutes les villes.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151139Z" creationid="Olivier" creationdate="20200508T091500Z">
+        <seg>Le classement moyen de la marque de la compagnie d'assurances dans toutes les villes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30763,8 +30787,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>The average staff skill level of all the insurance company's front offices.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T150916Z" creationid="Olivier" creationdate="20200507T150916Z">
-        <seg>Le niveau de compétence moyen du personnel de tous les bureaux de la compagnie d'assurance.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151139Z" creationid="Olivier" creationdate="20200507T150916Z">
+        <seg>Le niveau de compétence moyen du personnel de tous les bureaux de la compagnie d'assurances.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30779,8 +30803,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>The average training budget of all the insurance company's front offices.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T150642Z" creationid="Olivier" creationdate="20200507T150642Z">
-        <seg>Le budget moyen de formation de l'ensemble des guichets de la compagnie d'assurance.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151139Z" creationid="Olivier" creationdate="20200507T150642Z">
+        <seg>Le budget moyen de formation de l'ensemble des guichets de la compagnie d'assurances.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30883,8 +30907,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>The brand rating of the insurance company in this city.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151237Z" creationid="Olivier" creationdate="20200507T151237Z">
-        <seg>Le classement de la marque de la compagnie d'assurance dans cette ville.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151139Z" creationid="Olivier" creationdate="20200507T151237Z">
+        <seg>Le classement de la marque de la compagnie d'assurances dans cette ville.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30939,8 +30963,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>The claims reserves represent the money which must be held by the insurance company so as to be able to meet all future claims arising from policies written in the past.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Acer" changedate="20200507T192829Z" creationid="Acer" creationdate="20200507T192829Z">
-        <seg>Les réserves pour indemnisation représentent l'argent qui doit être détenu par la compagnie d'assurance afin de pouvoir faire face à toutes les réclamations futures découlant de polices souscrites dans le passé.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151139Z" creationid="Acer" creationdate="20200507T192829Z">
+        <seg>Les réserves pour indemnisation représentent l'argent qui doit être détenu par la compagnie d'assurances afin de pouvoir faire face à toutes les réclamations futures découlant de polices souscrites dans le passé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31163,8 +31187,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>The financial performance of this insurance company in the past 12 months.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151438Z" creationid="Olivier" creationdate="20200507T151438Z">
-        <seg>Les résultats financiers de cette compagnie d'assurance au cours des 12 derniers mois.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151139Z" creationid="Olivier" creationdate="20200507T151438Z">
+        <seg>Les résultats financiers de cette compagnie d'assurances au cours des 12 derniers mois.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31347,8 +31371,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>The insurance company does not have sufficient cash to repay all its insurance contract liabilities in claims reserves.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T145129Z" creationid="Olivier" creationdate="20200512T145129Z">
-        <seg>La compagnie d'assurance ne dispose pas de suffisamment de liquidités pour rembourser toutes ses obligations au titre des contrats d'assurance dans les réserves pour sinistres.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151139Z" creationid="Olivier" creationdate="20200512T145129Z">
+        <seg>La compagnie d'assurances ne dispose pas de suffisamment de liquidités pour rembourser toutes ses obligations au titre des contrats d'assurance dans les réserves pour sinistres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31467,8 +31491,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>The maximum amount of cash that you are allowed to transfer from the insurance company to your corporation.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T090739Z" creationid="Olivier" creationdate="20200508T090739Z">
-        <seg>Le montant maximum d'argent liquide que vous êtes autorisé à transférer de la compagnie d'assurance à votre société.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151139Z" creationid="Olivier" creationdate="20200508T090739Z">
+        <seg>Le montant maximum d'argent liquide que vous êtes autorisé à transférer de la compagnie d'assurances à votre société.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34124,8 +34148,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>To remedy this, you may transfer funds from the parent corporation to the insurance company.|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T145132Z" creationid="Olivier" creationdate="20200512T145132Z">
-        <seg>Pour y remédier, vous pouvez transférer des fonds de la société mère à la compagnie d'assurance|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151139Z" creationid="Olivier" creationdate="20200512T145132Z">
+        <seg>Pour y remédier, vous pouvez transférer des fonds de la société mère à la compagnie d'assurances|</seg>
       </tuv>
     </tu>
     <tu>
@@ -35692,8 +35716,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>View the financial statements of this corporate group, in addition to those of this insurance company.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T104057Z" creationid="Olivier" creationdate="20200507T104044Z">
-        <seg>Consultez les états financiers de ce groupe de sociétés, en plus de ceux de cette compagnie d'assurance.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151139Z" creationid="Olivier" creationdate="20200507T104044Z">
+        <seg>Consultez les états financiers de ce groupe de sociétés, en plus de ceux de cette compagnie d'assurances.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37244,8 +37268,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>You may change the transfer mode - whether it is to transfer funds from the insurance company to its parent corporation, or the other way round, by clicking on the Arrow icon.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T090754Z" creationid="Olivier" creationdate="20200508T090754Z">
-        <seg>Vous pouvez changer le mode de transfert - que ce soit pour transférer des fonds de la compagnie d'assurance vers sa société mère, ou l'inverse, en cliquant sur l'icône Flèche.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151139Z" creationid="Olivier" creationdate="20200508T090754Z">
+        <seg>Vous pouvez changer le mode de transfert - que ce soit pour transférer des fonds de la compagnie d'assurances vers sa société mère, ou l'inverse, en cliquant sur l'icône Flèche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37412,8 +37436,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>You may transfer funds from the parent company to the insurance company's balance sheet or vice versa.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Acer" changedate="20200507T192731Z" creationid="Acer" creationdate="20200507T192731Z">
-        <seg>Vous pouvez transférer des fonds de la société mère vers le bilan de la compagnie d'assurance ou inversement.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151139Z" creationid="Acer" creationdate="20200507T192731Z">
+        <seg>Vous pouvez transférer des fonds de la société mère vers le bilan de la compagnie d'assurances ou inversement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55563,8 +55587,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[3016]&lt;CIN2&gt;Sorry, you cannot close down the insurance company.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T145124Z" creationid="Olivier" creationdate="20200512T145124Z">
-        <seg>[3016]&lt;CIN2&gt;Désolé, vous ne pouvez pas fermer la compagnie d'assurance.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151139Z" creationid="Olivier" creationdate="20200512T145124Z">
+        <seg>[3016]&lt;CIN2&gt;Désolé, vous ne pouvez pas fermer la compagnie d'assurances.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55643,16 +55667,16 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[3026]&lt;IOC1&gt;Your Insurance Company Has Run Out of Cash!|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T145504Z" creationid="Olivier" creationdate="20200512T145504Z">
-        <seg>[3026]&lt;IOC1&gt;Votre compagnie d'assurance est à court de liquidités !|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151139Z" creationid="Olivier" creationdate="20200512T145504Z">
+        <seg>[3026]&lt;IOC1&gt;Votre compagnie d'assurances est à court de liquidités !|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[3027]&lt;IOC2&gt;The insurance company of your subsidiary |</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T145519Z" creationid="Olivier" creationdate="20200512T145519Z">
-        <seg>[3027]&lt;IOC2&gt;La compagnie d'assurance de votre filiale |</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151139Z" creationid="Olivier" creationdate="20200512T145519Z">
+        <seg>[3027]&lt;IOC2&gt;La compagnie d'assurances de votre filiale |</seg>
       </tuv>
     </tu>
     <tu>
@@ -55667,8 +55691,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[3029]&lt;IOC4&gt;Transfer funds from your corporation to your insurance company.|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T145548Z" creationid="Olivier" creationdate="20200512T145548Z">
-        <seg>[3029]&lt;IOC4&gt;Transférez des fonds de votre société à votre compagnie d'assurance.|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151139Z" creationid="Olivier" creationdate="20200512T145548Z">
+        <seg>[3029]&lt;IOC4&gt;Transférez des fonds de votre société à votre compagnie d'assurances.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -55683,8 +55707,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[3031]&lt;IOC6&gt;Transfer funds from your subsidiary company to the insurance company.|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T145609Z" creationid="Olivier" creationdate="20200512T145609Z">
-        <seg>[3031]&lt;IOC6&gt;Transférez des fonds de votre filiale à la compagnie d'assurance|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151139Z" creationid="Olivier" creationdate="20200512T145609Z">
+        <seg>[3031]&lt;IOC6&gt;Transférez des fonds de votre filiale à la compagnie d'assurances|</seg>
       </tuv>
     </tu>
     <tu>
@@ -55909,6 +55933,222 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T150517Z" creationid="Olivier" creationdate="20200512T150517Z">
         <seg>[3055]&lt;INTT&gt;Cette société Internet ne dispose pas encore de la technologie nécessaire pour commencer à fonctionner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3056]&lt;BCRW&gt;Your bank's Capital Ratio is too low and has stopped issuing new loans.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T150626Z" creationid="Olivier" creationdate="20200512T150626Z">
+        <seg>[3056]&lt;BCRW&gt;Le ratio de fonds propres de votre banque est trop faible et a cessé d'émettre de nouveaux prêts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3057]&lt;RRD1&gt;Your radical R&amp;D of|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T150702Z" creationid="Olivier" creationdate="20200512T150702Z">
+        <seg>[3057]&lt;RRD1&gt;Votre R&amp;D radicale de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3058]&lt;RRD2&gt;is a success!\nYour technology is now|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T150729Z" creationid="Olivier" creationdate="20200512T150729Z">
+        <seg>[3058]&lt;RRD2&gt;est un succès !\nVotre technologie est maintenant|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3059]&lt;RRF1&gt;Unfortunately, your radical R&amp;D project of|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T150746Z" creationid="Olivier" creationdate="20200512T150746Z">
+        <seg>[3059]&lt;RRF1&gt;Malheureusement, votre projet radical de R&amp;D de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3060]&lt;RRF2&gt;failed.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T150755Z" creationid="Olivier" creationdate="20200512T150755Z">
+        <seg>[3060]&lt;RRF2&gt;a échoué.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3061]&lt;EMP1&gt;Your employee|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T150826Z" creationid="Olivier" creationdate="20200512T150826Z">
+        <seg>[3061]&lt;EMP1&gt;Votre employé|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3062]&lt;EMP2&gt;working on|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T150836Z" creationid="Olivier" creationdate="20200512T150836Z">
+        <seg>[3062]&lt;EMP2&gt;travaille sur|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3063]&lt;EMP3&gt;working in|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T150843Z" creationid="Olivier" creationdate="20200512T150843Z">
+        <seg>[3063]&lt;EMP3&gt;travaille dans|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3064]&lt;EMP4&gt;was headhunted.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T150859Z" creationid="Olivier" creationdate="20200512T150859Z">
+        <seg>[3064]&lt;EMP4&gt;a été recruté|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3065]&lt;EMP5&gt;was headhunted by|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T150907Z" creationid="Olivier" creationdate="20200512T150907Z">
+        <seg>[3065]&lt;EMP5&gt;a été recruté par|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3066]&lt;EMP6&gt;has resigned.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T150917Z" creationid="Olivier" creationdate="20200512T150917Z">
+        <seg>[3066]&lt;EMP6&gt;a démissionné|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3067]&lt;PARC&gt;to Parent Company|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T150931Z" creationid="Olivier" creationdate="20200512T150931Z">
+        <seg>[3067]&lt;PARC&gt;à la société mère|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3068]&lt;INSU&gt;Insurance Company|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151138Z" creationid="Olivier" creationdate="20200512T151138Z">
+        <seg>[3068]&lt;INSU&gt;Compagnie d'assurances|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3069]&lt;BRB1&gt;Bankruptcy!|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151151Z" creationid="Olivier" creationdate="20200512T151151Z">
+        <seg>[3069]&lt;BRB1&gt;Banqueroute !|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3070]&lt;BRB2&gt;liquidates its assets and redeems all its outstanding bonds at the full issue price.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151322Z" creationid="Olivier" creationdate="20200512T151322Z">
+        <seg>[3070]&lt;BRB2&gt;liquide ses actifs et rachète toutes ses obligations en circulation au prix d'émission.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3071]&lt;BRB3&gt;went under with a negative balance in its shareholders' equity.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151335Z" creationid="Olivier" creationdate="20200512T151335Z">
+        <seg>[3071]&lt;BRB3&gt;a fait faillite avec un solde négatif dans ses fonds propres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3072]&lt;BRB4&gt;liquidates its assets.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151357Z" creationid="Olivier" creationdate="20200512T151357Z">
+        <seg>[3072]&lt;BRB4&gt;liquide ses actifs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3073]&lt;BRB5&gt;of the original bond values.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151415Z" creationid="Olivier" creationdate="20200512T151415Z">
+        <seg>[3073]&lt;BRB5&gt;de la valeur initiale des obligations|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3074]&lt;BCA1&gt;Must Take Action|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151426Z" creationid="Olivier" creationdate="20200512T151426Z">
+        <seg>[3074]&lt;BCA1&gt;Doit agir|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3075]&lt;BCA2&gt;Notification Only|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151435Z" creationid="Olivier" creationdate="20200512T151435Z">
+        <seg>[3075]&lt;BCA2&gt;Uniquement notification|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3076]&lt;BCA3&gt;No Notification|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151443Z" creationid="Olivier" creationdate="20200512T151443Z">
+        <seg>[3076]&lt;BCA3&gt;Aucune notification|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3077]&lt;PTAS&gt;% of Total Assets|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151457Z" creationid="Olivier" creationdate="20200512T151457Z">
+        <seg>[3077]&lt;PTAS&gt;% de l'actif total|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3078]&lt;3YRA&gt;30-Year Average|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151512Z" creationid="Olivier" creationdate="20200512T151512Z">
+        <seg>[3078]&lt;3YRA&gt;Moyenne sur 30 ans|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3079]&lt;SABD&gt;Sale of Bonds|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151520Z" creationid="Olivier" creationdate="20200512T151520Z">
+        <seg>[3079]&lt;SABD&gt;Vente d'obligations|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3080]&lt;BDRD&gt;Bond Redemption|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151530Z" creationid="Olivier" creationdate="20200512T151530Z">
+        <seg>[3080]&lt;BDRD&gt;Remboursement d'obligations|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3081]&lt;NCAS&gt;Net Cash|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151539Z" creationid="Olivier" creationdate="20200512T151539Z">
+        <seg>[3081]&lt;NCAS&gt;Trésorerie nette|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3082]&lt;BKRU&gt;Is BANKRUPT|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151608Z" creationid="Olivier" creationdate="20200512T151608Z">
+        <seg>[3082]&lt;BKRU&gt;Est en FAILLITE|</seg>
       </tuv>
     </tu>
     <tu>
