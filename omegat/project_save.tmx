@@ -54105,6 +54105,102 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2888]&lt;NCG3&gt;You have been assigned with new goals.\n\n|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100803Z" creationid="Olivier" creationdate="20200512T100803Z">
+        <seg>[2888]&lt;NCG3&gt;On vous a assigné de nouveaux objectifs.\n\n|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2889]&lt;NCG4&gt;Press the 'G' shortcut key anytime to view the Goal screen.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100831Z" creationid="Olivier" creationdate="20200512T100831Z">
+        <seg>[2889]&lt;NCG4&gt;Appuyez sur la touche de raccourci 'G' à tout moment pour afficher l'écran 'Objectif'|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2890]&lt;NCG5&gt;You have been assigned with a new goal.\n\n|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100851Z" creationid="Olivier" creationdate="20200512T100835Z">
+        <seg>[2890]&lt;NCG5&gt;On vous a assigné de nouveaux objectifs.\n\n|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2891]&lt;NCG6&gt;Press the 'G' shortcut key anytime to view the Goal screen.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100910Z" creationid="Olivier" creationdate="20200512T100910Z">
+        <seg>[2891]&lt;NCG6&gt;Appuyez sur la touche de raccourci 'G' à tout moment pour afficher l'écran 'Objectif'|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2892]&lt;NCG7&gt;Are you sure that you want to remove all the goals in this game?|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100929Z" creationid="Olivier" creationdate="20200512T100929Z">
+        <seg>[2892]&lt;NCG7&gt;Êtes-vous sûr de vouloir supprimer tous les buts de cette partie ?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2893]&lt;PLG1&gt;Set up a factory to produce|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T101019Z" creationid="Olivier" creationdate="20200512T101019Z">
+        <seg>[2893]&lt;PLG1&gt;Créer une usine pour produire|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2894]&lt;PLG2&gt;and launch it onto the market.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T101030Z" creationid="Olivier" creationdate="20200512T101030Z">
+        <seg>[2894]&lt;PLG2&gt;et le lancer sur le marché|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2895]&lt;OWNT&gt;Owned Tech|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T101041Z" creationid="Olivier" creationdate="20200512T101041Z">
+        <seg>[2895]&lt;OWNT&gt;Technologie propriétaire|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2896]&lt;TOPT&gt;Top Tech|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T101048Z" creationid="Olivier" creationdate="20200512T101048Z">
+        <seg>[2896]&lt;TOPT&gt;Technologie de pointe|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2897]&lt;QUAR&gt;Quality Rating|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T101311Z" creationid="Olivier" creationdate="20200512T101306Z">
+        <seg>[2897]&lt;QUAR&gt;Évaluation de la qualité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2898]&lt;FLVL&gt;Factory Level|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T101323Z" creationid="Olivier" creationdate="20200512T101307Z">
+        <seg>[2898]&lt;FLVL&gt;Niveau de l'usine|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2899]&lt;ECOM&gt;E-commerce Sale %:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T101358Z" creationid="Olivier" creationdate="20200512T101358Z">
+        <seg>[2899]&lt;ECOM&gt;% de vente dans le commerce en ligne : |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2900]&lt;GDIF&gt;Current Game's Difficulty Level|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200427T080824Z" creationid="Inrepublica" creationdate="20200427T080824Z">
@@ -54113,10 +54209,114 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2901]&lt;BSOF&gt;sets up a Software Company|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T101554Z" creationid="Olivier" creationdate="20200512T101418Z">
+        <seg>[2901]&lt;BSOF&gt;crée une entreprise de logiciel|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2902]&lt;BINT&gt;sets up an Internet Company|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T101600Z" creationid="Olivier" creationdate="20200512T101448Z">
+        <seg>[2902]&lt;BINT&gt;crée une entreprise internet|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2903]&lt;BTEL&gt;sets up a Telecom|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T101516Z" creationid="Olivier" creationdate="20200512T101451Z">
+        <seg>[2903]&lt;BTEL&gt;crée une entreprise de télécommunications|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2904]&lt;BOND&gt;Bond|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T101548Z" creationid="Olivier" creationdate="20200512T101548Z">
+        <seg>[2904]&lt;BOND&gt;Obligation|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2905]&lt;BCOU&gt;Coupon|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T101603Z" creationid="Olivier" creationdate="20200512T101603Z">
+        <seg>[2905]&lt;BCOU&gt;Coupon|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2906]&lt;BYIE&gt;Yield|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T101609Z" creationid="Olivier" creationdate="20200512T101609Z">
+        <seg>[2906]&lt;BYIE&gt;Rendement|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2907]&lt;BMAT&gt;Maturity|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T101617Z" creationid="Olivier" creationdate="20200512T101617Z">
+        <seg>[2907]&lt;BMAT&gt;Maturité|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2908]&lt;BPRI&gt;Price|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200427T080840Z" creationid="Inrepublica" creationdate="20200427T080840Z">
         <seg>[2908]&lt;BPRI&gt;Prix|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2909]&lt;BOWQ&gt;Owned Qty|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T101632Z" creationid="Olivier" creationdate="20200512T101632Z">
+        <seg>[2909]&lt;BOWQ&gt;Qté obtenue|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2910]&lt;BOWV&gt;Owned Value|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T101709Z" creationid="Olivier" creationdate="20200512T101709Z">
+        <seg>[2910]&lt;BOWV&gt;Valeur possédée|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2911]&lt;BCRE&gt;Credit Rating|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T101724Z" creationid="Olivier" creationdate="20200512T101724Z">
+        <seg>[2911]&lt;BCRE&gt;Cote de crédit|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2912]&lt;BHOL&gt;Public Bondholders|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T101738Z" creationid="Olivier" creationdate="20200512T101738Z">
+        <seg>[2912]&lt;BHOL&gt;Détenteurs d'obligations publiques|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2913]&lt;ACP1&gt;Acquisition!|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T101742Z" creationid="Olivier" creationdate="20200512T101742Z">
+        <seg>[2913]&lt;ACP1&gt;Acquisition !|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2914]&lt;ACP2&gt;acquires the private company|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T101800Z" creationid="Olivier" creationdate="20200512T101800Z">
+        <seg>[2914]&lt;ACP2&gt;acquiert la société privée|</seg>
       </tuv>
     </tu>
     <tu>
