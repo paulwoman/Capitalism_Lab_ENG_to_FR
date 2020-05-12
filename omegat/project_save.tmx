@@ -1526,6 +1526,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A factory can only make packaged versions of software that is #developed by the same corporation#|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T153442Z" creationid="Olivier" creationdate="20200512T153442Z">
+        <seg>Une usine ne peut fabriquer que des versions conditionnés de logiciels qui sont #développés par la même société#|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A growing real wage rate means that people are earning more money, even after being adjusted for inflation.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143337Z" creationid="Olivier" creationdate="20200503T143337Z">
@@ -56333,6 +56341,110 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T153118Z" creationid="Olivier" creationdate="20200512T153118Z">
         <seg>[3101]&lt;CTEC&gt;Examiner les offres technologiques|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3102]&lt;RDCN&gt;R&amp;D Completion Notification|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T153144Z" creationid="Olivier" creationdate="20200512T153144Z">
+        <seg>[3102]&lt;RDCN&gt;Notification d'achèvement de la R&amp;D|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3103]&lt;WSAD&gt;WSAD Keys|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T153154Z" creationid="Olivier" creationdate="20200512T153154Z">
+        <seg>[3103]&lt;WSAD&gt;Touches WSAD|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3104]&lt;SFIC&gt;Sell factory "Internal Sale" products at cost|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T153223Z" creationid="Olivier" creationdate="20200512T153223Z">
+        <seg>[3104]&lt;SFIC&gt;Vendre les produits de la "vente interne" de l'usine au prix coûtant|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3105]&lt;SUBS&gt;The new game options for the Subsidiary DLC are available on the [Environment], [Competitors] and [Products] pages.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T153320Z" creationid="Olivier" creationdate="20200512T153320Z">
+        <seg>[3105]&lt;SUBS&gt;Les nouvelles options de jeu pour le DLC Filiale sont disponibles sur les pages [Environnement], [Concurrents] et [Produits].|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3106]&lt;PSYN&gt;Default Price Synchronization|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T153332Z" creationid="Olivier" creationdate="20200512T153332Z">
+        <seg>[3106]&lt;PSYN&gt;Synchronisation des prix par défaut|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3107]&lt;ENBL&gt;Enabled|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T153338Z" creationid="Olivier" creationdate="20200512T153338Z">
+        <seg>[3107]&lt;ENBL&gt;Activé|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3108]&lt;DISA&gt;Disabled|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T153345Z" creationid="Olivier" creationdate="20200512T153345Z">
+        <seg>[3108]&lt;DISA&gt;Désactivé|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3109]&lt;RETA&gt;Retail Only|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T153354Z" creationid="Olivier" creationdate="20200512T153354Z">
+        <seg>[3109]&lt;RETA&gt;Vente au détail seulement|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3110]&lt;TFNO&gt;Sorry, you cannot transfer this factory as it is making #packaged software products#.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T153422Z" creationid="Olivier" creationdate="20200512T153422Z">
+        <seg>[3110]&lt;TFNO&gt;Désolé, vous ne pouvez pas transférer cette usine car elle fabrique des #produits logiciels conditionnés#..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3111]&lt;STB1&gt;Sorry, you cannot execute this share buyback transaction, as a public company's total number of shares outstanding must not be lower than 1,000,000 shares.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T153513Z" creationid="Olivier" creationdate="20200512T153513Z">
+        <seg>[3111]&lt;STB1&gt;Désolé, vous ne pouvez pas exécuter cette opération de rachat d'actions, car le nombre total d'actions en circulation d'une société publique ne doit pas être inférieur à un million d'actions.||</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3112]&lt;STB2&gt;You cannot use a corporation that you control to buy back its own shares.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T153532Z" creationid="Olivier" creationdate="20200512T153532Z">
+        <seg>[3112]&lt;STB2&gt;Vous ne pouvez pas utiliser une société que vous contrôlez pour racheter ses propres actions|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3113]&lt;MER1&gt;How would you like|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T153549Z" creationid="Olivier" creationdate="20200512T153549Z">
+        <seg>[3113]&lt;MER1&gt;Comment voudriez-vous|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3114]&lt;MER2&gt;to acquire the remaining shares of|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T153617Z" creationid="Olivier" creationdate="20200512T153617Z">
+        <seg>[3114]&lt;MER2&gt;acquérir les actions restantes de|</seg>
       </tuv>
     </tu>
     <tu>
