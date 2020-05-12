@@ -10118,6 +10118,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each shareholder now holds|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T091756Z" creationid="Olivier" creationdate="20200512T091756Z">
+        <seg>Chaque actionnaire détient désormais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Each software company can only have one Project Management unit.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T102010Z" creationid="Olivier" creationdate="20200427T102010Z">
@@ -30641,6 +30649,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The cost of adding a new floor is|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T095925Z" creationid="Olivier" creationdate="20200512T095925Z">
+        <seg>Le coût de l'ajout d'un nouvel étage est de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The creator's version is %1s while your version is %2s.|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T172526Z" creationid="Olivier" creationdate="20200511T172526Z">
@@ -48121,10 +48137,26 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1969]Sowing|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T091024Z" creationid="Olivier" creationdate="20200512T091024Z">
+        <seg>[1969]Sowing|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1970]&lt;AQ02&gt;Growing|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T085316Z" creationid="Olivier" creationdate="20200510T085316Z">
         <seg>[1970]&lt;AQ02&gt;Culture|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[1970]Growing|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T091247Z" creationid="Olivier" creationdate="20200512T091247Z">
+        <seg>[1970]Growing|</seg>
       </tuv>
     </tu>
     <tu>
@@ -49587,16 +49619,16 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2236]&lt;1157&gt;Researchers at |</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T162338Z" creationid="Olivier" creationdate="20200510T162325Z">
-        <seg>[2236]&lt;1157&gt;Les chercheurs du |</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093131Z" creationid="Olivier" creationdate="20200510T162325Z">
+        <seg>[2236]&lt;1157&gt;Les chercheurs de |</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2237]&lt;1158&gt;'s R&amp;D Center Announce Invention.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T162407Z" creationid="Olivier" creationdate="20200510T162335Z">
-        <seg>[2237]&lt;1158&gt;'centres de R&amp;D annoncent une invention.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093202Z" creationid="Olivier" creationdate="20200510T162335Z">
+        <seg>[2237]&lt;1158&gt;'centre de R&amp;D annoncent une invention.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49643,8 +49675,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2245]&lt;1166&gt;Researchers at |</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T162538Z" creationid="Olivier" creationdate="20200510T162538Z">
-        <seg>[2245]&lt;1166&gt;Les chercheurs du |</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093235Z" creationid="Olivier" creationdate="20200510T162538Z">
+        <seg>[2245]&lt;1166&gt;Les chercheurs de |</seg>
       </tuv>
     </tu>
     <tu>
@@ -49667,8 +49699,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2248]&lt;1169&gt;Researchers at |</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T162642Z" creationid="Olivier" creationdate="20200510T162642Z">
-        <seg>[2248]&lt;1169&gt;Les chercheurs du |</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093216Z" creationid="Olivier" creationdate="20200510T162642Z">
+        <seg>[2248]&lt;1169&gt;Les chercheurs de |</seg>
       </tuv>
     </tu>
     <tu>
@@ -52873,10 +52905,1298 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2739]&lt;NBF8&gt;donates to build a|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T091419Z" creationid="Olivier" creationdate="20200512T091215Z">
+        <seg>[2739]&lt;NBF8&gt;fait un don pour construire un|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2739]donates to build a|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T091236Z" creationid="Olivier" creationdate="20200512T091236Z">
+        <seg>[2739]donates to build a|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2740]&lt;NBF9&gt;sets up|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T091432Z" creationid="Olivier" creationdate="20200512T091357Z">
+        <seg>[2740]&lt;NBF9&gt;installe|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2741]&lt;NBG1&gt;builds|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T091444Z" creationid="Olivier" creationdate="20200512T091444Z">
+        <seg>[2741]&lt;NBG1&gt;construisent|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2742]&lt;NDF1&gt;demolishes his Mansion and sells the land.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T091507Z" creationid="Olivier" creationdate="20200512T091507Z">
+        <seg>[2742]&lt;NDF1&gt;démolit son manoir et vend le terrain.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2743]&lt;NDF2&gt;demolishes her Mansion and sells the land.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T091521Z" creationid="Olivier" creationdate="20200512T091446Z">
+        <seg>[2743]&lt;NDF2&gt;démolit son manoir et vend le terrain.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2744]&lt;NAC1&gt;changes its corporate strategy from|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T091547Z" creationid="Olivier" creationdate="20200512T091547Z">
+        <seg>[2744]&lt;NAC1&gt;modifie sa stratégie de société en|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2745]&lt;NAC2&gt;to|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T091556Z" creationid="Olivier" creationdate="20200512T091551Z">
+        <seg>[2745]&lt;NAC2&gt;à|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2746]&lt;NBF1&gt;acquires an|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T091611Z" creationid="Olivier" creationdate="20200512T091553Z">
+        <seg>[2746]&lt;NBF1&gt;acquiert un|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2747]&lt;NBF2&gt;acquires a|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T091641Z" creationid="Olivier" creationdate="20200512T091617Z">
+        <seg>[2747]&lt;NBF2&gt;acquiert un|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2748]&lt;NBF3&gt;in|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T091646Z" creationid="Olivier" creationdate="20200512T091646Z">
+        <seg>[2748]&lt;NBF3&gt;dans|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2749]&lt;NBF4&gt;from|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T091707Z" creationid="Olivier" creationdate="20200512T091707Z">
+        <seg>[2749]&lt;NBF4&gt;à partir de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2750]&lt;NBF5&gt;for|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T091711Z" creationid="Olivier" creationdate="20200512T091711Z">
+        <seg>[2750]&lt;NBF5&gt;pour|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2751]&lt;NSS1&gt;splits its share|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T091743Z" creationid="Olivier" creationdate="20200512T091743Z">
+        <seg>[2751]&lt;NSS1&gt;fractionne ses actions|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2752]&lt;NSS2&gt;-for-1.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T091749Z" creationid="Olivier" creationdate="20200512T091749Z">
+        <seg>[2752]&lt;NSS2&gt;-pour-1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2753]&lt;NSS3&gt;times as many shares.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T091811Z" creationid="Olivier" creationdate="20200512T091811Z">
+        <seg>[2753]&lt;NSS3&gt;fois plus d'actions.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2754]&lt;NSS4&gt;undergoes a 1-|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T091836Z" creationid="Olivier" creationdate="20200512T091836Z">
+        <seg>[2754]&lt;NSS4&gt;subit un 1-|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2755]&lt;NSS5&gt;stock merge, which groups every|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T091919Z" creationid="Olivier" creationdate="20200512T091919Z">
+        <seg>[2755]&lt;NSS5&gt;fusion de titres, qui regroupe toutes les|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2756]&lt;NSS6&gt;shares into one share.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T091939Z" creationid="Olivier" creationdate="20200512T091939Z">
+        <seg>[2756]&lt;NSS6&gt;actions en une seule action.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2757]&lt;NBM1&gt;buys an|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T091949Z" creationid="Olivier" creationdate="20200512T091949Z">
+        <seg>[2757]&lt;NBM1&gt;achète un|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2758]&lt;NBM2&gt;buys a|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T091955Z" creationid="Olivier" creationdate="20200512T091955Z">
+        <seg>[2758]&lt;NBM2&gt;achète un|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2759]&lt;NBM3&gt;in|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092004Z" creationid="Olivier" creationdate="20200512T092004Z">
+        <seg>[2759]&lt;NBM3&gt;dans|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2760]&lt;NBM4&gt;from|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092010Z" creationid="Olivier" creationdate="20200512T092010Z">
+        <seg>[2760]&lt;NBM4&gt;à partir de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2761]&lt;NBM5&gt;for|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092016Z" creationid="Olivier" creationdate="20200512T092016Z">
+        <seg>[2761]&lt;NBM5&gt;pour|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2762]&lt;NCI1&gt;The central bank increases the interest rate from|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092034Z" creationid="Olivier" creationdate="20200512T092034Z">
+        <seg>[2762]&lt;NCI1&gt;La banque centrale augmente le taux d'intérêt de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2763]&lt;NCI2&gt;The central bank decreases the interest rate from|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092042Z" creationid="Olivier" creationdate="20200512T092042Z">
+        <seg>[2763]&lt;NCI2&gt;La banque centrale diminue le taux d'intérêt de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2764]&lt;NCI3&gt;to|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092046Z" creationid="Olivier" creationdate="20200512T092046Z">
+        <seg>[2764]&lt;NCI3&gt;de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2765]&lt;NCB1&gt;A new chairman with|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092058Z" creationid="Olivier" creationdate="20200512T092058Z">
+        <seg>[2765]&lt;NCB1&gt;Un nouveau président avec|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2766]&lt;NCB2&gt;attitude is now at the helm of the central bank.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092141Z" creationid="Olivier" creationdate="20200512T092141Z">
+        <seg>[2766]&lt;NCB2&gt;attitude est maintenant à la tête de la banque centrale.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2767]&lt;NAT1&gt;acquires technology for|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092152Z" creationid="Olivier" creationdate="20200512T092152Z">
+        <seg>[2767]&lt;NAT1&gt;acquiert une technologie pour|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2768]&lt;NAT2&gt;from|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092204Z" creationid="Olivier" creationdate="20200512T092157Z">
+        <seg>[2768]&lt;NAT2&gt;à partir de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2769]&lt;NAT3&gt;for|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092208Z" creationid="Olivier" creationdate="20200512T092159Z">
+        <seg>[2769]&lt;NAT3&gt;pour|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2770]&lt;NGV1&gt;The Government|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092217Z" creationid="Olivier" creationdate="20200512T092217Z">
+        <seg>[2770]&lt;NGV1&gt;Le Gouvernement|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2771]&lt;NGV2&gt;the Government|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092226Z" creationid="Olivier" creationdate="20200512T092226Z">
+        <seg>[2771]&lt;NGV2&gt;le Gouvernement|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2772]&lt;NAC0&gt;Corporation Changes Strategy|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092247Z" creationid="Olivier" creationdate="20200512T092247Z">
+        <seg>[2772]&lt;NAC0&gt;Stratégie de changement des sociétés|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2773]&lt;NIR0&gt;Central Bank Changes Interest Rate|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092302Z" creationid="Olivier" creationdate="20200512T092302Z">
+        <seg>[2773]&lt;NIR0&gt;La banque centrale modifie son taux d'intérêt|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2774]&lt;NBC0&gt;The New Central Bank Chairman|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092313Z" creationid="Olivier" creationdate="20200512T092313Z">
+        <seg>[2774]&lt;NBC0&gt;Le nouveau président de la Banque centrale|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2775]&lt;NCC0&gt;Career Change|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092323Z" creationid="Olivier" creationdate="20200512T092323Z">
+        <seg>[2775]&lt;NCC0&gt;Changement de carrière|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2776]&lt;NRI0&gt;Riot|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092334Z" creationid="Olivier" creationdate="20200512T092334Z">
+        <seg>[2776]&lt;NRI0&gt;Émeute|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2777]&lt;NSC0&gt;Stock Crash|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092346Z" creationid="Olivier" creationdate="20200512T092337Z">
+        <seg>[2777]&lt;NSC0&gt;Crash boursier|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2778]&lt;NCR0&gt;Currency Revalued!|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092400Z" creationid="Olivier" creationdate="20200512T092338Z">
+        <seg>[2778]&lt;NCR0&gt;Monnaie réévaluée !|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2779]&lt;CBA1&gt;Inflation Hawk (modest)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092603Z" creationid="Olivier" creationdate="20200512T092419Z">
+        <seg>[2779]&lt;CBA1&gt;Inflation Faucon (modeste)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2780]&lt;CBA2&gt;Inflation Hawk (strong)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092607Z" creationid="Olivier" creationdate="20200512T092442Z">
+        <seg>[2780]&lt;CBA2&gt;Inflation Faucon (forte)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2781]&lt;CBA3&gt;Neutral|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092447Z" creationid="Olivier" creationdate="20200512T092447Z">
+        <seg>[2781]&lt;CBA3&gt;Neutre|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2782]&lt;CBA4&gt;Inflation Dove (modest)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092618Z" creationid="Olivier" creationdate="20200512T092456Z">
+        <seg>[2782]&lt;CBA4&gt;Inflation Colombe (modeste)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2783]&lt;CBA5&gt;Inflation Dove (strong)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092623Z" creationid="Olivier" creationdate="20200512T092502Z">
+        <seg>[2783]&lt;CBA5&gt;Inflation Colombe (forte)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2784]&lt;CBP1&gt;Ultra Tight|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093305Z" creationid="Olivier" creationdate="20200512T092557Z">
+        <seg>[2784]&lt;CBP1&gt;Ultra serré|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2785]&lt;CBP2&gt;Very Tight|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093313Z" creationid="Olivier" creationdate="20200512T093244Z">
+        <seg>[2785]&lt;CBP2&gt;Très serré|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2786]&lt;CBP3&gt;Tight|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093319Z" creationid="Olivier" creationdate="20200512T093319Z">
+        <seg>[2786]&lt;CBP3&gt;Serré|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2787]&lt;CBP4&gt;Slightly Tight|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093332Z" creationid="Olivier" creationdate="20200512T093332Z">
+        <seg>[2787]&lt;CBP4&gt;Légèrement serré|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2788]&lt;CBP5&gt;Normal|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093333Z" creationid="Olivier" creationdate="20200512T093333Z">
+        <seg>[2788]&lt;CBP5&gt;Normal|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2789]&lt;CBP6&gt;Slightly Loose|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093352Z" creationid="Olivier" creationdate="20200512T093352Z">
+        <seg>[2789]&lt;CBP6&gt;Légèrement libre|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2790]&lt;CBP7&gt;Loose|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093430Z" creationid="Olivier" creationdate="20200512T093357Z">
+        <seg>[2790]&lt;CBP7&gt;Libre|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2791]&lt;CBP8&gt;Very Loose|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093437Z" creationid="Olivier" creationdate="20200512T093437Z">
+        <seg>[2791]&lt;CBP8&gt;Très libre|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2792]&lt;CBP9&gt;Ultra Loose|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093455Z" creationid="Olivier" creationdate="20200512T093455Z">
+        <seg>[2792]&lt;CBP9&gt;Ultra libre|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2793]&lt;AAS1&gt;Sorry, the AI is having an advance start and you cannot build any buildings until year|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093510Z" creationid="Olivier" creationdate="20200512T093510Z">
+        <seg>[2793]&lt;AAS1&gt;Désolé, l'IA commence à l'avance et vous ne pouvez pas construire de bâtiments avant un an|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2794]&lt;AAS2&gt;Sorry, the AI is having an advance start and you cannot buy land until year|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093521Z" creationid="Olivier" creationdate="20200512T093521Z">
+        <seg>[2794]&lt;AAS2&gt;Désolé, l'IA a démarré à l'avance et vous ne pouvez pas acheter de terrain avant un an|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2795]&lt;AAS3&gt;Sorry, the AI is having an advance start and you cannot buy stock until year|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093534Z" creationid="Olivier" creationdate="20200512T093534Z">
+        <seg>[2795]&lt;AAS3&gt;Désolé, l'IA démarre à l'avance et vous ne pouvez pas acheter d'actions avant un an|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2796]&lt;SCO1&gt;Score:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093543Z" creationid="Olivier" creationdate="20200512T093543Z">
+        <seg>[2796]&lt;SCO1&gt;Score :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2797]&lt;SCO2&gt;billion x 100 x inflation adjustment|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093618Z" creationid="Olivier" creationdate="20200512T093618Z">
+        <seg>[2797]&lt;SCO2&gt;milliards x 100 x ajustement de l'inflation|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2798]&lt;BF01&gt;Use your personal money to build your mansion.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093632Z" creationid="Olivier" creationdate="20200512T093632Z">
+        <seg>[2798]&lt;BF01&gt;Utilisez votre argent personnel pour construire votre manoir.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2799]&lt;BF02&gt;to relocate the firm.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093646Z" creationid="Olivier" creationdate="20200512T093646Z">
+        <seg>[2799]&lt;BF02&gt;pour délocaliser cet établissement|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2800]&lt;BF03&gt;to duplicate the firm.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093700Z" creationid="Olivier" creationdate="20200512T093700Z">
+        <seg>[2800]&lt;BF03&gt;pour dupliquer l'établissement|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2801]&lt;BF04&gt;to build the firm.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093714Z" creationid="Olivier" creationdate="20200512T093714Z">
+        <seg>[2801]&lt;BF04&gt;pour construire l'établissement|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2802]&lt;BF05&gt;Customer Traffic Index:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093746Z" creationid="Olivier" creationdate="20200512T093746Z">
+        <seg>[2802]&lt;BF05&gt;Indice de trafic des clients :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2803]&lt;BF06&gt;Compensation:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093753Z" creationid="Olivier" creationdate="20200512T093753Z">
+        <seg>[2803]&lt;BF06&gt;Compensation :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2804]&lt;BF07&gt;Price Premium|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093802Z" creationid="Olivier" creationdate="20200512T093802Z">
+        <seg>[2804]&lt;BF07&gt;Prix Premium|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2805]&lt;BF08&gt;Hold the [SHIFT] key concurrently to build more|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093839Z" creationid="Olivier" creationdate="20200512T093839Z">
+        <seg>[2805]&lt;BF08&gt;Maintenez la touche [SHIFT] enfoncée pour construire plus|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2806]&lt;PSTO&gt;Stock|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093845Z" creationid="Olivier" creationdate="20200512T093845Z">
+        <seg>[2806]&lt;PSTO&gt;Stock|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2807]&lt;FRE1&gt;Freight Cost Breakdown|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093907Z" creationid="Olivier" creationdate="20200512T093907Z">
+        <seg>[2807]&lt;FRE1&gt;Ventilation des coût de fret|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2808]&lt;FRE2&gt;Truck - Supplier to Seaport:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093926Z" creationid="Olivier" creationdate="20200512T093926Z">
+        <seg>[2808]&lt;FRE2&gt;Camion - Fournisseur du port maritime :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2809]&lt;FRE3&gt;Cargo Ship - City to City:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093944Z" creationid="Olivier" creationdate="20200512T093944Z">
+        <seg>[2809]&lt;FRE3&gt;Navire cargo - De ville en ville: |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2810]&lt;FRE4&gt;Truck - Seaport to Buyer:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093956Z" creationid="Olivier" creationdate="20200512T093956Z">
+        <seg>[2810]&lt;FRE4&gt;Camion - du port maritime à l'acheteur: |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2811]&lt;FRE5&gt;TOTAL:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093959Z" creationid="Olivier" creationdate="20200512T093959Z">
+        <seg>[2811]&lt;FRE5&gt;TOTAL :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2812]&lt;FRE6&gt;Freight Cost|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094010Z" creationid="Olivier" creationdate="20200512T094010Z">
+        <seg>[2812]&lt;FRE6&gt;Coût du fret|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2813]&lt;FRE7&gt;Shipment from Supplier to Buyer:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094028Z" creationid="Olivier" creationdate="20200512T094028Z">
+        <seg>[2813]&lt;FRE7&gt;Expédition du fournisseur à l'acheteur :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2814]&lt;SOW1&gt;Sowing in|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094045Z" creationid="Olivier" creationdate="20200512T094045Z">
+        <seg>[2814]&lt;SOW1&gt;Semer en|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2815]&lt;HARV&gt;Harvest in|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094054Z" creationid="Olivier" creationdate="20200512T094054Z">
+        <seg>[2815]&lt;HARV&gt;Récolte en|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2816]&lt;ITP1&gt;Organize an Intensive Training Program|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094104Z" creationid="Olivier" creationdate="20200512T094104Z">
+        <seg>[2816]&lt;ITP1&gt;Organiser un programme de formation intensive|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2817]&lt;ITP2&gt;Training effect will be instant but|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094120Z" creationid="Olivier" creationdate="20200512T094120Z">
+        <seg>[2817]&lt;ITP2&gt;L'effet de la formation sera instantané mais|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2818]&lt;ITP3&gt;its cost-effectiveness is 30% lower than normal training.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094136Z" creationid="Olivier" creationdate="20200512T094136Z">
+        <seg>[2818]&lt;ITP3&gt;son rapport coût-efficacité est de 30% inférieur à celui d'une formation normale.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2819]&lt;ITP4&gt;How much will you allocate for training per employee?|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094151Z" creationid="Olivier" creationdate="20200512T094151Z">
+        <seg>[2819]&lt;ITP4&gt;Combien allez-vous allouer à la formation par employé ?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2820]&lt;RDC1&gt;firm|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094156Z" creationid="Olivier" creationdate="20200512T094156Z">
+        <seg>[2820]&lt;RDC1&gt;firme|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2821]&lt;RDC2&gt;firms|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094201Z" creationid="Olivier" creationdate="20200512T094201Z">
+        <seg>[2821]&lt;RDC2&gt;firmes|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2822]&lt;RDC3&gt; of yours have been redirected to purchase |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094222Z" creationid="Olivier" creationdate="20200512T094222Z">
+        <seg>[2822]&lt;RDC3&gt; ont été redirigés vers l'achat  |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2823]&lt;RDC4&gt; from the current firm.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094249Z" creationid="Olivier" creationdate="20200512T094249Z">
+        <seg>[2823]&lt;RDC4&gt; de l'établissement actuelle|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2824]&lt;RDC5&gt;To view the new client list, click the [Clients] button on your Sales Unit's interface.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094303Z" creationid="Olivier" creationdate="20200512T094303Z">
+        <seg>[2824]&lt;RDC5&gt;Pour consulter la nouvelle liste de clients, cliquez sur le bouton [Clients] de l'interface de votre unité de vente|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2825]&lt;RDC6&gt;None of the Purchasing Units in any of your firms presently lack supply of this type of product.\n\nThus no actions have been taken.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094325Z" creationid="Olivier" creationdate="20200512T094325Z">
+        <seg>[2825]&lt;RDC6&gt;Aucune des unités d'achat de vos entreprises ne manque actuellement de ce type de produit.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2826]&lt;KOC1&gt;King of Capitalism|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094403Z" creationid="Olivier" creationdate="20200512T094339Z">
+        <seg>[2826]&lt;KOC1&gt;Rois du Capitalisme|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2827]&lt;KOC2&gt;To become the undisputed King of Capitalism, you must be financially savvy enough to grow your company's market cap to|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094410Z" creationid="Olivier" creationdate="20200512T094359Z">
+        <seg>[2827]&lt;KOC2&gt;Pour devenir le roi incontesté du capitalisme, vous devez être suffisamment avisé financièrement pour augmenter la part de marché de votre entreprise jusqu'à|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2828]&lt;KOC3&gt;billion while retaining at least 80 % of its equity shares, and achieve all the subgoals.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094448Z" creationid="Olivier" creationdate="20200512T094425Z">
+        <seg>[2828]&lt;KOC3&gt;milliards d'euros tout en conservant au moins 80 % de ses parts de capital, et atteindre tous les sous-objectifs.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2829]&lt;AGS1&gt;To win this game, you must achieve the given goals.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094532Z" creationid="Olivier" creationdate="20200512T094509Z">
+        <seg>[2829]&lt;AGS1&gt;Pour gagner ce jeu, vous devez atteindre les objectifs fixés.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2830]&lt;AGS2&gt;(Press the 'G' shortcut key anytime to view the Goal screen)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094614Z" creationid="Olivier" creationdate="20200512T094528Z">
+        <seg>[2830]&lt;AGS2&gt;(Appuyez sur la touche de raccourci 'G' à tout moment pour afficher l'écran 'Objectif')|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2831]&lt;AGS3&gt;Your possess expertise in the|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094646Z" creationid="Olivier" creationdate="20200512T094636Z">
+        <seg>[2831]&lt;AGS3&gt;Vous possédez une expertise dans le domaine de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2832]&lt;AGS4&gt;industry (level:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094657Z" creationid="Olivier" creationdate="20200512T094641Z">
+        <seg>[2832]&lt;AGS4&gt;l'industrie (niveau :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2833]&lt;FEGN&gt;The city government does not have enough cash.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094711Z" creationid="Olivier" creationdate="20200512T094711Z">
+        <seg>[2833]&lt;FEGN&gt;Le gouvernement de la ville n'a pas assez d'argent.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2834]&lt;NCT1&gt;To acquire the exclusive rights to develop and run the new city for|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094723Z" creationid="Olivier" creationdate="20200512T094723Z">
+        <seg>[2834]&lt;NCT1&gt;Acquérir les droits exclusifs de développement et de gestion de la nouvelle ville pour|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2835]&lt;NCT2&gt;years, you must donate|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094736Z" creationid="Olivier" creationdate="20200512T094736Z">
+        <seg>[2835]&lt;NCT2&gt;années, vous devez donner|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2836]&lt;NCT3&gt;to the city's treasury.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094748Z" creationid="Olivier" creationdate="20200512T094748Z">
+        <seg>[2836]&lt;NCT3&gt;au trésor de la ville.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2837]&lt;AIG6&gt;OS Focused|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094801Z" creationid="Olivier" creationdate="20200512T094801Z">
+        <seg>[2837]&lt;AIG6&gt;Focalisé sur les OS|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2838]&lt;AIS6&gt;OS|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094803Z" creationid="Olivier" creationdate="20200512T094803Z">
+        <seg>[2838]&lt;AIS6&gt;OS|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2839]&lt;AIG7&gt;Software Focused|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094817Z" creationid="Olivier" creationdate="20200512T094817Z">
+        <seg>[2839]&lt;AIG7&gt;Focalisé sur les logiciel|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2840]&lt;AIS7&gt;Software|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094822Z" creationid="Olivier" creationdate="20200512T094822Z">
+        <seg>[2840]&lt;AIS7&gt;Logiciel|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2841]&lt;AIG8&gt;Internet Focused|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094834Z" creationid="Olivier" creationdate="20200512T094834Z">
+        <seg>[2841]&lt;AIG8&gt;Focalisé sur Internet|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2842]&lt;AIS8&gt;Internet|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094835Z" creationid="Olivier" creationdate="20200512T094835Z">
+        <seg>[2842]&lt;AIS8&gt;Internet|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2843]&lt;FEQU&gt;Features Quality|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094856Z" creationid="Olivier" creationdate="20200512T094856Z">
+        <seg>[2843]&lt;FEQU&gt;Qualité des caractéristiques|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2844]&lt;FEBU&gt;Monthly budget for new features development|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094909Z" creationid="Olivier" creationdate="20200512T094909Z">
+        <seg>[2844]&lt;FEBU&gt;Budget mensuel pour le développement de nouvelles fonctionnalités|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2845]&lt;TECH&gt;Tech|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094918Z" creationid="Olivier" creationdate="20200512T094918Z">
+        <seg>[2845]&lt;TECH&gt;Technologie|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2846]&lt;ADSC&gt;Data Server Cost|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094945Z" creationid="Olivier" creationdate="20200512T094945Z">
+        <seg>[2846]&lt;ADSC&gt;Coût du serveur de données|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2847]&lt;REAC&gt;Reach|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094950Z" creationid="Olivier" creationdate="20200512T094950Z">
+        <seg>[2847]&lt;REAC&gt;Portée|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2848]&lt;LTEX&gt;Lifetime Expense|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T095002Z" creationid="Olivier" creationdate="20200512T095002Z">
+        <seg>[2848]&lt;LTEX&gt;Dépenses à vie|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2849]&lt;CIT1&gt;For all|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T095009Z" creationid="Olivier" creationdate="20200512T095009Z">
+        <seg>[2849]&lt;CIT1&gt;pour tous|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2850]&lt;CIT2&gt;s|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T095012Z" creationid="Olivier" creationdate="20200512T095012Z">
+        <seg>[2850]&lt;CIT2&gt;s|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2851]&lt;CIT3&gt;in this city (Total:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T095024Z" creationid="Olivier" creationdate="20200512T095024Z">
+        <seg>[2851]&lt;CIT3&gt;dans cette ville (Total :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2852]&lt;AIG9&gt;Telecom Focused|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T095724Z" creationid="Olivier" creationdate="20200512T095724Z">
+        <seg>[2852]&lt;AIG9&gt;Focalisé sur les Entreprise de télécommunications|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2853]&lt;AIS9&gt;Telecom|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T095733Z" creationid="Olivier" creationdate="20200512T095733Z">
+        <seg>[2853]&lt;AIS9&gt;Entreprise de télécommunications|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2854]&lt;AK10&gt;Received Dividends|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T095745Z" creationid="Olivier" creationdate="20200512T095745Z">
+        <seg>[2854]&lt;AK10&gt;Dividendes reçus|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2855]&lt;AK11&gt;Increase in Asset Value|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T095756Z" creationid="Olivier" creationdate="20200512T095756Z">
+        <seg>[2855]&lt;AK11&gt;Augmentation de la valeur des actif|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2856]&lt;AK12&gt;Loan Interest|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T095821Z" creationid="Olivier" creationdate="20200512T095821Z">
+        <seg>[2856]&lt;AK12&gt;Taux d'intérêt|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2857]&lt;AK20&gt;Data Server Cost|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T095839Z" creationid="Olivier" creationdate="20200512T095839Z">
+        <seg>[2857]&lt;AK20&gt;Coût du serveur de données|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2858]&lt;DIFF&gt;DIFFICULTY RATING|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200427T080749Z" creationid="Inrepublica" creationdate="20200427T080730Z">
         <seg>[2858]&lt;DIFF&gt;NIVEAU DE DIFFICULTÉ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2859]&lt;CORP&gt;CORPORATIONS (Total|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T095848Z" creationid="Olivier" creationdate="20200512T095848Z">
+        <seg>[2859]&lt;CORP&gt;SOCIÉTÉS (Total|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2860]&lt;FLR0&gt;Sorry, you do not have sufficient cash.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T095917Z" creationid="Olivier" creationdate="20200512T095917Z">
+        <seg>[2860]&lt;FLR0&gt;Désolé, vous n'avez pas assez de trésorerie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2861]&lt;FLR1&gt;The cost of adding a new floor is|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T095951Z" creationid="Olivier" creationdate="20200512T095934Z">
+        <seg>[2861]&lt;FLR1&gt;Le coût de l'ajout d'un nouvel étage est de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2862]&lt;FLR2&gt;Do you want to proceed?|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100012Z" creationid="Olivier" creationdate="20200512T100012Z">
+        <seg>[2862]&lt;FLR2&gt;Voulez-vous procéder ?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2863]&lt;NSUB&gt;Set Up a New Subsidiary Company|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100026Z" creationid="Olivier" creationdate="20200512T100026Z">
+        <seg>[2863]&lt;NSUB&gt;Créer une nouvelle filiale|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2864]&lt;NSN1&gt;Sorry, the requirement is not met.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100036Z" creationid="Olivier" creationdate="20200512T100036Z">
+        <seg>[2864]&lt;NSN1&gt;Désolé, la condition n'est pas remplie|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2865]&lt;NSN2&gt;The initial capital of your new subsidiary company must be at least|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100048Z" creationid="Olivier" creationdate="20200512T100048Z">
+        <seg>[2865]&lt;NSN2&gt;Le capital initial de votre nouvelle filiale doit être au moins|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2866]&lt;NSN3&gt;million|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100052Z" creationid="Olivier" creationdate="20200512T100052Z">
+        <seg>[2866]&lt;NSN3&gt;millions|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2867]&lt;NSC1&gt;You must now hire a CEO for your new subsidiary company.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100102Z" creationid="Olivier" creationdate="20200512T100102Z">
+        <seg>[2867]&lt;NSC1&gt;Vous devez maintenant embaucher un PDG pour votre nouvelle filiale.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2868]&lt;NSC2&gt;To do so, in the next screen, select a CEO candidate and click the [Hire Chief Executive] button.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100119Z" creationid="Olivier" creationdate="20200512T100119Z">
+        <seg>[2868]&lt;NSC2&gt;Pour ce faire, dans l'écran suivant, sélectionnez un candidat au poste de PDG et cliquez sur le bouton [Embaucher le PDG]|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2869]&lt;NSH1&gt;the job as the|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100132Z" creationid="Olivier" creationdate="20200512T100132Z">
+        <seg>[2869]&lt;NSH1&gt;le travail en tant que|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2870]&lt;NSH2&gt;of|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100138Z" creationid="Olivier" creationdate="20200512T100138Z">
+        <seg>[2870]&lt;NSH2&gt;de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2871]&lt;NSH3&gt;the new subsidiary company|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100149Z" creationid="Olivier" creationdate="20200512T100149Z">
+        <seg>[2871]&lt;NSH3&gt;la nouvelle filiale|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2872]&lt;SUB1&gt;Your corporation owns|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100207Z" creationid="Olivier" creationdate="20200512T100207Z">
+        <seg>[2872]&lt;SUB1&gt;Votre société possède|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2873]&lt;SUB2&gt;shares of this company.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100219Z" creationid="Olivier" creationdate="20200512T100219Z">
+        <seg>[2873]&lt;SUB2&gt;actions de cette entreprise.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2874]&lt;LAN1&gt;Decrease All Civic Building Setup Costs by|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100231Z" creationid="Olivier" creationdate="20200512T100231Z">
+        <seg>[2874]&lt;LAN1&gt;Réduire tous les coûts d'installation des bâtiments municipaux|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2875]&lt;LAN2&gt;Decrease All Civic Building Operating Costs by|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100329Z" creationid="Olivier" creationdate="20200512T100242Z">
+        <seg>[2875]&lt;LAN2&gt;Diminuer tous les coûts de fonctionnement des bâtiments publics de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100342Z" creationid="Olivier" creationdate="20200512T100257Z">
+        <seg>[2876]&lt;LAN3&gt;Réduire tous les coûts d'établissement des entreprises commerciales de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2877]&lt;LAN4&gt;Decrease All Commercial Firm Fixed Operating Costs by|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100417Z" creationid="Olivier" creationdate="20200512T100355Z">
+        <seg>[2877]&lt;LAN4&gt;Diminuer tous les coûts d'exploitation fixes des entreprises commerciales de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2878]&lt;LAN5&gt;Increase Industry Competitiveness by|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100413Z" creationid="Olivier" creationdate="20200512T100413Z">
+        <seg>[2878]&lt;LAN5&gt;Accroître la compétitivité de l'industrie de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2879]&lt;LAN6&gt;Increase a Selected Firm Unit Type's Level by|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100429Z" creationid="Olivier" creationdate="20200512T100415Z">
+        <seg>[2879]&lt;LAN6&gt;Augmenter le niveau d'un type d'unité d'entreprise sélectionné|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2880]&lt;EVRY&gt;Every|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100439Z" creationid="Olivier" creationdate="20200512T100439Z">
+        <seg>[2880]&lt;EVRY&gt;Tous|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2881]&lt;ATS1&gt;This cannot be done because [|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100457Z" creationid="Olivier" creationdate="20200512T100457Z">
+        <seg>[2881]&lt;ATS1&gt;Cela ne peut se faire parce que [|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2882]&lt;ATS2&gt;] which is outside the subsidiary company's Scope of Production.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100510Z" creationid="Olivier" creationdate="20200512T100510Z">
+        <seg>[2882]&lt;ATS2&gt;] ] qui est en dehors du champ d'application de la production de la filiale.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2883]&lt;LAN7&gt;Increase this city's competitiveness in|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100524Z" creationid="Olivier" creationdate="20200512T100524Z">
+        <seg>[2883]&lt;LAN7&gt;Accroître la compétitivité de cette ville dans|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2884]&lt;LAN8&gt;Increase the levels of all|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100535Z" creationid="Olivier" creationdate="20200512T100535Z">
+        <seg>[2884]&lt;LAN8&gt;Augmenter les niveaux de tous|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2885]&lt;LAN9&gt;in this city by|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100547Z" creationid="Olivier" creationdate="20200512T100547Z">
+        <seg>[2885]&lt;LAN9&gt;dans cette ville par|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2886]&lt;NCG1&gt;You have enabled Survival Mode in City Economic Simulation DLC.\n\n|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100629Z" creationid="Olivier" creationdate="20200512T100629Z">
+        <seg>[2886]&lt;NCG1&gt;Vous avez activé le mode de survie du DLC simulation économique de la ville.\n\n|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2887]&lt;NCG2&gt;All products are locked, requiring reinvention, except the products under the Food and Beverage mega class and the products in which you have expertise.\n\n\n|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100747Z" creationid="Olivier" creationdate="20200512T100747Z">
+        <seg>[2887]&lt;NCG2&gt;Tous les produits sont verrouillés et doivent être réinventés, à l'exception des produits relevant de la catégorie méga des aliments et boissons et des produits pour lesquels vous avez une expertise.\n\n\n|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2888]&lt;NCG3&gt;You have been assigned with new goals.\n\n|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100803Z" creationid="Olivier" creationdate="20200512T100803Z">
+        <seg>[2888]&lt;NCG3&gt;On vous a assigné de nouveaux objectifs.\n\n|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2889]&lt;NCG4&gt;Press the 'G' shortcut key anytime to view the Goal screen.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100831Z" creationid="Olivier" creationdate="20200512T100831Z">
+        <seg>[2889]&lt;NCG4&gt;Appuyez sur la touche de raccourci 'G' à tout moment pour afficher l'écran 'Objectif'|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2890]&lt;NCG5&gt;You have been assigned with a new goal.\n\n|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100851Z" creationid="Olivier" creationdate="20200512T100835Z">
+        <seg>[2890]&lt;NCG5&gt;On vous a assigné de nouveaux objectifs.\n\n|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2891]&lt;NCG6&gt;Press the 'G' shortcut key anytime to view the Goal screen.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100910Z" creationid="Olivier" creationdate="20200512T100910Z">
+        <seg>[2891]&lt;NCG6&gt;Appuyez sur la touche de raccourci 'G' à tout moment pour afficher l'écran 'Objectif'|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2892]&lt;NCG7&gt;Are you sure that you want to remove all the goals in this game?|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100929Z" creationid="Olivier" creationdate="20200512T100929Z">
+        <seg>[2892]&lt;NCG7&gt;Êtes-vous sûr de vouloir supprimer tous les buts de cette partie ?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2893]&lt;PLG1&gt;Set up a factory to produce|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T101019Z" creationid="Olivier" creationdate="20200512T101019Z">
+        <seg>[2893]&lt;PLG1&gt;Créer une usine pour produire|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2894]&lt;PLG2&gt;and launch it onto the market.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T101030Z" creationid="Olivier" creationdate="20200512T101030Z">
+        <seg>[2894]&lt;PLG2&gt;et le lancer sur le marché|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2895]&lt;OWNT&gt;Owned Tech|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T101041Z" creationid="Olivier" creationdate="20200512T101041Z">
+        <seg>[2895]&lt;OWNT&gt;Technologie propriétaire|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2896]&lt;TOPT&gt;Top Tech|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T101048Z" creationid="Olivier" creationdate="20200512T101048Z">
+        <seg>[2896]&lt;TOPT&gt;Technologie de pointe|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2897]&lt;QUAR&gt;Quality Rating|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T101311Z" creationid="Olivier" creationdate="20200512T101306Z">
+        <seg>[2897]&lt;QUAR&gt;Évaluation de la qualité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2898]&lt;FLVL&gt;Factory Level|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T101323Z" creationid="Olivier" creationdate="20200512T101307Z">
+        <seg>[2898]&lt;FLVL&gt;Niveau de l'usine|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2899]&lt;ECOM&gt;E-commerce Sale %:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T101358Z" creationid="Olivier" creationdate="20200512T101358Z">
+        <seg>[2899]&lt;ECOM&gt;% de vente dans le commerce en ligne : |</seg>
       </tuv>
     </tu>
     <tu>
@@ -52889,6 +54209,62 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2901]&lt;BSOF&gt;sets up a Software Company|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T101554Z" creationid="Olivier" creationdate="20200512T101418Z">
+        <seg>[2901]&lt;BSOF&gt;crée une entreprise de logiciel|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2902]&lt;BINT&gt;sets up an Internet Company|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T101600Z" creationid="Olivier" creationdate="20200512T101448Z">
+        <seg>[2902]&lt;BINT&gt;crée une entreprise internet|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2903]&lt;BTEL&gt;sets up a Telecom|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T101516Z" creationid="Olivier" creationdate="20200512T101451Z">
+        <seg>[2903]&lt;BTEL&gt;crée une entreprise de télécommunications|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2904]&lt;BOND&gt;Bond|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T101548Z" creationid="Olivier" creationdate="20200512T101548Z">
+        <seg>[2904]&lt;BOND&gt;Obligation|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2905]&lt;BCOU&gt;Coupon|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T101603Z" creationid="Olivier" creationdate="20200512T101603Z">
+        <seg>[2905]&lt;BCOU&gt;Coupon|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2906]&lt;BYIE&gt;Yield|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T101609Z" creationid="Olivier" creationdate="20200512T101609Z">
+        <seg>[2906]&lt;BYIE&gt;Rendement|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2907]&lt;BMAT&gt;Maturity|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T101617Z" creationid="Olivier" creationdate="20200512T101617Z">
+        <seg>[2907]&lt;BMAT&gt;Maturité|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2908]&lt;BPRI&gt;Price|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200427T080840Z" creationid="Inrepublica" creationdate="20200427T080840Z">
@@ -52897,10 +54273,130 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2909]&lt;BOWQ&gt;Owned Qty|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T101632Z" creationid="Olivier" creationdate="20200512T101632Z">
+        <seg>[2909]&lt;BOWQ&gt;Qté obtenue|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2910]&lt;BOWV&gt;Owned Value|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T101709Z" creationid="Olivier" creationdate="20200512T101709Z">
+        <seg>[2910]&lt;BOWV&gt;Valeur possédée|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2911]&lt;BCRE&gt;Credit Rating|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T101724Z" creationid="Olivier" creationdate="20200512T101724Z">
+        <seg>[2911]&lt;BCRE&gt;Cote de crédit|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2912]&lt;BHOL&gt;Public Bondholders|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T101738Z" creationid="Olivier" creationdate="20200512T101738Z">
+        <seg>[2912]&lt;BHOL&gt;Détenteurs d'obligations publiques|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2913]&lt;ACP1&gt;Acquisition!|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T101742Z" creationid="Olivier" creationdate="20200512T101742Z">
+        <seg>[2913]&lt;ACP1&gt;Acquisition !|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2914]&lt;ACP2&gt;acquires the private company|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T101800Z" creationid="Olivier" creationdate="20200512T101800Z">
+        <seg>[2914]&lt;ACP2&gt;acquiert la société privée|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2915]&lt;IPO1&gt;IPO!|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T101807Z" creationid="Olivier" creationdate="20200512T101807Z">
+        <seg>[2915]&lt;IPO1&gt;IPO !|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2916]&lt;IPO2&gt;goes public raising|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T101853Z" creationid="Olivier" creationdate="20200512T101853Z">
+        <seg>[2916]&lt;IPO2&gt;fait une levée publique|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2917]&lt;IPO3&gt;in IPO.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T101859Z" creationid="Olivier" creationdate="20200512T101859Z">
+        <seg>[2917]&lt;IPO3&gt;par IPO.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2918]&lt;ELE1&gt;The mayoral election in|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T101909Z" creationid="Olivier" creationdate="20200512T101909Z">
+        <seg>[2918]&lt;ELE1&gt;L'élection du maire en|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2919]&lt;ELE2&gt;and|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T101912Z" creationid="Olivier" creationdate="20200512T101912Z">
+        <seg>[2919]&lt;ELE2&gt;et|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2919]and|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200427T080843Z" creationid="Inrepublica" creationdate="20200427T080843Z">
         <seg>[2919]et|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2920]&lt;ELE3&gt;will take place in one year.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T101927Z" creationid="Olivier" creationdate="20200512T101927Z">
+        <seg>[2920]&lt;ELE3&gt;aura lieu dans un an.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2921]&lt;ELE4&gt;Those who wish to run for mayor should act now.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T101945Z" creationid="Olivier" creationdate="20200512T101940Z">
+        <seg>[2921]&lt;ELE4&gt;Ceux qui souhaitent se présenter à la mairie doivent agir maintenant.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2922]&lt;ELE5&gt;(Press the '!' shortcut key to open the Political Party screen.)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T102005Z" creationid="Olivier" creationdate="20200512T101942Z">
+        <seg>[2922]&lt;ELE5&gt;(Appuyez sur la touche de raccourci '!' pour ouvrir l'écran des partis politiques.)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2923]&lt;TGD1&gt;Grow the city of|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T102025Z" creationid="Olivier" creationdate="20200512T102025Z">
+        <seg>[2923]&lt;TGD1&gt;Fait grandir la ville de|</seg>
       </tuv>
     </tu>
     <tu>
