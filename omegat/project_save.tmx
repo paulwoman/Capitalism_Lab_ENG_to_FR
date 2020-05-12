@@ -54083,8 +54083,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2826]&lt;KOC1&gt;King of Capitalism|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094403Z" creationid="Olivier" creationdate="20200512T094339Z">
-        <seg>[2826]&lt;KOC1&gt;Rois du Capitalisme|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T154315Z" creationid="Olivier" creationdate="20200512T094339Z">
+        <seg>[2826]&lt;KOC1&gt;Roi du Capitalisme|</seg>
       </tuv>
     </tu>
     <tu>
@@ -56449,10 +56449,90 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3115]&lt;MERI&gt;(You cannot issue new shares for the merger because that will exceed the maximum number of shares that a company is allowed to issue.)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T154003Z" creationid="Olivier" creationdate="20200512T154003Z">
+        <seg>[3115]&lt;MERI&gt;(Vous ne pouvez pas émettre de nouvelles actions pour la fusion car cela dépasserait le nombre maximum d'actions qu'une société est autorisée à émettre)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3116]&lt;TEC1&gt;Not interested, unless you offer|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T154014Z" creationid="Olivier" creationdate="20200512T154014Z">
+        <seg>[3116]&lt;TEC1&gt;Pas intéressé, sauf si vous proposez</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3117]&lt;TEC2&gt;for the technology.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T154022Z" creationid="Olivier" creationdate="20200512T154022Z">
+        <seg>[3117]&lt;TEC2&gt;pour la technologie.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3118]&lt;TEC3&gt;We are not interested in selling this technology to our competitors.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T154037Z" creationid="Olivier" creationdate="20200512T154037Z">
+        <seg>[3118]&lt;TEC3&gt;Nous ne sommes pas intéressés par la vente de cette technologie à nos concurrents.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3119]&lt;TEC4&gt;We are not in need of cash and thus not interested in selling our technology.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T154051Z" creationid="Olivier" creationdate="20200512T154051Z">
+        <seg>[3119]&lt;TEC4&gt;Nous n'avons pas besoin d'argent et ne sommes donc pas intéressés par la vente de notre technologie.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3120]&lt;SRA1&gt;Your|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T154056Z" creationid="Olivier" creationdate="20200512T154056Z">
+        <seg>[3120]&lt;SRA1&gt;Votre|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3121]&lt;SRA2&gt;asked for a salary raise from|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T154107Z" creationid="Olivier" creationdate="20200512T154107Z">
+        <seg>[3121]&lt;SRA2&gt;a demandé une augmentation de salaire|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3122]&lt;GNPL&gt;New Product Launch|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T154117Z" creationid="Olivier" creationdate="20200512T154117Z">
+        <seg>[3122]&lt;GNPL&gt;Lancement d'un nouveau produit|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3123]&lt;BNC1&gt;Build a New City|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T154132Z" creationid="Olivier" creationdate="20200512T154132Z">
+        <seg>[3123]&lt;BNC1&gt;Construit une nouvelle ville|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3123]Build a New City|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T102258Z" creationid="Olivier" creationdate="20200429T102258Z">
         <seg>[3123]Construire une nouvelle ville|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3124]&lt;BNC2&gt;Use your corporation to acquire the rights and build a new city, and assign a member from your political party as the city's mayor.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T154150Z" creationid="Olivier" creationdate="20200512T154150Z">
+        <seg>[3124]&lt;BNC2&gt;Utilisez votre société pour acquérir les droits et construire une nouvelle ville, et désignez un membre de votre parti politique comme maire de la ville.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -56465,6 +56545,22 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3125]&lt;KOC1&gt;King of Capitalism|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T154338Z" creationid="Olivier" creationdate="20200512T154338Z">
+        <seg>[3125]&lt;KOC1&gt;Roi du Capitalism|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3126]&lt;KOC2&gt;To become the undisputed King of Capitalism, you must build a sprawling business empire with an impressive list of subsidiary companies by achieving all the subgoals|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T154518Z" creationid="Olivier" creationdate="20200512T154355Z">
+        <seg>[3126]&lt;KOC2&gt;Pour devenir le roi incontesté du capitalisme, vous devez construire un empire commercial tentaculaire avec une liste impressionnante de filiales en réalisant tous les sous-objectifs|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3126]To become the undisputed King of Capitalism, you must build a sprawling business empire with an impressive list of subsidiary companies by achieving all the subgoals|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T101909Z" creationid="Olivier" creationdate="20200429T101909Z">
@@ -56473,10 +56569,26 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3127]&lt;DAD1&gt;Digital Age Dominance|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T154522Z" creationid="Olivier" creationdate="20200512T154403Z">
+        <seg>[3127]&lt;DAD1&gt;La domination de l'ère numérique|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3127]Digital Age Dominance|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T101843Z" creationid="Olivier" creationdate="20200429T101843Z">
         <seg>[3127]La domination de l'ère numérique|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3128]&lt;DAD2&gt;Achieve market dominance in Mobile Operating System and gain a significant market share in the Internet sector.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T154529Z" creationid="Olivier" creationdate="20200512T154411Z">
+        <seg>[3128]&lt;DAD2&gt;Obtenez une position dominante sur le marché des systèmes d'exploitation mobiles et gagnez une part de marché significative dans le secteur de l'internet|</seg>
       </tuv>
     </tu>
     <tu>
@@ -56497,10 +56609,26 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3129]&lt;DAD3&gt;"Achieve market dominance in Computer Operating System and gain a significant market share in the Internet sector.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T154457Z" creationid="Olivier" creationdate="20200512T154418Z">
+        <seg>[3129]&lt;DAD3&gt;"Obtenez une position dominante sur le marché des systèmes d'exploitation informatiques et gagner une part de marché importante dans le secteur de l'internet.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3130]&lt;MDOM&gt;Achieve market dominance in|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T102606Z" creationid="Olivier" creationdate="20200429T102606Z">
         <seg>[3130]&lt;MDOM&gt;Obtenir une position dominante sur le marché en|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3131]&lt;LAU1&gt;Launch|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T154554Z" creationid="Olivier" creationdate="20200512T154554Z">
+        <seg>[3131]&lt;LAU1&gt;Lancement|</seg>
       </tuv>
     </tu>
     <tu>
