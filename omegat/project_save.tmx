@@ -30649,6 +30649,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The cost of adding a new floor is|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T095925Z" creationid="Olivier" creationdate="20200512T095925Z">
+        <seg>Le coût de l'ajout d'un nouvel étage est de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The creator's version is %1s while your version is %2s.|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T172526Z" creationid="Olivier" creationdate="20200511T172526Z">
@@ -53833,10 +53841,266 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2855]&lt;AK11&gt;Increase in Asset Value|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T095756Z" creationid="Olivier" creationdate="20200512T095756Z">
+        <seg>[2855]&lt;AK11&gt;Augmentation de la valeur des actif|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2856]&lt;AK12&gt;Loan Interest|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T095821Z" creationid="Olivier" creationdate="20200512T095821Z">
+        <seg>[2856]&lt;AK12&gt;Taux d'intérêt|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2857]&lt;AK20&gt;Data Server Cost|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T095839Z" creationid="Olivier" creationdate="20200512T095839Z">
+        <seg>[2857]&lt;AK20&gt;Coût du serveur de données|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2858]&lt;DIFF&gt;DIFFICULTY RATING|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200427T080749Z" creationid="Inrepublica" creationdate="20200427T080730Z">
         <seg>[2858]&lt;DIFF&gt;NIVEAU DE DIFFICULTÉ|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2859]&lt;CORP&gt;CORPORATIONS (Total|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T095848Z" creationid="Olivier" creationdate="20200512T095848Z">
+        <seg>[2859]&lt;CORP&gt;SOCIÉTÉS (Total|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2860]&lt;FLR0&gt;Sorry, you do not have sufficient cash.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T095917Z" creationid="Olivier" creationdate="20200512T095917Z">
+        <seg>[2860]&lt;FLR0&gt;Désolé, vous n'avez pas assez de trésorerie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2861]&lt;FLR1&gt;The cost of adding a new floor is|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T095951Z" creationid="Olivier" creationdate="20200512T095934Z">
+        <seg>[2861]&lt;FLR1&gt;Le coût de l'ajout d'un nouvel étage est de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2862]&lt;FLR2&gt;Do you want to proceed?|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100012Z" creationid="Olivier" creationdate="20200512T100012Z">
+        <seg>[2862]&lt;FLR2&gt;Voulez-vous procéder ?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2863]&lt;NSUB&gt;Set Up a New Subsidiary Company|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100026Z" creationid="Olivier" creationdate="20200512T100026Z">
+        <seg>[2863]&lt;NSUB&gt;Créer une nouvelle filiale|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2864]&lt;NSN1&gt;Sorry, the requirement is not met.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100036Z" creationid="Olivier" creationdate="20200512T100036Z">
+        <seg>[2864]&lt;NSN1&gt;Désolé, la condition n'est pas remplie|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2865]&lt;NSN2&gt;The initial capital of your new subsidiary company must be at least|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100048Z" creationid="Olivier" creationdate="20200512T100048Z">
+        <seg>[2865]&lt;NSN2&gt;Le capital initial de votre nouvelle filiale doit être au moins|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2866]&lt;NSN3&gt;million|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100052Z" creationid="Olivier" creationdate="20200512T100052Z">
+        <seg>[2866]&lt;NSN3&gt;millions|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2867]&lt;NSC1&gt;You must now hire a CEO for your new subsidiary company.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100102Z" creationid="Olivier" creationdate="20200512T100102Z">
+        <seg>[2867]&lt;NSC1&gt;Vous devez maintenant embaucher un PDG pour votre nouvelle filiale.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2868]&lt;NSC2&gt;To do so, in the next screen, select a CEO candidate and click the [Hire Chief Executive] button.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100119Z" creationid="Olivier" creationdate="20200512T100119Z">
+        <seg>[2868]&lt;NSC2&gt;Pour ce faire, dans l'écran suivant, sélectionnez un candidat au poste de PDG et cliquez sur le bouton [Embaucher le PDG]|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2869]&lt;NSH1&gt;the job as the|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100132Z" creationid="Olivier" creationdate="20200512T100132Z">
+        <seg>[2869]&lt;NSH1&gt;le travail en tant que|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2870]&lt;NSH2&gt;of|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100138Z" creationid="Olivier" creationdate="20200512T100138Z">
+        <seg>[2870]&lt;NSH2&gt;de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2871]&lt;NSH3&gt;the new subsidiary company|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100149Z" creationid="Olivier" creationdate="20200512T100149Z">
+        <seg>[2871]&lt;NSH3&gt;la nouvelle filiale|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2872]&lt;SUB1&gt;Your corporation owns|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100207Z" creationid="Olivier" creationdate="20200512T100207Z">
+        <seg>[2872]&lt;SUB1&gt;Votre société possède|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2873]&lt;SUB2&gt;shares of this company.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100219Z" creationid="Olivier" creationdate="20200512T100219Z">
+        <seg>[2873]&lt;SUB2&gt;actions de cette entreprise.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2874]&lt;LAN1&gt;Decrease All Civic Building Setup Costs by|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100231Z" creationid="Olivier" creationdate="20200512T100231Z">
+        <seg>[2874]&lt;LAN1&gt;Réduire tous les coûts d'installation des bâtiments municipaux|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2875]&lt;LAN2&gt;Decrease All Civic Building Operating Costs by|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100329Z" creationid="Olivier" creationdate="20200512T100242Z">
+        <seg>[2875]&lt;LAN2&gt;Diminuer tous les coûts de fonctionnement des bâtiments publics de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2876]&lt;LAN3&gt;Decrease All Commercial Firm Setup Costs by|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100342Z" creationid="Olivier" creationdate="20200512T100257Z">
+        <seg>[2876]&lt;LAN3&gt;Réduire tous les coûts d'établissement des entreprises commerciales de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2877]&lt;LAN4&gt;Decrease All Commercial Firm Fixed Operating Costs by|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100417Z" creationid="Olivier" creationdate="20200512T100355Z">
+        <seg>[2877]&lt;LAN4&gt;Diminuer tous les coûts d'exploitation fixes des entreprises commerciales de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2878]&lt;LAN5&gt;Increase Industry Competitiveness by|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100413Z" creationid="Olivier" creationdate="20200512T100413Z">
+        <seg>[2878]&lt;LAN5&gt;Accroître la compétitivité de l'industrie de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2879]&lt;LAN6&gt;Increase a Selected Firm Unit Type's Level by|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100429Z" creationid="Olivier" creationdate="20200512T100415Z">
+        <seg>[2879]&lt;LAN6&gt;Augmenter le niveau d'un type d'unité d'entreprise sélectionné|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2880]&lt;EVRY&gt;Every|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100439Z" creationid="Olivier" creationdate="20200512T100439Z">
+        <seg>[2880]&lt;EVRY&gt;Tous|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2881]&lt;ATS1&gt;This cannot be done because [|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100457Z" creationid="Olivier" creationdate="20200512T100457Z">
+        <seg>[2881]&lt;ATS1&gt;Cela ne peut se faire parce que [|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2882]&lt;ATS2&gt;] which is outside the subsidiary company's Scope of Production.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100510Z" creationid="Olivier" creationdate="20200512T100510Z">
+        <seg>[2882]&lt;ATS2&gt;] ] qui est en dehors du champ d'application de la production de la filiale.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2883]&lt;LAN7&gt;Increase this city's competitiveness in|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100524Z" creationid="Olivier" creationdate="20200512T100524Z">
+        <seg>[2883]&lt;LAN7&gt;Accroître la compétitivité de cette ville dans|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2884]&lt;LAN8&gt;Increase the levels of all|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100535Z" creationid="Olivier" creationdate="20200512T100535Z">
+        <seg>[2884]&lt;LAN8&gt;Augmenter les niveaux de tous|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2885]&lt;LAN9&gt;in this city by|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100547Z" creationid="Olivier" creationdate="20200512T100547Z">
+        <seg>[2885]&lt;LAN9&gt;dans cette ville par|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2886]&lt;NCG1&gt;You have enabled Survival Mode in City Economic Simulation DLC.\n\n|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100629Z" creationid="Olivier" creationdate="20200512T100629Z">
+        <seg>[2886]&lt;NCG1&gt;Vous avez activé le mode de survie du DLC simulation économique de la ville.\n\n|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2887]&lt;NCG2&gt;All products are locked, requiring reinvention, except the products under the Food and Beverage mega class and the products in which you have expertise.\n\n\n|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100747Z" creationid="Olivier" creationdate="20200512T100747Z">
+        <seg>[2887]&lt;NCG2&gt;Tous les produits sont verrouillés et doivent être réinventés, à l'exception des produits relevant de la catégorie méga des aliments et boissons et des produits pour lesquels vous avez une expertise.\n\n\n|</seg>
       </tuv>
     </tu>
     <tu>
