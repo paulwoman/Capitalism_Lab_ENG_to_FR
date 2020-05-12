@@ -2342,6 +2342,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>About Capitalism Lab: Capitalism Lab is an expansion for Capitalism 2 with a host of new features and improvements, for experienced users of Capitalism 2.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T144717Z" creationid="Olivier" creationdate="20200512T144717Z">
+        <seg>À propos de Capitalism Lab : Capitalism Lab est une extension de Capitalism 2 avec une foule de nouvelles fonctionnalités et d'améliorations, pour les utilisateurs expérimentés de Capitalism 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>About|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150706Z" creationid="Inrepublica" creationdate="20200425T150706Z">
@@ -6422,6 +6430,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>City=New York</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T144804Z" creationid="Olivier" creationdate="20200512T144804Z">
+        <seg>City=New York</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>City=New York City</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T085530Z" creationid="Olivier" creationdate="20200426T085530Z">
@@ -6458,6 +6474,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220942Z" creationid="Olivier" creationdate="20200429T220942Z">
         <seg>City=Portland</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City=Rio De Janeiro</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T144802Z" creationid="Olivier" creationdate="20200512T144802Z">
+        <seg>City=Rio De Janeiro</seg>
       </tuv>
     </tu>
     <tu>
@@ -7830,6 +7854,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Competitor Start-up Capital=Very Low</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T144844Z" creationid="Olivier" creationdate="20200512T144844Z">
+        <seg>Competitor Start-up Capital=Very Low</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Competitors are allowed to buy your products.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T090404Z" creationid="Olivier" creationdate="20200428T145007Z">
@@ -8390,6 +8422,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Corporate cash change=-1000000</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T144730Z" creationid="Olivier" creationdate="20200512T144730Z">
+        <seg>Corporate cash change=-1000000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Corporate cash change=10</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214344Z" creationid="Olivier" creationdate="20200429T214344Z">
@@ -8406,10 +8446,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Corporate cash change=1000000</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T144725Z" creationid="Olivier" creationdate="20200512T144725Z">
+        <seg>Corporate cash change=1000000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Corporate cash change=200</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T171943Z" creationid="Olivier" creationdate="20200430T171943Z">
         <seg>Corporate cash change=200</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Corporate cash change=500000</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T144633Z" creationid="Olivier" creationdate="20200512T144633Z">
+        <seg>Corporate cash change=500000</seg>
       </tuv>
     </tu>
     <tu>
@@ -8782,6 +8838,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Deadline=1991-07-02</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T144624Z" creationid="Olivier" creationdate="20200512T144624Z">
+        <seg>Deadline=1991-07-02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Deadline=1995-09-30</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T224055Z" creationid="Olivier" creationdate="20200430T224055Z">
@@ -9054,6 +9118,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=None</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T144835Z" creationid="Olivier" creationdate="20200512T144835Z">
+        <seg>Description=Aucun</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=The stock market has seen a series of highly successful IPOs (initial public offerings) lately.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T220352Z" creationid="Olivier" creationdate="20200430T220352Z">
@@ -9154,6 +9226,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T221438Z" creationid="Olivier" creationdate="20200430T221438Z">
         <seg>Description=Ce jeu de scénario représente le test ultime de votre savoir-faire commercial et financier en matière de lancement de filiales, de levée de capitaux, de structuration d'opérations et d'IPO.\n\n Les objectifs de ce scénario ne peuvent être atteints qu'en formulant vos stratégies commerciales de manière experte et en les exécutant sans faille.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=This script doubles the training effect on your staff.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T144904Z" creationid="Olivier" creationdate="20200512T144904Z">
+        <seg>Ce script double l'effet de formation sur votre personnel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13273,10 +13353,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Image=subgoal image 1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T144615Z" creationid="Olivier" creationdate="20200512T144615Z">
+        <seg>Goal Image=subgoal image 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Image=subgoal image 1.jpg</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T224028Z" creationid="Olivier" creationdate="20200430T224028Z">
         <seg>Goal Image=subgoal image 1.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Image=subgoal image 3.jpg</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T144720Z" creationid="Olivier" creationdate="20200512T144720Z">
+        <seg>Goal Image=subgoal image 3.jpg</seg>
       </tuv>
     </tu>
     <tu>
@@ -16913,6 +17009,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Import Quality=Low</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T144847Z" creationid="Olivier" creationdate="20200512T144847Z">
+        <seg>Import Quality=Low</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Import Quality=Moderate</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171351Z" creationid="Olivier" creationdate="20200427T171351Z">
@@ -16989,6 +17093,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151858Z" creationid="Olivier" creationdate="20200504T151858Z">
         <seg>En d'autres termes, il s'agit de la valeur marchande totale de l'entreprise sur le marché boursier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In other words, the experience levels of your staff will increase twice as fast when the same amount of training expenditure.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T144911Z" creationid="Olivier" creationdate="20200512T144911Z">
+        <seg>En d'autres termes, le niveau d'expérience de votre personnel augmentera deux fois plus vite pour un même montant de dépenses de formation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17533,6 +17645,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T222304Z" creationid="Olivier" creationdate="20200429T222304Z">
         <seg>Instant Invention=Camera Phone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Instant Invention=Smart Phone</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T144640Z" creationid="Olivier" creationdate="20200512T144640Z">
+        <seg>Instant Invention=Smart Phone</seg>
       </tuv>
     </tu>
     <tu>
@@ -21209,6 +21329,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Number of AI Persons=50</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T144842Z" creationid="Olivier" creationdate="20200512T144842Z">
+        <seg>Number of AI Persons=50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number of AI Persons=63</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170613Z" creationid="Olivier" creationdate="20200427T170613Z">
@@ -22417,6 +22545,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ownership=100</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T144722Z" creationid="Olivier" creationdate="20200512T144722Z">
+        <seg>Ownership=100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ownership=30</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T144630Z" creationid="Olivier" creationdate="20200512T144630Z">
+        <seg>Ownership=30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ownership=50</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102201Z" creationid="Olivier" creationdate="20200428T102201Z">
@@ -23377,10 +23521,34 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Personal cash change=-800</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T144732Z" creationid="Olivier" creationdate="20200512T144732Z">
+        <seg>Personal cash change=-800</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Personal cash change=1000</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T144727Z" creationid="Olivier" creationdate="20200512T144727Z">
+        <seg>Personal cash change=1000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Personal cash change=1000000</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102440Z" creationid="Olivier" creationdate="20200428T102440Z">
         <seg>Personal cash change=1000000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Personal cash change=500</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T144635Z" creationid="Olivier" creationdate="20200512T144635Z">
+        <seg>Personal cash change=500</seg>
       </tuv>
     </tu>
     <tu>
@@ -23829,6 +23997,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T222259Z" creationid="Olivier" creationdate="20200429T222259Z">
         <seg>Player expertise change=research and development, 20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player expertise change=retail, -10</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T144735Z" creationid="Olivier" creationdate="20200512T144735Z">
+        <seg>Player expertise change=retail, -10</seg>
       </tuv>
     </tu>
     <tu>
@@ -29369,6 +29545,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Tech Change=Bath Lotion, 50</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T144637Z" creationid="Olivier" creationdate="20200512T144637Z">
+        <seg>Tech Change=Bath Lotion, 50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tech Change=Jeans, -50</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T224125Z" creationid="Olivier" creationdate="20200430T224125Z">
@@ -29549,6 +29733,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T154005Z" creationid="Inrepublica" creationdate="20200422T151908Z">
         <seg>Perturbation technologique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Technology Disruption=No</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T144840Z" creationid="Olivier" creationdate="20200512T144840Z">
+        <seg>Technology Disruption=No</seg>
       </tuv>
     </tu>
     <tu>
@@ -30585,6 +30777,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The bank does not have sufficient cash to let all depositors withdraw their money.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T145037Z" creationid="Olivier" creationdate="20200512T145037Z">
+        <seg>La banque ne dispose pas de suffisamment de liquidités pour permettre à tous les déposants de retirer leur argent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The bank has stopped accepting new bank deposits.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T082823Z" creationid="Olivier" creationdate="20200508T082823Z">
@@ -31125,6 +31325,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203801Z" creationid="Inrepublica" creationdate="20200422T203801Z">
         <seg>Les prix initiaux des stocks mondiaux sont chargés à partir d'une base de données.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The insurance company does not have sufficient cash to repay all its insurance contract liabilities in claims reserves.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T145129Z" creationid="Olivier" creationdate="20200512T145129Z">
+        <seg>La compagnie d'assurance ne dispose pas de suffisamment de liquidités pour rembourser toutes ses obligations au titre des contrats d'assurance dans les réserves pour sinistres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33242,6 +33450,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title=200% training effect</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T144850Z" creationid="Olivier" creationdate="20200512T144850Z">
+        <seg>Title=200% training effect</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Title=3.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100016Z" creationid="Olivier" creationdate="20200429T100016Z">
@@ -33414,6 +33630,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T145519Z" creationid="Olivier" creationdate="20200426T145519Z">
         <seg>Title=Responsabilité des entreprises</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=Custom Script</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T144824Z" creationid="Olivier" creationdate="20200512T144824Z">
+        <seg>Title=Script personnalisé</seg>
       </tuv>
     </tu>
     <tu>
@@ -33674,6 +33898,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title=User script - Cities</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T144757Z" creationid="Olivier" creationdate="20200512T144757Z">
+        <seg>Title=Script d'utilisateurs - Villes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Title=Welfare Vision</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T144955Z" creationid="Olivier" creationdate="20200430T144955Z">
@@ -33862,6 +34094,22 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151005Z" creationid="Olivier" creationdate="20200504T151005Z">
         <seg>Pour localiser le produit que vous souhaitez, tapez la première lettre du nom du produit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To remedy this, you may transfer funds from the parent corporation to the bank.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T145043Z" creationid="Olivier" creationdate="20200512T145043Z">
+        <seg>Pour y remédier, vous pouvez transférer des fonds de la société mère à la banque.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To remedy this, you may transfer funds from the parent corporation to the insurance company.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T145132Z" creationid="Olivier" creationdate="20200512T145132Z">
+        <seg>Pour y remédier, vous pouvez transférer des fonds de la société mère à la compagnie d'assurance|</seg>
       </tuv>
     </tu>
     <tu>
@@ -36990,6 +37238,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102134Z" creationid="Olivier" creationdate="20200428T102134Z">
         <seg>Vous pouvez consulter le site web de Capitalisme 2 à l'adresse www.capitalism2.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may check out Capitalism 2 web site at www.capitalism2.com.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T144610Z" creationid="Olivier" creationdate="20200512T144610Z">
+        <seg>Vous pouvez consulter le site web de Capitalisme 2 à l'adresse www.capitalism2.com.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55233,14 +55489,6 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>[3008]&lt;KNO8&gt;Nil|</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T144259Z" creationid="Olivier" creationdate="20200512T144259Z">
-        <seg>[3008]&lt;KNO8&gt;Nil|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>[3009]&lt;KNO9&gt;Invention Pre-requisites:|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T144109Z" creationid="Olivier" creationdate="20200512T144109Z">
@@ -55251,24 +55499,160 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[3010]&lt;KN10&gt;Invention Pre-requisite:|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T144110Z" creationid="Olivier" creationdate="20200512T144110Z">
-        <seg>[3010]&lt;KN10&gt;Invention Pre-requisite:|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T144935Z" creationid="Olivier" creationdate="20200512T144110Z">
+        <seg>[3010]&lt;KN10&gt;Invention pré-requis :|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[3011]&lt;BIP2&gt;Claims Reserves|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T144120Z" creationid="Olivier" creationdate="20200512T144120Z">
-        <seg>[3011]&lt;BIP2&gt;Claims Reserves|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T144950Z" creationid="Olivier" creationdate="20200512T144120Z">
+        <seg>[3011]&lt;BIP2&gt;Réserves de créances|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[3012]&lt;BIP3&gt;Claims Reserves|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T144306Z" creationid="Olivier" creationdate="20200512T144306Z">
-        <seg>[3012]&lt;BIP3&gt;Claims Reserves|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T144957Z" creationid="Olivier" creationdate="20200512T144306Z">
+        <seg>[3012]&lt;BIP3&gt;Réserves de créances|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3013]&lt;CBK1&gt;You must first close down all the Bank Branches before you can close down the Bank Headquarters.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T145021Z" creationid="Olivier" creationdate="20200512T145021Z">
+        <seg>[3013]&lt;CBK1&gt;Vous devez d'abord fermer toutes les succursales de la banque avant de pouvoir fermer le siège social de la banque.||</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3014]&lt;CBK2&gt;Sorry, you cannot close down the bank.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T145033Z" creationid="Olivier" creationdate="20200512T145033Z">
+        <seg>[3014]&lt;CBK2&gt;Désolé, vous ne pouvez pas fermer la banque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3015]&lt;CIN1&gt;You must first close down all the Insurance Front Offices before you can close down the Insurance Headquarters.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T145111Z" creationid="Olivier" creationdate="20200512T145111Z">
+        <seg>[3015]&lt;CIN1&gt;Vous devez d'abord fermer tous les guichets de l'assurance avant de pouvoir fermer le siège social de l'assurance|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3016]&lt;CIN2&gt;Sorry, you cannot close down the insurance company.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T145124Z" creationid="Olivier" creationdate="20200512T145124Z">
+        <seg>[3016]&lt;CIN2&gt;Désolé, vous ne pouvez pas fermer la compagnie d'assurance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3017]&lt;SOC1&gt;Your subsidiary |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T145142Z" creationid="Olivier" creationdate="20200512T145142Z">
+        <seg>[3017]&lt;SOC1&gt;Votre filiale|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3018]&lt;SOC2&gt; has run out of cash!|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T145200Z" creationid="Olivier" creationdate="20200512T145200Z">
+        <seg>[3018]&lt;SOC2&gt; n'a plus de liquidités !|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3019]&lt;BOC1&gt;Your Bank Has Run Out of Cash!|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T145311Z" creationid="Olivier" creationdate="20200512T145311Z">
+        <seg>[3019]&lt;BOC1&gt;Votre banque n'a plus de liquidités !|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3020]&lt;BOC2&gt;Your Subsidiary Bank |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T145330Z" creationid="Olivier" creationdate="20200512T145330Z">
+        <seg>[3020]&lt;BOC2&gt;La banque de votre filiale |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3021]&lt;BOC3&gt; Has Run Out of Cash!|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T145342Z" creationid="Olivier" creationdate="20200512T145342Z">
+        <seg>[3021]&lt;BOC3&gt; n'a plus de liquidités !|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3022]&lt;BOC4&gt;Transfer funds from your corporation to your bank.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T145357Z" creationid="Olivier" creationdate="20200512T145357Z">
+        <seg>[3022]&lt;BOC4&gt;Transférez des fonds de votre société à votre banque|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3023]&lt;BOC5&gt;Raise funds from your corporation.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T145407Z" creationid="Olivier" creationdate="20200512T145407Z">
+        <seg>[3023]&lt;BOC5&gt;Collectez des fonds auprès de votre société.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3024]&lt;BOC6&gt;Transfer funds from your subsidiary company to the bank.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T145432Z" creationid="Olivier" creationdate="20200512T145432Z">
+        <seg>[3024]&lt;BOC6&gt;Transférer des fonds de votre filiale à la banque..|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3025]&lt;BOC7&gt;Raise funds from your subsidiary company|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T145444Z" creationid="Olivier" creationdate="20200512T145444Z">
+        <seg>[3025]&lt;BOC7&gt;Collectez des fonds auprès de votre filiale|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3026]&lt;IOC1&gt;Your Insurance Company Has Run Out of Cash!|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T145504Z" creationid="Olivier" creationdate="20200512T145504Z">
+        <seg>[3026]&lt;IOC1&gt;Votre compagnie d'assurance est à court de liquidités !|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3027]&lt;IOC2&gt;The insurance company of your subsidiary |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T145519Z" creationid="Olivier" creationdate="20200512T145519Z">
+        <seg>[3027]&lt;IOC2&gt;La compagnie d'assurance de votre filiale |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3028]&lt;IOC3&gt; has run out of cash!|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T145535Z" creationid="Olivier" creationdate="20200512T145535Z">
+        <seg>[3028]&lt;IOC3&gt; n'a plus de liquidités !|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3029]&lt;IOC4&gt;Transfer funds from your corporation to your insurance company.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T145548Z" creationid="Olivier" creationdate="20200512T145548Z">
+        <seg>[3029]&lt;IOC4&gt;Transférez des fonds de votre société à votre compagnie d'assurance.|</seg>
       </tuv>
     </tu>
     <tu>
