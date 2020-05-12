@@ -38467,8 +38467,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0022]&lt;PRF1&gt;Please select your name from this list|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T131710Z" creationid="Inrepublica" creationdate="20200422T131504Z">
-        <seg>[0022]&lt;PRF1&gt;Svp sélectionnez votre nom dans la liste|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T221438Z" creationid="Inrepublica" creationdate="20200422T131504Z">
+        <seg>[0022]&lt;PRF1&gt;Veuillez saisir votre nom dans la liste|</seg>
       </tuv>
     </tu>
     <tu>
@@ -38499,8 +38499,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0024]&lt;PRFN&gt;Please enter your name|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T152711Z" creationid="Inrepublica" creationdate="20200422T131616Z">
-        <seg>[0024]&lt;PRFN&gt;Svp, entrez votre nom|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T221455Z" creationid="Inrepublica" creationdate="20200422T131616Z">
+        <seg>[0024]&lt;PRFN&gt;Veuillez entrer votre nom|</seg>
       </tuv>
     </tu>
     <tu>
@@ -38595,8 +38595,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0119]&lt;RFU1&gt;Cannot join a new game session|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T144006Z" creationid="Inrepublica" creationdate="20200422T144006Z">
-        <seg>[0119]&lt;RFU1&gt;Ne peut rejoindre une nouvelle session de jeu|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T221629Z" creationid="Inrepublica" creationdate="20200422T144006Z">
+        <seg>[0119]&lt;RFU1&gt;Impossible de joindre une nouvelle session de jeu|</seg>
       </tuv>
     </tu>
     <tu>
@@ -38611,8 +38611,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0120]&lt;RFU2&gt;Cannot join a load game session|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T230128Z" creationid="Olivier" creationdate="20200509T230128Z">
-        <seg>[0120]&lt;RFU2&gt;Ne peut rejoindre une session de partie sauvegardée|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T221706Z" creationid="Olivier" creationdate="20200509T230128Z">
+        <seg>[0120]&lt;RFU2&gt;Impossible de joindre une session de partie chargée|</seg>
       </tuv>
     </tu>
     <tu>
@@ -38627,8 +38627,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0121]&lt;RFU3&gt;You cannot join the game because the save game is different from the host|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T230201Z" creationid="Olivier" creationdate="20200509T230130Z">
-        <seg>[0121]&lt;RFU3&gt;Vous ne pouvez rejoindre une partie car la sauvegarde est différente|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T221720Z" creationid="Olivier" creationdate="20200509T230130Z">
+        <seg>[0121]&lt;RFU3&gt;Vous ne pouvez rejoindre cette partie car la sauvegarde est différente|</seg>
       </tuv>
     </tu>
     <tu>
@@ -38643,8 +38643,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0122]&lt;RFU4&gt;You cannot join the game because the host does not accept your game version|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T230206Z" creationid="Olivier" creationdate="20200509T230153Z">
-        <seg>[0122]&lt;RFU4&gt;Vous ne pouvez rejoindre car vous utilisez une version différente|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T221813Z" creationid="Olivier" creationdate="20200509T230153Z">
+        <seg>[0122]&lt;RFU4&gt;Vous ne pouvez rejoindre la partie car l’hôte n'accepte pas la version de votre partie|</seg>
       </tuv>
     </tu>
     <tu>
@@ -38731,24 +38731,24 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0158]&lt;GDAT&gt;Game date: |</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145224Z" creationid="Inrepublica" creationdate="20200422T145224Z">
-        <seg>[0158]&lt;GDAT&gt;Date jeux: |</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T221231Z" creationid="Inrepublica" creationdate="20200422T145224Z">
+        <seg>[0158]&lt;GDAT&gt;Date de la partie : |</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[0159]&lt;FDAT&gt;File date: |</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145231Z" creationid="Inrepublica" creationdate="20200422T145231Z">
-        <seg>[0159]&lt;FDAT&gt;Date fichier: |</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T221237Z" creationid="Inrepublica" creationdate="20200422T145231Z">
+        <seg>[0159]&lt;FDAT&gt;Date du fichier : |</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[0160]&lt;FNAM&gt;File name: |</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145236Z" creationid="Inrepublica" creationdate="20200422T145236Z">
-        <seg>[0160]&lt;FNAM&gt;Nom fichier: |</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T221245Z" creationid="Inrepublica" creationdate="20200422T145236Z">
+        <seg>[0160]&lt;FNAM&gt;Nom du fichier : |</seg>
       </tuv>
     </tu>
     <tu>
@@ -38771,16 +38771,16 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0163]&lt;ADLS&gt;This save game will be deleted.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T123358Z" creationid="Inrepublica" creationdate="20200423T123358Z">
-        <seg>[0163]&lt;ADLS&gt;Cette sauvegarde est supprimée.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T221903Z" creationid="Inrepublica" creationdate="20200423T123358Z">
+        <seg>[0163]&lt;ADLS&gt;Cette sauvegarde sera supprimée.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[0164]&lt;DESV&gt;Description of the save game:|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T152548Z" creationid="Inrepublica" creationdate="20200423T152548Z">
-        <seg>[0164]&lt;DESV&gt;Description de la sauvegarde:|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T221306Z" creationid="Inrepublica" creationdate="20200423T152548Z">
+        <seg>[0164]&lt;DESV&gt;Description de la sauvegarde :|</seg>
       </tuv>
     </tu>
     <tu>
@@ -38795,24 +38795,24 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0166]&lt;LE_O&gt;Cannot open the save game file|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T152658Z" creationid="Inrepublica" creationdate="20200423T152658Z">
-        <seg>[0166]&lt;LE_O&gt;Ne peut ouvrir la sauvegarde|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T221930Z" creationid="Inrepublica" creationdate="20200423T152658Z">
+        <seg>[0166]&lt;LE_O&gt;Impossible de charger la sauvegarde|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[0167]&lt;LE_H&gt;Cannot read file header|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T152720Z" creationid="Inrepublica" creationdate="20200423T152720Z">
-        <seg>[0167]&lt;LE_H&gt;Ne peux lire l'en-tête du fichier|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T222002Z" creationid="Inrepublica" creationdate="20200423T152720Z">
+        <seg>[0167]&lt;LE_H&gt;Impossible de lire l'en-tête du fichier|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[0168]&lt;LE_P&gt;Cannot load the save game.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T162705Z" creationid="Inrepublica" creationdate="20200423T162705Z">
-        <seg>[0168]&lt;LE_P&gt;Ne peut charger la sauvegarde.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T222011Z" creationid="Inrepublica" creationdate="20200423T162705Z">
+        <seg>[0168]&lt;LE_P&gt;Impossible de charger la sauvegarde.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38867,16 +38867,16 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0186]&lt;STAY&gt;Do you want to continue to stay in the game?|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T163449Z" creationid="Inrepublica" creationdate="20200423T163449Z">
-        <seg>[0186]&lt;STAY&gt;Voulez-vous restez dans le jeu?|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T222142Z" creationid="Inrepublica" creationdate="20200423T163449Z">
+        <seg>[0186]&lt;STAY&gt;Voulez-vous continuer et rester dans la partie ?|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[0188]&lt;RSTT&gt;Restart Game|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T163505Z" creationid="Inrepublica" creationdate="20200423T163505Z">
-        <seg>[0188]&lt;RSTT&gt;Redémarrer une partie|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T222153Z" creationid="Inrepublica" creationdate="20200423T163505Z">
+        <seg>[0188]&lt;RSTT&gt;Redémarrer la partie|</seg>
       </tuv>
     </tu>
     <tu>
@@ -55139,8 +55139,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2955]&lt;BI02&gt;Investment Income|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T142030Z" creationid="Olivier" creationdate="20200512T142030Z">
-        <seg>[2955]&lt;BI02&gt;Revenus d'investissements||</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T221347Z" creationid="Olivier" creationdate="20200512T142030Z">
+        <seg>[2955]&lt;BI02&gt;Revenus d'investissements|</seg>
       </tuv>
     </tu>
     <tu>
@@ -55595,8 +55595,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[3013]&lt;CBK1&gt;You must first close down all the Bank Branches before you can close down the Bank Headquarters.|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T145021Z" creationid="Olivier" creationdate="20200512T145021Z">
-        <seg>[3013]&lt;CBK1&gt;Vous devez d'abord fermer toutes les succursales de la banque avant de pouvoir fermer le siège social de la banque.||</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T221347Z" creationid="Olivier" creationdate="20200512T145021Z">
+        <seg>[3013]&lt;CBK1&gt;Vous devez d'abord fermer toutes les succursales de la banque avant de pouvoir fermer le siège social de la banque.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -55859,8 +55859,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[3046]&lt;BCR4&gt;Bank Capital Ratio|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T150024Z" creationid="Olivier" creationdate="20200512T150024Z">
-        <seg>[3046]&lt;BCR4&gt;Ratio de capital bancaire||</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T221347Z" creationid="Olivier" creationdate="20200512T150024Z">
+        <seg>[3046]&lt;BCR4&gt;Ratio de capital bancaire|</seg>
       </tuv>
     </tu>
     <tu>
@@ -56411,8 +56411,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[3111]&lt;STB1&gt;Sorry, you cannot execute this share buyback transaction, as a public company's total number of shares outstanding must not be lower than 1,000,000 shares.|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T153513Z" creationid="Olivier" creationdate="20200512T153513Z">
-        <seg>[3111]&lt;STB1&gt;Désolé, vous ne pouvez pas exécuter cette opération de rachat d'actions, car le nombre total d'actions en circulation d'une société publique ne doit pas être inférieur à un million d'actions.||</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T221347Z" creationid="Olivier" creationdate="20200512T153513Z">
+        <seg>[3111]&lt;STB1&gt;Désolé, vous ne pouvez pas exécuter cette opération de rachat d'actions, car le nombre total d'actions en circulation d'une société publique ne doit pas être inférieur à un million d'actions.|</seg>
       </tuv>
     </tu>
     <tu>
