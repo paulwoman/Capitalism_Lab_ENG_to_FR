@@ -53681,6 +53681,158 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2836]&lt;NCT3&gt;to the city's treasury.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094748Z" creationid="Olivier" creationdate="20200512T094748Z">
+        <seg>[2836]&lt;NCT3&gt;au trésor de la ville.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2837]&lt;AIG6&gt;OS Focused|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094801Z" creationid="Olivier" creationdate="20200512T094801Z">
+        <seg>[2837]&lt;AIG6&gt;Focalisé sur les OS|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2838]&lt;AIS6&gt;OS|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094803Z" creationid="Olivier" creationdate="20200512T094803Z">
+        <seg>[2838]&lt;AIS6&gt;OS|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2839]&lt;AIG7&gt;Software Focused|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094817Z" creationid="Olivier" creationdate="20200512T094817Z">
+        <seg>[2839]&lt;AIG7&gt;Focalisé sur les logiciel|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2840]&lt;AIS7&gt;Software|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094822Z" creationid="Olivier" creationdate="20200512T094822Z">
+        <seg>[2840]&lt;AIS7&gt;Logiciel|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2841]&lt;AIG8&gt;Internet Focused|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094834Z" creationid="Olivier" creationdate="20200512T094834Z">
+        <seg>[2841]&lt;AIG8&gt;Focalisé sur Internet|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2842]&lt;AIS8&gt;Internet|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094835Z" creationid="Olivier" creationdate="20200512T094835Z">
+        <seg>[2842]&lt;AIS8&gt;Internet|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2843]&lt;FEQU&gt;Features Quality|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094856Z" creationid="Olivier" creationdate="20200512T094856Z">
+        <seg>[2843]&lt;FEQU&gt;Qualité des caractéristiques|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2844]&lt;FEBU&gt;Monthly budget for new features development|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094909Z" creationid="Olivier" creationdate="20200512T094909Z">
+        <seg>[2844]&lt;FEBU&gt;Budget mensuel pour le développement de nouvelles fonctionnalités|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2845]&lt;TECH&gt;Tech|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094918Z" creationid="Olivier" creationdate="20200512T094918Z">
+        <seg>[2845]&lt;TECH&gt;Technologie|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2846]&lt;ADSC&gt;Data Server Cost|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094945Z" creationid="Olivier" creationdate="20200512T094945Z">
+        <seg>[2846]&lt;ADSC&gt;Coût du serveur de données|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2847]&lt;REAC&gt;Reach|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094950Z" creationid="Olivier" creationdate="20200512T094950Z">
+        <seg>[2847]&lt;REAC&gt;Portée|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2848]&lt;LTEX&gt;Lifetime Expense|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T095002Z" creationid="Olivier" creationdate="20200512T095002Z">
+        <seg>[2848]&lt;LTEX&gt;Dépenses à vie|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2849]&lt;CIT1&gt;For all|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T095009Z" creationid="Olivier" creationdate="20200512T095009Z">
+        <seg>[2849]&lt;CIT1&gt;pour tous|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2850]&lt;CIT2&gt;s|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T095012Z" creationid="Olivier" creationdate="20200512T095012Z">
+        <seg>[2850]&lt;CIT2&gt;s|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2851]&lt;CIT3&gt;in this city (Total:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T095024Z" creationid="Olivier" creationdate="20200512T095024Z">
+        <seg>[2851]&lt;CIT3&gt;dans cette ville (Total :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2852]&lt;AIG9&gt;Telecom Focused|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T095724Z" creationid="Olivier" creationdate="20200512T095724Z">
+        <seg>[2852]&lt;AIG9&gt;Focalisé sur les Entreprise de télécommunications|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2853]&lt;AIS9&gt;Telecom|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T095733Z" creationid="Olivier" creationdate="20200512T095733Z">
+        <seg>[2853]&lt;AIS9&gt;Entreprise de télécommunications|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2854]&lt;AK10&gt;Received Dividends|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T095745Z" creationid="Olivier" creationdate="20200512T095745Z">
+        <seg>[2854]&lt;AK10&gt;Dividendes reçus|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2858]&lt;DIFF&gt;DIFFICULTY RATING|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200427T080749Z" creationid="Inrepublica" creationdate="20200427T080730Z">
