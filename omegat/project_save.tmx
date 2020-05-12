@@ -18393,6 +18393,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Its current equity value is negative.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T152301Z" creationid="Olivier" creationdate="20200512T152301Z">
+        <seg>La valeur actuelle de ses fonds propres est négative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Its design goal is to achieve visual harmonization across languages.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T120817Z" creationid="Olivier" creationdate="20200428T120817Z">
@@ -31113,6 +31121,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The dependence is broken when the firm is transferred to a new owner.\n\nAre you sure that you want to proceed?|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151708Z" creationid="Olivier" creationdate="20200512T151708Z">
+        <seg>La dépendance est rompue lorsque l'établissement est transférée à un nouveau propriétaire.\n\nÊtes-vous sûr de vouloir continuer ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The duration of the R&amp;D project.^</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T103343Z" creationid="Olivier" creationdate="20200427T102518Z">
@@ -37150,6 +37166,22 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T220035Z" creationid="Olivier" creationdate="20200428T220035Z">
         <seg>Vous avez considérablement amélioré la marge bénéficiaire de votre entreprise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have successfully acquired and merged|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T152006Z" creationid="Olivier" creationdate="20200512T152006Z">
+        <seg>Vous avez réussi à acquérir et à fusionner|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have successfully acquired|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T152029Z" creationid="Olivier" creationdate="20200512T152029Z">
+        <seg>Vous avez acquis avec succès|</seg>
       </tuv>
     </tu>
     <tu>
@@ -56149,6 +56181,158 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151608Z" creationid="Olivier" creationdate="20200512T151608Z">
         <seg>[3082]&lt;BKRU&gt;Est en FAILLITE|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3083]&lt;FTRA&gt;When you transfer a R&amp;D center, its existing R&amp;D projects will be cancelled as they depend on the company's technological foundation.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151636Z" creationid="Olivier" creationdate="20200512T151636Z">
+        <seg>[3083]&lt;FTRA&gt;Lorsque vous transférez un centre de R&amp;D, ses projets de R&amp;D existants seront annulés car ils dépendent de la base technologique de l'entreprise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3084]&lt;FTC1&gt;Sorry, the selected company does not have sufficient cash to buy the firm.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151730Z" creationid="Olivier" creationdate="20200512T151730Z">
+        <seg>[3084]&lt;FTC1&gt;Désolé, l'entreprise sélectionnée ne dispose pas de suffisamment de liquidités pour acheter l'établissement.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3085]&lt;FTC2&gt;Sorry, the selected company does not have sufficient cash to buy the firms.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151752Z" creationid="Olivier" creationdate="20200512T151752Z">
+        <seg>[3085]&lt;FTC2&gt;]Désolé, l'entreprise sélectionnée n'a pas suffisamment de liquidités pour acheter les établissements|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3086]&lt;FTM1&gt;Sell this firm to another company under your control.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151816Z" creationid="Olivier" creationdate="20200512T151816Z">
+        <seg>[3086]&lt;FTM1&gt;Vendre cet établissement à une autre société sous votre contrôle|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3087]&lt;FTM2&gt;Sell these firms to another company under your control.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151840Z" creationid="Olivier" creationdate="20200512T151840Z">
+        <seg>[3087]&lt;FTM2&gt;&gt;Vendre ces établissements à une autre société sous votre contrôle|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3088]&lt;FFMP&gt;Fair Market Value|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151850Z" creationid="Olivier" creationdate="20200512T151850Z">
+        <seg>[3088]&lt;FFMP&gt;Juste valeur marchande|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3089]&lt;GACQ&gt;Which company under your control will acquire the target company?|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151902Z" creationid="Olivier" creationdate="20200512T151902Z">
+        <seg>[3089]&lt;GACQ&gt;]Quelle société sous votre contrôle va acquérir la société cible ?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3090]&lt;ACQP&gt;Acquisition Cost|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151914Z" creationid="Olivier" creationdate="20200512T151914Z">
+        <seg>[3090]&lt;ACQP&gt;Coût d'acquisition|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3091]&lt;FTSU&gt;All the selected firms have been transferred successfully.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151927Z" creationid="Olivier" creationdate="20200512T151927Z">
+        <seg>[3091]&lt;FTSU&gt;Toutes les entreprises sélectionnées ont été transférées avec succès.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3092]&lt;ACP1&gt;Congratulations!</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151940Z" creationid="Olivier" creationdate="20200512T151940Z">
+        <seg>[3092]&lt;ACP1&gt;Félicitions !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3093]&lt;ACP2&gt;into your company.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T152019Z" creationid="Olivier" creationdate="20200512T152019Z">
+        <seg>[3093]&lt;ACP2&gt;dans votre entreprise.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3094]&lt;ACP3&gt;Congratulations!</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T152026Z" creationid="Olivier" creationdate="20200512T152026Z">
+        <seg>[3094]&lt;ACP3&gt;Félicitations !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3095]&lt;ACP4&gt;It is now a wholly owned subsidiary of your company.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T152044Z" creationid="Olivier" creationdate="20200512T152044Z">
+        <seg>[3095]&lt;ACP4&gt;Elle est désormais une filiale à part entière de votre entreprise.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3096]&lt;SENO&gt;Sorry, you have not selected any firms.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T152105Z" creationid="Olivier" creationdate="20200512T152105Z">
+        <seg>[3096]&lt;SENO&gt;Désolé, vous n'avez sélectionné aucun établissement.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3097]&lt;VCLF&gt;VIEW / CLOSE DOWN FIRMS|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T152146Z" creationid="Olivier" creationdate="20200512T152146Z">
+        <seg>[3097]&lt;VCLF&gt;VOIR / FERMER DES ÉTABLISSEMENTS|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3098]&lt;IPN1&gt;Sorry, the company fails to meet the conditions for going public.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T152254Z" creationid="Olivier" creationdate="20200512T152254Z">
+        <seg>[3098]&lt;IPN1&gt;Désolé, la société ne remplit pas les conditions pour entrer en bourse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3099]&lt;IPN2&gt;Sorry, under the current market conditions, no investors are interested in subscribing new shares of the company.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T152321Z" creationid="Olivier" creationdate="20200512T152321Z">
+        <seg>[3099]&lt;IPN2&gt;]Désolé, dans les conditions actuelles du marché, aucun investisseur n'est intéressé à souscrire de nouvelles actions de la société.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3100]&lt;SCRO&gt;Map Scrolling Speed|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T152333Z" creationid="Olivier" creationdate="20200512T152333Z">
+        <seg>[3100]&lt;SCRO&gt;Vitesse de défilement de la carte|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3101]&lt;CTEC&gt;Consider Tech Offers|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T153118Z" creationid="Olivier" creationdate="20200512T153118Z">
+        <seg>[3101]&lt;CTEC&gt;Examiner les offres technologiques|</seg>
       </tuv>
     </tu>
     <tu>
