@@ -33154,6 +33154,22 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This will skip the tutorials|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T141533Z" creationid="Olivier" creationdate="20200512T141507Z">
+        <seg>Ceci sautera les tutoriel|&lt;segment 29999&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This will skip the tutorial|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T141637Z" creationid="Olivier" creationdate="20200512T141423Z">
+        <seg>Ceci sautera le tutoriel|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This will take a longer time to run but will ensure every MOD file that you have updated will be packed into the new MOD resource file.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T160248Z" creationid="Olivier" creationdate="20200427T160248Z">
@@ -54547,8 +54563,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2927]&lt;TGT1&gt;City Goal:|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T140751Z" creationid="Olivier" creationdate="20200512T140158Z">
-        <seg>[2927]&lt;TGT1&gt;Objectif de la cité :|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T141049Z" creationid="Olivier" creationdate="20200512T140158Z">
+        <seg>[2927]&lt;TGT1&gt;Objectif de la métropole :|</seg>
       </tuv>
     </tu>
     <tu>
@@ -54563,8 +54579,24 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2929]&lt;TGT3&gt;Village Goal:|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T140301Z" creationid="Olivier" creationdate="20200512T140301Z">
-        <seg>[2929]&lt;TGT3&gt;Village Goal:|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T141100Z" creationid="Olivier" creationdate="20200512T140301Z">
+        <seg>[2929]&lt;TGT3&gt;Objectif du village :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2930]&lt;PEDU&gt;% of population with education from:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T141119Z" creationid="Olivier" creationdate="20200512T141119Z">
+        <seg>[2930]&lt;PEDU&gt;% de la population ayant un niveau d'éducation de :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2931]&lt;PUB1&gt;For this|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T141133Z" creationid="Olivier" creationdate="20200512T141133Z">
+        <seg>[2931]&lt;PUB1&gt;Pour ça|</seg>
       </tuv>
     </tu>
     <tu>
@@ -54577,6 +54609,62 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2932]&lt;APR1&gt;can be acquired for|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T141156Z" creationid="Olivier" creationdate="20200512T141156Z">
+        <seg>[2932]&lt;APR1&gt;peut être acquis pou|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2933]&lt;APR2&gt;But you do not have enough cash at the moment.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T141215Z" creationid="Olivier" creationdate="20200512T141215Z">
+        <seg>[2933]&lt;APR2&gt;Mais vous n'avez pas assez d'argent pour le moment|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2934]&lt;APR3&gt;Do you want to acquire it now?|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T141234Z" creationid="Olivier" creationdate="20200512T141234Z">
+        <seg>[2934]&lt;APR3&gt;Voulez-vous l'acquérir maintenant ?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2935]&lt;TUT1&gt;If this is your first time playing Capitalism Lab, you are advised to start with tutorial #1.\n\n|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T141306Z" creationid="Olivier" creationdate="20200512T141306Z">
+        <seg>[2935]&lt;TUT1&gt;Si c'est la première fois que vous jouez à Capitalism Lab, nous vous conseillons de commencer par le tutoriel #1.\n\n|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2936]&lt;TUT2&gt;The last tutorial you have finished is tutorial #|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T141323Z" creationid="Olivier" creationdate="20200512T141323Z">
+        <seg>[2936]&lt;TUT2&gt;Le dernier tutoriel que vous avez terminé est le tutoriel #|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2937]&lt;TUT3&gt;.\n\nYou are advised to follow the tutorials in a sequential order.\n\n|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T141400Z" creationid="Olivier" creationdate="20200512T141400Z">
+        <seg>[2937]&lt;TUT3&gt;.\n\nIl vous est conseillé de suivre les tutoriels dans l'ordre.\n\n|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2938]&lt;TUT4&gt;Are you sure that you want to start tutorial #|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T141420Z" creationid="Olivier" creationdate="20200512T141420Z">
+        <seg>[2938]&lt;TUT4&gt;Êtes-vous sûr de vouloir commencer le tutoriel #|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2939] now?</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200427T080905Z" creationid="Inrepublica" creationdate="20200427T080905Z">
@@ -54585,10 +54673,122 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2939]&lt;TUT5&gt; now?</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T141430Z" creationid="Olivier" creationdate="20200512T141422Z">
+        <seg>[2939]&lt;TUT5&gt; maintenant ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2940] now?</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200427T080911Z" creationid="Inrepublica" creationdate="20200427T080911Z">
         <seg>[2940] maintenant?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2940]&lt;TUT6&gt; now?</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T141446Z" creationid="Olivier" creationdate="20200512T141446Z">
+        <seg>[2940]&lt;TUT6&gt; maintenant ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2941]&lt;TUT7&gt; prior to it and you will be missing important information.\n\n|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T141625Z" creationid="Olivier" creationdate="20200512T141625Z">
+        <seg>[2941]&lt;TUT7&gt; avant ça et il vous manquera des informations importantes.\n\n|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2942]&lt;TUT8&gt; in between and you will be missing important information.\n\n|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T141716Z" creationid="Olivier" creationdate="20200512T141716Z">
+        <seg>[2942]&lt;TUT8&gt; dans l'intervalle et il vous manquera des informations importantes.\n\n|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2943]&lt;AK30&gt;Stock and Bond Return|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T141727Z" creationid="Olivier" creationdate="20200512T141727Z">
+        <seg>[2943]&lt;AK30&gt;Rendement des actions et des obligations|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2944]&lt;AK31&gt;Loan and Bond Interests|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T141740Z" creationid="Olivier" creationdate="20200512T141740Z">
+        <seg>[2944]&lt;AK31&gt;Intérêts des prêts et des obligations|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2945]&lt;BF01&gt;Net Interest Income|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T141751Z" creationid="Olivier" creationdate="20200512T141751Z">
+        <seg>[2945]&lt;BF01&gt;Revenus d'intérêts nets|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2946]&lt;BF02&gt;Loan Defaults (Losses)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T141819Z" creationid="Olivier" creationdate="20200512T141819Z">
+        <seg>[2946]&lt;BF02&gt;Défaillances (pertes) de prêts)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2947]&lt;SLD1&gt;Do you want to sell this land plot for|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T141833Z" creationid="Olivier" creationdate="20200512T141833Z">
+        <seg>[2947]&lt;SLD1&gt;Voulez-vous vendre cette parcelle de terrain pour|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2948]&lt;SLD2&gt;This land plot is owned by your subsidiary company.\nDo you want to sell it for|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T141845Z" creationid="Olivier" creationdate="20200512T141845Z">
+        <seg>[2948]&lt;SLD2&gt;Ce terrain appartient à votre filiale. Voulez-vous le vendre pour|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2949]&lt;SLD3&gt;The owner will sell this land plot for|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T141856Z" creationid="Olivier" creationdate="20200512T141856Z">
+        <seg>[2949]&lt;SLD3&gt;Le propriétaire vendra cette parcelle de terrain pour|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2950]&lt;SLD4&gt;Price premium:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T141905Z" creationid="Olivier" creationdate="20200512T141905Z">
+        <seg>[2950]&lt;SLD4&gt;Prix premium :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2951]&lt;SLD5&gt;Do you want to buy it?|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T141917Z" creationid="Olivier" creationdate="20200512T141917Z">
+        <seg>[2951]&lt;SLD5&gt;Voulez-vous l'acheter ?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2952]&lt;SLD6&gt;But you don't have enough cash.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T141930Z" creationid="Olivier" creationdate="20200512T141930Z">
+        <seg>[2952]&lt;SLD6&gt;Mais vous n'avez pas assez d'argent.|</seg>
       </tuv>
     </tu>
     <tu>
