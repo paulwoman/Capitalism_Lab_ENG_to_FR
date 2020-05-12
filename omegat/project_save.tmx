@@ -54771,8 +54771,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2950]&lt;SLD4&gt;Price premium:|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T141905Z" creationid="Olivier" creationdate="20200512T141905Z">
-        <seg>[2950]&lt;SLD4&gt;Prix premium :|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T142008Z" creationid="Olivier" creationdate="20200512T141905Z">
+        <seg>[2950]&lt;SLD4&gt;Prix de la prime :|</seg>
       </tuv>
     </tu>
     <tu>
@@ -54789,6 +54789,302 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T141930Z" creationid="Olivier" creationdate="20200512T141930Z">
         <seg>[2952]&lt;SLD6&gt;Mais vous n'avez pas assez d'argent.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2953]&lt;AK13&gt;Deposit Interest Income|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T141942Z" creationid="Olivier" creationdate="20200512T141942Z">
+        <seg>[2953]&lt;AK13&gt;Revenus d'intérêts des dépôts|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2954]&lt;BI01&gt;Premium Income|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T142020Z" creationid="Olivier" creationdate="20200512T141958Z">
+        <seg>[2954]&lt;BI01&gt;Revenus des primes|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2955]&lt;BI02&gt;Investment Income|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T142030Z" creationid="Olivier" creationdate="20200512T142030Z">
+        <seg>[2955]&lt;BI02&gt;Revenus d'investissements||</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2956]&lt;BI03&gt;Claims|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T142036Z" creationid="Olivier" creationdate="20200512T142036Z">
+        <seg>[2956]&lt;BI03&gt;Réclamations|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2957]&lt;BDOF&gt; Bonds of |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T142046Z" creationid="Olivier" creationdate="20200512T142046Z">
+        <seg>[2957]&lt;BDOF&gt; Obligations de |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2958]&lt;FREI&gt;Freight|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T142102Z" creationid="Olivier" creationdate="20200512T142102Z">
+        <seg>[2958]&lt;FREI&gt;Fret|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2959]&lt;BAO1&gt;Bank owned by |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T142113Z" creationid="Olivier" creationdate="20200512T142113Z">
+        <seg>[2959]&lt;BAO1&gt;Banque appartient à |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2960]&lt;BAO2&gt;went out of business!|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T142124Z" creationid="Olivier" creationdate="20200512T142124Z">
+        <seg>[2960]&lt;BAO2&gt;a fait faillite !|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2961]&lt;BAO3&gt;Depositors received 100% of their money back.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T142140Z" creationid="Olivier" creationdate="20200512T142140Z">
+        <seg>[2961]&lt;BAO3&gt;Les déposants ont été remboursés à 100 %|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2962]&lt;BAO4&gt;Depositors only received|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T142158Z" creationid="Olivier" creationdate="20200512T142158Z">
+        <seg>[2962]&lt;BAO4&gt;Les déposants ne reçoivent seulement|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2963]&lt;BAO5&gt;of their money back.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T142220Z" creationid="Olivier" creationdate="20200512T142220Z">
+        <seg>[2963]&lt;BAO5&gt;de leur argent en retour.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2964]&lt;LDE1&gt;defaults on a loan from Bank|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T142232Z" creationid="Olivier" creationdate="20200512T142232Z">
+        <seg>[2964]&lt;LDE1&gt;éfauts de paiement d'un prêt de la Banque|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2965]&lt;LDE2&gt;Default amount:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T142245Z" creationid="Olivier" creationdate="20200512T142245Z">
+        <seg>[2965]&lt;LDE2&gt;Montant par défaut:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2966]&lt;BDR1&gt;INSUFFICIENT CASH FOR BOND REDEMPTION|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T142300Z" creationid="Olivier" creationdate="20200512T142300Z">
+        <seg>[2966]&lt;BDR1&gt;INSUFFISANCE DE LIQUIDITÉS POUR LE REMBOURSEMENT DES OBLIGATIONS|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2967]&lt;BDR2&gt;A Corporate Bond issued by your company has matured, you must redeem it now.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T142322Z" creationid="Olivier" creationdate="20200512T142322Z">
+        <seg>[2967]&lt;BDR2&gt;Une obligation de société émise par votre entreprise est arrivée à échéance, vous devez la racheter maintenant.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2968]&lt;BDR3&gt;A Corporate Bond issued by your subsidiary |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T142337Z" creationid="Olivier" creationdate="20200512T142337Z">
+        <seg>[2968]&lt;BDR3&gt;Une obligation d'entreprise émise par votre filiale |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2969]&lt;BDR4&gt; has matured, you must redeem it now.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T142352Z" creationid="Olivier" creationdate="20200512T142352Z">
+        <seg>[2969]&lt;BDR4&gt;est arrivé à maturité, vous devez la racheter maintenant|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2970]&lt;BDR5&gt;Bond Issue Date|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T142412Z" creationid="Olivier" creationdate="20200512T142412Z">
+        <seg>[2970]&lt;BDR5&gt;Date d'émission de l'obligation|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2971]&lt;COUP&gt;Coupon Rate|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T142427Z" creationid="Olivier" creationdate="20200512T142427Z">
+        <seg>[2971]&lt;COUP&gt;Taux d'intérêt du coupon|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2972]&lt;TERM&gt;Term Length|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T142446Z" creationid="Olivier" creationdate="20200512T142446Z">
+        <seg>[2972]&lt;TERM&gt;Durée de la période|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2973]&lt;BDD1&gt; defaults on the bond [maturity date: |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T142531Z" creationid="Olivier" creationdate="20200512T142531Z">
+        <seg>[2973]&lt;BDD1&gt; défaut sue l'obligation [date de maturité :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2974]&lt;BDD2&gt; coupon: |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T142537Z" creationid="Olivier" creationdate="20200512T142537Z">
+        <seg>[2974]&lt;BDD2&gt; coupon : |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2975]&lt;BDD3&gt;Default amount: |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T142548Z" creationid="Olivier" creationdate="20200512T142548Z">
+        <seg>[2975]&lt;BDD3&gt;Montant par défaut : |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2976]&lt;LNR1&gt;INSUFFICIENT CASH FOR LOAN REPAYMENT|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T142615Z" creationid="Olivier" creationdate="20200512T142615Z">
+        <seg>[2976]&lt;LNR1&gt;INSUFFISANCE DE LIQUIDITÉS POUR LE REMBOURSEMENT DU PRET|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2977]&lt;LNR2&gt;A Bank Loan taken by your company has matured, you must repay it now.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T142632Z" creationid="Olivier" creationdate="20200512T142632Z">
+        <seg>[2977]&lt;LNR2&gt;Un emprunt bancaire contracté par votre entreprise est arrivé à échéance, vous devez le rembourser maintenant.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2978]&lt;LNR3&gt;A Bank Loan taken your subsidiary |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T142655Z" creationid="Olivier" creationdate="20200512T142655Z">
+        <seg>[2978]&lt;LNR3&gt;Un emprunt bancaire contracté par votre filiale |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2979]&lt;LNR4&gt; has matured, you must repay it now.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T142708Z" creationid="Olivier" creationdate="20200512T142708Z">
+        <seg>[2979]&lt;LNR4&gt; est arrivé à échéance, vous devez le rembourser maintenant.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2980]&lt;CASN&gt;CASH NEEDED|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T142739Z" creationid="Olivier" creationdate="20200512T142730Z">
+        <seg>[2980]&lt;CASN&gt;TRÉSORERIE NÉCESSAIRE|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2981]&lt;MCOS&gt;Monthly Cost|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T142752Z" creationid="Olivier" creationdate="20200512T142731Z">
+        <seg>[2981]&lt;MCOS&gt;Coût mensuel|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2982]&lt;SCO3&gt;billion x 10 x inflation adjustment|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T142815Z" creationid="Olivier" creationdate="20200512T142815Z">
+        <seg>[2982]&lt;SCO3&gt;milliards x 100 x ajustement de l'inflation|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2983]&lt;SDIV&gt;Pays a Special Dividend of|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T142837Z" creationid="Olivier" creationdate="20200512T142837Z">
+        <seg>[2983]&lt;SDIV&gt;Payent un dividende spécial|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2984]&lt;AIB1&gt;Bank Focused|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T142848Z" creationid="Olivier" creationdate="20200512T142848Z">
+        <seg>[2984]&lt;AIB1&gt;Focalisé sur les banques|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2985]&lt;AIC1&gt;Bank|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T142853Z" creationid="Olivier" creationdate="20200512T142853Z">
+        <seg>[2985]&lt;AIC1&gt;Banque|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2986]&lt;AIB2&gt;Insurance Focused|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T142902Z" creationid="Olivier" creationdate="20200512T142902Z">
+        <seg>[2986]&lt;AIB2&gt;Focalisé sur l'assurance|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2987]&lt;AIC2&gt;Insurance|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T142910Z" creationid="Olivier" creationdate="20200512T142910Z">
+        <seg>[2987]&lt;AIC2&gt;Assurance|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2988]&lt;AIB3&gt;Global Stock Focused|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T142920Z" creationid="Olivier" creationdate="20200512T142920Z">
+        <seg>[2988]&lt;AIB3&gt;Centré sur les actions mondiales|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2989]&lt;AIC3&gt;Global Stock|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T142932Z" creationid="Olivier" creationdate="20200512T142932Z">
+        <seg>[2989]&lt;AIC3&gt;Actions mondiales|</seg>
       </tuv>
     </tu>
     <tu>
