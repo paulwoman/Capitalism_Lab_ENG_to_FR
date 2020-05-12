@@ -49611,16 +49611,16 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2236]&lt;1157&gt;Researchers at |</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T162338Z" creationid="Olivier" creationdate="20200510T162325Z">
-        <seg>[2236]&lt;1157&gt;Les chercheurs du |</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093131Z" creationid="Olivier" creationdate="20200510T162325Z">
+        <seg>[2236]&lt;1157&gt;Les chercheurs de |</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2237]&lt;1158&gt;'s R&amp;D Center Announce Invention.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T162407Z" creationid="Olivier" creationdate="20200510T162335Z">
-        <seg>[2237]&lt;1158&gt;'centres de R&amp;D annoncent une invention.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093202Z" creationid="Olivier" creationdate="20200510T162335Z">
+        <seg>[2237]&lt;1158&gt;'centre de R&amp;D annoncent une invention.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49667,8 +49667,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2245]&lt;1166&gt;Researchers at |</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T162538Z" creationid="Olivier" creationdate="20200510T162538Z">
-        <seg>[2245]&lt;1166&gt;Les chercheurs du |</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093235Z" creationid="Olivier" creationdate="20200510T162538Z">
+        <seg>[2245]&lt;1166&gt;Les chercheurs de |</seg>
       </tuv>
     </tu>
     <tu>
@@ -49691,8 +49691,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2248]&lt;1169&gt;Researchers at |</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T162642Z" creationid="Olivier" creationdate="20200510T162642Z">
-        <seg>[2248]&lt;1169&gt;Les chercheurs du |</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093216Z" creationid="Olivier" creationdate="20200510T162642Z">
+        <seg>[2248]&lt;1169&gt;Les chercheurs de |</seg>
       </tuv>
     </tu>
     <tu>
@@ -53189,6 +53189,230 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092313Z" creationid="Olivier" creationdate="20200512T092313Z">
         <seg>[2774]&lt;NBC0&gt;Le nouveau président de la Banque centrale|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2775]&lt;NCC0&gt;Career Change|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092323Z" creationid="Olivier" creationdate="20200512T092323Z">
+        <seg>[2775]&lt;NCC0&gt;Changement de carrière|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2776]&lt;NRI0&gt;Riot|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092334Z" creationid="Olivier" creationdate="20200512T092334Z">
+        <seg>[2776]&lt;NRI0&gt;Émeute|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2777]&lt;NSC0&gt;Stock Crash|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092346Z" creationid="Olivier" creationdate="20200512T092337Z">
+        <seg>[2777]&lt;NSC0&gt;Crash boursier|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2778]&lt;NCR0&gt;Currency Revalued!|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092400Z" creationid="Olivier" creationdate="20200512T092338Z">
+        <seg>[2778]&lt;NCR0&gt;Monnaie réévaluée !|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2779]&lt;CBA1&gt;Inflation Hawk (modest)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092603Z" creationid="Olivier" creationdate="20200512T092419Z">
+        <seg>[2779]&lt;CBA1&gt;Inflation Faucon (modeste)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2780]&lt;CBA2&gt;Inflation Hawk (strong)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092607Z" creationid="Olivier" creationdate="20200512T092442Z">
+        <seg>[2780]&lt;CBA2&gt;Inflation Faucon (forte)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2781]&lt;CBA3&gt;Neutral|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092447Z" creationid="Olivier" creationdate="20200512T092447Z">
+        <seg>[2781]&lt;CBA3&gt;Neutre|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2782]&lt;CBA4&gt;Inflation Dove (modest)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092618Z" creationid="Olivier" creationdate="20200512T092456Z">
+        <seg>[2782]&lt;CBA4&gt;Inflation Colombe (modeste)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2783]&lt;CBA5&gt;Inflation Dove (strong)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T092623Z" creationid="Olivier" creationdate="20200512T092502Z">
+        <seg>[2783]&lt;CBA5&gt;Inflation Colombe (forte)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2784]&lt;CBP1&gt;Ultra Tight|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093305Z" creationid="Olivier" creationdate="20200512T092557Z">
+        <seg>[2784]&lt;CBP1&gt;Ultra serré|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2785]&lt;CBP2&gt;Very Tight|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093313Z" creationid="Olivier" creationdate="20200512T093244Z">
+        <seg>[2785]&lt;CBP2&gt;Très serré|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2786]&lt;CBP3&gt;Tight|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093319Z" creationid="Olivier" creationdate="20200512T093319Z">
+        <seg>[2786]&lt;CBP3&gt;Serré|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2787]&lt;CBP4&gt;Slightly Tight|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093332Z" creationid="Olivier" creationdate="20200512T093332Z">
+        <seg>[2787]&lt;CBP4&gt;Légèrement serré|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2788]&lt;CBP5&gt;Normal|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093333Z" creationid="Olivier" creationdate="20200512T093333Z">
+        <seg>[2788]&lt;CBP5&gt;Normal|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2789]&lt;CBP6&gt;Slightly Loose|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093352Z" creationid="Olivier" creationdate="20200512T093352Z">
+        <seg>[2789]&lt;CBP6&gt;Légèrement libre|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2790]&lt;CBP7&gt;Loose|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093430Z" creationid="Olivier" creationdate="20200512T093357Z">
+        <seg>[2790]&lt;CBP7&gt;Libre|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2791]&lt;CBP8&gt;Very Loose|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093437Z" creationid="Olivier" creationdate="20200512T093437Z">
+        <seg>[2791]&lt;CBP8&gt;Très libre|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2792]&lt;CBP9&gt;Ultra Loose|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093455Z" creationid="Olivier" creationdate="20200512T093455Z">
+        <seg>[2792]&lt;CBP9&gt;Ultra libre|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2793]&lt;AAS1&gt;Sorry, the AI is having an advance start and you cannot build any buildings until year|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093510Z" creationid="Olivier" creationdate="20200512T093510Z">
+        <seg>[2793]&lt;AAS1&gt;Désolé, l'IA commence à l'avance et vous ne pouvez pas construire de bâtiments avant un an|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2794]&lt;AAS2&gt;Sorry, the AI is having an advance start and you cannot buy land until year|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093521Z" creationid="Olivier" creationdate="20200512T093521Z">
+        <seg>[2794]&lt;AAS2&gt;Désolé, l'IA a démarré à l'avance et vous ne pouvez pas acheter de terrain avant un an|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2795]&lt;AAS3&gt;Sorry, the AI is having an advance start and you cannot buy stock until year|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093534Z" creationid="Olivier" creationdate="20200512T093534Z">
+        <seg>[2795]&lt;AAS3&gt;Désolé, l'IA démarre à l'avance et vous ne pouvez pas acheter d'actions avant un an|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2796]&lt;SCO1&gt;Score:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093543Z" creationid="Olivier" creationdate="20200512T093543Z">
+        <seg>[2796]&lt;SCO1&gt;Score :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2797]&lt;SCO2&gt;billion x 100 x inflation adjustment|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093618Z" creationid="Olivier" creationdate="20200512T093618Z">
+        <seg>[2797]&lt;SCO2&gt;milliards x 100 x ajustement de l'inflation|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2798]&lt;BF01&gt;Use your personal money to build your mansion.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093632Z" creationid="Olivier" creationdate="20200512T093632Z">
+        <seg>[2798]&lt;BF01&gt;Utilisez votre argent personnel pour construire votre manoir.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2799]&lt;BF02&gt;to relocate the firm.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093646Z" creationid="Olivier" creationdate="20200512T093646Z">
+        <seg>[2799]&lt;BF02&gt;pour délocaliser cet établissement|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2800]&lt;BF03&gt;to duplicate the firm.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093700Z" creationid="Olivier" creationdate="20200512T093700Z">
+        <seg>[2800]&lt;BF03&gt;pour dupliquer l'établissement|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2801]&lt;BF04&gt;to build the firm.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093714Z" creationid="Olivier" creationdate="20200512T093714Z">
+        <seg>[2801]&lt;BF04&gt;pour construire l'établissement|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2802]&lt;BF05&gt;Customer Traffic Index:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093746Z" creationid="Olivier" creationdate="20200512T093746Z">
+        <seg>[2802]&lt;BF05&gt;Indice de trafic des clients :|</seg>
       </tuv>
     </tu>
     <tu>
