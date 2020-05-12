@@ -576,7 +576,7 @@
 [1187]<0341>Progress|
 [1188]<0342>NONE|
 [1189]<0343>There is no space for adding new products|
-[1190]<0344>This Item can be sold in ...|
+[1190]<0344>This item can be sold in...|
 [1194]<A700>Frozen|
 [1195]<A701>Cold|
 [1196]<A702>Cool|
@@ -1899,7 +1899,7 @@
 [3085]<FTC2>Sorry, the selected company does not have sufficient cash to buy the firms.|
 [3086]<FTM1>Sell this firm to another company under your control.|
 [3087]<FTM2>Sell these firms to another company under your control.|
-[3088]<FFMP>Fair Market Price|
+[3088]<FFMP>Fair Market Value|
 [3089]<GACQ>Which company under your control will acquire the target company?|
 [3090]<ACQP>Acquisition Cost|
 [3091]<FTSU>All the selected firms have been transferred successfully.|
@@ -1981,3 +1981,11 @@
 [3167]<ICR2>The Capital Ratio of Your Subsidiary Insurance Company |
 [3168]<ICR3> is Too Low!|
 [3169]<ICR4>Insurance Company Capital Ratio|
+[3170]<CE01>The CEO previously considered setting up new a firm but decided not to do so because the company's debt level was too high.|
+[3171]<CE02>The CEO previously considered setting up|
+[3172]<CE03>but decided not to do so because the company's cash and profit situation was not good enough to support business expansion.|
+[3173]<CE04>but decided not to do so because the company's cash level was too low to support business expansion.|
+[3174]<CE05>This cash level of this subsidiary company is too low. The CEO is not comfortable with setting up new businesses.|
+[3175]<CE06>Adequate cash level for expansion:|
+[3176]<CE07>Adequate annual profit for expansion:|
+

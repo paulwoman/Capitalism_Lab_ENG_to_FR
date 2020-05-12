@@ -116,7 +116,7 @@ The default setting of #Internal Sale# is #Disabled#. Competitors are allowed to
 ~
 OM_IS_B
 Enable Internal Sale
-The default setting of #Internal Sale# is #Enabled#. Competitors are not allowed to buy your products.
+The default setting of #Internal Sale# is #Enabled#. Competitors are not allowed to buy your products. 
 ~
 OM_AL_A
 Disable AutoLink to Supplier 
@@ -420,11 +420,11 @@ You can only trade stock once a day in a Challenge Game.
 ~
 IN_SM_OI
 Left-click to increase. (hotkey: '+' or '=')
-Right-click to increase at a higher rate. Hold SHIFT key while clicking for 10X speed.
+Right-click to increase at a higher rate. Hold #SHIFT# key while clicking for #10X# speed. Hold #CTRL# key while clicking for #100X# speed. 
 ~
 IN_SM_OD
 Left-click to decrease. (hotkey: '-' )
-Right-click to decrease at a higher rate. Hold SHIFT key while clicking for 10X speed.
+Right-click to decrease at a higher rate. Hold #SHIFT# key while clicking for #10X# speed. Hold #CTRL# key while clicking for #100X# speed. 
 ~
 IN_SM_BI
 Buy more stock
@@ -1729,8 +1729,8 @@ Culture
 This rating is determined by the Overall Satisfaction ratings of Library, Museums, and City Halls in the city (details can be viewed on the "Public Facilities" page).
 ~
 P_OPERAT
-When this civic building is not in full operation, its operating cost is lower. 
-You are advised to set this based on the Supply/Demand index displayed at the lower part of this info window. (If the demand is high, set the operational capacity to a higher value.)
+Operational Level Setting 
+When this civic building is #not in full operation#, its #operating cost is lower#. You are advised to set this based on the #Supply/Demand index# displayed at the lower part of this info window. (If the demand is high, set the operational capacity to a higher value.)
 ~
 P_TRAIN
 Use the slider to set the staff training budget for this civic building. 
@@ -2134,7 +2134,7 @@ The total value of exports. It is used for calculating the Net Exports component
 ~
 E_IMPORT
 Total Imports 
-The total value of imports. It is used for calculating the Net Exports component of GDP. 
+The total value of imports. It is used for calculating the Net Imports component of GDP. 
 ~
 G_CASH
 City fund  
@@ -2370,7 +2370,7 @@ Link to a media firm
 Run advertising for the current web site on another media firm to boost up the current web site's visitor traffic.
 ~
 SLOTIIMG
-Toogle Display (Hotkey: Ctrl-A)
+Toggle Display (Hotkey: Ctrl-A)
 Toggle the display of product images on the 3x3 layout area. 
 ~
 PS_FIND2
@@ -2430,7 +2430,7 @@ Personal Computer Users
 It shows the number of personal computer users in this city.
 ~
 D_PCI
-Personal Computer Users
+Internet Users
 It shows the number of personal computer users who have access to the Internet in this city.
 ~
 HIDEINAC
@@ -2470,7 +2470,7 @@ Total sales in this city
 The sale data include both retail and ecommerce sales.
 ~
 ANALYSIS
-Toogle Analysis Mode (Hotkey: X)
+Toggle Analysis Mode (Hotkey: X)
 Toggle between the Analysis Mode and the standard 3x3 layout mode. 
 ~
 FA_LEVEL
