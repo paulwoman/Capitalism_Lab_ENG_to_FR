@@ -44779,8 +44779,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1157]&lt;0311&gt;Radio Broadcast|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T091407Z" creationid="Olivier" creationdate="20200509T091407Z">
-        <seg>[1157]&lt;0311&gt;Radiodiffusion</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T232434Z" creationid="Olivier" creationdate="20200509T091407Z">
+        <seg>[1157]&lt;0311&gt;Radiodiffusion|</seg>
       </tuv>
     </tu>
     <tu>
@@ -44843,8 +44843,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1186]&lt;0340&gt;Duration:|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T104823Z" creationid="Olivier" creationdate="20200509T103156Z">
-        <seg>[1186]&lt;0340&gt;Durée:|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T232451Z" creationid="Olivier" creationdate="20200509T103156Z">
+        <seg>[1186]&lt;0340&gt;Durée :|</seg>
       </tuv>
     </tu>
     <tu>
@@ -45003,8 +45003,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1201]&lt;A802&gt;Moderate|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T084026Z" creationid="Olivier" creationdate="20200510T084026Z">
-        <seg>[1201]&lt;A802&gt;Modérée|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T232513Z" creationid="Olivier" creationdate="20200510T084026Z">
+        <seg>[1201]&lt;A802&gt;Modéré|</seg>
       </tuv>
     </tu>
     <tu>
@@ -45043,16 +45043,16 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1235]&lt;0349&gt;No.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T054303Z" creationid="Inrepublica" creationdate="20200423T054303Z">
-        <seg>[1235]&lt;0349&gt;Non.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T232524Z" creationid="Inrepublica" creationdate="20200423T054303Z">
+        <seg>[1235]&lt;0349&gt;Nbre.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1236]&lt;0350&gt;No.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T054307Z" creationid="Inrepublica" creationdate="20200423T054307Z">
-        <seg>[1236]&lt;0350&gt;Non.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T232858Z" creationid="Inrepublica" creationdate="20200423T054307Z">
+        <seg>[1236]&lt;0350&gt;Nbre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46211,8 +46211,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1387]&lt;0452&gt; million|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T140743Z" creationid="Olivier" creationdate="20200509T140743Z">
-        <seg>[1387]&lt;0452&gt; million|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T233046Z" creationid="Olivier" creationdate="20200509T140743Z">
+        <seg>[1387]&lt;0452&gt; millions|</seg>
       </tuv>
     </tu>
     <tu>
@@ -46371,8 +46371,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1408]&lt;0473&gt;MANAGEMENT POLICIES|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T141809Z" creationid="Olivier" creationdate="20200509T141809Z">
-        <seg>[1408]&lt;0473&gt;POLITIQUES DE GESTION|&lt;/0473&gt;</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T233116Z" creationid="Olivier" creationdate="20200509T141809Z">
+        <seg>[1408]&lt;0473&gt;POLITIQUES DE GESTION|</seg>
       </tuv>
     </tu>
     <tu>
@@ -46707,8 +46707,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1501]&lt;0566&gt; billion x 100|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T170459Z" creationid="Inrepublica" creationdate="20200423T170459Z">
-        <seg>[1501]&lt;0566&gt; billion x 100|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T233218Z" creationid="Inrepublica" creationdate="20200423T170459Z">
+        <seg>[1501]&lt;0566&gt; milliards x 100|</seg>
       </tuv>
     </tu>
     <tu>
@@ -46723,8 +46723,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1503]&lt;0568&gt; billion x 10|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T170457Z" creationid="Inrepublica" creationdate="20200423T170457Z">
-        <seg>[1503]&lt;0568&gt; billion x 10|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T233226Z" creationid="Inrepublica" creationdate="20200423T170457Z">
+        <seg>[1503]&lt;0568&gt; milliards x 10|</seg>
       </tuv>
     </tu>
     <tu>
@@ -47083,8 +47083,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1621]&lt;0646&gt;OPERATING PROFIT|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T144638Z" creationid="Olivier" creationdate="20200509T144638Z">
-        <seg>[1621]&lt;0646&gt;BENEFICE D'EXPLOITATION|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T233325Z" creationid="Olivier" creationdate="20200509T144638Z">
+        <seg>[1621]&lt;0646&gt;BÉNÉFICE D'EXPLOITATION|</seg>
       </tuv>
     </tu>
     <tu>
@@ -47131,8 +47131,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1632]&lt;AK00&gt;Operating Revenue|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T223935Z" creationid="Olivier" creationdate="20200509T223935Z">
-        <seg>[1632]Recettes d'exploitation|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T233336Z" creationid="Olivier" creationdate="20200509T223935Z">
+        <seg>[1632]&lt;AK00&gt;Recettes d'exploitation|</seg>
       </tuv>
     </tu>
     <tu>
@@ -47259,8 +47259,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1640]&lt;AK08&gt;Write-offs|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T084334Z" creationid="Olivier" creationdate="20200510T084334Z">
-        <seg>[1640]&lt;AK08&gt;Amortissement|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T233348Z" creationid="Olivier" creationdate="20200510T084334Z">
+        <seg>[1640]&lt;AK08&gt;Amortissements|</seg>
       </tuv>
     </tu>
     <tu>
