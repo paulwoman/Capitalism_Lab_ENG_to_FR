@@ -53417,6 +53417,270 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[2803]&lt;BF06&gt;Compensation:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093753Z" creationid="Olivier" creationdate="20200512T093753Z">
+        <seg>[2803]&lt;BF06&gt;Compensation :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2804]&lt;BF07&gt;Price Premium|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093802Z" creationid="Olivier" creationdate="20200512T093802Z">
+        <seg>[2804]&lt;BF07&gt;Prix Premium|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2805]&lt;BF08&gt;Hold the [SHIFT] key concurrently to build more|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093839Z" creationid="Olivier" creationdate="20200512T093839Z">
+        <seg>[2805]&lt;BF08&gt;Maintenez la touche [SHIFT] enfoncée pour construire plus|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2806]&lt;PSTO&gt;Stock|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093845Z" creationid="Olivier" creationdate="20200512T093845Z">
+        <seg>[2806]&lt;PSTO&gt;Stock|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2807]&lt;FRE1&gt;Freight Cost Breakdown|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093907Z" creationid="Olivier" creationdate="20200512T093907Z">
+        <seg>[2807]&lt;FRE1&gt;Ventilation des coût de fret|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2808]&lt;FRE2&gt;Truck - Supplier to Seaport:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093926Z" creationid="Olivier" creationdate="20200512T093926Z">
+        <seg>[2808]&lt;FRE2&gt;Camion - Fournisseur du port maritime :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2809]&lt;FRE3&gt;Cargo Ship - City to City:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093944Z" creationid="Olivier" creationdate="20200512T093944Z">
+        <seg>[2809]&lt;FRE3&gt;Navire cargo - De ville en ville: |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2810]&lt;FRE4&gt;Truck - Seaport to Buyer:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093956Z" creationid="Olivier" creationdate="20200512T093956Z">
+        <seg>[2810]&lt;FRE4&gt;Camion - du port maritime à l'acheteur: |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2811]&lt;FRE5&gt;TOTAL:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093959Z" creationid="Olivier" creationdate="20200512T093959Z">
+        <seg>[2811]&lt;FRE5&gt;TOTAL :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2812]&lt;FRE6&gt;Freight Cost|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094010Z" creationid="Olivier" creationdate="20200512T094010Z">
+        <seg>[2812]&lt;FRE6&gt;Coût du fret|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2813]&lt;FRE7&gt;Shipment from Supplier to Buyer:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094028Z" creationid="Olivier" creationdate="20200512T094028Z">
+        <seg>[2813]&lt;FRE7&gt;Expédition du fournisseur à l'acheteur :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2814]&lt;SOW1&gt;Sowing in|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094045Z" creationid="Olivier" creationdate="20200512T094045Z">
+        <seg>[2814]&lt;SOW1&gt;Semer en|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2815]&lt;HARV&gt;Harvest in|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094054Z" creationid="Olivier" creationdate="20200512T094054Z">
+        <seg>[2815]&lt;HARV&gt;Récolte en|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2816]&lt;ITP1&gt;Organize an Intensive Training Program|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094104Z" creationid="Olivier" creationdate="20200512T094104Z">
+        <seg>[2816]&lt;ITP1&gt;Organiser un programme de formation intensive|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2817]&lt;ITP2&gt;Training effect will be instant but|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094120Z" creationid="Olivier" creationdate="20200512T094120Z">
+        <seg>[2817]&lt;ITP2&gt;L'effet de la formation sera instantané mais|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2818]&lt;ITP3&gt;its cost-effectiveness is 30% lower than normal training.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094136Z" creationid="Olivier" creationdate="20200512T094136Z">
+        <seg>[2818]&lt;ITP3&gt;son rapport coût-efficacité est de 30% inférieur à celui d'une formation normale.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2819]&lt;ITP4&gt;How much will you allocate for training per employee?|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094151Z" creationid="Olivier" creationdate="20200512T094151Z">
+        <seg>[2819]&lt;ITP4&gt;Combien allez-vous allouer à la formation par employé ?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2820]&lt;RDC1&gt;firm|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094156Z" creationid="Olivier" creationdate="20200512T094156Z">
+        <seg>[2820]&lt;RDC1&gt;firme|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2821]&lt;RDC2&gt;firms|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094201Z" creationid="Olivier" creationdate="20200512T094201Z">
+        <seg>[2821]&lt;RDC2&gt;firmes|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2822]&lt;RDC3&gt; of yours have been redirected to purchase |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094222Z" creationid="Olivier" creationdate="20200512T094222Z">
+        <seg>[2822]&lt;RDC3&gt; ont été redirigés vers l'achat  |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2823]&lt;RDC4&gt; from the current firm.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094249Z" creationid="Olivier" creationdate="20200512T094249Z">
+        <seg>[2823]&lt;RDC4&gt; de l'établissement actuelle|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2824]&lt;RDC5&gt;To view the new client list, click the [Clients] button on your Sales Unit's interface.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094303Z" creationid="Olivier" creationdate="20200512T094303Z">
+        <seg>[2824]&lt;RDC5&gt;Pour consulter la nouvelle liste de clients, cliquez sur le bouton [Clients] de l'interface de votre unité de vente|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2825]&lt;RDC6&gt;None of the Purchasing Units in any of your firms presently lack supply of this type of product.\n\nThus no actions have been taken.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094325Z" creationid="Olivier" creationdate="20200512T094325Z">
+        <seg>[2825]&lt;RDC6&gt;Aucune des unités d'achat de vos entreprises ne manque actuellement de ce type de produit.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2826]&lt;KOC1&gt;King of Capitalism|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094403Z" creationid="Olivier" creationdate="20200512T094339Z">
+        <seg>[2826]&lt;KOC1&gt;Rois du Capitalisme|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2827]&lt;KOC2&gt;To become the undisputed King of Capitalism, you must be financially savvy enough to grow your company's market cap to|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094410Z" creationid="Olivier" creationdate="20200512T094359Z">
+        <seg>[2827]&lt;KOC2&gt;Pour devenir le roi incontesté du capitalisme, vous devez être suffisamment avisé financièrement pour augmenter la part de marché de votre entreprise jusqu'à|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2828]&lt;KOC3&gt;billion while retaining at least 80 % of its equity shares, and achieve all the subgoals.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094448Z" creationid="Olivier" creationdate="20200512T094425Z">
+        <seg>[2828]&lt;KOC3&gt;milliards d'euros tout en conservant au moins 80 % de ses parts de capital, et atteindre tous les sous-objectifs.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2829]&lt;AGS1&gt;To win this game, you must achieve the given goals.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094532Z" creationid="Olivier" creationdate="20200512T094509Z">
+        <seg>[2829]&lt;AGS1&gt;Pour gagner ce jeu, vous devez atteindre les objectifs fixés.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2830]&lt;AGS2&gt;(Press the 'G' shortcut key anytime to view the Goal screen)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094614Z" creationid="Olivier" creationdate="20200512T094528Z">
+        <seg>[2830]&lt;AGS2&gt;(Appuyez sur la touche de raccourci 'G' à tout moment pour afficher l'écran 'Objectif')|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2831]&lt;AGS3&gt;Your possess expertise in the|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094646Z" creationid="Olivier" creationdate="20200512T094636Z">
+        <seg>[2831]&lt;AGS3&gt;Vous possédez une expertise dans le domaine de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2832]&lt;AGS4&gt;industry (level:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094657Z" creationid="Olivier" creationdate="20200512T094641Z">
+        <seg>[2832]&lt;AGS4&gt;l'industrie (niveau :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2833]&lt;FEGN&gt;The city government does not have enough cash.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094711Z" creationid="Olivier" creationdate="20200512T094711Z">
+        <seg>[2833]&lt;FEGN&gt;Le gouvernement de la ville n'a pas assez d'argent.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2834]&lt;NCT1&gt;To acquire the exclusive rights to develop and run the new city for|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094723Z" creationid="Olivier" creationdate="20200512T094723Z">
+        <seg>[2834]&lt;NCT1&gt;Acquérir les droits exclusifs de développement et de gestion de la nouvelle ville pour|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2835]&lt;NCT2&gt;years, you must donate|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094736Z" creationid="Olivier" creationdate="20200512T094736Z">
+        <seg>[2835]&lt;NCT2&gt;années, vous devez donner|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[2858]&lt;DIFF&gt;DIFFICULTY RATING|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200427T080749Z" creationid="Inrepublica" creationdate="20200427T080730Z">
