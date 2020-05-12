@@ -30497,6 +30497,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The CEO is not comfortable with setting up new businesses.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T220505Z" creationid="Olivier" creationdate="20200512T220505Z">
+        <seg>Le PDG n'est pas à l'aise avec la création de nouvelles entreprises.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Earning Per Share is a company's operating profit over the past 365 days divided by the total number of outstanding shares.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151955Z" creationid="Olivier" creationdate="20200504T151955Z">
@@ -56845,6 +56853,150 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T172116Z" creationid="Olivier" creationdate="20200512T172116Z">
         <seg>[3158]&lt;MINT&gt;Part de marché des sites Internet en termes de recettes|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3159]&lt;GTEC&gt;Leadership in Technology for|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T220003Z" creationid="Olivier" creationdate="20200512T220003Z">
+        <seg>[3159]&lt;GTEC&gt;Leadership en matière de technologie pour|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3160]&lt;GMDO&gt;Market Dominance of|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T220019Z" creationid="Olivier" creationdate="20200512T220019Z">
+        <seg>[3160]&lt;GMDO&gt;Position dominante de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3161]&lt;OCI1&gt;of Your City|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T220028Z" creationid="Olivier" creationdate="20200512T220028Z">
+        <seg>[3161]&lt;OCI1&gt;de votre ville|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3162]&lt;OCI2&gt;of Your Cities|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T220036Z" creationid="Olivier" creationdate="20200512T220036Z">
+        <seg>[3162]&lt;OCI2&gt;de vos villes|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3163]&lt;NGOA&gt;You have been given a new goal!|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T220050Z" creationid="Olivier" creationdate="20200512T220050Z">
+        <seg>[3163]&lt;NGOA&gt;Vous avez un nouvel objectif !|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3164]&lt;INS1&gt;Sorry, you are not allowed to use cash from your insurance company to buy shares of your corporation.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T220129Z" creationid="Olivier" creationdate="20200512T220108Z">
+        <seg>[3164]&lt;INS1&gt;Désolé, vous n'êtes pas autorisé à utiliser l'argent de votre compagnie d'assurance pour acheter des actions de votre société..|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3165]&lt;INS2&gt;Sorry, you are not allowed to use cash from this insurance company to buy shares of its parent corporation.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T220126Z" creationid="Olivier" creationdate="20200512T220126Z">
+        <seg>[3165]&lt;INS2&gt;Désolé, vous n'êtes pas autorisé à utiliser l'argent de cette compagnie d'assurance pour acheter des actions de sa société mère|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3166]&lt;ICR1&gt;Your Insurance Company's Capital Ratio is Negative!|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T220154Z" creationid="Olivier" creationdate="20200512T220149Z">
+        <seg>[3166]&lt;ICR1&gt;Le ratio de capital de votre compagnie d'assurance est négatif !|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3167]&lt;ICR2&gt;The Capital Ratio of Your Subsidiary Insurance Company |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T220213Z" creationid="Olivier" creationdate="20200512T220213Z">
+        <seg>[3167]&lt;ICR2&gt;Le ratio de fonds propres de votre compagnie d'assurance filiale|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3168]&lt;ICR3&gt; is Too Low!|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T220224Z" creationid="Olivier" creationdate="20200512T220224Z">
+        <seg>[3168]&lt;ICR3&gt; est trop faible !|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3169]&lt;ICR4&gt;Insurance Company Capital Ratio|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T220240Z" creationid="Olivier" creationdate="20200512T220240Z">
+        <seg>[3169]&lt;ICR4&gt;]Ratio de capital des compagnies d'assurances|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3170]&lt;CE01&gt;The CEO previously considered setting up new a firm but decided not to do so because the company's debt level was too high.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T220325Z" creationid="Olivier" creationdate="20200512T220325Z">
+        <seg>[3170]&lt;CE01&gt;Le PDG avait déjà envisagé de créer un nouvel établissement, mais il a décidé de ne pas le faire parce que le niveau d'endettement de la société était trop élevé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3171]&lt;CE02&gt;The CEO previously considered setting up|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T220356Z" creationid="Olivier" creationdate="20200512T220356Z">
+        <seg>[3171]&lt;CE02&gt;&gt;Le PDG avait déjà envisagé de créer|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3172]&lt;CE03&gt;but decided not to do so because the company's cash and profit situation was not good enough to support business expansion.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T220421Z" creationid="Olivier" creationdate="20200512T220421Z">
+        <seg>[3172]&lt;CE03&gt;mais a décidé de ne pas le faire parce que la situation de la société en matière de trésorerie et de bénéfices n'était pas assez bonne pour soutenir l'expansion de l'entreprise.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3173]&lt;CE04&gt;but decided not to do so because the company's cash level was too low to support business expansion.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T220445Z" creationid="Olivier" creationdate="20200512T220445Z">
+        <seg>[3173]&lt;CE04&gt;mais a décidé de ne pas le faire parce que le niveau de trésorerie de la société était trop faible pour soutenir l'expansion de l'entreprise|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3174]&lt;CE05&gt;This cash level of this subsidiary company is too low.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T220457Z" creationid="Olivier" creationdate="20200512T220457Z">
+        <seg>[3174]&lt;CE05&gt;Le niveau de trésorerie de cette filiale est trop faible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3175]&lt;CE06&gt;Adequate cash level for expansion:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T220523Z" creationid="Olivier" creationdate="20200512T220523Z">
+        <seg>[3175]&lt;CE06&gt;]Un niveau de trésorerie suffisant pour l'expansion: | </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3176]&lt;CE07&gt;Adequate annual profit for expansion:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T220535Z" creationid="Olivier" creationdate="20200512T220535Z">
+        <seg>[3176]&lt;CE07&gt;Un profit annuel suffisant pour l'expansion:|</seg>
       </tuv>
     </tu>
     <tu>
