@@ -2,7 +2,7 @@
 Title=Sample script - Player Expertise
 Description=This is a sample script for Capitalism Lab, listing all variables under the [PLAYER EXPERTISE] section. 
 
-[PLAYER EXPERTISE] 
+[PLAYER EXPERTISE]
 // You may assign a value ranging from 0 to 100 to each type of player expertise.
 
 Retailing=20

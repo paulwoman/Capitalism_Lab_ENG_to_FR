@@ -1,5 +1,5 @@
 [TEXT]
-NIL 
+NIL
 
 [ACTION]
 Hide=Preview
@@ -7,7 +7,7 @@ Hide=Preview
 //-------------------------------------------------------------------//
 
 [TEXT]
-NIL 
+NIL
 
 [ACTION]
 Add Seaport Product=Timber
@@ -15,7 +15,7 @@ Add Seaport Product=Timber
 //-------------------------------------------------------------------//
 
 [TEXT]
-NIL 
+NIL
 
 [ACTION]
 Add Seaport Product=Steel
@@ -23,7 +23,7 @@ Add Seaport Product=Steel
 //-------------------------------------------------------------------//
 
 [TEXT]
-Dans les tutoriels précédents, vous avez appris comment acheter des produits auprès de fournisseurs et les mettre simplement en vente dans vos magasins. Vous avez maintenant la possibilité de fabriquer réellement des produits dans votre propre usine. 
+Dans les tutoriels précédents, vous avez appris comment acheter des produits auprès de fournisseurs et les mettre simplement en vente dans vos magasins. Vous avez maintenant la possibilité de fabriquer réellement des produits dans votre propre usine.
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -46,7 +46,7 @@ Créer sa propre société demande de l'argent... beaucoup d'argent. Vous devez 
 [POS]
 Extend Text Box=36,600,500,0
 Pointer=156,6,183,30
-Window=Bottom Toolbar 
+Window=Bottom Toolbar
 
 //-------------------------------------------------------------------//
 
@@ -60,7 +60,7 @@ Pointer=33,296,151,306
 //-------------------------------------------------------------------//
 
 [TEXT]
-La limite de crédit de votre entreprise varie tout au long du jeu en fonction de la situation de votre entreprise. À l'heure actuelle, le montant maximum que vous pouvez emprunter est de 30 millions de dollars.^^ 
+La limite de crédit de votre entreprise varie tout au long du jeu en fonction de la situation de votre entreprise. À l'heure actuelle, le montant maximum que vous pouvez emprunter est de 30 millions de dollars.^^
 
 [POS]
 Text Box=300,525,400,0
@@ -98,7 +98,7 @@ Pointer=533, 473, 606, 486
 //-------------------------------------------------------------------//
 
 [TEXT]
-Cherchez ~Bois~ dans la liste et double-cliquez dessus. 
+Cherchez ~Bois~ dans la liste et double-cliquez dessus.
 
 [POS]
 Text Box=280,530,400,0
@@ -109,7 +109,7 @@ Manufacturer Guide=Bed
 //-------------------------------------------------------------------//
 
 [TEXT]
-Cela montre que le ~Bois~ peut être utilisé pour produire des ~Lits~. Assez évident, non ? Regardez attentivement les informations présentées ici.^^ Elles indiquent qu'il faut ~120 livres de bois~ pour fabriquer ~1 unité de lit~. Notez que le bois a une ~influence de qualité de 50 %~, ce qui signifie que la qualité du produit fini est affectée à 50 % par la qualité du bois.  
+Cela montre que le ~Bois~ peut être utilisé pour produire des ~Lits~. Assez évident, non ? Regardez attentivement les informations présentées ici.^^ Elles indiquent qu'il faut ~120 livres de bois~ pour fabriquer ~1 unité de lit~. Notez que le bois a une ~influence de qualité de 50 %~, ce qui signifie que la qualité du produit fini est affectée à 50 % par la qualité du bois.
 
 [POS]
 Text Box=230,510,500,0
@@ -139,7 +139,7 @@ Manufacturer Guide=Chair
 //-------------------------------------------------------------------//
 
 [TEXT]
-Cela montre que le ~bois~ peut également être combiné avec le ~coton~ et le ~lin~ pour produire la ~chaise~. La qualité de la ~chaise~ est influencée à 60 % par les matières premières. Parmi ces 60 %, ~bois~ représente 40 %, le ~coton~ 10 % et le ~lin~ les 10 % restants. 
+Cela montre que le ~bois~ peut également être combiné avec le ~coton~ et le ~lin~ pour produire la ~chaise~. La qualité de la ~chaise~ est influencée à 60 % par les matières premières. Parmi ces 60 %, ~bois~ représente 40 %, le ~coton~ 10 % et le ~lin~ les 10 % restants.
 
 [POS]
 Text Box=230,550,500,0
@@ -172,7 +172,7 @@ Active Interface=City View
 //-------------------------------------------------------------------//
 
 [TEXT]
-Vous devez à présent construire une usine Cliquez sur l'icône ~Construire~. 
+Vous devez à présent construire une usine Cliquez sur l'icône ~Construire~.
 
 [POS]
 Text Box=100,150,400,0
@@ -187,7 +187,7 @@ Sélectionnez ~Usine~ dans le menu et trouvez un endroit pour la construire.^^C'
 Text Box=10,130,180,0
 
 [CONDITION]
-Firm count=Factory, 1 
+Firm count=Factory, 1
 
 //-------------------------------------------------------------------//
 
@@ -201,14 +201,14 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Faisons en sorte que votre usine produise quelque chose. Double-cliquez sur l'espace supérieur gauche de l'unité dans la disposition et construisez une ~unité d'achats~ 
+Faisons en sorte que votre usine produise quelque chose. Double-cliquez sur l'espace supérieur gauche de l'unité dans la disposition et construisez une ~unité d'achats~
 
 [POS]
 Text Box=32,250,350,0
 Pointer=489,253,573,336
 
 [CONDITION]
-Unit Exists=1, Purchasing 
+Unit Exists=1, Purchasing
 
 //-------------------------------------------------------------------//
 
@@ -225,7 +225,7 @@ Unit Exists=2, Manufacturing
 //-------------------------------------------------------------------//
 
 [TEXT]
-Et à droite de l'unité de fabrication, construisez une ~unité de ventes~. 
+Et à droite de l'unité de fabrication, construisez une ~unité de ventes~.
 
 [POS]
 Text Box=32,250,350,0
@@ -237,14 +237,14 @@ Unit Exists=3, Sales
 //-------------------------------------------------------------------//
 
 [TEXT]
-Cliquez maintenant sur le lien entre les unités pour les connecter. 
+Cliquez maintenant sur le lien entre les unités pour les connecter.
 
 [POS]
 Text Box=32,250,350,0
 Pointer=579,292,592,298
 
 [CONDITION]
-Unit Linked=Purchasing, Manufacturing, 1, 2 
+Unit Linked=Purchasing, Manufacturing, 1, 2
 
 //-------------------------------------------------------------------//
 
@@ -270,7 +270,7 @@ Pointer=489,253,573,336
 //-------------------------------------------------------------------//
 
 [TEXT]
-Cliquez sur le bouton ~Lien~ pour ouvrir l'interface ~Sélectionner un fournisseur~. 
+Cliquez sur le bouton ~Lien~ pour ouvrir l'interface ~Sélectionner un fournisseur~.
 
 [POS]
 Text Box=32,250,350,0
@@ -292,7 +292,7 @@ Unit has item=1, Timber
 //-------------------------------------------------------------------//
 
 [TEXT]
-Dès que votre usine reçoit le bois du fournisseur, l'unité de fabrication commence à produire le lit.^^ Peu de temps après, l'unité de fabrication envoie les produits finis à l'unité de vente et votre lit est disponible pour la vente dans le monde entier. 
+Dès que votre usine reçoit le bois du fournisseur, l'unité de fabrication commence à produire le lit.^^ Peu de temps après, l'unité de fabrication envoie les produits finis à l'unité de vente et votre lit est disponible pour la vente dans le monde entier.
 
 [POS]
 Text Box=32,250,350,0
@@ -301,7 +301,7 @@ Next Arrow=Yes
 ----------------------------------------------------------------//
 
 [TEXT]
-Il y a beaucoup d'espace inutilisé dans votre usine - six unités vides pour être exact - alors utilisons les.^^Dans la rangée d'unités vides juste en dessous de vos unités existantes ~ajoutez~ un autre ensemble d'unités ~Achats, Fabrications et Ventes~ de gauche à droite. N'oubliez pas de ~lier~ également les trois nouvelles unités. 
+Il y a beaucoup d'espace inutilisé dans votre usine - six unités vides pour être exact - alors utilisons les.^^Dans la rangée d'unités vides juste en dessous de vos unités existantes ~ajoutez~ un autre ensemble d'unités ~Achats, Fabrications et Ventes~ de gauche à droite. N'oubliez pas de ~lier~ également les trois nouvelles unités.
 
 [POS]
 Text Box=32,250,350,0
@@ -312,29 +312,29 @@ Unit Linked=Purchasing, Manufacturing, 4, 5
 ----------------------------------------------------------------//
 
 [TEXT]
-Il y a beaucoup d'espace inutilisé dans votre usine - six unités vides pour être exact - alors utilisons les.^^Dans la rangée d'unités vides juste en dessous de vos unités existantes ~ajoutez~ un autre ensemble d'unités ~Achats, Fabrications et Ventes~ de gauche à droite. N'oubliez pas de ~lier~ également les trois nouvelles unités. 
+Il y a beaucoup d'espace inutilisé dans votre usine - six unités vides pour être exact - alors utilisons les.^^Dans la rangée d'unités vides juste en dessous de vos unités existantes ~ajoutez~ un autre ensemble d'unités ~Achats, Fabrications et Ventes~ de gauche à droite. N'oubliez pas de ~lier~ également les trois nouvelles unités.
 
 [POS]
 Text Box=32,250,350,0
 
 [CONDITION]
-Unit Linked=Manufacturing, Sales, 5, 6 
+Unit Linked=Manufacturing, Sales, 5, 6
 
 [ACTION]
 Game speed=0
-// to prevent the mft unit from using Steel to produce Engine immediately. Wait until it is linked with Timber, to produce Golf club 
+// to prevent the mft unit from using Steel to produce Engine immediately. Wait until it is linked with Timber, to produce Golf club
 
 //-------------------------------------------------------------------//
 
 [TEXT]
-Cliquez maintenant sur la nouvelle ~Unité d'achat~ et cliquez sur le bouton ~Lien~ pour ouvrir la liste des fournisseurs. Sélectionnez ensuite ~Acier~ dans la liste des fournisseurs. 
+Cliquez maintenant sur la nouvelle ~Unité d'achat~ et cliquez sur le bouton ~Lien~ pour ouvrir la liste des fournisseurs. Sélectionnez ensuite ~Acier~ dans la liste des fournisseurs.
 
 [POS]
 Text Box=40,250,256,0
 
 [ACTION]
 Game speed=0
-// to prevent the mft unit from using Steel to produce Engine immediately. Wait until it is linked with Timber, to produce Golf club 
+// to prevent the mft unit from using Steel to produce Engine immediately. Wait until it is linked with Timber, to produce Golf club
 
 [CONDITION]
 Unit has item=4, Steel
@@ -357,7 +357,7 @@ Game Speed=3
 //-------------------------------------------------------------------//
 
 [TEXT]
-Cette ~unité de fabrication~ va maintenant produire le ~club de golf~. Découvrez comment nous avons utilisé une ~unité d'achats~ existante fournissant du bois~, et en conjonction avec une nouvelle unité d'achat ~acier~, pour fabriquer un produit différent. 
+Cette ~unité de fabrication~ va maintenant produire le ~club de golf~. Découvrez comment nous avons utilisé une ~unité d'achats~ existante fournissant du bois~, et en conjonction avec une nouvelle unité d'achat ~acier~, pour fabriquer un produit différent.
 
 [POS]
 Text Box=70,422,380,0
@@ -366,7 +366,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Maintenant, regardons de plus près ~l'unité de fabrication elle-même~. Sélectionnez votre unité de fabrication de clubs de golf en cliquant sur celle-ci. 
+Maintenant, regardons de plus près ~l'unité de fabrication elle-même~. Sélectionnez votre unité de fabrication de clubs de golf en cliquant sur celle-ci.
 
 [POS]
 Text Box=70,422,380,0
@@ -375,7 +375,7 @@ Pointer=601,365,680,444
 //-------------------------------------------------------------------//
 
 [TEXT]
-Elle indique ici la ~cote de qualité~ de votre club de golf et les facteurs qui contribuent à cette cote, qui comprennent les ~qualités des matériaux bruts~ et votre ~technologie de production~ pour ce produit. 
+Elle indique ici la ~cote de qualité~ de votre club de golf et les facteurs qui contribuent à cette cote, qui comprennent les ~qualités des matériaux bruts~ et votre ~technologie de production~ pour ce produit.
 
 [POS]
 Text Box=424,124,330,0
@@ -402,7 +402,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Maintenant que votre usine est en activité, vos produits peuvent déjà être achetés par d'autres sociétés pour être vendus dans leurs magasins.^^Pour développer votre entreprise, il vous est conseillé de construire des magasins de détail pour vendre vos propres marchandises, et d'installer d'autres usines pour produire des produits supplémentaires. 
+Maintenant que votre usine est en activité, vos produits peuvent déjà être achetés par d'autres sociétés pour être vendus dans leurs magasins.^^Pour développer votre entreprise, il vous est conseillé de construire des magasins de détail pour vendre vos propres marchandises, et d'installer d'autres usines pour produire des produits supplémentaires.
 
 
 [POS]

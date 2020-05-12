@@ -1,5 +1,5 @@
 [TEXT]
-NIL 
+NIL
 
 [ACTION]
 Hide=Preview
@@ -7,7 +7,7 @@ Hide=Preview
 //-------------------------------------------------------------------//
 
 [TEXT]
-NIL 
+NIL
 
 [ACTION]
 Add Seaport Product=Textiles
@@ -15,7 +15,7 @@ Add Seaport Product=Textiles
 //-------------------------------------------------------------------//
 
 [TEXT]
-NIL 
+NIL
 
 [ACTION]
 Add Seaport Product=Linen
@@ -23,7 +23,7 @@ Add Seaport Product=Linen
 //-------------------------------------------------------------------//
 
 [TEXT]
-NIL 
+NIL
 
 [ACTION]
 Add Seaport Product=Wool
@@ -31,7 +31,7 @@ Add Seaport Product=Wool
 //-------------------------------------------------------------------//
 
 [TEXT]
-NIL 
+NIL
 
 [ACTION]
 Add Seaport Product=Dyestuff
@@ -39,7 +39,7 @@ Add Seaport Product=Dyestuff
 //-------------------------------------------------------------------//
 
 [TEXT]
-NIL 
+NIL
 
 [ACTION]
 Add Seaport Product=Leather
@@ -47,7 +47,7 @@ Add Seaport Product=Leather
 //-------------------------------------------------------------------//
 
 [TEXT]
-Maintenant que vous savez comment trouver des fournisseurs, fabriquer et vendre des produits, il est temps de vous pencher sur la ~publicité~ de vos produits. Votre entreprise sera en concurrence avec d'autres entreprises qui vendent les mêmes types de produits. Vous aurez besoin d'une bonne campagne publicitaire si vous voulez que votre entreprise réussisse. ^^Apprenons maintenant quelques notions de base sur les marques et la publicité.  
+Maintenant que vous savez comment trouver des fournisseurs, fabriquer et vendre des produits, il est temps de vous pencher sur la ~publicité~ de vos produits. Votre entreprise sera en concurrence avec d'autres entreprises qui vendent les mêmes types de produits. Vous aurez besoin d'une bonne campagne publicitaire si vous voulez que votre entreprise réussisse. ^^Apprenons maintenant quelques notions de base sur les marques et la publicité.
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -65,12 +65,12 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Pour mieux comprendre le fonctionnement des marques, ouvrons le ~Rapport détaillé des produits~. Cliquez à présent sur l'icône ~Centre d'informations~. 
+Pour mieux comprendre le fonctionnement des marques, ouvrons le ~Rapport détaillé des produits~. Cliquez à présent sur l'icône ~Centre d'informations~.
 
 [POS]
 Extend Text Box=36,600,500,0
 Pointer=156,6,183,30
-Window=Bottom Toolbar 
+Window=Bottom Toolbar
 
 //-------------------------------------------------------------------//
 
@@ -96,7 +96,7 @@ Interface Select=Product Details Report, Jeans
 //-------------------------------------------------------------------//
 
 [TEXT]
-Vous pouvez voir ici les évaluations pour le ~Prix~, la ~Qualité~, la ~Marque~ et  l'~Évaluation globale~. Elles sont divisées en deux colonnes. La colonne ~Local~ affiche les notations des concurrents locaux - il s'agit de petites entreprises locales que vous ne voyez pas dans la liste des sociétés. La colonne ~Moyenne~ combine les notations des concurrents locaux et des sociétés. 
+Vous pouvez voir ici les évaluations pour le ~Prix~, la ~Qualité~, la ~Marque~ et  l'~Évaluation globale~. Elles sont divisées en deux colonnes. La colonne ~Local~ affiche les notations des concurrents locaux - il s'agit de petites entreprises locales que vous ne voyez pas dans la liste des sociétés. La colonne ~Moyenne~ combine les notations des concurrents locaux et des sociétés.
 
 [POS]
 Text Box=280,320,400,0
@@ -116,7 +116,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Pour ~Jeans~, les préoccupations sont : ~Prix~ 27 %, Qualité~ 29 % et Marque~ 44 %. Cela signifie que la ~marque~ est un facteur nettement plus important pour les jeans. ^^Si vous envisagez de créer une entreprise de vente de jeans, il est donc essentiel que vous investissiez de manière agressive pour la publicité de vos jeans, tant que votre budget le permet.  
+Pour ~Jeans~, les préoccupations sont : ~Prix~ 27 %, Qualité~ 29 % et Marque~ 44 %. Cela signifie que la ~marque~ est un facteur nettement plus important pour les jeans. ^^Si vous envisagez de créer une entreprise de vente de jeans, il est donc essentiel que vous investissiez de manière agressive pour la publicité de vos jeans, tant que votre budget le permet.
 
 [POS]
 Text Box=300,320,400,0
@@ -135,7 +135,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Il est vrai que des types de produits différents nécessitent des stratégies de marketing différentes. En règle générale, plus la ~ préoccupation de la marque~ du produit que vous vendez est élevée, plus vous devez faire preuve d'agressivité dans sa publicité. 
+Il est vrai que des types de produits différents nécessitent des stratégies de marketing différentes. En règle générale, plus la ~ préoccupation de la marque~ du produit que vous vendez est élevée, plus vous devez faire preuve d'agressivité dans sa publicité.
 
 [POS]
 Text Box=300,280,400,0
@@ -151,7 +151,7 @@ Text Box=300,470,400,0
 Pointer=360,127,512,144
 
 [CONDITION]
-Interface Select=Product Details Report, Camera 
+Interface Select=Product Details Report, Camera
 
 //-------------------------------------------------------------------//
 
@@ -219,8 +219,8 @@ Maintenant, construisez une usine. Ce tutoriel se poursuivra lorsque vous aurez 
 Flex Text Box=300,280,400,0
 Next Arrow=Yes
 
-[ACTION] 
-Hide=Tutorial window 
+[ACTION]
+Hide=Tutorial window
 
 //-------------------------------------------------------------------//
 
@@ -237,7 +237,7 @@ Firm count=Factory, 1
 //-------------------------------------------------------------------//
 
 [TEXT]
-Dans le tutoriel précédent, vous avez appris à mettre en place manuellement les installations de production dans une usine. Cette fois, cliquez sur l'icône [+] pour utiliser les outils de fabrication afin de mettre en place automatiquement les installations de l'usine pour vous. 
+Dans le tutoriel précédent, vous avez appris à mettre en place manuellement les installations de production dans une usine. Cette fois, cliquez sur l'icône [+] pour utiliser les outils de fabrication afin de mettre en place automatiquement les installations de l'usine pour vous.
 
 [POS]
 Text Box=220,135,400,0
@@ -247,31 +247,31 @@ Pointer=72,124,176,226
 //-------------------------------------------------------------------//
 
 [TEXT]
-Sélectionnez un produit vestimentaire dans la liste et cliquez sur le bouton [CONSTUIRE USINE]. Ce tutoriel se poursuivra lorsque votre usine commencera à produire des articles vestimentaires. 
+Sélectionnez un produit vestimentaire dans la liste et cliquez sur le bouton [CONSTUIRE USINE]. Ce tutoriel se poursuivra lorsque votre usine commencera à produire des articles vestimentaires.
 
 [POS]
 Text Box=200,260,400,0
 Next Arrow=Yes
 
-[ACTION] 
-Hide=Tutorial window 
+[ACTION]
+Hide=Tutorial window
 
 //-------------------------------------------------------------------//
 
 [TEXT]
-Ce tutoriel se poursuivra lorsque votre usine commencera à produire des produits vestimentaires. 
+Ce tutoriel se poursuivra lorsque votre usine commencera à produire des produits vestimentaires.
 
 [POS]
 Flex Text Box=200,280,400,0
 Next Arrow=Yes
 
 [CONDITION]
-Your factory sells product class=Apparel  
+Your factory sells product class=Apparel
 
 //-------------------------------------------------------------------//
 
 [TEXT]
-Bon travail avec votre usine ! Nous allons maintenant aborder la question de l'image de marque et de la publicité. Avant de commencer à faire de la publicité, vous devez d'abord décider de la stratégie de marque que vous voulez utiliser. 
+Bon travail avec votre usine ! Nous allons maintenant aborder la question de l'image de marque et de la publicité. Avant de commencer à faire de la publicité, vous devez d'abord décider de la stratégie de marque que vous voulez utiliser.
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -280,13 +280,13 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Pour accéder à l'écran ~Stratégie de marque~, ouvrez le rapport ~Détails de l'entreprise~ en appuyant sur la touche de raccourci ~'D'~ maintenant. 
+Pour accéder à l'écran ~Stratégie de marque~, ouvrez le rapport ~Détails de l'entreprise~ en appuyant sur la touche de raccourci ~'D'~ maintenant.
 
 [POS]
 Flex Text Box=300,280,400,0
 
 [CONDITION]
-Active Interface=Corporate Detail Report 
+Active Interface=Corporate Detail Report
 
 //-------------------------------------------------------------------//
 
@@ -300,7 +300,7 @@ Pointer=643,107,680,119
 //-------------------------------------------------------------------//
 
 [TEXT]
-Si vous souhaitez avoir une marque unique couvrant tous les produits que vous vendez, vous devez alors choisir la ~stratégie de marque d'entreprise~. L'avantage~ de cette approche est que tout nouveau produit que vous lancez bénéficiera instantanément de la reconnaissance de la marque d'entreprise existante. ^^~L'inconvénient~ est que la fidélité à la marque souffrira si l'un de vos produits ne répond pas aux attentes des consommateurs en matière de qualité de votre marque d'entreprise. 
+Si vous souhaitez avoir une marque unique couvrant tous les produits que vous vendez, vous devez alors choisir la ~stratégie de marque d'entreprise~. L'avantage~ de cette approche est que tout nouveau produit que vous lancez bénéficiera instantanément de la reconnaissance de la marque d'entreprise existante. ^^~L'inconvénient~ est que la fidélité à la marque souffrira si l'un de vos produits ne répond pas aux attentes des consommateurs en matière de qualité de votre marque d'entreprise.
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -309,7 +309,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-La deuxième stratégie, ~la stratégie de marque de type de produit~ est similaire à la stratégie de marque d'entreprise mais sa couverture est limitée à des catégories de produits.  Par exemple, les ~sacs en cuir~ et les ~porte-documents en cuir~ appartiennent à la catégorie de produits ~maroquinerie~. Si vous décidez de vendre des ~porte-documents en cuir~ et des ~lotions de bain~ pour accompagner les ~sacs en cuir~ que vous vendez déjà, vos ~porte-documents en cuir~ hériteront immédiatement de la marque de vos ~sacs en cuir~ (~même catégorie de produits~) mais vos ~lotions de bain~ ne le seront pas. 
+La deuxième stratégie, ~la stratégie de marque de type de produit~ est similaire à la stratégie de marque d'entreprise mais sa couverture est limitée à des catégories de produits.  Par exemple, les ~sacs en cuir~ et les ~porte-documents en cuir~ appartiennent à la catégorie de produits ~maroquinerie~. Si vous décidez de vendre des ~porte-documents en cuir~ et des ~lotions de bain~ pour accompagner les ~sacs en cuir~ que vous vendez déjà, vos ~porte-documents en cuir~ hériteront immédiatement de la marque de vos ~sacs en cuir~ (~même catégorie de produits~) mais vos ~lotions de bain~ ne le seront pas.
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -336,12 +336,12 @@ Pointer=185,255,271,271
 
 [CONDITION]
 Brand strategy=2
-// 2 means range brand 
+// 2 means range brand
 
 //-------------------------------------------------------------------//
 
 [TEXT]
-Il est important de décider de votre stratégie de marque au début d'un jeu car le changement de stratégie de marque a un coût élevé ;  cela remet à zéro toutes les évaluations de marque existantes. 
+Il est important de décider de votre stratégie de marque au début d'un jeu car le changement de stratégie de marque a un coût élevé ;  cela remet à zéro toutes les évaluations de marque existantes.
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -350,25 +350,25 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Maintenant, lançons vos produits sur le marché et mettons en place la stratégie de marque de votre type de produit. ~ Construisez un grand magasin~ et ~faites-lui acheter des produits de votre usine~. Ce tutoriel se poursuivra lorsque vous l'aurez fait. 
+Maintenant, lançons vos produits sur le marché et mettons en place la stratégie de marque de votre type de produit. ~ Construisez un grand magasin~ et ~faites-lui acheter des produits de votre usine~. Ce tutoriel se poursuivra lorsque vous l'aurez fait.
 
 [POS]
 Flex Text Box=300,280,400,0
 Next Arrow=Yes
 
-[ACTION] 
-Hide=Tutorial window 
+[ACTION]
+Hide=Tutorial window
 
 //-------------------------------------------------------------------//
 
 [TEXT]
-Maintenant, lançons vos produits sur le marché et mettons en place la stratégie de marque de type de produits~ .Construisez un grand magasin~ et ~faites-lui acheter les produits d'habillement de votre usine~. Ce tutoriel se poursuivra lorsque vous l'aurez fait. 
+Maintenant, lançons vos produits sur le marché et mettons en place la stratégie de marque de type de produits~ .Construisez un grand magasin~ et ~faites-lui acheter les produits d'habillement de votre usine~. Ce tutoriel se poursuivra lorsque vous l'aurez fait.
 
 [POS]
 Flex Text Box=300,280,400,0
 
 [CONDITION]
-Your store sells your product class=Apparel  
+Your store sells your product class=Apparel
 
 //-------------------------------------------------------------------//
 
@@ -385,7 +385,7 @@ Unit Exists=5, Advertising
 //-------------------------------------------------------------------//
 
 [TEXT]
-Cliquez sur le bouton ~Lien avec les médias~ pour relier votre ~unité publicitaire~ à un média. 
+Cliquez sur le bouton ~Lien avec les médias~ pour relier votre ~unité publicitaire~ à un média.
 
 [POS]
 Text Box=200,280,210,0
@@ -394,7 +394,7 @@ Pointer=203,384,278,402
 //-------------------------------------------------------------------//
 
 [TEXT]
-Toutes les entreprises de médias disponibles dans la ville actuelle sont affichées. Lorsqu'il s'agit de choisir un média pour faire de la publicité, vous devez tenir compte des ~points de classement~ et du ~coût publicitaire~ de chaque média. Plus les ~points de classement~ sont élevés, plus la ~part d'audience~ est importante. Le ~coût publicitaire~ est simplement le coût pour que votre publicité soit vue mille fois~ par des clients potentiels. 
+Toutes les entreprises de médias disponibles dans la ville actuelle sont affichées. Lorsqu'il s'agit de choisir un média pour faire de la publicité, vous devez tenir compte des ~points de classement~ et du ~coût publicitaire~ de chaque média. Plus les ~points de classement~ sont élevés, plus la ~part d'audience~ est importante. Le ~coût publicitaire~ est simplement le coût pour que votre publicité soit vue mille fois~ par des clients potentiels.
 
 [POS]
 Text Box=20,230,310,0
@@ -404,7 +404,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Trouvez une entreprise médiatique avec un score de points élevé pour maximiser votre couverture publicitaire. Veillez toutefois à ne pas choisir une entreprise qui vous fait payer trop cher. Lorsque vous avez décidé auprès de quelle entreprise médiatique vous souhaitez faire de la publicité, double-cliquez dessus pour la sélectionner. 
+Trouvez une entreprise médiatique avec un score de points élevé pour maximiser votre couverture publicitaire. Veillez toutefois à ne pas choisir une entreprise qui vous fait payer trop cher. Lorsque vous avez décidé auprès de quelle entreprise médiatique vous souhaitez faire de la publicité, double-cliquez dessus pour la sélectionner.
 
 [POS]
 Text Box=20,230,310,0
@@ -415,14 +415,14 @@ Advertising unit is linked=5
 //-------------------------------------------------------------------//
 
 [TEXT]
-Maintenant, reliez votre unité ~Publicité~ et votre unité ~Vente~ en cliquant sur la ligne de liaison entre elles. 
+Maintenant, reliez votre unité ~Publicité~ et votre unité ~Vente~ en cliquant sur la ligne de liaison entre elles.
 
 [POS]
 Text Box=430,150,350,0
 Pointer=641,342,646,357
 
-[CONDITION]	
-Unit Linked=Sales, Advertising, 3, 5 
+[CONDITION]
+Unit Linked=Sales, Advertising, 3, 5
 
 //-------------------------------------------------------------------//
 
@@ -445,7 +445,7 @@ Pointer=599,253,680,336
 //-------------------------------------------------------------------//
 
 [TEXT]
-Vous pouvez voir le ~classement de la marque~ sur ~l'unité ventes~. Actuellement, elle est nulle, mais avec la publicité, elle devrait bientôt augmenter. 
+Vous pouvez voir le ~classement de la marque~ sur ~l'unité ventes~. Actuellement, elle est nulle, mais avec la publicité, elle devrait bientôt augmenter.
 
 [POS]
 Text Box=330,130,450,0
@@ -455,7 +455,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Pour exploiter l'effet de la ~stratégie de type de produits~, vous devez ajouter un autre produit de l'une des classes de produits que vous vendez déjà. 
+Pour exploiter l'effet de la ~stratégie de type de produits~, vous devez ajouter un autre produit de l'une des classes de produits que vous vendez déjà.
 
 [POS]
 Text Box=330,130,450,0
@@ -464,32 +464,32 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Construisez une autre usine pour produire un autre article ~vestimentaire~. (Astuce : si vous fabriquez et vendez déjà des jeans, choisissez une veste en cuir). Ce tutoriel se poursuivra lorsque vous aurez réussi à produire et à vendre un nouveau produit ~vestimentaire~ dans votre grand magasin.  
+Construisez une autre usine pour produire un autre article ~vestimentaire~. (Astuce : si vous fabriquez et vendez déjà des jeans, choisissez une veste en cuir). Ce tutoriel se poursuivra lorsque vous aurez réussi à produire et à vendre un nouveau produit ~vestimentaire~ dans votre grand magasin.
 
 [POS]
 Flex Text Box=300,280,400,0
 Next Arrow=Yes
 
-[ACTION] 
-Hide=Tutorial window 
+[ACTION]
+Hide=Tutorial window
 
 //-------------------------------------------------------------------//
 
 [TEXT]
-Construisez une autre usine pour produire un autre article ~vestimentaire~. (Conseil : si vous fabriquez et vendez déjà des jeans, choisissez une veste en cuir). Ce tutoriel se poursuivra lorsque vous aurez réussi à produire et à vendre un nouveau produit ~vestimentaire~ dans votre grand magasin.  
+Construisez une autre usine pour produire un autre article ~vestimentaire~. (Conseil : si vous fabriquez et vendez déjà des jeans, choisissez une veste en cuir). Ce tutoriel se poursuivra lorsque vous aurez réussi à produire et à vendre un nouveau produit ~vestimentaire~ dans votre grand magasin.
 
 [POS]
 Flex Text Box=300,280,400,0
 
 [CONDITION]
 
-Your store sells your product class=Apparel, 2  
-// 2 means that the condition is met when your department store is selling 2 different products of the specified item class 
+Your store sells your product class=Apparel, 2
+// 2 means that the condition is met when your department store is selling 2 different products of the specified item class
 
 //-------------------------------------------------------------------//
 
 [TEXT]
-Très bien ! Cette fois-ci, vous n'avez pas besoin de lier le nouveau produit à l'unité de publicité car il est déjà couvert par votre marque ~d'articles vestimentaires~. 
+Très bien ! Cette fois-ci, vous n'avez pas besoin de lier le nouveau produit à l'unité de publicité car il est déjà couvert par votre marque ~d'articles vestimentaires~.
 
 [POS]
 Text Box=32,250,350,0
@@ -504,12 +504,12 @@ Avec l'effet de la publicité, le ~classement de la marque de la marque~ de vos 
 Flex Text Box=300,280,400,0
 
 [CONDITION]
-Active Interface=Corporate Detail Report 
+Active Interface=Corporate Detail Report
 
 ----------------------------------------------------------------//
 
 [TEXT]
-Sélectionnez l'option ~Domination~ pour voir comment votre société se positionne par rapport à la concurrence. 
+Sélectionnez l'option ~Domination~ pour voir comment votre société se positionne par rapport à la concurrence.
 
 [POS]
 Text Box=32,250,350,0
@@ -518,7 +518,7 @@ Pointer=639,128,710,139
 ----------------------------------------------------------------//
 
 [TEXT]
-Le rapport montre la "domination du marché par industrie" ainsi que ~par classe de produits~. Vous pouvez voir les parts de marché de votre société pour chaque produit qu'elle vend actuellement. Les colonnes ~classement~ indiquent le classement des ventes de votre société. Quand il est écrit "1er", cela signifie que votre société a atteint une position dominante sur le marché pour la classe de produits concernée. 
+Le rapport montre la "domination du marché par industrie" ainsi que ~par classe de produits~. Vous pouvez voir les parts de marché de votre société pour chaque produit qu'elle vend actuellement. Les colonnes ~classement~ indiquent le classement des ventes de votre société. Quand il est écrit "1er", cela signifie que votre société a atteint une position dominante sur le marché pour la classe de produits concernée.
 
 [POS]
 Text Box=170,380,580,0
@@ -527,7 +527,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Sélectionnez l'option de menu ~Marque~ pour afficher les évaluations actuelles de la marque de vos produits. 
+Sélectionnez l'option de menu ~Marque~ pour afficher les évaluations actuelles de la marque de vos produits.
 
 [POS]
 Text Box=32,250,350,0
@@ -536,7 +536,7 @@ Pointer=639,108,710,119
 //-------------------------------------------------------------------//
 
 [TEXT]
-Ici, vous verrez que la publicité augmente lentement la notoriété de vos produits. Notez que le ~classement de la marque~ est égale à la somme de la ~notoriété de la marque~ et de la ~fidélité à la marque~. 
+Ici, vous verrez que la publicité augmente lentement la notoriété de vos produits. Notez que le ~classement de la marque~ est égale à la somme de la ~notoriété de la marque~ et de la ~fidélité à la marque~.
 
 [POS]
 Text Box=170,380,580,0
@@ -554,7 +554,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-~La fidélité à la marque~ est une mesure de l'attachement des consommateurs à une marque. Si vous laissez la qualité de vos produits fluctuer, la fidélité à la marque en souffrira car les consommateurs peuvent facilement perdre confiance dans des produits de qualité inégale. 
+~La fidélité à la marque~ est une mesure de l'attachement des consommateurs à une marque. Si vous laissez la qualité de vos produits fluctuer, la fidélité à la marque en souffrira car les consommateurs peuvent facilement perdre confiance dans des produits de qualité inégale.
 
 [POS]
 Text Box=170,380,580,0
@@ -572,7 +572,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Un conseil stratégique pour vous : concentrez-vous sur les produits que vous fabriquez déjà, construisez de nouveaux magasins de détail et, en fin de compte, dominez le marché ! Et lorsque vous êtes prêt à étendre votre activité dans d'autres villes, n'oubliez pas d'utiliser la ~mini carte~ pour passer d'une ville à l'autre. 
+Un conseil stratégique pour vous : concentrez-vous sur les produits que vous fabriquez déjà, construisez de nouveaux magasins de détail et, en fin de compte, dominez le marché ! Et lorsque vous êtes prêt à étendre votre activité dans d'autres villes, n'oubliez pas d'utiliser la ~mini carte~ pour passer d'une ville à l'autre.
 
 [POS]
 Text Box=170,380,580,0

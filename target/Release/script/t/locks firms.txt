@@ -1,6 +1,6 @@
 [HEADER]
 Title=Script Capitalism Lab #05
-Description=Ceci est un script avec le paramètre de verrouillages 
+Description=Ceci est un script avec le paramètre de verrouillages
 
 
 [ENVIRONMENT]
@@ -13,7 +13,7 @@ city=Hong Kong
 [LOCKS]
 Buy Land
 
-//Firm, Department Store 
+//Firm, Department Store
 //Firm, R&D Center
 //Firm, Farm
 Firm, Warehouse

@@ -1,5 +1,5 @@
 [TEXT]
-NIL 
+NIL
 
 [ACTION]
 Hide=Preview
@@ -7,7 +7,7 @@ Hide=Preview
 //-------------------------------------------------------------------//
 
 [TEXT]
-Dans ce tutoriel, vous créerez une ferme pour approvisionner vos supermarchés avec vos propres produits agricoles. Cette intégration en amont permettra de créer une chaîne d'approvisionnement plus fiable et augmentera vos marges bénéficiaires. 
+Dans ce tutoriel, vous créerez une ferme pour approvisionner vos supermarchés avec vos propres produits agricoles. Cette intégration en amont permettra de créer une chaîne d'approvisionnement plus fiable et augmentera vos marges bénéficiaires.
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -16,7 +16,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Dans CapitalismLab, une ferme peut produire de la viande, du lait, des œufs, du cuir et une variété de cultures.^^Pour construire votre première ferme, cliquez sur l'icône ~Construire~.  
+Dans CapitalismLab, une ferme peut produire de la viande, du lait, des œufs, du cuir et une variété de cultures.^^Pour construire votre première ferme, cliquez sur l'icône ~Construire~.
 
 [POS]
 Text Box=100,180,400,0
@@ -25,7 +25,7 @@ Pointer=31,30,79,58
 //-------------------------------------------------------------------//
 
 [TEXT]
-Sélectionnez ~Ferme~ depuis le menu. 
+Sélectionnez ~Ferme~ depuis le menu.
 
 [POS]
 Text Box=100,200,300,0
@@ -34,22 +34,22 @@ Pointer=52,104,235,120
 //-------------------------------------------------------------------//
 
 [TEXT]
-Il existe deux tailles d'exploitations agricoles. Sélectionnez ~Ferme moyenne~ dans le menu et choisissez un emplacement dans une zone rurale pour construire votre ferme. 
+Il existe deux tailles d'exploitations agricoles. Sélectionnez ~Ferme moyenne~ dans le menu et choisissez un emplacement dans une zone rurale pour construire votre ferme.
 
 [POS]
 Text Box=610,318,380,0
 Pointer=281,60,452,104
 
 [CONDITION]
-Firm Build Count=Farm, 1 
+Firm Build Count=Farm, 1
 
 [ACTION]
-Set firm description=My Farm 
+Set firm description=My Farm
 
 //-------------------------------------------------------------------//
 
 [TEXT]
-La première chose à faire est de faire de l'élevage. ^^~Double cliquez sur la case en haut à gauche~ et construisez une unité ~d'élevage de bétail.~ 
+La première chose à faire est de faire de l'élevage. ^^~Double cliquez sur la case en haut à gauche~ et construisez une unité ~d'élevage de bétail.~
 
 [POS]
 Text Box=32,250,350,0
@@ -85,7 +85,7 @@ Unit Exists=2, Livestock Processing
 //-------------------------------------------------------------------//
 
 [TEXT]
-Cliquez maintenant sur le lien entre les unités pour les connecter. 
+Cliquez maintenant sur le lien entre les unités pour les connecter.
 
 [POS]
 Text Box=32,250,350,0
@@ -105,7 +105,7 @@ Fast forward days=5
 //-------------------------------------------------------------------//
 
 [TEXT]
-Les produits du bétail comprennent le ~bœuf congelé~, le ~lait~ et le ~cuir~. Chaque ~unité de transformation du bétail~ ne peut traiter qu'un seul produit à la fois.^^Cliquez maintenant sur ~Sélectionner le produit~ et sélectionnez ~Bœuf congelé~ parmi les choix disponibles. 
+Les produits du bétail comprennent le ~bœuf congelé~, le ~lait~ et le ~cuir~. Chaque ~unité de transformation du bétail~ ne peut traiter qu'un seul produit à la fois.^^Cliquez maintenant sur ~Sélectionner le produit~ et sélectionnez ~Bœuf congelé~ parmi les choix disponibles.
 
 [POS]
 Text Box=150,120,600,0
@@ -129,7 +129,7 @@ Unit Exists=3, Sales
 //-------------------------------------------------------------------//
 
 [TEXT]
-Cliquez maintenant sur le lien entre les unités pour les connecter. 
+Cliquez maintenant sur le lien entre les unités pour les connecter.
 
 [POS]
 Text Box=32,250,350,0
@@ -167,7 +167,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Les produits agricoles sont essentiels à la fabrication d'un grand nombre de produits et vous trouverez que l'agriculture est une activité indispensable de votre société. 
+Les produits agricoles sont essentiels à la fabrication d'un grand nombre de produits et vous trouverez que l'agriculture est une activité indispensable de votre société.
 
 [POS]
 Text Box=300,280,400,0

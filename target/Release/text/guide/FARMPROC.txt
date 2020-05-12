@@ -2,6 +2,6 @@
 ~Nom du produit~
 Le type de produit d'origine animale fabriquée.^
 ~Stock de produits~
-Cette zone indique le stock du produit dans l'unité. Chaque boîte représente une cargaison du produit. Chaque cargaison peut stocker un certain nombre d'unités du produit.^ 
+Cette zone indique le stock du produit dans l'unité. Chaque boîte représente une cargaison du produit. Chaque cargaison peut stocker un certain nombre d'unités du produit.^
 ~Approvisionnement en bétail et capacité de transformation~
 La barre jaune est la barre d'approvisionnement du bétail. La barre orange est la barre de capacité de traitement.^^Si la barre d'approvisionnement en bétail est plus courte que la barre de capacité de traitement, cela signifie que l'unité est sous-utilisée et peut traiter plus de bétail. Vous pourriez lui associer des unités d'entrée supplémentaires pour exploiter sa capacité.^^ Inversement, si la barre d'approvisionnement en bétail est plus longue que la barre de capacité de traitement, l'unité a atteint sa pleine capacité et ne peut pas traiter tout le bétail qui lui est envoyé. Vous pourriez mettre en place une nouvelle unité de transformation du bétail afin d'alléger la charge de travail de l'unité actuelle. Vous pourriez également augmenter le budget de formation de l'unité actuelle, ce qui augmenterait la productivité de l'unité à long terme.

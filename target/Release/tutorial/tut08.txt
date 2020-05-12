@@ -1,5 +1,5 @@
 [TEXT]
-NIL 
+NIL
 
 [ACTION]
 Hide=Preview
@@ -27,13 +27,13 @@ Active Interface=Build Menu
 //-------------------------------------------------------------------//
 
 [TEXT]
-Sélectionnez ~Siège social~ dans le menu des bâtiments et trouvez un endroit pour le construire.^^Si votre société est riche en argent, vous pouvez choisir un emplacement de choix dans le centre-ville pour construire votre siège social. Sinon, vous pouvez simplement choisir un emplacement moins cher et économiser l'argent pour de futures expansions de votre entreprise. 
+Sélectionnez ~Siège social~ dans le menu des bâtiments et trouvez un endroit pour le construire.^^Si votre société est riche en argent, vous pouvez choisir un emplacement de choix dans le centre-ville pour construire votre siège social. Sinon, vous pouvez simplement choisir un emplacement moins cher et économiser l'argent pour de futures expansions de votre entreprise.
 
 [POS]
 Text Box=50,240,350,0
 
 [CONDITION]
-Firm count=Headquarters, 1 
+Firm count=Headquarters, 1
 
 //-------------------------------------------------------------------//
 
@@ -59,7 +59,7 @@ Unit Exists=2, Human Resources Department
 //-------------------------------------------------------------------//
 
 [TEXT]
-Le département des ressources humaines vous permet d'organiser un programme de formation intensive à l'échelle de l'entreprise. Un tel programme de formation contribue à ~améliorer l'efficacité et la productivité~ de vos employés, rendant ainsi votre entreprise plus compétitive dans son ensemble.^^Il est particulièrement utile lorsque votre entreprise a atteint une grande taille avec des centaines, voire des milliers d'employés - il vous permet d'organiser une formation à l'échelle de l'entreprise avec une seule interface sans devoir faire de la micro-gestion individuelle. 
+Le département des ressources humaines vous permet d'organiser un programme de formation intensive à l'échelle de l'entreprise. Un tel programme de formation contribue à ~améliorer l'efficacité et la productivité~ de vos employés, rendant ainsi votre entreprise plus compétitive dans son ensemble.^^Il est particulièrement utile lorsque votre entreprise a atteint une grande taille avec des centaines, voire des milliers d'employés - il vous permet d'organiser une formation à l'échelle de l'entreprise avec une seule interface sans devoir faire de la micro-gestion individuelle.
 
 [POS]
 Text Box=300,200,400,0
@@ -78,7 +78,7 @@ Next Arrow=Yes
 
 [TEXT]
 
-Vous pouvez engager un ~Chef du marketing~ pour mener des campagnes publicitaires pour vos produits, et un ~Chef technique~ pour superviser vos projets de recherche et développement. 
+Vous pouvez engager un ~Chef du marketing~ pour mener des campagnes publicitaires pour vos produits, et un ~Chef technique~ pour superviser vos projets de recherche et développement.
 
 [POS]
 Text Box=300,280,400,0
@@ -87,7 +87,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Vous pouvez également engager un ~Chef d'exploitation~ et le placer à la tête de l'une de vos entreprises.^^Vous pourriez, par exemple, engager une personne ayant une ~expertise dans le domaine de la fabrication pour la gestion de toutes vos usines. Toutes les ~unités de fabrication~ de vos usines bénéficieront d'une augmentation instantanée de la productivité grâce à l'expertise du directeur de l'exploitation. 
+Vous pouvez également engager un ~Chef d'exploitation~ et le placer à la tête de l'une de vos entreprises.^^Vous pourriez, par exemple, engager une personne ayant une ~expertise dans le domaine de la fabrication pour la gestion de toutes vos usines. Toutes les ~unités de fabrication~ de vos usines bénéficieront d'une augmentation instantanée de la productivité grâce à l'expertise du directeur de l'exploitation.
 
 [POS]
 Text Box=300,280,400,0
@@ -105,7 +105,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Maintenant, quittez votre siège social et revenez à la vue de la ville. ^^~Cliquez n'importe où sur l'écran pour le faire. 
+Maintenant, quittez votre siège social et revenez à la vue de la ville. ^^~Cliquez n'importe où sur l'écran pour le faire.
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -116,7 +116,7 @@ Active Interface=City View
 //-------------------------------------------------------------------//
 
 [TEXT]
-Avec toutes les compétences et l'expérience que vous avez acquises, vous êtes bien équipé pour réaliser votre ambition de construire un empire commercial que le monde entier admirerait. 
+Avec toutes les compétences et l'expérience que vous avez acquises, vous êtes bien équipé pour réaliser votre ambition de construire un empire commercial que le monde entier admirerait.
 
 [POS]
 Text Box=300,280,400,0
@@ -125,7 +125,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Vous pouvez élever l'intégration verticale à un nouveau niveau en mettant en place vos propres opérations minières pour fournir à vos usines les matières premières dont elles ont besoin. 
+Vous pouvez élever l'intégration verticale à un nouveau niveau en mettant en place vos propres opérations minières pour fournir à vos usines les matières premières dont elles ont besoin.
 
 [POS]
 Text Box=300,280,400,0
@@ -134,7 +134,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Il existe un outil pratique sur la mini carte qui vous permet de trouver facilement des sites de ressources naturelles.^^Cliquez sur l'icône ~Mode ressource~ et tous les sites de ressources naturelles actuellement disponibles seront affichés sur la mini-carte. 
+Il existe un outil pratique sur la mini carte qui vous permet de trouver facilement des sites de ressources naturelles.^^Cliquez sur l'icône ~Mode ressource~ et tous les sites de ressources naturelles actuellement disponibles seront affichés sur la mini-carte.
 
 [POS]
 Extend Text Box=450,50,300,0
@@ -144,7 +144,7 @@ Window=Minimap
 //-------------------------------------------------------------------//
 
 [TEXT]
-Les lettres sur la mini carte indiquent les types de ressources naturelles disponibles. Par exemple, ~A~ signifie Aluminium.^^Vous pouvez toujours cliquer sur la mini carte pour amener la mise au point de la vue de la ville sur un site de ressources, où vous pourrez voir les détails du site de ressources en passant votre souris dessus. 
+Les lettres sur la mini carte indiquent les types de ressources naturelles disponibles. Par exemple, ~A~ signifie Aluminium.^^Vous pouvez toujours cliquer sur la mini carte pour amener la mise au point de la vue de la ville sur un site de ressources, où vous pourrez voir les détails du site de ressources en passant votre souris dessus.
 
 [POS]
 Text Box=300,280,400,0
@@ -153,7 +153,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Lorsque vous avez trouvé un site de ressources naturelles que vous avez l'intention d'acheter, vous pouvez choisir ~Mine~ dans le menu de construction et construire une mine sur le site de ressources. 
+Lorsque vous avez trouvé un site de ressources naturelles que vous avez l'intention d'acheter, vous pouvez choisir ~Mine~ dans le menu de construction et construire une mine sur le site de ressources.
 
 [POS]
 Text Box=300,280,400,0
@@ -162,7 +162,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Outre les mines, vous pouvez également construire des ~puits de pétrole~ pour l'extraction du ~pétrole brut~ (représenté par la lettre ~O~ sur la mini-carte), et des ~camps d'enregistrement~ pour le traitement du ~bois~ (représenté par la lettre ~T~ sur la mini-carte). 
+Outre les mines, vous pouvez également construire des ~puits de pétrole~ pour l'extraction du ~pétrole brut~ (représenté par la lettre ~O~ sur la mini-carte), et des ~camps d'enregistrement~ pour le traitement du ~bois~ (représenté par la lettre ~T~ sur la mini-carte).
 
 [POS]
 Text Box=300,280,400,0
@@ -171,7 +171,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Comme vous l'avez vu tout au long de la série de tutoriels, il y a de nombreuses façons possibles de développer votre entreprise. Devenir producteur de ressources naturelles par ses propres moyens pour renforcer sa chaîne d'approvisionnement n'est que l'une d'entre elles. 
+Comme vous l'avez vu tout au long de la série de tutoriels, il y a de nombreuses façons possibles de développer votre entreprise. Devenir producteur de ressources naturelles par ses propres moyens pour renforcer sa chaîne d'approvisionnement n'est que l'une d'entre elles.
 
 [POS]
 Text Box=300,280,400,0
@@ -180,7 +180,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Maintenant, la série de tutoriels est terminée.^^Vous avez fait un travail magnifique en élargissant vos connaissances et en affinant vos compétences commerciales tout en suivant les tutoriels ! 
+Maintenant, la série de tutoriels est terminée.^^Vous avez fait un travail magnifique en élargissant vos connaissances et en affinant vos compétences commerciales tout en suivant les tutoriels !
 
 [POS]
 Text Box=300,280,400,0

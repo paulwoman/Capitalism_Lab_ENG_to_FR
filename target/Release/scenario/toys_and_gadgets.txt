@@ -1,12 +1,12 @@
 [HEADER]
-Title=Jouets et gadgets 
-Description=Vous commencez par une expertise dans l'industrie du jouet et votre objectif est de vous étendre sur les nouveaux marchés des gadgets électroniques et des appareils de communication personnels. 
+Title=Jouets et gadgets
+Description=Vous commencez par une expertise dans l'industrie du jouet et votre objectif est de vous étendre sur les nouveaux marchés des gadgets électroniques et des appareils de communication personnels.
 Difficulty Rating=120
 
 [ENVIRONMENT]
 Number of Cities=4
 Your Start-up Capital=High
-Random Events=Occasional 
+Random Events=Occasional
 Game Starting Year=1990
 Retail Store Type=Many
 Technology Disruption=On
@@ -17,37 +17,37 @@ Inflation=Inverse
 Inflation Strength=Normal
 
 [CITIES]
-City=London 
+City=London
 City=Shanghai
 City=San Francisco
 City=Vancouver
 
 [COMPETITORS]
 Number of Competitors=20
-Competitor Start-up Capital=Moderate  
-Competitor Aggressiveness=Moderate  
+Competitor Start-up Capital=Moderate
+Competitor Aggressiveness=Moderate
 Competitor Expertise Level=Moderate
 Show Competitor Trade Secrets=Yes
 AI Friendly Merger=No
-Competence of Local Competitors=Moderate 
+Competence of Local Competitors=Moderate
 
 [IMPORTS]
 Consumer Goods Seaports=2
 Industrial Goods Seaports=2
 Constant Import Supply=No
-Import Quality=Moderate 
+Import Quality=Moderate
 
-[PLAYER EXPERTISE] 
+[PLAYER EXPERTISE]
 Retailing=50
 Product Expertise=Toy, 100
 
 //-------------------------------------------------------------------//
 
 [SUBGOAL]
-Goal Title=Position dominante dans le secteur du jouet 
-Goal Description=Votre objectif est de tirer parti de votre expertise en matière de conception et de production de jouets et de devenir le leader du marché dans l'industrie du jouet.  
+Goal Title=Position dominante dans le secteur du jouet
+Goal Description=Votre objectif est de tirer parti de votre expertise en matière de conception et de production de jouets et de devenir le leader du marché dans l'industrie du jouet.
 
-Goal Achieved Text=Félicitations ! Votre société a atteint une position dominante dans l'industrie du jouet. Votre prochaine étape consiste à vous développer sur de nouveaux marchés, en vous orientant vers les produits électroniques et de communication. 
+Goal Achieved Text=Félicitations ! Votre société a atteint une position dominante dans l'industrie du jouet. Votre prochaine étape consiste à vous développer sur de nouveaux marchés, en vous orientant vers les produits électroniques et de communication.
 
 [SUBGOAL VALUES]
 Player Company Annual Revenue=50
@@ -56,7 +56,7 @@ Player Company Annual Profit=10
 [SUBGOAL PRODUCTS]
 Toy
 
-[SUBGOAL REWARDS] 
+[SUBGOAL REWARDS]
 Score change=100
 Player expertise change=research and development, 20
 Tech Change=Television, 50
@@ -68,9 +68,9 @@ Instant Invention=Camera Phone
 Goal Title=Pénétrer de nouveaux marchés
 Goal Description=Votre objectif est d'obtenir une position dominante sur les marchés des produits électroniques et des dispositifs de communication.
 
-Goal Achieved Text=Bon travail ! Vous avez prouvé vos capacités à pénétrer de nouveaux marchés et à battre la concurrence pour devenir de nouveaux leaders du marché. 
+Goal Achieved Text=Bon travail ! Vous avez prouvé vos capacités à pénétrer de nouveaux marchés et à battre la concurrence pour devenir de nouveaux leaders du marché.
 
-Parent Goal=Position dominante dans le secteur du jouet 
+Parent Goal=Position dominante dans le secteur du jouet
 
 [SUBGOAL VALUES]
 Player Company Annual Revenue=200
@@ -78,38 +78,38 @@ Player Company Annual Profit=30
 
 [SUBGOAL PRODUCTS]
 Electronic Products
-Communication Devices 
+Communication Devices
 
-[SUBGOAL REWARDS] 
+[SUBGOAL REWARDS]
 Score change=150
 Personal Cash Change=5
 
 //-------------------------------------------------------------------//
 
 [SUBGOAL]
-Goal Title=Objectif de recettes substantielles 
+Goal Title=Objectif de recettes substantielles
 Goal Description=Votre objectif est de continuer à développer votre entreprise pour atteindre un chiffre d'affaires annuel de 2 milliards de dollars !
 
-Goal Achieved Text=Magnifique ! Votre entreprise a réussi à dépasser les 2 milliards de dollars de chiffre d'affaires annuel. 
+Goal Achieved Text=Magnifique ! Votre entreprise a réussi à dépasser les 2 milliards de dollars de chiffre d'affaires annuel.
 
 Parent Goal=Pénétrer de nouveaux marchés
 
 [SUBGOAL VALUES]
 Controlled Companies Annual Revenue=2000
 
-[SUBGOAL REWARDS] 
+[SUBGOAL REWARDS]
 Score change=200
 Personal Cash Change=10
 
 //-------------------------------------------------------------------//
 
 [MAIN GOAL]
-Goal Title=Magnat du gadget 
-Goal Description=C'est votre objectif final. Pour gagner la partie, vous devez posséder au moins 80 % des actions de votre société tout en gardant tous les objectifs précédents atteints. 
+Goal Title=Magnat du gadget
+Goal Description=C'est votre objectif final. Pour gagner la partie, vous devez posséder au moins 80 % des actions de votre société tout en gardant tous les objectifs précédents atteints.
 
 Number of Game Years=20
 
-Parent Goal=Objectif de recettes substantielles 
+Parent Goal=Objectif de recettes substantielles
 
 [MAIN GOAL VALUES]
 Controlled Companies Annual Revenue=2000
@@ -118,9 +118,9 @@ Ownership=80
 [MAIN GOAL PRODUCTS]
 Toy
 Electronic Products
-Communication Devices 
+Communication Devices
 
-[MAIN GOAL REWARDS] 
+[MAIN GOAL REWARDS]
 Score change=300
 
 //-------------------------------------------------------------------//

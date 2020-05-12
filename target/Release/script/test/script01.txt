@@ -7,8 +7,8 @@ Years of Advanced Start for AI=5, Stock Purchase Allowed
 
 [ENVIRONMENT]
 Number of Cities=3
-Your Start-up Capital=High 
-Random Events=Occasional 
+Your Start-up Capital=High
+Random Events=Occasional
 Game Starting Year=2005
 Retail Store Type=Many
 Technology Disruption=On
@@ -28,7 +28,7 @@ Real Wage Rate=35
 Consumer Goods Seaports=1
 Industrial Goods Seaports=3
 
-City=Hong Kong 
+City=Hong Kong
 
 City=My Home Town
 Globe X=380
@@ -46,7 +46,7 @@ Competitor Aggressiveness=High
 Competitor Expertise Level=Moderate
 Show Competitor Trade Secrets=Yes
 AI Friendly Merger=On
-Competence of Local Competitors=High 
+Competence of Local Competitors=High
 
 Retail Focused Companies=5
 Stock Focused Companies=2
@@ -56,9 +56,9 @@ Media Focused Companies=2
 Diversified Companies=1
 
 [IMPORTS]
-Consumer Goods Seaports=0 
+Consumer Goods Seaports=0
 Industrial Goods Seaports=0
 Constant Import Supply=No
-Import Quality=Moderate 
+Import Quality=Moderate
 
 

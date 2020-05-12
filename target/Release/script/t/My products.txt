@@ -1,17 +1,17 @@
 [HEADER]
-Title=Scénario de Capitalism Lab pour les produits 
+Title=Scénario de Capitalism Lab pour les produits
 Description=Il s'agit d'un script de test pour les produits personnalisés.
 Folder=My Products
-MOD=CAPMOD, local 
+MOD=CAPMOD, local
 
 [ENVIRONMENT]
 Number of Cities=4
-Your Start-up Capital=Moderate 
-Random Events=Occasional 
+Your Start-up Capital=Moderate
+Random Events=Occasional
 Game Starting Year=1990
 Retail Store Type=Many
 Technology Disruption=On
-Macro Economy Realism=High 
+Macro Economy Realism=High
 Inflation=Inverse
 Inflation Strength=Normal
 
@@ -27,7 +27,7 @@ Competence of Local Competitors=Moderate
 Consumer Goods Seaports=2
 Industrial Goods Seaports=2
 Constant Import Supply=No
-Import Quality=Moderate 
+Import Quality=Moderate
 
 [PRODUCTS]
 Sweater=iBlouseW001, 31

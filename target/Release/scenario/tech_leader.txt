@@ -5,8 +5,8 @@ Difficulty Rating=130
 
 [ENVIRONMENT]
 Number of Cities=5
-Your Start-up Capital=Very High 
-Random Events=Occasional 
+Your Start-up Capital=Very High
+Random Events=Occasional
 Game Starting Year=1990
 Retail Store Type=Many
 Technology Disruption=On
@@ -18,22 +18,22 @@ Inflation Strength=Normal
 
 [COMPETITORS]
 Number of Competitors=20
-Competitor Start-up Capital=Moderate  
-Competitor Aggressiveness=Moderate  
+Competitor Start-up Capital=Moderate
+Competitor Aggressiveness=Moderate
 Competitor Expertise Level=Moderate
 Show Competitor Trade Secrets=Yes
 AI Friendly Merger=No
-Competence of Local Competitors=Moderate 
+Competence of Local Competitors=Moderate
 
 
 [IMPORTS]
 Consumer Goods Seaports=2
 Industrial Goods Seaports=2
 Constant Import Supply=No
-Import Quality=Moderate 
+Import Quality=Moderate
 
 
-[PLAYER EXPERTISE] 
+[PLAYER EXPERTISE]
 Product Expertise=Computer, 100
 
 //-------------------------------------------------------------------//
@@ -42,7 +42,7 @@ Product Expertise=Computer, 100
 Goal Title=Leadership technologique
 Goal Description=Votre objectif est de devenir le plus grand producteur d'ordinateurs et de maintenir une avance significative sur vos concurrents en matière de technologie de production informatique. Vous atteignez cet objectif lorsque votre niveau de technologie de production pour les ordinateurs de bureau et les ordinateurs portables est supérieur d'au moins 100 points à celui de votre concurrent le plus proche.
 
-Goal Achieved Text=Remarquable ! Vos investisseurs ont décidé d'investir 50 millions de dollars supplémentaires dans votre ordinateur pour l'étendre aux appareils de communication personnels. 
+Goal Achieved Text=Remarquable ! Vos investisseurs ont décidé d'investir 50 millions de dollars supplémentaires dans votre ordinateur pour l'étendre aux appareils de communication personnels.
 
 [SUBGOAL VALUES]
 Player Company Annual Revenue=200
@@ -54,7 +54,7 @@ Tech lead=Notebook Computer, 100
 [SUBGOAL PRODUCTS]
 Computer
 
-[SUBGOAL REWARDS] 
+[SUBGOAL REWARDS]
 Score change=50
 Corporate Cash Change=50
 
@@ -64,7 +64,7 @@ Corporate Cash Change=50
 Goal Title=Opportunité en matière de haute technologie
 Goal Description=Ayant identifié les grandes possibilités offertes par les appareils de communication personnelle, vous prenez des mesures énergiques dans le but d'étendre votre domination à ce nouveau marché.<  Vous atteignez cet objectif lorsque vos niveaux de technologie de production pour les smartphones et les lunettes HUB sont supérieurs d'au moins 100 points à ceux de votre concurrent le plus proche.
 
-Goal Achieved Text=Félicitations ! Vous avez remporté la victoire dans la course pour devenir le leader du marché des appareils de communication personnelle. 
+Goal Achieved Text=Félicitations ! Vous avez remporté la victoire dans la course pour devenir le leader du marché des appareils de communication personnelle.
 
 Parent Goal=Leadership technologique
 
@@ -76,17 +76,17 @@ Tech lead=Smart Phone, 100
 Tech lead=HUD Glasses, 100
 
 [SUBGOAL PRODUCTS]
-Communication Devices 
+Communication Devices
 
-[SUBGOAL REWARDS] 
+[SUBGOAL REWARDS]
 Score change=150
 
 
 //-------------------------------------------------------------------//
 
 [MAIN GOAL]
-Goal Title=Géant de la technologie 
-Goal Description=Vous ne ralentissez jamais dans l'expansion de votre entreprise et vous visez maintenant à devenir un géant technologique avec une présence sur le marché et des revenus substantiels. 
+Goal Title=Géant de la technologie
+Goal Description=Vous ne ralentissez jamais dans l'expansion de votre entreprise et vous visez maintenant à devenir un géant technologique avec une présence sur le marché et des revenus substantiels.
 
 Parent Goal=Opportunité en matière de haute technologie
 
@@ -98,9 +98,9 @@ Player Company Annual Profit=150
 
 [MAIN GOAL PRODUCTS]
 Computer
-Communication Devices 
+Communication Devices
 
-[MAIN GOAL REWARDS] 
+[MAIN GOAL REWARDS]
 Score change=200
 
 //-------------------------------------------------------------------//

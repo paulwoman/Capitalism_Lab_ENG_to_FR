@@ -1,5 +1,5 @@
 [TEXT]
-NIL 
+NIL
 
 [ACTION]
 Hide=Preview
@@ -7,7 +7,7 @@ Hide=Preview
 //-------------------------------------------------------------------//
 
 [TEXT]
-Dans ce tutoriel, vous serez initié au marché boursier et apprendrez comment en tirer parti pour répondre aux besoins financiers de votre société. 
+Dans ce tutoriel, vous serez initié au marché boursier et apprendrez comment en tirer parti pour répondre aux besoins financiers de votre société.
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -21,7 +21,7 @@ Examinons maintenant l'état actuel du marché boursier. Ouvrez à présent le ~
 [POS]
 Extend Text Box=36,600,500,0
 Pointer=156,6,183,30
-Window=Bottom Toolbar 
+Window=Bottom Toolbar
 
 //-------------------------------------------------------------------//
 
@@ -29,13 +29,13 @@ Window=Bottom Toolbar
 Cliquez sur ~Bourse~.
 
 [POS]
-Text Box=100,528,200,0 
+Text Box=100,528,200,0
 Pointer=36,494,148,508
 
 //-------------------------------------------------------------------//
 
 [TEXT]
-La zone supérieure indique les entreprises publiques actuellement cotées en bourse. Votre société est la première sur la liste. 
+La zone supérieure indique les entreprises publiques actuellement cotées en bourse. Votre société est la première sur la liste.
 
 [POS]
 Text Box=200,300,500,0
@@ -45,7 +45,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-La zone ci-dessous indique les actionnaires de la société publique sélectionnée. Vous détenez 50 % des actions de votre société et le reste des actions est détenu par des actionnaires publics, des personnes et des sociétés gérées par l'ordinateur. 
+La zone ci-dessous indique les actionnaires de la société publique sélectionnée. Vous détenez 50 % des actions de votre société et le reste des actions est détenu par des actionnaires publics, des personnes et des sociétés gérées par l'ordinateur.
 
 [POS]
 Text Box=200,485,500,0
@@ -73,7 +73,7 @@ Pointer=37,466,151,477
 //-------------------------------------------------------------------//
 
 [TEXT]
-Sélectionnez maintenant ~Emettre de nouvelles actions au public~. 
+Sélectionnez maintenant ~Emettre de nouvelles actions au public~.
 
 [POS]
 Text Box=426,124,350,0
@@ -92,7 +92,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Définissez maintenant le ~nombre de nouvelles actions~ que vous souhaitez émettre, et cliquez sur le bouton ~émettre maintenant~ pour émettre de nouvelles actions afin de collecter des fonds. En règle générale, plus la quantité de nouvelles actions que vous souhaitez émettre est importante, plus la réduction du prix des actions que vous devez offrir est importante, afin d'attirer suffisamment d'investisseurs pour souscrire les nouvelles actions.  
+Définissez maintenant le ~nombre de nouvelles actions~ que vous souhaitez émettre, et cliquez sur le bouton ~émettre maintenant~ pour émettre de nouvelles actions afin de collecter des fonds. En règle générale, plus la quantité de nouvelles actions que vous souhaitez émettre est importante, plus la réduction du prix des actions que vous devez offrir est importante, afin d'attirer suffisamment d'investisseurs pour souscrire les nouvelles actions.
 
 [POS]
 Text Box=200,10,500,0
@@ -112,10 +112,10 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Retournez maintenant à la bourse pour consulter vos derniers avoirs en actions. Cette fois, utilisons la touche de raccourci ~F4~ pour aller à la Bourse. 
+Retournez maintenant à la bourse pour consulter vos derniers avoirs en actions. Cette fois, utilisons la touche de raccourci ~F4~ pour aller à la Bourse.
 
 [POS]
-Text Box=200,510,500,0 
+Text Box=200,510,500,0
 
 [CONDITION]
 Active Interface=Stock Exchange
@@ -123,7 +123,7 @@ Active Interface=Stock Exchange
 //-------------------------------------------------------------------//
 
 [TEXT]
-La section ~Détails sur la propriété~ montre que vous ne possédez plus que moins de 50 % de votre société et que le reste est détenu par des ~actionnaires publics~, des personnes et des sociétés d'IA. 
+La section ~Détails sur la propriété~ montre que vous ne possédez plus que moins de 50 % de votre société et que le reste est détenu par des ~actionnaires publics~, des personnes et des sociétés d'IA.
 Les actions flottantes peuvent être achetées au prix de l'action par toute société ou tout investisseur individuel.
 
 [POS]
@@ -143,7 +143,7 @@ Next Arrow=Yes
 
 [ACTION]
 Game speed=0
-// to the stock price from fluctuating and displaying the Not Enough Cash message in a popup window 
+// to the stock price from fluctuating and displaying the Not Enough Cash message in a popup window
 
 //-------------------------------------------------------------------//
 
@@ -152,16 +152,16 @@ Cela montre que vous disposez actuellement d'un million de dollars personnelleme
 
 [POS]
 Text Box=300,280,400,0
-Pointer=180,472,312,486 
+Pointer=180,472,312,486
 
 [ACTION]
 Game speed=0
-// to the stock price from fluctuating and displaying the Not Enough Cash message in a popup window 
+// to the stock price from fluctuating and displaying the Not Enough Cash message in a popup window
 
 //-------------------------------------------------------------------//
 
 [TEXT]
-Regardez maintenant la ~section Achat/Vente d'actions~ ci-dessous.En utilisant cette interface, vous pouvez acheter jusqu'à 5 % du nombre total d'actions d'une société cotée en bourse en une seule transaction, tant que vous disposez de l'argent nécessaire. 
+Regardez maintenant la ~section Achat/Vente d'actions~ ci-dessous.En utilisant cette interface, vous pouvez acheter jusqu'à 5 % du nombre total d'actions d'une société cotée en bourse en une seule transaction, tant que vous disposez de l'argent nécessaire.
 
 [POS]
 Text Box=300,280,400,0
@@ -170,12 +170,12 @@ Next Arrow=Yes
 
 [ACTION]
 Game speed=0
-// to the stock price from fluctuating and displaying the Not Enough Cash message in a popup window 
+// to the stock price from fluctuating and displaying the Not Enough Cash message in a popup window
 
 //-------------------------------------------------------------------//
 
 [TEXT]
-En résumé, pour acheter des actions, vous devez:^1) Sélectionner l'action que vous voulez acheter.^^2) Choisir si votre société ou vous-même en tant que particulier allez acheter l'action.^^3) Fixer le montant de l'achat.^^4) Cliquer sur le bouton ~Acheter~. 
+En résumé, pour acheter des actions, vous devez:^1) Sélectionner l'action que vous voulez acheter.^^2) Choisir si votre société ou vous-même en tant que particulier allez acheter l'action.^^3) Fixer le montant de l'achat.^^4) Cliquer sur le bouton ~Acheter~.
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -183,13 +183,13 @@ Next Arrow=Yes
 
 [ACTION]
 Game speed=0
-// to the stock price from fluctuating and displaying the Not Enough Cash message in a popup window 
+// to the stock price from fluctuating and displaying the Not Enough Cash message in a popup window
 
 
 //-------------------------------------------------------------------//
 
 [TEXT]
-En tant que particulier, vous pouvez soit acheter des actions de votre propre société, soit investir dans d'autres sociétés. Actuellement, votre société est sélectionnée sur la liste des actions située en haut de l'écran, et vous pouvez maintenant cliquer sur le bouton ~Acheter~ pour acheter ses actions. 
+En tant que particulier, vous pouvez soit acheter des actions de votre propre société, soit investir dans d'autres sociétés. Actuellement, votre société est sélectionnée sur la liste des actions située en haut de l'écran, et vous pouvez maintenant cliquer sur le bouton ~Acheter~ pour acheter ses actions.
 
 [POS]
 Text Box=300,280,400,0
@@ -198,7 +198,7 @@ Pointer=709,483,744,501
 //-------------------------------------------------------------------//
 
 [TEXT]
-Excellent ! Vous venez d'utiliser votre argent personnel inactif pour augmenter votre participation dans votre société. Ce serait un excellent investissement à long terme. 
+Excellent ! Vous venez d'utiliser votre argent personnel inactif pour augmenter votre participation dans votre société. Ce serait un excellent investissement à long terme.
 
 [POS]
 Text Box=300,280,400,0
@@ -210,7 +210,7 @@ Game speed=3
 //-------------------------------------------------------------------//
 
 [TEXT]
-Vous vous demandez peut-être comment vous pouvez acheter des actions d'autres sociétés. Eh bien, cela suit exactement le même principe.^^Sélectionnons le deuxième titre de la liste et examinons de plus près ses données financières. 
+Vous vous demandez peut-être comment vous pouvez acheter des actions d'autres sociétés. Eh bien, cela suit exactement le même principe.^^Sélectionnons le deuxième titre de la liste et examinons de plus près ses données financières.
 
 [POS]
 Text Box=300,280,400,0
@@ -219,7 +219,7 @@ Pointer=170,96,471,106
 //-------------------------------------------------------------------//
 
 [TEXT]
-Choisir les bons titres à investir est une compétence qui prend du temps à développer. Tout d'abord, vous devrez apprendre à lire les données financières d'une entreprise, qui sont affichées en haut à droite de l'écran de la Bourse. 
+Choisir les bons titres à investir est une compétence qui prend du temps à développer. Tout d'abord, vous devrez apprendre à lire les données financières d'une entreprise, qui sont affichées en haut à droite de l'écran de la Bourse.
 
 [POS]
 Text Box=300,280,400,0
@@ -229,7 +229,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Sous les chiffres du ~prix de l'action~ et du ~nombre total d'actions~, vous verrez la ~Capitalisation boursière~, ou la capitalisation boursière d'une société, qui est égale au ~prix de l'action~ multiplié par le ~nombre total d'actions en circulation~. En d'autres termes, il s'agit de la valeur marchande totale d'une société sur le marché boursier. 
+Sous les chiffres du ~prix de l'action~ et du ~nombre total d'actions~, vous verrez la ~Capitalisation boursière~, ou la capitalisation boursière d'une société, qui est égale au ~prix de l'action~ multiplié par le ~nombre total d'actions en circulation~. En d'autres termes, il s'agit de la valeur marchande totale d'une société sur le marché boursier.
 
 [POS]
 Text Box=300,280,400,0
@@ -239,7 +239,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-~Le bénéfice par action~ est le bénéfice d'exploitation d'une société au cours des 365 derniers jours divisé par le ~nombre total d'actions en circulation~. Lorsqu'une société émet de nouvelles actions, le ~bénéfice par action~ sera dilué car le bénéfice de la société sera divisé par un plus grand nombre d'actions. 
+~Le bénéfice par action~ est le bénéfice d'exploitation d'une société au cours des 365 derniers jours divisé par le ~nombre total d'actions en circulation~. Lorsqu'une société émet de nouvelles actions, le ~bénéfice par action~ sera dilué car le bénéfice de la société sera divisé par un plus grand nombre d'actions.
 
 [POS]
 Text Box=300,280,400,0
@@ -258,7 +258,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Le cours des actions de votre entreprise ne peut augmenter à long terme que si son ~Bénéfice par action~ augmente également.^^Ainsi, pour le financement que vous avez levé avec l'émission de nouvelles actions, vous devriez les utiliser pour investir dans de nouvelles activités afin de générer plus de profits pour vos actionnaires. 
+Le cours des actions de votre entreprise ne peut augmenter à long terme que si son ~Bénéfice par action~ augmente également.^^Ainsi, pour le financement que vous avez levé avec l'émission de nouvelles actions, vous devriez les utiliser pour investir dans de nouvelles activités afin de générer plus de profits pour vos actionnaires.
 
 [POS]
 Text Box=300,280,400,0
@@ -267,7 +267,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Le ~ratio C/B~, ou ~ratio cours/bénéfices~, est un multiple d'évaluation des actions, défini comme ~le cours de l'action~ divisé par ~le bénéfice par action~. ^^Un ratio C/B élevé signifie généralement que l'action est chère car les gens achètent à des prix élevés pour acheter l'action, peut-être en raison de la confiance des investisseurs dans les perspectives de croissance de l'entreprise. 
+Le ~ratio C/B~, ou ~ratio cours/bénéfices~, est un multiple d'évaluation des actions, défini comme ~le cours de l'action~ divisé par ~le bénéfice par action~. ^^Un ratio C/B élevé signifie généralement que l'action est chère car les gens achètent à des prix élevés pour acheter l'action, peut-être en raison de la confiance des investisseurs dans les perspectives de croissance de l'entreprise.
 
 [POS]
 Text Box=300,280,400,0
@@ -277,7 +277,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Si vous trouvez tout cela un peu accablant, ne vous inquiétez pas car vous n'êtes pas obligé de maîtriser l'analyse boursière pour apprécier votre jeu CapitalismLab.^^Vous pouvez choisir d'apprendre et de pratiquer l'investissement boursier au rythme que vous préférez dans les parties suivantes. Pour l'instant, vous avez déjà fait un assez bon travail de compréhension des bases. 
+Si vous trouvez tout cela un peu accablant, ne vous inquiétez pas car vous n'êtes pas obligé de maîtriser l'analyse boursière pour apprécier votre jeu CapitalismLab.^^Vous pouvez choisir d'apprendre et de pratiquer l'investissement boursier au rythme que vous préférez dans les parties suivantes. Pour l'instant, vous avez déjà fait un assez bon travail de compréhension des bases.
  
 [POS]
 Text Box=300,280,400,0
@@ -297,7 +297,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Outre l'achat d'actions à titre individuel, vous pouvez également acheter des actions au nom de votre entreprise. Sélectionnez votre entreprise dans la section ~Qui~. 
+Outre l'achat d'actions à titre individuel, vous pouvez également acheter des actions au nom de votre entreprise. Sélectionnez votre entreprise dans la section ~Qui~.
 
 [POS]
 Text Box=300,280,400,0
@@ -306,7 +306,7 @@ Pointer=175,498,323,509
 //-------------------------------------------------------------------//
 
 [TEXT]
-Vous pouvez maintenant utiliser l'argent de votre société pour acheter des actions d'autres sociétés cotées en bourse à titre d'investissement.^^ Pour ce faire, il suffit de sélectionner une société dans la liste en haut de l'écran, puis de cliquer sur le bouton ~Acheter~ pour acheter ses actions. 
+Vous pouvez maintenant utiliser l'argent de votre société pour acheter des actions d'autres sociétés cotées en bourse à titre d'investissement.^^ Pour ce faire, il suffit de sélectionner une société dans la liste en haut de l'écran, puis de cliquer sur le bouton ~Acheter~ pour acheter ses actions.
 
 [POS]
 Text Box=300,280,400,0
@@ -317,7 +317,7 @@ Bought other company stock=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Très bien ! À partir de ce moment, vous devez garder un œil sur les performances de l'action, car les variations de son cours affecteront également le bilan de votre entreprise. 
+Très bien ! À partir de ce moment, vous devez garder un œil sur les performances de l'action, car les variations de son cours affecteront également le bilan de votre entreprise.
 
 [POS]
 Text Box=300,280,400,0
@@ -382,7 +382,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Vous avez fait un excellent travail pour vous familiariser avec le marché boursier ! Il est à présent temps pour vous d'utiliser les fonds récemment levés pour développer votre empire commercial. 
+Vous avez fait un excellent travail pour vous familiariser avec le marché boursier ! Il est à présent temps pour vous d'utiliser les fonds récemment levés pour développer votre empire commercial.
 
 [POS]
 Text Box=300,280,400,0

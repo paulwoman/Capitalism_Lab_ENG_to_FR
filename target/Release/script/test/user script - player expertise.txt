@@ -1,12 +1,12 @@
 [HEADER]
-Title=Custom Script
-Description=None
+Title=Script personnalisé
+Description=Aucun
 
 [ENVIRONMENT]
 Number of Cities=10
 Your Start-up Capital=Very High
 Random Events=Never
-Game Starting Year=1900 
+Game Starting Year=1900
 Retail Store Type=Many
 Technology Disruption=No
 Stock Market=Yes
@@ -17,7 +17,7 @@ Inflation Strength=Reduced
 Number of AI Persons=50
 
 [COMPETITORS]
-Number of Competitors=20 
+Number of Competitors=20
 Competitor Start-up Capital=Very Low
 Competitor Aggressiveness=Very High
 Competitor Expertise Level=High

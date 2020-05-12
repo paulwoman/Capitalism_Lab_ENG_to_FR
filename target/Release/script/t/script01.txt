@@ -1,11 +1,11 @@
 [HEADER]
-Title=Exemple de script - Règles spéciales 
-Description=Ceci est un exemple de script pour Capitalism Lab, listant toutes les variables sous la section [REGLES SPECIALES]. section. 
+Title=Exemple de script - Règles spéciales
+Description=Ceci est un exemple de script pour Capitalism Lab, listant toutes les variables sous la section [REGLES SPECIALES]. section.
 Folder=Script01
 
 [SPECIAL RULES]
 //Constant Game Speed=5
 //Years of Advanced Start for AI=1, Stock Purchase Allowed
-//Auto Save Interval Days=20 
+//Auto Save Interval Days=20
 //Auto Save Interval Minutes=1
 

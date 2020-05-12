@@ -1,15 +1,15 @@
 [HEADER]
-Title=Vers une meilleure qualité de vie 
+Title=Vers une meilleure qualité de vie
 Description=Outre la croissance économique, ce que les gens attendent réellement, c'est une amélioration significative de la qualité de vie. Dans ce scénario, votre objectif est de construire deux villes à partir de zéro et d'amener toutes les villes, y compris celles qui existent déjà, à atteindre une meilleure qualité de vie qui soit durable.
 
 Difficulty Rating=120
-DLC=CityEcoSim 
+DLC=CityEcoSim
 Survival Mode=No
 
 [ENVIRONMENT]
 Number of Cities=2
-Your Start-up Capital=Very High 
-Random Events=Occasional 
+Your Start-up Capital=Very High
+Random Events=Occasional
 Game Starting Year=1990
 Retail Store Type=Many
 Technology Disruption=On
@@ -30,24 +30,24 @@ Real Wage Rate=40
 
 [COMPETITORS]
 Number of Competitors=15
-Competitor Start-up Capital=Moderate  
-Competitor Aggressiveness=Moderate  
+Competitor Start-up Capital=Moderate
+Competitor Aggressiveness=Moderate
 Competitor Expertise Level=Moderate
 Show Competitor Trade Secrets=Yes
 AI Friendly Merger=No
-Competence of Local Competitors=Moderate 
+Competence of Local Competitors=Moderate
 
 [IMPORTS]
 Consumer Goods Seaports=2
 Industrial Goods Seaports=2
 Constant Import Supply=No
-Import Quality=Moderate 
+Import Quality=Moderate
 
 
 //-------------------------------------------------------------------//
 
 [MAIN GOAL]
-Goal Title=Vers une meilleure qualité de vie 
+Goal Title=Vers une meilleure qualité de vie
 Goal Description=Outre la croissance économique, ce que les gens attendent réellement, c'est une amélioration significative de la qualité de vie. Dans ce scénario, votre objectif est de construire deux villes à partir de zéro et d'amener toutes les villes, y compris celles qui existent déjà, à atteindre une meilleure qualité de vie qui soit durable.
 
 Number of Game Years=50
@@ -55,7 +55,7 @@ Number of Game Years=50
 [MAIN GOAL VALUES]
 Number of Cities You Manage=4
 
-// nation and average ratings 
+// nation and average ratings
 National population=1700000
 Food Supply rating=100
 Goods Supply rating=90
@@ -63,35 +63,35 @@ National quality of life index=70
 City GDP per capita=10000
 
 
-[MAIN GOAL REWARDS] 
+[MAIN GOAL REWARDS]
 Score change=400
 
 //-------------------------------------------------------------------//
 
 [SUBGOAL]
-Goal Title=Performance des entreprises 
-Goal Description=Vous gagnez ce sous-objectif si vous parvenez à obtenir des résultats commerciaux impressionnants tout en travaillant à l'objectif plus vaste de la croissance des villes. 
+Goal Title=Performance des entreprises
+Goal Description=Vous gagnez ce sous-objectif si vous parvenez à obtenir des résultats commerciaux impressionnants tout en travaillant à l'objectif plus vaste de la croissance des villes.
 
-Goal Achieved Text=Félicitations ! Vous avez une fois de plus prouvé que vous avez un talent exceptionnel en tant qu'homme d'affaires. 
+Goal Achieved Text=Félicitations ! Vous avez une fois de plus prouvé que vous avez un talent exceptionnel en tant qu'homme d'affaires.
 
 [SUBGOAL VALUES]
 Player Company Annual Revenue=1500
 Player Company Annual Profit=150
 
-[SUBGOAL REWARDS] 
+[SUBGOAL REWARDS]
 Score change=180
 
 //-------------------------------------------------------------------//
 
 [SUBGOAL]
-Goal Title=Influence politique 
+Goal Title=Influence politique
 Goal Description=Votre influence politique augmente lorsque des membres de votre parti politique sont élus en tant que maires. Vous gagnez ce sous-objectif lorsque votre score d'influence politique a atteint l'objectif fixé. (Pour voir votre score d'influence politique, appuyez sur F7 pour ouvrir le rapport Score).
 
-Goal Achieved Text=Félicitations ! Votre influence politique a atteint de nouveaux sommets. 
+Goal Achieved Text=Félicitations ! Votre influence politique a atteint de nouveaux sommets.
 
 
 [SUBGOAL VALUES]
 Influence Score=250
 
-[SUBGOAL REWARDS] 
+[SUBGOAL REWARDS]
 Score change=180

@@ -4,8 +4,8 @@ Description=C'est un script de test
 
 [ENVIRONMENT]
 Number of Cities=5
-Your Start-up Capital=Moderate 
-Random Events=Occasional 
+Your Start-up Capital=Moderate
+Random Events=Occasional
 Game Starting Year=1990
 Retail Store Type=Many
 Technology Disruption=On
@@ -19,7 +19,7 @@ Competitor Start-up Capital=High
 Competitor Aggressiveness=High
 Competitor Expertise Level=Moderate
 Show Competitor Trade Secrets=Yes
-Competence of Local Competitors=High 
+Competence of Local Competitors=High
 
 Diversified Companies=10
 
@@ -32,7 +32,7 @@ AI Product Expertise=Computer,5
 Consumer Goods Seaports=2
 Industrial Goods Seaports=2
 Constant Import Supply=No
-Import Quality=Moderate 
+Import Quality=Moderate
 
 [SPECIAL RULES]
 Tech Cost Modifier=50
@@ -44,7 +44,7 @@ City Competitiveness Effect on R&D Modifier=200
 //-------------------------------------------------------------------
 
 [MAIN GOAL]
-Goal Title=Objectif principal 
+Goal Title=Objectif principal
 Goal Description=C'est votre objectif principal. Capitalism Lab est une extension de Capitalism 2 avec une foule de nouvelles fonctionnalités et d'améliorations, pour les utilisateurs expérimentés de Capitalism 2. Si vous êtes nouveau dans la série Capitalisme, il vous est recommandé de mettre la main sur Capitalisme 2 d'abord, qui contient des tutoriels bien conçus pour l'apprentissage du jeu. Vous pouvez consulter le site web de Capitalisme 2 à l'adresse www.capitalism2.com
 
 Number of Game Years=50
@@ -60,7 +60,7 @@ Player Company Market Cap=120
 Controlled Companies Annual Revenue=500
 Controlled Companies Annual Profit=50
 Controlled Companies Net Worth=160
-Controlled Companies Market Cap=250 
+Controlled Companies Market Cap=250
 
 Number of Controlled Companies=2
 
@@ -76,27 +76,27 @@ Number of Product Types Being Produced=10
 Retail
 Manufacturing
 Farming
-Raw Material Production 
-Real Estate 
-Media 
+Raw Material Production
+Real Estate
+Media
 
 [MAIN GOAL PRODUCTS]
 Beverage
 Computer
 Snacks
 
-[MAIN GOAL REWARDS] 
+[MAIN GOAL REWARDS]
 Score change=50
 Corporate Cash change=5000000
 Player expertise change=retail, 5
-COO expertise change=farming, 15 
+COO expertise change=farming, 15
 CTO expertise change=research and development, 16
 CMO expertise change=marketing, 18
 
 //-------------------------------------------------------------------
 
 [SUBGOAL]
-Goal Title=Premier sous-objectif 
+Goal Title=Premier sous-objectif
 Goal Description=C'est votre premier sous-objectif. Capitalism Lab est une extension de Capitalism 2 avec une foule de nouvelles fonctionnalités et d'améliorations, pour les utilisateurs expérimentés de Capitalism 2. Si vous êtes nouveau dans la série Capitalisme, il vous est recommandé de mettre la main sur Capitalisme 2 d'abord, qui contient des tutoriels bien conçus pour l'apprentissage du jeu. Vous pouvez consulter le site web de Capitalisme 2 à l'adresse www.capitalism2.com
 
 Goal Available Date=1990-02-02
@@ -113,7 +113,7 @@ Player Company Market Cap=60
 Controlled Companies Annual Revenue=250
 Controlled Companies Annual Profit=25
 Controlled Companies Net Worth=80
-Controlled Companies Market Cap=125 
+Controlled Companies Market Cap=125
 
 Number of Controlled Companies=5
 
@@ -126,20 +126,20 @@ Number of Product Classes Being Produced=2
 Number of Product Types Being Produced=15
 
 [SUBGOAL INDUSTRIES]
-Manufacturing 
+Manufacturing
 
 [SUBGOAL PRODUCTS]
 Apparel
-Computer 
+Computer
 Drugs
 
-[SUBGOAL REWARDS] 
+[SUBGOAL REWARDS]
 Score change=10
 Personal cash change=1000000
 Player expertise change=retail, 10
-COO expertise change=farming, 12 
+COO expertise change=farming, 12
 
-[SUBGOAL PENALTIES] 
+[SUBGOAL PENALTIES]
 Score change=-10
 Personal cash change=-1000000
 COO salary modifier=60

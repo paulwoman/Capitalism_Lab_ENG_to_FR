@@ -7,7 +7,7 @@ Difficulty Rating=110
 [ENVIRONMENT]
 Number of Cities=5
 Your Start-up Capital=High
-Random Events=Occasional 
+Random Events=Occasional
 Game Starting Year=1990
 Retail Store Type=Many
 Technology Disruption=On
@@ -26,18 +26,18 @@ City=New York City
 
 [COMPETITORS]
 Number of Competitors=20
-Competitor Start-up Capital=Moderate  
-Competitor Aggressiveness=Moderate  
+Competitor Start-up Capital=Moderate
+Competitor Aggressiveness=Moderate
 Competitor Expertise Level=Moderate
 Show Competitor Trade Secrets=Yes
 AI Friendly Merger=No
-Competence of Local Competitors=Moderate 
+Competence of Local Competitors=Moderate
 
 [IMPORTS]
 Consumer Goods Seaports=2
 Industrial Goods Seaports=2
 Constant Import Supply=No
-Import Quality=Moderate 
+Import Quality=Moderate
 
 [LOCKS]
 Firm, Logging Camp
@@ -57,7 +57,7 @@ Firm, Sports Facilities
 
 [MAIN GOAL]
 Goal Title=Saisir les opportunités
-Goal Description=Saisissez les opportunités qui se présentent lors de l'ouverture de la Chine et développez votre entreprise pour devenir une force dominante sur le marché. 
+Goal Description=Saisissez les opportunités qui se présentent lors de l'ouverture de la Chine et développez votre entreprise pour devenir une force dominante sur le marché.
 
 Number of Game Years=50
 
@@ -66,25 +66,25 @@ Player Company Net Worth=250
 Player Company Annual Revenue=300
 
 [MAIN GOAL INDUSTRIES]
-Retail 
-Manufacturing 
+Retail
+Manufacturing
 
-[MAIN GOAL REWARDS] 
+[MAIN GOAL REWARDS]
 Score change=200
 
 
 //-------------------------------------------------------------------//
 
 [SUBGOAL]
-Goal Title=Entreprises en amont 
-Goal Description=Pour obtenir l'autorisation d'investir dans le secteur des ressources naturelles, votre entreprise doit avoir une valeur nette d'au moins 150 millions de dollars et un chiffre d'affaires annuel de 200 millions de dollars. 
-Goal Achieved Text=Félicitations ! Vous pouvez désormais créer des entreprises de ressources naturelles. 
+Goal Title=Entreprises en amont
+Goal Description=Pour obtenir l'autorisation d'investir dans le secteur des ressources naturelles, votre entreprise doit avoir une valeur nette d'au moins 150 millions de dollars et un chiffre d'affaires annuel de 200 millions de dollars.
+Goal Achieved Text=Félicitations ! Vous pouvez désormais créer des entreprises de ressources naturelles.
 
 [SUBGOAL VALUES]
 Player Company Net Worth=150
 Player Company Annual Revenue=200
 
-[SUBGOAL REWARDS] 
+[SUBGOAL REWARDS]
 Unlock Firm=Logging Camp
 Unlock Firm=Mine
 Unlock Firm=Oil Well

@@ -1,6 +1,6 @@
 [HEADER]
 Title=7. Recherche et développement
-Description=Pour rester compétitif sur un marché en évolution permanente, vous devez constamment investir dans l'amélioration de la qualité de vos produits.^^Dans ce tutoriel, vous allez créer un centre de recherche et développement (R&D) et lancer des projets de R&D pour inventer une technologie plus avancée pour vos produits.^^La concurrence sera féroce, mais votre investissement en R&D devrait porter ses fruits et vous donner un avantage concurrentiel sur vos concurrents. 
+Description=Pour rester compétitif sur un marché en évolution permanente, vous devez constamment investir dans l'amélioration de la qualité de vos produits.^^Dans ce tutoriel, vous allez créer un centre de recherche et développement (R&D) et lancer des projets de R&D pour inventer une technologie plus avancée pour vos produits.^^La concurrence sera féroce, mais votre investissement en R&D devrait porter ses fruits et vous donner un avantage concurrentiel sur vos concurrents.
 
 //------------------------------------------------------------------------------------------------//
 
@@ -15,7 +15,7 @@ Random Events=Never
 
 Game Starting Year=1900
 // Année de départ de la partie=<1900 to 2100>
-// You may set the game starting year to any year between 1900 and 2100.  
+// You may set the game starting year to any year between 1900 and 2100.
 
 Retail Store Type=Many
 // Retail Store Type=<One, Many>
@@ -30,7 +30,7 @@ Macro Economy Realism=Low
 // Macro Economy Realism=<Low, High>
 
 Inflation=Off
-// Inflation=<Off, On, Inverse> 
+// Inflation=<Off, On, Inverse>
 
 
 //------------------------------------------------------------------------------------------------//
@@ -39,14 +39,14 @@ Inflation=Off
 
 City=Frankfurt
 City=Helsinki
-City=Seoul 
+City=Seoul
 
 //------------------------------------------------------------------------------------------------//
 
 [COMPETITORS]
 Number of Competitors=3
 // Number of Competitors=<1 to 30>
-// You may set the number of competitors to any number between 1 and 30. 
+// You may set the number of competitors to any number between 1 and 30.
 
 Competitor Start-up Capital=Low
 // Competitor Start-up Capital=<Very Low, Low, Moderate, High, Very High>
@@ -75,7 +75,7 @@ Consumer Goods Seaports=3
 Industrial Goods Seaports=1
 // Industrial Goods Seaports per City=<0-4>
 
-// Please note that you may create a game up with no seaport using a game script. But the AI companies¡¯ performances will suffer and 
+// Please note that you may create a game up with no seaport using a game script. But the AI companies¡¯ performances will suffer and
 // this should only be used if you intend to create a game scenario with such characteristics.
 
 Constant Import Supply=Yes
@@ -115,7 +115,7 @@ Home Appliances
 [MAIN GOAL VALUES]
 Player Company Annual Profit=20
 
-[MAIN GOAL REWARDS] 
+[MAIN GOAL REWARDS]
 Score change=250
 
 //------------------------------------------------------------------------------------------------//

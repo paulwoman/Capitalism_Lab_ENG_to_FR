@@ -8,7 +8,7 @@ DLC=Subsidiary
 Subsidiaries=1
 Number of Cities=5
 Your Start-up Capital=High
-Random Events=Occasional 
+Random Events=Occasional
 Game Starting Year=1990
 Retail Store Type=Many
 Technology Disruption=On
@@ -21,12 +21,12 @@ Inflation Strength=Normal
 
 [COMPETITORS]
 Number of Competitors=30
-Competitor Start-up Capital=High  
-Competitor Aggressiveness=High  
+Competitor Start-up Capital=High
+Competitor Aggressiveness=High
 Competitor Expertise Level=High
 Show Competitor Trade Secrets=No
 AI Friendly Merger=Yes
-Competence of Local Competitors=Moderate 
+Competence of Local Competitors=Moderate
 
 [IMPORTS]
 Consumer Goods Seaports=1
@@ -48,21 +48,21 @@ Subsidiary Dominance=1,3
 Subsidiary Annual Revenue=1400,3
 Subsidiary Annual Profit=250,3
 
-[MAIN GOAL REWARDS] 
+[MAIN GOAL REWARDS]
 Score change=350
 
 //-------------------------------------------------------------------
 
 [SUBGOAL]
 Goal Title=Position dominante en amont
-Goal Description=Vous atteignez cet objectif lorsque votre entreprise principale a dominé les secteurs miniers et agricoles en amont. 
+Goal Description=Vous atteignez cet objectif lorsque votre entreprise principale a dominé les secteurs miniers et agricoles en amont.
 
-Goal Achieved Text=Félicitations ! 
+Goal Achieved Text=Félicitations !
 
-[SUBGOAL INDUSTRIES] 
+[SUBGOAL INDUSTRIES]
 Farming
-Raw Material Production 
+Raw Material Production
 
-[SUBGOAL REWARDS] 
+[SUBGOAL REWARDS]
 Score change=100
 Corporate cash change=200

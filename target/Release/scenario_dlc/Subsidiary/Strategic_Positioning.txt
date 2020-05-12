@@ -8,7 +8,7 @@ DLC=Subsidiary
 Subsidiaries=2
 Number of Cities=5
 Your Start-up Capital=High
-Random Events=Occasional 
+Random Events=Occasional
 Game Starting Year=1990
 Retail Store Type=Many
 Technology Disruption=On
@@ -26,20 +26,20 @@ Competitor Aggressiveness=Moderate
 Competitor Expertise Level=Moderate
 Show Competitor Trade Secrets=Yes
 AI Friendly Merger=No
-Competence of Local Competitors=Moderate 
+Competence of Local Competitors=Moderate
 
 [IMPORTS]
 Consumer Goods Seaports=2
 Industrial Goods Seaports=2
 Constant Import Supply=No
-Import Quality=High 
+Import Quality=High
 
 
 //-------------------------------------------------------------------
 
 [MAIN GOAL]
 Goal Title=Positionnement stratégique
-Goal Description=Sur les marchés actuels, qui évoluent rapidement, l'agilité des sociétés est la clé du succès.  Malheureusement, la plupart des sociétés ne parviennent pas à le maintenir lorsqu'elles finissent par devenir grandes et volumineuses. Pour vous écarter de cette voie indésirable, vous avez la prévoyance de créer deux filiales et de positionner stratégiquement chacune d'elles pour la mise au point sur des marchés spécifiques. 
+Goal Description=Sur les marchés actuels, qui évoluent rapidement, l'agilité des sociétés est la clé du succès.  Malheureusement, la plupart des sociétés ne parviennent pas à le maintenir lorsqu'elles finissent par devenir grandes et volumineuses. Pour vous écarter de cette voie indésirable, vous avez la prévoyance de créer deux filiales et de positionner stratégiquement chacune d'elles pour la mise au point sur des marchés spécifiques.
 
 Number of Game Years=80
 
@@ -47,7 +47,7 @@ Number of Game Years=80
 Subsidiary Annual Revenue=800,2
 Subsidiary Annual Profit=100,2
 
-[MAIN GOAL REWARDS] 
+[MAIN GOAL REWARDS]
 Score change=200
 
 //-------------------------------------------------------------------
@@ -61,7 +61,7 @@ Goal Achieved Text=Félicitations ! Vous avez maintenant deux filiales dont la v
 [SUBGOAL VALUES]
 Subsidiary Net Worth=1000,2
 
-[SUBGOAL REWARDS] 
+[SUBGOAL REWARDS]
 Score change=100
 Player expertise change=retail, 60
 
