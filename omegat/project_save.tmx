@@ -54267,8 +54267,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2850]&lt;CIT2&gt;s|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T095012Z" creationid="Olivier" creationdate="20200512T095012Z">
-        <seg>[2850]&lt;CIT2&gt;s|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T235544Z" creationid="Olivier" creationdate="20200512T095012Z">
+        <seg>[2850]&lt;CIT2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -55211,8 +55211,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2964]&lt;LDE1&gt;defaults on a loan from Bank|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T142232Z" creationid="Olivier" creationdate="20200512T142232Z">
-        <seg>[2964]&lt;LDE1&gt;éfauts de paiement d'un prêt de la Banque|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T235723Z" creationid="Olivier" creationdate="20200512T142232Z">
+        <seg>[2964]&lt;LDE1&gt;défauts de paiement d'un prêt de la Banque|</seg>
       </tuv>
     </tu>
     <tu>
@@ -55283,8 +55283,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2973]&lt;BDD1&gt; defaults on the bond [maturity date: |</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T142531Z" creationid="Olivier" creationdate="20200512T142531Z">
-        <seg>[2973]&lt;BDD1&gt; défaut sue l'obligation [date de maturité :|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T235744Z" creationid="Olivier" creationdate="20200512T142531Z">
+        <seg>[2973]&lt;BDD1&gt; défaut sur l'obligation [date de maturité :|</seg>
       </tuv>
     </tu>
     <tu>
@@ -55307,8 +55307,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2976]&lt;LNR1&gt;INSUFFICIENT CASH FOR LOAN REPAYMENT|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T142615Z" creationid="Olivier" creationdate="20200512T142615Z">
-        <seg>[2976]&lt;LNR1&gt;INSUFFISANCE DE LIQUIDITÉS POUR LE REMBOURSEMENT DU PRET|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T235756Z" creationid="Olivier" creationdate="20200512T142615Z">
+        <seg>[2976]&lt;LNR1&gt;INSUFFISANCE DE LIQUIDITÉS POUR LE REMBOURSEMENT DU PRÊT|</seg>
       </tuv>
     </tu>
     <tu>
@@ -55557,6 +55557,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T144038Z" creationid="Olivier" creationdate="20200512T144038Z">
         <seg>[3007]&lt;KNO7&gt;Manque de savoir-faire pour le(s) intrant(s) :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3008]&lt;KNO8&gt;Nil|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T235825Z" creationid="Olivier" creationdate="20200512T235825Z">
+        <seg>[3008]&lt;KNO8&gt;Nil|</seg>
       </tuv>
     </tu>
     <tu>
@@ -56683,8 +56691,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[3139]&lt;GSU5&gt;Subsidiaries with Dominance in|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T154803Z" creationid="Olivier" creationdate="20200512T154803Z">
-        <seg>[3139]&lt;GSU5&gt;iliales à prédominance en|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T235955Z" creationid="Olivier" creationdate="20200512T154803Z">
+        <seg>[3139]&lt;GSU5&gt;Filiales à prédominance en|</seg>
       </tuv>
     </tu>
     <tu>
