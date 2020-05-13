@@ -38,14 +38,14 @@ Pour ce faire, générez les fichiers en faisant ctrl maj D, opération que vous
 
 Il est à préciser que les fichiers proposés actuellement doivent encore être testés pour vérifier s'ils ne provoquent pas de BUG et / ou les actions à effectuer correspondent bien à ce qui est écrit.
 
-# Etat de la traduction
+# Etat de la traduction pour la release 6.4.07
 
 ## Fichiers pouvant se mettre dans le dossier "translate"
 
 | Fichiers         | Progression     | Relecture Inrepublica | Relecture PaulWoman | Concordance |
 | :--------------- |:--------------- |:---------------|:---------------|:---------------|
 | t_basic.txt      | 100 %           | ok             | ok             | ok             |
-| t_game.txt       |   0 %           |                |                |                |
+| t_game.txt       | 100 %           |                |                |                |
 | gm_help.txt      | 100 %           |                |                |                |
 | help.txt         | 100 %           |                |                |                |
 | translate.txt    |                 |                |                |                |
@@ -148,12 +148,12 @@ Il est à préciser que les fichiers proposés actuellement doivent encore être
 ### Notice.html du dossier "font"
 ### ReadMe.txt des dossiers "Mod" et "Mod_kit
 
-### Fichiers pour la beta 6.4.03 (Se traduit en partie automatiquement par rapport à la version stable) 
+### Fichiers pour la beta (indisponible) (Se traduit en partie automatiquement par rapport à la version stable) 
 | Fichiers         | Progression     | Relecture Inrepublica | Relecture PaulWoman | Concordance |
 | :--------------- |:--------------- |:---------------|:---------------|:---------------|
 | t_game.txt       |    0 %           |                |                |                |
-| gm_help.txt      |  100 %           |                |                |                |
-| help.txt         |  100 %           |                |                |                |
+| gm_help.txt      |    0 %           |                |                |                |
+| help.txt         |    0 %           |                |                |                |
 
 
 # Outils
