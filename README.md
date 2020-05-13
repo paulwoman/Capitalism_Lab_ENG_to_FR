@@ -163,4 +163,5 @@ Si vous éditez la traduction depuis l'utilisateur qui a installé Capitalism La
 
 Sinon, éditez simplement copy_translation.bat avec un éditeur de texte et changer le paramètre source et cible par les vôtres. Par exemple: `source=C:\Users\Toto\Desktop\Capitalism_Lab_ma_traduction\target\Release` et `cible="C:\Users\Toto\AppData\Local\Capitalism Lab"`
 
-A noter que le batch copy_translation_Beta.bat permet de mettre à jour, comme son nom l'indique, la version "beta", actuellement en version 6.4.05.
+A noter que le batch copy_translation_Beta.bat permet de mettre à jour, comme son nom l'indique, la version "beta". Actuellement il n'y a pas encore de beta.
+
