@@ -1254,6 +1254,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>1-year Return|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200518T223042Z" creationid="Olivier" creationdate="20200518T223042Z">
+        <seg>1-an rendement|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>1.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T120935Z" creationid="Olivier" creationdate="20200428T120935Z">
@@ -43971,8 +43979,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1040]&lt;0197&gt;Operating Profit|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200504T102758Z" creationid="Inrepublica" creationdate="20200504T102758Z">
-        <seg>[1040]&lt;0197&gt;bénéfice d'exploitation|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200518T223052Z" creationid="Inrepublica" creationdate="20200504T102758Z">
+        <seg>[1040]&lt;0197&gt;Bén. d'exploitation|</seg>
       </tuv>
     </tu>
     <tu>
