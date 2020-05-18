@@ -5,8 +5,8 @@
 [0019]<NEWP>Nouveau Joueur|
 [0020]<DELP>Supprimer|
 [0021]<SELP>Continuer|
-[0022]Svp, sélectionnez votre nom dans la liste|<PRF1>
-[0023]Si votre nom n’apparaît pas, cliquez sur "Nouveau Joueur" ci-dessous|<PRF2>
+[0022]<PRF1>Veuillez saisir votre nom dans la liste|
+[0023]<PRF2>Si votre nom est absent, cliquez sur "Nouveau Joueur" ci-dessous|
 [0024]<PRFN>Veuillez entrer votre nom|
 [0025]<PRFD>Êtes-vous certain de vouloir supprimer cette personne de la liste?|
 [0026]<PRDY>Oui|
@@ -17,12 +17,12 @@
 [0038]<NAH_>Humain|
 [0040]<DIFF>Niv. de difficulté|
 [0092]<RNDE>Événement Aléatoire|
-[0118]L'hôte vous refuse|<RFU0>
-[0119]Ne peut rejoindre une nouvelle session|<RFU1>
-[0120]Ne peut rejoindre une session de partie sauvegardée|<RFU2>
-[0121]Vous ne pouvez rejoindre une partie car la sauvegarde est différente|<RFU3>
-[0122]Vous ne pouvez rejoindre car vous utilisez une version différente|<RFU4>
-[0123]Vous ne pouvez rejoindre car la partie est pleine|<RFU5>
+[0118]<RFU0>L'hôte vous refuse|
+[0119]<RFU1>Impossible de joindre une nouvelle session de jeu|
+[0120]<RFU2>Impossible de joindre une session de partie chargée|
+[0121]<RFU3>Vous ne pouvez rejoindre cette partie car la sauvegarde est différente|
+[0122]<RFU4>Vous ne pouvez rejoindre la partie car l’hôte n'accepte pas la version de votre partie|
+[0123]<RFU5>Vous ne pouvez rejoindre car la partie est pleine|
 [0148]<SV_G>Sauvegarder|
 [0149]<0SAV>Vous n'avez pas encore sauvegardé.|
 [0150]<SAVE>Sauvegarder|
@@ -83,222 +83,222 @@
 [0352]<IQUA>Qualité des importations|
 [0460]<CCTI>Réalisme macro-économique|
 [0462]<DSMI>Type de magasin de détail|
-[0463]Souvent|<DSM1>
-[0464]Un|<DSM2>
+[0463]<DSM1>Beaucoup|
+[0464]<DSM2>Un|
 [0467]<GSYI>Année de départ|
-[0504]Erreur sur la grande stratégie, ne peut trouver un terrain pour construire.|<AIG1>
-[0505]Déclarer la faillite, ÊTES VOUS SUR ?|<GP41>
-[0506]Oui|<GP42>
-[0507]Non|<GP43>
-[0508]Voulez-vous réellement prendre votre retraite ?|<IGM1>
-[0509]Oui|<IGM2>
-[0510]non|<IGM3>
-[0511]Voulez-vous vraiment quitter pour le menu principal?|<IGM4>
-[0512]Oui|<IGM5>
-[0513]Non|<IGM6>
-[0514]Voulez-vous vraiment quitter pour Windows?|<IGM7>
-[0515]Oui|<IGM8>
-[0516]Non|<IGM9>
-[0517]Oui|<PR31>
-[0518]Non|<PR32>
-[0519]Ce plan va remplacer la disposition existante de cet établissement. Poursuivre ?|<PLB1>
-[0520]Effacer le plan courant, confirmer ?|<PLB2>
-[0521]Remplacer le plan courant avec le plan de l'établissement en surbrillance, confirmer ?|<PLB3>
-[0522]Désolé, vous n'avez pas la trésorerie suffisante.|<STK1>
-[0531]Échec dans le chargement de la partie|<SYF1>
-[0536]Mauvais établissement|<CHE1>
-[0537]L'établissement ne peut être pris par le joueur!!!|<CHE2>
-[0539]Null|<FAP2>
-[0540]Confirmer|<FAP3>
-[0541]Annuler|<FAP4>
-[0543]Désolé, vous n'avez pas la trésorerie suffisante.|<FAP6>
-[0546]Attention mode Game Design|<AII1>
-[0547]Plan de grande stratégie|<AII2>
-[0548] la construction d'intrants agricoles a échoué.|<AII3>
-[0549] échec de la mise en place d'une usine de construction.|<AII4>
-[0551]Acquisition de technologies d'une autre entreprise|<FHQ1>
-[0552]Vous ne pouvez pas acquérir une nouvelle technologie maintenant. Aucune des autres entreprises ne dispose d'une technologie plus avancée que la vôtre.<FHQ2>
-[0553]Changer de stratégie de marque|<FIN1>
-[0554]Quand vous changez de stratégie marketing, tous les produits seront étiquetés avec la nouvelle marque et leur cote sera par conséquent remise à zéro. Poursuivre ?|<FIN2>
-[0555]Cessation d'emploi|<FIN3>
-[0556]Emploi refusé|<FIN4>
-[0557]Emploi|<FIN5>
-[0558]Politique de l'emploi|<FIN6>
-[0559]Impossible d'acheter des actions|<FIN7>
-[0560]Émission de nouvelles actions|<FIN8>
-[0561]OK|<FIN9>
-[0562]Démolir le manoir|<FMN1>
-[0564]Changer le groupe du manager|<FM21>
-[0567]OBJECTIF|<GAM1>
-[0568]Perte de propriété|<GME1>
-[0569]Nouvelles de la bourse|<GP21>
-[0570]Améliorer la technologie de production|<JMF1>
-[0571]Oui|<JMF2>
-[0572]Non|<JMF3>
-[0573]Impossible d'acheter le manoir|<NGO1>
-[0574]Impossible d’acheter l'établissement|<NGO2>
-[0575]Impossible d'acheter la technologie|<NGO3>
-[0576]Demande d'augmentation de salaire|<PR31>
-[0577]Disposition du plan|<PLB1>
-[0578]L'établissement en surbrillance n'a pas de disposition.|<PLB2>
-[0579]Le type d'établissement pour cette disposition est différent de l'établissement en surbrillance.|<PLB3>
-[0580]Nouvelles de la bourse|<SK21>
-[0581]Offre publique d'achat|<SK51>
-[0582]TRICHE ACTIVÉ|<SYD1>
-[0583]Sauvegarder Jeux|<SYF1>
-[0584]Diversifié|<AIG0>
-[0585]Centré sur la vente au détail|<AIG1>
-[0586]Centré sur la bourse|<AIG2>
-[0587]Centré sur l'immobilier|<AIG3>
-[0588]Tous|<AIS0>
-[0589]Vente au détail|<AIS1>
-[0590]Actions|<AIS2>
-[0591]Immobilier|<AIS3>
-[0592]Mois des semences|<CET1>
-[0593]Mois de récolte|<CET2>
-[0606]Fournisseur|<DIJ1>
-[0607]Ville|<DIJ2>
-[0608]Distance|<DIJ3>
-[0609]Prix|<DIJ4>
-[0610]Coût du fret|<DIJ5>
-[0611]Approvisionnement|<DIJ6>
-[0612]Demande|<DIJ7>
-[0613]Ports maritimes|<DIJ8>
-[0614]Qualité|<DIJ9>
-[0615]Marque|<DI10>
-[0616]TOUS|<DI11>
-[0617]SÉLECTIONNER FOURNISSEUR|<DI12>
-[0619]Sélectionner un emplacement de construction|<DI14>
-[0620]Annuler|<DI15>
-[0621]Ok|<DI16>
-[0622]LISTE CLIENTS|<DI17>
-[0624]SELECTIONNER MÉDIA|<DI19>
-[0625]Allez au Média|<DI20>
-[0626]Tous les produits|<DI21>
-[0627]Toutes villes|<DI22>
-[0628]Tous les fournisseurs|<DI23>
-[0629]Client|<DI24>
-[0630]Média|<DI25>
-[0631]Points de classements|<DI26>
-[0632]Coût publicitaire (CPM)|<DI27>
-[0633]Vente au détail|<ECO0>
-[0634]Fabrication|<ECO1>
-[0635]Agriculture|<ECO2>
-[0637]Petit|<FAT1>
-[0638]Moyen|<FAT2>
-[0639]Grand|<FAT3>
-[0640]Démolir l'appartement et vendre le terrain|<FAT4>
-[0641]Mettre l'appartement en vente pour|<FAT5>
-[0642]Propriétaire|<FAT6>
-[0643]Rente annuel par pied au carré|<FAT7>
-[0644]Occupation|<FAT8>
-[0645]Vous avez acheté cet appartement à|<FAT9>
-[0646]Coût des terrains et des bâtiments|<FA10>
-[0647]Valeur marchande|<FA11>
-[0648]Graphique des bénéfices|<FA12>
-[0649]Les 12 derniers mois|<FA13>
-[0650]Graphique d'occupation|<FA14>
-[0651]Mettre cet appartement en vente|<FA15>
-[0652]Acheter cet appartement|<FA16>
-[0653]Offrir maintenant|<FA17>
-[0655]Démolir le bâtiment et vendre le terrain |<FA19>
-[0656]Mettre ce bâtiment en vente pour :|<FA20>
-[0658]Ce bâtiment commercial est en vente à|<FA22>
-[0661]Recettes des ventes|<FR00>
-[0662]Coût des matières premières|<FR01>
-[0663]Frais de transport|<FR02>
-[0664]Dépenses salariales|<FR03>
-[0665]Frais généraux d'exploitation|<FR04>
-[0666]Frais de publicité et de relations publiques|<FR05>
-[0667]Formation|<FR06>
-[0668]Amortissements|<FR07>
-[0669]Dépenses salariales|<FR10>
-[0670]Frais généraux d'exploitation|<FR11>
-[0671]Formation|<FR12>
-[0672]Amortissement|<FR13>
-[0673]Recettes des ventes<FR20>
-[0674]Dépenses salariales|<FR21>
-[0675]Frais généraux d'exploitation|<FR22>
-[0676]Frais de publicité et de relations publiques|<FR23>
-[0677]Formation|<FR24>
-[0678]Amortissement|<FR25>
-[0679]Recettes des ventes|<FR30>
-[0680]Dépenses salariales|<FR31>
-[0681]Frais généraux d'exploitation|<FR32>
-[0682]Frais de publicité et de relations publiques|<FR33>
-[0683]Formation|<FR34>
-[0684]Amortissement|<FR35>
-[0685]Recettes des ventes|<FR40>
-[0686]Utilisation de la réserve|<FR41>
-[0687]Dépenses salariales|<FR42>
-[0688]Frais généraux d'exploitation|<FR43>
-[0689]Frais de publicité et de relations publiques|<FR44>
-[0690]Formation|<FR45>
-[0691]Amortissement|<FR46>
-[0703]Total des prêts|<FBK2>
-[0704]Intérêts mensuels|<FBK3>
-[0705]Limite de crédit|<FBK4>
-[0706]Taux d'intérêt|<FBK5>
-[0707]Emprunter|<FBK6>
-[0708]Rembourser|<FBK7>
-[0715]Types de bâtiments|<FET1>
-[0716]Sélectionnez|<FET2>
-[0717]Configuration:|<FET3>
-[0718]Mensuel:|<FET4>
-[0719]Veuillez sélectionner un emplacements|<FET5>
-[0721]Prix du terrain: |<FET7>
-[0722]L'emplacement est occupé par des résidences|<FET8>
-[0723]constructions. Vous pouvez l'acquérir pour |<FET9>
-[0724]CLIQUEZ GAUCHE POUR CONSTUIRE|<FE10>
-[0725]Ressource naturelle|<FE11>
-[0726]Reserve|<FE12>
-[0727]Qualité|<FE13>
-[0728]Prix du terrain|<FE14>
-[0729]Impossible de s'installer ici :|<FE15>
-[0730]La région n'a pas assez d'arbres.|<FE16>
-[0731]La région ne possède aucun gisement minéral.<FE17>
-[0732]La région ne possède aucun gisement de pétrole.|<FE18>
-[0733]Le terrain est indisponible.|<FE19>
-[0734]L'emplacement n'est pas à côté des routes|<FE20>
-[0736]Impossible de s'installer|<FE22>
-[0737]Votre entreprise n'a pas suffisamment de trésorerie|<FE23>
-[0740]Relier cet article|<FAT1>
-[0741]Peut y être vendu :|<FAT2>
-[0742]Ne peut pas y être vendu:|<FAT3>
-[0743]magasins de détail.|<FAT4>
-[0744]Double-cliquez ici pour voir le rapport détaillé du produit.|<FAT5>
-[0745]Bénéfice|<FAT6>
-[0746]Recette|<FAT7>
-[0747]Quantité|<FAT8>
-[0748]Part de marché|<FAT9>
-[0749]Prix|<FA10>
-[0750]Coût|<FA11>
-[0751]Accord sur les prix|<FA12>
-[0752]Nouveau prix|<FA13>
-[0753]Marque|<FA14>
-[0754]Qualité|<FA15>
-[0755]Prix|<FA16>
-[0756]Évaluation globale|<FA17>
-[0758]Bénéfice de l'entreprise|<FA19>
-[0759]Recette de l'entreprise|<FA20>
-[0761]magasins de détail.|<FA22>
-[0763]Département financier|<FHQ1>
-[0764]Département des ressources humaines|<FHQ2>
-[0765]Département des relations publiques|<FHQ3>
-[0766]Département des relations avec les investisseurs|<FHQ4>
-[0767]Bureau du directeur général|<FHQ5>
-[0768]Bureau du directeur d'exploitation|<FHQ6>
-[0769]Bureau du chef du marketing|<FHQ7>
-[0770]Bureau du directeur technique |<FHQ8>
-[0771]Acquérir de la technologie auprès d'autres entreprises|<FHQ9>
-[0772]Fixer un nouveau dividende|<FH10>
-[0773]DEPARTEMENT FINANCIER|<FH11>
-[0774]Ratio de distribution des dividendes actuels :|<FH12>
-[0775]Nouveau ratio de distribution des dividendes :|<FH13>
-[0776]Organiser un programme de formation intensive|<FH14>
-[0777]DEPARTEMENT DES RESSOURCES HUMAINES|<FH15>
-[0778]Nbre total d' employés de première ligne|<FH16>
-[0779]Nbre total. d' employés de première ligne|<FH17>
+[0504]<AIG1>Erreur de la grande stratégie, impossible de trouver un terrain pour construire.|
+[0505]<GP41>Déclarer la faillite, ÊTES VOUS SUR ?|
+[0506]<GP42>Oui|
+[0507]<GP43>Non|
+[0508]<IGM1>Voulez-vous réellement prendre votre retraite ?|
+[0509]<IGM2>Oui|
+[0510]<IGM3>No|
+[0511]<IGM4>Voulez-vous vraiment vous rendre au menu principal ?|
+[0512]<IGM5>Oui|
+[0513]<IGM6>Non|
+[0514]<IGM7>Voulez-vous vraiment quitter pour Windows?|
+[0515]<IGM8>Oui|
+[0516]<IGM9>Non|
+[0517]<PR31>Oui|
+[0518]<PR32>Non|
+[0519]<PLB1>Ce plan va remplacer la disposition existante de cet établissement. Poursuivre ?|
+[0520]<PLB2>Effacer le plan actuel, confirmer ?|
+[0521]<PLB3>Remplacer le plan actuel par le plan de l'établissement en surbrillance, confirmer ?|
+[0522]<STK1>Désolé, vous n'avez pas suffisamment de trésorerie.|
+[0531]<SYF1>Échec dans le chargement de la partie|
+[0536]<CHE1>Mauvais établissement|
+[0537]<CHE2>L'établissement ne peut être pris par le joueur !!!|
+[0539]<FAP2>Null|
+[0540]<FAP3>Confirmer|
+[0541]<FAP4>Annuler|
+[0543]<FAP6>Désolé, vous n'avez pas suffisamment de trésorerie.|
+[0546]<AII1>Avertissement concernant le mode de conception du jeu|
+[0547]<AII2>I2>Plan de grande stratégie|
+[0548]<AII3>la construction d'intrants agricoles a échoué.|
+[0549]<AII4> échec de la construction d'une usine.|
+[0551]<FHQ1>Acquisition de technologies d'une autre entreprise|
+[0552]<FHQ2>Vous ne pouvez pas acquérir une nouvelle technologie maintenant. Aucune des autres entreprises ne dispose d'une technologie plus avancée que la vôtre.
+[0553]<FIN1>Changer de stratégie de marque|
+[0554]<FIN2>Quand vous changez de stratégie de marque, tous les produits seront étiquetés avec la nouvelle marque et leur cote sera par conséquent remise à zéro. Poursuivre ?|
+[0555]<FIN3>Licenciement|
+[0556]<FIN4>Emploi refusé|
+[0557]<FIN5>Emploi|
+[0558]<FIN6>Politique de l'emploi|
+[0559]<FIN7>Impossible d'acheter des actions|
+[0560]<FIN8>Émission de nouvelles actions|
+[0561]<FIN9>OK|
+[0562]<FMN1>Démolir le manoir|
+[0564]<FM21>Changer le groupe du manager|
+[0567]<GAM1>OBJECTIF|
+[0568]<GME1>Perte de participation|
+[0569]<GP21>Nouvelles de la bourse|
+[0570]<JMF1>Améliorer la technologie de production|
+[0571]<JMF2>Oui|
+[0572]<JMF3>Non|
+[0573]<NGO1>Impossible d'acheter le manoir|
+[0574]<NGO2>Impossible d’acheter l'établissement|
+[0575]<NGO3>Impossible d'acheter la technologie|
+[0576]<PR31>Demande d'augmentation de salaire|
+[0577]<PLB1>Disposition du plan|
+[0578]<PLB2>L'établissement en surbrillance n'a pas de disposition.|
+[0579]<PLB3>Le type d'établissement pour cette disposition est différent de l'établissement en surbrillance.|
+[0580]<SK21>Nouvelles de la bourse|
+[0581]<SK51>Offre publique d'achat|
+[0582]<SYD1>TRICHE ACTIVÉ|
+[0583]<SYF1>Sauvegarder|
+[0584]<AIG0>Diversifié|
+[0585]<AIG1>Centré sur la vente au détail|
+[0586]<AIG2>Centré sur la bourse|
+[0587]<AIG3>Centré sur l'immobilier|
+[0588]<AIS0>Tous|
+[0589]<AIS1>Vente au détail|
+[0590]<AIS2>Actions|
+[0591]<AIS3>Immobilier|
+[0592]<CET1>Mois des semences|
+[0593]<CET2>Mois de récolte|
+[0606]<DIJ1>Fournisseur|
+[0607]<DIJ2>Ville|
+[0608]<DIJ3>Distance|
+[0609]<DIJ4>Prix|
+[0610]<DIJ5>Coût du fret|
+[0611]<DIJ6>Approvisionnement|
+[0612]<DIJ7>Demande|
+[0613]<DIJ8>Ports maritimes|
+[0614]<DIJ9>Qualité|
+[0615]<DI10>Marque|
+[0616]<DI11>TOUS|
+[0617]<DI12>SÉLECTIONNER UN FOURNISSEUR|
+[0619]<DI14>Sélectionner un emplacement de construction|
+[0620]<DI15>Annuler|
+[0621]<DI16>Ok|
+[0622]<DI17>LISTE DES CLIENTS|
+[0624]<DI19>SÉLECTIONNER UN MÉDIA|
+[0625]<DI20>Allez au Média|
+[0626]<DI21>Tous les produits|
+[0627]<DI22>Toutes les villes|
+[0628]<DI23>Tous les fournisseurs|
+[0629]<DI24>Client|
+[0630]<DI25>Média|
+[0631]<DI26>Points de classements|
+[0632]<DI27>Coût publicitaire (CPM)|
+[0633]<ECO0>Vente au détail|
+[0634]<ECO1>Fabrication|
+[0635]<ECO2>Agriculture|
+[0637]<FAT1>Petit|
+[0638]<FAT2>Moyen|
+[0639]<FAT3>Grand|
+[0640]<FAT4>Démolir l'appartement et vendre le terrain|
+[0641]<FAT5>Mettre l'appartement en vente pour|
+[0642]<FAT6>Propriétaire|
+[0643]<FAT7>Rente annuel par pied au carré|
+[0644]<FAT8>Occupation|
+[0645]<FAT9>Vous avez acheté cet appartement à|
+[0646]<FA10>Coût des terrains et des bâtiments|
+[0647]<FA11>Valeur marchande|
+[0648]<FA12>Graph. des bén.|
+[0649]<FA13>Les 12 derniers mois|
+[0650]<FA14>Graph. d'occupation|
+[0651]<FA15>Mettre cet appartement en vente|
+[0652]<FA16>Acheter cet appartement|
+[0653]<FA17>Offrir maintenant|
+[0655]<FA19>Démolir le bâtiment et vendre le terrain |
+[0656]<FA20>Mettre ce bâtiment en vente pour :|
+[0658]<FA22>Ce bâtiment commercial est en vente à|
+[0661]<FR00>Recettes des ventes|
+[0662]<FR01>Coût des matières premières|
+[0663]<FR02>Frais de transport|
+[0664]<FR03>Dépenses salariales|
+[0665]<FR04>Frais généraux d'exploitation|
+[0666]<FR05>Frais de publicité et de relations publiques|
+[0667]<FR06>Formation|
+[0668]<FR07>Amortissements|
+[0669]<FR10>Dépenses salariales|
+[0670]<FR11>Frais généraux d'exploitation|
+[0671]<FR12>Formation|
+[0672]<FR13>Amortissements|
+[0673]<FR20>Recettes des ventes
+[0674]<FR21>Dépenses salariales|
+[0675]<FR22>Frais généraux d'exploitation|
+[0676]<FR23>Frais de publicité et de relations publiques|
+[0677]<FR24>Formation|
+[0678]<FR25>Amortissements|
+[0679]<FR30>Recettes des ventes|
+[0680]<FR31>Dépenses salariales|
+[0681]<FR32>Frais généraux d'exploitation|
+[0682]<FR33>Frais de publicité et de relations publiques|
+[0683]<FR34>Formation|
+[0684]<FR35>Amortissements|
+[0685]<FR40>Recettes des ventes|
+[0686]<FR41>Utilisation de la réserve|
+[0687]<FR42>Dépenses salariales|
+[0688]<FR43>Frais généraux d'exploitation|
+[0689]<FR44>Frais de publicité et de relations publiques|
+[0690]<FR45>Formation|
+[0691]<FR46>Amortissements|
+[0703]<FBK2>Total des prêts|
+[0704]<FBK3>Intérêts mensuels|
+[0705]<FBK4>Limite de crédit|
+[0706]<FBK5>Taux d'intérêt|
+[0707]<FBK6>Emprunter|
+[0708]<FBK7>Rembourser|
+[0715]<FET1>Types de bâtiments|
+[0716]<FET2>Sélectionnez|
+[0717]<FET3>Installer :|
+[0718]<FET4>Mensuel:|
+[0719]<FET5>Veuillez sélectionner un emplacements|
+[0721]<FET7>Prix du terrain : |
+[0722]<FET8>L'emplacement est occupé par des résidences|
+[0723]<FET9>constructions. Vous pouvez l'acquérir pour |
+[0724]<FE10>CLIQUEZ GAUCHE POUR CONSTRUIRE|
+[0725]<FE11>Ressource naturelle|
+[0726]<FE12>Réserves|
+[0727]<FE13>Qualité|
+[0728]<FE14>Prix du terrain|
+[0729]<FE15>Impossible de s'installer ici :|
+[0730]<FE16>La région n'a pas assez d'arbres.|
+[0731]<FE17>La région ne possède aucun gisement minéral.
+[0732]<FE18>La région ne possède aucun gisement de pétrole.|
+[0733]<FE19>Le terrain est indisponible.|
+[0734]<FE20>L'emplacement n'est pas à côté des routes|
+[0736]<FE22>Impossible de s'installer|
+[0737]<FE23>Votre entreprise n'a pas suffisamment de trésorerie|
+[0740]<FAT1>Relier cet article|
+[0741]<FAT2>Peut y être vendu :|
+[0742]<FAT3>Ne peut pas y être vendu :|
+[0743]<FAT4>magasins de détail.|
+[0744]<FAT5>Double-cliquez ici pour voir le rapport détaillé du produit.|
+[0745]<FAT6>Bénéfice|
+[0746]<FAT7>Recette|
+[0747]<FAT8>Quantité|
+[0748]<FAT9>Part de marché|
+[0749]<FA10>Prix|
+[0750]<FA11>Coût|
+[0751]<FA12>Accord sur les prix|
+[0752]<FA13>Nouveau prix|
+[0753]<FA14>Marque|
+[0754]<FA15>Qualité|
+[0755]<FA16>Prix|
+[0756]<FA17>Évaluation globale|
+[0758]<FA19>Bénéfice de l'entreprise|
+[0759]<FA20>Recette de l'établissement|
+[0761]<FA22>magasins de détail.|
+[0763]<FHQ1>Département financier|
+[0764]<FHQ2>Département des ressources humaines|
+[0765]<FHQ3>Département des relations publiques|
+[0766]<FHQ4>Département des relations avec les investisseurs|
+[0767]<FHQ5>Bureau du directeur général|
+[0768]<FHQ6>Bureau du directeur d'exploitation|
+[0769]<FHQ7>Bureau du chef du marketing|
+[0770]<FHQ8>Bureau du directeur technique |
+[0771]<FHQ9>Acquérir de la technologie auprès d'autres entreprises|
+[0772]<FH10>Fixer un nouveau dividende|
+[0773]<FH11>DÉPARTEMENT FINANCIER|
+[0774]<FH12>Ratio de distribution des dividendes actuels :|
+[0775]<FH13>Nouveau ratio de distribution des dividendes :|
+[0776]<FH14>Organiser un programme de formation intensive|
+[0777]<FH15>DÉPARTEMENT DES RESSOURCES HUMAINES|
+[0778]<FH16>Nbre total d' employés de première ligne|
+[0779]<FH17>Nbre total. d' employés de première ligne|
 [0780]<0000>Niveau d'expérience moyen des employés|
 [0781]<0001>Niveau de formation moyen par établissement|
 [0782]<0002>Nombre de jours depuis la dernière formation intensive|
@@ -343,7 +343,7 @@
 [0828]<0048>Acquérir de la technologie auprès d'autres entreprises|
 [0829]<0049>BUREAU DU DIRECTEUR TECHNIQUE|
 [0830]<0050>Cours de l'action|
-[0832]<0052>Rendement des dividendes|
+[0832]<0052>Rendement des div.|
 [0837]<0057>Offre|
 [0845]<0060>Société|
 [0848]<0063>Produit|
@@ -371,9 +371,9 @@
 [0875]<0090>Qualité du produit|
 [0876]<0091>Qualité de la production|
 [0877]<0092>Qualité des matières premières|
-[0879]Marque de société|<A300>
-[0880]Ensemble de marques|<A301>
-[0881]Marque unique|<A302>
+[0879]<A300>Marque de société|
+[0880]<A301>Ensemble de marques|
+[0881]<A302>Marque unique|
 [0882]<0094>Stratégie de marque|
 [0883]<0095>Classement de la marque|
 [0884]<0096>Notoriété de la marque|
@@ -386,10 +386,10 @@
 [0894]<0106>(Une technologie qui vous est inconnue)|
 [0896]<0108>Importation|
 [0897]<0109>N'est plus en activité|
-[0898]Aperçu financier|<A400>
-[0899]Aperçu des actions|<A401>
-[0900]Relations commerciales|<A402>
-[0901]Vue d'ensemble des établissements|<A403>
+[0898]<A400>Aperçu financier|
+[0899]<A401>Aperçu des actions|
+[0900]<A402>Relations commerciales|
+[0901]<A403>Vue d'ensemble des établissements|
 [0902]<0110>Acheter|
 [0903]<0111>Aperçu|
 [0904]<0112>Firmes|
@@ -439,7 +439,7 @@
 [0953]<0161>Classements|
 [0954]<0162>Leader|
 [1007]<0164>Description|
-[1013]<0170>Bénéfice d'exploitation|
+[1013]<0170>Bén. d'exploitation|
 [1015]<0172>Bénéfice net|
 [1016]<0173>Actionnaires|
 [1017]<0174>Graphique|
@@ -453,7 +453,7 @@
 [1029]<0186>Aperçu des actions|
 [1031]<0188>Sociétés privées|
 [1032]<0189>Vue d'ensemble des établissements|
-[1033]<0190>Recettes annuelles|
+[1033]<0190>Recettes anl|
 [1034]<0191>Bénéfice brut annuel|
 [1035]<0192>Production & commerce de détail|
 [1036]<0193>Production|
@@ -496,7 +496,7 @@
 [1078]<0234>Nbre. de types de produits|
 [1079]<0235>Rendement sur les capitaux propres
 [1080]<0236>Rendement de l'ensemble des actifs|
-[1081]<0237>Rendement des dividendes|
+[1081]<0237>Rendement des div.|
 [1082]<0238>Rendement des actions pour les investisseurs|
 [1083]<0239>Marge bénéficiaire d'exploitation|
 [1084]<0240>Marge bénéficiaire nette|
@@ -513,7 +513,7 @@
 [1095]<0251>Bénéfice annuel|
 [1096]<0252>Cours de l'action|
 [1099]<0255>Ratio P/E|
-[1100]<0256>Rendement des dividendes|
+[1100]<0256>Rendement des div.|
 [1102]<0257>Rendement annuel|
 [1104]<0259>Fusionner|
 [1105]<0260>Achat|
@@ -524,7 +524,7 @@
 [1110]<0265>Cap. propres par actions|
 [1111]<0266>Bénéfice Par Action|
 [1112]<0267>Rapport P/E|
-[1113]<0268>Rendement des dividendes|
+[1113]<0268>Rendement des div.|
 [1114]<0269>Rendement annuel|
 [1116]<0271>Qui             Cash|
 [1117]<0272>Achats|
@@ -577,15 +577,15 @@
 [1188]<0342>AUCUN|
 [1189]<0343>Il n'y a pas de place pour ajouter de nouveaux produits|
 [1190]<0344>Cet article peut être vendu dans...|
-[1194]Congelés|<A700>
-[1195]Froid|<A701>
-[1196]Frais|<A702>
-[1197]Tiède|<A703>
-[1198]Brûlant|<A704>
-[1199]Sec|<A800>
-[1200]Petit|<A801>
-[1201]Modérée|<A802>
-[1202]Nombreux|<A803>
+[1194]<A700>Congelés|
+[1195]<A701>Froid|
+[1196]<A702>Frais|
+[1197]<A703>Tiède|
+[1198]<A704>Brûlant|
+[1199]<A800>Sec|
+[1200]<A801>Petit|
+[1201]<A802>Modéré|
+[1202]<A803>Nombreux|
 [1203]<0348>Tiède, Frais or Froid|
 [1235]<0349>Nbre. d'employés|
 [1236]<0350>Nbre. d'unités|
@@ -622,45 +622,45 @@
 [1287]<0401>Prix de la publicité du mois prochain|
 [1289]<0403>Prix actuel de la publicité
 [1292]<0406>Acheter l'établissement|
-[1298]Tous|<AA00>
-[1299]A la vente de commerce|<AA01>
-[1300]A la vente au détail|<AA02>
-[1301]Tous|<AB00>
-[1302]Biens de consommation|<AB01>
-[1303]Biens industriels|<AB02>
-[1304]Recettes des ventes|<AC00>
-[1305]Coût des matières premières|<AC01>
-[1306]Coût du fret|<AC02>
-[1307]Dépenses salariales|<AC03>
-[1308]Frais généraux d'exploitation|<AC04>
-[1309]Frais de publicité et de relations publiques|<AC05>
-[1310]Formation|<AC06>
-[1311]Amortissement|<AC07>
-[1312]Dépenses salariales|<AD00>
-[1313]Frais généraux d'exploitation|<AD01>
-[1314]Formation|<AD02>
-[1315]Amortissement|<AD03>
-[1316]Recettes des ventes|<AE00>
-[1317]Coût d'achat|<AE01>
-[1318]Coût du fret|<AE02>
-[1319]Dépenses salariales|<AE03>
-[1320]Frais généraux d'exploitation|<AE04>
-[1321]Frais de publicité et de relations publiques|<AE05>
-[1322]Formation|<AE06>
-[1323]Amortissement|<AE07>
-[1324]Recettes des ventes|<AF00>
-[1325]Dépenses salariales|<AF01>
-[1326]Frais généraux d'exploitation<AF02>
-[1327]Frais de publicité et de relations publiques<AF03>
-[1328]Formation|<AF04>
-[1329]Amortissement|<AF05>
-[1330]Recettes des ventes|<AG00>
-[1331]Utilisation de la réserve|<AG01>
-[1332]Dépenses salariales|<AG02>
-[1333]Frais généraux d'exploitation<AG03>
-[1334]Frais de publicité et de relations publiques|<AG04>
-[1335]Formation|<AG05>
-[1336]Amortissement|<AG06>
+[1298]<AA00>Tous|
+[1299]<AA01>A la vente de commerce|
+[1300]<AA02>A la vente au détail|
+[1301]<AB00>Tous|
+[1302]<AB01>Biens de consommation|
+[1303]<AB02>Biens industriels|
+[1304]<AC00>Recettes des ventes|
+[1305]<AC01>Coût des matières premières|
+[1306]<AC02>Coût du fret|
+[1307]<AC03>Dépenses salariales|
+[1308]<AC04>Frais généraux d'exploitation|
+[1309]<AC05>Frais de publicité et de relations publiques|
+[1310]<AC06>Formation|
+[1311]<AC07>Amortissement|
+[1312]<AD00>Dépenses salariales|
+[1313]<AD01>Frais généraux d'exploitation|
+[1314]<AD02>Formation|
+[1315]<AD03>Amortissement|
+[1316]<AE00>Recettes des ventes|
+[1317]<AE01>Coût d'achat|
+[1318]<AE02>Coût du fret|
+[1319]<AE03>Dépenses salariales|
+[1320]<AE04>Frais généraux d'exploitation|
+[1321]<AE05>Frais de publicité et de relations publiques|
+[1322]<AE06>Formation|
+[1323]<AE07>Amortissement|
+[1324]<AF00>Recettes des ventes|
+[1325]<AF01>Dépenses salariales|
+[1326]<AF02>Frais généraux d'exploitation
+[1327]<AF03>Frais de publicité et de relations publiques
+[1328]<AF04>Formation|
+[1329]<AF05>Amortissement|
+[1330]<AG00>Recettes des ventes|
+[1331]<AG01>Utilisation de la réserve|
+[1332]<AG02>Dépenses salariales|
+[1333]<AG03>Frais généraux d'exploitation
+[1334]<AG04>Frais de publicité et de relations publiques|
+[1335]<AG05>Formation|
+[1336]<AG06>Amortissement|
 [1347]<0412>Résumé|
 [1348]<0413>Richesse|
 [1349]<0414>Carrière|
@@ -809,22 +809,22 @@
 [1624]<0649>Mois de récolte|
 [1625]<0650>produit d'origine animale :|
 [1626]<0651> Unité|
-[1632]Recettes d'exploitation|<AK00>
-[1633]Coût des ventes|<AK01>
-[1634]Dépenses salariales|<AK02>
-[1635]Frais généraux d'exploitation<AK03>
-[1636]Frais de publicité et de relations publiques<AK04>
-[1637]Formation|<AK05>
-[1638]Dépenses de R&D|<AK06>
-[1639]Don aux établissements publics|<AK07>
-[1640]Amortissement|<AK08>
-[1641]Rendement des actions|<AK09>
-[1642]6 mois|<AL00>
-[1643]1 an|<AL01>
-[1644]2 ans|<AL02>
-[1645]3 ans|<AL03>
-[1646]5 ans|<AL04>
-[1647]10 ans|<AL05>
+[1632]<AK00>Recettes d'exploitation|
+[1633]<AK01>Coût des ventes|
+[1634]<AK02>Dépenses salariales|
+[1635]<AK03>Frais généraux d'exploitation
+[1636]<AK04>Frais de publicité et de relations publiques
+[1637]<AK05>Formation|
+[1638]<AK06>Dépenses de R&D|
+[1639]<AK07>Don aux établissements publics|
+[1640]<AK08>Amortissements|
+[1641]<AK09>Rendement des actions|
+[1642]<AL00>6 mois|
+[1643]<AL01>1 an|
+[1644]<AL02>2 ans|
+[1645]<AL03>3 ans|
+[1646]<AL04>5 ans|
+[1647]<AL05>10 ans|
 [1648]<0652>Graph. du cours|
 [1650]<0654>Jour|
 [1651]<0655>Mois|
@@ -913,28 +913,28 @@
 [1852]<0856>Tout enlever|
 [1853]<0859> an|
 [1856]<0860> (ans)|
-[1857]|<AL00>
-[1858] millions|<AL01>
-[1859] milliards|<AL02>
-[1861]Département financier|<AM00>
-[1862]Département des ressources humaines|<AM01>
-[1863]Département des relations publiques|<AM02>
-[1864]Département des relations avec les investisseurs<AM03>
-[1865]Bureau du directeur général|<AM04>
-[1866]Bureau du directeur d'exploitation|<AM05>
-[1867]Bureau du chef du marketing|<AM06>
-[1868]Bureau du directeur technique|<AM07>
-[1869]AUCUN|<AM08>
-[1870]OPTIONS (O)|<AN00>
-[1871]ENREGISTRER (S ou Alt-S)|<AN01>
-[1872]CHARGER (L)|<AN02>
-[1873]REDÉMARRER LA PARTIE|<AN03>
-[1874]PRENDRE SA RETRAITE|<AN04>
-[1875]PARAMÈTRE (F9)|<AN05>
-[1876]RETOUR MENU PRINCIPAL|<AN06>
-[1877]QUITTER VERS WINDOWS|<AN07>
-[1878]CONTINUER LA PARTIE|<AN08>
-[1879]LISTE DES RACCOURCIS (K)|<AN09>
+[1857]<AL00>|
+[1858]<AL01> millions|
+[1859] <AL02>milliards|
+[1861]<AM00>Département financier|
+[1862]<AM01>Département des ressources humaines|
+[1863]<AM02>Département des relations publiques|
+[1864]<AM03>Département des relations avec les investisseurs
+[1865]<AM04>Bureau du directeur général|
+[1866]<AM05>Bureau du directeur d'exploitation|
+[1867]<AM06>Bureau du chef du marketing|
+[1868]<AM07>Bureau du directeur technique|
+[1869]<AM08>AUCUN|
+[1870]<AN00>OPTIONS (O)|
+[1871]<AN01>ENREGISTRER (S ou Alt-S)|
+[1872]<AN02>CHARGER (L)|
+[1873]<AN03>REDÉMARRER LA PARTIE|
+[1874]<AN04>PRENDRE SA RETRAITE|
+[1875]<AN05>PARAMÈTRE (F9)|
+[1876]<AN06>RETOUR MENU PRINCIPAL|
+[1877]<AN07>QUITTER VERS WINDOWS|
+[1878]<AN08>CONTINUER LA PARTIE|
+[1879]<AN09>LISTE DES RACCOURCIS (K)|
 [1913]<0862>Graphique des revenus|
 [1914]<0863>Graphique de la Qté vendues|
 [0916]<0865>Allez|
@@ -954,10 +954,10 @@
 [1965]<0914>Nos|
 [1966]<0915>Moyenne|
 [1967]<0916>Préoccupations|
-[1968]<AQ00>En attente de la saison des semailles|<AQ00>
-[1969]<AQ01>Sowing|
-[1970]<AQ02>Growing|
-[1971]<AQ03>Harvesting|
+[1968]<AQ00>En attente de la saison des semailles|
+[1969]<AQ01>Semer|
+[1970]<AQ02>Culture|
+[1971]<AQ03>Récolte|
 [1972]<0917>Stopper la liaison|
 [1973]<0918>Lier ce média
 [1974]<0919>Unité publicitaire|
@@ -1017,30 +1017,30 @@
 [2084]<1029>Prix|
 [2091]<1036>Sélectionner|
 [2092]<1037>Matières premières
-[2093]<AR00>Cattle|
-[2094]<AR01>Sheep|
-[2095]<AR02>Pig|
-[2096]<AR03>Chicken|
-[2097]<AR04>Goat|
-[2098]<AR05>Goose|
-[2099]<AR06>Ostrich|
-[2100]<AR07>Turkey|
-[2101]<AS00>Cattle|
-[2102]<AS01>Sheep|
-[2103]<AS02>Pigs|
-[2104]<AS03>Chickens|
-[2105]<AS04>Goats|
-[2106]<AS05>Geese|
-[2107]<AS06>Ostriches|
-[2108]<AS07>Turkeys|
-[2109]<AT00>Operations News|
-[2110]<AT01>Financial News|
-[2111]<AT02>Technology News|
-[2112]<AT03>Special News|
-[2113]<AU00>News related to all corporations|
-[2114]<AU01>News related to corporations that you control + Special news|
-[2115]<AU02>News related to your corporation + Special news|
-[2116]<AU03>Special news only|
+[2093]<AR00>Bovin|
+[2094]<AR01>Moutons|
+[2095]<AR02>Porc|
+[2096]<AR03>Poulet|
+[2097]<AR04>Chèvre|
+[2098]<AR05>Oie|
+[2099]<AR06>Autruche|
+[2100]<AR07>Turquie|
+[2101]<AS00>Bovin|
+[2012]<AS01>Moutons|
+[2013]<AS02>Porc|
+[2014]<AS03>Poulet|
+[2015]<AS04>Chèvre|
+[2106]<AS05>Oies|
+[2107]<AS06>Autruches|
+[2108]<AS07>Turquie|
+[2109]<AT00>Actualités des opérations|
+[2110]<AT01>Actualités financières|
+[2111]<AT02>Actualité des technologies|
+[2112]<AT03>Actualités spéciales|
+[2113]<AU00>Actualités relative à toutes les entreprises|
+[2114]<AU01>Actualités relatives aux sociétés que vous contrôlez + Actualités spéciales|
+[2115]<AU02>Actualités relatives à votre société + Nouvelles spéciales|
+[2116]<AU03>Nouvelles spéciales seulement|
 [2117]<1038> Nouveau concurrent|
 [2118]<1039> Installer l'établissement|
 [2119]<1040> Fermeture d'un établissement|
@@ -1266,13 +1266,13 @@
 [2380]<1300>FERMER|
 [2381]<1301>Inventé|
 [2382]<1302>Connu de vous|
-[2383]<AT00>DISABLED|
-[2384]<AT01>ENABLED|
+[2383]<AT00>DÉSACTIVE|
+[2384]<AT01>ACTIVE|
 [2385]<AU00>OFF|
 [2386]<AU01>ON|
-[2387]<AV00>NONE|
-[2388]<AV01>BRIEF|
-[2389]<AV02>DETAILED|
+[2387]<AV00>AUCUN|
+[2388]<AV01>ABRÉGÉE|
+[2389]<AV02>DÉTAILLÉ|
 [2390]<1303>Options de jeu|
 [2392]<1305>Vente interne par défaut|
 [2393]<1306>Liaison automatique du fournisseur|
@@ -1299,29 +1299,29 @@
 [2415]<1328>]Remboursement d'un prêt bancaire|
 [2416]<1329>Trésorerie|
 [2417]<1330>Paiement par action|
-[2435]<AU00>Conservative|
-[2436]<AU01>Moderate|
-[2437]<AU02>Aggressive|
-[2438]<AU03>Very Aggressive|
-[2439]<AU04>Human Player|
-[2440]<AV00>CEO|
-[2441]<AV01>Chairman|
-[2442]<AV02>CEO & Chairman|
+[2435]<AU00>Conservateur|
+[2436]<AU01>Modéré|
+[2437]<AU02>Agressif|
+[2438]<AU03>Très agressif|
+[2439]<AU04>Joueur Humain|
+[2440]<AV00>PDG|
+[2441]<AV01>Président|
+[2442]<AV02>PDG & Président|
 [2443]<AV03>COO|
-[2444]<AV04>COO & Chairman|
+[2444]<AV04>COO & Président|
 [2445]<AV05>CMO|
-[2446]<AV06>CMO & Chairman|
+[2446]<AV06>CMO & Président|
 [2447]<AV07>CTO|
-[2448]<AV08>CTO & Chairman|
-[2449]<AW00>Chief Executive Officer|
-[2450]<AW01>Chairman|
-[2451]<AW02>Chief Executive Officer & Chairman|
-[2452]<AW03>Chief Operating Officer|
-[2453]<AW04>Chief Operating Officer & Chairman|
-[2454]<AW05>Chief Marketing Officer|
-[2455]<AW06>Chief Marketing Officer & Chairman|
-[2456]<AW07>Chief Technical Officer|
-[2457]<AW08>Chief Technical Officer & Chairman|
+[2448]<AV08>CTO & Président|
+[2449]<AW00>Directeur général|
+[2450]<AW01>Président|
+[2451]<AW02>Directeur général & Président|
+[2452]<AW03>Directeur général des opérations
+[2453]<AW04>Directeur d'exploitation & Président|
+[2454]<AW05>Directeur du marketing|
+[2455]<AW06>Directeur du marketing & Président|
+[2456]<AW07>Directeur technique|
+[2457]<AW08>Directeur technique & Président|
 [2458]<1348>Investisseur indépendant|
 [2459]<1349>Investisseur indépendant|
 [2460]<1350>Très mauvais|
@@ -1382,10 +1382,10 @@
 [2534]<1424>Ent.|
 [2535]<1425>Firmes|
 [2536]<1426>Produit|
-[2541]<AW00>Underdeveloped|
-[2542]<AW01>Developing|
-[2543]<AW02>Newly Industrialized|
-[2544]<AW03>Industrial|
+[2541]<AW00>Sous-développé|
+[2542]<<AW01>>Développé|
+[2543]<AW02>Nouveau pays industrialisé|
+[2544]<AW03>>Industries|
 [2552]<1433>Votre approvisionnement de |
 [2553]<1434> a été stoppé.|
 [2554]<1435>Votre approvisionnement de |
@@ -1496,163 +1496,163 @@
 [2677]<1557>Nouveau budget pour le développement du contenu|
 [2678]<1558>Produits vendus dans|
 [2679]<C001>Enlight Software|
-[2680]<C002>Game Design &|
+[2680]<C002>Conception de jeux &|
 [2681]<C003>Trevor Chan|
-[2682]<C004>Project Management:|
-[2683]<C005>Programming:|
+[2682]<C004>Gestion du projet :|
+[2683]<C005>Programmation :|
 [2684]<C006>Thomas Lam, Charles Wong, Stephen Ho|
-[2685]<C007>Graphics:|
+[2685]<C007>Graphismes :|
 [2686]<C008>Ada Chui, Yanwei|
 [2687]<C009> |
 [2688]<C010>Marketing &|
 [2689]<C011>David Lee|
-[2690]<C012>User Community:|
-[2691]<C013>Testing:|
+[2690]<C012>Communauté d'utilisateurs :|
+[2691]<C013>Testeurs :|
 [2692]<C014>Daniel Yip, Eva Cheung, Alan Ng|
 [2693]<C015> |
 [2694]<C016> |
 [2696]<NANA>N/A|
 [2697]<YOUR>Votre |
 [2698]<RESI> a démissionné de votre société.|
-[2699]<RES2>Resignation|
+[2699]<RES2>Démission|
 [2700]<LAYS> plans d'aménagement trouvés|
 [2701]<LAYM>Vous n'avez pas assez d'argent pour mettre en place cette disposition.|
 [2702]<DOWR>Vous ne pouvez pas rejoindre le jeu car votre version de Capitalisme II est différente de celle du créateur de ce jeu multijoueur. La version du créateur est %1s alors que votre version est %2s.|
 [2705]<NCUR>MONNAIE RÉÉVALUÉE ! Le gouvernement a annoncé que la monnaie sera réévaluée à un ratio de 1 pour 100. Les billets et les pièces de la monnaie réévaluée seront mis en circulation.
-[2708]<BL01>Buy Land|
-[2709]<BL02>Sorry, you cannot buy this land plot.|
+[2708]<BL01>Acheter le terrain|
+[2709]<BL02>Désolé, vous ne pouvez pas acheter cette parcelle de terrain|
 [2710]<P36M>36 derniers mois|
-[2711]<AIG4>Tech Focused|
-[2712]<AIG5>Media Focused|
+[2711]<AIG4>Focalisé sur la technologie|
+[2712]<AIG5>Focalisé sur les médias|
 [2713]<AIS4>Tech|
-[2714]<AIS5>Media|
+[2714]<AIS5>Média|
 [2715]<RDTL>Niveau technologique|
-[2716]<NCJ1>founded|
-[2717]<NCJ2>and serves as its|
-[2718]<NCJ3>joins|
-[2719]<NCJ4>as|
-[2720]<NCJ5>becomes|
-[2721]<NCJ6>of|
-[2722]<NCJ7>resigns from his job at|
-[2723]<NCJ8>resigns from her job at|
-[2724]<NCJ9>discharged by|
-[2725]<NCK1>went bankrupt and|
-[2726]<NCK2>loses his job as|
-[2727]<NCK3>loses her job as|
-[2728]<NCK4>after serving as|
-[2729]<NCK5>after serving as|
-[2730]<MTH1>month|
-[2731]<MTH2>months|
-[2732]<NBF1>opens an|
-[2733]<NBF2>opens a|
-[2734]<NBF3>sets up a Warehouse|
-[2735]<NBF4>sets up a TV Station|
-[2736]<NBF5>sets up a Newspaper Publisher|
-[2737]<NBF6>sets up a Radio Station|
-[2738]<NBF7>builds a|
-[2739]donates to build a|<NBF8>
-[2740]<NBF9>sets up|
-[2741]<NBG1>builds|
-[2742]<NDF1>demolishes his Mansion and sells the land.|
-[2743]<NDF2>demolishes her Mansion and sells the land.|
-[2744]<NAC1>changes its corporate strategy from|
-[2745]<NAC2>to|
-[2746]<NBF1>acquires an|
-[2747]<NBF2>acquires a|
-[2748]<NBF3>in|
-[2749]<NBF4>from|
-[2750]<NBF5>for|
-[2751]<NSS1>splits its share|
-[2752]-for-1. Chaque actionnaire détient désormais<NSS2>
-[2753]<NSS3>times as many shares.|
-[2754]<NSS4>undergoes a 1-|
-[2755]<NSS5>stock merge, which groups every|
-[2756]<NSS6>shares into one share.|
-[2757]<NBM1>buys an|
-[2758]<NBM2>buys a|
-[2759]<NBM3>in|
-[2760]<NBM4>from|
-[2761]<NBM5>for|
-[2762]<NCI1>The central bank increases the interest rate from|
-[2763]<NCI2>The central bank decreases the interest rate from|
-[2764]<NCI3>to|
-[2765]<NCB1>A new chairman with|
-[2766]<NCB2>attitude is now at the helm of the central bank.|
-[2767]<NAT1>acquires technology for|
-[2768]<NAT2>from|
-[2769]<NAT3>for|
-[2770]<NGV1>The Government|
-[2771]<NGV2>the Government|
-[2772]<NAC0>Corporation Changes Strategy|
-[2773]<NIR0>Central Bank Changes Interest Rate|
-[2774]<NBC0>The New Central Bank Chairman|
-[2775]<NCC0>Career Change|
-[2776]<NRI0>Riot|
-[2777]<NSC0>Stock Crash|
-[2778]<NCR0>Currency Revalued!|
-[2779]<CBA1>Inflation Hawk (modest)|
-[2780]<CBA2>Inflation Hawk (strong)|
-[2781]<CBA3>Neutral|
-[2782]<CBA4>Inflation Dove (modest)|
-[2783]<CBA5>Inflation Dove (strong)|
-[2784]<CBP1>Ultra Tight|
-[2785]<CBP2>Very Tight|
-[2786]<CBP3>Tight|
-[2787]<CBP4>Slightly Tight|
+[2716]<NCJ1>a fondé|
+[2717]<NCJ2>et lui sert de|
+[2718]<NCJ3>rejoint|
+[2719]<NCJ4>comme|
+[2720]<NCJ5>devient|
+[2721]<NCJ6>de|
+[2722]<NCJ7>]démissionne de son poste de|
+[2723]<NCJ8>démissionne de son poste de|
+[2724]<NCJ9>congédié par|
+[2725]<NCK1>a fait faillite et|
+[2726]<NCK2>perd son emplois dans|
+[2727]<NCK3>perd son emplois dans|
+[2728]<NCK4>après avoir exercé en tant que|
+[2729]<NCK5>après avoir exercé en tant que|
+[2730]<MTH1>mois|
+[2731]<MTH2>mois|
+[2732]<NBF1>ouvre un|
+[2733]<NBF2>ouvrent un|
+[2734]<NBF3>crée un entrepôt|
+[2735]<NBF4>crée une station de TV|
+[2736]<NBF5>crée un éditeur de journaux|
+[2737]<NBF6>crée une station de radio|
+[2738]<NBF7>construit un|
+[2739]<NBF8>fait un don pour construire un|
+[2740]<NBF9>installe|
+[2741]<NBG1>construisent|
+[2742]<NDF1>démolit son manoir et vend le terrain.|
+[2743]<NDF2>démolit son manoir et vend le terrain.|
+[2744]<NAC1>modifie sa stratégie de société en|
+[2745]<NAC2>à|
+[2746]<NBF1>acquiert un|
+[2747]<NBF2>acquiert un|
+[2748]<NBF3>dans|
+[2749]<NBF4>à partir de|
+[2750]<NBF5>pour|
+[2751]<NSS1>fractionne ses actions|
+[2752]<NSS2>-pour-1. Chaque actionnaire détient désormais
+[2753]<NSS3>fois plus d'actions.|
+[2754]<NSS4>subit un 1-|
+[2755]<NSS5>fusion de titres, qui regroupe toutes les|
+[2756]<NSS6>actions en une seule action.|
+[2757]<NBM1>achète un|
+[2758]<NBM2>achète un|
+[2759]<NBM3>dans|
+[2760]<NBM4>à partir de|
+[2761]<NBM5>pour|
+[2762]<NCI1>La banque centrale augmente le taux d'intérêt de|
+[2763]<NCI2>La banque centrale diminue le taux d'intérêt de|
+[2764]<NCI3>de|
+[2765]<NCB1>Un nouveau président avec|
+[2766]<NCB2>attitude est maintenant à la tête de la banque centrale.|
+[2767]<NAT1>acquiert une technologie pour|
+[2768]<NAT2>à partir de|
+[2769]<NAT3>pour|
+[2770]<NGV1>Le Gouvernement|
+[2771]<NGV2>le Gouvernement|
+[2772]<NAC0>La société change de stratégie|
+[2773]<NIR0>La banque centrale modifie son taux d'intérêt|
+[2774]<NBC0>Le nouveau président de la Banque centrale|
+[2775]<NCC0>Changement de carrière|
+[2776]<NRI0>Émeute|
+[2777]<NSC0>Crash boursier|
+[2778]<NCR0>Monnaie réévaluée !|
+[2779]<CBA1>Inflation Faucon (modeste)|
+[2780]<CBA2>Inflation Faucon (forte)|
+[2781]<CBA3>Neutre|
+[2782]<CBA4>Inflation Colombe (modeste)|
+[2783]<CBA5>Inflation Colombe (forte)|
+[2784]<CBP1>Ultra serré|
+[2785]<CBP2>Très serré|
+[2786]<CBP3>Serré|
+[2787]<CBP4>Légèrement serré|
 [2788]<CBP5>Normal|
-[2789]<CBP6>Slightly Loose|
-[2790]<CBP7>Loose|
-[2791]<CBP8>Very Loose|
-[2792]<CBP9>Ultra Loose|
-[2793]<AAS1>Sorry, the AI is having an advance start and you cannot build any buildings until year|
-[2794]<AAS2>Sorry, the AI is having an advance start and you cannot buy land until year|
-[2795]<AAS3>Sorry, the AI is having an advance start and you cannot buy stock until year|
-[2796]<SCO1>Score:|
-[2797]<SCO2>billion x 100 x inflation adjustment|
-[2798]<BF01>Use your personal money to build your mansion.|
-[2799]<BF02>to relocate the firm.|
-[2800]<BF03>to duplicate the firm.|
-[2801]<BF04>to build the firm.|
-[2802]<BF05>Customer Traffic Index:|
-[2803]<BF06>Compensation:|
-[2804]<BF07>Price Premium|
-[2805]<BF08>Hold the [SHIFT] key concurrently to build more|
+[2789]<CBP6>Légèrement libre|
+[2790]<CBP7>Libre|
+[2791]<CBP8>Très libre|
+[2792]<CBP9>Ultra libre|
+[2793]<AAS1>Désolé, l'IA commence à l'avance et vous ne pouvez pas construire de bâtiments avant un an|
+[2794]<AAS2>Désolé, l'IA a démarré à l'avance et vous ne pouvez pas acheter de terrain avant un an|
+[2795]<AAS3>Désolé, l'IA démarre à l'avance et vous ne pouvez pas acheter d'actions avant un an|
+[2796]<SCO1>Score :|
+[2797]<SCO2>milliards x 100 x ajustement de l'inflation|
+[2798]<BF01>Utilisez votre argent personnel pour construire votre manoir.|
+[2799]<BF02>pour délocaliser cet établissement|
+[2800]<BF03>pour dupliquer l'établissement|
+[2801]<BF04>pour construire l'établissement|
+[2802]<BF05>Indice de trafic des clients :|
+[2803]<BF06>Compensation :|
+[2804]<BF07>Prix Premium|
+[2805]<BF08>Maintenez la touche [SHIFT] enfoncée pour construire plus|
 [2806]<PSTO>Stock|
-[2807]<FRE1>Freight Cost Breakdown|
-[2808]<FRE2>Truck - Supplier to Seaport:|
-[2809]<FRE3>Cargo Ship - City to City:|
-[2810]<FRE4>Truck - Seaport to Buyer:|
-[2811]<FRE5>TOTAL:|
-[2812]<FRE6>Freight Cost|
-[2813]<FRE7>Shipment from Supplier to Buyer:|
-[2814]<SOW1>Sowing in|
+[2807]<FRE1>Ventilation des coût de fret|
+[2808]<FRE2>Camion - Fournisseur du port maritime :|
+[2809]<FRE3>Navire cargo - De ville en ville: |
+[2810]<FRE4>Camion - du port maritime à l'acheteur: |
+[2811]<FRE5>TOTAL :|
+[2812]<FRE6>Coût du fret|
+[2813]<FRE7>Expédition du fournisseur à l'acheteur :|
+[2814]<SOW1>Semer en|
 [2815]<HARV>Récolte en|
-[2816]<ITP1>Organize an Intensive Training Program|
-[2817]<ITP2>Training effect will be instant but|
-[2818]<ITP3>its cost-effectiveness is 30% lower than normal training.|
-[2819]<ITP4>How much will you allocate for training per employee?|
-[2820]<RDC1>firm|
-[2821]<RDC2>firms|
-[2822]<RDC3> of yours have been redirected to purchase |
-[2823]<RDC4> from the current firm.|
-[2824]<RDC5>To view the new client list, click the [Clients] button on your Sales Unit's interface.|
-[2825]<RDC6>None of the Purchasing Units in any of your firms presently lack supply of this type of product.\n\nThus no actions have been taken.|
-[2826]<KOC1>King of Capitalism|
-[2827]<KOC2>To become the undisputed King of Capitalism, you must be financially savvy enough to grow your company's market cap to|
-[2828]<KOC3>billion while retaining at least 80 % of its equity shares, and achieve all the subgoals.|
-[2829]<AGS1>To win this game, you must achieve the given goals.|
-[2830]<AGS2>(Press the 'G' shortcut key anytime to view the Goal screen)|
-[2831]<AGS3>Your possess expertise in the|
-[2832]<AGS4>industry (level:|
+[2816]<ITP1>Organiser un programme de formation intensive|
+[2817]<ITP2>L'effet de la formation sera instantané mais|
+[2818]<ITP3>son rapport coût-efficacité est de 30% inférieur à celui d'une formation normale.|
+[2819]<ITP4>Combien allez-vous allouer à la formation par employé ?|
+[2820]<RDC1>firme|
+[2821]<RDC2>firmes|
+[2822]<RDC3> ont été redirigés vers l'achat  |
+[2823]<RDC4> de l'établissement actuelle|
+[2824]<RDC5>Pour consulter la nouvelle liste de clients, cliquez sur le bouton [Clients] de l'interface de votre unité de vente|
+[2825]<RDC6>Aucune des unités d'achat de vos entreprises ne manque actuellement de ce type de produit.|
+[2826]<KOC1>Roi du Capitalisme|
+[2827]<KOC2>Pour devenir le roi incontesté du capitalisme, vous devez être suffisamment avisé financièrement pour augmenter la part de marché de votre entreprise jusqu'à|
+[2828]<KOC3>milliards d'euros tout en conservant au moins 80 % de ses parts de capital, et atteindre tous les sous-objectifs.|
+[2829]<AGS1>Pour gagner ce jeu, vous devez atteindre les objectifs fixés.|
+[2830]<AGS2>(Appuyez sur la touche de raccourci 'G' à tout moment pour afficher l'écran 'Objectif')|
+[2831]<AGS3>Vous possédez une expertise dans le domaine de|
+[2832]<AGS4>l'industrie (niveau :|
 [2833]<FEGN>Le gouvernement de la ville n'a pas assez d'argent.|
-[2834]<NCT1>To acquire the exclusive rights to develop and run the new city for|
-[2835]<NCT2>years, you must donate|
-[2836]<NCT3>to the city's treasury.|
-[2837]<AIG6>OS Focused|
+[2834]<NCT1>Acquérir les droits exclusifs de développement et de gestion de la nouvelle ville pour|
+[2835]<NCT2>années, vous devez donner|
+[2836]<NCT3>au trésor de la ville.|
+[2837]<AIG6>Focalisé sur les OS|
 [2838]<AIS6>OS|
-[2839]<AIG7>Software Focused|
-[2840]<AIS7>Software|
-[2841]<AIG8>Internet Focused|
+[2839]<AIG7>Focalisé sur les logiciel|
+[2840]<AIS7>Logiciel|
+[2841]<AIG8>Focalisé sur Internet|
 [2842]<AIS8>Internet|
 [2843]<FEQU>Qualité des caractéristiques|
 [2844]<FEBU>Budget mensuel pour le développement de nouvelles fonctionnalités|
@@ -1660,52 +1660,52 @@
 [2846]<ADSC>Coût du serveur de données|
 [2847]<REAC>Portée|
 [2848]<LTEX>Dépenses à vie|
-[2849]<CIT1>For all|
-[2850]<CIT2>s|
-[2851]<CIT3>in this city (Total:|
-[2852]<AIG9>Telecom Focused|
-[2853]<AIS9>Telecom|
-[2854]<AK10>Received Dividends|
-[2855]<AK11>Increase in Asset Value|
-[2856]<AK12>Loan Interest|
-[2857]<AK20>Data Server Cost|
+[2849]<CIT1>pour tous|
+[2850]<CIT2>
+[2851]<CIT3>dans cette ville (Total :|
+[2852]<AIG9>Focalisé sur les Entreprise de télécommunications|
+[2853]<AIS9>Entreprise de télécommunications|
+[2854]<AK10>Dividendes reçus|
+[2855]<AK11>Augmentation de la valeur des actif|
+[2856]<AK12>Taux d'intérêt|
+[2857]<AK20>Coût du serveur de données|
 [2858]<DIFF>NIVEAU DE DIFFICULTÉ|
 [2859]<CORP>SOCIÉTÉS (Total|
-[2860]Sorry, you do not have sufficient cash. Le coût de l'ajout d'un nouvel étage est de|<FLR0>
-[2861]<FLR1>The cost of adding a new floor is|
-[2862]<FLR2>Do you want to proceed?|
+[2860]<FLR0>Désolé, vous n'avez pas assez de trésorerie. Le coût de l'ajout d'un nouvel étage est de|
+[2861]<FLR1>Le coût de l'ajout d'un nouvel étage est de|
+[2862]<FLR2>Voulez-vous procéder ?|
 [2863]<NSUB>Créer une nouvelle filiale|
-[2864]<NSN1>Sorry, the requirement is not met.|
-[2865]<NSN2>The initial capital of your new subsidiary company must be at least|
-[2866]<NSN3>million|
-[2867]<NSC1>You must now hire a CEO for your new subsidiary company.|
-[2868]<NSC2>To do so, in the next screen, select a CEO candidate and click the [Hire Chief Executive] button.|
-[2869]<NSH1>the job as the|
-[2870]<NSH2>of|
-[2871]<NSH3>the new subsidiary company|
-[2872]<SUB1>Your corporation owns|
-[2873]<SUB2>shares of this company.|
-[2874]<LAN1>Decrease All Civic Building Setup Costs by|
-[2875]<LAN2>Decrease All Civic Building Operating Costs by|
-[2876]<LAN3>Decrease All Commercial Firm Setup Costs by|
-[2877]<LAN4>Decrease All Commercial Firm Fixed Operating Costs by|
-[2878]<LAN5>Increase Industry Competitiveness by|
-[2879]<LAN6>Increase a Selected Firm Unit Type's Level by|
+[2864]<NSN1>Désolé, la condition n'est pas remplie|
+[2865]<NSN2>Le capital initial de votre nouvelle filiale doit être au moins|
+[2866]<NSN3>millions|
+[2867]<NSC1>Vous devez maintenant embaucher un PDG pour votre nouvelle filiale.|
+[2868]<NSC2>Pour ce faire, dans l'écran suivant, sélectionnez un candidat au poste de PDG et cliquez sur le bouton [Embaucher le PDG]|
+[2869]<NSH1>le travail en tant que|
+[2870]<NSH2>de|
+[2871]<NSH3>la nouvelle filiale|
+[2872]<SUB1>Votre société possède|
+[2873]<SUB2>actions de cette entreprise.|
+[2874]<LAN1>Réduire tous les coûts d'installation des bâtiments municipaux|
+[2875]<LAN2>Diminuer tous les coûts de fonctionnement des bâtiments publics de|
+[2876]<LAN3>Réduire tous les coûts d'établissement des entreprises commerciales de|
+[2877]<LAN4>Diminuer tous les coûts d'exploitation fixes des entreprises commerciales de|
+[2878]<LAN5>Accroître la compétitivité de l'industrie de|
+[2879]<LAN6>Augmenter le niveau d'un type d'unité d'entreprise sélectionné|
 [2880]<EVRY>Tous|
-[2881]<ATS1>This cannot be done because [|
-[2882]<ATS2>] which is outside the subsidiary company's Scope of Production.|
-[2883]<LAN7>Increase this city's competitiveness in|
-[2884]<LAN8>Increase the levels of all|
-[2885]<LAN9>in this city by|
-[2886]<NCG1>You have enabled Survival Mode in City Economic Simulation DLC.\n\n|
-[2887]<NCG2>All products are locked, requiring reinvention, except the products under the Food and Beverage mega class and the products in which you have expertise.\n\n\n|
-[2888]<NCG3>You have been assigned with new goals.\n\n|
-[2889]<NCG4>Press the 'G' shortcut key anytime to view the Goal screen.|
-[2890]<NCG5>You have been assigned with a new goal.\n\n|
-[2891]<NCG6>Press the 'G' shortcut key anytime to view the Goal screen.|
-[2892]<NCG7>Are you sure that you want to remove all the goals in this game?|
-[2893]<PLG1>Set up a factory to produce|
-[2894]<PLG2>and launch it onto the market.|
+[2881]<ATS1>Cela ne peut se faire parce que [|
+[2882]<ATS2>] ] qui est en dehors du champ d'application de la production de la filiale.|
+[2883]<LAN7>Accroître la compétitivité de cette ville dans|
+[2884]<LAN8>Augmenter les niveaux de tous|
+[2885]<LAN9>dans cette ville par|
+[2886]<NCG1>Vous avez activé le mode de survie du DLC simulation économique de la ville.\n\n|
+[2887]<NCG2>Tous les produits sont verrouillés et doivent être réinventés, à l'exception des produits relevant de la catégorie méga des aliments et boissons et des produits pour lesquels vous avez une expertise.\n\n\n|
+[2888]<NCG3>On vous a assigné de nouveaux objectifs.\n\n|
+[2889]<NCG4>Appuyez sur la touche de raccourci 'G' à tout moment pour afficher l'écran 'Objectif'|
+[2890]<NCG5>On vous a assigné de nouveaux objectifs.\n\n|
+[2891]<NCG6>Appuyez sur la touche de raccourci 'G' à tout moment pour afficher l'écran 'Objectif'|
+[2892]<NCG7>Êtes-vous sûr de vouloir supprimer tous les buts de cette partie ?|
+[2893]<PLG1>Créer une usine pour produire|
+[2894]<PLG2>et le lancer sur le marché|
 [2895]<OWNT>Technologie propriétaire|
 [2896]<TOPT>Technologie de pointe|
 [2897]<QUAR>Évaluation de la qualité
@@ -1717,90 +1717,90 @@
 [2903]<BTEL>crée une entreprise de télécommunications|
 [2904]<BOND>Obligation|
 [2905]<BCOU>Coupon|
-[2906]<BYIE>Rendement|
+[2906]<BYIE>Rend.|
 [2907]<BMAT>Maturité|
 [2908]<BPRI>Prix|
 [2909]<BOWQ>Qté obtenue|
-[2910]<BOWV>Valeur possédée|
+[2910]<BOWV>Valeur poss.|
 [2911]<BCRE>Cote de crédit|
-[2912]<BHOL>Détenteurs d'obligations publiques|
-[2913]<ACP1>Acquisition!|
-[2914]<ACP2>acquires the private company|
-[2915]<IPO1>IPO!|
-[2916]<IPO2>goes public raising|
-[2917]<IPO3>in IPO.|
-[2918]<ELE1>The mayoral election in|
-[2919]et|<ELE2>
-[2920]<ELE3>will take place in one year.|
-[2921]<ELE4>Those who wish to run for mayor should act now.|
-[2922]<ELE5>(Press the '!' shortcut key to open the Political Party screen.)|
-[2923]<TGD1>Grow the city of|
-[2924]<TGD2>and improve the quality of life of its citizens.|
-[2925]Congratulations! Vous avez fait un excellent travail en tant que maire de|<TGW1>
-[2926]and achieved the goals. Continuez à faire du bon travail et essayez d'atteindre des objectifs encore plus élevés<TGW2>
-[2927]<TGT1>City Goal:|
-[2928]<TGT2>Town Goal:|
-[2929]<TGT3>Village Goal:|
+[2912]<BHOL>Obligations publiques|
+[2913]<ACP1>Acquisition !|
+[2914]<ACP2>acquiert la société privée|
+[2915]<IPO1>IPO !|
+[2916]<IPO2>fait une levée publique|
+[2917]<IPO3>par IPO.|
+[2918]<ELE1>L'élection du maire en|
+[2919]<ELE2>et|
+[2920]<ELE3>aura lieu dans un an.|
+[2921]<ELE4>Ceux qui souhaitent se présenter à la mairie doivent agir maintenant.|
+[2922]<ELE5>(Appuyez sur la touche de raccourci '!' pour ouvrir l'écran des partis politiques.)|
+[2923]<TGD1>Fait grandir la ville de|
+[2924]<TGD2>et améliorer la qualité de vie de ses citoyens|
+[2925]<TGW1>Félicitations !! Vous avez fait un excellent travail en tant que maire de|
+[2926]<TGW2>et avez atteint les objectifs.| Continuez à faire du bon travail et essayez d'atteindre des objectifs encore plus élevés
+[2927]<TGT1>Objectif de la métropole :|
+[2928]<TGT2>Objectif de la ville :|
+[2929]<TGT3>Objectif du village :|
 [2930]<PEDU>% de la population ayant un niveau d'éducation de :|
-[2931]Pour ça|<PUB1>
-[2932]<APR1>can be acquired for|
-[2933]<APR2>But you do not have enough cash at the moment.|
-[2934]<APR3>Do you want to acquire it now?|
-[2935]<TUT1>If this is your first time playing Capitalism Lab, you are advised to start with tutorial #1.\n\n|
-[2936]<TUT2>The last tutorial you have finished is tutorial #|
-[2937]<TUT3>.\n\nYou are advised to follow the tutorials in a sequential order.\n\n|
-[2938]<TUT4>Are you sure that you want to start tutorial #|
-[2939] maintenant? Ceci sautera le tutoriel|<TUT5>
-[2940] maintenant? Ceci sautera les tutoriels|<TUT6>
-[2941]<TUT7> prior to it and you will be missing important information.\n\n|
-[2942]<TUT8> in between and you will be missing important information.\n\n|
-[2943]<AK30>Stock and Bond Return|
-[2944]<AK31>Loan and Bond Interests|
-[2945]<BF01>Net Interest Income|
-[2946]<BF02>Loan Defaults (Losses)|
-[2947]<SLD1>Do you want to sell this land plot for|
-[2948]<SLD2>This land plot is owned by your subsidiary company.\nDo you want to sell it for|
-[2949]<SLD3>The owner will sell this land plot for|
-[2950]<SLD4>Price premium:|
-[2951]<SLD5>Do you want to buy it?|
-[2952]<SLD6>But you don't have enough cash.|
-[2953]<AK13>Deposit Interest Income|
-[2954]<BI01>Premium Income|
-[2955]<BI02>Investment Income|
-[2956]<BI03>Claims|
+[2931]<PUB1>Pour ça|
+[2932]<APR1>peut être acquis pou|
+[2933]<APR2>Mais vous n'avez pas assez d'argent pour le moment|
+[2934]<APR3>Voulez-vous l'acquérir maintenant ?|
+[2935]<TUT1>Si c'est la première fois que vous jouez à Capitalism Lab, nous vous conseillons de commencer par le tutoriel #1.\n\n|
+[2936]<TUT2>Le dernier tutoriel que vous avez terminé est le tutoriel #|
+[2937]<TUT3>.\n\nIl vous est conseillé de suivre les tutoriels dans l'ordre.\n\n|
+[2938]<TUT4>Êtes-vous sûr de vouloir commencer le tutoriel #|
+[2939]<TUT5> maintenant ? Ceci sautera le tutoriel|
+[2940]<TUT6> maintenant ? Ceci sautera les tutoriels|
+[2941]<TUT7> avant ça et il vous manquera des informations importantes.\n\n|
+[2942]<TUT8> dans l'intervalle et il vous manquera des informations importantes.\n\n|
+[2943]<AK30>Rendement des actions et des obligations|
+[2944]<AK31>Intérêts des prêts et des obligations|
+[2945]<BF01>Revenus d'intérêts nets|
+[2946]<BF02>Défaillances (pertes) de prêts)|
+[2947]<SLD1>Voulez-vous vendre cette parcelle de terrain pour|
+[2948]<SLD2>Ce terrain appartient à votre filiale. Voulez-vous le vendre pour|
+[2949]<SLD3>Le propriétaire vendra cette parcelle de terrain pour|
+[2950]<SLD4>Prix de la prime :|
+[2951]<SLD5>Voulez-vous l'acheter ?|
+[2952]<SLD6>Mais vous n'avez pas assez d'argent.|
+[2953]<AK13>Revenus d'intérêts des dépôts|
+[2954]<BI01>Revenus des primes|
+[2955]<BI02>Revenus d'investissements|
+[2956]<BI03>Réclamations|
 [2957]<BDOF> Obligations de |
 [2958]<FREI>Fret|
-[2959]<BAO1>Bank owned by |
-[2960]<BAO2>went out of business!|
-[2961]<BAO3>Depositors received 100% of their money back.|
-[2962]<BAO4>Depositors only received|
-[2963]<BAO5>of their money back.|
-[2964]<LDE1>defaults on a loan from Bank|
-[2965]<LDE2>Default amount:|
-[2966]<BDR1>INSUFFICIENT CASH FOR BOND REDEMPTION|
-[2967]<BDR2>A Corporate Bond issued by your company has matured, you must redeem it now.|
-[2968]<BDR3>A Corporate Bond issued by your subsidiary |
-[2969]<BDR4> has matured, you must redeem it now.|
-[2970]<BDR5>Bond Issue Date|
+[2959]<BAO1>Banque appartient à |
+[2960]<BAO2>a fait faillite !|
+[2961]<BAO3>Les déposants ont été remboursés à 100 %|
+[2962]<BAO4>Les déposants ne reçoivent seulement|
+[2963]<BAO5>de leur argent en retour.|
+[2964]<LDE1>défauts de paiement d'un prêt de la Banque|
+[2965]<LDE2>Montant par défaut:|
+[2966]<BDR1>INSUFFISANCE DE LIQUIDITÉS POUR LE REMBOURSEMENT DES OBLIGATIONS|
+[2967]<BDR2>Une obligation de société émise par votre entreprise est arrivée à échéance, vous devez la racheter maintenant.|
+[2968]<BDR3>Une obligation d'entreprise émise par votre filiale |
+[2969]<BDR4>est arrivé à maturité, vous devez la racheter maintenant|
+[2970]<BDR5>Date d'émission de l'obligation|
 [2971]<COUP>Taux d'intérêt du coupon|
 [2972]<TERM>Durée de la période|
-[2973]<BDD1> defaults on the bond [maturity date: |
-[2974]<BDD2> coupon: |
-[2975]<BDD3>Default amount: |
-[2976]<LNR1>INSUFFICIENT CASH FOR LOAN REPAYMENT|
-[2977]<LNR2>A Bank Loan taken by your company has matured, you must repay it now.|
-[2978]<LNR3>A Bank Loan taken your subsidiary |
-[2979]<LNR4> has matured, you must repay it now.|
+[2973]<BDD1> défaut sur l'obligation [date de maturité :|
+[2974]<BDD2> coupon : |
+[2975]<BDD3>Montant par défaut : |
+[2976]<LNR1>INSUFFISANCE DE LIQUIDITÉS POUR LE REMBOURSEMENT DU PRÊT|
+[2977]<LNR2>Un emprunt bancaire contracté par votre entreprise est arrivé à échéance, vous devez le rembourser maintenant.|
+[2978]<LNR3>Un emprunt bancaire contracté par votre filiale |
+[2979]<LNR4> est arrivé à échéance, vous devez le rembourser maintenant.|
 [2980]<CASN>TRÉSORERIE NÉCESSAIRE|
 [2981]<MCOS>Coût mensuel|
-[2982]<SCO3>billion x 10 x inflation adjustment|
+[2982]<SCO3>milliards x 100 x ajustement de l'inflation|
 [2983]<SDIV>Payent un dividende spécial|
-[2984]<AIB1>Bank Focused|
-[2985]<AIC1>Bank|
-[2986]<AIB2>Insurance Focused|
-[2987]<AIC2>Insurance|
-[2988]<AIB3>Global Stock Focused|
-[2989]<AIC3>Global Stock|
+[2984]<AIB1>Focalisé sur les banques|
+[2985]<AIC1>Banque|
+[2986]<AIB2>Focalisé sur l'assurance|
+[2987]<AIC2>Assurance|
+[2988]<AIB3>Centré sur les actions mondiales|
+[2989]<AIC3>Actions mondiales|
 [2990]<BIPR>Réserves de créances|
 [2991]<ISBP>Bénéfice net de la banque|
 [2992]<ISLP>Bénéfice net de l'assurance|
@@ -1811,83 +1811,83 @@
 [2997]<SEBR>Dépenses salariales (Filiales)|
 [2998]<OOHQ>Frais généraux d'exploitation (QG)|
 [2999]<OOBR>Frais généraux d'exploitation (Filiales)|
-[3000]<AM09>Real Estate Department|
-[3001]<KNO1>You must first possess the knowhow for|
-[3002]<KNO2>(click to view it now)|
-[3003]<KNO3>and|
-[3004]<KNO4>And talents required for the invention project is expected to be available in year|
-[3005]<KNO5>Talents required for the invention project is expected to be available in year|
-[3006]<KNO6>You must first own an IP or have access to open-source tech.|
-[3007]<KNO7>Missing knowhow for input(s):|
+[3000]<AM09>Département de l'immobilier|
+[3001]<KNO1>Vous devez d'abord posséder le savoir-faire pour|
+[3002]<KNO2>(cliquez pour le voir maintenant|
+[3003]<KNO3>et|
+[3004]<KNO4>Et les talents requis pour le projet d'invention devraient être disponibles dans l'année|
+[3005]<KNO5>Les talents requis pour le projet d'invention devraient être disponibles dans l'année|
+[3006]<KNO6>Vous devez d'abord posséder une propriété intellectuelle ou avoir accès à une technologie à source ouverte|
+[3007]<KNO7>Manque de savoir-faire pour le(s) intrant(s) :|
 [3008]<KNO8>Nil|
-[3009]<KNO9>Invention Pre-requisites:|
-[3010]<KN10>Invention Pre-requisite:|
-[3011]<BIP2>Claims Reserves|
-[3012]<BIP3>Claims Reserves|
-[3013]<CBK1>You must first close down all the Bank Branches before you can close down the Bank Headquarters.|
-[3014]Sorry, you cannot close down the bank. La banque ne dispose pas de suffisamment de liquidités pour permettre à tous les déposants de retirer leur argent. Pour y remédier, vous pouvez transférer des fonds de la société mère à la banque.|<CBK2>
-[3015]<CIN1>You must first close down all the Insurance Front Offices before you can close down the Insurance Headquarters.|
-[3016]Sorry, you cannot close down the insurance company. La compagnie d'assurances ne dispose pas de suffisamment de liquidités pour rembourser toutes ses obligations au titre des contrats d'assurance dans les réserves pour sinistres. Pour y remédier, vous pouvez transférer des fonds de la société mère à la compagnie d'assurances|<CIN2>
-[3017]<SOC1>Your subsidiary |
-[3018]<SOC2> has run out of cash!|
-[3019]<BOC1>Your Bank Has Run Out of Cash!|
-[3020]<BOC2>Your Subsidiary Bank |
-[3021]<BOC3> Has Run Out of Cash!|
-[3022]<BOC4>Transfer funds from your corporation to your bank.|
-[3023]<BOC5>Raise funds from your corporation.|
-[3024]<BOC6>Transfer funds from your subsidiary company to the bank.|
-[3025]<BOC7>Raise funds from your subsidiary company|
-[3026]<IOC1>Your Insurance Company Has Run Out of Cash!|
-[3027]<IOC2>The insurance company of your subsidiary |
-[3028]<IOC3> has run out of cash!|
-[3029]<IOC4>Transfer funds from your corporation to your insurance company.|
-[3030]<IOC5>Raise funds from your corporation.|
-[3031]<IOC6>Transfer funds from your subsidiary company to the insurance company.|
-[3032]<IOC7>Raise funds from your subsidiary company.|
-[3033]<BD01>Bond Value Return|
-[3034]<BD02>Received Bond Interests|
-[3035]<AP01>Rental Income|
-[3036]<AP02>Property Maintenance Cost|
+[3009]<KNO9>Conditions préalables à l'invention :|
+[3010]<KN10>Invention pré-requis :|
+[3011]<BIP2>Réserves de créances|
+[3012]<BIP3>Réserves de créances|
+[3013]<CBK1>Vous devez d'abord fermer toutes les succursales de la banque avant de pouvoir fermer le siège social de la banque.|
+[3014]<CBK2>Désolé, vous ne pouvez pas fermer la banque. La banque ne dispose pas de suffisamment de liquidités pour permettre à tous les déposants de retirer leur argent. Pour y remédier, vous pouvez transférer des fonds de la société mère à la banque.|
+[3015]<CIN1>Vous devez d'abord fermer tous les guichets de l'assurance avant de pouvoir fermer le siège social de l'assurance|
+[3016]<CIN2>Désolé, vous ne pouvez pas fermer la compagnie d'assurances. La compagnie d'assurances ne dispose pas de suffisamment de liquidités pour rembourser toutes ses obligations au titre des contrats d'assurance dans les réserves pour sinistres. Pour y remédier, vous pouvez transférer des fonds de la société mère à la compagnie d'assurances|
+[3017]<SOC1>Votre filiale|
+[3018]<SOC2> n'a plus de liquidités !|
+[3019]<BOC1>Votre banque n'a plus de liquidités !|
+[3020]<BOC2>La banque de votre filiale |
+[3021]<BOC3> n'a plus de liquidités !|
+[3022]<BOC4>Transférez des fonds de votre société à votre banque|
+[3023]<BOC5>Collectez des fonds auprès de votre société.|
+[3024]<BOC6>Transférer des fonds de votre filiale à la banque..|
+[3025]<BOC7>Collectez des fonds auprès de votre filiale|
+[3026]<IOC1>Votre compagnie d'assurances est à court de liquidités !|
+[3027]<IOC2>La compagnie d'assurances de votre filiale |
+[3028]<IOC3> n'a plus de liquidités !|
+[3029]<IOC4>Transférez des fonds de votre société à votre compagnie d'assurances.|
+[3030]<IOC5>Collectez des fonds auprès de votre société|
+[3031]<IOC6>Transférez des fonds de votre filiale à la compagnie d'assurances|
+[3032]<IOC7>Collectez des fonds auprès de votre filiale.|
+[3033]<BD01>Rendement de la valeur des obligations|
+[3034]<BD02>Intérêts reçus sur les obligations|
+[3035]<AP01>Revenus de locations|
+[3036]<AP02>Frais d'entretien de la propriété|
 [3037]<DEBT>Dette totale|
 [3038]<DEAS>Ratio dette/actifs|
 [3039]<STOC>Actions|
 [3040]<BOND>Obligations|
 [3041]<DEPO>Dépôt bancaires|
 [3042]<MANS>Valeurs marchandes des manoirs|
-[3043]<BCR1>Your Bank's Capital Ratio is Too Low!|
-[3044]<BCR2>The Capital Ratio of Your Subsidiary Bank |
-[3045]<BCR3> is Too Low!|
-[3046]<BCR4>Bank Capital Ratio|
-[3047]<BCR5>Required Bank Capital Ratio|
-[3048]Le DLC Filiale vous offre un nouvel ensemble d'outils puissants pour conquérir le monde des affaires à une plus grande échelle !<DLC1>
-[3049]Le DLC Simulation économique des villes vous permet de construire de nouvelles villes à partir de zéro, de former votre propre parti politique et d'assumer le rôle de maire tout en développant votre empire commercial !|<DLC2>
-[3050]Le DLC de l'ère numérique vous offre une opportunité passionnante de créer une start-up à l'aube de l'ère numérique et de superviser sa croissance pour finalement devenir une puissance technologique qui rejoint les rangs des titans de la technologie tels que Microsoft et Google !|<DLC3>
-[3051]Le DLC Banque et Finance simule le monde financier avec un niveau de réalisme sans précédent dans les jeux vidéo. Il offre des fonct° puissantes qui permettent de créer des banques et des compagnies d'assurance, d'émettre et de négocier des obligations et d'investir dans des actions mondiales.|<DLC4>
+[3043]<BCR1>Le ratio de fonds propres de votre banque est trop faible !|
+[3044]<BCR2>Le ratio de fonds propres de votre filiale bancaire |
+[3045]<BCR3> est trop faible !|
+[3046]<BCR4>Ratio de capital bancaire|
+[3047]<BCR5>Ratio de capital bancaire requis|
+[3048]<DLC1>Le DLC Filiale vous offre un nouvel ensemble d'outils puissants pour conquérir le monde des affaires à plus grande échelle !|
+[3049]<DLC2>Le DLC simulation économique de la ville vous permet de construire de nouvelles villes à partir de zéro, de former votre propre parti politique et d'assumer le rôle de maire tout en développant votre empire commercial !|
+[3050]<DLC3>Le DLC Age Digital vous offre l'opportunité de créer une start-up à l'aube de l'ère numérique et de superviser sa croissance pour devenir une puissance technologique qui rejoint les rangs des titans de la technologie tels que Microsoft et Google !|
+[3051]<DLC4>Le DLC Banque et Finance simule le monde financier avec réalisme. Il offre des fonct° puissantes qui permettent de créer des banques et des compagnies d'assurance, d'émettre et de négocier des obligations et d'investir dans des actions mondiales.|
 [3052]<LTAX>Pertes cumulées pour une déduction fiscale future|
 [3053]<UNVI>Visiteurs uniques|
 [3054]<UNVM>Visiteurs uniques mensuels|
 [3055]<INTT>Cette société Internet ne dispose pas encore de la technologie nécessaire pour commencer à fonctionner. Construisez un centre de R&D et mettez en place des unités de R&D technologique pour la recherche des technologies nécessaires|
 [3056]<BCRW>Le ratio de fonds propres de votre banque est trop faible et a cessé d'émettre de nouveaux prêts. Pour reprendre l'émission du prêt, accédez à la banque, sélectionnez [Financier] et [Transfert de fonds]. Ensuite, injectez des capitaux dans la banque.
-[3057]<RRD1>Your radical R&D of|
-[3058]<RRD2>is a success!\nYour technology is now|
-[3059]<RRF1>Unfortunately, your radical R&D project of|
-[3060]failed. (Chance de réussite :|<RRF2>
-[3061]<EMP1>Your employee|
-[3062]<EMP2>working on|
-[3063]<EMP3>working in|
-[3064]<EMP4>was headhunted.|
-[3065]<EMP5>was headhunted by|
-[3066]<EMP6>has resigned.|
+[3057]<RRD1>Votre R&D radicale de|
+[3058]<RRD2>est un succès !\nVotre technologie est maintenant|
+[3059]<RRF1>Malheureusement, votre projet radical de R&D de|
+[3060]<RRF2>a échoué. (Chance de réussite :|
+[3061]<EMP1>Votre employé|
+[3062]<EMP2>travaille sur|
+[3063]<EMP3>travaille dans|
+[3064]<EMP4>a été recruté|
+[3065]<EMP5>a été recruté par|
+[3066]<EMP6>a démissionné|
 [3067]<PARC>à la société mère|
 [3068]<INSU>Compagnie d'assurances|
-[3069]<BRB1>Bankruptcy!|
-[3070]<BRB2>liquidates its assets and redeems all its outstanding bonds at the full issue price.|
-[3071]went under with a negative balance in its shareholders' equity. Ses détenteurs d'obligations ont perdu tous leurs investissements dans les obligations|<BRB3>
-[3072]liquidates its assets. Ses détenteurs d'obligations reçoivent|<BRB4>
-[3073]<BRB5>of the original bond values.|
-[3074]<BCA1>Must Take Action|
-[3075]<BCA2>Notification Only|
-[3076]<BCA3>No Notification|
+[3069]<BRB1>Banqueroute !|
+[3070]<BRB2>liquide ses actifs et rachète toutes ses obligations en circulation au prix d'émission.|
+[3071]<BRB3>a fait faillite avec un solde négatif dans ses fonds propres. Ses détenteurs d'obligations ont perdu tous leurs investissements dans les obligations|
+[3072]<BRB4>liquide ses actifs. Ses détenteurs d'obligations reçoivent|
+[3073]<BRB5>de la valeur initiale des obligations|
+[3074]<BCA1>Doit agir|
+[3075]<BCA2>Uniquement notification|
+[3076]<BCA3>Aucune notification|
 [3077]<PTAS>% de l'actif total|
 [3078]<3YRA>Moyenne sur 30 ans|
 [3079]<SABD>Vente d'obligations|
@@ -1895,22 +1895,22 @@
 [3081]<NCAS>Trésorerie nette|
 [3082]<BKRU>Est en FAILLITE|
 [3083]<FTRA>Lorsque vous transférez un centre de R&D, ses projets de R&D existants seront annulés car ils dépendent de la base technologique de l'entreprise. La dépendance est rompue lorsque l'établissement est transférée à un nouveau propriétaire.\n\nÊtes-vous sûr de vouloir continuer ?
-[3084]<FTC1>Sorry, the selected company does not have sufficient cash to buy the firm.|
-[3085]<FTC2>Sorry, the selected company does not have sufficient cash to buy the firms.|
-[3086]<FTM1>Sell this firm to another company under your control.|
-[3087]<FTM2>Sell these firms to another company under your control.|
+[3084]<FTC1>Désolé, l'entreprise sélectionnée ne dispose pas de suffisamment de liquidités pour acheter l'établissement.|
+[3085]<FTC2>]Désolé, l'entreprise sélectionnée n'a pas suffisamment de liquidités pour acheter les établissements|
+[3086]<FTM1>Vendre cet établissement à une autre société sous votre contrôle|
+[3087]<FTM2>>Vendre ces établissements à une autre société sous votre contrôle|
 [3088]<FFMP>Juste valeur marchande|
 [3089]<GACQ>]Quelle société sous votre contrôle va acquérir la société cible ?|
 [3090]<ACQP>Coût d'acquisition|
 [3091]<FTSU>Toutes les entreprises sélectionnées ont été transférées avec succès.|
-[3092]Congratulations! Vous avez réussi à acquérir et à fusionner|<ACP1>
-[3093]<ACP2>into your company.|
-[3094]Congratulations! Vous avez acquis avec succès|<ACP3>
-[3095]<ACP4>It is now a wholly owned subsidiary of your company.|
+[3092]<ACP1>Félicitions ! Vous avez réussi à acquérir et à fusionner|
+[3093]<ACP2>dans votre entreprise.|
+[3094]<ACP3>Félicitations ! Vous avez acquis avec succès|
+[3095]<ACP4>Elle est désormais une filiale à part entière de votre entreprise.|
 [3096]<SENO>Désolé, vous n'avez sélectionné aucun établissement.|
 [3097]<VCLF>VOIR / FERMER DES ÉTABLISSEMENTS|
-[3098]Sorry, the company fails to meet the conditions for going public. La valeur actuelle de ses fonds propres est négative.<IPN1>
-[3099]<IPN2>Sorry, under the current market conditions, no investors are interested in subscribing new shares of the company.|
+[3098]<IPN1>Désolé, la société ne remplit pas les conditions pour entrer en bourse. La valeur actuelle de ses fonds propres est négative.
+[3099]<IPN2>]Désolé, dans les conditions actuelles du marché, aucun investisseur n'est intéressé à souscrire de nouvelles actions de la société.|
 [3100]<SCRO>Vitesse de défilement de la carte|
 [3101]<CTEC>Examiner les offres technologiques|
 [3102]<RDCN>Notification d'achèvement de la R&D|
@@ -1922,41 +1922,41 @@
 [3108]<DISA>Désactivé|
 [3109]<RETA>Vente au détail seulement|
 [3110]<TFNO>Désolé, vous ne pouvez pas transférer cette usine car elle fabrique des #produits logiciels conditionnés#.. Une usine ne peut fabriquer que des versions conditionnés de logiciels qui sont #développés par la même société#|
-[3111]<STB1>Sorry, you cannot execute this share buyback transaction, as a public company's total number of shares outstanding must not be lower than 1,000,000 shares.|
-[3112]<STB2>You cannot use a corporation that you control to buy back its own shares.|
-[3113]<MER1>How would you like|
-[3114]<MER2>to acquire the remaining shares of|
+[3111]<STB1>Désolé, vous ne pouvez pas exécuter cette opération de rachat d'actions, car le nombre total d'actions en circulation d'une société publique ne doit pas être inférieur à un million d'actions.|
+[3112]<STB2>Vous ne pouvez pas utiliser une société que vous contrôlez pour racheter ses propres actions|
+[3113]<MER1>Comment voudriez-vous|
+[3114]<MER2>acquérir les actions restantes de|
 [3115]<MERI>(Vous ne pouvez pas émettre de nouvelles actions pour la fusion car cela dépasserait le nombre maximum d'actions qu'une société est autorisée à émettre)|
-[3116]<TEC1>Not interested, unless you offer|
-[3117]<TEC2>for the technology.|
-[3118]<TEC3>We are not interested in selling this technology to our competitors.|
-[3119]<TEC4>We are not in need of cash and thus not interested in selling our technology.|
-[3120]<SRA1>Your|
-[3121]<SRA2>asked for a salary raise from|
+[3116]<TEC1>Pas intéressé, sauf si vous proposez
+[3117]<TEC2>pour la technologie.|
+[3118]<TEC3>Nous ne sommes pas intéressés par la vente de cette technologie à nos concurrents.|
+[3119]<TEC4>Nous n'avons pas besoin d'argent et ne sommes donc pas intéressés par la vente de notre technologie.|
+[3120]<SRA1>Votre|
+[3121]<SRA2>a demandé une augmentation de salaire|
 [3122]<GNPL>Lancement d'un nouveau produit|
-[3123]Construire une nouvelle ville|<BNC1>
-[3124]Utilisez votre société pour acquérir les droits et construire une nouvelle ville, et désignez un membre de votre parti politique comme maire de la ville.|<BNC2>
-[3125]<KOC1>King of Capitalism|
-[3126]Pour devenir le roi incontesté du capitalisme, vous devez construire un empire commercial tentaculaire avec une liste impressionnante de filiales en réalisant tous les sous-objectifs|<KOC2>
-[3127]La domination de l'ère numérique|<DAD1>
-[3128]Obtenez une position dominante sur le marché des systèmes d'exploitation mobiles et gagnez une part de marché significative dans le secteur de l'internet|<DAD2>
-[3129]"Obtenez une position dominante sur le marché des systèmes d'exploitation informatiques et gagner une part de marché importante dans le secteur de l'internet.|<DAD3>
+[3123]<BNC1>Construit une nouvelle ville|
+[3124]<BNC2>Utilisez votre société pour acquérir les droits et construire une nouvelle ville, et désignez un membre de votre parti politique comme maire de la ville.|
+[3125]<KOC1>Roi du Capitalism|
+[3126]<KOC2>Pour devenir le roi incontesté du capitalisme, vous devez construire un empire commercial tentaculaire avec une liste impressionnante de filiales en réalisant tous les sous-objectifs|
+[3127]<DAD1>La domination de l'ère numérique|
+[3128]<DAD2>Obtenez une position dominante sur le marché des systèmes d'exploitation mobiles et gagnez une part de marché significative dans le secteur de l'internet|
+[3129]<DAD3>Obtenez une position dominante sur le marché des systèmes d'exploitation informatiques et gagner une part de marché importante dans le secteur de l'internet.|
 [3130]<MDOM>Obtenir une position dominante sur le marché en|
-[3131]<LAU1>Launch|
-[3132]<LAU2>Set up a farm to produce|
-[3133]<LAU3>Set up a factory to produce|
-[3134]<LAU4>and launch it onto the market|
-[3135]<GSU1>Subsidiaries with Net Worth of|
-[3136]<GSU2>Subsidiaries with Market Value of|
-[3137]<GSU3>Subsidiaries with Annual Revenue of|
-[3138]<GSU4>Subsidiaries with Operating Profit of|
-[3139]<GSU5>Subsidiaries with Dominance in|
-[3140]<IND1>Industry|
+[3131]<LAU1>Lancement|
+[3132]<LAU2>Créer une ferme pour produire|
+[3133]<LAU3>Créer une usine pour produire|
+[3134]<LAU4>et le lancer sur le marché|
+[3135]<GSU1>Filiales avec une valeur nette de|
+[3136]<GSU2>Filiales ayant une valeur marchande de|
+[3137]<GSU3>Filiales ayant un revenu annuel de|
+[3138]<GSU4>]Filiales avec un bénéfice d'exploitation de|
+[3139]<GSU5>Filiales à prédominance en|
+[3140]<IND1>Industrie|
 [3141]<IND2>Industries|
-[3142]<GSU6>Subsidiaries IPOs with $1 billion market cap|
+[3142]<GSU6>Introduction en bourse de filiales avec une capitalisation boursière d'un milliard de dollars|
 [3143]<GLSR>Rendement à vie des actionnaires|
-[3144]<GOW1>Own at least|
-[3145]<GOW2>equity in|
+[3144]<GOW1>Possède au moins|
+[3145]<GOW2>capitaux propres en|
 [3146]<GBNC>Construire une nouvelle ville|
 [3147]<NCIT>Nombre de villes que vous gérez|
 [3148]<GNPO>Population nationale|
@@ -1972,20 +1972,20 @@
 [3158]<MINT>Part de marché des sites Internet en termes de recettes|
 [3159]<GTEC>Leadership en matière de technologie pour|
 [3160]<GMDO>Position dominante de|
-[3161]<OCI1>of Your City|
-[3162]<OCI2>of Your Cities|
+[3161]<OCI1>de votre ville|
+[3162]<OCI2>de vos villes|
 [3163]<NGOA>Vous avez un nouvel objectif !|
-[3164]<INS1>Sorry, you are not allowed to use cash from your insurance company to buy shares of your corporation.|
-[3165]<INS2>Sorry, you are not allowed to use cash from this insurance company to buy shares of its parent corporation.|
-[3166]<ICR1>Your Insurance Company's Capital Ratio is Negative!|
-[3167]<ICR2>The Capital Ratio of Your Subsidiary Insurance Company |
-[3168]<ICR3> is Too Low!|
-[3169]<ICR4>Insurance Company Capital Ratio|
-[3170]<CE01>The CEO previously considered setting up new a firm but decided not to do so because the company's debt level was too high.|
-[3171]<CE02>The CEO previously considered setting up|
-[3172]<CE03>but decided not to do so because the company's cash and profit situation was not good enough to support business expansion.|
-[3173]<CE04>but decided not to do so because the company's cash level was too low to support business expansion.|
-[3174]This cash level of this subsidiary company is too low. Le PDG n'est pas à l'aise avec la création de nouvelles entreprises.|<CE05>
-[3175]<CE06>Adequate cash level for expansion:|
-[3176]<CE07>Adequate annual profit for expansion:|
+[3164]<INS1>Désolé, vous n'êtes pas autorisé à utiliser l'argent de votre compagnie d'assurance pour acheter des actions de votre société..|
+[3165]<INS2>Désolé, vous n'êtes pas autorisé à utiliser l'argent de cette compagnie d'assurance pour acheter des actions de sa société mère|
+[3166]<ICR1>Le ratio de capital de votre compagnie d'assurance est négatif !|
+[3167]<ICR2>Le ratio de fonds propres de votre compagnie d'assurance filiale|
+[3168]<ICR3> est trop faible !|
+[3169]<ICR4>]Ratio de capital des compagnies d'assurances|
+[3170]<CE01>Le PDG avait déjà envisagé de créer un nouvel établissement, mais il a décidé de ne pas le faire parce que le niveau d'endettement de la société était trop élevé.
+[3171]<CE02>>Le PDG avait déjà envisagé de créer|
+[3172]<CE03>mais a décidé de ne pas le faire parce que la situation de la société en matière de trésorerie et de bénéfices n'était pas assez bonne pour soutenir l'expansion de l'entreprise.|
+[3173]<CE04>mais a décidé de ne pas le faire parce que le niveau de trésorerie de la société était trop faible pour soutenir l'expansion de l'entreprise|
+[3174]<CE05>Le niveau de trésorerie de cette filiale est trop faible. Le PDG n'est pas à l'aise avec la création de nouvelles entreprises.|
+[3175]<CE06>]Un niveau de trésorerie suffisant pour l'expansion: | 
+[3176]<CE07>Un profit annuel suffisant pour l'expansion:|
 

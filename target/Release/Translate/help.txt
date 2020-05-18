@@ -1937,7 +1937,7 @@ Le ratio P / B ou le ratio prix / valeur comptable
 Il est calculé en divisant le prix actuel de l'action par l'équité par action. Un ratio P / B inférieur à 1,0 signifie que l'action se négocie actuellement à un prix inférieur à sa valeur nette
 ~
 STK_DIVI
-Rendement des dividendes
+Rendement des div.
 Il s'agit d'un pourcentage calculé en divisant le dernier dividende versé par le cours de l'action. Plus le rendement du dividende est élevé, plus chaque investisseur reçoit de liquidités lors du versement du dividende chaque année.
 ~
 STK_RETA
@@ -1966,10 +1966,10 @@ Accès au forum MOD de Capitalism Lab pour télécharger les MOD's créés par l
 ~
 DIVPAYO
 Ratio de distribution des dividendes
-Il s'agit du pourcentage des bénéfices versés aux actionnaires sous forme de dividendes. (Le ratio de distribution des dividendes est calculé sur la base du bénéfice par action, tandis que le rendement des dividendes est calculé sur la base du cours de l'action).
+Il s'agit du pourcentage des bénéfices versés aux actionnaires sous forme de dividendes. (Le ratio de distribution des dividendes est calculé sur la base du bénéfice par action, tandis que le Rendement des div. est calculé sur la base du cours de l'action).
 ~
 DIVYIELD
-Rendement des dividendes annuel
+Rendement des div. annuel
 Il s'agit d'un pourcentage calculé en divisant le dernier dividende versé par le cours de l'action. Plus le rendement du dividende est élevé, plus chaque investisseur reçoit de liquidités lors du versement du dividende chaque année.
 ~
 REDIRECT
