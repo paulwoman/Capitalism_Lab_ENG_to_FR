@@ -160,8 +160,8 @@
       <tuv lang="en-US">
         <seg>(Dividend Payout Ratio is calculated based on earnings per share, whereas Dividend Yield is calculated based on the stock price.)</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T170829Z" creationid="Olivier" creationdate="20200504T170829Z">
-        <seg>(Le ratio de distribution des dividendes est calculé sur la base du bénéfice par action, tandis que le rendement des dividendes est calculé sur la base du cours de l'action).</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200518T215843Z" creationid="Olivier" creationdate="20200504T170829Z">
+        <seg>(Le ratio de distribution des dividendes est calculé sur la base du bénéfice par action, tandis que le Rendement des div. est calculé sur la base du cours de l'action).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2600,8 +2600,8 @@
       <tuv lang="en-US">
         <seg>Actual Dividend Yield</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T170936Z" creationid="Olivier" creationdate="20200504T170936Z">
-        <seg>Rendement des dividendes annuel</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200518T215843Z" creationid="Olivier" creationdate="20200504T170936Z">
+        <seg>Rendement des div. annuel</seg>
       </tuv>
     </tu>
     <tu>
@@ -3200,8 +3200,8 @@
       <tuv lang="en-US">
         <seg>Another figure which you may find useful is the ~Dividend Yield~.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T152911Z" creationid="Olivier" creationdate="20200425T152911Z">
-        <seg>Un autre chiffre qui peut vous être utile est le ~Rendement des dividendes~.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200518T215843Z" creationid="Olivier" creationdate="20200425T152911Z">
+        <seg>Un autre chiffre qui peut vous être utile est le ~Rendement des div.~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9800,8 +9800,8 @@
       <tuv lang="en-US">
         <seg>Dividend Yield</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T155756Z" creationid="Olivier" creationdate="20200504T155756Z">
-        <seg>Rendement des dividendes</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200518T215843Z" creationid="Olivier" creationdate="20200504T155756Z">
+        <seg>Rendement des div.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42979,8 +42979,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0832]&lt;0052&gt;Dividend Yield|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T143931Z" creationid="Olivier" creationdate="20200429T143931Z">
-        <seg>[0832]&lt;0052&gt;Rendement des dividendes|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200518T215841Z" creationid="Olivier" creationdate="20200429T143931Z">
+        <seg>[0832]&lt;0052&gt;Rendement des div.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -43803,8 +43803,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1013]&lt;0170&gt;Operating Profit|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T162335Z" creationid="Olivier" creationdate="20200429T162335Z">
-        <seg>[1013]&lt;0170&gt;Bénéfice d'exploitation|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200518T222042Z" creationid="Olivier" creationdate="20200429T162335Z">
+        <seg>[1013]&lt;0170&gt;Bén. d'exploitation|</seg>
       </tuv>
     </tu>
     <tu>
@@ -43915,8 +43915,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1033]&lt;0190&gt;Annual Revenue|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200504T102547Z" creationid="Inrepublica" creationdate="20200504T102547Z">
-        <seg>[1033]&lt;0190&gt;Recettes annuelles|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200518T220642Z" creationid="Inrepublica" creationdate="20200504T102547Z">
+        <seg>[1033]&lt;0190&gt;Recettes anl|</seg>
       </tuv>
     </tu>
     <tu>
@@ -44259,8 +44259,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1081]&lt;0237&gt;Dividend Yield|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T152356Z" creationid="Olivier" creationdate="20200508T152356Z">
-        <seg>[1081]&lt;0237&gt;Rendement des dividendes|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200518T215843Z" creationid="Olivier" creationdate="20200508T152356Z">
+        <seg>[1081]&lt;0237&gt;Rendement des div.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -44395,8 +44395,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1100]&lt;0256&gt;Dividend Yield|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T154343Z" creationid="Olivier" creationdate="20200508T154343Z">
-        <seg>[1100]&lt;0256&gt;Rendement des dividendes|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200518T215843Z" creationid="Olivier" creationdate="20200508T154343Z">
+        <seg>[1100]&lt;0256&gt;Rendement des div.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -44483,8 +44483,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1113]&lt;0268&gt;Dividend Yield|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T155218Z" creationid="Olivier" creationdate="20200508T155205Z">
-        <seg>[1113]&lt;0268&gt;Rendement des dividendes|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200518T215843Z" creationid="Olivier" creationdate="20200508T155205Z">
+        <seg>[1113]&lt;0268&gt;Rendement des div.|</seg>
       </tuv>
     </tu>
     <tu>
