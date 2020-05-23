@@ -46611,24 +46611,24 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1480]&lt;0545&gt;Quality is determined by:|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T142812Z" creationid="Olivier" creationdate="20200509T142812Z">
-        <seg>[1480]&lt;0545&gt;La qualité est déterminée par :|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200523T171047Z" creationid="Olivier" creationdate="20200509T142812Z">
+        <seg>[1480]&lt;0545&gt;La qualité est dét. par :|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1481]&lt;0546&gt;Production Tech|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T142839Z" creationid="Olivier" creationdate="20200509T142839Z">
-        <seg>[1481]&lt;0546&gt;Technologie de production|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200523T171051Z" creationid="Olivier" creationdate="20200509T142839Z">
+        <seg>[1481]&lt;0546&gt;Tech. de prod.|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1482]&lt;0547&gt;Raw Material Quality|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T142848Z" creationid="Olivier" creationdate="20200509T142848Z">
-        <seg>[1482]&lt;0547&gt;Qualité des matières premières|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200523T171111Z" creationid="Olivier" creationdate="20200509T142848Z">
+        <seg>[1482]&lt;0547&gt;Qual. des mat. premières|</seg>
       </tuv>
     </tu>
     <tu>
@@ -46643,8 +46643,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1484]&lt;0549&gt;Tech Known to You|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T142928Z" creationid="Olivier" creationdate="20200509T142928Z">
-        <seg>[1484]&lt;0549&gt;Technologies dont vous avez connaissances|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200523T171123Z" creationid="Olivier" creationdate="20200509T142928Z">
+        <seg>[1484]&lt;0549&gt;Tech. que vous connaissez|</seg>
       </tuv>
     </tu>
     <tu>
@@ -49331,24 +49331,24 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2113]&lt;AU00&gt;News related to all corporations|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T093055Z" creationid="Olivier" creationdate="20200510T093011Z">
-        <seg>[2113]&lt;AU00&gt;Actualités relative à toutes les entreprises|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200523T170953Z" creationid="Olivier" creationdate="20200510T093011Z">
+        <seg>[2113]&lt;AU00&gt;Actualités de toutes les entreprises|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2114]&lt;AU01&gt;News related to corporations that you control + Special news|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T093108Z" creationid="Olivier" creationdate="20200510T093017Z">
-        <seg>[2114]&lt;AU01&gt;Actualités relatives aux sociétés que vous contrôlez + Actualités spéciales|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200523T171007Z" creationid="Olivier" creationdate="20200510T093017Z">
+        <seg>[2114]&lt;AU01&gt;Actualités des sociétés que vous contrôlez + Actualités spéciales|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2115]&lt;AU02&gt;News related to your corporation + Special news|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T093138Z" creationid="Olivier" creationdate="20200510T093138Z">
-        <seg>[2115]&lt;AU02&gt;Actualités relatives à votre société + Nouvelles spéciales|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200523T171024Z" creationid="Olivier" creationdate="20200510T093138Z">
+        <seg>[2115]&lt;AU02&gt;Actualités de votre société + Nouvelles spéciales|</seg>
       </tuv>
     </tu>
     <tu>
