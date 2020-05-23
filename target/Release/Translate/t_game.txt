@@ -147,11 +147,11 @@
 [0582]<SYD1>TRICHE ACTIVÉ|
 [0583]<SYF1>Sauvegarder|
 [0584]<AIG0>Diversifié|
-[0585]<AIG1>Centré sur la vente au détail|
+[0585]<AIG1>Centré sur la distribution|
 [0586]<AIG2>Centré sur la bourse|
 [0587]<AIG3>Centré sur l'immobilier|
 [0588]<AIS0>Tous|
-[0589]<AIS1>Vente au détail|
+[0589]<AIS1>Distribution|
 [0590]<AIS2>Actions|
 [0591]<AIS3>Immobilier|
 [0592]<CET1>Mois des semences|
@@ -181,7 +181,7 @@
 [0630]<DI25>Média|
 [0631]<DI26>Points de classements|
 [0632]<DI27>Coût publicitaire (CPM)|
-[0633]<ECO0>Vente au détail|
+[0633]<ECO0>Distribution|
 [0634]<ECO1>Fabrication|
 [0635]<ECO2>Agriculture|
 [0637]<FAT1>Petit|
@@ -243,8 +243,8 @@
 [0708]<FBK7>Rembourser|
 [0715]<FET1>Types de bâtiments|
 [0716]<FET2>Sélectionnez|
-[0717]<FET3>Installer :|
-[0718]<FET4>Mensuel:|
+[0717]<FET3>Inst. :|
+[0718]<FET4>Mens. :|
 [0719]<FET5>Veuillez sélectionner un emplacements|
 [0721]<FET7>Prix du terrain : |
 [0722]<FET8>L'emplacement est occupé par des résidences|
@@ -327,7 +327,7 @@
 [0811]<0031>Bureau du Directeur général|
 [0812]<0032>Directeur général|
 [0813]<0033>Années de service|
-[0814]<0034>Vente au détail|
+[0814]<0034>Distribution|
 [0815]<0035>Recherche et Développement|
 [0816]<0036>Production de matières premières|
 [0817]<0037>Marketing|
@@ -365,7 +365,7 @@
 [0869]<0084>Un produit|
 [0870]<0085>Part de marché|
 [0871]<0086>Production|
-[0872]<0087>Vente au détail|
+[0872]<0087>Distribution|
 [0873]<0088>Producteur |
 [0874]<0089>Distributeur |
 [0875]<0090>Qualité du produit|
@@ -388,8 +388,8 @@
 [0897]<0109>N'est plus en activité|
 [0898]<A400>Aperçu financier|
 [0899]<A401>Aperçu des actions|
-[0900]<A402>Relations commerciales|
-[0901]<A403>Vue d'ensemble des établissements|
+[0900]<A402>Relati° commerciales|
+[0901]<A403>Vue d'ens. des firmes|
 [0902]<0110>Acheter|
 [0903]<0111>Aperçu|
 [0904]<0112>Firmes|
@@ -439,7 +439,7 @@
 [0953]<0161>Classements|
 [0954]<0162>Leader|
 [1007]<0164>Description|
-[1013]<0170>Bén. d'exploitation|
+[1013]<0170>Bén. d'exploitat°
 [1015]<0172>Bénéfice net|
 [1016]<0173>Actionnaires|
 [1017]<0174>Graphique|
@@ -452,14 +452,14 @@
 [1028]<0185>Aperçu financier|
 [1029]<0186>Aperçu des actions|
 [1031]<0188>Sociétés privées|
-[1032]<0189>Vue d'ensemble des établissements|
+[1032]<0189>Vue d'ens. des firmes|
 [1033]<0190>Recettes anl|
 [1034]<0191>Bénéfice brut annuel|
 [1035]<0192>Production & commerce de détail|
 [1036]<0193>Production|
-[1037]<0194>Vente au détail|
+[1037]<0194>Distribution|
 [1039]<0196>Recette|
-[1040]<0197>bénéfice d'exploitation|
+[1040]<0197>Bén. d'exploitat°
 [1041]<0198>Bénéfice net|
 [1042]<0199>Valeur nette|
 [1043]<0200>Cours de l'action|
@@ -709,7 +709,7 @@
 [1400]<0465>Prendre sa retraite|
 [1401]<0466>Investisseurs indépendants|
 [1402]<0467>Attitude envers vous|
-[1403]<0468>Salaire annuel|</0468>
+[1403]<0468>Salaire annuel|
 [1404]<0469>Mettre fin au contrat de travail
 [1405]<0470>Engager le directeur d'exploitation
 [1406]<0471>Embaucher le directeur général du marketing</0471>
@@ -735,12 +735,12 @@
 [1476]<0541>Progression de la croissance|
 [1477]<0542> unités|
 [1478]<0248> unité|
-[1479]<0544>Qualité : |
-[1480]<0545>La qualité est déterminée par :|
-[1481]<0546>Technologie de production|
-[1482]<0547>Qualité des matières premières|
+[1479]<0544>Qualité|
+[1480]<0545>La qualité est dét. par :|
+[1481]<0546>Tech. de prod.|
+[1482]<0547>Qual. des mat. premières|
 [1483]<0548>Technologie inventée|
-[1484]<0549>Technologies dont vous avez connaissances|
+[1484]<0549>Tech. que vous connaissez|
 [1485]<0550>Personnage :|
 [1487]<0552>Degrés (0-100)|
 [1488]<0553>Investir dans la recherche et le développement|
@@ -886,12 +886,12 @@
 [1825]<0829>Recettes annuelles|
 [1826]<0830>Valeur nette|
 [1827]<0831>Résultat d'exploitation annuel|
-[1828]<0832>Capitalisation boursière|
+[1828]<0832>Cap. boursière|
 [1829]<0833>Objectifs des sociétés contrôlées par le joueur (millions $)|
 [1830]<0834>Recettes annuelles|
 [1831]<0835>Valeur nette|
 [1832]<0836>Résultat d'exploitation annuel|
-[1833]<0837>Capitalisation boursière|
+[1833]<0837>Cap. boursière|
 [1834]<0838>Nbre de sociétés contrôlées|
 [1835]<0839>Objectifs de la société mère du joueur|
 [1836]<0840>Nbre total d'employés|
@@ -912,7 +912,7 @@
 [1851]<0855>Enlever|
 [1852]<0856>Tout enlever|
 [1853]<0859> an|
-[1856]<0860> (ans)|
+[1856]<0860> ans)|
 [1857]<AL00>|
 [1858]<AL01> millions|
 [1859] <AL02>milliards|
@@ -1037,9 +1037,9 @@
 [2110]<AT01>Actualités financières|
 [2111]<AT02>Actualité des technologies|
 [2112]<AT03>Actualités spéciales|
-[2113]<AU00>Actualités relative à toutes les entreprises|
-[2114]<AU01>Actualités relatives aux sociétés que vous contrôlez + Actualités spéciales|
-[2115]<AU02>Actualités relatives à votre société + Nouvelles spéciales|
+[2113]<AU00>Actualités de toutes les entreprises|
+[2114]<AU01>Actualités des sociétés que vous contrôlez + Actualités spéciales|
+[2115]<AU02>Actualités de votre société + Nouvelles spéciales|
 [2116]<AU03>Nouvelles spéciales seulement|
 [2117]<1038> Nouveau concurrent|
 [2118]<1039> Installer l'établissement|
@@ -1920,7 +1920,7 @@
 [3106]<PSYN>Synchronisation des prix par défaut|
 [3107]<ENBL>Activé|
 [3108]<DISA>Désactivé|
-[3109]<RETA>Vente au détail seulement|
+[3109]<RETA>Distribution seulement|
 [3110]<TFNO>Désolé, vous ne pouvez pas transférer cette usine car elle fabrique des #produits logiciels conditionnés#.. Une usine ne peut fabriquer que des versions conditionnés de logiciels qui sont #développés par la même société#|
 [3111]<STB1>Désolé, vous ne pouvez pas exécuter cette opération de rachat d'actions, car le nombre total d'actions en circulation d'une société publique ne doit pas être inférieur à un million d'actions.|
 [3112]<STB2>Vous ne pouvez pas utiliser une société que vous contrôlez pour racheter ses propres actions|

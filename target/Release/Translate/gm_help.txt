@@ -351,7 +351,7 @@ Impact économique du défauts de remboursement des prêts
 Elle détermine l'impact de l'économie sur le taux de défaillance des prêts. Lorsque cette valeur est fixée à un niveau supérieur, les défauts de remboursement des prêts s'envolent à un rythme plus élevé en période de ralentissement économique, ce qui peut entraîner une crise de liquidité.
 ~
 BOOMBUST
-Volatilité du cycle expansion-récessionle 
+Volatilité du cycle expansion-récession 
 Cela permet d'ajuster l'impact de l'économie sur la demande des consommateurs, ce qui affecte le PIB et, par conséquent, la volatilité du cycle d'expansion et d'effondrement. (Le cycle expansion-récession est l'expansion et la contraction du cycle économique qui se produisent de manière répétée).
 ~
 GSTKINIT

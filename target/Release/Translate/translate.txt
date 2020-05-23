@@ -1,8 +1,5 @@
-English|
-Français|
-~
-(CEO expertise)|
-(expertise du PDG)|
+(PDG compétence)|
+(compétence du PDG)|
 ~
 (Main Goal)|
 (Objectif principal)|
@@ -28,7 +25,7 @@ Français|
 *You don't have the tech yet.|
 *Vous n'avez pas encore la technologie.|
 ~
-1-year Return|
+1-an rendement|
 Rendement à 1 an|
 ~
 10-year Return|
@@ -67,11 +64,62 @@ Air Conditionné|
 Aliminum|
 Aluminium|
 ~
+All|
+Tous|
+~
 All Cities|
 Toutes les villes|
 ~
+All Firms|
+Tous les établissements|
+~
+All Media|
+Tous les médias|
+~
+All Media Firms|
+Tous les établissements de médias|
+~
+All my Factorys (F3)|
+Toutes mes Factorys (F3)|
+~
+All my Farms (F3)|
+Toutes mes fermes (F3)|
+~
+All my Logging Camps (F3)|
+Tous mes chantiers forestiers (F3)|
+~
+All my Mines (F3)|
+Toutes mes mines (F3)|
+~
+All my Newspaper Publishers (F3)|
+Tous mes éditeurs de journaux (F3)|
+~
+All my Oil Wells (F3)|
+Tous mes puits de pétrole (F3)|
+~
+All my R&D Centers (F3)|
+Tous mes centres de R&D (F3)|
+~
+All my Radio Stations (F3)|
+Toutes mes stations de radio (F3)|
+~
+All my Retail Stores (F3)|
+Tous mes magasins de détail (F3)|
+~
+All my TV Stations (F3)|
+Toutes mes stations de télévision (F3)|
+~
+All my Warehouses (F3)|
+Tous mes entrepôts (F3)|
+~
+All of my firms (F2)|
+Tous mes établissements (F2)|
+~
 Any|
 Tous|
+~
+Apartment|
+Appartement|
 ~
 Apparel Store|
 Magasin de vêtements|
@@ -91,6 +139,18 @@ Cote d'approbation|
 Apps Availability|
 Disponibilité des applications|
 ~
+Auto Adjust Civic Buildings|
+Réglage automatique des bâtiments municipaux|
+~
+Auto Manage Apartments|
+Gestion automatique des appartements|
+~
+Auto Manage Commercial Buildings|
+Gestion automatique des bâtiments commerciaux|
+~
+Auto Manage Media Firms|
+Gestion automatique des établissements de médias|
+~
 Automobile Outlet|
 Concessionnaire|
 ~
@@ -99,6 +159,39 @@ Retour|
 ~
 Back Pack|
 Sac à Dos|
+~
+Bank|
+Banque|
+~
+Bank Branch|
+Succursale de banque|
+~
+Bank Brand Rating|
+Notoriété de la marque bancaire|
+~
+Bank Deposits|
+Dépôts bancaires|
+~
+Bank Headquarters|
+Siège de la banque|
+~
+Bank Loans|
+Emprunts bancaires|
+~
+Bank Net Assets|
+Actifs nets des banques|
+~
+Bank Net Profit|
+Bénéfice net de la banque|
+~
+Banking and Finance|
+Banque et finances|
+~
+Banking and Finance DLC|
+DLC banques et finances|
+~
+Banking DLC|
+DLC banque|
 ~
 Base Game|
 Jeu de base|
@@ -163,6 +256,18 @@ Conserve de Soupe|
 CCD|
 Capteur Photo|
 ~
+Chemical Minerals|
+Minéraux chimiques|
+~
+Chengdu|
+Chengdu|
+~
+Chewing Gum|
+Gomme à mâcher|
+~
+Chewing Gum Technology|
+Technologie du chewing-gum|
+~
 Cities|
 Villes|
 ~
@@ -199,11 +304,74 @@ Total de la ville|
 Civic Building|
 Bâtiment civique|
 ~
+Coal|
+Charbon|
+~
+Cocoa|
+Cacao|
+~
+Coconut|
+Noix de coco|
+~
+Coconut Oil|
+Huile de noix de coco|
+~
+Cocos (Keeling) Islands|
+Îles Cocos (Keeling)|
+~
+Cola|
+Cola|
+~
+Cola Technology|
+Technologie Cola|
+~
+Cold Pills|
+Les pilules du froid|
+~
+Cold Pills Technology|
+Technologie des pilules de froid|
+~
+Commercial Building|
+Bâtiment commercial|
+~
+Commercial Building Capacity Modifier|
+Modificateur de la capacité de renforcement commercial|
+~
+Commercial Buildings|
+Bâtiments commerciaux|
+~
+Common Stock|
+Actions ordinaires|
+~
+Communication Devices|
+Dispositifs de communication|
+~
+Community Facilities|
+Équipements collectifs|
+~
+Commuting Convenience|
+Commodité des déplacements|
+~
 Computer Store|
 Magasin d'informatique|
 ~
 Considerably Easier|
 Beaucoup plus facile|
+~
+Constantine the Great|
+Constantin Le Grand|
+~
+Consumer|
+Consommateur|
+~
+Consumer Price Index|
+Indice des prix à la consommation|
+~
+Consumer Tax|
+Taxe à la consommation|
+~
+Consumer Tax Rate|
+Taux d'imposition des consommateurs|
 ~
 Convenience Store|
 Superette|
@@ -259,6 +427,24 @@ Niveau de difficulté|
 DIFFICULTY RATING|
 ÉVALUATION DE LA DIFFICULTÉ|
 ~
+Digital|
+Numérique|
+~
+Digital Age|
+L'ère numérique|
+~
+Digital Age DLC|
+DLC à l'ère du numérique|
+~
+Digital Age Dominance|
+La domination de l'ère numérique|
+~
+Digital Age Dominance (Main Goal)|
+La domination de l'ère numérique (objectif principal)|
+~
+Digital Guide|
+Guide numérique|
+~
 Discount Megastore|
 Centre commercial|
 ~
@@ -294,6 +480,12 @@ Magasin d'électroménager|
 ~
 Enable DLC|
 Activer le DLC|
+~
+Factory|
+Usine|
+~
+Farm|
+Ferme|
 ~
 Finance Department|
 Département des finances|
@@ -334,11 +526,44 @@ Entreprises à vendre|
 Footwear Store|
 Magasin de chaussures|
 ~
+For All % in this city|
+Pour tous % dans cette ville|
+~
+For Experienced Players looking for More Challenge.|
+Pour les joueurs expérimentés à la recherche de plus de défis.|
+~
+For Expert Players Only. Not recommended for normal players.|
+Pour les joueurs experts seulement. Non recommandé pour les joueurs normaux.|
+~
 Frequent|
 Fréquent|
 ~
 Furniture Store|
 Magasin de meubles|
+~
+GDP Component|
+Composante du PIB|
+~
+GDP Components Graphs|
+Graphiques des composantes du PIB|
+~
+GDP Growth|
+Croissance du PIB|
+~
+GDP of Detroit|
+PIB de Detroit|
+~
+GDP of Pittsburgh|
+PIB de Pittsburgh|
+~
+GDP Per Capita|
+PIB par habitant|
+~
+GDP: Consumption|
+PIB : Consommation|
+~
+General Store|
+Hypermarché|
 ~
 Goal|
 Objectif|
@@ -369,6 +594,9 @@ Grade School|
 ~
 Harder|
 Plus difficile|
+~
+Headquarters|
+Siège social|
 ~
 Hi-fi System|
 Système hi-fi|
@@ -427,6 +655,21 @@ Histoire|
 Hospital|
 Hôpital|
 ~
+Insurance Headquarters|
+Siège social de la compagnie d'assurance|
+~
+Insurance Net Assets|
+Actif net de l'assurance|
+~
+Insurance net Profit|
+Bénéfice net de la compagnie d'assurance|
+~
+Internet Company|
+Entreprise Internet|
+~
+Investment|
+Investissement|
+~
 Iraq|
 Irak|
 ~
@@ -475,6 +718,9 @@ Prix d'émission (doit être INFERIEUR au prix du marché)|
 Jewelry and Watch Shop|
 Bijouterie|
 ~
+Land Cost|
+Coût du terrain|
+~
 Leather|
 Cuir|
 ~
@@ -487,14 +733,14 @@ Moins difficile|
 Library|
 Bibliothèque|
 ~
+Lifetime|
+Vie entière|
+~
 Load|
 Charger|
 ~
 LOAD GAME (L)|
 CHARGER (L)|
-~
-LOAD GAME (L)|
-CHARGER UNE PARTIE (L)|
 ~
 LOAD SCRIPT|
 CHARGEMENT DU SCRIPT|
@@ -539,7 +785,7 @@ Logging|
 Connexion|
 ~
 Logging Camp|
-Camp d'exploitation forestière|
+Exploitation forestière|
 ~
 Logging Unit|
 Unité d'exploitation forestière|
@@ -549,6 +795,9 @@ Londres|
 ~
 Low|
 Bas|
+~
+Mansion|
+Manoir|
 ~
 Map shows: City Hall|
 Montrer sur la carte : Hôtel de ville|
@@ -592,6 +841,18 @@ Montrer sur la carte : Terrain de tennis|
 Map shows: University|
 Montrer sur la carte : Université|
 ~
+Market Cap|
+Cap. boursière|
+~
+Market Cap at IPO|
+Cap. boursière lors de l'IPO|
+~
+Market Capitalization|
+Cap. boursière|
+~
+Media Firm|
+Entreprises médiatiques|
+~
 Mft|
 Fab|
 ~
@@ -609,6 +870,21 @@ Lait|
 ~
 million|
 millions|
+~
+Missing Required Tech|
+Technologie manquante|
+~
+Mobile Phone|
+Téléphone portable|
+~
+Mobile Phone Technology|
+Technologie de la téléphonie mobile|
+~
+MOD in use|
+Utilisation du MOD|
+~
+MOD Setting|
+Réglage du MOD|
 ~
 Moderate|
 Modéré|
@@ -649,16 +925,76 @@ Taux de chômage national|
 National Wage Rate|
 Taux de salaire national|
 ~
+Natural Resource|
+Ressources naturelles|
+~
+Natural Resource units|
+Unités de ressources naturelles|
+~
+Natural Resources Firm|
+Ét. ressources naturelles|
+~
 Never|
 Jamais|
+~
+Normal|
+Normal|
+~
+Normal Difficulty. Enjoyable for Most Players.|
+Difficulté normale. Agréable pour la plupart des joueurs.|
+~
+Normal Savegame|
+Sauvegarde normale|
+~
+Northern Mariana Islands|
+Îles Mariannes du Nord|
+~
+Norway|
+Norvège|
+~
+Not For Sale|
+Pas à vendre|
+~
+Notebook Computer|
+Ordinateur portable|
+~
+Notebook Computer Technology|
+Technologie des ordinateurs portables|
+~
+Number of Branches|
+Nombre d'agences|
+~
+Number of Cities You Manage|
+Nombre de villes que vous gérez|
+~
+Number of Game Years|
+Nombre d'années de jeu|
+~
+Number of New Shares|
+Nombre de nouvelles actions|
+~
+Number of shares for IPO|
+Nombre d'actions pour l'introduction en bourse|
+~
+Number of Shares in Existence|
+Nombre d'actions existantes|
+~
+Number of Subscribers|
+Nombre d'abonnés|
 ~
 Occasional|
 Occasionnel|
 ~
+Oil|
+Pétrole|
+~
 Original Difficulty|
 Difficulté initiale|
 ~
-Owned %|
+Owned|
+Détenues|
+~
+[1556]<0621>% possédé|
 % détenu|
 ~
 Owned Bonds|
@@ -671,7 +1007,7 @@ Owned for|
 Détenu par|
 ~
 Owned Qty|
-Qté détenues|
+Qté dét.|
 ~
 Owned Stocks|
 Actions détenues|
@@ -696,6 +1032,12 @@ Propriétaire :|
 ~
 Ownership|
 Propriétaire|
+~
+pair|
+paires|
+~
+pairs|
+paire|
 ~
 Personal Cash Bonus|
 Bonus personnel en espèces|
@@ -742,6 +1084,9 @@ Polyester|
 Polyester Technology|
 Technologie du polyester|
 ~
+Price Premium|
+Prix majoré|
+~
 Product Class|
 Classe de produits|
 ~
@@ -766,14 +1111,83 @@ Méga-catégorie de produits|
 Products|
 Produits|
 ~
+Public Bondholders|
+Détenteurs d'obligations publiques|
+~
+Public Challenge Games|
+Jeux de défi public|
+~
+Public Expenses Index|
+Indice des dépenses publiques|
+~
+Public Facilities|
+Équipements publics|
+~
+Public Facilities Assets|
+Biens des équipements publics|
+~
+Public Relations Department|
+Département des relations publiques|
+~
 Purchasing|
 Achats|
+~
+R&D|
+R&D|
+~
+R&D Center|
+Centre de R&D|
+~
+R&D COMPLETION NOTIFICATION|
+NOTIFICATION D'ACHÈVEMENT DE LA R&D|
+~
+R&D Duration|
+Durée de la R&D|
+~
+R&D Expense|
+Dépenses de R&D|
+~
+R&D Expenses|
+Dépenses de R&D|
+~
+R&D Progress|
+Progrès de la R&D|
+~
+R&D Projects|
+Projets de R&D|
+~
+R&D units|
+Unités de R&D|
 ~
 Randomize|
 Aléatoire|
 ~
+Real Estate|
+Immobilier|
+~
+Reset|
+Réinitialiser|
+~
+Reset Goals|
+Rétablir les objectifs|
+~
+Reset successfully. The game now no longer uses any MOD.|
+Réinitialisation réussie. Le jeu n'utilise désormais plus de MOD.|
+~
+Retail Store|
+Détaillant|
+~
 Sales|
 Ventes|
+~
+Seaport|
+Port maritime|
+~
+Search Engine|
+Moteur de recherche|
+~
+Search Product (Tab)|
+Rechercher un produit (TAB)|
 ~
 Seldom|
 Rarement|
@@ -931,6 +1345,9 @@ Démarrer une R&D radicale|
 Steel|
 Acier|
 ~
+Stock Values|
+Valeurs boursières|
+~
 Subsidiary|
 Filiale|
 ~
@@ -940,77 +1357,17 @@ DLC Filiale|
 Supermarket|
 Supermarché|
 ~
+Survival Mode|
+Mode de survie|
+~
+Survivl Mode|
+Mode survie|
+~
 Tennis Court|
 Terrain de tennis|
 ~
 Timber|
 Bois|
-~
-Top 100 Charts|
-Liste top 100 |
-~
-Toy Store|
-Magasin de jouets|
-~
-Tremendoulsy Harder|
-Extrêmement plus difficile|
-~
-University|
-Université|
-~
-Very High|
-Très Haut|
-~
-Very Low|
-Très Bas|
-~
-For All % in this city|
-Pour tous % dans cette ville|
-~
-For Experienced Players looking for More Challenge.|
-Pour les joueurs expérimentés à la recherche de plus de défis.|
-~
-For Expert Players Only. Not recommended for normal players.|
-Pour les joueurs experts seulement. Non recommandé pour les joueurs normaux.|
-~
-Missing Required Tech|
-Technologie manquante|
-~
-Mobile Phone Technology|
-Technologie de la téléphonie mobile|
-~
-Mobile Phone|
-Téléphone portable|
-~
-MOD in use|
-Utilisation du MOD|
-~
-MOD Setting|
-Réglage du MOD|
-~
-Watch|
-Montre|
-~
-WEALTH & BUSINESS SCORE|
-SCORE DE RICHESSE ET D'AFFAIRES|
-~
-Wealth & Business Score|
-Score de la richesse et des affaires|
-~
-Wealth ($Billion)|
-Richesse (milliards de dollars)|
-~
-Web Site|
-Site web|
-~
-Banking and Finance DLC|
-DLC banques et finances|
-~
-Banking and Finance|
-Banque et finances|
-~
-Banking DLC|
-DLC banque|
 ~
 Tissues|
 Tissus|
@@ -1018,27 +1375,393 @@ Tissus|
 Title|
 Titre|
 ~
-Lifetime|
-Vie entière|
+Ton|
+Tonne|
 ~
-Digital Age DLC|
-DLC à l'ère du numérique|
+Top 100 Charts|
+Liste top 100|
 ~
-Digital Age Dominance (Main Goal)|
-La domination de l'ère numérique (objectif principal)|
+Toy Store|
+Magasin de jouets|
 ~
-Digital Age Dominance|
-La domination de l'ère numérique|
+Tremendoulsy Harder|
+Extrêmement plus difficile|
 ~
-Digital Age|
-L'ère numérique|
+Unit|
+Unité|
+~
+Unit Level|
+Niveau de l'unité|
+~
+United Arab Emirates|
+Émirats arabes unis|
+~
+United Kingdom|
+Royaume-Uni|
+~
+United States|
+États-Unis|
+~
+Unity Party|
+Parti de l'unité|
+~
+University|
+Université|
+~
+Use|
+Utilisation|
+~
+Very High|
+Très Haut|
+~
+Very Low|
+Très Bas|
+~
+Warehouse|
+Entrepôt|
+~
+Watch|
+Montre|
+~
+Wealth ($Billion)|
+Richesse (milliards de dollars)|
+~
+WEALTH & BUSINESS SCORE|
+SCORE DE RICHESSE ET D'AFFAIRES|
+~
+Web Site|
+Site web|
+~
+YES|
+OUI|
+~
+Yield|
+Rendement|
+~
+Yogurt|
+Yogourt|
+~
+Yogurt Technology|
+Technologie du yaourt|
+~
+You already own this land plot.|
+Vous êtes déjà propriétaire de cette parcelle de terrain.|
+~
+You cannot use a corporation that you control to buy back its own shares.|
+Vous ne pouvez pas utiliser une société que vous contrôlez pour racheter ses propres actions.|
+~
+You have been given a new goal!|
+Un nouvel objectif vous a été assigné !|
+~
+You must first possess the knowhow for Camera Phone (click to view it now)|
+Vous devez d'abord posséder le savoir-faire pour Camera Phone (cliquez pour le voir maintenant)|
+~
+You must first possess the knowhow for Compact Camera (click to view it now)|
+Vous devez d'abord posséder le savoir-faire pour l'appareil photo compact (cliquez pour le voir maintenant)|
+~
+You must first possess the knowhow for Notebook Computer (click to view it now)|
+Vous devez d'abord posséder le savoir-faire pour l'ordinateur portable (cliquez pour le voir maintenant)|
+~
+You must first possess the knowhow for Smart Phone (click to view it now)|
+Vous devez d'abord posséder le savoir-faire pour le Smart Phone (cliquez pour le visualiser maintenant)|
+~
+Your %, %, asked for a raise in salary from|
+Votre %, %, a demandé une augmentation de salaire de|
+~
+Your CMO will resign|
+Votre OCM va démissionner|
+~
+Your CMO's attitude towards you|
+L'attitude de votre OCM à votre égard|
+~
+Your CMO's Expertise on Apparel|
+L'expertise de votre OCM dans le domaine de l'habillement|
+~
+Your CMO's Expertise on Automobile|
+L'expertise de votre OCM en matière d'automobile|
+~
+Your CMO's Expertise on Beverage|
+L'expertise de votre OCM dans le domaine des boissons|
+~
+Your CMO's Expertise on Body Care Products|
+L'expertise de votre OCM sur les produits de soins corporels|
+~
+Your CMO's Expertise on Communication Devices|
+L'expertise de votre OCM sur les dispositifs de communication|
+~
+Your CMO's Expertise on Computer|
+L'expertise de votre OCM en matière d'informatique|
+~
+Your CMO's Expertise on Cosmetics|
+L'expertise de votre OCM sur les cosmétiques|
+~
+Your CMO's Expertise on Drugs|
+L'expertise de votre OCM en matière de drogues|
+~
+Your CMO's Expertise on Electronic Products|
+L'expertise de votre OCM en matière de produits électroniques|
+~
+Your CMO's Expertise on Farming|
+L'expertise de votre OCM en matière d'agriculture|
+~
+Your CMO's Expertise on Food|
+L'expertise de votre OCM en matière d'alimentation|
+~
+Your CMO's Expertise on Footwear|
+L'expertise de votre OCM en matière de chaussures|
+~
+Your CMO's Expertise on Furniture|
+L'expertise de votre OCM dans le domaine du mobilier|
+~
+Your CMO's Expertise on Home Appliances|
+L'expertise de votre OCM en matière d'appareils électroménagers|
+~
+Your CMO's Expertise on Household Products|
+L'expertise de votre OCM sur les produits ménagers|
+~
+Your CMO's Expertise on Jewelry|
+L'expertise de votre OCM en matière de bijoux|
+~
+Your CMO's Expertise on Leather Goods|
+L'expertise de votre OCM dans le domaine de la maroquinerie|
+~
+Your CMO's Expertise on Manufacturing|
+L'expertise de votre OCM en matière de fabrication|
+~
+Your CMO's Expertise on Marketing|
+L'expertise de votre OCM en matière de marketing|
+~
+Your CMO's Expertise on Photography Products|
+L'expertise de votre OCM sur les produits photographiques|
+~
+Your CMO's Expertise on Raw Material Production|
+L'expertise de votre OCM en matière de production de matières premières|
+~
+Your CMO's Expertise on Research and Development|
+L'expertise de votre OCM en matière de recherche et développement|
+~
+Your CMO's Expertise on Retail|
+L'expertise de votre OCM sur le commerce de détail|
+~
+Your CMO's Expertise on Semi Products|
+L'expertise de votre OCM sur les produits semi-finis|
+~
+Your CMO's Expertise on Snacks|
+L'expertise de votre OCM en matière de collations|
+~
+Your CMO's Expertise on Sport Equipment|
+L'expertise de votre OCM en matière d'équipements sportifs|
+~
+Your CMO's Expertise on Tobacco Products|
+L'expertise de votre OCM sur les produits du tabac|
+~
+Your CMO's Expertise on Toy|
+L'expertise de votre OCM sur les jouets|
+~
+Your CMO's Expertise on Training|
+L'expertise de votre OCM en matière de formation|
+~
+Your CMO's Expertise on Watch|
+L'expertise de votre OCM sous surveillance|
+~
+Your COO will resign|
+Votre directeur de l'exploitation va démissionner|
+~
+Stock Asset|
+Actif boursier|
+~
+Stock Exchange|
+Bourse|
+~
+Stock Market|
+Bourse|
+~
+Stock News|
+Actualités boursières|
+~
+Stock Overview|
+Aperçu des stocks|
+~
+Stock Price Graph|
+Graphique du cours des actions|
+~
+Stock Price|
+Cours des actions|
+~
+STOCK PRICE|
+COURS DES STOCKS|
+~
+Stock Return to Investors|
+Rendement des actions pour les investisseurs|
+~
+Stock Return|
+Rendement des actions|
+~
+Stock Returns|
+Rendements boursiers|
+~
+Stock Value|
+Valeur des actions|
+~
+Stock|
+Action|
+~
+Stock Returns|
+Rendement|
+~
+Gain/Loss%|
+% Bén / Perte|
+~
+Gain/Loss|
+Bén./Perte|
+~
+Gain|
+Bénéfice|
+~
+Avg Cost|
+Coût moyen|
 ~
 Market Cap at IPO|
-Cap. boursière lors de l'IPO|
+Capitalisation boursière pendant l'IPO|
 ~
 Market Cap|
-Cap. boursière|
+Cap Boursière|
+~
+Market Cap|
+Cap Boursière|
 ~
 Market Capitalization|
-Capitalisation boursière|
+Cap. boursière|
+~
+Market Dominance Goal (Main Goal)|
+Objectif de domination du marché (Objectif principal)|
+~
+Market Dominance Goal|
+Objectif de domination du marché|
+~
+Market Dominance of %|
+Dominance du marché en|
+~
+Market Dominance of Computer OS|
+Domination du marché des systèmes d'exploitation informatiques|
+~
+Market Dominance of the Apparel Industry|
+Position dominante de l'industrie de l'habillement sur le marché|
+~
+Market Dominance of the Automobile Industry|
+Position dominante de l'industrie automobile sur le marché|
+~
+Market Dominance of the Beverage Industry|
+Position dominante de l'industrie des boissons sur le marché|
+~
+Market Dominance of the Body Care Products Industry|
+Position dominante sur le marché de l'industrie des produits de soins corporels|
+~
+Market Dominance of the Communication Devices Industry|
+Position dominante sur le marché de l'industrie des appareils de communication|
+~
+Market Dominance of the Computer Industry|
+La domination du marché de l'industrie informatique|
+~
+Market Dominance of the Cosmetics Industry|
+Position dominante de l'industrie cosmétique sur le marché|
+~
+Market Dominance of the Drugs Industry|
+La domination de l'industrie pharmaceutique sur le marché|
+~
+Market Dominance of the Electronic Products Industry|
+Position dominante de l'industrie des produits électroniques sur le marché|
+~
+Market Dominance of the Electronics and Appliances Industry|
+Position dominante sur le marché de l'industrie de l'électronique et des appareils électroménagers|
+~
+Market Dominance of the Fashion Industry|
+La domination de l'industrie de la mode sur le marché|
+~
+Market Dominance of the Food and Beverage Industry|
+Position dominante de l'industrie alimentaire et des boissons sur le marché|
+~
+Market Dominance of the Food Industry|
+Position dominante de l'industrie alimentaire sur le marché|
+~
+Market Dominance of the Footwear Industry|
+Position dominante de l'industrie de la chaussure sur le marché|
+~
+Market Dominance of the Furniture Industry|
+Position dominante de l'industrie du meuble sur le marché|
+~
+Market Dominance of the Healthcare and Beauty Industry|
+Position dominante sur le marché de l'industrie des soins de santé et des produits de beauté|
+~
+Market Dominance of the Home Appliances Industry|
+La domination du marché de l'industrie des appareils électroménagers|
+~
+Market Dominance of the Household Products Industry|
+Position dominante sur le marché de l'industrie des produits ménagers|
+~
+Market Dominance of the Jewelry Industry|
+La domination de l'industrie de la bijouterie sur le marché|
+~
+Market Dominance of the Leather Goods Industry|
+La domination du marché de l'industrie de la maroquinerie|
+~
+Market Dominance of the Livestock Products Industry|
+Position dominante sur le marché de l'industrie des produits de l'élevage|
+~
+Market Dominance of the Luxury Goods Industry|
+La domination de l'industrie du luxe sur le marché|
+~
+Market Dominance of the Photography Products Industry|
+Position dominante sur le marché de l'industrie des produits photographiques|
+~
+Market Dominance of the Real Estate Sector|
+Position dominante du secteur immobilier sur le marché|
+~
+Market Dominance of the Snacks Industry|
+La domination du marché de l'industrie des snacks|
+~
+Market Dominance of the Sport Equipment Industry|
+Position dominante de l'industrie des équipements sportifs sur le marché|
+~
+Market Dominance of the Tobacco Products Industry|
+Position dominante de l'industrie des produits du tabac sur le marché|
+~
+Market Dominance of the Toy Industry|
+La domination de l'industrie du jouet sur le marché|
+~
+Market Dominance of the Watch Industry|
+La domination de l'industrie horlogère sur le marché|
+~
+Market Price|
+Prix du marché|
+~
+Market Rent:|
+Loyer du marché :|
+~
+Market Share|
+Part de marché|
+~
+Market Value|
+Valeur marchande|
+~
+Factory - Petit|
+Usine - Petit|
+~
+Factory - Moyen|
+Usine - Moyen|
+~
+Factory - Grand|
+Usine - Grand|
+~
+Remove Goal|
+ Supprimer objectifs|
+~
+Are you sure that you want to demolish this building?|
+Êtes-vous sûr de vouloir démolir ce bâtiment ?|
+~
+Are you sure that you want to demolish this firm?|
+Êtes-vous sûr de vouloir démolir cet établissement ?|
+~
+Are you sure that you want to remove all the goals in this game?|
+Êtes-vous sûr de vouloir supprimer tous les objectifs de ce jeu ?|
 ~
