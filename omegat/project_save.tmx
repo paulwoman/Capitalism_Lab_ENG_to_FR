@@ -1478,6 +1478,94 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;a2&gt;http://www.apache.org/licenses/&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T110150Z" creationid="Olivier" creationdate="20200525T110150Z">
+        <seg>&lt;a2&gt;http://www.apache.org/licenses/&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T110144Z" creationid="Olivier" creationdate="20200525T110144Z">
+        <seg>&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;&lt;a1&gt;1.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T110216Z" creationid="Olivier" creationdate="20200525T110216Z">
+        <seg>&lt;s0&gt;&lt;a1&gt;1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;&lt;a1&gt;2.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T110222Z" creationid="Olivier" creationdate="20200525T110222Z">
+        <seg>&lt;s0&gt;&lt;a1&gt;2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;&lt;a1&gt;3.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T110227Z" creationid="Olivier" creationdate="20200525T110227Z">
+        <seg>&lt;s0&gt;&lt;a1&gt;3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;&lt;a1&gt;4.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T110233Z" creationid="Olivier" creationdate="20200525T110233Z">
+        <seg>&lt;s0&gt;&lt;a1&gt;4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;&lt;a1&gt;5.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T110257Z" creationid="Olivier" creationdate="20200525T110257Z">
+        <seg>&lt;s0&gt;&lt;a1&gt;5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;&lt;a1&gt;6.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T110303Z" creationid="Olivier" creationdate="20200525T110303Z">
+        <seg>&lt;s0&gt;&lt;a1&gt;6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;&lt;a1&gt;7.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T110306Z" creationid="Olivier" creationdate="20200525T110306Z">
+        <seg>&lt;s0&gt;&lt;a1&gt;7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;&lt;a1&gt;8.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T110311Z" creationid="Olivier" creationdate="20200525T110311Z">
+        <seg>&lt;s0&gt;&lt;a1&gt;8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;s0&gt;&lt;a1&gt;9.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T110316Z" creationid="Olivier" creationdate="20200525T110316Z">
+        <seg>&lt;s0&gt;&lt;a1&gt;9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A P/B ratio that is lower than 1.0 means that the stock is currently trading at a price lower than the stock's net worth</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T170846Z" creationid="Olivier" creationdate="20200504T155521Z">
@@ -2401,6 +2489,14 @@
         <seg>Accepting Warranty or Additional Liability.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122223Z" creationid="Olivier" creationdate="20200428T122223Z">
+        <seg>Acceptation de garantie ou de responsabilité supplémentaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Accepting Warranty or Additional Liability&lt;/a1&gt;&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T110323Z" creationid="Olivier" creationdate="20200525T110323Z">
         <seg>Acceptation de garantie ou de responsabilité supplémentaire.</seg>
       </tuv>
     </tu>
@@ -8950,6 +9046,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Definitions&lt;/a1&gt;&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T110218Z" creationid="Olivier" creationdate="20200525T110218Z">
+        <seg>Définitions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Delete this layout plan</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T091824Z" creationid="Olivier" creationdate="20200503T091824Z">
@@ -9665,6 +9769,14 @@
         <seg>Disclaimer of Warranty.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122131Z" creationid="Olivier" creationdate="20200428T122131Z">
+        <seg>Exclusion de garantie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Disclaimer of Warranty&lt;/a1&gt;&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T110308Z" creationid="Olivier" creationdate="20200525T110308Z">
         <seg>Exclusion de garantie.</seg>
       </tuv>
     </tu>
@@ -14041,9 +14153,25 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Grant of Copyright License&lt;/a1&gt;&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T110224Z" creationid="Olivier" creationdate="20200525T110224Z">
+        <seg>Délivrance d’une licence de copyright.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Grant of Patent License.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T121433Z" creationid="Olivier" creationdate="20200428T121433Z">
+        <seg>Délivrance d’une Licence de brevet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Grant of Patent License&lt;/a1&gt;&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T110229Z" creationid="Olivier" creationdate="20200525T110229Z">
         <seg>Délivrance d’une Licence de brevet.</seg>
       </tuv>
     </tu>
@@ -18689,6 +18817,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>January 2004&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T110143Z" creationid="Olivier" creationdate="20200525T110143Z">
+        <seg>Janvier 2004</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Jewelry and Watch Shop|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T074141Z" creationid="Inrepublica" creationdate="20200426T074141Z">
@@ -19204,6 +19340,14 @@ Choose one of eight pre-set difficulty levels.</seg>
         <seg>Limitation of Liability.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122209Z" creationid="Olivier" creationdate="20200428T122209Z">
+        <seg>Limitation de responsabilité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Limitation of Liability&lt;/a1&gt;&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T110312Z" creationid="Olivier" creationdate="20200525T110312Z">
         <seg>Limitation de responsabilité.</seg>
       </tuv>
     </tu>
@@ -21027,8 +21171,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Now choose ~Retail Store~ from the menu.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T215432Z" creationid="Olivier" creationdate="20200423T124636Z">
-        <seg>Choisissez maintenant ~Magasin de détail~ dans le menu.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T105804Z" creationid="Olivier" creationdate="20200423T124636Z">
+        <seg>Choisissez maintenant ~Détaillant~ dans le menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21251,8 +21395,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Now select ~Retail Store~ from the menu.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T100551Z" creationid="Olivier" creationdate="20200423T133323Z">
-        <seg>Choisissez maintenant ~Magasin de détail~ dans le menu.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T105818Z" creationid="Olivier" creationdate="20200423T133323Z">
+        <seg>Choisissez maintenant ~Détaillant~ dans le menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26505,6 +26649,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Redistribution&lt;/a1&gt;&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T110237Z" creationid="Olivier" creationdate="20200525T110237Z">
+        <seg>Redistribution </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Reduce the Retail Capacity</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T153304Z" creationid="Olivier" creationdate="20200507T153304Z">
@@ -29164,6 +29316,14 @@ Choose one of eight pre-set difficulty levels.</seg>
         <seg>Submission of Contributions.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122014Z" creationid="Olivier" creationdate="20200428T122014Z">
+        <seg>Soumission des contributions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Submission of Contributions&lt;/a1&gt;&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T110259Z" creationid="Olivier" creationdate="20200525T110259Z">
         <seg>Soumission des contributions</seg>
       </tuv>
     </tu>
@@ -33970,6 +34130,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title=Sample script - Player Expertise</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T110332Z" creationid="Olivier" creationdate="20200525T110332Z">
+        <seg>Title=Sample script - Player Expertise</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Title=Sample script - Special Rules</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T101804Z" creationid="Olivier" creationdate="20200428T101804Z">
@@ -34733,6 +34901,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
         <seg>Trademarks.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122102Z" creationid="Olivier" creationdate="20200428T122102Z">
+        <seg>Marques commerciales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Trademarks&lt;/a1&gt;&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T110305Z" creationid="Olivier" creationdate="20200525T110305Z">
         <seg>Marques commerciales.</seg>
       </tuv>
     </tu>
@@ -37338,6 +37514,22 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You may add Your own attribution notices within Derivative Works that You distribute, alongside or as an addendum to the NOTICE text from the Work, provided that such additional attribution notices cannot be construed as modifying the License. &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T110252Z" creationid="Olivier" creationdate="20200525T110252Z">
+        <seg>Vous pouvez ajouter vos propres notices d'attribution dans les œuvres dérivées que vous distribuez, à côté ou en addendum au texte de la notice de l'œuvre, à condition que ces notices d'attribution supplémentaires ne puissent être interprétées comme modifiant la licence&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may add Your own copyright statement to Your modifications and may provide additional or different license terms and conditions for use, reproduction, or distribution of Your modifications, or for any such Derivative Works as a whole, provided Your use, reproduction, and distribution of the Work otherwise complies with the conditions stated in this License.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T110256Z" creationid="Olivier" creationdate="20200525T110256Z">
+        <seg>Vous pouvez ajouter votre propre déclaration de copyright à vos modifications et fournir des conditions de licence supplémentaires ou différentes pour l'utilisation, la reproduction ou la distribution de vos modifications, ou pour l'ensemble de ces travaux dérivés, à condition que votre utilisation, reproduction et distribution du travail respecte les conditions énoncées dans la présente licence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You may also Customize or Randomize the game settings</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145642Z" creationid="Inrepublica" creationdate="20200422T145633Z">
@@ -38515,8 +38707,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0012]&lt;TRAN&gt;Training|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T125056Z" creationid="Inrepublica" creationdate="20200422T125056Z">
-        <seg>[0012]&lt;TRAN&gt;Entraînement|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T105332Z" creationid="Inrepublica" creationdate="20200422T125056Z">
+        <seg>[0012]&lt;TRAN&gt;Format°|</seg>
       </tuv>
     </tu>
     <tu>
@@ -39523,8 +39715,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0519]&lt;PLB1&gt;The plan will replace the existing layout of the current firm.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T230941Z" creationid="Olivier" creationdate="20200509T230941Z">
-        <seg>[0519]&lt;PLB1&gt;Ce plan va remplacer la disposition existante de cet établissement.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T110555Z" creationid="Olivier" creationdate="20200509T230941Z">
+        <seg>[0519]&lt;PLB1&gt;Ce plan va remplacer la disposition existante de cette frime.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39715,8 +39907,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0547]&lt;AII2&gt;Grand strategy plan|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T230322Z" creationid="Olivier" creationdate="20200509T231051Z">
-        <seg>[0547]&lt;AII2&gt;I2&gt;Plan de grande stratégie|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T110615Z" creationid="Olivier" creationdate="20200509T231051Z">
+        <seg>[0547]&lt;AII2&gt;Plan de grande stratégie|</seg>
       </tuv>
     </tu>
     <tu>
@@ -42707,8 +42899,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0782]&lt;0002&gt;Days since last intensive training|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T095121Z" creationid="Olivier" creationdate="20200429T095121Z">
-        <seg>[0782]&lt;0002&gt;Nombre de jours depuis la dernière formation intensive|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T114722Z" creationid="Olivier" creationdate="20200429T095121Z">
+        <seg>[0782]&lt;0002&gt;Nbre de jours depuis la dernière formation intensive|</seg>
       </tuv>
     </tu>
     <tu>
@@ -44219,8 +44411,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1068]&lt;0225&gt;Lifetime Trade|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T151650Z" creationid="Olivier" creationdate="20200508T151650Z">
-        <seg>[1068]&lt;0225]Échanges à vie|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T105312Z" creationid="Olivier" creationdate="20200508T151650Z">
+        <seg>[1068]&lt;0225&gt;Échanges à vie|</seg>
       </tuv>
     </tu>
     <tu>
@@ -44243,8 +44435,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1071]&lt;0228&gt;Annual Net Profit|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T151838Z" creationid="Olivier" creationdate="20200508T151838Z">
-        <seg>[1071]&lt;0228&gt;]Bénéfice net annuel|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T105215Z" creationid="Olivier" creationdate="20200508T151838Z">
+        <seg>[1071]&lt;0228&gt;Bénéfice net annuel|</seg>
       </tuv>
     </tu>
     <tu>
@@ -44275,16 +44467,16 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1075]&lt;0231&gt;No.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T232103Z" creationid="Inrepublica" creationdate="20200423T054139Z">
-        <seg>[1075]&lt;0231&gt;Nbre.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T114839Z" creationid="Inrepublica" creationdate="20200423T054139Z">
+        <seg>[1075]&lt;0231&gt;Nbre</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1076]&lt;0232&gt;No.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T232113Z" creationid="Olivier" creationdate="20200508T152122Z">
-        <seg>[1076]&lt;0232&gt;Nbre.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T114843Z" creationid="Olivier" creationdate="20200508T152122Z">
+        <seg>[1076]&lt;0232&gt;Nbre</seg>
       </tuv>
     </tu>
     <tu>
@@ -44299,8 +44491,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1078]&lt;0234&gt;No.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T232130Z" creationid="Inrepublica" creationdate="20200423T054151Z">
-        <seg>[1078]&lt;0234&gt;Nbre.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T114848Z" creationid="Inrepublica" creationdate="20200423T054151Z">
+        <seg>[1078]&lt;0234&gt;Nbre</seg>
       </tuv>
     </tu>
     <tu>
@@ -44523,8 +44715,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1110]&lt;0265&gt;Equity Per Share|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200515T224421Z" creationid="Olivier" creationdate="20200515T224421Z">
-        <seg>[1110]&lt;0265&gt;Cap. propres par actions|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T114920Z" creationid="Olivier" creationdate="20200515T224421Z">
+        <seg>[1110]&lt;0265&gt;Cap. prop. par act°</seg>
       </tuv>
     </tu>
     <tu>
@@ -44763,8 +44955,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1143]&lt;0297&gt;ISSUE NOW|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T172701Z" creationid="Olivier" creationdate="20200508T172653Z">
-        <seg>[1143]&lt;0297&gt;EMETTRE MAINTENANT|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T114951Z" creationid="Olivier" creationdate="20200508T172653Z">
+        <seg>[1143]&lt;0297&gt;ÉMETTRE MAINTENANT|</seg>
       </tuv>
     </tu>
     <tu>
@@ -44899,8 +45091,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1175]&lt;0329&gt;City Overall|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T094250Z" creationid="Olivier" creationdate="20200509T091524Z">
-        <seg>[1175]&lt;0329&gt;Moyenne Ville|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T105605Z" creationid="Olivier" creationdate="20200509T091524Z">
+        <seg>[1175]&lt;0329&gt;Moy. Ville|</seg>
       </tuv>
     </tu>
     <tu>
@@ -44939,7 +45131,7 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1187]&lt;0341&gt;Progress|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T104841Z" creationid="Olivier" creationdate="20200509T103407Z">
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T105546Z" creationid="Olivier" creationdate="20200509T103407Z">
         <seg>[1187]&lt;0341&gt;Progression|</seg>
       </tuv>
     </tu>
@@ -45131,16 +45323,16 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1235]&lt;0349&gt;No.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T232524Z" creationid="Inrepublica" creationdate="20200423T054303Z">
-        <seg>[1235]&lt;0349&gt;Nbre.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T115015Z" creationid="Inrepublica" creationdate="20200423T054303Z">
+        <seg>[1235]&lt;0349&gt;Nbre</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1236]&lt;0350&gt;No.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T232858Z" creationid="Inrepublica" creationdate="20200423T054307Z">
-        <seg>[1236]&lt;0350&gt;Nbre.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T115020Z" creationid="Inrepublica" creationdate="20200423T054307Z">
+        <seg>[1236]&lt;0350&gt;Nbre</seg>
       </tuv>
     </tu>
     <tu>
@@ -45379,8 +45571,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1281]&lt;0395&gt;Monthly Budget for New Content Development|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T112958Z" creationid="Olivier" creationdate="20200509T112958Z">
-        <seg>[1281]&lt;0395&gt;]Budget mensuel pour le développement de nouveaux contenus|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T105219Z" creationid="Olivier" creationdate="20200509T112958Z">
+        <seg>[1281]&lt;0395&gt;Budget mensuel pour le développement de nouveaux contenus|</seg>
       </tuv>
     </tu>
     <tu>
@@ -46075,8 +46267,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1352]&lt;0417&gt;Score|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T140144Z" creationid="Olivier" creationdate="20200509T140144Z">
-        <seg>[1352]&lt;0428&gt;SCORE|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T115107Z" creationid="Olivier" creationdate="20200509T140144Z">
+        <seg>[1352]&lt;0417&gt;SCORE|</seg>
       </tuv>
     </tu>
     <tu>
@@ -47107,8 +47299,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1606]&lt;0631&gt;Description|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T144454Z" creationid="Olivier" creationdate="20200509T144454Z">
-        <seg>[0951]&lt;0159&gt;Description|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T115214Z" creationid="Olivier" creationdate="20200509T144454Z">
+        <seg>[1606]&lt;0631&gt;Description|</seg>
       </tuv>
     </tu>
     <tu>
@@ -47131,8 +47323,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1615]&lt;0640&gt;Description|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T144518Z" creationid="Olivier" creationdate="20200509T144518Z">
-        <seg>[0951]&lt;0159&gt;Description|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T115220Z" creationid="Olivier" creationdate="20200509T144518Z">
+        <seg>[1615]&lt;0640&gt;Description|</seg>
       </tuv>
     </tu>
     <tu>
@@ -47555,8 +47747,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1660]&lt;0664&gt;Annual Operating Profit of Your Corporation|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T145342Z" creationid="Olivier" creationdate="20200509T145342Z">
-        <seg>[1660]&lt;0664&gt;]Bénéfice d'exploitation annuel de votre société|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T105222Z" creationid="Olivier" creationdate="20200509T145342Z">
+        <seg>[1660]&lt;0664&gt;Bénéfice d'exploitation annuel de votre société|</seg>
       </tuv>
     </tu>
     <tu>
@@ -47691,16 +47883,16 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1678]&lt;0681&gt;Score: |</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T145917Z" creationid="Olivier" creationdate="20200509T145807Z">
-        <seg>[1678]&lt;0581&gt;Score :|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T115326Z" creationid="Olivier" creationdate="20200509T145807Z">
+        <seg>[1678]&lt;0681&gt;Score :|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1679]&lt;0682&gt;Wealth: |</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T145923Z" creationid="Olivier" creationdate="20200509T145908Z">
-        <seg>[1379]&lt;0682&gt;Richesse|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T115333Z" creationid="Olivier" creationdate="20200509T145908Z">
+        <seg>[1679]&lt;0682&gt;Richesse|</seg>
       </tuv>
     </tu>
     <tu>
@@ -47715,8 +47907,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1681]&lt;0684&gt; million|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T150028Z" creationid="Olivier" creationdate="20200509T150028Z">
-        <seg>[1387]&lt;0452&gt; million|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T115349Z" creationid="Olivier" creationdate="20200509T150028Z">
+        <seg>[1681]&lt;0684&gt; million|</seg>
       </tuv>
     </tu>
     <tu>
@@ -47907,8 +48099,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1821]&lt;0825&gt;No.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T150950Z" creationid="Inrepublica" creationdate="20200426T121754Z">
-        <seg>[1821]&lt;0825&gt;Nbre.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T115422Z" creationid="Inrepublica" creationdate="20200426T121754Z">
+        <seg>[1821]&lt;0825&gt;Nbre</seg>
       </tuv>
     </tu>
     <tu>
@@ -48219,8 +48411,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1859]&lt;AL02&gt; billion|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T233655Z" creationid="Olivier" creationdate="20200509T223851Z">
-        <seg>[1859] &lt;AL02&gt;milliards|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T115523Z" creationid="Olivier" creationdate="20200509T223851Z">
+        <seg>[1859] &lt;AL02&gt; milliards|</seg>
       </tuv>
     </tu>
     <tu>
@@ -48547,8 +48739,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1916]&lt;0865&gt;Go|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T220926Z" creationid="Olivier" creationdate="20200509T223303Z">
-        <seg>[0916]&lt;0865&gt;Allez|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T115558Z" creationid="Olivier" creationdate="20200509T223303Z">
+        <seg>[1916]&lt;0865&gt;Aller|</seg>
       </tuv>
     </tu>
     <tu>
@@ -49003,16 +49195,16 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2038]&lt;0983&gt;Supplier|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T092052Z" creationid="Olivier" creationdate="20200510T092052Z">
-        <seg>[2038]&lt;0983&gt;Fournisseur|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T105626Z" creationid="Olivier" creationdate="20200510T092052Z">
+        <seg>[2038]&lt;0983&gt;Fourn.|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2039]&lt;0984&gt;Stop Purchase|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T094618Z" creationid="Inrepublica" creationdate="20200426T094618Z">
-        <seg>[2039]&lt;0984&gt;Stopper l'achat|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T105642Z" creationid="Inrepublica" creationdate="20200426T094618Z">
+        <seg>[2039]&lt;0984&gt;Stop achat|</seg>
       </tuv>
     </tu>
     <tu>
@@ -49643,8 +49835,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2153]&lt;1074&gt; opens a R&amp;D Center|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T094624Z" creationid="Olivier" creationdate="20200510T094624Z">
-        <seg>[2153]&lt;1074&gt; ouvre un centres R&amp;D|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T115759Z" creationid="Olivier" creationdate="20200510T094624Z">
+        <seg>[2153]&lt;1074&gt; ouvre un centre R&amp;D|</seg>
       </tuv>
     </tu>
     <tu>
@@ -50171,16 +50363,16 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2236]&lt;1157&gt;Researchers at |</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093131Z" creationid="Olivier" creationdate="20200510T162325Z">
-        <seg>[2236]&lt;1157&gt;Les chercheurs de |</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T115935Z" creationid="Olivier" creationdate="20200510T162325Z">
+        <seg>[2236]&lt;1157&gt;Les chercheurs du |</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2237]&lt;1158&gt;'s R&amp;D Center Announce Invention.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093202Z" creationid="Olivier" creationdate="20200510T162335Z">
-        <seg>[2237]&lt;1158&gt;'centre de R&amp;D annoncent une invention.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T115942Z" creationid="Olivier" creationdate="20200510T162335Z">
+        <seg>[2237]&lt;1158&gt;centre de R&amp;D annoncent une invention.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50251,8 +50443,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2248]&lt;1169&gt;Researchers at |</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093216Z" creationid="Olivier" creationdate="20200510T162642Z">
-        <seg>[2248]&lt;1169&gt;Les chercheurs de |</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T120007Z" creationid="Olivier" creationdate="20200510T162642Z">
+        <seg>[2248]&lt;1169&gt;Les chercheurs du |</seg>
       </tuv>
     </tu>
     <tu>
@@ -50779,8 +50971,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2330]&lt;1250&gt;I'll increase your annual salary to |</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T172344Z" creationid="Olivier" creationdate="20200510T172344Z">
-        <seg>[2330]&lt;1250&gt;Je vais augmenter votre salaire annuel pour |</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T120111Z" creationid="Olivier" creationdate="20200510T172344Z">
+        <seg>[2330]&lt;1250&gt;Je vais augmenter votre salaire annuel de |</seg>
       </tuv>
     </tu>
     <tu>
@@ -51179,24 +51371,24 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2382]&lt;1302&gt;Known to You|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T095125Z" creationid="Olivier" creationdate="20200511T095125Z">
-        <seg>[2382]&lt;1302&gt;Connu de vous|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T120212Z" creationid="Olivier" creationdate="20200511T095125Z">
+        <seg>[2382]&lt;1302&gt;Vous connaissez|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2383]&lt;AT00&gt;DISABLED|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T095144Z" creationid="Olivier" creationdate="20200511T095127Z">
-        <seg>[2383]&lt;AT00&gt;DÉSACTIVE|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T120227Z" creationid="Olivier" creationdate="20200511T095127Z">
+        <seg>[2383]&lt;AT00&gt;DÉSACTIVÉ|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2384]&lt;AT01&gt;ENABLED|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T095155Z" creationid="Olivier" creationdate="20200511T095128Z">
-        <seg>[2384]&lt;AT01&gt;ACTIVE|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T120231Z" creationid="Olivier" creationdate="20200511T095128Z">
+        <seg>[2384]&lt;AT01&gt;ACTIVÉ|</seg>
       </tuv>
     </tu>
     <tu>
@@ -51427,8 +51619,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2415]&lt;1328&gt;Bank Loan Repayment|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T101559Z" creationid="Olivier" creationdate="20200511T101559Z">
-        <seg>[2415]&lt;1328&gt;]Remboursement d'un prêt bancaire|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T105226Z" creationid="Olivier" creationdate="20200511T101559Z">
+        <seg>[2415]&lt;1328&gt;Remboursement d'un prêt bancaire|</seg>
       </tuv>
     </tu>
     <tu>
@@ -52571,8 +52763,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2612]&lt;1492&gt; Point|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T153639Z" creationid="Olivier" creationdate="20200511T153639Z">
-        <seg>[1370]&lt;0435&gt; Points|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T120336Z" creationid="Olivier" creationdate="20200511T153639Z">
+        <seg>[2612]&lt;1492&gt; Points|</seg>
       </tuv>
     </tu>
     <tu>
@@ -52643,8 +52835,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2623]&lt;1503&gt;All Cities|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T095018Z" creationid="Olivier" creationdate="20200511T153838Z">
-        <seg>[2623]&lt;1503&gt;Toutes les villes|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T105711Z" creationid="Olivier" creationdate="20200511T153838Z">
+        <seg>[2623]&lt;1503&gt;Ens. Villes|</seg>
       </tuv>
     </tu>
     <tu>
@@ -53323,8 +53515,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2722]&lt;NCJ7&gt;resigns from his job at|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T172911Z" creationid="Olivier" creationdate="20200511T172911Z">
-        <seg>[2722]&lt;NCJ7&gt;]démissionne de son poste de|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T105228Z" creationid="Olivier" creationdate="20200511T172911Z">
+        <seg>[2722]&lt;NCJ7&gt;démissionne de son poste de|</seg>
       </tuv>
     </tu>
     <tu>
@@ -54299,8 +54491,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2843]&lt;FEQU&gt;Features Quality|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094856Z" creationid="Olivier" creationdate="20200512T094856Z">
-        <seg>[2843]&lt;FEQU&gt;Qualité des caractéristiques|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T120600Z" creationid="Olivier" creationdate="20200512T094856Z">
+        <seg>[2843]&lt;FEQU&gt;Qualité des caract.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -54315,8 +54507,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2845]&lt;TECH&gt;Tech|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094918Z" creationid="Olivier" creationdate="20200512T094918Z">
-        <seg>[2845]&lt;TECH&gt;Technologie|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T120550Z" creationid="Olivier" creationdate="20200512T094918Z">
+        <seg>[2845]&lt;TECH&gt;Tech.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -54371,16 +54563,16 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2852]&lt;AIG9&gt;Telecom Focused|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T095724Z" creationid="Olivier" creationdate="20200512T095724Z">
-        <seg>[2852]&lt;AIG9&gt;Focalisé sur les Entreprise de télécommunications|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T120612Z" creationid="Olivier" creationdate="20200512T095724Z">
+        <seg>[2852]&lt;AIG9&gt;Focalisé sur les télécommunications|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2853]&lt;AIS9&gt;Telecom|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T095733Z" creationid="Olivier" creationdate="20200512T095733Z">
-        <seg>[2853]&lt;AIS9&gt;Entreprise de télécommunications|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T120622Z" creationid="Olivier" creationdate="20200512T095733Z">
+        <seg>[2853]&lt;AIS9&gt;Télécommunications|</seg>
       </tuv>
     </tu>
     <tu>
@@ -54611,8 +54803,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2882]&lt;ATS2&gt;] which is outside the subsidiary company's Scope of Production.|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100510Z" creationid="Olivier" creationdate="20200512T100510Z">
-        <seg>[2882]&lt;ATS2&gt;] ] qui est en dehors du champ d'application de la production de la filiale.|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T105237Z" creationid="Olivier" creationdate="20200512T100510Z">
+        <seg>[2882]&lt;ATS2&gt;qui est en dehors du champ d'application de la production de la filiale.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -55339,8 +55531,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2969]&lt;BDR4&gt; has matured, you must redeem it now.|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T142352Z" creationid="Olivier" creationdate="20200512T142352Z">
-        <seg>[2969]&lt;BDR4&gt;est arrivé à maturité, vous devez la racheter maintenant|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T120756Z" creationid="Olivier" creationdate="20200512T142352Z">
+        <seg>[2969]&lt;BDR4&gt;est arrivée à maturité, vous devez la racheter maintenant|</seg>
       </tuv>
     </tu>
     <tu>
@@ -56299,8 +56491,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[3085]&lt;FTC2&gt;Sorry, the selected company does not have sufficient cash to buy the firms.|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151752Z" creationid="Olivier" creationdate="20200512T151752Z">
-        <seg>[3085]&lt;FTC2&gt;]Désolé, l'entreprise sélectionnée n'a pas suffisamment de liquidités pour acheter les établissements|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T105241Z" creationid="Olivier" creationdate="20200512T151752Z">
+        <seg>[3085]&lt;FTC2&gt;Désolé, l'entreprise sélectionnée n'a pas suffisamment de liquidités pour acheter les établissements|</seg>
       </tuv>
     </tu>
     <tu>
@@ -56331,8 +56523,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[3089]&lt;GACQ&gt;Which company under your control will acquire the target company?|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151902Z" creationid="Olivier" creationdate="20200512T151902Z">
-        <seg>[3089]&lt;GACQ&gt;]Quelle société sous votre contrôle va acquérir la société cible ?|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T105244Z" creationid="Olivier" creationdate="20200512T151902Z">
+        <seg>[3089]&lt;GACQ&gt;Quelle société sous votre contrôle va acquérir la société cible ?|</seg>
       </tuv>
     </tu>
     <tu>
@@ -56411,8 +56603,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[3099]&lt;IPN2&gt;Sorry, under the current market conditions, no investors are interested in subscribing new shares of the company.|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T152321Z" creationid="Olivier" creationdate="20200512T152321Z">
-        <seg>[3099]&lt;IPN2&gt;]Désolé, dans les conditions actuelles du marché, aucun investisseur n'est intéressé à souscrire de nouvelles actions de la société.|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T105248Z" creationid="Olivier" creationdate="20200512T152321Z">
+        <seg>[3099]&lt;IPN2&gt;Désolé, dans les conditions actuelles du marché, aucun investisseur n'est intéressé à souscrire de nouvelles actions de la société.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -56771,8 +56963,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[3138]&lt;GSU4&gt;Subsidiaries with Operating Profit of|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T154746Z" creationid="Olivier" creationdate="20200512T154746Z">
-        <seg>[3138]&lt;GSU4&gt;]Filiales avec un bénéfice d'exploitation de|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T105251Z" creationid="Olivier" creationdate="20200512T154746Z">
+        <seg>[3138]&lt;GSU4&gt;Filiales avec un bénéfice d'exploitation de|</seg>
       </tuv>
     </tu>
     <tu>
@@ -57019,8 +57211,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[3169]&lt;ICR4&gt;Insurance Company Capital Ratio|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T220240Z" creationid="Olivier" creationdate="20200512T220240Z">
-        <seg>[3169]&lt;ICR4&gt;]Ratio de capital des compagnies d'assurances|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T105255Z" creationid="Olivier" creationdate="20200512T220240Z">
+        <seg>[3169]&lt;ICR4&gt;Ratio de capital des compagnies d'assurances|</seg>
       </tuv>
     </tu>
     <tu>
@@ -57067,8 +57259,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[3175]&lt;CE06&gt;Adequate cash level for expansion:|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T220523Z" creationid="Olivier" creationdate="20200512T220523Z">
-        <seg>[3175]&lt;CE06&gt;]Un niveau de trésorerie suffisant pour l'expansion: | </seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T105258Z" creationid="Olivier" creationdate="20200512T220523Z">
+        <seg>[3175]&lt;CE06&gt;Un niveau de trésorerie suffisant pour l'expansion: | </seg>
       </tuv>
     </tu>
     <tu>
@@ -58389,8 +58581,8 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
       <tuv lang="en-US">
         <seg>of frontline employees|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T231453Z" creationid="Olivier" creationdate="20200429T092925Z">
-        <seg>d' employés de première ligne|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T114703Z" creationid="Olivier" creationdate="20200429T092925Z">
+        <seg>d'employés de première ligne|</seg>
       </tuv>
     </tu>
     <tu>
@@ -58693,6 +58885,14 @@ At the initial setting, a bank lends money evenly to borrowers of different cred
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T171708Z" creationid="Olivier" creationdate="20200426T171708Z">
         <seg>~Utilisation~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg> </seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T105349Z" creationid="Olivier" creationdate="20200525T105349Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
