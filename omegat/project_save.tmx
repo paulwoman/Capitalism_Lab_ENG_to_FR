@@ -4432,8 +4432,8 @@
       <tuv lang="en-US">
         <seg>Be mindful not to choose a firm that charges too much though.^^When you have decided which media firm to advertise on, ~double-click it~ to select it.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T170127Z" creationid="Acer" creationdate="20200424T170127Z">
-        <seg>Veillez toutefois à ne pas choisir une entreprise qui vous fait payer trop cher. Lorsque vous avez décidé auprès de quelle entreprise médiatique vous souhaitez faire de la publicité, double-cliquez dessus pour la sélectionner.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200526T174047Z" creationid="Acer" creationdate="20200424T170127Z">
+        <seg>Veillez toutefois à ne pas choisir une entreprise qui vous fait payer trop cher.^^Lorsque vous avez décidé auprès de quelle entreprise médiatique vous souhaitez faire de la publicité, ~double-cliquez~ dessus pour la sélectionner.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43827,8 +43827,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0921]&lt;0129&gt;Lifetime Profit|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T150328Z" creationid="Olivier" creationdate="20200429T150328Z">
-        <seg>[0921]&lt;0129&gt;Bénéfice durant la vie|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200526T172746Z" creationid="Olivier" creationdate="20200526T172746Z">
+        <seg>[0921]&lt;0129&gt;Bén. durant la vie|</seg>
       </tuv>
     </tu>
     <tu>
@@ -43891,8 +43891,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0931]&lt;0139&gt;Rating Points|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200526T171511Z" creationid="Olivier" creationdate="20200429T150548Z">
-        <seg>c[0931]&lt;0139&gt;Points de cls|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200526T172707Z" creationid="Olivier" creationdate="20200429T150548Z">
+        <seg>[0931]&lt;0139&gt;Points de cls|</seg>
       </tuv>
     </tu>
     <tu>
@@ -44067,8 +44067,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1013]&lt;0170&gt;Operating Profit|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200518T223349Z" creationid="Olivier" creationdate="20200429T162335Z">
-        <seg>[1013]&lt;0170&gt;Bén. d'exploitat°</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200526T172704Z" creationid="Olivier" creationdate="20200429T162335Z">
+        <seg>[1013]&lt;0170&gt;Bén. d'exploitat°|</seg>
       </tuv>
     </tu>
     <tu>
@@ -44723,8 +44723,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1110]&lt;0265&gt;Equity Per Share|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T114920Z" creationid="Olivier" creationdate="20200515T224421Z">
-        <seg>[1110]&lt;0265&gt;Cap. prop. par act°</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200526T172348Z" creationid="Olivier" creationdate="20200515T224421Z">
+        <seg>[1110]&lt;0265&gt;Cap. prop. par act|°</seg>
       </tuv>
     </tu>
     <tu>
@@ -49075,16 +49075,16 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1998]&lt;0943&gt;Select Product|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T100238Z" creationid="Olivier" creationdate="20200510T091719Z">
-        <seg>[1998]&lt;0943&gt;Sélectionner le produit</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200526T172606Z" creationid="Olivier" creationdate="20200510T091719Z">
+        <seg>[1998]&lt;0943&gt;Sélectionner le produit|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2005]&lt;0950&gt;Clear Stock|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T091733Z" creationid="Olivier" creationdate="20200510T091733Z">
-        <seg>[2005]&lt;0950&gt;Vider les stocks </seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200526T172507Z" creationid="Olivier" creationdate="20200510T091733Z">
+        <seg>[2005]&lt;0950&gt;Vider les stocks| </seg>
       </tuv>
     </tu>
     <tu>
