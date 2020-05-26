@@ -3384,8 +3384,8 @@
       <tuv lang="en-US">
         <seg>Apparel products include ~Blazer~, ~Jeans~, ~Leather Jacket~ and ~Sweater~ and each will require different raw materials.^^Before you decide which apparel product to manufacture, you must look at what ~raw material supplies~ are available from the ~seaports~ and study the ~Manufacturer's Guide~ to see what products you can manufacture from the available supplies.^^Now go back to the city view by right-clicking anywhere on the screen.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T201219Z" creationid="Olivier" creationdate="20200424T124901Z">
-        <seg>Les articles vestimentaires comprennent la ~veste~, le ~jeans~, la ~veste en cuir~ et le ~pull~ et chacun d'entre eux nécessite des matières premières différentes. Avant de choisir l'article vestimentaire à fabriquer, vous devez regarder quelles ~fournitures de matières premières~ sont disponibles dans les ~ports maritimes~ et étudier le ~guide de fabrication~ pour voir quels produits vous pouvez fabriquer à partir des fournitures disponibles. Retournez maintenant à la vue de la ville en faisant un clic droit n'importe où sur l'écran.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200526T222934Z" creationid="Olivier" creationdate="20200424T124901Z">
+        <seg>Les articles vestimentaires comprennent la ~veste~, le ~jeans~, la ~veste en cuir~ et le ~pull~ et chacun d'entre eux nécessite des matières premières différentes.^^Avant de choisir l'article vestimentaire à fabriquer, vous devez regarder quelles ~fournitures de matières premières~ sont disponibles dans les ~ports maritimes~ et étudier le ~guide de fabrication~ pour voir quels produits vous pouvez fabriquer à partir des fournitures disponibles.^^Retournez maintenant à la vue de la ville en faisant un clic droit n'importe où sur l'écran.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7768,8 +7768,8 @@
       <tuv lang="en-US">
         <seg>Click ~Product Detail Report~.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T101824Z" creationid="Olivier" creationdate="20200424T101824Z">
-        <seg>Cliquez sur ~Rapport détaillé des  produits~.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200526T222551Z" creationid="Olivier" creationdate="20200424T101824Z">
+        <seg>Cliquez sur ~Détails du produit~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11904,8 +11904,8 @@
       <tuv lang="en-US">
         <seg>For the purpose of this tutorial you will adopt the ~range brand strategy~.^^Click ~Range Brand~ to set your company's brand strategy to the Range Brand strategy.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T201858Z" creationid="Acer" creationdate="20200424T154841Z">
-        <seg>Pour les besoins de ce tutoriel, vous allez adopter la ~stratégie de marque de type de produit~. Cliquez sur la ~marque de type de produit~ pour définir la stratégie de marque de votre entreprise à la stratégie de marque de type de produit.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200526T223257Z" creationid="Acer" creationdate="20200424T154841Z">
+        <seg>Pour les besoins de ce tutoriel, vous allez adopter la ~stratégie de marque de type de produit~.^^Cliquez sur la ~marque de type de produit~ pour définir la stratégie de marque de votre entreprise à la stratégie de marque de type de produit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11952,8 +11952,8 @@
       <tuv lang="en-US">
         <seg>For ~cameras~, it's 20%, which means that it is not an everyday necessity item.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T123951Z" creationid="Olivier" creationdate="20200424T123054Z">
-        <seg>Pour ~caméras~, c'est  20 %, ce qui signifie qu'il ne s'agit pas d'un produit de première nécessité.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200526T222808Z" creationid="Olivier" creationdate="20200424T123054Z">
+        <seg>Pour ~appareil photo~, c'est  20 %, ce qui signifie qu'il ne s'agit pas d'un produit de première nécessité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14491,8 +14491,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Here you will see that the advertising is slowly increasing brand ratings for your products.^^Notice that the ~brand rating~ equals to the sum of ~Brand Awareness~ and ~Brand Loyalty~.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T202947Z" creationid="Acer" creationdate="20200424T180640Z">
-        <seg>Ici, vous verrez que la publicité augmente lentement la notoriété de vos produits. Notez que le ~classement de la marque~ est égale à la somme de la ~notoriété de la marque~ et de la ~fidélité à la marque~.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200526T224026Z" creationid="Acer" creationdate="20200424T180640Z">
+        <seg>Ici, vous verrez que la publicité augmente lentement la notoriété de vos produits.^^Notez que le ~classement de la marque~ est égale à la somme de la ~notoriété de la marque~ et de la ~fidélité à la marque~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17203,8 +17203,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>If you wish to have a single brand covering every product you sell, then you should choose the ~Corporate brand strategy~.^^The ~advantage~ to this approach is that any new products you launch will instantly benefit from the recognition of the existing corporate brand.^^The ~disadvantage~ is that brand loyalty will suffer if any of your products fail to live up to consumers' quality expectations of your corporate brand.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T145105Z" creationid="Acer" creationdate="20200424T152902Z">
-        <seg>Si vous souhaitez avoir une marque unique couvrant tous les produits que vous vendez, vous devez alors choisir la ~stratégie de marque d'entreprise~. L'avantage~ de cette approche est que tout nouveau produit que vous lancez bénéficiera instantanément de la reconnaissance de la marque d'entreprise existante. ^^~L'inconvénient~ est que la fidélité à la marque souffrira si l'un de vos produits ne répond pas aux attentes des consommateurs en matière de qualité de votre marque d'entreprise.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200526T223126Z" creationid="Acer" creationdate="20200424T152902Z">
+        <seg>Si vous souhaitez avoir une marque unique couvrant tous les produits que vous vendez, vous devez alors choisir la ~stratégie de marque d'entreprise~.^^L'avantage~ de cette approche est que tout nouveau produit que vous lancez bénéficiera instantanément de la reconnaissance de la marque d'entreprise existante. ^^~L'inconvénient~ est que la fidélité à la marque souffrira si l'un de vos produits ne répond pas aux attentes des consommateurs en matière de qualité de votre marque d'entreprise.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18331,8 +18331,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>It is true that different product types require different marketing strategies.^^As a rule, the higher the ~brand concern~ of the product you are selling, the more aggressively you should spend in its advertisement.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T200608Z" creationid="Olivier" creationdate="20200424T122758Z">
-        <seg>Il est vrai que des types de produits différents nécessitent des stratégies de marketing différentes. En règle générale, plus la ~ préoccupation de la marque~ du produit que vous vendez est élevée, plus vous devez faire preuve d'agressivité dans sa publicité.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200526T222728Z" creationid="Olivier" creationdate="20200424T122758Z">
+        <seg>Il est vrai que des types de produits différents nécessitent des stratégies de marketing différentes.^^En règle générale, plus la ~ préoccupation de la marque~ du produit que vous vendez est élevée, plus vous devez faire preuve d'agressivité dans sa publicité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18571,8 +18571,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>It's time to put them into use!^^ Let's build a factory to manufacture ~apparel products~.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T124438Z" creationid="Olivier" creationdate="20200424T124438Z">
-        <seg>Il est temps de les mettre en service ! Construisons une usine pour fabriquer des ~articles vestimentaires~.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200526T222905Z" creationid="Olivier" creationdate="20200424T124438Z">
+        <seg>Il est temps de les mettre en service !^^ Construisons une usine pour fabriquer des ~articles vestimentaires~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21315,8 +21315,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Now let's check out the ~Necessity Index~ for ~Bath Lotion~.^^Click the ~Search Product~ button again and this time select ~Bath Lotion~.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T123706Z" creationid="Olivier" creationdate="20200424T123706Z">
-        <seg>Examinons maintenant ~l'indice des besoins~ pour ~la lotion de bain~. Cliquez à nouveau sur le bouton ~Rechercher un produit~ et sélectionnez à nouveau ~la lotion de bain~.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200526T222824Z" creationid="Olivier" creationdate="20200424T123706Z">
+        <seg>Examinons maintenant ~l'indice des besoins~ pour ~la lotion de bain~.^^Cliquez à nouveau sur le bouton ~Rechercher un produit~ et sélectionnez à nouveau ~la lotion de bain~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21331,8 +21331,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Now let's roll out your products to the market and set your range brand strategy in motion.^^~Build a department store~ and ~have it buy products from your factory~.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T155146Z" creationid="Acer" creationdate="20200424T155146Z">
-        <seg>Maintenant, lançons vos produits sur le marché et mettons en place la stratégie de marque de votre type de produit. ~ Construisez un grand magasin~ et ~faites-lui acheter des produits de votre usine~.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200526T223324Z" creationid="Acer" creationdate="20200424T155146Z">
+        <seg>Maintenant, lançons vos produits sur le marché et mettons en place la stratégie de marque de votre type de produit.^^~ Construisez un grand magasin~ et ~faites-lui acheter des produits de votre usine~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21475,8 +21475,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Now the unit detail section of your advertising unit displays the media firm you have just selected.^^You may adjust the ~Monthly Spending Per Product~ slider but for now leave it set at $100,000.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T170647Z" creationid="Acer" creationdate="20200424T170647Z">
-        <seg>À présent, la section de détail de votre unité de publicité affiche l'entreprise médiatique que vous venez de sélectionner. Vous pouvez ajuster le curseur ~Dépenses mensuelles par produit~ mais pour l'instant, laissez le réglage à 100 000 dollars.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200526T223756Z" creationid="Acer" creationdate="20200424T170647Z">
+        <seg>À présent, la section de détail de votre unité de publicité affiche l'entreprise médiatique que vous venez de sélectionner.^^Vous pouvez ajuster le curseur ~Dépenses mensuelles par produit~ mais pour l'instant, laissez le réglage à 100 000 dollars.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22379,8 +22379,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>On the other hand, for some products like ~frozen meat~, consumers are concerned less about ~brands~, and are concerned more about ~quality~ and ~prices~.^^For such products, advertising should be limited and the focus should be on optimizing your business operations to offer consumers with products of lower prices and higher quality.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T200413Z" creationid="Olivier" creationdate="20200424T122438Z">
-        <seg>D'autre part, pour certains produits comme la ~viande congelée~, les consommateurs sont moins préoccupés par les ~marques~ et plus par la ~qualité~ et les ~prix~. Pour ces produits, la publicité doit être limitée et l'accent doit être mis sur l'optimisation de vos opérations commerciales afin d'offrir aux consommateurs des produits à prix plus bas et de meilleure qualité.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200526T222709Z" creationid="Olivier" creationdate="20200424T122438Z">
+        <seg>D'autre part, pour certains produits comme la ~viande congelée~, les consommateurs sont moins préoccupés par les ~marques~ et plus par la ~qualité~ et les ~prix~.^^Pour ces produits, la publicité doit être limitée et l'accent doit être mis sur l'optimisation de vos opérations commerciales afin d'offrir aux consommateurs des produits à prix plus bas et de meilleure qualité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31379,8 +31379,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>The default strategy is ~Unique brand strategy~ in which every product has a unique brand.^^It will cost more to promote each individual product but it may be worth it because you will never have to worry about existing brands being damaged by new but low quality products.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T154356Z" creationid="Acer" creationdate="20200424T154356Z">
-        <seg>La stratégie par défaut est la ~stratégie de marque unique~, dans laquelle chaque produit a une marque unique. Il sera plus coûteux de promouvoir chaque produit individuellement, mais cela peut en valoir la peine, car vous n'aurez jamais à vous inquiéter que des marques existantes soient endommagées par des produits nouveaux mais de mauvaise qualité.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200526T223241Z" creationid="Acer" creationdate="20200424T154356Z">
+        <seg>La stratégie par défaut est la ~stratégie de marque unique~, dans laquelle chaque produit a une marque unique. ^^Il sera plus coûteux de promouvoir chaque produit individuellement, mais cela peut en valoir la peine, car vous n'aurez jamais à vous inquiéter que des marques existantes soient endommagées par des produits nouveaux mais de mauvaise qualité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32195,8 +32195,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>The report displays ~market dominance by industry~ as well as ~by product class~.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T180156Z" creationid="Acer" creationdate="20200424T180156Z">
-        <seg>Le rapport montre la "domination du marché par industrie" ainsi que ~par classe de produits~.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200526T223952Z" creationid="Acer" creationdate="20200424T180156Z">
+        <seg>Le rapport montre la ~domination du marché par industrie~ ainsi que ~par classe de produits~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32227,8 +32227,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>The second strategy, ~Range brand strategy~ is similar to corporate branding but its coverage is limited to product classes.^^For example ~leather bags~ and ~leather briefcases~ fall into the ~leather goods~ product class.^^If you decided to sell ~leather briefcases~ and ~bath lotions~ to accompany the ~leather bags~ you already sell, you ~leather briefcases~ would immediately inherit the brand rating of your ~leather bags~ (~same product class~) but your ~bath lotions~ would not.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T144856Z" creationid="Acer" creationdate="20200424T154235Z">
-        <seg>La deuxième stratégie, ~la stratégie de marque de type de produit~ est similaire à la stratégie de marque d'entreprise mais sa couverture est limitée à des catégories de produits.  Par exemple, les ~sacs en cuir~ et les ~porte-documents en cuir~ appartiennent à la catégorie de produits ~maroquinerie~. Si vous décidez de vendre des ~porte-documents en cuir~ et des ~lotions de bain~ pour accompagner les ~sacs en cuir~ que vous vendez déjà, vos ~porte-documents en cuir~ hériteront immédiatement de la marque de vos ~sacs en cuir~ (~même catégorie de produits~) mais vos ~lotions de bain~ ne le seront pas.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200526T223225Z" creationid="Acer" creationdate="20200424T154235Z">
+        <seg>La deuxième stratégie, ~la stratégie de marque de type de produit~ est similaire à la stratégie de marque d'entreprise mais sa couverture est limitée à des catégories de produits.^^Par exemple, les ~sacs en cuir~ et les ~porte-documents en cuir~ appartiennent à la catégorie de produits ~maroquinerie~.^^Si vous décidez de vendre des ~porte-documents en cuir~ et des ~lotions de bain~ pour accompagner les ~sacs en cuir~ que vous vendez déjà, vos ~porte-documents en cuir~ hériteront immédiatement de la marque de vos ~sacs en cuir~ (~même catégorie de produits~) mais vos ~lotions de bain~ ne le seront pas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32636,8 +32636,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>The ~Necessity Index~ of ~Bath Lotion~ is 80% and it means that it is an everyday necessity item.^^Even if the economy is in a recession, people will still buy bath lotions.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T200845Z" creationid="Olivier" creationdate="20200424T123940Z">
-        <seg>~L'indice des besoins~ en ~lotion de bain~ est de 80 %, ce qui signifie qu'il s'agit d'un produit de première nécessité. Même si l'économie est en récession, les gens achèteront toujours des lotions de bain.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200526T222843Z" creationid="Olivier" creationdate="20200424T123940Z">
+        <seg>~L'indice des besoins~ en ~Lotion de bain~ est de 80 %, ce qui signifie qu'il s'agit d'un produit de première nécessité. Même si l'économie est en récession, les gens achèteront toujours des lotions de bain.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32908,8 +32908,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>They are split into two columns.^^The ~Local~ column displays the ratings for local competitors - these are local small companies that you do not see in the corporation list.^^The ~Average~ column combines the ratings of local and corporate competitors.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T142728Z" creationid="Olivier" creationdate="20200424T102308Z">
-        <seg>Elles sont divisées en deux colonnes. La colonne ~Local~ affiche les notations des concurrents locaux - il s'agit de petites entreprises locales que vous ne voyez pas dans la liste des sociétés. La colonne ~Moyenne~ combine les notations des concurrents locaux et des sociétés.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200526T222620Z" creationid="Olivier" creationdate="20200424T102308Z">
+        <seg>Elles sont divisées en deux colonnes.^^La colonne ~Local~ affiche les notations des concurrents locaux - il s'agit de petites entreprises locales que vous ne voyez pas dans la liste des sociétés.^^La colonne ~Moyenne~ combine les notations des concurrents locaux et des sociétés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34364,8 +34364,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>To gain a better understanding about how brands work, let's open the ~Product Detail Report~.^^Click the ~Information Center~ icon now.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200526T215349Z" creationid="Olivier" creationdate="20200424T101801Z">
-        <seg>Pour mieux comprendre le fonctionnement des marques, ouvrons le ~Détails du produit~. Cliquez à présent sur l'icône ~Centre d'informations~.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200526T222345Z" creationid="Olivier" creationdate="20200424T101801Z">
+        <seg>Pour mieux comprendre le fonctionnement des marques, ouvrons le ~Détails du produit~.^^Cliquez à présent sur l'icône ~Centre d'informations~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36324,8 +36324,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>When a consumer buys a product they consider the ~price~, the ~quality~ and the ~brand~ of the product.^^For the ~quality~, it is affected by the qualities of raw materials used and the production technology, which you have already learned in the previous tutorial.^^For the ~price~, it is very straightforward - a lower price makes a product more competitive in the market.^^A ~brand~ is a distinguishing name intended to identify and differentiate a seller's products from competitor's products.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200429T101021Z" creationid="Olivier" creationdate="20200424T101652Z">
-        <seg>Lorsqu'un consommateur achète un produit, il prend en compte le ~prix~, la ~qualité~ et la ~marque~ du produit. Pour la ~qualité~, c'est influencé par les qualités des matières premières utilisées et la technologie de production, que vous avez déjà apprises dans le tutoriel précédent. Pour le ~prix~, c'est très simple : un prix plus bas rend un produit plus compétitif sur le marché. Une ~marque~ est un nom distinctif destiné à identifier et à différencier les produits d'un vendeur de ceux des concurrents.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200526T222333Z" creationid="Olivier" creationdate="20200424T101652Z">
+        <seg>Lorsqu'un consommateur achète un produit, il prend en compte le ~prix~, la ~qualité~ et la ~marque~ du produit.^^Pour la ~qualité~, c'est influencé par les qualités des matières premières utilisées et la technologie de production, que vous avez déjà apprises dans le tutoriel précédent.^^Pour le ~prix~, c'est très simple : un prix plus bas rend un produit plus compétitif sur le marché.^^Une ~marque~ est un nom distinctif destiné à identifier et à différencier les produits d'un vendeur de ceux des concurrents.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36372,8 +36372,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>When it comes to choosing a media to advertise, you should consider the ~Ratings Points~ and the ~Advertising Cost~ of each media.^^The higher the ~rating points~, the greater the ~audience share~.^^The ~advertising cost~ is simply the cost for your advertisement to be ~seen a thousand times~ by potential customers.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T170010Z" creationid="Acer" creationdate="20200424T170010Z">
-        <seg>Lorsqu'il s'agit de choisir un média pour faire de la publicité, vous devez tenir compte des ~points de classement~ et du ~coût publicitaire~ de chaque média. Plus les ~points de classement~ sont élevés, plus la ~part d'audience~ est importante. Le ~coût publicitaire~ est simplement le coût pour que votre publicité soit vue mille fois~ par des clients potentiels.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200526T223504Z" creationid="Acer" creationdate="20200424T170010Z">
+        <seg>Lorsqu'il s'agit de choisir un média pour faire de la publicité, vous devez tenir compte des ~points de classement~ et du ~coût publicitaire~ de chaque média.^^Plus les ~points de classement~ sont élevés, plus la ~part d'audience~ est importante.^^Le ~coût publicitaire~ est simplement le coût pour que votre publicité soit vue mille fois~ par des clients potentiels.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36900,8 +36900,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>With the advertising delivering its effect, your products' ~brand ratings~ will continue to increase, which in turn will raise your products' ~overall ratings~ and thus drive their sales higher.^^While all this is happening, let's open the ~Corporate Details~ report by pressing the shortcut key ~'D'~ to access some useful market intelligence.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T202821Z" creationid="Acer" creationdate="20200424T175833Z">
-        <seg>Avec l'effet de la publicité, le ~classement de la marque de la marque~ de vos produits continueront à augmenter, ce qui à son tour augmentera les ~évaluations globales~ de vos produits et donc leurs ventes. Pendant que tout cela se produit, ouvrons le rapport ~Détails de l'entreprise~ en appuyant sur la touche de raccourci ~'D'~ pour accéder à des informations utiles sur le marché.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200526T223920Z" creationid="Acer" creationdate="20200424T175833Z">
+        <seg>Avec l'effet de la publicité, le ~classement de la marque de la marque~ de vos produits continueront à augmenter, ce qui à son tour augmentera les ~évaluations globales~ de vos produits et donc leurs ventes.^^Pendant que tout cela se produit, ouvrons le rapport ~Détails de l'entreprise~ en appuyant sur la touche de raccourci ~'D'~ pour accéder à des informations utiles sur le marché.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38021,8 +38021,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>You should now add a new unit to your department store: the ~Advertising unit~, and link it to your sales unit.^^It is often a good idea to place the ~advertising unit~ in the center square of your layout so that it may link to any sales units.^^~Double click the center square~ and select ~Advertising Unit~.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200526T161938Z" creationid="Acer" creationdate="20200424T165236Z">
-        <seg>Vous devez maintenant ajouter une nouvelle unité à votre grand magasin : ~l'unité publicité~, et la lier à votre unité de vente. Il est souvent judicieux de placer ~l'unité publicité~ dans le carré central de votre aménagement afin qu'elle puisse être liée à n'importe quelle unité de vente.~Double cliquez sur le carré central~ et sélectionnez ~l'unité publicité~.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200526T223418Z" creationid="Acer" creationdate="20200424T165236Z">
+        <seg>Vous devez maintenant ajouter une nouvelle unité à votre grand magasin : ~l'unité publicité~, et la lier à votre unité de vente.^^Il est souvent judicieux de placer ~l'unité publicité~ dans le carré central de votre aménagement afin qu'elle puisse être liée à n'importe quelle unité de vente.^^~Double cliquez sur le carré central~ et sélectionnez ~l'unité publicité~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58667,16 +58667,16 @@ At the initial setting, a bank lends money evenly to borrowers of different cred
       <tuv lang="en-US">
         <seg>~Brand awareness~ is simply a measure the consumers' knowledge of the brand.^^Besides driven by advertising, it also increases automatically over time, if the products featuring the brand are widely distributed and enjoy constant retail exposure.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T181039Z" creationid="Acer" creationdate="20200424T181039Z">
-        <seg>~La notoriété de la marque ~ est simplement une mesure de la connaissance qu'ont les consommateurs de la marque. Outre la publicité, elle augmente automatiquement avec le temps, si les produits portant la marque sont largement distribués et bénéficient d'une exposition constante au détail.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200526T224036Z" creationid="Acer" creationdate="20200424T181039Z">
+        <seg>~La notoriété de la marque ~ est simplement une mesure de la connaissance qu'ont les consommateurs de la marque.^^Outre la publicité, elle augmente automatiquement avec le temps, si les produits portant la marque sont largement distribués et bénéficient d'une exposition constante au détail.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>~Brand loyalty~ is a measure of the consumers' attachment to a brand.^^If you allow quality of your products to fluctuate, the brand loyalty will suffer as consumers can easily lose faith in products with inconsistent quality.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T203020Z" creationid="Acer" creationdate="20200424T181324Z">
-        <seg>~La fidélité à la marque~ est une mesure de l'attachement des consommateurs à une marque. Si vous laissez la qualité de vos produits fluctuer, la fidélité à la marque en souffrira car les consommateurs peuvent facilement perdre confiance dans des produits de qualité inégale.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200526T224045Z" creationid="Acer" creationdate="20200424T181324Z">
+        <seg>~La fidélité à la marque~ est une mesure de l'attachement des consommateurs à une marque.^^Si vous laissez la qualité de vos produits fluctuer, la fidélité à la marque en souffrira car les consommateurs peuvent facilement perdre confiance dans des produits de qualité inégale.</seg>
       </tuv>
     </tu>
     <tu>
