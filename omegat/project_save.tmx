@@ -6758,6 +6758,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Classe de produits spécialisés :|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200527T160423Z" creationid="Olivier" creationdate="20200527T160423Z">
+        <seg>Classe de produits spécialisés :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Classe de produits|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200526T211901Z" creationid="Olivier" creationdate="20200526T211901Z">
@@ -43459,8 +43467,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0866]&lt;0081&gt;Product Class: |</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T144636Z" creationid="Olivier" creationdate="20200429T144636Z">
-        <seg>[0866]&lt;0081&gt;Classe de produits : |</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200527T160444Z" creationid="Olivier" creationdate="20200429T144636Z">
+        <seg>[0866]&lt;0081&gt;Type de prod. : |</seg>
       </tuv>
     </tu>
     <tu>
