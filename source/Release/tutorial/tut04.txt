@@ -280,7 +280,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-To access the ~Brand Strategy~ screen, open the ~Corporate Detail~ report by pressing the shortcut key ~'D'~ now. 
+To access the ~Brand Strategy~ screen, open the ~Corporate Detail~ report by pressing the shortcut key ~D~ now. 
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -449,7 +449,7 @@ You can see your product's ~brand rating~ on the ~Sales unit~. Currently it is z
 
 [POS]
 Text Box=330,130,450,0
-Pointer=196,329,298,342
+Pointer=324,312,386,338
 Next Arrow=Yes
 
 //-------------------------------------------------------------------//

@@ -93,7 +93,7 @@ We want to find out what products can be made from ~Timber~, so click the ~INPUT
 
 [POS]
 Text Box=280,580,400,0
-Pointer=533, 473, 606, 486
+Pointer=596, 107, 669, 119
 
 //-------------------------------------------------------------------//
 
@@ -131,7 +131,7 @@ Let's explore more products that can be made with Timber. Click the ~MORE~ butto
 
 [POS]
 Flex Text Box=300,280,400,0
-Pointer=318,184,398,200
+Pointer=350,184,398,200
 
 [CONDITION]
 Manufacturer Guide=Chair
@@ -152,7 +152,7 @@ You may click the ~MORE~ button below the image of the Timber again to see more 
 
 [POS]
 Text Box=300,430,400,0
-Pointer=318,334,398,350
+Pointer=350,334,398,350
 
 [CONDITION]
 Manufacturer Guide=Sofa
@@ -283,7 +283,7 @@ Use the ~Product~ filter to select ~Timber~. Then choose a supplier that sells t
 
 [POS]
 Text Box=20,250,180,0
-Pointer=16,32,167,45
+Pointer=14,40,168,56
 Window=Select Supplier
 
 [CONDITION]
