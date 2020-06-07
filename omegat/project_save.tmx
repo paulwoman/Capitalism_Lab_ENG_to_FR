@@ -6198,6 +6198,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cap.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200607T172634Z" creationid="Olivier" creationdate="20200607T172634Z">
+        <seg>Cap.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Capacity Utilization Rate of the Unit</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150910Z" creationid="Olivier" creationdate="20200502T150910Z">
@@ -45131,8 +45139,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0892]&lt;0104&gt;All companies|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T145507Z" creationid="Olivier" creationdate="20200429T145507Z">
-        <seg>[0892]&lt;0104&gt;Toutes les entreprises|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200607T172219Z" creationid="Olivier" creationdate="20200429T145507Z">
+        <seg>[0892]&lt;0104&gt;Ens. des firmes|</seg>
       </tuv>
     </tu>
     <tu>
@@ -46283,8 +46291,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1110]&lt;0265&gt;Equity Per Share|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200526T172348Z" creationid="Olivier" creationdate="20200515T224421Z">
-        <seg>[1110]&lt;0265&gt;Cap. prop. par act|°</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200607T172649Z" creationid="Olivier" creationdate="20200515T224421Z">
+        <seg>[1110]&lt;0265&gt;Cap. prop. par act°|</seg>
       </tuv>
     </tu>
     <tu>
