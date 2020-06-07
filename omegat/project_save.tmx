@@ -3142,6 +3142,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ajustez les niveaux de formation pour tous vos établissements :|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200607T074742Z" creationid="Olivier" creationdate="20200607T074742Z">
+        <seg>Ajustez les niveaux de formation pour tous vos établissements :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Aliminum|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200505T161823Z" creationid="Olivier" creationdate="20200505T161823Z">
@@ -10454,6 +10462,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DÉSIGNER LE DIRECTEUR DE L'ÉTABLISSEMENT|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200607T074749Z" creationid="Olivier" creationdate="20200607T074749Z">
+        <seg>DÉSIGNER LE DIRECTEUR DE L'ÉTABLISSEMENT|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Département de la police|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200527T224113Z" creationid="Olivier" creationdate="20200527T224113Z">
@@ -14757,6 +14773,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T093855Z" creationid="Olivier" creationdate="20200507T093855Z">
         <seg>HIDEINAC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HIRE RESEARCH TEAM LEAD|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200607T075403Z" creationid="Olivier" creationdate="20200607T075403Z">
+        <seg>HIRE RESEARCH ÉQUIPE DIRIGEANTE|</seg>
       </tuv>
     </tu>
     <tu>
@@ -27713,6 +27737,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Rechercher un produit (TAB)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200607T074733Z" creationid="Olivier" creationdate="20200607T074733Z">
+        <seg>Rechercher un produit (TAB)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Red text denotes that layout plans or inputs are not available for the product.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151350Z" creationid="Olivier" creationdate="20200504T151139Z">
@@ -29001,10 +29033,18 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Search Product (Tab)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200607T074840Z" creationid="Olivier" creationdate="20200607T074840Z">
+        <seg>Search Product (Tab)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Search for a specific product (Hotkey: Tab)</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T103756Z" creationid="Olivier" creationdate="20200503T103756Z">
-        <seg>Recherche d'un produit spécifique (touche de raccourci : onglet)</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200607T075308Z" creationid="Olivier" creationdate="20200503T103756Z">
+        <seg>Recherche d'un produit spécifique (touche de raccourci : TAB)</seg>
       </tuv>
     </tu>
     <tu>
