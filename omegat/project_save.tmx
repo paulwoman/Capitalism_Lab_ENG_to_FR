@@ -3142,6 +3142,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ajustez les niveaux de formation pour tous vos établissements :|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200607T074742Z" creationid="Olivier" creationdate="20200607T074742Z">
+        <seg>Ajustez les niveaux de formation pour tous vos établissements :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Aliminum|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200505T161823Z" creationid="Olivier" creationdate="20200505T161823Z">
@@ -6186,6 +6194,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T174004Z" creationid="Olivier" creationdate="20200504T173916Z">
         <seg>Il est Impossible d'ajouter ce design de produit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cap.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200607T172634Z" creationid="Olivier" creationdate="20200607T172634Z">
+        <seg>Cap.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10450,6 +10466,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T101040Z" creationid="Olivier" creationdate="20200427T101040Z">
         <seg>Au cours d'un processus de fabrication, les matières premières doivent d'abord entrer dans une unité de fabrication, puis être transformées en produits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DÉSIGNER LE DIRECTEUR DE L'ÉTABLISSEMENT|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200607T074749Z" creationid="Olivier" creationdate="20200607T074749Z">
+        <seg>DÉSIGNER LE DIRECTEUR DE L'ÉTABLISSEMENT|</seg>
       </tuv>
     </tu>
     <tu>
@@ -14761,6 +14785,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>HIRE RESEARCH TEAM LEAD|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200607T075403Z" creationid="Olivier" creationdate="20200607T075403Z">
+        <seg>HIRE RESEARCH ÉQUIPE DIRIGEANTE|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>HIREALL</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T082554Z" creationid="Olivier" creationdate="20200507T082554Z">
@@ -18797,6 +18829,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T104508Z" creationid="Olivier" creationdate="20200509T104438Z">
         <seg>Utilisateurs d'Internet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Investment Bank|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200607T173124Z" creationid="Olivier" creationdate="20200607T173124Z">
+        <seg>Investment Bank|</seg>
       </tuv>
     </tu>
     <tu>
@@ -27713,6 +27753,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Rechercher un produit (TAB)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200607T074733Z" creationid="Olivier" creationdate="20200607T074733Z">
+        <seg>Rechercher un produit (TAB)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Red text denotes that layout plans or inputs are not available for the product.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151350Z" creationid="Olivier" creationdate="20200504T151139Z">
@@ -29001,10 +29049,18 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Search Product (Tab)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200607T074840Z" creationid="Olivier" creationdate="20200607T074840Z">
+        <seg>Search Product (Tab)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Search for a specific product (Hotkey: Tab)</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T103756Z" creationid="Olivier" creationdate="20200503T103756Z">
-        <seg>Recherche d'un produit spécifique (touche de raccourci : onglet)</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200607T075308Z" creationid="Olivier" creationdate="20200503T103756Z">
+        <seg>Recherche d'un produit spécifique (touche de raccourci : TAB)</seg>
       </tuv>
     </tu>
     <tu>
@@ -36044,8 +36100,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>Toggle the display of product images on the 3x3 layout area.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T085549Z" creationid="Olivier" creationdate="20200507T084034Z">
-        <seg>Basculer l'affichage des images de produits sur la zone de mise en page 3x3.Basculez vers the display of produit images on the 3x3 disposition région.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200607T095151Z" creationid="Olivier" creationdate="20200507T084034Z">
+        <seg>Basculer l'affichage des images de produits sur la zone de mise en page 3x3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45091,8 +45147,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0892]&lt;0104&gt;All companies|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T145507Z" creationid="Olivier" creationdate="20200429T145507Z">
-        <seg>[0892]&lt;0104&gt;Toutes les entreprises|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200607T172219Z" creationid="Olivier" creationdate="20200429T145507Z">
+        <seg>[0892]&lt;0104&gt;Ens. des firmes|</seg>
       </tuv>
     </tu>
     <tu>
@@ -46243,8 +46299,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1110]&lt;0265&gt;Equity Per Share|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200526T172348Z" creationid="Olivier" creationdate="20200515T224421Z">
-        <seg>[1110]&lt;0265&gt;Cap. prop. par act|°</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200607T172649Z" creationid="Olivier" creationdate="20200515T224421Z">
+        <seg>[1110]&lt;0265&gt;Cap. prop. par act°|</seg>
       </tuv>
     </tu>
     <tu>
@@ -48123,8 +48179,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1401]&lt;0466&gt;Independent Investor|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T141542Z" creationid="Olivier" creationdate="20200509T141030Z">
-        <seg>[1401]&lt;0466&gt;Investisseurs indépendants|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200607T173112Z" creationid="Olivier" creationdate="20200509T141030Z">
+        <seg>[1401]&lt;0466&gt;Invest. indépendant|</seg>
       </tuv>
     </tu>
     <tu>
@@ -53355,16 +53411,16 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2458]&lt;1348&gt;Independent Investor|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T102126Z" creationid="Olivier" creationdate="20200511T102100Z">
-        <seg>[2458]&lt;1348&gt;Investisseur indépendant|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200607T173131Z" creationid="Olivier" creationdate="20200511T102100Z">
+        <seg>[2458]&lt;1348&gt;Invest.  indépendant|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2459]&lt;1349&gt;Independent Investor|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T102120Z" creationid="Olivier" creationdate="20200511T102120Z">
-        <seg>[2459]&lt;1349&gt;Investisseur indépendant|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200607T204851Z" creationid="Olivier" creationdate="20200511T102120Z">
+        <seg>[2459]&lt;1349&gt;Invest. indépendant|</seg>
       </tuv>
     </tu>
     <tu>
