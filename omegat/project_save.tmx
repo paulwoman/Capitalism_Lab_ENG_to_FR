@@ -478,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>-A specialty store focusing on a specific range of products is more attractive to customers interested in such products.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200610T104923Z" creationid="Olivier" creationdate="20200610T104923Z">
+        <seg>[3178]&lt;RDB2&gt;-Un magasin spécialisé se concentrant sur une gamme spécifique de produits est plus attractif pour les clients intéressés par ces produits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>-Build more stores of the same store type in the same city.|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200606T145208Z" creationid="Olivier" creationdate="20200606T145208Z">
@@ -33149,6 +33157,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T154053Z" creationid="Olivier" creationdate="20200507T154053Z">
         <seg>Le montant maximal du dividende spécial que vous pouvez verser est la valeur la plus faible entre 1) les liquidités de la société et 2) ses bénéfices non distribués.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The maximum amount of special dividends you can pay is the smaller value of 1) the company's #cash# and 2) its #Retained Earnings# (viewable on its #Balance Sheet#).</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200610T104915Z" creationid="Olivier" creationdate="20200610T104915Z">
+        <seg>Le montant maximum des dividendes spéciaux que vous pouvez verser est la valeur la plus faible entre 1) la #trésorerie# de la société et 2) #ses bénéfices non distribués# (visibles sur son #bilan#).</seg>
       </tuv>
     </tu>
     <tu>
