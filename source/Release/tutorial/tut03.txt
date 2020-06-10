@@ -283,7 +283,7 @@ Use the ~Product~ filter to select ~Timber~. Then choose a supplier that sells t
 
 [POS]
 Text Box=20,250,180,0
-Pointer=16,32,167,45
+Pointer=14,40,168,56
 Window=Select Supplier
 
 [CONDITION]
