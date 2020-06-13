@@ -4742,6 +4742,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Bonus à la demande|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200613T115744Z" creationid="Olivier" creationdate="20200613T115744Z">
+        <seg>Bonus à la demande|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Boom-Bust Cycle Volatility</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200523T230435Z" creationid="Inrepublica" creationdate="20200422T203645Z">
@@ -44971,8 +44979,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0861]&lt;0076&gt;Revenue Graph |</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T144526Z" creationid="Olivier" creationdate="20200429T144526Z">
-        <seg>[0861]&lt;0076&gt;Graphique de la recette |</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200613T131413Z" creationid="Olivier" creationdate="20200429T144526Z">
+        <seg>[0861]&lt;0076&gt;Graph. recette |</seg>
       </tuv>
     </tu>
     <tu>
@@ -45459,8 +45467,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0920]&lt;0128&gt;Lifetime Revenue|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T150314Z" creationid="Olivier" creationdate="20200429T150314Z">
-        <seg>[0920]&lt;0128&gt;Recette durant la vie|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200613T115819Z" creationid="Olivier" creationdate="20200429T150314Z">
+        <seg>[0920]&lt;0128&gt;Rec. la vie|</seg>
       </tuv>
     </tu>
     <tu>
