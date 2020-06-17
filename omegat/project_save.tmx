@@ -478,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>-A specialty store focusing on a specific range of products is more attractive to customers interested in such products.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200610T104923Z" creationid="Olivier" creationdate="20200610T104923Z">
+        <seg>[3178]&lt;RDB2&gt;-Un magasin spécialisé se concentrant sur une gamme spécifique de produits est plus attractif pour les clients intéressés par ces produits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>-Build more stores of the same store type in the same city.|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200606T145208Z" creationid="Olivier" creationdate="20200606T145208Z">
@@ -4730,6 +4738,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202855Z" creationid="Inrepublica" creationdate="20200422T202855Z">
         <seg>Limite d'émission d'obligations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bonus à la demande|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200613T115744Z" creationid="Olivier" creationdate="20200613T115744Z">
+        <seg>Bonus à la demande|</seg>
       </tuv>
     </tu>
     <tu>
@@ -33153,6 +33169,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The maximum amount of special dividends you can pay is the smaller value of 1) the company's #cash# and 2) its #Retained Earnings# (viewable on its #Balance Sheet#).</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200610T104915Z" creationid="Olivier" creationdate="20200610T104915Z">
+        <seg>Le montant maximum des dividendes spéciaux que vous pouvez verser est la valeur la plus faible entre 1) la #trésorerie# de la société et 2) #ses bénéfices non distribués# (visibles sur son #bilan#).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The maximum amount of special dividends you can pay is the smaller value of 1) the company's #cash# and 2) its #retained earnings# (viewable on its #balance sheet#).</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200606T143804Z" creationid="Olivier" creationdate="20200606T143804Z">
@@ -44955,16 +44979,16 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0861]&lt;0076&gt;Revenue Graph |</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T144526Z" creationid="Olivier" creationdate="20200429T144526Z">
-        <seg>[0861]&lt;0076&gt;Graphique de la recette |</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200613T131413Z" creationid="Olivier" creationdate="20200429T144526Z">
+        <seg>[0861]&lt;0076&gt;Graph. recette |</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[0862]&lt;0077&gt;Quantity Sold Graph |</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T144559Z" creationid="Olivier" creationdate="20200429T144559Z">
-        <seg>[0862]&lt;0077&gt;Graphique de la quantité vendue |</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200613T131812Z" creationid="Olivier" creationdate="20200429T144559Z">
+        <seg>[0862]&lt;0077&gt;Graph. de la quant. vend.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -45443,8 +45467,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0920]&lt;0128&gt;Lifetime Revenue|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T150314Z" creationid="Olivier" creationdate="20200429T150314Z">
-        <seg>[0920]&lt;0128&gt;Recette durant la vie|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200613T115819Z" creationid="Olivier" creationdate="20200429T150314Z">
+        <seg>[0920]&lt;0128&gt;Rec. la vie|</seg>
       </tuv>
     </tu>
     <tu>
