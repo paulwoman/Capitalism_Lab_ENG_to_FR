@@ -48883,8 +48883,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1557]&lt;0622&gt;Stock Value|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T144030Z" creationid="Olivier" creationdate="20200509T144030Z">
-        <seg>[1557]&lt;0622&gt;Valeur des actions</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T093634Z" creationid="Olivier" creationdate="20200509T144030Z">
+        <seg>[1557]&lt;0622&gt;Valeur des actions|</seg>
       </tuv>
     </tu>
     <tu>
@@ -48907,16 +48907,16 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1600]&lt;0625&gt;YTD Changes|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T144337Z" creationid="Olivier" creationdate="20200509T144204Z">
-        <seg>[1600]&lt;0625&gt;Changements AAJ</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T093647Z" creationid="Olivier" creationdate="20200509T144204Z">
+        <seg>[1600]&lt;0625&gt;Changements AAJ|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1601]&lt;0626&gt;Last Year Changes|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T144404Z" creationid="Olivier" creationdate="20200509T144223Z">
-        <seg>[1601]&lt;0626&gt;Changements de l'année dernière|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T093758Z" creationid="Olivier" creationdate="20200509T144223Z">
+        <seg>[1601]&lt;0626&gt;Chang. de AN. pass.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -48939,16 +48939,16 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1604]&lt;0629&gt;Last Year Changes|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T144441Z" creationid="Olivier" creationdate="20200509T144441Z">
-        <seg>[1604]&lt;0629&gt;Changements de l'année dernière|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T093740Z" creationid="Olivier" creationdate="20200509T144441Z">
+        <seg>[1604]&lt;0629&gt;Chang. AN. pass|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1605]&lt;0630&gt;Lifetime |</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T144453Z" creationid="Olivier" creationdate="20200509T144453Z">
-        <seg>[1605]&lt;0630&gt;Vie entière|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T093623Z" creationid="Olivier" creationdate="20200509T144453Z">
+        <seg>[1605]&lt;0630&gt;Vie|</seg>
       </tuv>
     </tu>
     <tu>
