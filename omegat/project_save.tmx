@@ -494,6 +494,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>-Un magasin spécialisé se concentrant sur une gamme spécifique de produits est plus attractif pour les clients intéressés par ces produits.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T102441Z" creationid="Olivier" creationdate="20200710T102441Z">
+        <seg>-Un magasin spécialisé se concentrant sur une gamme spécifique de produits est plus attractif pour les clients intéressés par ces produits.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T150817Z" creationid="Olivier" creationdate="20200509T150817Z">
@@ -8858,6 +8866,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T134411Z" creationid="Olivier" creationdate="20200512T134411Z">
         <seg>Contest Started On=2020-05-11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contest Started On=2020-07-07</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T102736Z" creationid="Olivier" creationdate="20200710T102736Z">
+        <seg>Contest Started On=2020-07-07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contest Started On=2020-07-08</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T102751Z" creationid="Olivier" creationdate="20200710T102751Z">
+        <seg>Contest Started On=2020-07-08</seg>
       </tuv>
     </tu>
     <tu>
@@ -32513,6 +32537,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The MOD Kit allows you to create a MOD for Capitalism Lab.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T102843Z" creationid="Olivier" creationdate="20200710T102843Z">
+        <seg>The MOD Kit allows you to create a MOD for Capitalism Lab.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Overall rating is determined by the #Price# and the #Quality# rating.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200606T144041Z" creationid="Olivier" creationdate="20200606T144041Z">
@@ -44851,8 +44883,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0774]&lt;FH12&gt;Current Dividend Payout Ratio:|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T083858Z" creationid="Olivier" creationdate="20200510T083858Z">
-        <seg>[0774]&lt;FH12&gt;Ratio de distribution des dividendes actuels :|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T102644Z" creationid="Olivier" creationdate="20200510T083858Z">
+        <seg>[0774]&lt;FH12&gt;Ratio de dividendes :|</seg>
       </tuv>
     </tu>
     <tu>
@@ -45051,8 +45083,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0796]&lt;0016&gt;Monthly spending on public relations efforts per active city|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T142732Z" creationid="Olivier" creationdate="20200429T142732Z">
-        <seg>[0796]&lt;0016&gt;Dépenses mensuelles consacrées aux efforts de relations publiques par ville active|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T102620Z" creationid="Olivier" creationdate="20200429T142732Z">
+        <seg>[0796]&lt;0016&gt;Dép. mens. pour les relations publiques par ville active|</seg>
       </tuv>
     </tu>
     <tu>
@@ -45115,8 +45147,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0806]&lt;0026&gt;INVESTOR RELATIONS DEPARTMENT|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T143004Z" creationid="Olivier" creationdate="20200429T143004Z">
-        <seg>[0806]&lt;0026&gt;SERVICE DES RELATIONS AVEC LES INVESTISSEURS|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T102700Z" creationid="Olivier" creationdate="20200429T143004Z">
+        <seg>[0806]&lt;0026&gt;SERVICE DES RELAT° DES INVESTISSEURS|</seg>
       </tuv>
     </tu>
     <tu>
@@ -45211,16 +45243,16 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0819]&lt;0039&gt;Look for Candidates|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T143250Z" creationid="Olivier" creationdate="20200429T143250Z">
-        <seg>[0819]&lt;0039&gt;A la recherche de candidats|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T102713Z" creationid="Olivier" creationdate="20200429T143250Z">
+        <seg>[0819]&lt;0039&gt;Rechercher des candidats|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[0820]&lt;0040&gt;CHIEF OPERATING OFFICER'S OFFICE|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T232925Z" creationid="Olivier" creationdate="20200429T143308Z">
-        <seg>[0820]&lt;0040&gt;BUREAU DU DIRECTEUR GÉNÉRAL DES OPÉRATIONS|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T102709Z" creationid="Olivier" creationdate="20200429T143308Z">
+        <seg>[0820]&lt;0040&gt;BUREAU DU DIRECTEUR D'EXPLOITATION|</seg>
       </tuv>
     </tu>
     <tu>
@@ -57267,8 +57299,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2931]&lt;PUB1&gt;For this|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T141133Z" creationid="Olivier" creationdate="20200512T141133Z">
-        <seg>[2931]&lt;PUB1&gt;Pour ça|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T102550Z" creationid="Olivier" creationdate="20200512T141133Z">
+        <seg>[2931]&lt;PUB1&gt;Pour ce|</seg>
       </tuv>
     </tu>
     <tu>
@@ -57283,8 +57315,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2932]&lt;APR1&gt;can be acquired for|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T141156Z" creationid="Olivier" creationdate="20200512T141156Z">
-        <seg>[2932]&lt;APR1&gt;peut être acquis pou|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T102615Z" creationid="Olivier" creationdate="20200512T141156Z">
+        <seg>[2932]&lt;APR1&gt;peut être acquis pour|</seg>
       </tuv>
     </tu>
     <tu>
