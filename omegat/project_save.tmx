@@ -494,6 +494,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>-Un magasin spécialisé se concentrant sur une gamme spécifique de produits est plus attractif pour les clients intéressés par ces produits.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T102441Z" creationid="Olivier" creationdate="20200710T102441Z">
+        <seg>-Un magasin spécialisé se concentrant sur une gamme spécifique de produits est plus attractif pour les clients intéressés par ces produits.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T150817Z" creationid="Olivier" creationdate="20200509T150817Z">
@@ -506,6 +514,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T150819Z" creationid="Olivier" creationdate="20200509T150819Z">
         <seg>.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>//</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T094847Z" creationid="Olivier" creationdate="20200710T094847Z">
+        <seg>//</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// "Constant Game Speed" should not be defined as the player should be allowed to alter the game speed during the period of AI advance start.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T094655Z" creationid="Olivier" creationdate="20200710T094655Z">
+        <seg>// "Vitesse constante de la partie" ne doit pas être définie car le joueur doit être autorisé à modifier la vitesse de la partie pendant la période de début d'avance de l'IA.</seg>
       </tuv>
     </tu>
     <tu>
@@ -574,6 +598,54 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// CEO Salary Modifier=&lt;1 to 200&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T094727Z" creationid="Olivier" creationdate="20200710T094657Z">
+        <seg>// Modificateur du salaire du PDG=&lt;1 à 200&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// CMO Salary Modifier=&lt;1 to 200&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T094846Z" creationid="Olivier" creationdate="20200710T094846Z">
+        <seg>// Modificateur de salaire de l'OCM=&lt;1 à 200&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// COO Salary Modifier=70</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T094947Z" creationid="Olivier" creationdate="20200710T094947Z">
+        <seg>// COO Salary Modifier=70</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// COO Salary Modifier=&lt;1 to 200&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T094748Z" creationid="Olivier" creationdate="20200710T094704Z">
+        <seg>// Modificateur de salaire du directeur de l'exploitation=&lt;1 à 200&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// CTO Salary Modifier=130</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T095003Z" creationid="Olivier" creationdate="20200710T095003Z">
+        <seg>// CTO Salary Modifier=130</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// CTO Salary Modifier=&lt;1 to 200&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T094809Z" creationid="Olivier" creationdate="20200710T094742Z">
+        <seg>// Modificateur du salaire des CTO=&lt;1 à 200&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// Competence of Local Competitors=&lt;Very Low, Low, Moderate, High, Very High&gt;</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151327Z" creationid="Inrepublica" creationdate="20200423T151327Z">
@@ -624,8 +696,16 @@
       <tuv lang="en-US">
         <seg>// Examples of product classes: Apparel, Automobile, Beverage and etc.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T094317Z" creationid="Olivier" creationdate="20200710T094317Z">
-        <seg>// Examples de produit classes: Apparel, Automobile, Beverage and etc.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T094508Z" creationid="Olivier" creationdate="20200710T094317Z">
+        <seg>// Examples de classes de produits : Apparel, Automobile, Beverage and etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// Examples:</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T094945Z" creationid="Olivier" creationdate="20200710T094945Z">
+        <seg>// Examples:</seg>
       </tuv>
     </tu>
     <tu>
@@ -830,6 +910,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// Please note that this is a sample script that lists all variables under this section.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T094603Z" creationid="Olivier" creationdate="20200710T094603Z">
+        <seg>// Veuillez noter qu'il s'agit d'un exemple de script qui énumère toutes les variables de cette section.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// Please note that this only applies to AI competitors with a diversified business strategy.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T223409Z" creationid="Olivier" creationdate="20200430T223409Z">
@@ -848,8 +936,8 @@
       <tuv lang="en-US">
         <seg>// Product Expertise=&lt;Product Class&gt;, &lt;Expertise Rating, which ranges from 0 to 100&gt;</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T094315Z" creationid="Olivier" creationdate="20200710T094315Z">
-        <seg>// Produit Compétence=&lt;Classe de produits&gt;, &lt;Compétence Rating, which ranges from 0 to 100&gt;</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T094424Z" creationid="Olivier" creationdate="20200710T094315Z">
+        <seg>// Expertise produit=&lt;Classe de produit&gt;, &lt;Classement d'expertise, qui va de 0 à 100&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -874,6 +962,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151233Z" creationid="Inrepublica" creationdate="20200423T151233Z">
         <seg>// Retail Store Type=&lt;One, Many&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// Salary modifiers for senior management staff.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T094904Z" creationid="Olivier" creationdate="20200710T094904Z">
+        <seg>// Modificateurs de salaire pour le personnel d'encadrement supérieur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -914,6 +1010,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T224054Z" creationid="Olivier" creationdate="20200430T224054Z">
         <seg>// L'échéance de ce sous-objectif est définie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// The expected salary for COO will become 70% of the original range.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T095024Z" creationid="Olivier" creationdate="20200710T095000Z">
+        <seg>// Le salaire prévu pour le directeur de l'exploitation sera de 70 % de la fourchette initiale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// The expected salary for CTO will become 130% of the original range.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T095017Z" creationid="Olivier" creationdate="20200710T095017Z">
+        <seg>// Le salaire prévu pour les CTO sera de 130 % de la fourchette initiale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1302,6 +1414,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>//Example:</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T095133Z" creationid="Olivier" creationdate="20200710T095133Z">
+        <seg>// Example:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>//Firm, Department Store</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171450Z" creationid="Olivier" creationdate="20200427T171450Z">
@@ -1326,10 +1446,82 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>//Initialize the player¡¯s corporate brand ratings to specific values in the beginning of the game.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T095517Z" creationid="Olivier" creationdate="20200710T095517Z">
+        <seg>//Initialiser le classement des marques d'entreprise du joueur à des valeurs spécifiques au début du jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>//Tech Cost Modifier =150</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T095134Z" creationid="Olivier" creationdate="20200710T095134Z">
+        <seg>//Tech Cost Modifier =150</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>//Technology acquisition costs will become 150% of the original</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T095146Z" creationid="Olivier" creationdate="20200710T095146Z">
+        <seg>//Les coûts d'acquisition des technologies deviendront 150% de ceux d'origine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>//This is a modifier for technology acquisition costs.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T095059Z" creationid="Olivier" creationdate="20200710T095059Z">
+        <seg>//Il s'agit d'un modificateur des coûts d'acquisition des technologies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>//Training Effect Modifier=200</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T095250Z" creationid="Olivier" creationdate="20200710T095250Z">
+        <seg>//Training Effect Modifier=200</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>//With the same training expenditure, your staff¡¯s experience level will increase two times as fast.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T095314Z" creationid="Olivier" creationdate="20200710T095314Z">
+        <seg>//Avec les mêmes dépenses de formation, le niveau d'expérience de votre personnel augmentera deux fois plus vite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>//With this statement, the player corporation¡¯s brand strategy is fixed to the specified strategy and cannot be changed.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T095412Z" creationid="Olivier" creationdate="20200710T095412Z">
+        <seg>//Avec cette instruction, la stratégie de marque de la société de joueurs est fixée à la stratégie spécifiée et ne peut être modifiée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>//Years of Advanced Start for AI=1, Stock Purchase Allowed</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T101837Z" creationid="Olivier" creationdate="20200428T101837Z">
         <seg>//Years of Advanced Start for AI=1, Stock Purchase Allowed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>//You may use this to modify to training effect on staff.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T095221Z" creationid="Olivier" creationdate="20200710T095221Z">
+        <seg>//Vous pouvez l'utiliser pour modifier l'effet de formation sur le personnel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>//of the 13 diversified companies, 1 of them have expertise in apparel</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T103602Z" creationid="Olivier" creationdate="20200710T103602Z">
+        <seg>//// des 13 entreprises diversifiées, 1 d'entre elles a une expertise dans le domaine de l'habillement</seg>
       </tuv>
     </tu>
     <tu>
@@ -3442,6 +3634,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T220759Z" creationid="Olivier" creationdate="20200430T220759Z">
         <seg>Et il va sans dire que la récompense financière que vous récolterez en tant qu'actionnaire majoritaire est également un autre grand encouragement à poursuivre une IPO.\n\nDans ce scénario, vous devez placer vos entreprises sur une trajectoire de croissance durable avec pour objectif final de faire entrer en bourse au moins une de vos filiales avec une capitalisation boursière supérieure à un milliard de dollars.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>And the player must be using corporate brand strategy in order to benefit from this.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T095547Z" creationid="Olivier" creationdate="20200710T095547Z">
+        <seg>Et le joueur doit utiliser la stratégie de marque de l'entreprise pour en tirer profit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8302,6 +8502,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Competitor Expertise Level=Low</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T103357Z" creationid="Olivier" creationdate="20200710T103357Z">
+        <seg>Competitor Expertise Level=Low</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Competitor Expertise Level=Moderate</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171340Z" creationid="Olivier" creationdate="20200427T171340Z">
@@ -8510,6 +8718,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Constant Game Speed=3</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T094543Z" creationid="Olivier" creationdate="20200710T094535Z">
+        <seg>Constant Game Speed=3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Constant Import Supply=No</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171348Z" creationid="Olivier" creationdate="20200427T171348Z">
@@ -8666,6 +8882,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T134411Z" creationid="Olivier" creationdate="20200512T134411Z">
         <seg>Contest Started On=2020-05-11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contest Started On=2020-07-07</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T102736Z" creationid="Olivier" creationdate="20200710T102736Z">
+        <seg>Contest Started On=2020-07-07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contest Started On=2020-07-08</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T102751Z" creationid="Olivier" creationdate="20200710T102751Z">
+        <seg>Contest Started On=2020-07-08</seg>
       </tuv>
     </tu>
     <tu>
@@ -8850,6 +9082,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T215310Z" creationid="Olivier" creationdate="20200429T215310Z">
         <seg>Corporate Brand Rating=35, 35</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Corporate Brand Rating=&lt;brand awareness rating&gt;,&lt;brand loyalty rating&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T095449Z" creationid="Olivier" creationdate="20200710T095449Z">
+        <seg>Notoriété de la marque de l'entreprise=&lt;notation de la notoriété de la marque&gt;,&lt;notation de la fidélité à la marque&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9350,6 +9590,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Data\*.DBF</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T103802Z" creationid="Olivier" creationdate="20200710T103802Z">
+        <seg>Data\*.DBF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Deadline=1990-01-02</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170920Z" creationid="Olivier" creationdate="20200427T170920Z">
@@ -9768,8 +10016,8 @@
       <tuv lang="en-US">
         <seg>Description=This is a sample script for Capitalism Lab, listing all variables under the [SPECIAL RULES] section.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T101828Z" creationid="Olivier" creationdate="20200428T101828Z">
-        <seg>Description=Ceci est un exemple de script pour Capitalism Lab, listant toutes les variables sous la section [REGLES SPECIALES]. section.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T094528Z" creationid="Olivier" creationdate="20200428T101828Z">
+        <seg>Description=Ceci est un exemple de script pour Capitalism Lab, listant toutes les variables sous la section [REGLES SPECIALES].</seg>
       </tuv>
     </tu>
     <tu>
@@ -9882,6 +10130,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100217Z" creationid="Olivier" creationdate="20200430T100217Z">
         <seg>Description=Avec vos antécédents dans le monde des affaires, vous êtes sûr de pouvoir mener votre parti politique à la victoire aux élections municipales de Detroit et de Pittsburgh et de mettre en place les bonnes politiques pour stimuler leur économie, en créant de nouvelles opportunités d'affaires et d'emploi dont les villes ont tant besoin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=Years of research in training methodology by a consortium of leading business schools has finally produced astonishing results.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T103351Z" creationid="Olivier" creationdate="20200710T103351Z">
+        <seg>Description=Des années de recherche en méthodologie de formation par un consortium de grandes écoles de commerce ont finalement donné des résultats étonnants.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12110,6 +12366,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fixed Brand Strategy=&lt;Corporate Brand/Range Brand/Unique Brand&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T095353Z" creationid="Olivier" creationdate="20200710T095353Z">
+        <seg>Stratégie de marque fixe=&lt;Marque d'entreprise / Marque / Marque unique&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fixed Brand Strategy=Corporate Brand</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T215307Z" creationid="Olivier" creationdate="20200429T215307Z">
@@ -12354,6 +12618,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T172244Z" creationid="Olivier" creationdate="20200426T172244Z">
         <seg>Pour les produits à bas prix, comme le shampoing, une cargaison peut contenir jusqu'à plusieurs milliers d'unités du produit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For more details about how to customize a MOD, please see https://www.capitalismlab.com/mod/</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T103209Z" creationid="Olivier" creationdate="20200710T103209Z">
+        <seg>Pour plus de détails sur la manière de personnaliser un MOD, veuillez consulter le site https://www.capitalismlab.com/mod/</seg>
       </tuv>
     </tu>
     <tu>
@@ -17801,6 +18073,30 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you assign a value lower than 100, technology acquisition costs will be reduced.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T095111Z" creationid="Olivier" creationdate="20200710T095111Z">
+        <seg>Si vous attribuez une valeur inférieure à 100, les coûts d'acquisition de la technologie seront réduits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you assign a value lower than 100, the expected salary for the job position will be lower.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T094928Z" creationid="Olivier" creationdate="20200710T094928Z">
+        <seg>Si vous attribuez une valeur inférieure à 100, le salaire prévu pour le poste sera moins élevé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you assign a value lower than 100, the experience level of your staff being trained will increase more slowly.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T095233Z" creationid="Olivier" creationdate="20200710T095233Z">
+        <seg>Si vous attribuez une valeur inférieure à 100, le niveau d'expérience de votre personnel en formation augmentera plus lentement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you change the #training budget# here, the change will apply to all the front offices.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T150847Z" creationid="Olivier" creationdate="20200507T150847Z">
@@ -17837,6 +18133,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T154437Z" creationid="Olivier" creationdate="20200425T154437Z">
         <seg>Si vous trouvez la liste des actions trop chargée, vous pouvez utiliser les filtres d'actions pour limiter le type d'action à afficher à l'écran.^^ Par exemple, vous pouvez choisir de ne visualiser que les actions technologiques que vous possédez actuellement en cliquant sur le bouton ~Tech~ puis sur le bouton ~Propriété~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you have any questions about modding, you may post your questions on the official Capitalism Lab forum at http://www.capitalism2.com/forum/</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T103221Z" creationid="Olivier" creationdate="20200710T103221Z">
+        <seg>Si vous avez des questions sur le modding, vous pouvez poster vos questions sur le forum officiel du Capitalism Lab à l'adresse http://www.capitalism2.com/forum/</seg>
       </tuv>
     </tu>
     <tu>
@@ -22049,6 +22353,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Normally when you have defined "Years of Advanced Start for AI",</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T094639Z" creationid="Olivier" creationdate="20200710T094639Z">
+        <seg>Normalement, lorsque vous avez défini les "Années de démarrage avancé pour l'IA",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Not enjoyable unless you have achieved mastery in this game.|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200606T145936Z" creationid="Olivier" creationdate="20200606T145936Z">
@@ -23389,6 +23701,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T220635Z" creationid="Olivier" creationdate="20200422T171855Z">
         <seg>Sur la mini carte, les zones blanches représentent les bâtiments de la ville qui n'appartiennent pas à des sociétés, comme les maisons et les parcs.^^Les zones colorées représentent les bâtiments appartenant à des sociétés et sont représentées par la couleur de la société.^^Les ports maritimes sont représentés par la lettre "C" ou "I" -  ~"C" pour les produits de consommation ~(comme les téléviseurs ou les jeans) et ~ "I" pour les produits industriels~ (comme le charbon ou l'acier).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the other hand, assigning a value higher than 100 will increase technology acquisition costs.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T095125Z" creationid="Olivier" creationdate="20200710T095125Z">
+        <seg>En revanche, l'attribution d'une valeur supérieure à 100 augmentera les coûts d'acquisition des technologies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On the other hand, assigning a value higher than 100 will increase the expected salary for the job position.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T094938Z" creationid="Olivier" creationdate="20200710T094938Z">
+        <seg>D'autre part, l'attribution d'une valeur supérieure à 100 augmentera le salaire prévu pour le poste.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25429,6 +25757,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T102038Z" creationid="Olivier" creationdate="20200502T102038Z">
         <seg>Filtre entreprises du joueur (touche de raccourci : F8)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please note that a randomness of -5 to +5 in values will be automatically applied.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T095533Z" creationid="Olivier" creationdate="20200710T095533Z">
+        <seg>Veuillez noter qu'une valeur aléatoire de -5 à +5 en valeurs sera automatiquement appliquée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29833,6 +30169,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Setting a value higher than 100 will increase the training effect.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T095246Z" creationid="Olivier" creationdate="20200710T095246Z">
+        <seg>En fixant une valeur supérieure à 100, on augmente l'effet de la formation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Setting this to a value higher than 100 will increase revenues of all insurance companies.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T194353Z" creationid="Inrepublica" creationdate="20200422T194353Z">
@@ -31337,6 +31681,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Tech Cost Modifier=&lt;1 to 1000&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T095046Z" creationid="Olivier" creationdate="20200710T095046Z">
+        <seg>Modificateur de coût technique=&lt;1 à 1000&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tech Focused Companies=10</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T103640Z" creationid="Olivier" creationdate="20200428T103640Z">
@@ -32233,6 +32585,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The MOD Kit allows you to create a MOD for Capitalism Lab.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T102843Z" creationid="Olivier" creationdate="20200710T102843Z">
+        <seg>The MOD Kit allows you to create a MOD for Capitalism Lab.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Overall rating is determined by the #Price# and the #Quality# rating.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200606T144041Z" creationid="Olivier" creationdate="20200606T144041Z">
@@ -32829,6 +33189,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200526T223241Z" creationid="Acer" creationdate="20200424T154356Z">
         <seg>La stratégie par défaut est la ~stratégie de marque unique~, dans laquelle chaque produit a une marque unique. ^^Il sera plus coûteux de promouvoir chaque produit individuellement, mais cela peut en valoir la peine, car vous n'aurez jamais à vous inquiéter que des marques existantes soient endommagées par des produits nouveaux mais de mauvaise qualité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The default value is 100.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T094916Z" creationid="Olivier" creationdate="20200710T094916Z">
+        <seg>La valeur par défaut est 100.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36138,6 +36506,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To use the MOD Kit, please unzip the file MOD_kit.ZIP to the current folder \MOD_KIT.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T103156Z" creationid="Olivier" creationdate="20200710T103156Z">
+        <seg>Pour utiliser le kit de  MOD, veuillez décompresser le fichier MOD_kit.ZIP dans le dossier courant \MOD_KIT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To win the game, you have to own at least 80% of your corporation's stock while keeping all the previous goals achieved.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T222705Z" creationid="Olivier" creationdate="20200429T222705Z">
@@ -36542,6 +36918,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T101952Z" creationid="Olivier" creationdate="20200428T101952Z">
         <seg>Training Effect Modifier=50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Training Effect Modifier=&lt;1 to 1000&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T095210Z" creationid="Olivier" creationdate="20200710T095210Z">
+        <seg>Modificateur de l'effet de formation=&lt;1 à 1000&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -38654,6 +39038,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T140934Z" creationid="Olivier" creationdate="20200502T140717Z">
         <seg>Graphique annuel du cours des des actions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Years of Advanced Start for AI=1, Stock Purchase Allowed</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T094549Z" creationid="Olivier" creationdate="20200710T094538Z">
+        <seg>Years of Advanced Start for AI=1, Stock Purchase Allowed</seg>
       </tuv>
     </tu>
     <tu>
@@ -44547,8 +44939,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0774]&lt;FH12&gt;Current Dividend Payout Ratio:|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T083858Z" creationid="Olivier" creationdate="20200510T083858Z">
-        <seg>[0774]&lt;FH12&gt;Ratio de distribution des dividendes actuels :|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T102644Z" creationid="Olivier" creationdate="20200510T083858Z">
+        <seg>[0774]&lt;FH12&gt;Ratio de dividendes :|</seg>
       </tuv>
     </tu>
     <tu>
@@ -44747,8 +45139,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0796]&lt;0016&gt;Monthly spending on public relations efforts per active city|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T142732Z" creationid="Olivier" creationdate="20200429T142732Z">
-        <seg>[0796]&lt;0016&gt;Dépenses mensuelles consacrées aux efforts de relations publiques par ville active|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T102620Z" creationid="Olivier" creationdate="20200429T142732Z">
+        <seg>[0796]&lt;0016&gt;Dép. mens. pour les relations publiques par ville active|</seg>
       </tuv>
     </tu>
     <tu>
@@ -44811,8 +45203,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0806]&lt;0026&gt;INVESTOR RELATIONS DEPARTMENT|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T143004Z" creationid="Olivier" creationdate="20200429T143004Z">
-        <seg>[0806]&lt;0026&gt;SERVICE DES RELATIONS AVEC LES INVESTISSEURS|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T102700Z" creationid="Olivier" creationdate="20200429T143004Z">
+        <seg>[0806]&lt;0026&gt;SERVICE DES RELAT° DES INVESTISSEURS|</seg>
       </tuv>
     </tu>
     <tu>
@@ -44907,16 +45299,16 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0819]&lt;0039&gt;Look for Candidates|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T143250Z" creationid="Olivier" creationdate="20200429T143250Z">
-        <seg>[0819]&lt;0039&gt;A la recherche de candidats|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T102713Z" creationid="Olivier" creationdate="20200429T143250Z">
+        <seg>[0819]&lt;0039&gt;Rechercher des candidats|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[0820]&lt;0040&gt;CHIEF OPERATING OFFICER'S OFFICE|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T232925Z" creationid="Olivier" creationdate="20200429T143308Z">
-        <seg>[0820]&lt;0040&gt;BUREAU DU DIRECTEUR GÉNÉRAL DES OPÉRATIONS|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T102709Z" creationid="Olivier" creationdate="20200429T143308Z">
+        <seg>[0820]&lt;0040&gt;BUREAU DU DIRECTEUR D'EXPLOITATION|</seg>
       </tuv>
     </tu>
     <tu>
@@ -56963,8 +57355,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2931]&lt;PUB1&gt;For this|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T141133Z" creationid="Olivier" creationdate="20200512T141133Z">
-        <seg>[2931]&lt;PUB1&gt;Pour ça|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T102550Z" creationid="Olivier" creationdate="20200512T141133Z">
+        <seg>[2931]&lt;PUB1&gt;Pour ce|</seg>
       </tuv>
     </tu>
     <tu>
@@ -56979,8 +57371,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2932]&lt;APR1&gt;can be acquired for|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T141156Z" creationid="Olivier" creationdate="20200512T141156Z">
-        <seg>[2932]&lt;APR1&gt;peut être acquis pou|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T102615Z" creationid="Olivier" creationdate="20200512T141156Z">
+        <seg>[2932]&lt;APR1&gt;peut être acquis pour|</seg>
       </tuv>
     </tu>
     <tu>
@@ -59213,6 +59605,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200606T150158Z" creationid="Olivier" creationdate="20200606T150158Z">
         <seg>[3198]&lt;MSHA&gt;Part de marché de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3199]&lt;BNOT&gt;Sorry, the company does not meet the bond issuance requirement.\nTry increasing the company's equity.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T102303Z" creationid="Olivier" creationdate="20200710T102303Z">
+        <seg>[3199]&lt;BNOT&gt;Désolé, la société ne répond pas à l'exigence d'émission d'obligations.\n Essayez d'augmenter le capital de la société.</seg>
       </tuv>
     </tu>
     <tu>
