@@ -520,7 +520,7 @@ Click to open the Firm Financial Report
 ~
 IF_AL
 Auto Link Supplier
-Click to allow purchasing units to find their own suppliers
+Click to allow purchasing units to find their own suppliers. #Double-click# to apply the change of this setting to #all your firms#. 
 ~
 IF_T
 Training
@@ -1589,8 +1589,8 @@ Only show media stocks.
 `
 ~
 S_INVEST
-Only show companies whose main business activities are investing into other companies.  
-`
+Financial stocks 
+Only show financial companies, including companies whose main business activities are investing into other companies.  
 ~
 S_CONSUM
 Only show companies that sell consumer products. 
@@ -2755,15 +2755,15 @@ A stock split increases the total number of shares in a corporation and diminish
 ~
 DIVIDMAX
 Maximum Special Dividend 
-The maximum amount of special dividend you can pay is the smaller value of 1) the company's cash and 2) its retained earnings. 
+The maximum amount of special dividends you can pay is the smaller value of 1) the company's #cash# and 2) its #Retained Earnings# (viewable on its #Balance Sheet#). 
 ~
 DIVIDEAR
 Retained Earnings 
-The retained earnings are the accumulative net earnings of a company. You can view it on the Balance Sheet at the Corporate Details screen. 
+The retained earnings are the accumulative net earnings of a company. You can view it on the #Balance Sheet# at the #Corporate Details# screen. 
 ~
 DIVIDPAY
 Pay a Special Dividend 
-You may pay a special dividend from your company or a subsidiary with a controlling interest of at least 75%. 
+You may arrange a special dividend payment from #your company# or #a subsidiary# with a controlling interest of at least 75%. 
 ~
 PININPUT
 Pin Input 
@@ -2843,7 +2843,7 @@ Click here to show/hide the window that shows the Market Share of the current pr
 ~
 DEPOSCAP
 Deposit 
-The maximum deposit amount is constrained by the deposit cap. Under the regulation, deposits should be not concentrated on a small number of large depositors. There is a cap that limits the maximum amount of deposit each depositor can make.
+The #maximum deposit amount# is constrained by the #deposit cap#. Under the regulation, deposits should be #not concentrated# on a small number of large depositors. There is a cap that #limits the maximum amount# of deposit each depositor can make.
 ~
 BANKINCO
 Consolidated Bank Income Statement
@@ -3222,7 +3222,7 @@ Product Quality
 #Product Quality# is the sum total of #Raw Material Quality# and #Production Quality#.
 ~
 RAWQUAL
-Raw Material Quality 
+Raw Materials Quality 
 The aggregate quality of all the required raw materials and semi products for making this product. For more details, press F1 to open the guide to see the production details.
 ~
 PRODQUA2
@@ -3288,4 +3288,80 @@ The average premium price level of #Life# insurance, #Home# insurance and #Car# 
 ICAPRAT1
 Insurance Company Capital Ratio 
 The #Capital Ratio# is the ratio of an insurance company's #Equity Capital# to its #Total Assets#. An insurance company must maintain a positive capital ratio. 
+~
+TALICLAS
+Show talents specializing in Products.  
+`
+~
+TALTECH
+Show talents specializing in Technology.
+`
+~
+VIEWTAL
+View Talents 
+View available talents in different cities.
+~
+PRODQUAC
+Product Quality 
+#Product Quality# is the sum total of #Raw Material Quality#, #Production Quality# and #City Quality Bonus#.
+~
+ASERVICE
+Click here to set up the layout (hotkey: A)
+`
+~
+OVERALL2
+Overall Rating
+The Overall rating is determined by the #Price# and the #Quality# rating. 
+~
+IMPORT1
+Import a new item.
+`
+~
+IMPORT0
+The capacity of this Import company is full.
+`
+~
+IMP_DEL
+Delete Item 
+`
+~
+IMP_CLI
+Show clients that are purchasing this item.   
+`
+~
+IMP_CAPA
+Import Capacity 
+It shows the #number of items being imported# and the #maximum number of items# that this Import Company can import. 
+~
+IMPORTA
+Available via Import
+This item can be imported via an Import Company.
+~
+LOANDEMA
+Loan Demand 
+This indicates the level of #demand for bank loans# which is correlated to the total GDP of the cities. 
+~
+STOPCDEP
+Threshold for Stopping Accepting Corporate Deposits
+If this is enabled, the bank will #stop accepting new deposits# from #corporate clients# when the bank's #cash# as a percentage of its #total assets# exceeds the specified threshold. 
+~
+MYNATPOP
+Your Nation's Population
+It equals to the total population of all your cities. In #Survival Mode#, your objective is to develop your nation's economy to support fast population growth. 
+~
+CONATPOP
+Competing Nation's Population
+In #Survival Mode#, one way to measure your performance is to compare your nation's population growth with that of the competing nation.
+~
+PUBINVMO
+Public Investors' Money Available to Your Company
+#Realistic Money Supply# is enabled in this game. It is more difficult for player and AI companies to #raise funds# from IPO, issuing new shares and bonds as there is a limited supply of #Public Investors' Money#. The rate at which #Public Investors' Money# increases is based on the national GDP. 
+~
+PO_BCIVI
+Auto Build Civic Buildings
+When this is enabled, AI will automatically build civic buildings when there is unmet demand. 
+~
+PO_BAPAR
+Auto Build Apartments
+When this is enabled, AI will automatically build apartments when there is unmet demand. 
 ~

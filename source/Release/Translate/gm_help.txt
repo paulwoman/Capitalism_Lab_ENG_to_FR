@@ -1,6 +1,6 @@
 GM_DIFF
 Game difficulty level
-Choose one of eight pre-set difficulty levels. You may also Customize or Randomize the game settings
+Choose one of eight pre-set difficulty levels. You may also #Customize# or #Randomize# the game settings
 ~
 GM_NOC
 Number of Cities
@@ -204,7 +204,7 @@ Game console companies run by AI will have higher initial capital.
 ~
 LOANINT
 Base Loan Interest Rate 
-This modifies the base interest rate which affects bonds and bank loans. A higher interest rate increases borrowing costs, posing greater challenges for companies that take on debt to expand.
+This modifies the base interest rate which affects #bonds# and #bank loans#. A higher interest rate increases borrowing costs, posing greater challenges for companies that take on debt to expand.
 ~
 OSTECH
 Player Starts with Operating System (OS) Technologies 
@@ -222,10 +222,6 @@ MORE_TAL
 More Talents
 You may use this option to have the game duplicate talent data to increase the supply of talents. 
 ~
-PORTRAIT 
-Portrait Gender 
-Use the Male and Female icons (located below the arrow icons) to switch the gender of the portraits. 
-~
 GC_RAND
 Randomize Global Competitiveness Ratings
 If this is enabled, global competitiveness ratings across industries will be randomized in the beginning of the game. If this is disabled, global competitiveness ratings will be initialized with a constant value of 30. 
@@ -240,7 +236,7 @@ A higher value means that AI banks will aggressively lure customers from competi
 ~
 SAVERATE
 Personal Savings Rate Modifier 
-This slider modifies the personal savings rate. A higher personal savings rate means that people will save and deposit more money into banks, thus boosting the profitability of banks in general. 
+This slider modifies the personal savings rate. A higher personal savings rate means that people will save and deposit more money into banks, thus boosting the profitability of banks in general.
 ~
 MORETAL2
 More Talents
@@ -280,7 +276,7 @@ Setting this to a value higher than 100 will increase revenues of all insurance 
 ~
 INSCLAIM
 Insurance Claims 
-You may customize the average amounts of insurance claims that insurance companies have to pay. A lower insurance claims ratio means a higher profit margin for insurance companies. 
+You may customize the average amounts of insurance claims that insurance companies have to pay. A #lower insurance claims ratio# means a #higher profit margin# for insurance companies. 
 ~
 DEPOSCAP
 Corporate Deposit Cap, as a percentage of the total bank deposits. 
@@ -292,7 +288,7 @@ When the Express mode is enabled, a new streamlined user interface will be used 
 ~
 MLOANDEP
 Maximum Loans-to-Assets Ratio
-This determines the Absolute Maximum amount of loans that a bank can lend out (including your bank and AI banks). A conservative bank may set a lower Maximum Loans-to-Assets ratio on the bank HQ interface, provided that it does not exceed the one defined here. 
+This determines the #Absolute Maximum amount of loans# that a bank can lend out (including your bank and AI banks). A conservative bank may set a lower #Maximum Loans-to-Assets ratio# on the bank HQ interface, provided that it does not exceed the one defined here. 
 ~
 DEVCITY
 Developed City at the Beginning
@@ -308,15 +304,15 @@ This is for setting the cash levels of cities at the beginning of the game. If y
 ~
 BOND_PCB
 Percentage of Player Capital Funded by Bond
-If you are an experienced player looking for greater challenge, you may set a percentage of your corporation's initial capital to be funded by a bond issue, requiring you to pay bond interests and repay the bond principal upon its maturity. 
+If you are an experienced player looking for greater challenge, you may set a percentage of your corporation's #initial capital# to be #funded by a bond issue#, requiring you to pay bond interests and repay the bond principal upon its maturity. 
 ~
 BOND_CRE
 Bond Credit Standard
-With a loose credit assessment standard, all corporations will receive better credit ratings and benefit from lower bond interest expenses. 
+With a #loose credit assessment standard#, all corporations will receive #better credit ratings# and benefit from #lower bond interest expenses#. 
 ~
 BOND_LIM
 Bond Issue Limit
-The maximum amounts of bonds that a corporation can issue is limited to a multiple of its capitalization, which is set here. A higher value will allow a corporation to issue larger amounts of bonds.
+The #maximum amounts of bonds# that a corporation can issue is limited to a #multiple of its capitalization#, which is set here. A higher value will allow a corporation to issue larger amounts of bonds.
 ~
 BOND_ON
 Feature: Bond 
@@ -328,11 +324,11 @@ This setting determines whether banks can be set up in the game or not.
 ~
 INT_SPRE
 Initial Net Interest Spread 
-Net interest spread refers to the difference in the rate at which a bank takes deposits from customers and the rate at which it offers loans. A larger net interest spread means a greater profit margin for a bank. 
+Net interest spread refers to the difference in the #rate at which a bank takes deposits from customers# and the #rate at which it offers loans#. A larger net interest spread means a greater profit margin for a bank. 
 ~
 BCAPREQ
 Required Bank Capital Ratio
-The central bank requires banks to set aside enough capital to cover unexpected losses and keep themselves solvent in a crisis. A capital ratio is the ratio of a bank's equity capital to its total assets. 
+The central bank requires banks to set aside enough capital to cover unexpected losses and keep themselves solvent in a crisis. A #capital ratio# is the ratio of a bank's #equity capital# to its #total assets#. 
 ~
 INSUR_ON
 Feature: Insurance Business 
@@ -362,7 +358,55 @@ BANKDIFF
 Difficulty Level for Banking and Finance DLC 
 Use this to set the overall difficulty level for operating banks and insurance companies. 
 ~
-SMONEYS
-Strict Money Supply
-If this is enabled, money supply is strictly simulated. It will be more difficult for player and AI companies to raise funds from IPO, issuing new shares and bonds. 
+RMONEYS
+Realistic Money Supply
+If this is enabled, money supply is more realistically simulated. It will be more difficult for player and AI companies to raise funds from IPO, issuing new shares and bonds. 
+~
+PREPARE
+Prepare Unit
+If this is enabled and you are using a #MOD# with defined #service firms#, you will be able to set up #Prepare Units# in #service firms#. 
+~
+IMPORT
+Import Firm
+If this is enabled, you will be able to set up Import Firms for importing products and materials.
+~
+IMP_VAR
+Import Product Variety 
+This determines the variety of products available via imports in the beginning of the game. 
+~
+IMP_INC
+Import Increase
+If this is enabled, the variety of products available via imports will increase over time. 
+~
+IMP_CONS
+Constant Supply
+This determines whether product supplies via imports are constantly available. 
+~
+IMP_SEMI
+Semi Products
+If this is enabled, only #Semi Products# are available via imports. (Consumer products are not available via imports.) 
+~
+REALLOAN
+Realistic Loan Demand
+If this is enabled, the #demand for bank loans# is correlated to the total GDP of the cities. 
+~
+SELICON
+Corporate Logo Selection
+Click here to open the Corporate Logo selection window. 
+~
+SELPHOTO
+Portrait Selection
+Click here to open the Portrait selection window. 
+~
+WAREMULT
+Warehouse Floors
+Choose #Multiple# to allow for setting up multiple floors in a warehouse.
+~
+AITECHAD
+AI Tech Head Start
+If you want a more challenging game, you may give AI companies head starts in fields of technology that they specialize in, which means #higher starting tech levels#.
+~
+DISRUPTM
+Disruption to Traditional Media
+When this is enabled, the traditional media (TV, Radio and Newspaper) will be disrupted by the Internet. As people embrace the Internet, they will spend more time online and less time on the traditional media.
 ~
