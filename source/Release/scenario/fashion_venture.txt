@@ -26,10 +26,10 @@ City=Miami
 Number of Competitors=20
 Competitor Start-up Capital=Moderate  
 Competitor Aggressiveness=Moderate  
-Competitor Expertise Level=Moderate
+Competitor Expertise Level=Low
 Show Competitor Trade Secrets=Yes
 AI Friendly Merger=No
-Competence of Local Competitors=Moderate 
+Competence of Local Competitors=Low
 
 
 Retail Focused Companies=4
@@ -40,7 +40,7 @@ Media Focused Companies=2
 Diversified Companies=13
 
 AI Product Expertise=Apparel,1
-//of the 13 diversified companies, 2 of them have expertise in apparel 
+//of the 13 diversified companies, 1 of them have expertise in apparel 
 
 [IMPORTS]
 Consumer Goods Seaports=2

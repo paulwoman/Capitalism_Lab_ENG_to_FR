@@ -42,7 +42,7 @@ AI Product Expertise=Apparel, 3
 // AI Product Expertise=<Expertise Product Class>, <Number of AI competitors> 
 
 // Use this statement to assign a specified type of expertise to AI competitors. 
-// <Expertise Product Class> is the expertise product class. For example, Â¡Â°apparelÂ¡Â±
+// <Expertise Product Class> is the expertise product class. For example, ¡°apparel¡±
 // <Number of AI competitors> is the number of AI competitors possessing this type of expertise. 
 // Please note that this only applies to AI competitors with a diversified business strategy. (e.g. retail focused companies and companies with other focuses are not affected.)
 

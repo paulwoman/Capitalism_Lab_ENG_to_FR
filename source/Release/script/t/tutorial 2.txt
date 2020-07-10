@@ -73,7 +73,7 @@ Consumer Goods Seaports=3
 Industrial Goods Seaports=3
 // Industrial Goods Seaports per City=<0-4>
 
-// Please note that you may create a game up with no seaport using a game script. But the AI companiesÂ¡Â¯ performances will suffer and 
+// Please note that you may create a game up with no seaport using a game script. But the AI companies¡¯ performances will suffer and 
 // this should only be used if you intend to create a game scenario with such characteristics.
 
 Constant Import Supply=Yes
@@ -92,9 +92,9 @@ Information Center, Firms
 Information Center, Financials 
 Information Center, Persons
 Information Center, Billionaires 100
-Information Center, ManufacturerÂ¡Â¯s Guide
-Information Center, FarmerÂ¡Â¯s Guide
-Information Center, ManagerÂ¡Â¯s Guide
+Information Center, Manufacturer¡¯s Guide
+Information Center, Farmer¡¯s Guide
+Information Center, Manager¡¯s Guide
 Information Center, Cities
 Information Center, The Economy
 Information Center, Financial Actions 

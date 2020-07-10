@@ -37,12 +37,12 @@ Training Effect Modifier=<1 to 1000>
 //
 //Example:
 //Training Effect Modifier=200
-//With the same training expenditure, your staffÂ¡Â¯s experience level will increase two times as fast.
+//With the same training expenditure, your staff¡¯s experience level will increase two times as fast.
 
 Fixed Brand Strategy=<Corporate Brand/Range Brand/Unique Brand>
-//With this statement, the player corporationÂ¡Â¯s brand strategy is fixed to the specified strategy and cannot be changed. 
+//With this statement, the player corporation¡¯s brand strategy is fixed to the specified strategy and cannot be changed. 
 
 Corporate Brand Rating=<brand awareness rating>,<brand loyalty rating>
-//Initialize the playerÂ¡Â¯s corporate brand ratings to specific values in the beginning of the game. Please note that a randomness of -5 to +5 in values will be automatically applied.  And the player must be using corporate brand strategy in order to benefit from this.
+//Initialize the player¡¯s corporate brand ratings to specific values in the beginning of the game. Please note that a randomness of -5 to +5 in values will be automatically applied.  And the player must be using corporate brand strategy in order to benefit from this.
 
 
