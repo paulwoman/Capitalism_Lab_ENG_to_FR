@@ -622,6 +622,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// Examples of product classes: Apparel, Automobile, Beverage and etc.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T094317Z" creationid="Olivier" creationdate="20200710T094317Z">
+        <seg>// Examples de produit classes: Apparel, Automobile, Beverage and etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// First we have to define the number of cities in the game.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222735Z" creationid="Olivier" creationdate="20200430T222735Z">
@@ -706,6 +714,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222250Z" creationid="Olivier" creationdate="20200430T222250Z">
         <seg>// If you set it lower than this value, the game will automatically reset it to the minimum allowed value.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// If you want your player character to possess expertise in a specific product class, you may define it as follows.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T094307Z" creationid="Olivier" creationdate="20200710T094307Z">
+        <seg>// Si vous souhaitez que votre personnage de joueur possède des compétences dans une classe de produits spécifique, vous pouvez le définir comme suit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -826,6 +842,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151353Z" creationid="Inrepublica" creationdate="20200423T151353Z">
         <seg>// Please note that you may create a game up with no seaport using a game script.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// Product Expertise=&lt;Product Class&gt;, &lt;Expertise Rating, which ranges from 0 to 100&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T094315Z" creationid="Olivier" creationdate="20200710T094315Z">
+        <seg>// Produit Compétence=&lt;Classe de produits&gt;, &lt;Compétence Rating, which ranges from 0 to 100&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -978,6 +1002,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222931Z" creationid="Olivier" creationdate="20200430T222931Z">
         <seg>// Vous pouvez attribuer une séquence de carte spécifique à votre ville et la carte de la ville sera générée de manière identique à chaque fois qu'un nouveau jeu sera créé à l'aide du script.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// You may assign a value ranging from 0 to 100 to each type of player expertise.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T094220Z" creationid="Olivier" creationdate="20200710T094220Z">
+        <seg>// Vous pouvez attribuer une valeur allant de 0 à 100 à chaque type de compétence de joueur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9726,6 +9758,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=This is a sample script for Capitalism Lab, listing all variables under the [PLAYER EXPERTISE] section.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T094205Z" creationid="Olivier" creationdate="20200710T094205Z">
+        <seg>Description=Ceci est un exemple de script pour Capitalism Lab, listant toutes les variables sous la section [COMPÉTENCE DU JOUEUR].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=This is a sample script for Capitalism Lab, listing all variables under the [SPECIAL RULES] section.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T101828Z" creationid="Olivier" creationdate="20200428T101828Z">
@@ -11626,6 +11666,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170643Z" creationid="Olivier" creationdate="20200427T170643Z">
         <seg>Farming=100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Farming=30</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T094232Z" creationid="Olivier" creationdate="20200710T094222Z">
+        <seg>Farming=30</seg>
       </tuv>
     </tu>
     <tu>
@@ -21225,6 +21273,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Manufacturing=40</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T094236Z" creationid="Olivier" creationdate="20200710T094224Z">
+        <seg>Manufacturing=40</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Manufacturing|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155559Z" creationid="Inrepublica" creationdate="20200425T155559Z">
@@ -21261,6 +21317,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170653Z" creationid="Olivier" creationdate="20200427T170653Z">
         <seg>Marketing=100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Marketing=70</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T094245Z" creationid="Olivier" creationdate="20200710T094245Z">
+        <seg>Marketing=70</seg>
       </tuv>
     </tu>
     <tu>
@@ -26737,6 +26801,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Product Expertise=Apparel, 100</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T094311Z" creationid="Olivier" creationdate="20200710T094311Z">
+        <seg>Product Expertise=Apparel, 100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Product Expertise=Apparel, 80</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214239Z" creationid="Olivier" creationdate="20200429T214239Z">
@@ -27649,6 +27721,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Raw Material Production=60</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T094242Z" creationid="Olivier" creationdate="20200710T094242Z">
+        <seg>Raw Material Production=60</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Raw Material Quality</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T142103Z" creationid="Olivier" creationdate="20200508T142103Z">
@@ -28057,6 +28137,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Research and Development=50</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T094239Z" creationid="Olivier" creationdate="20200710T094239Z">
+        <seg>Research and Development=50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Research projects can take some time to complete, so it's a good idea to begin research as soon as possible.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T133215Z" creationid="Olivier" creationdate="20200426T133215Z">
@@ -28213,6 +28301,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170642Z" creationid="Olivier" creationdate="20200427T170642Z">
         <seg>Retailing=100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Retailing=20</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T094229Z" creationid="Olivier" creationdate="20200710T094221Z">
+        <seg>Retailing=20</seg>
       </tuv>
     </tu>
     <tu>
@@ -36470,6 +36566,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170655Z" creationid="Olivier" creationdate="20200427T170655Z">
         <seg>Training=100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Training=80</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T094247Z" creationid="Olivier" creationdate="20200710T094247Z">
+        <seg>Training=80</seg>
       </tuv>
     </tu>
     <tu>
