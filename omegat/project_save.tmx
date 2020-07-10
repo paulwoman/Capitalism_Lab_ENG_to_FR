@@ -1518,6 +1518,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>//of the 13 diversified companies, 1 of them have expertise in apparel</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T103602Z" creationid="Olivier" creationdate="20200710T103602Z">
+        <seg>//// des 13 entreprises diversifiées, 1 d'entre elles a une expertise dans le domaine de l'habillement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>//of the 13 diversified companies, 2 of them have expertise in apparel</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214237Z" creationid="Olivier" creationdate="20200429T214237Z">
@@ -8494,6 +8502,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Competitor Expertise Level=Low</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T103357Z" creationid="Olivier" creationdate="20200710T103357Z">
+        <seg>Competitor Expertise Level=Low</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Competitor Expertise Level=Moderate</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171340Z" creationid="Olivier" creationdate="20200427T171340Z">
@@ -9574,6 +9590,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Data\*.DBF</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T103802Z" creationid="Olivier" creationdate="20200710T103802Z">
+        <seg>Data\*.DBF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Deadline=1990-01-02</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170920Z" creationid="Olivier" creationdate="20200427T170920Z">
@@ -10106,6 +10130,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100217Z" creationid="Olivier" creationdate="20200430T100217Z">
         <seg>Description=Avec vos antécédents dans le monde des affaires, vous êtes sûr de pouvoir mener votre parti politique à la victoire aux élections municipales de Detroit et de Pittsburgh et de mettre en place les bonnes politiques pour stimuler leur économie, en créant de nouvelles opportunités d'affaires et d'emploi dont les villes ont tant besoin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=Years of research in training methodology by a consortium of leading business schools has finally produced astonishing results.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T103351Z" creationid="Olivier" creationdate="20200710T103351Z">
+        <seg>Description=Des années de recherche en méthodologie de formation par un consortium de grandes écoles de commerce ont finalement donné des résultats étonnants.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12586,6 +12618,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T172244Z" creationid="Olivier" creationdate="20200426T172244Z">
         <seg>Pour les produits à bas prix, comme le shampoing, une cargaison peut contenir jusqu'à plusieurs milliers d'unités du produit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For more details about how to customize a MOD, please see https://www.capitalismlab.com/mod/</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T103209Z" creationid="Olivier" creationdate="20200710T103209Z">
+        <seg>Pour plus de détails sur la manière de personnaliser un MOD, veuillez consulter le site https://www.capitalismlab.com/mod/</seg>
       </tuv>
     </tu>
     <tu>
@@ -18093,6 +18133,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T154437Z" creationid="Olivier" creationdate="20200425T154437Z">
         <seg>Si vous trouvez la liste des actions trop chargée, vous pouvez utiliser les filtres d'actions pour limiter le type d'action à afficher à l'écran.^^ Par exemple, vous pouvez choisir de ne visualiser que les actions technologiques que vous possédez actuellement en cliquant sur le bouton ~Tech~ puis sur le bouton ~Propriété~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you have any questions about modding, you may post your questions on the official Capitalism Lab forum at http://www.capitalism2.com/forum/</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T103221Z" creationid="Olivier" creationdate="20200710T103221Z">
+        <seg>Si vous avez des questions sur le modding, vous pouvez poster vos questions sur le forum officiel du Capitalism Lab à l'adresse http://www.capitalism2.com/forum/</seg>
       </tuv>
     </tu>
     <tu>
@@ -36454,6 +36502,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T134609Z" creationid="Olivier" creationdate="20200423T134609Z">
         <seg>Pour mieux comprendre cela, nous allons simplement ajouter un produit au magasin en utilisant l'ancienne méthode que vous connaissez. Cliquez maintenant sur l'icône ~Ajouter un produit~ et choisissez un produit dans la liste d'approvisionnement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To use the MOD Kit, please unzip the file MOD_kit.ZIP to the current folder \MOD_KIT.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T103156Z" creationid="Olivier" creationdate="20200710T103156Z">
+        <seg>Pour utiliser le kit de  MOD, veuillez décompresser le fichier MOD_kit.ZIP dans le dossier courant \MOD_KIT.</seg>
       </tuv>
     </tu>
     <tu>
