@@ -1,7 +1,0 @@
-[Private Labelling Unit]
-~Nom du produit~
-Le type de produit qui est transformé.^
-~Stock de produits~
-Cette zone indique le stock du produit dans l'unité. Chaque boîte représente une cargaison du produit. Chaque cargaison peut contenir un certain nombre d'unités du produit.^^Le nombre d'unités qu'une cargaison peut contenir varie d'un produit à l'autre. Pour certains produits coûteux, tels que les voitures, une cargaison ne peut contenir que quelques unités du produit. Pour les produits à bas prix, comme le shampoing, une cargaison peut contenir jusqu'à plusieurs milliers d'unités du produit. La valeur totale de toutes les cargaisons de tous les types de produits est donc à peu près la même.^
-~Barre d'utilisation~
-Cette barre marron montre l'utilisation de l'unité. Si cette barre atteint sa pleine longueur, l'unité a atteint sa pleine capacité.

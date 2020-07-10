@@ -1,8 +1,0 @@
-[HEADER]
-Title=Sauvegarde automatique toutes les 15 minutes en temps réel
-Description=Ce script modifie le paramètre d'enregistrement automatique pour effectuer un enregistrement automatique toutes les 15 minutes en temps réel
-
-//------------------------------------------------------------------------------------------------//
-
-[SPECIAL RULES]
-Auto Save Interval Minutes=15
