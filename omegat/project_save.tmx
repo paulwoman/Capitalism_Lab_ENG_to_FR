@@ -2302,6 +2302,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A high utilization rate means that the unit is operating efficiently.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200714T083556Z" creationid="Olivier" creationdate="20200714T083556Z">
+        <seg>Un taux d'utilisation élevé signifie que l'unité fonctionne efficacement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A high utilization rate means that your factory is operating efficiently.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T101027Z" creationid="Olivier" creationdate="20200507T101027Z">
@@ -2442,6 +2450,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091139Z" creationid="Olivier" creationdate="20200508T091139Z">
         <seg>Un long temps d'attente des clients affecte négativement la qualité de service de ce front office de l'assurance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A low rate means that the unit has idle time and its capacity is underutilized.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200714T083607Z" creationid="Olivier" creationdate="20200714T083607Z">
+        <seg>Un taux faible signifie que l'unité a des temps morts et que sa capacité est sous-utilisée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2618,6 +2634,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T090358Z" creationid="Olivier" creationdate="20200506T090358Z">
         <seg>La présence de cases à cocher indique qu'il existe des images personnalisées définies pour le type de produit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A unit with a higher experience level has #larger capacity# and #higher productivity#.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200714T083524Z" creationid="Olivier" creationdate="20200714T083524Z">
+        <seg>Une unité avec un niveau d'expérience plus élevé a une #capacité plus importante# et une #productivité plus élevée#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A unit's level can be increased through #training#.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200714T083537Z" creationid="Olivier" creationdate="20200714T083537Z">
+        <seg>Le niveau d'une unité peut être augmenté grâce à la #formation#.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7258,6 +7290,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200607T172634Z" creationid="Olivier" creationdate="20200607T172634Z">
         <seg>Cap.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Capacity Utilization Rate</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200714T083547Z" creationid="Olivier" creationdate="20200714T083547Z">
+        <seg>Taux d'utilisation des capacités</seg>
       </tuv>
     </tu>
     <tu>
@@ -33705,6 +33745,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Loans-to-Assets ratio is calculated by dividing the bank's total amount of loans by its total amount of assets.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200714T083633Z" creationid="Olivier" creationdate="20200714T083633Z">
+        <seg>Le ratio prêts/actifs est calculé en divisant le montant total des prêts de la banque par son montant total d'actifs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Loans-to-Assets ratio is calculated by dividing the bank's total assets by its customer deposits.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T085529Z" creationid="Olivier" creationdate="20200508T085529Z">
@@ -33981,6 +34029,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T103026Z" creationid="Olivier" creationdate="20200507T103026Z">
         <seg>La qualité de service moyenne de toutes les agences de la banque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The average service quality of all the insurance company's insurance front offices.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200714T083621Z" creationid="Olivier" creationdate="20200714T083621Z">
+        <seg>La moyenne de la qualité de service de tous les guichets des compagnies d'assurance.</seg>
       </tuv>
     </tu>
     <tu>
