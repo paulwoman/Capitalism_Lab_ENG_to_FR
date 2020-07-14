@@ -924,12 +924,11 @@ It shows the percentage of the product demand at this purchasing unit is met by 
 ~
 U_LEVEL
 Experience Level of the Unit 
-The overall productivity and capacity of most units increase when their unit
-levels increase. Training will increase them increase their levels faster.   
+A unit with a higher experience level has #larger capacity# and #higher productivity#. A unit's level can be increased through #training#.
 ~
 U_UTIL
-Capacity Utilization Rate of the Unit 
-A high utilization rate means that your unit is operating efficiently. A low rate means that your unit has idle time and its capacity is not well utilized. 
+Capacity Utilization Rate
+A high utilization rate means that the unit is operating efficiently. A low rate means that the unit has idle time and its capacity is underutilized. 
 ~
 U_STOCK
 Stock at the Unit 
@@ -2623,7 +2622,7 @@ The average customer waiting time of all the insurance company's insurance front
 ~
 INHQSERV
 Quality of Service
-The average service qualty of all the insurance company's insurance front offices. It is determined by the #staff skill level# and the #customer waiting time#.
+The average service quality of all the insurance company's insurance front offices. It is determined by the #staff skill level# and the #customer waiting time#.
 ~
 INBRAND
 Insurance Brand Rating 
@@ -2955,7 +2954,7 @@ This Internet company does not have the required technology to start operation y
 ~
 CLOANDEP
 Current Loans-to-Assets Ratio
-The Loans-to-Assets ratio is calculated by dividing the bank's total assets by its customer deposits. When it is higher than the Maximum Loans-to-Assets Ratio, the bank will stop giving out new loans. 
+The Loans-to-Assets ratio is calculated by dividing the bank's total amount of loans by its total amount of assets. When it is higher than the Maximum Loans-to-Assets Ratio, the bank will stop giving out new loans. 
 ~
 BUSIACTI
 Business Activity Index
