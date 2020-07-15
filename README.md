@@ -22,10 +22,10 @@ Faites particulièrement attention au paramètre "segmenter le texte source en p
 
 Pour le reste, allez voir le poste francophone http://www.capitalism2.com/forum/viewtopic.php?f=22&t=7594 qui est fréquemment à jour pour connaitre l'évolution actuelle. 
 
-
+A noter qu'on utilise un google sheet avec l'aide du logiciel ici présent. http://www.capitalism2.com/forum/viewtopic.php?f=22&t=7544
 
 # Outils
-Dans le répertoire outils se trouve un petit fichier batch `copy_translation.bat` qui vous permet de copier directement la traduction en cours dans le répertoire du jeu Capitalism Lab V. 6.3.08.
+Dans le répertoire outils se trouve un petit fichier batch `copy_translation.bat` qui vous permet de copier directement la traduction en cours dans le répertoire du jeu Capitalism Lab
 
 Si vous éditez la traduction depuis l'utilisateur qui a installé Capitalism Lab et que votre traduction se trouve dans le dossier "document", et `Capitalism_Lab_ENG_to_FR` comme sous-dossier, vous avez juste a executer le batch.
 
