@@ -58947,8 +58947,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2966]&lt;BDR1&gt;INSUFFICIENT CASH FOR BOND REDEMPTION|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T142300Z" creationid="Olivier" creationdate="20200512T142300Z">
-        <seg>[2966]&lt;BDR1&gt;INSUFFISANCE DE LIQUIDITÉS POUR LE REMBOURSEMENT DES OBLIGATIONS|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200717T203658Z" creationid="Olivier" creationdate="20200512T142300Z">
+        <seg>[2966]&lt;BDR1&gt;LIQUIDITÉS INSUFFISANT POUR PAYER DES OBLIGAT°|</seg>
       </tuv>
     </tu>
     <tu>
@@ -59027,8 +59027,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2976]&lt;LNR1&gt;INSUFFICIENT CASH FOR LOAN REPAYMENT|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T235756Z" creationid="Olivier" creationdate="20200512T142615Z">
-        <seg>[2976]&lt;LNR1&gt;INSUFFISANCE DE LIQUIDITÉS POUR LE REMBOURSEMENT DU PRÊT|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200717T203640Z" creationid="Olivier" creationdate="20200512T142615Z">
+        <seg>[2976]&lt;LNR1&gt;LIQUIDITÉS INSUFFISANT POUR PAYER LE PRÊT|</seg>
       </tuv>
     </tu>
     <tu>
@@ -60675,8 +60675,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[3171]&lt;CE02&gt;The CEO previously considered setting up|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T220356Z" creationid="Olivier" creationdate="20200512T220356Z">
-        <seg>[3171]&lt;CE02&gt;&gt;Le PDG avait déjà envisagé de créer|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200717T203458Z" creationid="Olivier" creationdate="20200512T220356Z">
+        <seg>[3171]&lt;CE02&gt;Le PDG avait déjà envisagé de créer|</seg>
       </tuv>
     </tu>
     <tu>
@@ -60851,8 +60851,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[3193]&lt;ISBN&gt;%1s issues new bonds, raising %2s.|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200606T150043Z" creationid="Olivier" creationdate="20200606T150043Z">
-        <seg>[3193]&lt;ISBN&gt;%1s émet de nouvelles obligations, ce qui permet de lever %2s.|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200717T215418Z" creationid="Olivier" creationdate="20200606T150043Z">
+        <seg>[3193]&lt;ISBN&gt;%1s émet de nouvelles actions ce qui permet de lever %2s.|</seg>
       </tuv>
     </tu>
     <tu>
