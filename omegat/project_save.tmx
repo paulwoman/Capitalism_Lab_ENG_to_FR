@@ -59195,8 +59195,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2997]&lt;SEBR&gt;Salaries Expense (Branches)|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T143148Z" creationid="Olivier" creationdate="20200512T143148Z">
-        <seg>[2997]&lt;SEBR&gt;Dépenses salariales (Filiales)|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200720T202024Z" creationid="Olivier" creationdate="20200512T143148Z">
+        <seg>[2997]&lt;SEBR&gt;Dépenses salariales (Agences)|</seg>
       </tuv>
     </tu>
     <tu>
@@ -59211,8 +59211,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2999]&lt;OOBR&gt;Operating Overhead (Branches)|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T143232Z" creationid="Olivier" creationdate="20200512T143232Z">
-        <seg>[2999]&lt;OOBR&gt;Frais généraux d'exploitation (Filiales)|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200720T202103Z" creationid="Olivier" creationdate="20200512T143232Z">
+        <seg>[2999]&lt;OOBR&gt;Frais généraux d'exploitat° (Agences)|</seg>
       </tuv>
     </tu>
     <tu>
@@ -59883,16 +59883,16 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[3079]&lt;SABD&gt;Sale of Bonds|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151520Z" creationid="Olivier" creationdate="20200512T151520Z">
-        <seg>[3079]&lt;SABD&gt;Vente d'obligations|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200720T202114Z" creationid="Olivier" creationdate="20200512T151520Z">
+        <seg>[3079]&lt;SABD&gt;Vente|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[3080]&lt;BDRD&gt;Bond Redemption|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151530Z" creationid="Olivier" creationdate="20200512T151530Z">
-        <seg>[3080]&lt;BDRD&gt;Remboursement d'obligations|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200720T202155Z" creationid="Olivier" creationdate="20200512T151530Z">
+        <seg>[3080]&lt;BDRD&gt;Remboursement d'obligati°|</seg>
       </tuv>
     </tu>
     <tu>
@@ -62569,17 +62569,6 @@ At the initial setting, a bank lends money evenly to borrowers of different cred
     </tu>
 <!-- Alternative translations -->
     <tu>
-      <prop type="file">t_game.txt</prop>
-      <prop type="prev">[1651]&lt;0655&gt;Month|</prop>
-      <prop type="next">[1653]&lt;0657&gt; year|</prop>
-      <tuv lang="en-US">
-        <seg>[1652]&lt;0656&gt;Mansion|</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T171141Z" creationid="Inrepublica" creationdate="20200423T171004Z">
-        <seg>[1652]&lt;0656&gt;Manoir|</seg>
-      </tuv>
-    </tu>
-    <tu>
       <prop type="file">scenario/Dilemma_of_a_Camera_Manufacturer.txt</prop>
       <prop type="prev">Description=With over twenty of years of experience in producing world-class photography equipment under your belt, you have earned the trust of a group of investors for funding your startup.</prop>
       <prop type="next">Difficulty Rating=120</prop>
@@ -62588,6 +62577,17 @@ At the initial setting, a bank lends money evenly to borrowers of different cred
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T171302Z" creationid="Olivier" creationdate="20200429T171302Z">
         <seg>^^Tandis que les appareils photo argentiques traditionnels dominent encore le marché pour le moment, le développement de la technologie de la photographie numérique a pris de l'ampleur.^^Vous y voyez une grande opportunité, mais il faut investir à long terme dans la recherche et le développement avant de pouvoir réaliser des produits commerciaux.^^Devriez-vous y consacrer vos ressources dès le départ ou commencer par les appareils photo argentiques traditionnels et passer ensuite aux appareils numériques pour une conduite plus souple ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">t_game.txt</prop>
+      <prop type="prev">[1651]&lt;0655&gt;Month|</prop>
+      <prop type="next">[1653]&lt;0657&gt; year|</prop>
+      <tuv lang="en-US">
+        <seg>[1652]&lt;0656&gt;Mansion|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T171141Z" creationid="Inrepublica" creationdate="20200423T171004Z">
+        <seg>[1652]&lt;0656&gt;Manoir|</seg>
       </tuv>
     </tu>
   </body>
