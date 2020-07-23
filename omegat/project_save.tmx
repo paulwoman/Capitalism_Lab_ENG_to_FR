@@ -16177,6 +16177,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Headquarters (hotkey: 'H')</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200723T095213Z" creationid="Olivier" creationdate="20200723T095213Z">
+        <seg>Quartier Général (raccourci : 'H')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Health</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T141440Z" creationid="Olivier" creationdate="20200504T141440Z">
@@ -22249,6 +22257,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MMENUHQ</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200723T095151Z" creationid="Olivier" creationdate="20200723T095151Z">
+        <seg>MMENUHQ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MMENUHQ (hotkey: 'H')</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144144Z" creationid="Olivier" creationdate="20200428T144144Z">
@@ -25059,8 +25075,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Open the Stock Market screen</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144341Z" creationid="Olivier" creationdate="20200428T144341Z">
-        <seg>Ouvre l'écran Bourse</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200723T095239Z" creationid="Olivier" creationdate="20200428T144341Z">
+        <seg>Ouvre la fenêtre de la Bourse</seg>
       </tuv>
     </tu>
     <tu>
@@ -32029,6 +32045,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150754Z" creationid="Inrepublica" creationdate="20200422T150754Z">
         <seg>Marché boursier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stock Market (hotkey: F4)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200723T095227Z" creationid="Olivier" creationdate="20200723T095227Z">
+        <seg>Bourse (raccourci : F4)</seg>
       </tuv>
     </tu>
     <tu>
