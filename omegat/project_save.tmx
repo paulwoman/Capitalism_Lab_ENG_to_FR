@@ -47651,8 +47651,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1033]&lt;0190&gt;Annual Revenue|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200518T220642Z" creationid="Inrepublica" creationdate="20200504T102547Z">
-        <seg>[1033]&lt;0190&gt;Recettes anl|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200728T210322Z" creationid="Inrepublica" creationdate="20200504T102547Z">
+        <seg>[1033]&lt;0190&gt;Recettes annuelles|</seg>
       </tuv>
     </tu>
     <tu>
@@ -47963,8 +47963,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1077]&lt;0233&gt;No.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T232122Z" creationid="Inrepublica" creationdate="20200423T054147Z">
-        <seg>[1077]&lt;0233&gt;Nbre.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200728T210355Z" creationid="Inrepublica" creationdate="20200423T054147Z">
+        <seg>[1077]&lt;0233&gt;Nombre</seg>
       </tuv>
     </tu>
     <tu>
@@ -47979,32 +47979,32 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[1079]&lt;0235&gt;Return on Equity|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T232142Z" creationid="Olivier" creationdate="20200508T152305Z">
-        <seg>[1079]&lt;0235&gt;Rendement sur les capitaux propres</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200728T210419Z" creationid="Olivier" creationdate="20200508T152305Z">
+        <seg>[1079]&lt;0235&gt;Rendement du capital</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1080]&lt;0236&gt;Return on Total Assets|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T152337Z" creationid="Olivier" creationdate="20200508T152337Z">
-        <seg>[1080]&lt;0236&gt;Rendement de l'ensemble des actifs|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200728T210424Z" creationid="Olivier" creationdate="20200508T152337Z">
+        <seg>[1080]&lt;0236&gt;Rendement des actifs|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1081]&lt;0237&gt;Dividend Yield|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200518T215843Z" creationid="Olivier" creationdate="20200508T152356Z">
-        <seg>[1081]&lt;0237&gt;Rendement des div.|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200728T210431Z" creationid="Olivier" creationdate="20200508T152356Z">
+        <seg>[1081]&lt;0237&gt;Rendement des dividendes|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1082]&lt;0238&gt;Stock Return to Investors|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T152425Z" creationid="Olivier" creationdate="20200508T152425Z">
-        <seg>[1082]&lt;0238&gt;Rendement des actions pour les investisseurs|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200728T210440Z" creationid="Olivier" creationdate="20200508T152425Z">
+        <seg>[1082]&lt;0238&gt;Rendement des act° des inv.rs|</seg>
       </tuv>
     </tu>
     <tu>
@@ -56643,16 +56643,16 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[2673]&lt;1553&gt;Spending on Public Relations|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T171902Z" creationid="Olivier" creationdate="20200511T171801Z">
-        <seg>[2673]&lt;1553&gt;Dépenses pour les relations publiques|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200728T210520Z" creationid="Olivier" creationdate="20200511T171801Z">
+        <seg>[2673]&lt;1553&gt;Dép. des relat° publ.|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2674]&lt;1554&gt;Spending on Investor Relations|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T171857Z" creationid="Olivier" creationdate="20200511T171818Z">
-        <seg>[2674]&lt;1554&gt;Dépenses pour les relations avec les investisseurs|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200728T210547Z" creationid="Olivier" creationdate="20200511T171818Z">
+        <seg>[2674]&lt;1554&gt;Dép. des relat° avec les invest.|</seg>
       </tuv>
     </tu>
     <tu>
