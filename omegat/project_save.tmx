@@ -2806,10 +2806,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>AI Expansion Aggressiveness=Moderate</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T095445Z" creationid="Olivier" creationdate="20200802T095445Z">
+        <seg>AI Expansion Aggressiveness=Moderate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>AI Expertise Level</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T155102Z" creationid="Inrepublica" creationdate="20200422T155102Z">
         <seg>Niveau d'expertise des IA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AI Expertise Level=Moderate</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T095447Z" creationid="Olivier" creationdate="20200802T095447Z">
+        <seg>AI Expertise Level=Moderate</seg>
       </tuv>
     </tu>
     <tu>
@@ -2886,6 +2902,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>AI Pricing Aggressiveness=Moderate</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T095446Z" creationid="Olivier" creationdate="20200802T095446Z">
+        <seg>AI Pricing Aggressiveness=Moderate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>AI Pricing Aggressiveness|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T104654Z" creationid="Olivier" creationdate="20200710T104654Z">
@@ -2946,6 +2970,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200606T143500Z" creationid="Olivier" creationdate="20200606T143500Z">
         <seg>L'IA en tête de la technologie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AI Tech Head Start=None</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T095447Z" creationid="Olivier" creationdate="20200802T095447Z">
+        <seg>AI Tech Head Start=None</seg>
       </tuv>
     </tu>
     <tu>
@@ -5786,6 +5818,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200523T230435Z" creationid="Inrepublica" creationdate="20200422T203645Z">
         <seg>Volatilité du cycle expansion-récession </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Boom-Bust Cycle Volatility=Moderate</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T095440Z" creationid="Olivier" creationdate="20200802T095440Z">
+        <seg>Boom-Bust Cycle Volatility=Moderate</seg>
       </tuv>
     </tu>
     <tu>
@@ -15485,6 +15525,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T105407Z" creationid="Olivier" creationdate="20200430T105013Z">
         <seg>Goal Title=Développer les villes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Growing the Talent Base</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T095517Z" creationid="Olivier" creationdate="20200802T095517Z">
+        <seg>Goal Title=Renforcer la base de talents</seg>
       </tuv>
     </tu>
     <tu>
@@ -62013,8 +62061,8 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
       <tuv lang="en-US">
         <seg>^^While traditional film cameras still dominate the market at the moment, development in digital photography technology has been gaining momentum.^^You see a great opportunity here but it requires committing a long term investment in research and development before any commercial products will materialize.^^Should you dedicate your resources to it at the outset or start with traditional film cameras and transit to digital cameras later for a hopefully smoother ride?</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T171116Z" creationid="Olivier" creationdate="20200429T170623Z">
-        <seg>Alors que les appareils photo traditionnels dominent encore le marché pour le moment, le développement de la technologie de la photographie numérique a pris de l'ampleur. Vous y voyez une grande opportunité, mais il faut investir à long terme dans la recherche et le développement avant de pouvoir réaliser des produits commerciaux. Devriez-vous y consacrer vos ressources dès le départ ou commencer par les appareils photo argentiques traditionnels ?</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T095436Z" creationid="Olivier" creationdate="20200429T170623Z">
+        <seg>^^Alors que les appareils photo traditionnels dominent encore le marché pour le moment, le développement de la technologie de la photographie numérique a pris de l'ampleur.^^Vous y voyez une grande opportunité, mais il faut investir à long terme dans la recherche et le développement avant de pouvoir réaliser des produits commerciaux.^^Devriez-vous y consacrer vos ressources dès le départ ou commencer par les appareils photo argentiques traditionnels ?</seg>
       </tuv>
     </tu>
     <tu>
