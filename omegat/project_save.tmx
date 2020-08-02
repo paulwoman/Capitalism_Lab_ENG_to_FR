@@ -2806,6 +2806,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>AI Expansion Aggressiveness=High</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T095537Z" creationid="Olivier" creationdate="20200802T095537Z">
+        <seg>AI Expansion Aggressiveness=High</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AI Expansion Aggressiveness=Low</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T095545Z" creationid="Olivier" creationdate="20200802T095545Z">
+        <seg>AI Expansion Aggressiveness=Low</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>AI Expansion Aggressiveness=Moderate</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T095445Z" creationid="Olivier" creationdate="20200802T095445Z">
@@ -2818,6 +2834,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T155102Z" creationid="Inrepublica" creationdate="20200422T155102Z">
         <seg>Niveau d'expertise des IA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AI Expertise Level=High</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T095539Z" creationid="Olivier" creationdate="20200802T095539Z">
+        <seg>AI Expertise Level=High</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AI Expertise Level=Low</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T095547Z" creationid="Olivier" creationdate="20200802T095547Z">
+        <seg>AI Expertise Level=Low</seg>
       </tuv>
     </tu>
     <tu>
@@ -2898,6 +2930,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203355Z" creationid="Inrepublica" creationdate="20200422T203355Z">
         <seg>Agressivité des prix de l'IA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AI Pricing Aggressiveness=High</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T095542Z" creationid="Olivier" creationdate="20200802T095542Z">
+        <seg>AI Pricing Aggressiveness=High</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AI Pricing Aggressiveness=Low</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T095546Z" creationid="Olivier" creationdate="20200802T095546Z">
+        <seg>AI Pricing Aggressiveness=Low</seg>
       </tuv>
     </tu>
     <tu>
@@ -9446,6 +9494,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Competitor Start-up Capital=Very High</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T095550Z" creationid="Olivier" creationdate="20200802T095550Z">
+        <seg>Competitor Start-up Capital=Very High</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Competitor Start-up Capital=Very Low</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T144844Z" creationid="Olivier" creationdate="20200512T144844Z">
@@ -11298,6 +11354,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220341Z" creationid="Olivier" creationdate="20200429T220341Z">
         <seg>Difficulty Rating=130</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Difficulty Rating=140</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T095556Z" creationid="Olivier" creationdate="20200802T095556Z">
+        <seg>Difficulty Rating=140</seg>
       </tuv>
     </tu>
     <tu>
@@ -14817,6 +14881,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=In this scenario, you must set your companies on a sustainable growth trajectory with an eventual goal of having at least one of your subsidiary companies going IPO with a market cap exceeding $1 billion.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T100108Z" creationid="Olivier" creationdate="20200802T100108Z">
+        <seg>Goal Description=Dans ce scénario, vous devez placer vos entreprises sur une trajectoire de croissance durable avec pour objectif final d'introduire en bourse au moins une de vos filiales avec une capitalisation boursière supérieure à un milliard de dollars.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=In today’s rapidly changing markets, corporate agility is key to success.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T172304Z" creationid="Olivier" creationdate="20200430T172304Z">
@@ -15117,6 +15189,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T221356Z" creationid="Olivier" creationdate="20200429T221356Z">
         <seg>Goal Description=Vous êtes le PDG d'une société qui a récemment levé des centaines de millions de fonds auprès d'investisseurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=You are utterly determined to be number one in a few strategically targeted industries.\n\nYou win this scenario game when each of your three subsidiary companies have successfully achieved market dominance in at least one industry, with stellar performances.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T095647Z" creationid="Olivier" creationdate="20200802T095647Z">
+        <seg>Goal Description=Vous êtes fermement décidé à être le numéro un dans quelques industries stratégiquement ciblées. Vous gagnez ce scénario lorsque chacune de vos trois filiales a réussi à dominer le marché dans au moins une industrie, avec des performances exceptionnelles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24201,6 +24281,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Number of Competitors=40</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T095550Z" creationid="Olivier" creationdate="20200802T095550Z">
+        <seg>Number of Competitors=40</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number of Competitors=60</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T103521Z" creationid="Olivier" creationdate="20200428T103521Z">
@@ -30733,6 +30821,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151500Z" creationid="Inrepublica" creationdate="20200423T151500Z">
         <seg>Score change=50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Score change=500</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T095553Z" creationid="Olivier" creationdate="20200802T095553Z">
+        <seg>Score change=500</seg>
       </tuv>
     </tu>
     <tu>
@@ -40846,6 +40942,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214443Z" creationid="Olivier" creationdate="20200429T214443Z">
         <seg>Vous avez fait de votre entreprise une force avec laquelle il faut compter !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have dominated the upstream mining and farming sectors!</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T095739Z" creationid="Olivier" creationdate="20200802T095739Z">
+        <seg>Vous avez dominé les secteurs miniers et agricoles en amont !</seg>
       </tuv>
     </tu>
     <tu>
