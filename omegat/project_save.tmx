@@ -15073,6 +15073,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=This goal is achieved when your company's rapid profit growth drives its stock price to soar pass $1000 within 20 years.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T100148Z" creationid="Olivier" creationdate="20200802T100148Z">
+        <seg>Goal Description=Cet objectif est atteint lorsque la croissance rapide des bénéfices de votre entreprise pousse le cours de ses actions à dépasser les 1 000 dollars en 20 ans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=This is your final goal.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T222643Z" creationid="Olivier" creationdate="20200429T222643Z">
@@ -15209,6 +15217,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=You have devised a solid strategy to supercharge your company's return on investment (ROI), involving the uses of subsidiaries to maximize growth and profitability in the targeted markets.^^You must execute this strategy expertly and deliver the results that you have promised your investors.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T100335Z" creationid="Olivier" creationdate="20200802T100335Z">
+        <seg>Goal Description=Vous avez conçu une stratégie solide pour augmenter le retour sur investissement (RSI) de votre entreprise, impliquant l'utilisation de filiales pour maximiser la croissance et la rentabilité sur les marchés ciblés.^^ Vous devez exécuter cette stratégie de manière experte et fournir les résultats que vous avez promis à vos investisseurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=You intend to grow your company by diversifying your product portfolio.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T215343Z" creationid="Olivier" creationdate="20200429T215343Z">
@@ -15261,6 +15277,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T211507Z" creationid="Olivier" creationdate="20200430T211507Z">
         <seg>Goal Description=Vous gagnez ce sous-objectif lorsque la valeur nette de chacune de vos filiales a atteint un milliard de dollars.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=You win this subgoal when your personal wealth reaches $500 million.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T100343Z" creationid="Olivier" creationdate="20200802T100343Z">
+        <seg>Goal Description=You win this subgoal when your personal wealth reaches $500 million.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15817,6 +15841,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Title=Soaring Stock Price</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T100127Z" creationid="Olivier" creationdate="20200802T100127Z">
+        <seg>Goal Title=La flambée des prix des actions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Title=Software Giant</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200606T142142Z" creationid="Olivier" creationdate="20200606T142130Z">
@@ -15857,10 +15889,18 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Title=Supercharging ROI</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T100305Z" creationid="Olivier" creationdate="20200802T100305Z">
+        <seg>Goal Title=Stimuler le RSI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Title=Surging Personal Wealth</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T221218Z" creationid="Olivier" creationdate="20200430T221218Z">
-        <seg>Goal Title=L'augmentation de la richesse personnelle</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T100459Z" creationid="Olivier" creationdate="20200430T221218Z">
+        <seg>Goal Title=Augmentation de la richesse personnelle</seg>
       </tuv>
     </tu>
     <tu>
@@ -35525,6 +35565,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150823Z" creationid="Inrepublica" creationdate="20200422T150823Z">
         <seg>Le marché boursier permet la négociation d'actions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The stock price of your company has surpassed the $1000 mark!</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T100158Z" creationid="Olivier" creationdate="20200802T100158Z">
+        <seg>Le cours de l'action de votre entreprise a dépassé la barre des 1 000 dollars !</seg>
       </tuv>
     </tu>
     <tu>
