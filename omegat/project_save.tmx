@@ -2806,10 +2806,58 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>AI Expansion Aggressiveness=High</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T095537Z" creationid="Olivier" creationdate="20200802T095537Z">
+        <seg>AI Expansion Aggressiveness=High</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AI Expansion Aggressiveness=Low</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T095545Z" creationid="Olivier" creationdate="20200802T095545Z">
+        <seg>AI Expansion Aggressiveness=Low</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AI Expansion Aggressiveness=Moderate</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T095445Z" creationid="Olivier" creationdate="20200802T095445Z">
+        <seg>AI Expansion Aggressiveness=Moderate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>AI Expertise Level</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T155102Z" creationid="Inrepublica" creationdate="20200422T155102Z">
         <seg>Niveau d'expertise des IA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AI Expertise Level=High</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T095539Z" creationid="Olivier" creationdate="20200802T095539Z">
+        <seg>AI Expertise Level=High</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AI Expertise Level=Low</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T095547Z" creationid="Olivier" creationdate="20200802T095547Z">
+        <seg>AI Expertise Level=Low</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AI Expertise Level=Moderate</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T095447Z" creationid="Olivier" creationdate="20200802T095447Z">
+        <seg>AI Expertise Level=Moderate</seg>
       </tuv>
     </tu>
     <tu>
@@ -2886,6 +2934,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>AI Pricing Aggressiveness=High</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T095542Z" creationid="Olivier" creationdate="20200802T095542Z">
+        <seg>AI Pricing Aggressiveness=High</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AI Pricing Aggressiveness=Low</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T095546Z" creationid="Olivier" creationdate="20200802T095546Z">
+        <seg>AI Pricing Aggressiveness=Low</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AI Pricing Aggressiveness=Moderate</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T095446Z" creationid="Olivier" creationdate="20200802T095446Z">
+        <seg>AI Pricing Aggressiveness=Moderate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>AI Pricing Aggressiveness|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T104654Z" creationid="Olivier" creationdate="20200710T104654Z">
@@ -2946,6 +3018,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200606T143500Z" creationid="Olivier" creationdate="20200606T143500Z">
         <seg>L'IA en tête de la technologie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AI Tech Head Start=None</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T095447Z" creationid="Olivier" creationdate="20200802T095447Z">
+        <seg>AI Tech Head Start=None</seg>
       </tuv>
     </tu>
     <tu>
@@ -5786,6 +5866,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200523T230435Z" creationid="Inrepublica" creationdate="20200422T203645Z">
         <seg>Volatilité du cycle expansion-récession </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Boom-Bust Cycle Volatility=Moderate</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T095440Z" creationid="Olivier" creationdate="20200802T095440Z">
+        <seg>Boom-Bust Cycle Volatility=Moderate</seg>
       </tuv>
     </tu>
     <tu>
@@ -9406,6 +9494,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Competitor Start-up Capital=Very High</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T095550Z" creationid="Olivier" creationdate="20200802T095550Z">
+        <seg>Competitor Start-up Capital=Very High</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Competitor Start-up Capital=Very Low</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T144844Z" creationid="Olivier" creationdate="20200512T144844Z">
@@ -10920,8 +11016,8 @@
       <tuv lang="en-US">
         <seg>Description=This scenario game represents the ultimate test of your business and financial savviness in launching subsidiary companies, raising capital, structuring deals and pulling off IPOs.\n\nThe goals in this scenario can only be achieved by formulating your business strategies expertly and executing them flawlessly.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T221438Z" creationid="Olivier" creationdate="20200430T221438Z">
-        <seg>Description=Ce jeu de scénario représente le test ultime de votre savoir-faire commercial et financier en matière de lancement de filiales, de levée de capitaux, de structuration d'opérations et d'IPO.\n\n Les objectifs de ce scénario ne peuvent être atteints qu'en formulant vos stratégies commerciales de manière experte et en les exécutant sans faille.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T100553Z" creationid="Olivier" creationdate="20200430T221438Z">
+        <seg>Description=Ce scénario représente le test ultime de votre savoir-faire commercial et financier en matière de lancement de filiales, de levée de capitaux, de structuration d'opérations et d'IPO.\n\n Les objectifs de ce scénario ne peuvent être atteints qu'en formulant vos stratégies commerciales de manière experte et en les exécutant sans faille.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11258,6 +11354,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220341Z" creationid="Olivier" creationdate="20200429T220341Z">
         <seg>Difficulty Rating=130</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Difficulty Rating=140</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T095556Z" creationid="Olivier" creationdate="20200802T095556Z">
+        <seg>Difficulty Rating=140</seg>
       </tuv>
     </tu>
     <tu>
@@ -14777,6 +14881,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=In this scenario, you must set your companies on a sustainable growth trajectory with an eventual goal of having at least one of your subsidiary companies going IPO with a market cap exceeding $1 billion.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T100108Z" creationid="Olivier" creationdate="20200802T100108Z">
+        <seg>Goal Description=Dans ce scénario, vous devez placer vos entreprises sur une trajectoire de croissance durable avec pour objectif final d'introduire en bourse au moins une de vos filiales avec une capitalisation boursière supérieure à un milliard de dollars.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=In today’s rapidly changing markets, corporate agility is key to success.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T172304Z" creationid="Olivier" creationdate="20200430T172304Z">
@@ -14945,6 +15057,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=The goals in this scenario can only be achieved by formulating your business strategies expertly and executing them flawlessly.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T100616Z" creationid="Olivier" creationdate="20200802T100549Z">
+        <seg>Goal Description=Les objectifs de ce scénario ne peuvent être atteints qu'en formulant vos stratégies commerciales de manière experte et en les exécutant sans faille.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=The leather product market is highly lucrative, you should leverage your success in the fashion market to broaden your product lines to cover leather products.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T214648Z" creationid="Olivier" creationdate="20200429T214648Z">
@@ -14957,6 +15077,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T162544Z" creationid="Olivier" creationdate="20200429T162544Z">
         <seg>Goal Description=Les actionnaires et votre personnel attendent énormément de la société qu'elle se développe rapidement sous votre direction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=This goal is achieved when your company's rapid profit growth drives its stock price to soar pass $1000 within 20 years.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T100148Z" creationid="Olivier" creationdate="20200802T100148Z">
+        <seg>Goal Description=Cet objectif est atteint lorsque la croissance rapide des bénéfices de votre entreprise pousse le cours de ses actions à dépasser les 1 000 dollars en 20 ans.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15081,10 +15209,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=You are utterly determined to be number one in a few strategically targeted industries.\n\nYou win this scenario game when each of your three subsidiary companies have successfully achieved market dominance in at least one industry, with stellar performances.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T095647Z" creationid="Olivier" creationdate="20200802T095647Z">
+        <seg>Goal Description=Vous êtes fermement décidé à être le numéro un dans quelques industries stratégiquement ciblées. Vous gagnez ce scénario lorsque chacune de vos trois filiales a réussi à dominer le marché dans au moins une industrie, avec des performances exceptionnelles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=You have bought the brand asset of a defunct company which used to be a popular consumer brand and still carries significant brand value in the present day.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T215745Z" creationid="Olivier" creationdate="20200429T215745Z">
         <seg>Goal Description=Vous avez acheté l'actif de marque d'une société défunte qui était une marque populaire auprès des consommateurs et qui possède toujours une valeur de marque significative aujourd'hui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=You have devised a solid strategy to supercharge your company's return on investment (ROI), involving the uses of subsidiaries to maximize growth and profitability in the targeted markets.^^You must execute this strategy expertly and deliver the results that you have promised your investors.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T100335Z" creationid="Olivier" creationdate="20200802T100335Z">
+        <seg>Goal Description=Vous avez conçu une stratégie solide pour augmenter le retour sur investissement (RSI) de votre entreprise, impliquant l'utilisation de filiales pour maximiser la croissance et la rentabilité sur les marchés ciblés.^^ Vous devez exécuter cette stratégie de manière experte et fournir les résultats que vous avez promis à vos investisseurs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15137,10 +15281,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=You win this subgoal when companies under your controll collectively achieve $10 billion in revenues and $1.5 billion in profits.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T100655Z" creationid="Olivier" creationdate="20200802T100655Z">
+        <seg>Goal Description=Vous gagnez ce sous-objectif lorsque les entreprises sous votre contrôle réalisent collectivement 10 milliards de dollars de recettes et 1,5 milliard de dollars de bénéfices.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=You win this subgoal when the net worth of each of your subsidiary companies has reached $1 billion.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T211507Z" creationid="Olivier" creationdate="20200430T211507Z">
         <seg>Goal Description=Vous gagnez ce sous-objectif lorsque la valeur nette de chacune de vos filiales a atteint un milliard de dollars.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=You win this subgoal when your personal wealth reaches $500 million.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T100343Z" creationid="Olivier" creationdate="20200802T100343Z">
+        <seg>Goal Description=You win this subgoal when your personal wealth reaches $500 million.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15393,6 +15553,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Title=Epic Proportions</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T100639Z" creationid="Olivier" creationdate="20200802T100639Z">
+        <seg>Goal Title=Proportions épiques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Title=Expand to London</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T230634Z" creationid="Olivier" creationdate="20200429T220628Z">
@@ -15485,6 +15653,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T105407Z" creationid="Olivier" creationdate="20200430T105013Z">
         <seg>Goal Title=Développer les villes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Growing the Talent Base</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T095517Z" creationid="Olivier" creationdate="20200802T095517Z">
+        <seg>Goal Title=Renforcer la base de talents</seg>
       </tuv>
     </tu>
     <tu>
@@ -15689,6 +15865,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Title=Soaring Stock Price</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T100127Z" creationid="Olivier" creationdate="20200802T100127Z">
+        <seg>Goal Title=La flambée des prix des actions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Title=Software Giant</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200606T142142Z" creationid="Olivier" creationdate="20200606T142130Z">
@@ -15729,10 +15913,18 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Title=Supercharging ROI</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T100305Z" creationid="Olivier" creationdate="20200802T100305Z">
+        <seg>Goal Title=Stimuler le RSI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Title=Surging Personal Wealth</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T221218Z" creationid="Olivier" creationdate="20200430T221218Z">
-        <seg>Goal Title=L'augmentation de la richesse personnelle</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T100459Z" creationid="Olivier" creationdate="20200430T221218Z">
+        <seg>Goal Title=Augmentation de la richesse personnelle</seg>
       </tuv>
     </tu>
     <tu>
@@ -15773,6 +15965,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200606T142336Z" creationid="Olivier" creationdate="20200606T142329Z">
         <seg>Goal Title=La bataille pour la domination d'Internet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=The Master of Capital</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T100540Z" creationid="Olivier" creationdate="20200802T100540Z">
+        <seg>Goal Title=Le Maître du Capitalisme</seg>
       </tuv>
     </tu>
     <tu>
@@ -24153,6 +24353,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Number of Competitors=40</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T095550Z" creationid="Olivier" creationdate="20200802T095550Z">
+        <seg>Number of Competitors=40</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number of Competitors=60</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T103521Z" creationid="Olivier" creationdate="20200428T103521Z">
@@ -30689,6 +30897,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Score change=500</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T095553Z" creationid="Olivier" creationdate="20200802T095553Z">
+        <seg>Score change=500</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Score change=75</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164454Z" creationid="Olivier" creationdate="20200429T164454Z">
@@ -35273,6 +35489,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The revenues and profits of your companies have reached epic proportions!</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T100719Z" creationid="Olivier" creationdate="20200802T100719Z">
+        <seg>Les revenus et les profits de vos entreprises ont atteint des proportions épiques !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The sale data include both retail and ecommerce sales.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T100554Z" creationid="Olivier" creationdate="20200507T100554Z">
@@ -35381,6 +35605,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150823Z" creationid="Inrepublica" creationdate="20200422T150823Z">
         <seg>Le marché boursier permet la négociation d'actions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The stock price of your company has surpassed the $1000 mark!</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T100158Z" creationid="Olivier" creationdate="20200802T100158Z">
+        <seg>Le cours de l'action de votre entreprise a dépassé la barre des 1 000 dollars !</seg>
       </tuv>
     </tu>
     <tu>
@@ -40802,6 +41034,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You have dominated the upstream mining and farming sectors!</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T095739Z" creationid="Olivier" creationdate="20200802T095739Z">
+        <seg>Vous avez dominé les secteurs miniers et agricoles en amont !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You have done a great job familiarizing yourself with the stock market!</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T154740Z" creationid="Olivier" creationdate="20200425T154740Z">
@@ -41855,6 +42095,14 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T093528Z" creationid="Olivier" creationdate="20200423T133108Z">
         <seg>Vos objectifs dans ce jeu sont d'atteindre des recettes annuelles de 50 millions de dollars et un bénéfice annuel de 5 millions de dollars.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your personal wealth has surged to a new height.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T100515Z" creationid="Olivier" creationdate="20200802T100515Z">
+        <seg>Votre richesse personnelle a atteint un nouveau sommet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62013,8 +62261,8 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
       <tuv lang="en-US">
         <seg>^^While traditional film cameras still dominate the market at the moment, development in digital photography technology has been gaining momentum.^^You see a great opportunity here but it requires committing a long term investment in research and development before any commercial products will materialize.^^Should you dedicate your resources to it at the outset or start with traditional film cameras and transit to digital cameras later for a hopefully smoother ride?</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T171116Z" creationid="Olivier" creationdate="20200429T170623Z">
-        <seg>Alors que les appareils photo traditionnels dominent encore le marché pour le moment, le développement de la technologie de la photographie numérique a pris de l'ampleur. Vous y voyez une grande opportunité, mais il faut investir à long terme dans la recherche et le développement avant de pouvoir réaliser des produits commerciaux. Devriez-vous y consacrer vos ressources dès le départ ou commencer par les appareils photo argentiques traditionnels ?</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T095436Z" creationid="Olivier" creationdate="20200429T170623Z">
+        <seg>^^Alors que les appareils photo traditionnels dominent encore le marché pour le moment, le développement de la technologie de la photographie numérique a pris de l'ampleur.^^Vous y voyez une grande opportunité, mais il faut investir à long terme dans la recherche et le développement avant de pouvoir réaliser des produits commerciaux.^^Devriez-vous y consacrer vos ressources dès le départ ou commencer par les appareils photo argentiques traditionnels ?</seg>
       </tuv>
     </tu>
     <tu>
