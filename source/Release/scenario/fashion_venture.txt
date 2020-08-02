@@ -12,6 +12,7 @@ Retail Store Type=Many
 Technology Disruption=On
 Stock Market=Yes
 Alternative Stock Sim=Yes
+Boom-Bust Cycle Volatility=Moderate
 Macro Economy Realism=High
 Inflation=Inverse
 Inflation Strength=Normal
@@ -25,8 +26,10 @@ City=Miami
 [COMPETITORS]
 Number of Competitors=20
 Competitor Start-up Capital=Moderate  
-Competitor Aggressiveness=Moderate  
-Competitor Expertise Level=Low
+AI Expansion Aggressiveness=Low
+AI Pricing Aggressiveness=Low 
+AI Expertise Level=Low
+AI Tech Head Start=None
 Show Competitor Trade Secrets=Yes
 AI Friendly Merger=No
 Competence of Local Competitors=Low
@@ -45,7 +48,7 @@ AI Product Expertise=Apparel,1
 [IMPORTS]
 Consumer Goods Seaports=2
 Industrial Goods Seaports=2
-Constant Import Supply=No
+Constant Import Supply=Yes
 Import Quality=Moderate 
 
 [PLAYER EXPERTISE] 

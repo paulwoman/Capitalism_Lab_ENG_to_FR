@@ -14,6 +14,7 @@ Retail Store Type=Many
 Technology Disruption=On
 Stock Market=Yes
 Alternative Stock Sim=Yes
+Boom-Bust Cycle Volatility=Moderate
 Macro Economy Realism=High
 Inflation=Inverse
 Inflation Strength=Normal
@@ -22,8 +23,10 @@ Inflation Strength=Normal
 [COMPETITORS]
 Number of Competitors=25
 Competitor Start-up Capital=High  
-Competitor Aggressiveness=High  
-Competitor Expertise Level=Moderate
+AI Expansion Aggressiveness=Moderate 
+AI Pricing Aggressiveness=Moderate 
+AI Expertise Level=Moderate
+AI Tech Head Start=None
 Show Competitor Trade Secrets=Yes
 AI Friendly Merger=No
 Competence of Local Competitors=Moderate 
@@ -38,7 +41,7 @@ Import Quality=High
 
 [MAIN GOAL]
 Goal Title=Success in IPO
-Goal Description=Success in IPO
+Goal Description=In this scenario, you must set your companies on a sustainable growth trajectory with an eventual goal of having at least one of your subsidiary companies going IPO with a market cap exceeding $1 billion.
 
 Number of Game Years=80
 
@@ -53,15 +56,16 @@ Score change=250
 //-------------------------------------------------------------------
 
 [SUBGOAL]
-Goal Title=Flagship Company Stock
-Goal Description=Flagship Company Stock
+Goal Title=Soaring Stock Price
+Goal Description=This goal is achieved when your company's rapid profit growth drives its stock price to soar pass $1000 within 20 years.
+Goal Achieved Text=Congratulations! The stock price of your company has surpassed the $1000 mark!
 
-Goal Achieved Text=Congratulations! 
+Number of Game Years=20
 
 [SUBGOAL VALUES]
-Stock Price=300
+Stock Price=500
 
 [SUBGOAL REWARDS] 
-Score change=100
+Score change=150
 Player expertise change=training, 60
 

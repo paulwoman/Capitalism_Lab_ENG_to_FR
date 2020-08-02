@@ -1,28 +1,31 @@
 [HEADER]
 Title=Tech Leader
 Description=You are one of those people who are gifted with extraordinary technical wizardry and you are going to put it into good use with your tech startup. ^^With the belief that it is technology that matters the most when it comes to high tech products, you are confident that becoming a leader in the high tech market is absolutely within your reach.
-Difficulty Rating=130
+Difficulty Rating=140
 
 [ENVIRONMENT]
 Number of Cities=5
-Your Start-up Capital=Very High 
+Your Start-up Capital=Moderate
 Random Events=Occasional 
 Game Starting Year=1990
 Retail Store Type=Many
 Technology Disruption=On
 Stock Market=Yes
 Alternative Stock Sim=Yes
+Boom-Bust Cycle Volatility=Moderate
 Macro Economy Realism=High
 Inflation=Inverse
 Inflation Strength=Normal
 
 [COMPETITORS]
-Number of Competitors=20
-Competitor Start-up Capital=Moderate  
-Competitor Aggressiveness=Moderate  
-Competitor Expertise Level=Moderate
+Number of Competitors=35
+Competitor Start-up Capital=Very High  
+AI Expansion Aggressiveness=High
+AI Pricing Aggressiveness=Moderate 
+AI Expertise Level=High
+AI Tech Head Start=None
 Show Competitor Trade Secrets=Yes
-AI Friendly Merger=No
+AI Friendly Merger=Yes
 Competence of Local Competitors=Moderate 
 
 
@@ -101,7 +104,7 @@ Computer
 Communication Devices 
 
 [MAIN GOAL REWARDS] 
-Score change=200
+Score change=400
 
 //-------------------------------------------------------------------//
 

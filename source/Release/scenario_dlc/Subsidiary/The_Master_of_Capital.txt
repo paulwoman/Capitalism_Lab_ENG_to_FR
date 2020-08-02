@@ -14,16 +14,19 @@ Retail Store Type=Many
 Technology Disruption=On
 Stock Market=Yes
 Alternative Stock Sim=Yes
+Boom-Bust Cycle Volatility=Moderate
 Macro Economy Realism=High
 Inflation=Inverse
 Inflation Strength=Normal
 
 
 [COMPETITORS]
-Number of Competitors=35
-Competitor Start-up Capital=High  
-Competitor Aggressiveness=High  
-Competitor Expertise Level=High
+Number of Competitors=40
+Competitor Start-up Capital=Very High  
+AI Expansion Aggressiveness=High
+AI Pricing Aggressiveness=Moderate 
+AI Expertise Level=High
+AI Tech Head Start=None
 Show Competitor Trade Secrets=No
 AI Friendly Merger=Yes
 Competence of Local Competitors=High
@@ -38,8 +41,8 @@ Import Quality=Moderate
 //-------------------------------------------------------------------
 
 [MAIN GOAL]
-Goal Title=Sprawling Corporation
-Goal Description=Sprawling Corporation
+Goal Title=The Master of Capital
+Goal Description=The goals in this scenario can only be achieved by formulating your business strategies expertly and executing them flawlessly. When you succeed in doing so, you will earn the title of the Master of Capital!
 
 Number of Game Years=80
 
@@ -56,10 +59,10 @@ Score change=400
 //-------------------------------------------------------------------
 
 [SUBGOAL]
-Goal Title=$10 Billion in Revenues
-Goal Description=$10 Billion in Revenues
+Goal Title=Epic Proportions
+Goal Description=You win this subgoal when companies under your controll collectively achieve $10 billion in revenues and $1.5 billion in profits. 
 
-Goal Achieved Text=Congratulations! 
+Goal Achieved Text=Congratulations! The revenues and profits of your companies have reached epic proportions!  
 
 [SUBGOAL VALUES]
 Controlled Companies Annual Revenue=10000

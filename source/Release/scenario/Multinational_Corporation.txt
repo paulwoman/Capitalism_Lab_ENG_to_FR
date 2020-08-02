@@ -2,17 +2,18 @@
 Title=Multinational Corporation 
 Description=You run a family-owned business in Australia with a strong focus on local markets and is extremely conservative in expanding overseas.^^But you are more ambitious and you always set your sights on expanding globally. ^^To persuade your family to support your plan of transforming the family business into a multinational corporation, you must first prove to them your ability to run a business of a larger scale with great profitability. 
 
-Difficulty Rating=130
+Difficulty Rating=150
 
 [ENVIRONMENT]
 Number of Cities=6
-Your Start-up Capital=High
+Your Start-up Capital=Moderate
 Random Events=Occasional 
 Game Starting Year=1990
 Retail Store Type=Many
 Technology Disruption=On
 Stock Market=Yes
 Alternative Stock Sim=Yes
+Boom-Bust Cycle Volatility=Moderate
 Macro Economy Realism=High
 Inflation=Inverse
 Inflation Strength=Normal
@@ -29,13 +30,15 @@ City=London
 Locked=yes
 
 [COMPETITORS]
-Number of Competitors=20
-Competitor Start-up Capital=Moderate  
-Competitor Aggressiveness=Moderate  
-Competitor Expertise Level=Moderate
-Show Competitor Trade Secrets=Yes
-AI Friendly Merger=No
-Competence of Local Competitors=Moderate 
+Number of Competitors=40
+Competitor Start-up Capital=Very High  
+AI Expansion Aggressiveness=High
+AI Pricing Aggressiveness=High 
+AI Expertise Level=High
+AI Tech Head Start=None
+Show Competitor Trade Secrets=No
+AI Friendly Merger=Yes
+Competence of Local Competitors=High 
 
 [IMPORTS]
 Consumer Goods Seaports=2
@@ -116,7 +119,7 @@ Player Company Market Cap=2000
 
 
 [MAIN GOAL REWARDS] 
-Score change=300
+Score change=500
 
 //-------------------------------------------------------------------//
 

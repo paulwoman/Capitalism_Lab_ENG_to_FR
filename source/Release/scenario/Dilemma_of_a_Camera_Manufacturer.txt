@@ -2,29 +2,33 @@
 Title=Dilemma of a Camera Manufacturer
 Description=With over twenty of years of experience in producing world-class photography equipment under your belt, you have earned the trust of a group of investors for funding your startup. ^^While traditional film cameras still dominate the market at the moment, development in digital photography technology has been gaining momentum.^^You see a great opportunity here but it requires committing a long term investment in research and development before any commercial products will materialize.^^Should you dedicate your resources to it at the outset or start with traditional film cameras and transit to digital cameras later for a hopefully smoother ride?
 
-Difficulty Rating=120
+Difficulty Rating=130
 
 [ENVIRONMENT]
 Number of Cities=5
-Your Start-up Capital=High
+Your Start-up Capital=Moderate
 Random Events=Occasional 
 Game Starting Year=1990
 Retail Store Type=Many
 Technology Disruption=On
 Stock Market=Yes
 Alternative Stock Sim=Yes
+Boom-Bust Cycle Volatility=Moderate
 Macro Economy Realism=High
 Inflation=Inverse
 Inflation Strength=Normal
 
 [COMPETITORS]
-Number of Competitors=20
-Competitor Start-up Capital=Moderate  
-Competitor Aggressiveness=Moderate  
-Competitor Expertise Level=Moderate
+Number of Competitors=30
+Competitor Start-up Capital=High  
+AI Expansion Aggressiveness=High
+AI Pricing Aggressiveness=Moderate 
+AI Expertise Level=High
+AI Tech Head Start=None
 Show Competitor Trade Secrets=Yes
-AI Friendly Merger=No
+AI Friendly Merger=Yes
 Competence of Local Competitors=Moderate 
+
 
 [IMPORTS]
 Consumer Goods Seaports=2
@@ -84,7 +88,7 @@ Electronic Products
 Communication Devices
 
 [MAIN GOAL REWARDS] 
-Score change=300
+Score change=350
 
 //-------------------------------------------------------------------//
 

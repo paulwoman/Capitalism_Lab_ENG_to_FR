@@ -13,15 +13,18 @@ Retail Store Type=Many
 Technology Disruption=On
 Stock Market=Yes
 Alternative Stock Sim=Yes
+Boom-Bust Cycle Volatility=Moderate
 Macro Economy Realism=High
 Inflation=Inverse
 Inflation Strength=Normal
 
 [COMPETITORS]
 Number of Competitors=25
-Competitor Start-up Capital=Moderate  
-Competitor Aggressiveness=Moderate  
-Competitor Expertise Level=Moderate
+Competitor Start-up Capital=High  
+AI Expansion Aggressiveness=Moderate 
+AI Pricing Aggressiveness=Moderate 
+AI Expertise Level=High
+AI Tech Head Start=None
 Show Competitor Trade Secrets=Yes
 AI Friendly Merger=No
 Competence of Local Competitors=Moderate 

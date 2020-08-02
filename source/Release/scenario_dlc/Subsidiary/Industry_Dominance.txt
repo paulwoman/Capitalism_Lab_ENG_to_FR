@@ -14,16 +14,19 @@ Retail Store Type=Many
 Technology Disruption=On
 Stock Market=Yes
 Alternative Stock Sim=Yes
+Boom-Bust Cycle Volatility=Moderate
 Macro Economy Realism=High
 Inflation=Inverse
 Inflation Strength=Normal
 
 
 [COMPETITORS]
-Number of Competitors=30
+Number of Competitors=35
 Competitor Start-up Capital=High  
-Competitor Aggressiveness=High  
-Competitor Expertise Level=High
+AI Expansion Aggressiveness=High
+AI Pricing Aggressiveness=Moderate 
+AI Expertise Level=High
+AI Tech Head Start=None
 Show Competitor Trade Secrets=No
 AI Friendly Merger=Yes
 Competence of Local Competitors=Moderate 
@@ -39,7 +42,7 @@ Import Quality=Moderate
 
 [MAIN GOAL]
 Goal Title=Industry Dominance
-Goal Description=Industry Dominance
+Goal Description=You are utterly determined to be number one in a few strategically targeted industries.\n\nYou win this scenario game when each of your three subsidiary companies have successfully achieved market dominance in at least one industry, with stellar performances.
 
 Number of Game Years=80
 
@@ -57,7 +60,7 @@ Score change=350
 Goal Title=Upstream Dominance
 Goal Description=You achive this goal when your main company has dominated the upstream mining and farming sectors. 
 
-Goal Achieved Text=Congratulations! 
+Goal Achieved Text=Congratulations! You have dominated the upstream mining and farming sectors! 
 
 [SUBGOAL INDUSTRIES] 
 Farming
