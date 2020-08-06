@@ -32059,8 +32059,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Spending|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T150502Z" creationid="Olivier" creationdate="20200429T150502Z">
-        <seg>Dépenses</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200806T135325Z" creationid="Olivier" creationdate="20200429T150502Z">
+        <seg>pub|</seg>
       </tuv>
     </tu>
     <tu>
@@ -47235,32 +47235,32 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0882]&lt;0094&gt;Brand Strategy|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T145216Z" creationid="Olivier" creationdate="20200429T145216Z">
-        <seg>[0882]&lt;0094&gt;Stratégie de marque|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200806T135229Z" creationid="Olivier" creationdate="20200429T145216Z">
+        <seg>[0882]&lt;0094&gt;Stratégie|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[0883]&lt;0095&gt;Brand Rating|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T145226Z" creationid="Olivier" creationdate="20200429T145226Z">
-        <seg>[0883]&lt;0095&gt;Classement de la marque|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200806T135239Z" creationid="Olivier" creationdate="20200429T145226Z">
+        <seg>[0883]&lt;0095&gt;Classement|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[0884]&lt;0096&gt;Brand Awareness|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T145235Z" creationid="Olivier" creationdate="20200429T145235Z">
-        <seg>[0884]&lt;0096&gt;Notoriété de la marque|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200806T135248Z" creationid="Olivier" creationdate="20200429T145235Z">
+        <seg>[0884]&lt;0096&gt;Notoriété|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[0885]&lt;0097&gt;Brand Loyalty|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T145245Z" creationid="Olivier" creationdate="20200429T145245Z">
-        <seg>[0885]&lt;0097&gt;Fidélité à la marque|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200806T135253Z" creationid="Olivier" creationdate="20200429T145245Z">
+        <seg>[0885]&lt;0097&gt;Fidélité|</seg>
       </tuv>
     </tu>
     <tu>
@@ -47595,16 +47595,16 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[0929]&lt;0137&gt;Ad.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T150530Z" creationid="Olivier" creationdate="20200429T150453Z">
-        <seg>[0929]&lt;0137&gt;Pub.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200806T135328Z" creationid="Olivier" creationdate="20200429T150453Z">
+        <seg>[0929]&lt;0137&gt;Dépenses</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[0930]&lt;0138&gt;Daily Ad.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T150535Z" creationid="Olivier" creationdate="20200429T150519Z">
-        <seg>[0930]&lt;0138&gt;Publicité quotidienne</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200806T135433Z" creationid="Olivier" creationdate="20200429T150519Z">
+        <seg>[0930]&lt;0138&gt;Fréq.</seg>
       </tuv>
     </tu>
     <tu>
