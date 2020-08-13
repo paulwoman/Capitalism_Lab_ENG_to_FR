@@ -4568,8 +4568,8 @@
       <tuv lang="en-US">
         <seg>Any products directed into the private-labeling unit are relabeled immediately.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T104554Z" creationid="Olivier" creationdate="20200710T104554Z">
-        <seg>Tous les produits dirigés vers l'unité de label privé sont immédiatement réétiquetés.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200813T172909Z" creationid="Olivier" creationdate="20200710T104554Z">
+        <seg>Tous les produits dirigés vers l'unité de label privé sont immédiatement ré-étiquetés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35707,8 +35707,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>The type of livestock being raised.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T173809Z" creationid="Inrepublica" creationdate="20200422T173809Z">
-        <seg>Le type d'élevage.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200813T172827Z" creationid="Inrepublica" creationdate="20200422T173809Z">
+        <seg>Type d'animaux d'élevage.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35739,8 +35739,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>The type of product in this unit.^</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T103852Z" creationid="Olivier" creationdate="20200427T103852Z">
-        <seg>Le type de produit dans cette unité.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200813T172713Z" creationid="Olivier" creationdate="20200427T103852Z">
+        <seg>Le type de produit dans cette unité.^</seg>
       </tuv>
     </tu>
     <tu>
@@ -61323,8 +61323,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>[Livestock Raising Unit]</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200813T014243Z" creationid="Inrepublica" creationdate="20200423T064431Z">
-        <seg>[Livestock Raising Unit]</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200813T172741Z" creationid="Inrepublica" creationdate="20200423T064431Z">
+        <seg>[Livestock Raising Unit</seg>
       </tuv>
     </tu>
     <tu>
