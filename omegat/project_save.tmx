@@ -35739,17 +35739,16 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>The type of product in this unit.^</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200813T172713Z" creationid="Olivier" creationdate="20200427T103852Z">
-        <seg>Le type de produit dans cette unité.^</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200813T204506Z" creationid="Olivier" creationdate="20200427T103852Z">
+        <seg>Type de produit par cette unité.^</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>The type of product that is available from this warehouse unit.^</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T113745Z" creationid="Olivier" creationdate="20200427T113745Z">
-        <seg>
-Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200813T204531Z" creationid="Olivier" creationdate="20200427T113745Z">
+        <seg>Type de produit qui est disponible à partir de cette unité d'entrepôt.^</seg>
       </tuv>
     </tu>
     <tu>
@@ -35796,8 +35795,8 @@ Le type de produit qui est disponible à partir de cette unité d'entrepôt.^</s
       <tuv lang="en-US">
         <seg>The type of technology currently being developed.^</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T103822Z" creationid="Olivier" creationdate="20200427T103822Z">
-        <seg>Le type de technologie en cours de développement.^</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200813T204448Z" creationid="Olivier" creationdate="20200427T103822Z">
+        <seg>Type de technologie en cours de développement.^</seg>
       </tuv>
     </tu>
     <tu>
@@ -62795,8 +62794,8 @@ At the initial setting, a bank lends money evenly to borrowers of different cred
       <tuv lang="en-US">
         <seg>~Supply and Demand~</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200813T204359Z" creationid="Olivier" creationdate="20200427T102909Z">
-        <seg>~Offre et la demande~</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200813T204600Z" creationid="Olivier" creationdate="20200427T102909Z">
+        <seg>~Offre et demande~</seg>
       </tuv>
     </tu>
     <tu>
