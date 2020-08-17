@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -47690,8 +47690,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>[0941]&lt;0149&gt;Leader Market Share|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T150841Z" creationid="Olivier" creationdate="20200429T150841Z">
-        <seg>[0941]&lt;0149&gt;Part du marché du leader|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200817T213605Z" creationid="Olivier" creationdate="20200429T150841Z">
+        <seg>[0941]&lt;0149&gt;PDM du leader|</seg>
       </tuv>
     </tu>
     <tu>
