@@ -4774,6 +4774,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>And use #Home# and #End# keys to jump to the top and bottom of a list box.^</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T121150Z" creationid="Olivier" creationdate="20200819T121150Z">
+        <seg>Et utiliser les touches #Home# et #End# pour sauter en haut et en bas d'une liste.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>And you intend to keep your operations lean as this strategy produces the best results when your business can maneuver swiftly.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220932Z" creationid="Olivier" creationdate="20200429T220932Z">
@@ -14832,6 +14840,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Game Speed, Game_Speed.txt</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T121236Z" creationid="Olivier" creationdate="20200819T121236Z">
+        <seg>Game Speed, Game_Speed.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Game Speed=3</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T095516Z" creationid="Olivier" creationdate="20200424T095516Z">
@@ -22401,6 +22417,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>List Box Browsing Keys, List_Box_Browsing_Keys.txt</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T121318Z" creationid="Olivier" creationdate="20200819T121318Z">
+        <seg>List Box Browsing Keys, List_Box_Browsing_Keys.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Lit|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200505T161913Z" creationid="Olivier" creationdate="20200505T161913Z">
@@ -24237,6 +24261,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T152531Z" creationid="Olivier" creationdate="20200507T152531Z">
         <seg>Notez que ce prix de revient peut être différent du prix de revient indiqué à l'unité d'achat, car il tient compte de la quantité d'intrants nécessaires à la production.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Note that this is context sensitive — when there are several list boxes on the same screen, you can position your mouse cursor within one of the list boxes and the shortcut keys that you have pressed will affect the respective list box.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T121213Z" creationid="Olivier" creationdate="20200819T121213Z">
+        <seg>Notez que cette fonction est sensible au contexte - lorsqu'il y a plusieurs listes sur le même écran, vous pouvez placer le curseur de votre souris dans l'une des listes et les touches de raccourci que vous avez appuyées affecteront la liste correspondante.</seg>
       </tuv>
     </tu>
     <tu>
