@@ -736,8 +736,8 @@
       <tuv lang="en-US">
         <seg>// Alternative Stock Sim=&lt;Yes, No&gt;</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222144Z" creationid="Olivier" creationdate="20200430T222144Z">
-        <seg>// Alternative Stock Sim=&lt;Yes, No&gt;</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T075319Z" creationid="Olivier" creationdate="20200430T222144Z">
+        <seg>// Bourse alternative=&lt;Yes, No&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -880,8 +880,8 @@
       <tuv lang="en-US">
         <seg>// Game Starting Year=&lt;1900 to 2100&gt;</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200527T115603Z" creationid="Inrepublica" creationdate="20200423T151518Z">
-        <seg>// Game Starting Year=&lt;1900 to 2100&gt;</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T075150Z" creationid="Inrepublica" creationdate="20200423T151518Z">
+        <seg>// Année de début du jeu=&lt;1900 to 2100&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -992,8 +992,8 @@
       <tuv lang="en-US">
         <seg>// Inflation Strength=&lt;Normal, Reduced&gt;</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222146Z" creationid="Olivier" creationdate="20200430T222146Z">
-        <seg>// Inflation Strength=&lt;Normal, Reduced&gt;</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T075448Z" creationid="Olivier" creationdate="20200430T222146Z">
+        <seg>// Force de l'inflation=&lt;Normal, Reduced&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1024,8 +1024,8 @@
       <tuv lang="en-US">
         <seg>// Macro Economy Realism=&lt;Low, High&gt;</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151241Z" creationid="Inrepublica" creationdate="20200423T151241Z">
-        <seg>// Macro Economy Realism=&lt;Low, High&gt;</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T075401Z" creationid="Inrepublica" creationdate="20200423T151241Z">
+        <seg>// Réalisme de la macroéconomie=&lt;Low, High&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1112,8 +1112,8 @@
       <tuv lang="en-US">
         <seg>// Retail Store Type=&lt;One, Many&gt;</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151233Z" creationid="Inrepublica" creationdate="20200423T151233Z">
-        <seg>// Retail Store Type=&lt;One, Many&gt;</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T075220Z" creationid="Inrepublica" creationdate="20200423T151233Z">
+        <seg>// Type de détaillant=&lt;One, Many&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1136,8 +1136,8 @@
       <tuv lang="en-US">
         <seg>// Stock Market=&lt;Yes, No&gt;</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151239Z" creationid="Inrepublica" creationdate="20200423T151239Z">
-        <seg>// Stock Market=&lt;Yes, No&gt;</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T075258Z" creationid="Inrepublica" creationdate="20200423T151239Z">
+        <seg>// Bourse=&lt;Yes, No&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1152,8 +1152,8 @@
       <tuv lang="en-US">
         <seg>// Technology Disruption=&lt;Yes, No&gt;</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151235Z" creationid="Inrepublica" creationdate="20200423T151235Z">
-        <seg>// Technology Disruption=&lt;Yes, No&gt;</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T075242Z" creationid="Inrepublica" creationdate="20200423T151235Z">
+        <seg>// Perturbation technologique=&lt;Yes, No&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1352,8 +1352,8 @@
       <tuv lang="en-US">
         <seg>// You may set the game starting year to any year between 1900 and 2100.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151228Z" creationid="Olivier" creationdate="20200423T130131Z">
-        <seg>// You may set the game starting year to any year between 1900 and 2100.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T075206Z" creationid="Olivier" creationdate="20200423T130131Z">
+        <seg>// Vous pouvez fixer l'année de début du jeu à n'importe quelle année entre 1900 et 2100.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1554,6 +1554,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T101842Z" creationid="Olivier" creationdate="20200428T101842Z">
         <seg>//Auto Save Interval Minutes=1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>//Boom-Bust Cycle Volatility=&lt;Low, Moderate, High&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T075340Z" creationid="Olivier" creationdate="20200819T075340Z">
+        <seg>//Volatilité du cycle expansion-récession =&lt;Low, Moderate, High&gt;</seg>
       </tuv>
     </tu>
     <tu>
