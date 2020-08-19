@@ -11198,6 +11198,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=You are given 50 years to grow your company from a humble e-commerce startup to a formidable behemoth, ultimately dominating the e-commerce sector and posing existential threats to incompetent retailers.^^You will win this scenario when your company’s e-commerce sales reach $200 million annually and your company’s market capitalization surpasses the $1 billion mark.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T075806Z" creationid="Olivier" creationdate="20200819T075806Z">
+        <seg>Description=You are given 50 years to grow your company from a humble e-commerce startup to a formidable behemoth, ultimately dominating the e-commerce sector and posing existential threats to incompetent retailers.^^You will win this scenario when your company’s e-commerce sales reach $200 million annually and your company’s market capitalization surpasses the $1 billion mark.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=You are one of those people who are gifted with extraordinary technical wizardry and you are going to put it into good use with your tech startup.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T145902Z" creationid="Olivier" creationdate="20200426T145902Z">
@@ -37413,6 +37421,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164623Z" creationid="Olivier" creationdate="20200429T164623Z">
         <seg>Title=Le dilemme d'un fabricant d'appareils photo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=E-commerce Behemoth</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T083654Z" creationid="Olivier" creationdate="20200819T075747Z">
+        <seg>Title=Le géant du commerce électronique</seg>
       </tuv>
     </tu>
     <tu>
