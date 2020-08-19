@@ -42025,6 +42025,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You may interfere with its operation when you own 75% or more of its shares.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T114931Z" creationid="Olivier" creationdate="20200819T114931Z">
+        <seg>Vous pouvez interférer dans son fonctionnement lorsque vous détenez 75% ou plus de ses actions.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You may now set up natural resource firms.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100614Z" creationid="Olivier" creationdate="20200429T100614Z">
@@ -42862,6 +42870,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T115133Z" creationid="Inrepublica" creationdate="20200422T161218Z">
         <seg>Vos filiales (DLC Filiales)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your subsidiary company has gone public successfully and raised %1s!|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T114827Z" creationid="Olivier" creationdate="20200819T114827Z">
+        <seg>Félicitations ! Votre filiale a réussi à s'introduire en bourse et à augmenter %1s!|</seg>
       </tuv>
     </tu>
     <tu>
@@ -62492,6 +62508,30 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T114608Z" creationid="Olivier" creationdate="20200819T114608Z">
         <seg>[3276]&lt;IPO1&gt;Félicitations !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3277]&lt;IPO2&gt;Congratulations!</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T114725Z" creationid="Olivier" creationdate="20200819T114725Z">
+        <seg>[3277]&lt;IPO2&gt;Félicitations !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3278]&lt;SUBC&gt;This company is your corporation's subsidiary.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T114919Z" creationid="Olivier" creationdate="20200819T114919Z">
+        <seg>[3278]&lt;SUBC&gt;Cette entreprise est une filiale de votre entreprise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3279]&lt;OEXP&gt;Operating Expenses|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T114945Z" creationid="Olivier" creationdate="20200819T114945Z">
+        <seg>[3279]&lt;OEXP&gt;Dépenses d'exploitation|</seg>
       </tuv>
     </tu>
     <tu>
