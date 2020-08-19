@@ -886,6 +886,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// If the City Economic Simulation DLC is enabled, the maximum number of cities that you can set in a game is 15.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T074929Z" creationid="Olivier" creationdate="20200819T074929Z">
+        <seg>// Si le DLC de simulation économique de ville est activé, le nombre maximum de villes que vous pouvez définir dans un jeu est de 15.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// If the player fails to achieve this subgoal before the deadline, the following penalties will be imposed on the player.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T224114Z" creationid="Olivier" creationdate="20200430T224114Z">
@@ -1088,8 +1096,8 @@
       <tuv lang="en-US">
         <seg>// Random Events=&lt;Never, Seldom, Occasional, Frequent&gt;</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200527T115559Z" creationid="Inrepublica" creationdate="20200423T151213Z">
-        <seg>// Random Events=&lt;Never, Seldom, Occasional, Frequent&gt;</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T075114Z" creationid="Inrepublica" creationdate="20200423T151213Z">
+        <seg>// Événements aléatoires=&lt;Never, Seldom, Occasional, Frequent&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1376,8 +1384,8 @@
       <tuv lang="en-US">
         <seg>// Your Start-up Capital=&lt;Very Low, Low, Moderate, High, Very High&gt;</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200527T115555Z" creationid="Inrepublica" creationdate="20200423T151210Z">
-        <seg>// Your Start-up Capital=&lt;Very Low, Low, Moderate, High, Very High&gt;</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T074945Z" creationid="Inrepublica" creationdate="20200423T151210Z">
+        <seg>// Votre capital de départ=&lt;Très faible, faible, modéré, élevé, très élevé&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1590,6 +1598,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>//If you prefer to customize the exact amount of start-up capital for your company, you may use the following line instead:</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T075001Z" creationid="Olivier" creationdate="20200819T075001Z">
+        <seg>//Si vous préférez personnaliser le montant exact du capital de démarrage de votre entreprise, vous pouvez utiliser la ligne suivante à la place :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>//Initialize the player¡¯s corporate brand ratings to specific values in the beginning of the game.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T095517Z" creationid="Olivier" creationdate="20200710T095517Z">
@@ -1658,6 +1674,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T095221Z" creationid="Olivier" creationdate="20200710T095221Z">
         <seg>//Vous pouvez l'utiliser pour modifier l'effet de formation sur le personnel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>//Your Start-up Capital Amount=&lt;1 to 10000&gt; ($1 to $10000 million)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T075014Z" creationid="Olivier" creationdate="20200819T075014Z">
+        <seg>//Votre capital de départ=&lt;1 à 10000&gt; (1 à 10000 millions de dollars)</seg>
       </tuv>
     </tu>
     <tu>
