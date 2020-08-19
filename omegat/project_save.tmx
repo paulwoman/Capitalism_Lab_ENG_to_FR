@@ -142,6 +142,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#So always open an information window if possible#.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T120727Z" creationid="Olivier" creationdate="20200819T120727Z">
+        <seg>#Ouvrez donc toujours une fenêtre d'information si possible#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>#This can save a lot of graphic processing time especially when the city is packed with buildings#.^</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T120746Z" creationid="Olivier" creationdate="20200819T120746Z">
+        <seg>#Cela peut faire gagner beaucoup de temps de traitement graphique, surtout lorsque la ville est pleine de bâtiments#.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#Venture Capitalists# only invest in companies in #pre-IPO rounds#.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T085301Z" creationid="Olivier" creationdate="20200819T085301Z">
@@ -490,6 +506,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T165308Z" creationid="Inrepublica" creationdate="20200422T164906Z">
         <seg>(Vous pouvez fixer les limites pour les logiciels et les sociétés Internet séparément à l'aide d'un script).s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(You will notice that the cars are not moving.)^</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T120715Z" creationid="Olivier" creationdate="20200819T120715Z">
+        <seg>(Vous remarquerez que les voitures ne bougent pas.)^</seg>
       </tuv>
     </tu>
     <tu>
@@ -1854,6 +1878,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>1)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T120549Z" creationid="Olivier" creationdate="20200819T120549Z">
+        <seg>1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>1) The city's local businesses benefit from increased competitiveness and #export#, thus hiring more workers and decreasing the city's #unemployment rate#.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091604Z" creationid="Olivier" creationdate="20200508T091604Z">
@@ -1978,6 +2010,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150657Z" creationid="Inrepublica" creationdate="20200425T150657Z">
         <seg>2 years|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>2)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T120747Z" creationid="Olivier" creationdate="20200819T120747Z">
+        <seg>2)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4658,6 +4698,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T091958Z" creationid="Olivier" creationdate="20200424T091958Z">
         <seg>Parmi ces 60 %, ~bois~ représente 40 %, le ~coton~ 10 % et le ~lin~ les 10 % restants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Among the various types of screens on the #Information Center#, some will require more computer processing power to display than the others.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T120914Z" creationid="Olivier" creationdate="20200819T120914Z">
+        <seg>Parmi les différents types d'écrans du #Centre d'information#, certains nécessiteront davantage de traitement informatique pour s'afficher que les autres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37785,6 +37833,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Tips for Improving Game Running Speed^</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T120549Z" creationid="Olivier" creationdate="20200819T120549Z">
+        <seg>Conseils pour améliorer la vitesse de défilement du jeu^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Title= 20% salaries for your senior management staff</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T104227Z" creationid="Olivier" creationdate="20200710T104227Z">
@@ -40997,6 +41053,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203443Z" creationid="Inrepublica" creationdate="20200422T203443Z">
         <seg>Sur faible, vous pouvez vous attendre à ce que la plupart des produits bénéficient de marges bénéficiaires saines et que les entreprises soient en général plus rentables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you are viewing the #firm detail window# or the #Information Center#, the game does #not# need to update the city graphics underneath the information window.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T120702Z" creationid="Olivier" creationdate="20200819T120702Z">
+        <seg>Lorsque vous visualisez la #fenêtre détails de la firme# ou le #Centre d'information#, le jeu n'a #pas# besoin de mettre à jour les graphiques de la ville sous la fenêtre d'information.</seg>
       </tuv>
     </tu>
     <tu>
