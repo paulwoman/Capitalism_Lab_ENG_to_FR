@@ -1,0 +1,22 @@
+[HEADER]
+Title=Sample script - Player Expertise
+Description=This is a sample script for Capitalism Lab, listing all variables under the [PLAYER EXPERTISE] section. 
+
+[PLAYER EXPERTISE] 
+// You may assign a value ranging from 0 to 100 to each type of player expertise.
+
+Retailing=20
+Farming=30
+Manufacturing=40
+Research and Development=50
+Raw Material Production=60
+Marketing=70
+Training=80
+
+
+// If you want your player character to possess expertise in a specific product class, you may define it as follows. 
+
+Product Expertise=Apparel, 100
+// Product Expertise=<Product Class>, <Expertise Rating, which ranges from 0 to 100>
+// Examples of product classes: Apparel, Automobile, Beverage and etc. 
+// You may view all product classes in the game by accessing the Product Summary Report and look at the product class list at the top left of the report.

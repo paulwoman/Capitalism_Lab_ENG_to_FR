@@ -1,0 +1,68 @@
+[HEADER]
+Title=E-commerce Behemoth
+Description=You are given 50 years to grow your company from a humble e-commerce startup to a formidable behemoth, ultimately dominating the e-commerce sector and posing existential threats to incompetent retailers.^^You will win this scenario when your company’s e-commerce sales reach $200 million annually and your company’s market capitalization surpasses the $1 billion mark.
+
+DLC=DigitalAge
+
+Difficulty Rating=100
+
+[ENVIRONMENT]
+Number of Cities=5
+Your Start-up Capital=High
+Random Events=Occasional 
+Game Starting Year=1990
+Retail Store Type=Many
+Technology Disruption=On
+Stock Market=Yes
+Alternative Stock Sim=Yes
+Boom-Bust Cycle Volatility=Moderate
+Macro Economy Realism=High
+Inflation=Inverse
+Inflation Strength=Normal
+
+[CITIES]
+City=Los Angeles 
+City=Beijing 
+City=Barcelona 
+City=Frankfurt
+City=Tokyo  
+
+[COMPETITORS]
+Number of Competitors=30
+Competitor Start-up Capital=High  
+AI Expansion Aggressiveness=High
+AI Pricing Aggressiveness=Moderate 
+AI Expertise Level=Moderate
+AI Tech Head Start=None
+Show Competitor Trade Secrets=Yes
+AI Friendly Merger=Yes
+Competence of Local Competitors=High 
+
+[IMPORTS]
+Consumer Goods Seaports=2
+Industrial Goods Seaports=2
+Constant Import Supply=No
+Import Quality=Moderate 
+
+//-------------------------------------------------------------------//
+
+[MAIN GOAL]
+Goal Title=E-commerce Behemoth
+Goal Description=You will win this scenario when your company’s e-commerce sales reach $200 million annually and your company’s market capitalization surpasses the $1 billion mark.
+
+Number of Game Years=70
+
+[MAIN GOAL VALUES]
+Player Company Market Cap=1000
+E-Commerce Annual Revenue=200
+E-Commerce User Base=4000000
+
+[MAIN GOAL REWARDS] 
+Score change=300
+
+//-------------------------------------------------------------------//
+
+[CHALLENGE GAME]
+Number of Game Years=30
+Ranking Method=Score
+

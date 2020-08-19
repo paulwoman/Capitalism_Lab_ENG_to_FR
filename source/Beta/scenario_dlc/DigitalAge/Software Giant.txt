@@ -1,0 +1,75 @@
+[HEADER]
+Title=Software Giant
+Description=You started your company at the dawn of the software industry where opportunities are abundant.^^To become the software giant of tomorrow, you must invest aggressively into R&D to ramp up your company's innovation capability and execute product launches flawlessly to establish strong foothold in key software markets and ultimately dominate them. 
+
+DLC=DigitalAge
+
+Difficulty Rating=80
+
+[ENVIRONMENT]
+Number of Cities=4
+Your Start-up Capital=High
+Random Events=Occasional 
+Game Starting Year=1990
+Retail Store Type=Many
+Technology Disruption=On
+Stock Market=Yes
+Alternative Stock Sim=Yes
+Boom-Bust Cycle Volatility=Moderate
+Macro Economy Realism=High
+Inflation=Inverse
+Inflation Strength=Normal
+
+[CITIES]
+City=San Francisco 
+City=London 
+City=Paris 
+City=Tokyo
+City=Boston 
+
+[COMPETITORS]
+Number of Competitors=20
+Competitor Start-up Capital=Moderate  
+AI Expansion Aggressiveness=Moderate
+AI Pricing Aggressiveness=Moderate 
+AI Expertise Level=Moderate
+AI Tech Head Start=None
+Show Competitor Trade Secrets=Yes
+AI Friendly Merger=No
+Competence of Local Competitors=Moderate 
+
+[IMPORTS]
+Consumer Goods Seaports=2
+Industrial Goods Seaports=2
+Constant Import Supply=No
+Import Quality=Moderate 
+
+//-------------------------------------------------------------------//
+
+[MAIN GOAL]
+Goal Title=Software Giant
+Goal Description=To become the software giant of tomorrow, you must invest aggressively into R&D to ramp up your company's innovation capability and execute product launches flawlessly to establish strong foothold in key software markets and ultimately dominate them.
+
+Number of Game Years=50
+
+[MAIN GOAL VALUES]
+Player Company Annual Revenue=1000
+Player Company Annual Profit=200
+OS Market Share=75
+Software Dominance=Audio Software
+Software Dominance=Computer Security
+Software Dominance=Graphic Design Software
+Software Dominance=Office Software
+Software Dominance=Utility Software
+Software Dominance=Video Software
+
+
+[MAIN GOAL REWARDS] 
+Score change=200
+
+//-------------------------------------------------------------------//
+
+[CHALLENGE GAME]
+Number of Game Years=30
+Ranking Method=Score
+

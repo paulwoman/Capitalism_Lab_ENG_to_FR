@@ -1,0 +1,8 @@
+[HEADER]
+Title=Autosave every 10 days 
+Description=This script modifies the autosave setting to perform an autosave once every 10 days. 
+
+//------------------------------------------------------------------------------------------------//
+
+[SPECIAL RULES]
+Auto Save Interval Days=10

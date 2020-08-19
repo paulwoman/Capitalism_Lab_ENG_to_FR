@@ -1,0 +1,78 @@
+[HEADER]
+Title=The Battle For Internet Dominance
+Description=The advent of the Internet is changing every aspect of life. Seeing a multi-billion dollar industry in the making, investors flocked to offer money to Internet startups and you have just received your fair share of it.^^With a war chest full of newly raised capital, you have fearlessly embarked on an ambitious quest for Internet dominance.
+DLC=DigitalAge
+Difficulty Rating=90
+
+[ENVIRONMENT]
+Number of Cities=6
+Your Start-up Capital=High
+Random Events=Occasional 
+Game Starting Year=1990
+Retail Store Type=Many
+Technology Disruption=On
+Stock Market=Yes
+Alternative Stock Sim=Yes
+Boom-Bust Cycle Volatility=Moderate
+Macro Economy Realism=High
+Inflation=Inverse
+Inflation Strength=Normal
+
+[CITIES]
+City=New York City
+City=Tokyo
+City=London
+City=Frankfurt 
+City=Beijing  
+City=Seoul  
+
+[COMPETITORS]
+Number of Competitors=25
+Competitor Start-up Capital=High  
+AI Expansion Aggressiveness=Moderate
+AI Pricing Aggressiveness=Moderate 
+AI Expertise Level=High
+AI Tech Head Start=None
+Show Competitor Trade Secrets=Yes
+AI Friendly Merger=No
+Competence of Local Competitors=Moderate 
+
+[IMPORTS]
+Consumer Goods Seaports=2
+Industrial Goods Seaports=2
+Constant Import Supply=No
+Import Quality=Moderate 
+
+//-------------------------------------------------------------------//
+
+[MAIN GOAL]
+Goal Title=The Battle For Internet Dominance
+Goal Description=The advent of the Internet is changing every aspect of life. With a war chest full of newly raised capital, you have fearlessly embarked on an ambitious quest for Internet dominance. 
+
+Number of Game Years=70
+
+[MAIN GOAL VALUES]
+Player Company Annual Revenue=2000
+Player Company Annual Profit=400
+Internet Market Share=Search Engine, 70 
+Internet Market Share=Social Network, 70
+Internet Market Share=Online Auction Site, 60 
+Internet Market Share=Video-sharing Website, 60 
+Internet Market Share=Photo-sharing Website, 50 
+Internet Market Share=Microblogging, 50 
+Internet Market Share=News Website, 50
+Internet Market Share=Online Stock Trading, 50 
+Internet Market Share=Hotel Booking Site, 50 
+Internet Market Share=Car Rental Booking Site, 50 
+Internet Market Share=Video On Demand, 50 
+
+
+[MAIN GOAL REWARDS] 
+Score change=250
+
+//-------------------------------------------------------------------//
+
+[CHALLENGE GAME]
+Number of Game Years=30
+Ranking Method=Score
+

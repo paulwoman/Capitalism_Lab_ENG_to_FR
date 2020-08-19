@@ -1,0 +1,75 @@
+[HEADER]
+Title=Sample script - Main Goal and Subgoals
+Description=This is a sample script for Capitalism Lab, listing all variables under the [MAIN GOAL] and [SUBGOAL] section. 
+
+//-------------------------------------------------------------------//
+
+[MAIN GOAL]
+Goal Title=Main Goal 
+Goal Description=This is your main goal. 
+
+Deadline=2010-06-30
+// You may set a direct deadline for the goals or specify the number of game years that the player is given to achieve the goal. 
+// In the current example, we set the deadline for this goal. 
+
+[MAIN GOAL VALUES]
+Player Company Annual Revenue=200
+
+[MAIN GOAL REWARDS] 
+Score change=50
+
+//-------------------------------------------------------------------//
+
+[SUBGOAL]
+Goal Title=First Subgoal 
+Goal Description=This is your first subgoal. 
+
+Goal Achieved Text=Congratulations! You have achieved your first subgoal.
+Goal Failed Text=Sorry, you have failed your first subgoal. 
+
+// If this is a defined, the goal image will be displayed on the goal report. 
+// The image must be in JPG format, stored in ¡°script\image¡± subfolder under the Capitalism Lab folder, and the image size must not be larger than 395x85.
+Goal Image=subgoal image 1.jpg
+
+// This subgoal will not be available until 1st January 1991
+Goal Available Date=1991-01-01
+
+// The deadline for this subgoal is defined. 
+Deadline=1995-09-30
+
+[SUBGOAL VALUES]
+Player Company Annual Revenue=2
+
+[SUBGOAL REWARDS] 
+Score change=10
+
+// If the player fails to achieve this subgoal before the deadline, the following penalties will be imposed on the player. 
+[SUBGOAL PENALTIES] 
+Score change=-5
+Personal Cash change=-1000000
+COO expertise change=farming, -15 
+Tech Change=Jeans, -50
+
+//-------------------------------------------------------------------//
+
+[SUBGOAL]
+Goal Title=Second Subgoal 
+Goal Description=This is your second subgoal. 
+
+Goal Achieved Text=Congratulations! You have achieved your second subgoal.
+Goal Failed Text=Sorry, you have failed your second subgoal. 
+
+// If this is defined, this goal will only become available when the player has successfully completed another goal you specified (parent goal).
+// In the current example, the player has to first achieve the "First Subgoal" before the "Second Subgoal" will become available. 
+Parent Goal=First Subgoal
+
+Number of Game Years=8
+
+[SUBGOAL VALUES]
+Ownership=80
+
+[SUBGOAL REWARDS] 
+Score change=20
+
+[SUBGOAL PENALTIES] 
+Score change=-10

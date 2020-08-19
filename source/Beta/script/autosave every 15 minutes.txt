@@ -1,0 +1,8 @@
+[HEADER]
+Title=Autosave every 15 minutes in real time 
+Description=This script modifies the autosave setting to perform an autosave once every 15 minutes in real time 
+
+//------------------------------------------------------------------------------------------------//
+
+[SPECIAL RULES]
+Auto Save Interval Minutes=15

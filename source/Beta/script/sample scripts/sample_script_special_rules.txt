@@ -1,0 +1,92 @@
+[HEADER]
+Title=Sample script - Special Rules 
+Description=This is a sample script for Capitalism Lab, listing all variables under the [SPECIAL RULES] section. 
+
+[SPECIAL RULES]
+Constant Game Speed=3
+Years of Advanced Start for AI=1, Stock Purchase Allowed
+
+// Please note that this is a sample script that lists all variables under this section. Normally when you have defined "Years of Advanced Start for AI", 
+// "Constant Game Speed" should not be defined as the player should be allowed to alter the game speed during the period of AI advance start. 
+
+// CEO Salary Modifier=<1 to 200>
+// COO Salary Modifier=<1 to 200>
+// CTO Salary Modifier=<1 to 200>
+// CMO Salary Modifier=<1 to 200>
+//
+// Salary modifiers for senior management staff. The default value is 100. If you assign a value lower than 100, the expected salary for the job position will be lower. On the other hand, assigning a value higher than 100 will increase the expected salary for the job position.
+// 
+// Examples:
+// COO Salary Modifier=70
+// The expected salary for COO will become 70% of the original range.
+// 
+// CTO Salary Modifier=130
+// The expected salary for CTO will become 130% of the original range. 
+
+//.................................................................................//
+
+Tech Cost Modifier=<1 to 1000>
+
+//This is a modifier for technology acquisition costs. The default value is 100. If you assign a value lower than 100, technology acquisition costs will be reduced. On the other hand, assigning a value higher than 100 will increase technology acquisition costs.
+//
+//Example:
+//Tech Cost Modifier =150
+//Technology acquisition costs will become 150% of the original 
+
+//.................................................................................//
+
+Training Effect Modifier=<1 to 1000>
+
+//You may use this to modify to training effect on staff. The default value is 100. If you assign a value lower than 100, the experience level of your staff being trained will increase more slowly. Setting a value higher than 100 will increase the training effect. 
+//
+//Example:
+//Training Effect Modifier=200
+//With the same training expenditure, your staff¡¯s experience level will increase two times as fast.
+
+//.................................................................................//
+
+Unlimited Natural Resources=<Yes,No>
+
+//If you set this to Yes, when a natural resource firm (mine/oil well/logging camp) has used up its reserve, instead of stopping its operation, it will continue to produce the natural resources with a new recurring cost.
+//
+//The recurring cost of producing a single unit of the natural resource will equal to the original cost of acquiring natural resource site, divided by the original reserve amount, and adjusted for the current inflation.
+
+//.................................................................................//
+
+Natural Resources Price Premium=No
+
+//Use this line to disable the Price Premium system for natural resources.
+
+//.................................................................................//
+
+Factory Capacity Modifier=<50 to 500>
+
+//You can increase the production capacity of all factories with this new script command.
+//
+//If you oftentimes find the production capacity of factories too low and have to set up multiple factories to produce the same product, this script command will be useful to you.
+
+//It modifies the capacity of all factories. The default value is 100. Assigning a value higher than 100 will increase the capacities of all factories. The setup and operating costs of factories will also increase accordingly.
+
+//.................................................................................//
+
+Fixed Brand Strategy=Corporate Brand
+
+//Fixed Brand Strategy=<Corporate Brand/Range Brand/Unique Brand>
+//
+//With this statement, the player corporation¡¯s brand strategy is fixed to the specified strategy and cannot be changed. 
+
+//.................................................................................//
+
+Corporate Brand Rating=50,20
+
+//Corporate Brand Rating=<brand awareness rating>,<brand loyalty rating>
+//
+//Initialize the player¡¯s corporate brand ratings to specific values in the beginning of the game. Please note that a randomness of -5 to +5 in values will be automatically applied.  And the player must be using corporate brand strategy in order to benefit from this.
+
+//.................................................................................//
+
+Anti-exploitation Game Rules=On
+
+//This line enables the special anti-exploitation game rule.
+//Under the special anti-exploitation game rule, your company can only merge with another company of which it DIRECTLY owns a majority of the shares.
+//This prevents the parent company from merging with any subsidiaries owned by the first subsidiary. In other words, only the first subsidiary can be merged with the parent company.
