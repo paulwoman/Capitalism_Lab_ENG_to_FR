@@ -5678,6 +5678,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Back to the previous firm (hotkey: q)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T091753Z" creationid="Olivier" creationdate="20200819T091723Z">
+        <seg>Revenir à l'entreprise précédente (touche de raccourci : q)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Backward Integration</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092603Z" creationid="Olivier" creationdate="20200506T092603Z">
@@ -8650,6 +8658,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T150838Z" creationid="Olivier" creationdate="20200503T150838Z">
         <seg>Cliquez ici pour saisir un nombre exact (raccourci  : '=')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to view its #Balance Sheet#.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T091914Z" creationid="Olivier" creationdate="20200819T091914Z">
+        <seg>Cliquez ici pour consulter son #bilan financier#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click here to view its #Income Statement#.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T091949Z" creationid="Olivier" creationdate="20200819T091949Z">
+        <seg>Cliquez ici pour consulter #compte de résultat#.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14716,6 +14740,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T131820Z" creationid="Olivier" creationdate="20200427T131820Z">
         <seg>Revenir à l'entreprise sélectionnée précédemment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go back to the previously selected firm.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T091818Z" creationid="Olivier" creationdate="20200819T091807Z">
+        <seg>Retourne à l'entreprise sélectionnée précédemment</seg>
       </tuv>
     </tu>
     <tu>
@@ -36669,6 +36701,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155301Z" creationid="Olivier" creationdate="20200507T155301Z">
         <seg>Ce chiffre est obtenu en multipliant par 12 mois les derniers revenus mensuels d'intérêts sur les prêts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This figure is the amount of cash that your corporation currently has.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T091836Z" creationid="Olivier" creationdate="20200819T091836Z">
+        <seg>Ce chiffre correspond au montant des liquidités dont dispose actuellement votre société.</seg>
       </tuv>
     </tu>
     <tu>
