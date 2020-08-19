@@ -750,6 +750,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// AI Expertise Level=&lt;None, Low, Moderate, High&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T115240Z" creationid="Olivier" creationdate="20200819T115232Z">
+        <seg>// Niveau expertise de l'IA=&lt;None, Low, Moderate, High&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// AI Friendly Merger=&lt;On, Off&gt;</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151325Z" creationid="Inrepublica" creationdate="20200423T151325Z">
@@ -3034,6 +3042,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203355Z" creationid="Inrepublica" creationdate="20200422T203355Z">
         <seg>Agressivité des prix de l'IA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AI Pricing Aggressiveness=&lt;Very Low, Low, Moderate, High&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T115214Z" creationid="Olivier" creationdate="20200819T115214Z">
+        <seg>Agressivité de l'IA=&lt;Very Low, Low, Moderate, High&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -39545,6 +39561,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unit Linked=Sales, Advertising, 2, 5</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T115044Z" creationid="Olivier" creationdate="20200819T115044Z">
+        <seg>Unit Linked=Sales, Advertising, 2, 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unit Linked=Sales, Advertising, 3, 5</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T170517Z" creationid="Acer" creationdate="20200424T170517Z">
@@ -62532,6 +62556,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T114945Z" creationid="Olivier" creationdate="20200819T114945Z">
         <seg>[3279]&lt;OEXP&gt;Dépenses d'exploitation|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3280]&lt;NAT1&gt;Your Nation's Ranking:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T115027Z" creationid="Olivier" creationdate="20200819T115027Z">
+        <seg>[3280]&lt;NAT1&gt;Classement de votre pays :|</seg>
       </tuv>
     </tu>
     <tu>
