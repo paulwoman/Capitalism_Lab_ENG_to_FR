@@ -27497,6 +27497,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Please wait until public investors have more money.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T102517Z" creationid="Olivier" creationdate="20200819T102517Z">
+        <seg>Veuillez attendre que les investisseurs publics aient plus d'argent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Plus d'info dans le site web|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100002Z" creationid="Olivier" creationdate="20200429T100002Z">
@@ -35313,6 +35321,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The headhunt was a success.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T102648Z" creationid="Olivier" creationdate="20200819T102648Z">
+        <seg>Le recrutement a été un succès.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The higher the city's competitiveness rating, the larger number of people are employed in the local industry.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200505T162636Z" creationid="Olivier" creationdate="20200505T162636Z">
@@ -41453,6 +41469,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T154137Z" creationid="Olivier" creationdate="20200507T154137Z">
         <seg>Vous pouvez le consulter sur le bilan à l'écran Détails de la société.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can view the "Public Investors' Money Available to Your Company" displayed at the top of the city view screen.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T102541Z" creationid="Olivier" creationdate="20200819T102541Z">
+        <seg>Vous pouvez consulter "l'argent des investisseurs publics disponible pour votre entreprise" affiché en haut de l'écran de visualisation de la ville.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -62188,6 +62212,54 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T102505Z" creationid="Olivier" creationdate="20200819T102505Z">
         <seg>[3242]&lt;BNPI&gt;Désolé, vous ne pouvez pas émettre de nouvelles obligations pour le moment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3243]&lt;THH1&gt;The transfer has been executed successfully.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T102610Z" creationid="Olivier" creationdate="20200819T102610Z">
+        <seg>[3243]&lt;THH1&gt;Le transfert a été exécuté avec succès.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3244]&lt;THH2&gt;Sorry, you don't have sufficient cash to pay the sign up bonus.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T102623Z" creationid="Olivier" creationdate="20200819T102623Z">
+        <seg>[3244]&lt;THH2&gt;Désolé, vous n'avez pas assez d'argent pour payer la prime d'inscription.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3245]&lt;THH3&gt;Congratulations!</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T102629Z" creationid="Olivier" creationdate="20200819T102629Z">
+        <seg>[3245]&lt;THH3&gt;Félicitations !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3246]&lt;ITRN&gt;(Not including research and development staff)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T102714Z" creationid="Olivier" creationdate="20200819T102714Z">
+        <seg>[3246]&lt;ITRN&gt;(Personnel de recherche et développement non inclus)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3247]&lt;ASBI&gt;Regularly adjust team lead salaries based on inflation|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T102727Z" creationid="Olivier" creationdate="20200819T102727Z">
+        <seg>[3247]&lt;ASBI&gt;Ajuster régulièrement les salaires des chefs d'équipe en fonction de l'inflation|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3248]&lt;ATL1&gt;Adjust Training Levels for all your firms:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T102743Z" creationid="Olivier" creationdate="20200819T102743Z">
+        <seg>[3248]&lt;ATL1&gt;Ajustez les niveaux de formation pour toutes vos entreprises :|</seg>
       </tuv>
     </tu>
     <tu>
