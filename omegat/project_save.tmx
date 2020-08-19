@@ -61784,10 +61784,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3199]&lt;BNOT&gt;Sorry, the company does not meet the bond issuance requirement.\nTry increasing the company's equity value.\n(You can view the equity value in the balance sheet.)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T094642Z" creationid="Olivier" creationdate="20200819T094642Z">
+        <seg>[3199]&lt;BNOT&gt;Désolé, la société ne remplit pas les conditions d'émission d'obligations.\n Essayez d'augmenter la valeur des fonds propres de la société. (Vous pouvez consulter la valeur des fonds propres dans le bilan financier.)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3199]&lt;BNOT&gt;Sorry, the company does not meet the bond issuance requirement.\nTry increasing the company's equity.|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200720T204426Z" creationid="Olivier" creationdate="20200710T102303Z">
         <seg>[3199]&lt;BNOT&gt;Désolé, la société ne répond pas à l'exigence d'émission d'obligations.\n Essayez d'augmenter le capital de la société.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3200]&lt;DLE1&gt;Sorry, this MOD cannot be loaded because the following DLC that it requires is not enabled:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T094806Z" creationid="Olivier" creationdate="20200819T094806Z">
+        <seg>[3200]&lt;DLE1&gt;Désolé, ce MOD ne peut pas être chargé car le DLC suivant dont il a besoin n'est pas activé :|</seg>
       </tuv>
     </tu>
     <tu>
