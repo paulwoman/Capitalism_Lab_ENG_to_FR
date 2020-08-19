@@ -17169,6 +17169,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>How to increase a city's competitiveness</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T092918Z" creationid="Olivier" creationdate="20200819T092918Z">
+        <seg>How to increase a city's competitiveness</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>How-to web page</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T160605Z" creationid="Inrepublica" creationdate="20200422T160605Z">
@@ -18309,6 +18317,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151954Z" creationid="Olivier" creationdate="20200507T151954Z">
         <seg>INCLAIM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>INC_COMP</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T092910Z" creationid="Olivier" creationdate="20200819T092910Z">
+        <seg>INC_COMP</seg>
       </tuv>
     </tu>
     <tu>
@@ -21131,8 +21147,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>It shows the amount of stock.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T092908Z" creationid="Olivier" creationdate="20200819T092908Z">
-        <seg>Il indique la quantité de l'inventaire.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T093011Z" creationid="Olivier" creationdate="20200819T092908Z">
+        <seg>Il indique la quantité de marchandises.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32603,8 +32619,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Stock Inventory</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T092842Z" creationid="Olivier" creationdate="20200819T092842Z">
-        <seg>Inventaire</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T093005Z" creationid="Olivier" creationdate="20200819T092842Z">
+        <seg>Stock de marchandises</seg>
       </tuv>
     </tu>
     <tu>
