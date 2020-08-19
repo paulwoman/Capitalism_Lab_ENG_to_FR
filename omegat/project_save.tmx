@@ -61946,8 +61946,16 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>[3215]&lt;SUB0&gt;Sorry, the maximum number of corporations allowed in the game has been reached.\n\nIt is not possible to set up a new subsidiary company at the moment.|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T100047Z" creationid="Olivier" creationdate="20200819T100047Z">
-        <seg>[3215]&lt;SUB0&gt;Désolé, le nombre maximum de sociétés autorisées dans le jeu a été atteind.\n\nIl n'est pas possible de créer une nouvelle filiale pour le moment|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T100126Z" creationid="Olivier" creationdate="20200819T100047Z">
+        <seg>[3215]&lt;SUB0&gt;Désolé, le nombre maximum de sociétés autorisées dans le jeu a été atteint.\n\nIl n'est pas possible de créer une nouvelle filiale pour le moment|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3216]&lt;NSU1&gt;Please enter a name for your new subsidiary company.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T100252Z" creationid="Olivier" creationdate="20200819T100252Z">
+        <seg>[3216]&lt;NSU1&gt;Veuillez entrer un nom pour votre nouvelle filiale.|</seg>
       </tuv>
     </tu>
     <tu>
