@@ -2382,6 +2382,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A high utilization rate means that the team is operating efficiently.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T092820Z" creationid="Olivier" creationdate="20200819T092820Z">
+        <seg>Un taux d'utilisation élevé signifie que l'équipe fonctionne efficacement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A high utilization rate means that the unit is operating efficiently.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200714T083556Z" creationid="Olivier" creationdate="20200714T083556Z">
@@ -2530,6 +2538,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091139Z" creationid="Olivier" creationdate="20200508T091139Z">
         <seg>Un long temps d'attente des clients affecte négativement la qualité de service de ce front office de l'assurance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A low rate means that the team has idle time and its capacity is underutilized.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T092830Z" creationid="Olivier" creationdate="20200819T092830Z">
+        <seg>Un taux faible signifie que l'équipe a des temps morts et que sa capacité est sous-utilisée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8470,6 +8486,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click here to open the #Goal report#.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T092617Z" creationid="Olivier" creationdate="20200819T092617Z">
+        <seg>Cliquez ici pour ouvrir le #Rapport d'objectif#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click here to open the Corporate Logo selection window.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200606T143331Z" creationid="Olivier" creationdate="20200606T143331Z">
@@ -9722,6 +9746,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151037Z" creationid="Olivier" creationdate="20200504T151037Z">
         <seg>Confirmer le changement de prix (touche de raccourci : '*' ou ']')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Confirm the price change (hotkey: ']')</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T092703Z" creationid="Olivier" creationdate="20200819T092703Z">
+        <seg>Confirmer le changement de prix (touche de raccourci : ']' )</seg>
       </tuv>
     </tu>
     <tu>
@@ -12650,6 +12682,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150834Z" creationid="Inrepublica" creationdate="20200425T150834Z">
         <seg>Expansion|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Experience Level of the Team</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T092802Z" creationid="Olivier" creationdate="20200819T092802Z">
+        <seg>Niveau d'expérience de l'équipe</seg>
       </tuv>
     </tu>
     <tu>
@@ -21089,6 +21129,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It shows the amount of stock.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T092908Z" creationid="Olivier" creationdate="20200819T092908Z">
+        <seg>Il indique la quantité de l'inventaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It shows the average ratings of this product in the current city.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150544Z" creationid="Olivier" creationdate="20200502T150544Z">
@@ -21141,6 +21189,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150728Z" creationid="Olivier" creationdate="20200502T150728Z">
         <seg>Cela montre le pourcentage de la demande de produits dans cette unité d'achat qui est satisfaite par l'offre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It shows this product's market share in the current city.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T092751Z" creationid="Olivier" creationdate="20200819T092751Z">
+        <seg>Cela indique la part de marché de ce produit dans la ville actuelle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22361,6 +22417,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MARSHARE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T092724Z" creationid="Olivier" creationdate="20200819T092724Z">
+        <seg>MARSHARE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MAXAIDIG</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145915Z" creationid="Inrepublica" creationdate="20200422T145915Z">
@@ -23077,6 +23141,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T103612Z" creationid="Olivier" creationdate="20200428T103612Z">
         <seg>Marco Economy Realism=High</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Market Share Chart</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T092737Z" creationid="Olivier" creationdate="20200819T092737Z">
+        <seg>Graphique des parts de marché</seg>
       </tuv>
     </tu>
     <tu>
@@ -31649,6 +31721,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Set a New Price</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T092721Z" creationid="Olivier" creationdate="20200819T092721Z">
+        <seg>Fixer un nouveau prix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Set a budget here for upgrading its infrastructure capacity if most of its capacity has already been utilized.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T094045Z" creationid="Olivier" creationdate="20200507T094045Z">
@@ -32521,6 +32601,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Stock Inventory</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T092842Z" creationid="Olivier" creationdate="20200819T092842Z">
+        <seg>Inventaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Stock Market</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150754Z" creationid="Inrepublica" creationdate="20200422T150754Z">
@@ -33209,6 +33297,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>T_LEVEL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T092752Z" creationid="Olivier" creationdate="20200819T092752Z">
+        <seg>T_LEVEL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>T_OFFICE</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T142242Z" creationid="Olivier" creationdate="20200503T142242Z">
@@ -33245,6 +33341,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T152139Z" creationid="Inrepublica" creationdate="20200423T152139Z">
         <seg>T_SETLND</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>T_STOCK</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T092831Z" creationid="Olivier" creationdate="20200819T092831Z">
+        <seg>T_STOCK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>T_UTIL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T092804Z" creationid="Olivier" creationdate="20200819T092804Z">
+        <seg>T_UTIL</seg>
       </tuv>
     </tu>
     <tu>
