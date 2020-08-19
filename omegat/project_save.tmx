@@ -42234,6 +42234,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You need to belong to a political party in order to do so.\n\nTo form a new political party, access the Information Center and select [Political Parties] and then select [Form Your Own Party].|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T101330Z" creationid="Olivier" creationdate="20200819T101330Z">
+        <seg>Vous devez pour cela appartenir à un parti politique.\n\nPour former un nouveau parti politique, accédez au centre d'information et sélectionnez [Partis politiques], puis [Former votre propre parti].|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You now aim at taking your business to the next level and expand into new markets.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T213829Z" creationid="Olivier" creationdate="20200429T213829Z">
@@ -62076,6 +62084,30 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T101203Z" creationid="Olivier" creationdate="20200819T101203Z">
         <seg>[3230]&lt;NCIP&gt;Désolé, vous ne pouvez pas fonder une nouvelle ville.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3231]&lt;MAYO&gt;Mayor of|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T101337Z" creationid="Olivier" creationdate="20200819T101337Z">
+        <seg>[3231]&lt;MAYO&gt;Maire de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3232]&lt;MGOA&gt;Main Goal|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T101432Z" creationid="Olivier" creationdate="20200819T101432Z">
+        <seg>[3232]&lt;MGOA&gt;Objectif principal|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3233]&lt;SGOA&gt;SubGoal|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T101620Z" creationid="Olivier" creationdate="20200819T101620Z">
+        <seg>[3233]&lt;SGOA&gt;Sous-objectif|</seg>
       </tuv>
     </tu>
     <tu>
