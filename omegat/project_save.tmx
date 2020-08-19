@@ -42698,6 +42698,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Your new subsidiary company has been set up.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T100532Z" creationid="Olivier" creationdate="20200819T100532Z">
+        <seg>Votre nouvelle filiale a été créée.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Your next move is to expand into new markets, setting your sights on electronic and communication products.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T222253Z" creationid="Olivier" creationdate="20200429T222253Z">
@@ -58546,8 +58554,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>[2806]&lt;PSTO&gt;Stock|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093845Z" creationid="Olivier" creationdate="20200512T093845Z">
-        <seg>[2806]&lt;PSTO&gt;Stock|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T100318Z" creationid="Olivier" creationdate="20200512T093845Z">
+        <seg>[2806]&lt;PSTO&gt;Inventaire|</seg>
       </tuv>
     </tu>
     <tu>
@@ -61956,6 +61964,46 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T100252Z" creationid="Olivier" creationdate="20200819T100252Z">
         <seg>[3216]&lt;NSU1&gt;Veuillez entrer un nom pour votre nouvelle filiale.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3217]&lt;NSU2&gt;Sorry, you cannot form a new subsidiary company as the maximum number of companies allowed in the game has been reached.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T100354Z" creationid="Olivier" creationdate="20200819T100354Z">
+        <seg>[3217]&lt;NSU2&gt;Désolé, vous ne pouvez pas créer une nouvelle filiale car le nombre maximum de sociétés autorisées dans le jeu a été atteint.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3218]&lt;NSU3&gt;Sorry, you cannot set up a new subsidiary company at the moment.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T100423Z" creationid="Olivier" creationdate="20200819T100423Z">
+        <seg>[3218]&lt;NSU3&gt;Désolé, vous ne pouvez pas créer une nouvelle filiale pour le moment.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3219]&lt;NSU4&gt;Congratulations!</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T100432Z" creationid="Olivier" creationdate="20200819T100432Z">
+        <seg>[3219]&lt;NSU4&gt;Félicitations !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3220]&lt;BHQF&gt;You must build Bank Headquarters first.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T100545Z" creationid="Olivier" creationdate="20200819T100545Z">
+        <seg>[3220]&lt;BHQF&gt;Vous devez d'abord construire le siège de la banque.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3221]&lt;IHQF&gt;You must build Bank Headquarters first.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T100600Z" creationid="Olivier" creationdate="20200819T100600Z">
+        <seg>[3221]&lt;IHQF&gt;Vous devez d'abord construire le siège de la banque.|</seg>
       </tuv>
     </tu>
     <tu>
