@@ -62362,8 +62362,32 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>[3261]&lt;MODU&gt;MOD in use:|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T113854Z" creationid="Olivier" creationdate="20200819T113854Z">
-        <seg>[3261]&lt;MODU&gt;MOD utilisé:|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T113908Z" creationid="Olivier" creationdate="20200819T113854Z">
+        <seg>[3261]&lt;MODU&gt;MOD utilisé :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3262]&lt;MODF&gt;For MOD:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T113918Z" creationid="Olivier" creationdate="20200819T113902Z">
+        <seg>[3262]&lt;MODF&gt;Pour le MOD :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3263]&lt;APIN&gt;Regularly adjust prices based on inflation|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T114008Z" creationid="Olivier" creationdate="20200819T113904Z">
+        <seg>[3263]&lt;APIN&gt;Ajuster régulièrement les salaires des chefs d'équipe en fonction de l'inflation|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3264]&lt;ASIN&gt;Adjust advertising spending based on inflation|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T114028Z" creationid="Olivier" creationdate="20200819T114028Z">
+        <seg>[3264]&lt;ASIN&gt;Ajuster les dépenses publicitaires en fonction de l'inflation|</seg>
       </tuv>
     </tu>
     <tu>
