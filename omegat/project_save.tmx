@@ -41761,6 +41761,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You have successfully privatized this company.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T095757Z" creationid="Olivier" creationdate="20200819T095757Z">
+        <seg>Votre entreprise a été privatisée avec succès.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You have successfully raised the needed cash for growing your business.^^However, it did come with a price - the issuing of the new shares diluted your ownership of your corporation a bit.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T205404Z" creationid="Acer" creationdate="20200424T205404Z">
@@ -61924,6 +61932,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T095630Z" creationid="Olivier" creationdate="20200819T095630Z">
         <seg>[3213]&lt;PRV1&gt;Félicitations !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3214]&lt;PRV2&gt;Congratulations!</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T095740Z" creationid="Olivier" creationdate="20200819T095740Z">
+        <seg>[3214]&lt;PRV2&gt;Félicitations !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3215]&lt;SUB0&gt;Sorry, the maximum number of corporations allowed in the game has been reached.\n\nIt is not possible to set up a new subsidiary company at the moment.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T100047Z" creationid="Olivier" creationdate="20200819T100047Z">
+        <seg>[3215]&lt;SUB0&gt;Désolé, le nombre maximum de sociétés autorisées dans le jeu a été atteind.\n\nIl n'est pas possible de créer une nouvelle filiale pour le moment|</seg>
       </tuv>
     </tu>
     <tu>
