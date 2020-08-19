@@ -29441,6 +29441,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>RMONEYS0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T091429Z" creationid="Olivier" creationdate="20200819T091429Z">
+        <seg>RMONEYS0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ROE is considered a measure of how effectively the bank is using its capital to generate profits.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T090911Z" creationid="Olivier" creationdate="20200508T090911Z">
@@ -36945,6 +36953,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This option can only be used in conjuction with #City Economic Simulation DLC#.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T091517Z" creationid="Olivier" creationdate="20200819T091517Z">
+        <seg>Cette option ne peut être utilisée qu'en conjonction avec le #DLC Simulation économique des villes#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This option determines whether global competitiveness ratings will increase over time, progressively making the game more challenging.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T170824Z" creationid="Inrepublica" creationdate="20200422T170824Z">
@@ -38817,6 +38833,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Typically a single investment, as a percentage of the VC's total #net worth#, will not exceed the percent specified here.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T091427Z" creationid="Olivier" creationdate="20200819T091427Z">
+        <seg>En règle générale, un seul investissement, en pourcentage de la valeur nette totale du CR, ne dépasse pas le pourcentage indiqué ici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>UNSELALL</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091946Z" creationid="Olivier" creationdate="20200508T091946Z">
@@ -40205,6 +40229,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200526T223504Z" creationid="Acer" creationdate="20200424T170010Z">
         <seg>Lorsqu'il s'agit de choisir un média pour faire de la publicité, vous devez tenir compte des ~points de classement~ et du ~coût publicitaire~ de chaque média.^^Plus les ~points de classement~ sont élevés, plus la ~part d'audience~ est importante.^^Le ~coût publicitaire~ est simplement le coût pour que votre publicité soit vue mille fois~ par des clients potentiels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When it is enabled, money supply is more realistically simulated.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T091658Z" creationid="Olivier" creationdate="20200819T091658Z">
+        <seg>Lorsqu'elle est activée, la masse monétaire est simulée de manière plus réaliste.</seg>
       </tuv>
     </tu>
     <tu>
