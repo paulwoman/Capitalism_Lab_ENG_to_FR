@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#Double-click# here to see tips for #improving game running speed#.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T092529Z" creationid="Olivier" creationdate="20200819T092529Z">
+        <seg>##Double-cliquez# ici pour voir des conseils pour #améliorer la vitesse de fonctionnement du jeu#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#Double-click# to apply the change of this setting to #all your firms#.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200606T143608Z" creationid="Olivier" creationdate="20200606T143608Z">
@@ -8718,6 +8726,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click the speed dial to change the game speed.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T092441Z" creationid="Olivier" creationdate="20200819T092441Z">
+        <seg>Cliquez sur la touche de numérotation rapide pour modifier la vitesse du jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the ~Add Product icon~, then choose ~Seaport~ from the supplier list, and select a product to add to your store.^^This time, make sure that you select a different product than the one already on sale in your store.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T213909Z" creationid="Olivier" creationdate="20200422T170748Z">
@@ -14576,6 +14592,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Game Speed (hotkey: '0' to pause, '1' to '5' to set speed)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T092430Z" creationid="Olivier" creationdate="20200819T092337Z">
+        <seg>Vitesse du jeu (touche de raccourci : "0" pour mettre en pause, "1" à "5" pour régler la vitesse)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Game Speed (hotkey: '1' to '5')</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144704Z" creationid="Olivier" creationdate="20200428T144704Z">
@@ -14770,8 +14794,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Go to the Headquarters.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T092331Z" creationid="Olivier" creationdate="20200819T092331Z">
-        <seg>Se rendre aux QG.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T092347Z" creationid="Olivier" creationdate="20200819T092331Z">
+        <seg>Se rendre aux Quartier Général.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16941,6 +16965,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T103648Z" creationid="Olivier" creationdate="20200506T103648Z">
         <seg>Raccourci : Ctrl-I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hotkey: Ctrl-M</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T092550Z" creationid="Olivier" creationdate="20200819T092550Z">
+        <seg>Touche de raccourci : Ctrl-M</seg>
       </tuv>
     </tu>
     <tu>
