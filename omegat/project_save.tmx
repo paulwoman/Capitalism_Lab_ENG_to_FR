@@ -7846,6 +7846,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>City=Barcelona</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T084308Z" creationid="Olivier" creationdate="20200819T084308Z">
+        <seg>City=Barcelona</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>City=Beijing</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100434Z" creationid="Olivier" creationdate="20200429T100434Z">
@@ -7986,6 +7994,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T142056Z" creationid="Olivier" creationdate="20200425T142056Z">
         <seg>City=London</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City=Los Angeles</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T084304Z" creationid="Olivier" creationdate="20200819T084304Z">
+        <seg>City=Los Angeles</seg>
       </tuv>
     </tu>
     <tu>
@@ -11318,6 +11334,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=You started your company at the dawn of the software industry where opportunities are abundant.^^To become the software giant of tomorrow, you must invest aggressively into R&amp;D to ramp up your company's innovation capability and execute product launches flawlessly to establish strong foothold in key software markets and ultimately dominate them.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T084509Z" creationid="Olivier" creationdate="20200819T084509Z">
+        <seg>Description=You started your company at the dawn of the software industry where opportunities are abundant.^^To become the software giant of tomorrow, you must invest aggressively into R&amp;D to ramp up your company's innovation capability and execute product launches flawlessly to establish strong foothold in key software markets and ultimately dominate them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=You started your company at the dawn of the software industry where opportunities are abundant.^^To become the software giant of tomorrow, you must invest aggressively into R&amp;D to ramp up your company's technological prowess and execute product launches flawlessly to establish strong foothold in key software markets and ultimately dominate them.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200606T142445Z" creationid="Olivier" creationdate="20200606T142445Z">
@@ -11886,10 +11910,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>E-Commerce Annual Revenue=200</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T084441Z" creationid="Olivier" creationdate="20200819T084441Z">
+        <seg>E-Commerce Annual Revenue=200</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>E-Commerce Sales</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T083500Z" creationid="Olivier" creationdate="20200507T083500Z">
         <seg>E-Commerce Sales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>E-Commerce User Base=4000000</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T084442Z" creationid="Olivier" creationdate="20200819T084442Z">
+        <seg>E-Commerce User Base=4000000</seg>
       </tuv>
     </tu>
     <tu>
@@ -15321,6 +15361,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=You will win this scenario when your company’s e-commerce sales reach $200 million annually and your company’s market capitalization surpasses the $1 billion mark.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T084439Z" creationid="Olivier" creationdate="20200819T084414Z">
+        <seg>Goal Description=Vous gagnerez ce scénario quand les ventes en e-commerce atteindront 200 millions $ par an et que la capitalisation boursière de votre entreprise dépassera la barre du milliard $).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=You win this subgoal if you manage to deliver impressive business results while you work towards the bigger goal of growing the cities.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T100431Z" creationid="Olivier" creationdate="20200430T100431Z">
@@ -15581,6 +15629,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T221015Z" creationid="Olivier" creationdate="20200429T221015Z">
         <seg>Goal Title=Développer un portefeuille de produits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=E-commerce Behemoth</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T084325Z" creationid="Olivier" creationdate="20200819T084325Z">
+        <seg>Goal Title=Mastodonte du commerce en ligne</seg>
       </tuv>
     </tu>
     <tu>
@@ -20409,6 +20465,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Internet Market Share=Microblogging, 50</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T084505Z" creationid="Olivier" creationdate="20200819T084505Z">
+        <seg>Internet Market Share=Microblogging, 50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Internet Market Share=News Website, 50</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200606T142313Z" creationid="Olivier" creationdate="20200606T142313Z">
@@ -20469,6 +20533,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200606T142415Z" creationid="Olivier" creationdate="20200606T142415Z">
         <seg>Internet Market Share=Video-sharing Site, 60</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Internet Market Share=Video-sharing Website, 60</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T084502Z" creationid="Olivier" creationdate="20200819T084502Z">
+        <seg>Internet Market Share=Video-sharing Website, 60</seg>
       </tuv>
     </tu>
     <tu>
@@ -26933,6 +27005,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220703Z" creationid="Olivier" creationdate="20200429T220703Z">
         <seg>Player Company Annual Revenue=900</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Player Company Market Cap=1000</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T084441Z" creationid="Olivier" creationdate="20200819T084441Z">
+        <seg>Player Company Market Cap=1000</seg>
       </tuv>
     </tu>
     <tu>
@@ -37427,8 +37507,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Title=E-commerce Behemoth</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T083654Z" creationid="Olivier" creationdate="20200819T075747Z">
-        <seg>Title=Le géant du commerce électronique</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T084400Z" creationid="Olivier" creationdate="20200819T075747Z">
+        <seg>Title=Mastodonte du commerce en ligne</seg>
       </tuv>
     </tu>
     <tu>
@@ -37627,8 +37707,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Title=Software Giant</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200606T142434Z" creationid="Olivier" creationdate="20200606T142434Z">
-        <seg>Titre=Géant logiciel</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T084516Z" creationid="Olivier" creationdate="20200606T142434Z">
+        <seg>Titre=Géant du logiciel</seg>
       </tuv>
     </tu>
     <tu>
