@@ -62064,6 +62064,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3229]&lt;NPCM&gt;You do not have enough PERSONAL money for building your mansion.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T101113Z" creationid="Olivier" creationdate="20200819T101113Z">
+        <seg>[3229]&lt;NPCM&gt;Vous n'avez pas assez d'argent PERSONNEL pour construire votre manoir.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3230]&lt;NCIP&gt;Sorry, you cannot found a new city.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T101203Z" creationid="Olivier" creationdate="20200819T101203Z">
+        <seg>[3230]&lt;NCIP&gt;Désolé, vous ne pouvez pas fonder une nouvelle ville.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202555Z" creationid="Inrepublica" creationdate="20200422T202555Z">
