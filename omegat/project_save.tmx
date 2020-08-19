@@ -35649,6 +35649,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The operation of this University is currently suspended.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T093830Z" creationid="Olivier" creationdate="20200819T093830Z">
+        <seg>Le fonctionnement de cette université est actuellement suspendu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The operation of this public facility is suspended due to lack of government funding.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T172155Z" creationid="Olivier" creationdate="20200503T172155Z">
@@ -38277,6 +38285,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T204557Z" creationid="Acer" creationdate="20200424T204557Z">
         <seg>Pour ce faire, sélectionnez ~Actions financières~ dans le menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To enable research, please set the #Operation slider# of this university to a value larger than zero.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T093852Z" creationid="Olivier" creationdate="20200819T093852Z">
+        <seg>Pour permettre la recherche, veuillez régler le curseur #Fonctionnement# de cette université sur une valeur supérieure à zéro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58484,6 +58500,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093802Z" creationid="Olivier" creationdate="20200512T093802Z">
         <seg>[2804]&lt;BF07&gt;Prix Premium|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2805]&lt;BF08&gt;Hold the [SHIFT] key concurrently to Build More|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T093933Z" creationid="Olivier" creationdate="20200819T093933Z">
+        <seg>[2805]&lt;BF08&gt;Maintenez la touche [SHIFT] enfoncée simultanément pour construire plus|</seg>
       </tuv>
     </tu>
     <tu>
