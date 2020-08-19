@@ -62264,6 +62264,54 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3249]&lt;ATL2&gt;Adjust Training Levels for all its firms:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T102758Z" creationid="Olivier" creationdate="20200819T102758Z">
+        <seg>[3249]&lt;ATL2&gt;Ajuster les niveaux de formation pour toutes ses entreprises :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3250]&lt;ATL3&gt;Sorry, you currently do not have any firms.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T102817Z" creationid="Olivier" creationdate="20200819T102817Z">
+        <seg>[3250]&lt;ATL3&gt;Désolé, vous n'avez actuellement aucune entreprise.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3251]&lt;ATL4&gt;Sorry, this corporation currently does not have any firms.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T102857Z" creationid="Olivier" creationdate="20200819T102857Z">
+        <seg>[3251]&lt;ATL4&gt;Désolé, cette société n'a actuellement aucune firme.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3252]&lt;ATL5&gt;The new training setting has been applied to all your firms.\n(Total: %1d firms)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T103033Z" creationid="Olivier" creationdate="20200819T102920Z">
+        <seg>[3252]&lt;ATL5&gt;Le nouveau paramètre de formation a été appliqué à toutes vos entreprises\n(Total : %1d firmes)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3253]&lt;ATL6&gt;The new training setting has been applied to all its firms.\n(Total: %1d firms)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T103041Z" creationid="Olivier" creationdate="20200819T102926Z">
+        <seg>[3253]&lt;ATL6&gt;Le nouveau paramètre de formation a été appliqué à toutes ses entreprises\n(Total : %1d firmes)||</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3254]&lt;PRD1&gt;Current Brand Strategy:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T103024Z" creationid="Olivier" creationdate="20200819T103024Z">
+        <seg>[3254]&lt;PRD1&gt;Current Brand Strategy:|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202555Z" creationid="Inrepublica" creationdate="20200422T202555Z">
