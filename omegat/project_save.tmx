@@ -61808,6 +61808,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3201]&lt;DLE2&gt;Sorry, this MOD cannot be loaded because the following DLCs that it requires are not enabled:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T095016Z" creationid="Olivier" creationdate="20200819T095016Z">
+        <seg>[3201]&lt;DLE2&gt;Désolé, ce MOD ne peut pas être chargé car les DLC suivants qu'il requiert ne sont pas activés :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3202]&lt;PLTI&gt;Total play time:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T095102Z" creationid="Olivier" creationdate="20200819T095102Z">
+        <seg>[3202]&lt;PLTI&gt;Temps de jeu :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202555Z" creationid="Inrepublica" creationdate="20200422T202555Z">
