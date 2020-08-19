@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#Venture Capitalists# with #billions of net worth# will join the game when this feature is enabled.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T085030Z" creationid="Olivier" creationdate="20200819T085030Z">
+        <seg>Entreprises capitalistes avec des #milliards d'avoirs nets# rejoindront le jeu lorsque cette fonction sera activée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>("Technology Disruption" option is disabled when "Product Customization" is enabled.)</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T150901Z" creationid="Inrepublica" creationdate="20200422T150901Z">
@@ -714,6 +722,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T223337Z" creationid="Olivier" creationdate="20200430T223337Z">
         <seg>// &lt;Number of AI competitors&gt; est le nombre de concurrents AI possédant ce type d'expertise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// AI Expansion Aggressiveness=&lt;Very Low, Low, Moderate, High, Very High&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T084719Z" creationid="Olivier" creationdate="20200819T084719Z">
+        <seg>// Agressivité de l'expansion de l'IA=&lt;Very Low, Low, Moderate, High, Very High&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11336,8 +11352,8 @@
       <tuv lang="en-US">
         <seg>Description=You started your company at the dawn of the software industry where opportunities are abundant.^^To become the software giant of tomorrow, you must invest aggressively into R&amp;D to ramp up your company's innovation capability and execute product launches flawlessly to establish strong foothold in key software markets and ultimately dominate them.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T084509Z" creationid="Olivier" creationdate="20200819T084509Z">
-        <seg>Description=You started your company at the dawn of the software industry where opportunities are abundant.^^To become the software giant of tomorrow, you must invest aggressively into R&amp;D to ramp up your company's innovation capability and execute product launches flawlessly to establish strong foothold in key software markets and ultimately dominate them.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T084648Z" creationid="Olivier" creationdate="20200819T084509Z">
+        <seg>Description=Vous avez créé votre entreprise à l'aube de l'industrie du logiciel où les opportunités sont nombreuses.^^Pour devenir le géant du logiciel de demain, vous devez investir massivement dans la R&amp;D afin d'accroître la capacité d'innovation de votre entreprise et d'exécuter parfaitement les lancements de produits pour prendre pied sur les principaux marchés du logiciel et finalement les dominer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15205,6 +15221,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T224159Z" creationid="Olivier" creationdate="20200430T224159Z">
         <seg>Goal Description=C'est votre second sous-objectif.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=To become the software giant of tomorrow, you must invest aggressively into R&amp;D to ramp up your company's innovation capability and execute product launches flawlessly to establish strong foothold in key software markets and ultimately dominate them.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T084659Z" creationid="Olivier" creationdate="20200819T084659Z">
+        <seg>Goal Description=Pour devenir le géant du logiciel de demain, vous devez investir massivement dans la R&amp;D afin d'accroître la capacité d'innovation de votre entreprise et d'exécuter parfaitement les lancements de produits pour prendre pied sur les principaux marchés du logiciel et finalement les dominer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39577,6 +39601,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>VCAPITAL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T084832Z" creationid="Olivier" creationdate="20200819T084832Z">
+        <seg>VCAPITAL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>VGADV</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145841Z" creationid="Inrepublica" creationdate="20200422T145841Z">
@@ -39621,6 +39653,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155552Z" creationid="Inrepublica" creationdate="20200425T155552Z">
         <seg>Ventes|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Venture Capitalists</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T084837Z" creationid="Olivier" creationdate="20200819T084837Z">
+        <seg>Capitalistes-risqueurs</seg>
       </tuv>
     </tu>
     <tu>
