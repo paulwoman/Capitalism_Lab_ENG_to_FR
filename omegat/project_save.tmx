@@ -62008,6 +62008,62 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3222]&lt;JPE1&gt;To start a new project, you must first 1) hire a project manager and 2) link the current Project Management Unit to a Project Programming Unit.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T100631Z" creationid="Olivier" creationdate="20200819T100623Z">
+        <seg>[3222]&lt;JPE1&gt;Pour lancer un nouveau projet, vous devez d'abord 1) engager un chef de projet et 2) relier l'unité de gestion de projet actuelle à une unité de programmation de projet.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3223]&lt;JPE2&gt;To start a new project, you must first hire a project manager.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T100655Z" creationid="Olivier" creationdate="20200819T100627Z">
+        <seg>[3223]&lt;JPE2&gt;Pour démarrer un nouveau projet, vous devez d'abord engager un chef de projet.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3224]&lt;JPE3&gt;To start a new project, you must first link the current Project Management Unit to a Project Programming Unit.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T100719Z" creationid="Olivier" creationdate="20200819T100719Z">
+        <seg>[3224]&lt;JPE3&gt;Pour démarrer un nouveau projet, vous devez d'abord relier l'unité de gestion de projet actuelle à une unité de programmation de projet.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3225]&lt;HNT1&gt;Before hiring the new|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T100736Z" creationid="Olivier" creationdate="20200819T100736Z">
+        <seg>[3225]&lt;HNT1&gt;Avant d'engager un nouveaux|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3226]&lt;HNT2&gt;you must terminate the employment of the current one.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T100755Z" creationid="Olivier" creationdate="20200819T100755Z">
+        <seg>[3226]&lt;HNT2&gt;vous devez licencier l'employé actuel.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3227]&lt;PCOD&gt;A Project Programming Unit utilizes technologies developed by Tech Programming Units to implement a software product.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T100818Z" creationid="Olivier" creationdate="20200819T100818Z">
+        <seg>[3227]&lt;PCOD&gt;Une unité de programmation de projet utilise les technologies développées par les unités de programmation technique pour mettre en œuvre un produit logiciel.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3228]&lt;NPCA&gt;Not enough personal cash|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T100917Z" creationid="Olivier" creationdate="20200819T100917Z">
+        <seg>[3228]&lt;NPCA&gt;Pas assez de capitaux personnels|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202555Z" creationid="Inrepublica" creationdate="20200422T202555Z">
