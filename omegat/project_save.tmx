@@ -944,8 +944,8 @@
       <tuv lang="en-US">
         <seg>// If you set it lower than this value, the game will automatically reset it to the minimum allowed value.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222250Z" creationid="Olivier" creationdate="20200430T222250Z">
-        <seg>// If you set it lower than this value, the game will automatically reset it to the minimum allowed value.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T075657Z" creationid="Olivier" creationdate="20200430T222250Z">
+        <seg>// Si vous la fixez en dessous de cette valeur, le jeu le réinitialisera automatiquement à la valeur minimale autorisée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1032,8 +1032,8 @@
       <tuv lang="en-US">
         <seg>// Number of AI Persons=&lt;number of competitors+8 to 63&gt;</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222149Z" creationid="Olivier" creationdate="20200430T222149Z">
-        <seg>// Number of AI Persons=&lt;number of competitors+8 to 63&gt;</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T075512Z" creationid="Olivier" creationdate="20200430T222149Z">
+        <seg>// Nombre de personnes IA=&lt;nombre de concurrents+8 à 63&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1216,8 +1216,8 @@
       <tuv lang="en-US">
         <seg>// This is the total number of AI persons in a game.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222150Z" creationid="Olivier" creationdate="20200430T222150Z">
-        <seg>// This is the total number of AI persons in a game.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T075528Z" creationid="Olivier" creationdate="20200430T222150Z">
+        <seg>// Il s'agit du nombre total de personnes IA dans un jeu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1416,8 +1416,8 @@
       <tuv lang="en-US">
         <seg>// than a standard game.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222246Z" creationid="Olivier" creationdate="20200430T222246Z">
-        <seg>// than a standard game.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T075605Z" creationid="Olivier" creationdate="20200430T222246Z">
+        <seg>// qu'une partie classique</seg>
       </tuv>
     </tu>
     <tu>
@@ -1450,6 +1450,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T225355Z" creationid="Olivier" creationdate="20200430T225355Z">
         <seg>//(unité de valeurs : million dollars)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>//-------- The following settings are for Subsidiary DLC only --------------//</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T075730Z" creationid="Olivier" creationdate="20200819T075730Z">
+        <seg>//-------- Les paramètres suivants concernent uniquement le Dlc Filiale --------------//</seg>
       </tuv>
     </tu>
     <tu>
@@ -27147,8 +27155,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Please note that the game requires the number of AI persons to be at least equal to the number of competitors + 8.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222248Z" creationid="Olivier" creationdate="20200430T222248Z">
-        <seg>Please note that the game requires the number of AI persons to be at least equal to the number of competitors + 8.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T075618Z" creationid="Olivier" creationdate="20200430T222248Z">
+        <seg>Veuillez noter que le jeu exige que le nombre de personnes AI soit au moins égal au nombre de concurrents + 8.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41371,8 +41379,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>You may customize it using the above line, allowing you to create a game with more persons</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222243Z" creationid="Olivier" creationdate="20200430T222243Z">
-        <seg>You may customize it using the above line, allowing you to create a game with more persons</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T075541Z" creationid="Olivier" creationdate="20200430T222243Z">
+        <seg>Vous pouvez le personnaliser en utilisant la ligne ci-dessus, ce qui vous permet de créer un jeu avec plus de personnes</seg>
       </tuv>
     </tu>
     <tu>
