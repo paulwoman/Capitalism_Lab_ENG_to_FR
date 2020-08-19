@@ -760,8 +760,8 @@
       <tuv lang="en-US">
         <seg>// AI Friendly Merger=&lt;On, Off&gt;</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151325Z" creationid="Inrepublica" creationdate="20200423T151325Z">
-        <seg>// AI Friendly Merger=&lt;On, Off&gt;</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T115515Z" creationid="Inrepublica" creationdate="20200423T151325Z">
+        <seg>// Fusion amicale de l'IA=&lt;On, Off&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -832,8 +832,8 @@
       <tuv lang="en-US">
         <seg>// Competence of Local Competitors=&lt;Very Low, Low, Moderate, High, Very High&gt;</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151327Z" creationid="Inrepublica" creationdate="20200423T151327Z">
-        <seg>// Competence of Local Competitors=&lt;Very Low, Low, Moderate, High, Very High&gt;</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T115549Z" creationid="Inrepublica" creationdate="20200423T151327Z">
+        <seg>// Compétence des concurrents locaux=&lt;Very Low, Low, Moderate, High, Very High&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1168,8 +1168,8 @@
       <tuv lang="en-US">
         <seg>// Show Competitor Trade Secrets=&lt;Yes, No&gt;</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151323Z" creationid="Inrepublica" creationdate="20200423T151323Z">
-        <seg>// Show Competitor Trade Secrets=&lt;Yes, No&gt;</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T115501Z" creationid="Inrepublica" creationdate="20200423T151323Z">
+        <seg>// Afficher les secrets commerciaux des concurrents=&lt;Yes, No&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1586,6 +1586,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170836Z" creationid="Olivier" creationdate="20200427T170836Z">
         <seg>//---SUBGOAL---------------------------------------------------------//</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>//AI Tech Head Start=&lt;None, Low, Moderate, High&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T115445Z" creationid="Olivier" creationdate="20200819T115445Z">
+        <seg>//Avantage de la tech de l'IA=&lt;None, Low, Moderate, High&gt;</seg>
       </tuv>
     </tu>
     <tu>
