@@ -62112,6 +62112,30 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3234]&lt;PFIT&gt;Attempting to find a supplier for this item...|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T101700Z" creationid="Olivier" creationdate="20200819T101700Z">
+        <seg>[3234]&lt;PFIT&gt;Tentative pour trouver un fournisseur pour cet article...|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3235]&lt;MWIT&gt;Waiting for required inputs to manufacture this product...|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T101743Z" creationid="Olivier" creationdate="20200819T101743Z">
+        <seg>[3235]&lt;MWIT&gt;En attente des intrants nécessaires à la fabrication de ce produit...|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3236]&lt;MOD1&gt;Reset successfully.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T101850Z" creationid="Olivier" creationdate="20200819T101850Z">
+        <seg>[3236]&lt;MOD1&gt;Réinitialisation réussie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202555Z" creationid="Inrepublica" creationdate="20200422T202555Z">
