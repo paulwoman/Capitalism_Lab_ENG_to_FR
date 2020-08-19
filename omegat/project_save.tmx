@@ -62392,6 +62392,78 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3265]&lt;AIN1&gt;Increase all product prices monthly at the same rate as inflation|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T114043Z" creationid="Olivier" creationdate="20200819T114043Z">
+        <seg>[3265]&lt;AIN1&gt;Augmenter tous les prix des produits mensuellement au même rythme que l'inflation|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3266]&lt;AIN2&gt;Increase all advertising spendings monthly based on inflation|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T114058Z" creationid="Olivier" creationdate="20200819T114058Z">
+        <seg>[3266]&lt;AIN2&gt;Augmenter toutes les dépenses publicitaires mensuelles en fonction de l'inflation|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3267]&lt;ATEC&gt;Acquire Product Tech From Other Companies|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T114111Z" creationid="Olivier" creationdate="20200819T114111Z">
+        <seg>[3267]&lt;ATEC&gt;Acquérir des technologies de produits auprès d'autres entreprises|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3268]&lt;SAD1&gt;Set a new advertising budget for all your advertising units:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T114132Z" creationid="Olivier" creationdate="20200819T114124Z">
+        <seg>[3268]&lt;SAD1&gt;Fixer un nouveau budget publicitaire pour toutes vos unités publicitaires :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3269]&lt;SAD2&gt;Set a new advertising budget for all its advertising units:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T114146Z" creationid="Olivier" creationdate="20200819T114128Z">
+        <seg>[3269]&lt;SAD2&gt;Fixer un nouveau budget publicitaire pour toutes ses unités de publicité :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3270]&lt;SAD3&gt;New advertising budget:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T114158Z" creationid="Olivier" creationdate="20200819T114158Z">
+        <seg>[3270]&lt;SAD3&gt;Nouveau budget publicitaire :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3271]&lt;SAD4&gt;Sorry, you currently do not have any advertising units.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T114247Z" creationid="Olivier" creationdate="20200819T114247Z">
+        <seg>[3271]&lt;SAD4&gt;Désolé, vous n'avez actuellement aucune unité de publicité.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3272]&lt;SAD5&gt;Sorry, this corporation currently does not have any advertising units.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T114308Z" creationid="Olivier" creationdate="20200819T114308Z">
+        <seg>[3272]&lt;SAD5&gt;Désolé, cette société ne dispose actuellement d'aucune unité de publicité.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3273]&lt;SAD6&gt;The new advertising budget has been applied to all your advertising units.\n(Total: %1d advertising units)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T114402Z" creationid="Olivier" creationdate="20200819T114402Z">
+        <seg>[3273]&lt;SAD6&gt;Le nouveau budget publicitaire a été appliqué à toutes vos unités publicitaires.\n(Total: %1d unités de publicité)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202555Z" creationid="Inrepublica" creationdate="20200422T202555Z">
