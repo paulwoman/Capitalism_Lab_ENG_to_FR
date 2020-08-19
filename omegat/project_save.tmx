@@ -1776,8 +1776,8 @@
       <tuv lang="en-US">
         <seg>1)A city's competitiveness increases faster when there is a larger number of companies engaging in R&amp;D or production activities in the industry.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T093404Z" creationid="Olivier" creationdate="20200819T093404Z">
-        <seg>1)A city's competitiveness increases faster when there is a larger number of companies engaging in R&amp;D or production activities in the industry.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T093536Z" creationid="Olivier" creationdate="20200819T093404Z">
+        <seg>1) La compétitivité d'une ville augmente plus rapidement lorsqu'il y a un plus grand nombre d'entreprises engagées dans des activités de R&amp;D ou de production dans l'industrie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1906,6 +1906,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T101820Z" creationid="Olivier" creationdate="20200502T101820Z">
         <seg>2) Les taux d'utilisation sont affichés pour les usines, les exploitations agricoles et les mines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>2)The city government sponsors a university to conduct research in a specific industry.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T093551Z" creationid="Olivier" creationdate="20200819T093551Z">
+        <seg>2) Le gouvernement de la ville parraine une université pour mener des recherches dans un secteur spécifique.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23905,6 +23913,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No Active Research</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T093816Z" creationid="Olivier" creationdate="20200819T093816Z">
+        <seg>Aucune recherche active</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No Help Information</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T163225Z" creationid="Olivier" creationdate="20200428T163225Z">
@@ -25621,6 +25637,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144859Z" creationid="Olivier" creationdate="20200428T144859Z">
         <seg>Ouvre la fenêtre des options d'affichage des actualités</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the Road Editor (hotkey: Ctrl-R)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T093634Z" creationid="Olivier" creationdate="20200819T093634Z">
+        <seg>Ouvrir l'éditeur de route (touche de raccourci : Ctrl-R)</seg>
       </tuv>
     </tu>
     <tu>
@@ -33361,6 +33385,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>T_ROAD</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T093552Z" creationid="Olivier" creationdate="20200819T093552Z">
+        <seg>T_ROAD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>T_SETLND</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T152139Z" creationid="Inrepublica" creationdate="20200423T152139Z">
@@ -39077,6 +39109,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T091427Z" creationid="Olivier" creationdate="20200819T091427Z">
         <seg>En règle générale, un seul investissement, en pourcentage de la valeur nette totale du CR, ne dépasse pas le pourcentage indiqué ici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>UNIVSUSP</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T093635Z" creationid="Olivier" creationdate="20200819T093635Z">
+        <seg>UNIVSUSP</seg>
       </tuv>
     </tu>
     <tu>
