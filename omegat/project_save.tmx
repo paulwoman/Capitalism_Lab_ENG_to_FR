@@ -61824,6 +61824,70 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3203]&lt;NOCH&gt;Sorry, there are currenlty no Challenge Games available.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T095131Z" creationid="Olivier" creationdate="20200819T095131Z">
+        <seg>[3203]&lt;NOCH&gt;Désolé, il n'y a actuellement aucun jeu de défi disponible.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3204]&lt;WVER&gt;(wrong version)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T095136Z" creationid="Olivier" creationdate="20200819T095136Z">
+        <seg>[3204]&lt;WVER&gt;(mauvaise version)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3205]&lt;FIMI&gt;(file missing)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T095151Z" creationid="Olivier" creationdate="20200819T095151Z">
+        <seg>[3205]&lt;FIMI&gt;(fichier manquant)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3206]&lt;GVER&gt;Game version:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T095203Z" creationid="Olivier" creationdate="20200819T095203Z">
+        <seg>[3206]&lt;GVER&gt;Version du jeu :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3207]&lt;INCO&gt;(Incompatible)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T095206Z" creationid="Olivier" creationdate="20200819T095206Z">
+        <seg>[3207]&lt;INCO&gt;(Incompatible)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3208]&lt;DECG&gt;This Challenge Game will be deleted.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T095220Z" creationid="Olivier" creationdate="20200819T095220Z">
+        <seg>[3208]&lt;DECG&gt;Ce jeu de défi sera supprimé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3209]&lt;ASAV&gt;Auto-Save Game|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T095307Z" creationid="Olivier" creationdate="20200819T095307Z">
+        <seg>[3209]&lt;ASAV&gt;Sauvegarde automatique|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3210]&lt;DIV1&gt;This is your subsidiary company.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T095356Z" creationid="Olivier" creationdate="20200819T095356Z">
+        <seg>[3210]&lt;DIV1&gt;Il s'agit de votre filiale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202555Z" creationid="Inrepublica" creationdate="20200422T202555Z">
