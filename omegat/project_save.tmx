@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#The Farmer's Guide# is the one that requires #the least amount of processing power#.^</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T120948Z" creationid="Olivier" creationdate="20200819T120948Z">
+        <seg>#Le guide du fermier# est celui qui requiert #la plus petite puissance de traitement#..^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#This can save a lot of graphic processing time especially when the city is packed with buildings#.^</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T120746Z" creationid="Olivier" creationdate="20200819T120746Z">
@@ -16841,6 +16849,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hence, if you just want the game time to pass without needing to interact with any game user interfaces, you could #just open Farmer's Guide# (hotkey: F2) and the game time will advance #much faster#.^</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T121036Z" creationid="Olivier" creationdate="20200819T121036Z">
+        <seg>Par conséquent, si vous voulez simplement que le temps de jeu passe sans avoir besoin d'interagir avec les interfaces utilisateur du jeu, vous pouvez #juste ouvrir le Guide du fermier# (touche de raccourci : F2) et le temps de jeu avancera #beaucoup plus vite#.^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Here it shows the product's ~quality~ and ~brand levels~.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T150815Z" creationid="Olivier" creationdate="20200423T150815Z">
@@ -21821,6 +21837,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T135910Z" creationid="Olivier" creationdate="20200512T135910Z">
         <seg>Continuez à faire du bon travail et essayez d'atteindre des objectifs encore plus élevés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Keys For Browsing Records Within List Boxes^</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T121106Z" creationid="Olivier" creationdate="20200819T121106Z">
+        <seg>Touches permettant de parcourir les documents dans les boîtes de liste^</seg>
       </tuv>
     </tu>
     <tu>
@@ -41653,6 +41677,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T173821Z" creationid="Olivier" creationdate="20200504T173821Z">
         <seg>Vous pouvez ensuite utiliser la conception du produit dans vos unités de fabrication dans vos usines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can use #PgDn#/#PgUp# keys, and #Up#/#Down# keys to browse records within a list box.^</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T121127Z" creationid="Olivier" creationdate="20200819T121127Z">
+        <seg>Vous pouvez utiliser les clés #PgDn#/#PgUp# et les touches #Up#/#Down# pour parcourir les enregistrements dans une zone de liste.^</seg>
       </tuv>
     </tu>
     <tu>
