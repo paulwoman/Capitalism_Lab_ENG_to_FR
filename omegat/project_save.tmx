@@ -926,6 +926,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// Given that there are other factors also affecting the AI business focuses, the game will attempt to set the AI business focuses</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T115748Z" creationid="Olivier" creationdate="20200819T115748Z">
+        <seg>// Étant donné que d'autres facteurs influent également sur les priorités de l'activité d'IA, le jeu tentera de définir les priorités de l'activité d'IA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// If the City Economic Simulation DLC is enabled, the maximum number of cities that you can set in a game is 15.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T074929Z" creationid="Olivier" creationdate="20200819T074929Z">
@@ -1358,6 +1366,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// You may influence how the game sets the business focuses of the AI companies by setting your preferred mix of business focuses</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T115716Z" creationid="Olivier" creationdate="20200819T115716Z">
+        <seg>// Vous pouvez influencer la façon dont le jeu définit les objectifs commerciaux des sociétés d'IA en définissant votre combinaison préférée d'objectifs commerciaux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// You may just specify the city name and Capitalism Lab will search it in its city database and use the pre-defined parameters for it if it can be found.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T222751Z" creationid="Olivier" creationdate="20200430T222751Z">
@@ -1438,6 +1454,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// following your preference whenever possible.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T115807Z" creationid="Olivier" creationdate="20200819T115807Z">
+        <seg>// en suivant votre préférence dans la mesure du possible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// impose penalties when the player fails to achieve it within the time limit.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T225545Z" creationid="Olivier" creationdate="20200430T225545Z">
@@ -1486,10 +1510,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// using the following script lines.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T115733Z" creationid="Olivier" creationdate="20200819T115733Z">
+        <seg>//  à l'aide des lignes de script suivantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>//(value unit: million dollars)</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T225355Z" creationid="Olivier" creationdate="20200430T225355Z">
         <seg>//(unité de valeurs : million dollars)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>//-------- The following setting is for Subsidiary DLC only --------------//</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T115635Z" creationid="Olivier" creationdate="20200819T115635Z">
+        <seg>//-------- Le réglage suivant concerne uniquement le DLC Filiale --------------//</seg>
       </tuv>
     </tu>
     <tu>
@@ -1506,6 +1546,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T101959Z" creationid="Olivier" creationdate="20200428T101959Z">
         <seg>//-------------------------------------------------------------------</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>//--------------------------------------------------------------------------------------------------------------------//</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T115553Z" creationid="Olivier" creationdate="20200819T115553Z">
+        <seg>//--------------------------------------------------------------------------------------------------------------------//</seg>
       </tuv>
     </tu>
     <tu>
@@ -1590,10 +1638,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>//AI Private Companies Percent=&lt;0 to 80&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T115659Z" creationid="Olivier" creationdate="20200819T115659Z">
+        <seg>//Pourcentage d'entreprises privées de l'IA=&lt;0 to 80&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>//AI Tech Head Start=&lt;None, Low, Moderate, High&gt;</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T115445Z" creationid="Olivier" creationdate="20200819T115445Z">
         <seg>//Avantage de la tech de l'IA=&lt;None, Low, Moderate, High&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>//AI companies are randomly set up as private companies based on this preference.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T115839Z" creationid="Olivier" creationdate="20200819T115839Z">
+        <seg>//Les sociétés d'IA sont créées au hasard comme des sociétés privées sur la base de cette préférence.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1674,6 +1738,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T095517Z" creationid="Olivier" creationdate="20200710T095517Z">
         <seg>//Initialiser le classement des marques d'entreprise du joueur à des valeurs spécifiques au début du jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>//Percentage of competitors that are private companies.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T115822Z" creationid="Olivier" creationdate="20200819T115822Z">
+        <seg>//Pourcentage de concurrents qui sont des entreprises privées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3090,6 +3162,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T104654Z" creationid="Olivier" creationdate="20200710T104654Z">
         <seg>AI Pricing Agressivité|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AI Private Companies Percent=0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T115637Z" creationid="Olivier" creationdate="20200819T115637Z">
+        <seg>AI Private Companies Percent=0</seg>
       </tuv>
     </tu>
     <tu>
@@ -5794,6 +5874,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T083218Z" creationid="Olivier" creationdate="20200508T083014Z">
         <seg>Ratio de capital bancaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Banking Focused Companies=2</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T115556Z" creationid="Olivier" creationdate="20200819T115556Z">
+        <seg>Banking Focused Companies=2</seg>
       </tuv>
     </tu>
     <tu>
@@ -20561,6 +20649,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Insurance Focused Companies=2</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T115601Z" creationid="Olivier" creationdate="20200819T115601Z">
+        <seg>Insurance Focused Companies=2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Insurance Premiums</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151520Z" creationid="Olivier" creationdate="20200507T151520Z">
@@ -30357,6 +30453,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T102205Z" creationid="Olivier" creationdate="20200428T102205Z">
         <seg>Retail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Retail Focused Companies=2</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T115555Z" creationid="Olivier" creationdate="20200819T115555Z">
+        <seg>Retail Focused Companies=2</seg>
       </tuv>
     </tu>
     <tu>
