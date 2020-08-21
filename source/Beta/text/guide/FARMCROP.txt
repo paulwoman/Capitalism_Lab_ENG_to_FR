@@ -1,0 +1,7 @@
+[Crop Growing Unit]
+~Crop Name~
+The type of crop that being grown.^ 
+~Crop in Barn~
+When crops are harvested, they are stored in barns, which are represented by the blue bars. The blue bars increases in length when crops are being harvested. Conversely, their lengths decrease when crops are being sold.^
+~Growth Progress~
+The bar indicates the growth progress of the crop.

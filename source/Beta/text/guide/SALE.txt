@@ -1,0 +1,9 @@
+[Sales Unit]
+~Product Name~
+The type of product which the unit is currently selling.^
+~Product Stock~
+This area shows the stock of the product in the unit. Each box represents one cargo of the product. Each cargo can store a certain number of units of the product.^^The number of units a cargo can hold varies from product to product. For some expensive products, such as cars, one cargo can hold only a few units of the product. For lower-cost products, such as shampoo, one cargo can hold up to several thousand units of the product. This makes the total value of all cargoes of all types of products about the same.^
+~Supply and Demand~
+The yellow bar indicates the supply of the product by the current firm. The orange bar indicates the demand of the product from the buyers. Examine these bars and the utilization bar carefully to identify the bottlenecks of your business.^
+~Utilization Bar~
+This brown bar shows the utilization of the unit. If this bar reaches its full length, the unit has reached its full capacity. 
