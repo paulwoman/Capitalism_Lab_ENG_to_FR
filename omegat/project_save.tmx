@@ -62874,8 +62874,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>[Crop Growing Unit]</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T155407Z" creationid="Olivier" creationdate="20200426T155407Z">
-        <seg>[Crop Growing Unit]</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200821T114617Z" creationid="Olivier" creationdate="20200426T155407Z">
+        <seg>[Unité de culture]</seg>
       </tuv>
     </tu>
     <tu>
@@ -62938,8 +62938,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>[Livestock Raising Unit]</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200813T172741Z" creationid="Inrepublica" creationdate="20200423T064431Z">
-        <seg>[Livestock Raising Unit</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200821T114658Z" creationid="Inrepublica" creationdate="20200423T064431Z">
+        <seg>[Unité d'élevage de bétail]</seg>
       </tuv>
     </tu>
     <tu>
@@ -63686,6 +63686,14 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164803Z" creationid="Olivier" creationdate="20200429T164803Z">
         <seg>[UNLOCKS]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Warehouse Input Unit]</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200821T114515Z" creationid="Olivier" creationdate="20200821T114515Z">
+        <seg>[Intrants d’entrepôts]</seg>
       </tuv>
     </tu>
     <tu>
