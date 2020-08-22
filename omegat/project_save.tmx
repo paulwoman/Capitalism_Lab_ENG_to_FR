@@ -36467,8 +36467,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>The type of product that is being brought into the warehouse.^</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T104111Z" creationid="Olivier" creationdate="20200427T104111Z">
-        <seg>Le type de produit qui est introduit dans l'entrepôt.^</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200821T123357Z" creationid="Olivier" creationdate="20200427T104111Z">
+        <seg>Type de produit qui est introduit dans l'entrepôt.^</seg>
       </tuv>
     </tu>
     <tu>
@@ -61866,8 +61866,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>[3164]&lt;INS1&gt;Sorry, you are not allowed to use cash from your insurance company to buy shares of your corporation.|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T220129Z" creationid="Olivier" creationdate="20200512T220108Z">
-        <seg>[3164]&lt;INS1&gt;Désolé, vous n'êtes pas autorisé à utiliser l'argent de votre compagnie d'assurance pour acheter des actions de votre société..|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200821T095933Z" creationid="Olivier" creationdate="20200512T220108Z">
+        <seg>[3164]&lt;INS1&gt;Désolé, vous n'êtes pas autorisé à utiliser l'argent de votre compagnie d'assurance pour acheter des actions de votre société.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -62818,8 +62818,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>[Advertising Unit]</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T115422Z" creationid="Olivier" creationdate="20200428T115422Z">
-        <seg>[Advertising Unit]</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200821T114302Z" creationid="Olivier" creationdate="20200428T115422Z">
+        <seg>[Unité publicitaire]</seg>
       </tuv>
     </tu>
     <tu>
@@ -62874,8 +62874,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>[Crop Growing Unit]</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T155407Z" creationid="Olivier" creationdate="20200426T155407Z">
-        <seg>[Crop Growing Unit]</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200821T114617Z" creationid="Olivier" creationdate="20200426T155407Z">
+        <seg>[Unité de culture]</seg>
       </tuv>
     </tu>
     <tu>
@@ -62906,8 +62906,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>[Inventory Unit]</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T100921Z" creationid="Olivier" creationdate="20200427T100921Z">
-        <seg>[Inventory Unit]</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200821T120234Z" creationid="Olivier" creationdate="20200427T100921Z">
+        <seg>[Unité d'inventaire]</seg>
       </tuv>
     </tu>
     <tu>
@@ -62930,24 +62930,24 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>[Livestock Processing Unit]</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T100914Z" creationid="Olivier" creationdate="20200427T100914Z">
-        <seg>[Livestock Processing Unit]</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200821T114820Z" creationid="Olivier" creationdate="20200427T100914Z">
+        <seg>[Unité de transformation du bétail]</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[Livestock Raising Unit]</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200813T172741Z" creationid="Inrepublica" creationdate="20200423T064431Z">
-        <seg>[Livestock Raising Unit</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200821T114658Z" creationid="Inrepublica" creationdate="20200423T064431Z">
+        <seg>[Unité d'élevage de bétail]</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[Logging Unit]</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T100918Z" creationid="Olivier" creationdate="20200427T100918Z">
-        <seg>[Logging Unit]</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200821T120209Z" creationid="Olivier" creationdate="20200427T100918Z">
+        <seg>[Unité d'exploitation forestière]</seg>
       </tuv>
     </tu>
     <tu>
@@ -63090,24 +63090,24 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>[Manufacturing Unit]</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T100928Z" creationid="Olivier" creationdate="20200427T100928Z">
-        <seg>[Manufacturing Unit]</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200821T120331Z" creationid="Olivier" creationdate="20200427T100928Z">
+        <seg>[Unité de fabrication]</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[Mining Unit]</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T101330Z" creationid="Olivier" creationdate="20200427T101330Z">
-        <seg>[Mining Unit]</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200821T120449Z" creationid="Olivier" creationdate="20200427T101330Z">
+        <seg>[Unité minière]</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[Oil Extraction Unit]</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T101332Z" creationid="Olivier" creationdate="20200427T101332Z">
-        <seg>[Oil Extraction Unit]</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200821T120516Z" creationid="Olivier" creationdate="20200427T101332Z">
+        <seg>[Unité d'extraction de pétrole]</seg>
       </tuv>
     </tu>
     <tu>
@@ -63152,48 +63152,48 @@ Window=Select Supplier</seg>
       <tuv lang="en-US">
         <seg>[Private Labelling Unit]</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T171805Z" creationid="Olivier" creationdate="20200426T171805Z">
-        <seg>[Private Labelling Unit]</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200821T120306Z" creationid="Olivier" creationdate="20200426T171805Z">
+        <seg>[Unité d'étiquetage privé]</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[Product Research and Development Unit]</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T102800Z" creationid="Olivier" creationdate="20200427T102800Z">
-        <seg>[Product Research and Development Unit]</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200821T120810Z" creationid="Olivier" creationdate="20200427T102800Z">
+        <seg>[Unité de recherche et de développement de produits]</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[Project Management Unit]</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T101646Z" creationid="Olivier" creationdate="20200427T101646Z">
-        <seg>[Project Management Unit]</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200821T120639Z" creationid="Olivier" creationdate="20200427T101646Z">
+        <seg>[Unité de gestion de projet]</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[Project Programming Unit]</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T101640Z" creationid="Olivier" creationdate="20200427T101640Z">
-        <seg>[Project Programming Unit]</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200821T120551Z" creationid="Olivier" creationdate="20200427T101640Z">
+        <seg>[Unité de programmation des projets]</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[Purchasing Unit]</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T102021Z" creationid="Olivier" creationdate="20200427T102021Z">
-        <seg>[Purchasing Unit]</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200821T120700Z" creationid="Olivier" creationdate="20200427T102021Z">
+        <seg>[Unité des achats]</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[Radical Research and Development Unit]</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T102546Z" creationid="Olivier" creationdate="20200427T102546Z">
-        <seg>[Radical Research and Development Unit]</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200821T120720Z" creationid="Olivier" creationdate="20200427T102546Z">
+        <seg>[Unité de recherche et développement radical]</seg>
       </tuv>
     </tu>
     <tu>
@@ -63264,8 +63264,8 @@ Window=Select Supplier</seg>
       <tuv lang="en-US">
         <seg>[Sales Unit]</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T102823Z" creationid="Olivier" creationdate="20200427T102823Z">
-        <seg>[Sales Unit]</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200821T120825Z" creationid="Olivier" creationdate="20200427T102823Z">
+        <seg>[Unité de ventes]</seg>
       </tuv>
     </tu>
     <tu>
@@ -63668,16 +63668,16 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
       <tuv lang="en-US">
         <seg>[Tech Programming Unit]</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T103801Z" creationid="Olivier" creationdate="20200427T103801Z">
-        <seg>[Tech Programming Unit]</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200821T120922Z" creationid="Olivier" creationdate="20200427T103801Z">
+        <seg>[Unité de programmation technique]</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[Technology Research and Development Unit]</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T103016Z" creationid="Olivier" creationdate="20200427T103016Z">
-        <seg>[Technology Research and Development Unit]</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200821T120850Z" creationid="Olivier" creationdate="20200427T103016Z">
+        <seg>[Unité de recherche et développement technologique]</seg>
       </tuv>
     </tu>
     <tu>
@@ -63690,18 +63690,26 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[Warehouse Input Unit]</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200821T121402Z" creationid="Olivier" creationdate="20200821T114515Z">
+        <seg>[Unité d'entrée de l’entrepôt]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Warehouse Output]</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T113705Z" creationid="Olivier" creationdate="20200427T113705Z">
-        <seg>[Warehouse Output]</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200821T121332Z" creationid="Olivier" creationdate="20200821T121332Z">
+        <seg>[Sortie de l'entrepôt]</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[Warehouse Storage]</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T103825Z" creationid="Olivier" creationdate="20200427T103825Z">
-        <seg>[Warehouse Storage]</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200821T121050Z" creationid="Olivier" creationdate="20200427T103825Z">
+        <seg>[Entrepôt de stockage]</seg>
       </tuv>
     </tu>
     <tu>
