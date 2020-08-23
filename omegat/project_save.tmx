@@ -10608,8 +10608,8 @@
       <tuv lang="en-US">
         <seg>Current Firm=My Department Store</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200823T095335Z" creationid="Olivier" creationdate="20200823T095335Z">
-        <seg>Current Firm=My Department Store</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200823T095750Z" creationid="Olivier" creationdate="20200823T095335Z">
+        <seg>Current Firm=Mon Grand Magasin</seg>
       </tuv>
     </tu>
     <tu>
@@ -27739,8 +27739,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Point at Firm=My Department Store</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200823T095341Z" creationid="Olivier" creationdate="20200823T095341Z">
-        <seg>Point at Firm=My Department Store</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200823T095724Z" creationid="Olivier" creationdate="20200823T095341Z">
+        <seg>Point at Firm=Mon Grand Magasin</seg>
       </tuv>
     </tu>
     <tu>
@@ -62866,7 +62866,7 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>[CONDITION]</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202621Z" creationid="Inrepublica" creationdate="20200422T202621Z">
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200823T095739Z" creationid="Olivier" creationdate="20200823T095739Z">
         <seg>[CONDITION]</seg>
       </tuv>
     </tu>
