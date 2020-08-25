@@ -63032,6 +63032,78 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3284]&lt;CDR2&gt;Products that are currently in production are shown with orange bars.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T222201Z" creationid="Olivier" creationdate="20200825T222201Z">
+        <seg>[3284]&lt;CDR2&gt;Les produits qui sont actuellement en production sont indiqués par des barres orange.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3285]&lt;MSP1&gt;Double-click on a product class on the list to change its ink color, which can be:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T222215Z" creationid="Olivier" creationdate="20200825T222215Z">
+        <seg>[3285]&lt;MSP1&gt;Double-cliquez sur une classe de produits de la liste pour changer sa couleur d'encre, qui peut être :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3286]&lt;MSP2&gt;RED - it means that the CEO should NOT produce any products in the product class.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T222228Z" creationid="Olivier" creationdate="20200825T222228Z">
+        <seg>[3286]&lt;MSP2&gt;ROUGE - cela signifie que le PDG ne doit PAS produire de produits dans cette catégorie.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3287]&lt;MSP3&gt;BLACK - it means that the CEO may produce products in the product class.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T222242Z" creationid="Olivier" creationdate="20200825T222242Z">
+        <seg>[3287]&lt;MSP3&gt;NOIR - cela signifie que le PDG peut produire des produits dans la classe de produits.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3288]&lt;SWS1&gt;Sorry, suppliers information cannot be found the firms you chose on this list.\n\nTherefore, no changes have been made.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T222319Z" creationid="Olivier" creationdate="20200825T222319Z">
+        <seg>[3288]&lt;SWS1&gt;Désolé, les informations sur les fournisseurs ne sont pas disponibles pour les entreprises que vous avez choisies dans cette liste. Par conséquent, aucune modification n'a été apportée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3289]&lt;SWS2&gt;Suppliers at your Purchasing Units have been changed as per your request.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T222343Z" creationid="Olivier" creationdate="20200825T222343Z">
+        <seg>[3289]&lt;SWS2&gt;Les fournisseurs de vos unités d'achat ont été changés selon votre demande.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3290]&lt;SWS3&gt;Firms updated:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T222354Z" creationid="Olivier" creationdate="20200825T222354Z">
+        <seg>[3290]&lt;SWS3&gt;Firmes mises à jours : |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3291]&lt;SWS4&gt;Purchasing Units updated:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T222406Z" creationid="Olivier" creationdate="20200825T222406Z">
+        <seg>[3291]&lt;SWS4&gt;Mise à jour des unités d'achat :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3292]&lt;SWS5&gt;Sorry, the firms you chose on this list are not purchasing from the same suppliers.\n\nTherefore, no changes have been made.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T222441Z" creationid="Olivier" creationdate="20200825T222441Z">
+        <seg>[3292]&lt;SWS5&gt;Désolé, les entreprises que vous avez choisies sur cette liste n'achètent pas auprès des mêmes fournisseurs.\n\nPar conséquent, aucune modification n'a été apportée.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202555Z" creationid="Inrepublica" creationdate="20200422T202555Z">
