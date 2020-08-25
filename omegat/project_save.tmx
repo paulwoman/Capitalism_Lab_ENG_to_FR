@@ -5174,6 +5174,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>At this stage you don't need to concern yourself with the details provided with each product.^^(Information such as freight costs, ratings, brand will explained in a later tutorial.)^^For now, let's just purchase the first product on the list to get things moving.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T103119Z" creationid="Olivier" creationdate="20200825T103119Z">
+        <seg>À ce stade, vous n'avez pas besoin de vous préoccuper des détails fournis avec chaque produit.^^(Des informations telles que les frais de transport, les évaluations, la marque seront expliquées dans un tutoriel ultérieur.)^^Pour l'instant, achetons simplement le premier produit de la liste pour faire avancer les choses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>At this stage you don't need to concern yourself with the information provided with each product (freight costs, ratings, brand and other information will explained in a later tutorial).^^For now, let's just purchase the first product on the list to get things moving.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T170000Z" creationid="Olivier" creationdate="20200422T170000Z">
@@ -8946,6 +8954,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T092441Z" creationid="Olivier" creationdate="20200819T092441Z">
         <seg>Cliquez sur la touche de numérotation rapide pour modifier la vitesse du jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the ~Add Product icon~ now.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T103011Z" creationid="Olivier" creationdate="20200825T103011Z">
+        <seg>Cliquez sur l'icône ~Ajouter un produit~ maintenant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27769,6 +27785,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=146,6,183,30</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T103135Z" creationid="Olivier" creationdate="20200825T103135Z">
+        <seg>Pointer=146,6,183,30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=156,6,183,30</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T122841Z" creationid="Inrepublica" creationdate="20200423T122841Z">
@@ -28057,10 +28081,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=3,25,52,62</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T103132Z" creationid="Olivier" creationdate="20200825T103132Z">
+        <seg>Pointer=3,25,52,62</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=30,0,600,30</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200424T121204Z" creationid="Inrepublica" creationdate="20200424T121204Z">
         <seg>Pointer=30,0,600,30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=30,0,640,30</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T103124Z" creationid="Olivier" creationdate="20200825T103124Z">
+        <seg>Pointer=30,0,640,30</seg>
       </tuv>
     </tu>
     <tu>
@@ -28109,6 +28149,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200527T160006Z" creationid="Olivier" creationdate="20200527T160006Z">
         <seg>Pointer=324,312,386,338</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=324,314,386,338</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T103212Z" creationid="Olivier" creationdate="20200825T103212Z">
+        <seg>Pointer=324,314,386,338</seg>
       </tuv>
     </tu>
     <tu>
@@ -28325,6 +28373,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T212848Z" creationid="Olivier" creationdate="20200425T212848Z">
         <seg>Pointer=52,104,235,120</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=52,6,90,30</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T103131Z" creationid="Olivier" creationdate="20200825T103131Z">
+        <seg>Pointer=52,6,90,30</seg>
       </tuv>
     </tu>
     <tu>
@@ -28585,6 +28641,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=666,0,755,30</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T103127Z" creationid="Olivier" creationdate="20200825T103127Z">
+        <seg>Pointer=666,0,755,30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=680,0,764,30</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200424T121228Z" creationid="Inrepublica" creationdate="20200424T121228Z">
@@ -28613,6 +28677,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T145631Z" creationid="Olivier" creationdate="20200423T145631Z">
         <seg>Pointer=69,377,190,400</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=70,120,185,230</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T103014Z" creationid="Olivier" creationdate="20200825T103014Z">
+        <seg>Pointer=70,120,185,230</seg>
       </tuv>
     </tu>
     <tu>
@@ -28653,6 +28725,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T122627Z" creationid="Inrepublica" creationdate="20200423T122627Z">
         <seg>Pointer=9,33,32,57</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=98,6,137,30</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T103139Z" creationid="Olivier" creationdate="20200825T103139Z">
+        <seg>Pointer=98,6,137,30</seg>
       </tuv>
     </tu>
     <tu>
@@ -34049,6 +34129,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Text Box=12,270,320,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T103121Z" creationid="Olivier" creationdate="20200825T103121Z">
+        <seg>Text Box=12,270,320,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Text Box=120,300,500,0</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T140054Z" creationid="Olivier" creationdate="20200426T140054Z">
@@ -34085,6 +34173,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T140314Z" creationid="Olivier" creationdate="20200426T140314Z">
         <seg>Text Box=150,200,500,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Box=170,250,210,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T103209Z" creationid="Olivier" creationdate="20200825T103209Z">
+        <seg>Text Box=170,250,210,0</seg>
       </tuv>
     </tu>
     <tu>
@@ -37841,6 +37937,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This window shows all products available from the local seaports.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T103040Z" creationid="Olivier" creationdate="20200825T103040Z">
+        <seg>Cette fenêtre montre tous les produits disponibles dans les ports maritimes locaux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This ~Manufacturing unit~ will now produce ~Golf Club~.^^See how we utilized an existing ~Purchasing unit~ supplying ~Timber~, and in conjunction with a new unit purchasing ~Steel~, to manufacture a different product.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T134223Z" creationid="Olivier" creationdate="20200424T095046Z">
@@ -38461,6 +38565,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T145553Z" creationid="Olivier" creationdate="20200424T145553Z">
         <seg>Pour accéder à l'écran ~Stratégie de marque~, ouvrez le rapport ~Détails de l'entreprise~ en appuyant sur la touche de raccourci ~'D'~ maintenant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To access the ~Brand Strategy~ screen, open the ~Corporate Detail~ report by pressing the shortcut key ~D~ now (or ~Ctrl-D~ if you have changed the shortcut key setting in the Options menu).</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T103206Z" creationid="Olivier" creationdate="20200825T103206Z">
+        <seg>Pour accéder à l'écran ~Stratégie de marque~, ouvrez le rapport ~Détail de l'entreprise~ en appuyant sur la touche de raccourci ~D~ maintenant (ou ~Ctrl-D~ si vous avez modifié le paramètre de la touche de raccourci dans le menu Options).</seg>
       </tuv>
     </tu>
     <tu>
