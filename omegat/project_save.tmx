@@ -28593,6 +28593,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=623, 472, 698, 487</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T103859Z" creationid="Olivier" creationdate="20200825T103859Z">
+        <seg>Pointer=623, 472, 698, 487</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=624,474, 696, 486</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T132850Z" creationid="Olivier" creationdate="20200426T132850Z">
@@ -34385,6 +34393,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Text Box=280,500,380,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T103858Z" creationid="Olivier" creationdate="20200825T103858Z">
+        <seg>Text Box=280,500,380,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Text Box=280,530,400,0</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200824T100258Z" creationid="Olivier" creationdate="20200424T090646Z">
@@ -34533,6 +34549,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T133021Z" creationid="Olivier" creationdate="20200426T133021Z">
         <seg>Text Box=320,280,390,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text Box=320,482,390,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T103903Z" creationid="Olivier" creationdate="20200825T103903Z">
+        <seg>Text Box=320,482,390,0</seg>
       </tuv>
     </tu>
     <tu>
@@ -34933,6 +34957,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T140053Z" creationid="Olivier" creationdate="20200426T140053Z">
         <seg>La fenêtre de message ~Suivi des événements~ ci-dessus indique que votre projet de R&amp;D a été mené à bien, portant votre niveau de technologie de production de climatiseurs à 33.^^ Toutes vos usines produisant des climatiseurs bénéficieront de l'avancement technologique, leur permettant de produire des climatiseurs de meilleure qualité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The above ~Event Tracker~ message window indicates that the your R&amp;D project has been completed, increasing your ~production technology level~ for Air Conditioners to 33.^^All your factories producing air conditioners will benefit from the technological advancement, enabling them to produce air conditioners of higher quality.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T103949Z" creationid="Olivier" creationdate="20200825T103949Z">
+        <seg>La fenêtre de message ~Suivi d'événement~ ci-dessus indique que votre projet de R&amp;D est terminé, ce qui porte votre ~niveau de technologie de production~ pour les climatiseurs à 33.^^ Toutes vos usines produisant des climatiseurs bénéficieront de l'avancement technologique, ce qui leur permettra de produire des climatiseurs de meilleure qualité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36893,6 +36925,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T140800Z" creationid="Olivier" creationdate="20200426T140800Z">
         <seg>Chaque unité de R&amp;D compte 12 membres du personnel, représentés par 12 chiffres dans des combinaisons rouges.^^Au cours de la formation, ceux qui ont déjà été formés seront montrés portant des combinaisons bleues.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There are 12 staff members in each R&amp;D unit, represented by 12 figures in ~red overalls~.^^During training, those who have been trained already will be shown wearing ~blue overalls~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T104039Z" creationid="Olivier" creationdate="20200825T104039Z">
+        <seg>Chaque unité de R&amp;D compte 12 membres du personnel, représentés par 12 chiffres en ~salopettes rouges~.^^Pendant la formation, ceux qui ont déjà été formés seront montrés portant des ~salopettes bleues~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41117,6 +41157,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T140831Z" creationid="Olivier" creationdate="20200426T140831Z">
         <seg>Lorsque l'ensemble du personnel d'une unité fonctionnelle a été formé (tous en bleu de travail), le niveau d'expérience de l'unité augmente d'un point et la couleur générale du personnel redevient rouge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the entire staff of a functional unit has been trained (all in ~blue overalls~), the unit's ~experience level~ will increase by one point and the staff's overall color will revert to red.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T104148Z" creationid="Olivier" creationdate="20200825T104148Z">
+        <seg>Lorsque l'ensemble du personnel d'une unité fonctionnelle a été formé (tous en ~salopette bleue~), le ~niveau d'expérience~ de l'unité augmentera d'un point et la couleur globale du personnel reviendra au rouge.</seg>
       </tuv>
     </tu>
     <tu>
