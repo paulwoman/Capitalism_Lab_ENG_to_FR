@@ -63146,8 +63146,40 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>[3298]&lt;SEC1&gt;The Securities and Exchange Commission does not approve your purchase.\nYou cannot use a corporation that you control to buy a stock in which you have ownership.|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T222729Z" creationid="Olivier" creationdate="20200825T222729Z">
-        <seg>[3298]&lt;SEC1&gt;La Commission des opérations de bourse n'approuve pas votre achat : vous ne pouvez pas utiliser une société que vous contrôlez pour acheter une action dont vous êtes propriétaire.|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T222923Z" creationid="Olivier" creationdate="20200825T222729Z">
+        <seg>[3298]&lt;SEC1&gt;La Commission des opérations de bourse n'approuve pas votre achat.\nVous ne pouvez pas utiliser une société que vous contrôlez pour acheter une action dont vous êtes propriétaire.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3299]&lt;SEC2&gt;The Securities and Exchange Commission does not approve your purchase.\nYou cannot use a corporation that you control to buy a stock in which your corporation has ownership.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T222928Z" creationid="Olivier" creationdate="20200825T222904Z">
+        <seg>[3299]&lt;SEC2&gt;La Commission des opérations de bourse n'approuve pas votre achat.\nVous ne pouvez pas utiliser une société que vous contrôlez pour acheter une action dont votre société est propriétaire.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3300]&lt;SEC3&gt;The Securities and Exchange Commission does not approve your purchase.\nYour corporation cannot buy a stock in which you have ownership.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T223003Z" creationid="Olivier" creationdate="20200825T222754Z">
+        <seg>[3300]&lt;SEC3&gt;La Commission des opérations de bourse n'approuve pas votre achat. Votre société ne peut pas acheter une action dont vous êtes propriétaire.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3301]&lt;SCE1&gt;Warning: there is an error in your script file.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T223020Z" creationid="Olivier" creationdate="20200825T223020Z">
+        <seg>[3301]&lt;SCE1&gt;Attention : il y a une erreur dans votre script.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3302]&lt;SCE2&gt;Warning: there are errors in your script file.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T223052Z" creationid="Olivier" creationdate="20200825T223052Z">
+        <seg>[3302]&lt;SCE2&gt;Attention : il y a une erreur dans votre script.|</seg>
       </tuv>
     </tu>
     <tu>
