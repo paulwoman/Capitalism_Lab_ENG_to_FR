@@ -63184,6 +63184,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3303]&lt;SCE3&gt;For details, please view the error log in the subfolder %1s under your Capitalism Lab game folder.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T223112Z" creationid="Olivier" creationdate="20200825T223112Z">
+        <seg>[3303]&lt;SCE3&gt;Pour plus de détails, veuillez consulter le journal des erreurs dans le sous-dossier %1s sous votre dossier de jeu Capitalism Lab.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3304]&lt;RSP1&gt;All publicly-traded stocks are required to maintain a minimum bid price of at least $1.00 per share.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T223131Z" creationid="Olivier" creationdate="20200825T223131Z">
+        <seg>[3304]&lt;RSP1&gt;Toutes les actions cotées en bourse sont tenues de maintenir un prix d'offre minimum d'au moins 1,00 $ par action|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202555Z" creationid="Inrepublica" creationdate="20200422T202555Z">
