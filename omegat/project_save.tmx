@@ -34841,6 +34841,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Number of Venture Capitalists</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T223824Z" creationid="Olivier" creationdate="20200825T223824Z">
+        <seg>Nombre de Capital-risqueurs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Overall rating is determined by the #Price# and the #Quality# rating.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200606T144041Z" creationid="Olivier" creationdate="20200606T144041Z">
@@ -37829,6 +37837,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151805Z" creationid="Olivier" creationdate="20200423T151805Z">
         <seg>Cet écran indique les sociétés qui ont effectué des transactions avec la vôtre.^^Sélectionnez maintenant ~Aperçu financier~ pour revenir au premier écran.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This sets the average capital size of a venture capitalist.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T223915Z" creationid="Olivier" creationdate="20200825T223915Z">
+        <seg>Cela détermine la taille moyenne du capital d'un capital-risqueur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49240,6 +49256,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[1058]&lt;0215&gt;Shareholder          Owned Qty  Owned%  Stock Value|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T224017Z" creationid="Olivier" creationdate="20200825T224017Z">
+        <seg>[1058]&lt;0215&gt;Actionnaire          Nbre Poss  Poss%  Valeur act°|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[1061]&lt;0218&gt;Confidential|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T151003Z" creationid="Olivier" creationdate="20200508T145844Z">
@@ -59732,6 +59756,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100747Z" creationid="Olivier" creationdate="20200512T100747Z">
         <seg>[2887]&lt;NCG2&gt;Tous les produits sont verrouillés et doivent être réinventés, à l'exception des produits relevant de la catégorie méga des aliments et boissons et des produits pour lesquels vous avez une expertise.\n\n\n|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2887]&lt;NCG2&gt;All products are locked, requiring reinvention, except the products under the Food and Beverage mega class and the products in which you have expertise.\n\n|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T224114Z" creationid="Olivier" creationdate="20200825T224114Z">
+        <seg>[2887]&lt;NCG2&gt;&gt;Tous les produits sont verrouillés et doivent être réinventés, à l'exception des produits relevant de la méga classe des aliments et des boissons et des produits pour lesquels vous avez une expertise.\n\n|</seg>
       </tuv>
     </tu>
     <tu>
