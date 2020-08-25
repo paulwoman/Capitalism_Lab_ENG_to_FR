@@ -69,7 +69,7 @@ To gain a better understanding about how brands work, let's open the ~Product De
 
 [POS]
 Extend Text Box=36,600,500,0
-Pointer=156,6,183,30
+Pointer=146,6,183,30
 Window=Bottom Toolbar 
 
 //-------------------------------------------------------------------//
@@ -280,7 +280,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-To access the ~Brand Strategy~ screen, open the ~Corporate Detail~ report by pressing the shortcut key ~D~ now. 
+To access the ~Brand Strategy~ screen, open the ~Corporate Detail~ report by pressing the shortcut key ~D~ now (or ~Ctrl-D~ if you have changed the shortcut key setting in the Options menu). 
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -388,7 +388,7 @@ Unit Exists=5, Advertising
 Click the ~Link Media~ button to link your ~advertising unit~ to a media. 
 
 [POS]
-Text Box=200,280,210,0
+Text Box=170,250,210,0
 Pointer=203,384,278,402
 
 //-------------------------------------------------------------------//
@@ -449,7 +449,7 @@ You can see your product's ~brand rating~ on the ~Sales unit~. Currently it is z
 
 [POS]
 Text Box=330,130,450,0
-Pointer=324,312,386,338
+Pointer=324,314,386,338
 Next Arrow=Yes
 
 //-------------------------------------------------------------------//
@@ -464,7 +464,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Build another factory to produce a different ~apparel~ product. (Hint: If you are already manufacturing and selling jeans, choose leather jacket).^^This tutorial will continue when you successful produce and sell a new ~apparel~ product in your department store.  
+Build another factory to produce a different ~apparel~ product. (Hint: If you are already manufacturing and selling ~jeans~, choose ~leather jacket~).^^This tutorial will continue when you successful ~produce~ and ~sell~ a new ~apparel~ product in your ~department store~.  
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -489,7 +489,7 @@ Your store sells your product class=Apparel, 2
 //-------------------------------------------------------------------//
 
 [TEXT]
-Well done! This time you do not need to link the new product to the advertising unit as it is already covered by your ~apparel product class~ brand. 
+Well done! This time you do not need to link the new product to the ~advertising unit~ as it is already covered by your ~apparel product class~ brand. 
 
 [POS]
 Text Box=32,250,350,0
@@ -498,7 +498,7 @@ Next Arrow=Yes
 ----------------------------------------------------------------//
 
 [TEXT]
-With the advertising delivering its effect, your products' ~brand ratings~ will continue to increase, which in turn will raise your products' ~overall ratings~ and thus drive their sales higher.^^While all this is happening, let's open the ~Corporate Details~ report by pressing the shortcut key ~'D'~ to access some useful market intelligence.
+With the advertising delivering its effect, your products' ~brand ratings~ will continue to increase, which in turn will raise your products' ~overall ratings~ and thus drive their sales higher.^^While all this is happening, let's open the ~Corporate Details~ report by pressing the shortcut key ~'D'~ (or ~Ctrl-D~) to access some useful market intelligence.
 
 [POS]
 Flex Text Box=300,280,400,0

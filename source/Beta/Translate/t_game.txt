@@ -476,7 +476,7 @@
 [1055]<0212>Advertising|
 [1056]<0213>Training|
 [1057]<0214>Write-offs|
-[1058]<0215>Shareholder          Owned Qty   Owned%  Stock Value   Position|
+[1058]<0215>Shareholder          Owned Qty  Owned%  Stock Value|
 [1061]<0218>Confidential|
 [1062]<0219>Current Tech|
 [1063]<0220>Top Tech|
@@ -1698,7 +1698,7 @@
 [2884]<LAN8>Increase the levels of all|
 [2885]<LAN9>in this city by|
 [2886]<NCG1>You have enabled Survival Mode in City Economic Simulation DLC.\n\n|
-[2887]<NCG2>All products are locked, requiring reinvention, except the products under the Food and Beverage mega class and the products in which you have expertise.\n\n\n|
+[2887]<NCG2>All products are locked, requiring reinvention, except the products under the Food and Beverage mega class and the products in which you have expertise.\n\n|
 [2888]<NCG3>You have been assigned with new goals.\n\n|
 [2889]<NCG4>Press the 'G' shortcut key anytime to view the Goal screen.|
 [2890]<NCG5>You have been assigned with a new goal.\n\n|
@@ -2092,3 +2092,30 @@
 [3278]<SUBC>This company is your corporation's subsidiary. You may interfere with its operation when you own 75% or more of its shares.|
 [3279]<OEXP>Operating Expenses|
 [3280]<NAT1>Your Nation's Ranking:|
+[3281]<CDAD>Double-click on an advertising record to go to the relevant firm.|
+[3282]<CDPD>Double-click on a product record to open the Product Detail Report.|
+[3283]<CDR1>indicates Radical R&D projects|
+[3284]<CDR2>Products that are currently in production are shown with orange bars.|
+[3285]<MSP1>Double-click on a product class on the list to change its ink color, which can be:|
+[3286]<MSP2>RED - it means that the CEO should NOT produce any products in the product class.|
+[3287]<MSP3>BLACK - it means that the CEO may produce products in the product class.|
+[3288]<SWS1>Sorry, suppliers information cannot be found the firms you chose on this list.\n\nTherefore, no changes have been made.|
+[3289]<SWS2>Suppliers at your Purchasing Units have been changed as per your request.|
+[3290]<SWS3>Firms updated:|
+[3291]<SWS4>Purchasing Units updated:|
+[3292]<SWS5>Sorry, the firms you chose on this list are not purchasing from the same suppliers.\n\nTherefore, no changes have been made.|
+[3293]<BCH1>Advertising budgets have been changed as per your request.|
+[3294]<BCH2>Training levels have been changed as per your request.|
+[3295]<BCH3>Units updated:|
+[3296]<BCH4>Sorry, the firms you chose on this list do not have any advertising units.\n\nTherefore no changes have been made.|
+[3297]<BCH5>Sorry, training is not applicable to the firms you chose on this list.|
+[3298]<SEC1>The Securities and Exchange Commission does not approve your purchase.\nYou cannot use a corporation that you control to buy a stock in which you have ownership.|
+[3299]<SEC2>The Securities and Exchange Commission does not approve your purchase.\nYou cannot use a corporation that you control to buy a stock in which your corporation has ownership.|
+[3300]<SEC3>The Securities and Exchange Commission does not approve your purchase.\nYour corporation cannot buy a stock in which you have ownership.|
+[3301]<SCE1>Warning: there is an error in your script file.|
+[3302]<SCE2>Warning: there are errors in your script file.|
+[3303]<SCE3>For details, please view the error log in the subfolder %1s under your Capitalism Lab game folder.|
+[3304]<RSP1>All publicly-traded stocks are required to maintain a minimum bid price of at least $1.00 per share.|
+[3305]<RSP2>Your company's stock currently trades at %1s and therefore a reverse stock split is required.|
+[3306]<RSP3>A %1s reverse stock split will group every %2s shares into one share.|
+[3307]<RSP4>The resulting stock price will be|

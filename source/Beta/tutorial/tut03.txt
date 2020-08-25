@@ -45,7 +45,7 @@ Starting your own corporation takes money - and lot's of it. You must first obta
 
 [POS]
 Extend Text Box=36,600,500,0
-Pointer=156,6,183,30
+Pointer=146,6,183,30
 Window=Bottom Toolbar 
 
 //-------------------------------------------------------------------//
@@ -176,7 +176,7 @@ Now you must build a factory. Click the ~Build icon~.
 
 [POS]
 Text Box=100,150,400,0
-Pointer=31,30,79,58
+Pointer=3,25,52,62
 
 //-------------------------------------------------------------------//
 

@@ -29,7 +29,7 @@ To build your first store, click the ~Build~ icon.
 
 [POS]
 Text Box=100,280,400,0
-Pointer=31,30,79,58
+Pointer=3,25,52,62
 
 //-------------------------------------------------------------------//
 
@@ -110,7 +110,7 @@ To understand this better, we will just add a product to the store using the old
 
 [POS]
 Text Box=32,270,230,0
-Pointer=55,120,165,230
+Pointer=70,120,185,230
 
 [CONDITION]
 Firm product count=My megastore, 1 
@@ -395,7 +395,7 @@ Well done! To become a competent business person, you should also learn to diges
 
 [POS]
 Extend Text Box=36,600,700,0
-Pointer=156,6,183,30
+Pointer=146,6,183,30
 Window=Bottom Toolbar 
 
 //-------------------------------------------------------------------//
@@ -468,7 +468,7 @@ There are two ways to view another city. The first way is to open the ~World Map
 
 [POS]
 Extend Text Box=285,480,350,0
-Pointer=110,6,137,30
+Pointer=98,6,137,30
 Window=Bottom Toolbar 
 
 //-------------------------------------------------------------------//
