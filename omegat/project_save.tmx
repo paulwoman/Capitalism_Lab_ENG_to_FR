@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Hint: If you are already manufacturing and selling ~jeans~, choose ~leather jacket~).^^This tutorial will continue when you successful ~produce~ and ~sell~ a new ~apparel~ product in your ~department store~.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T103343Z" creationid="Olivier" creationdate="20200825T103305Z">
+        <seg>(Conseil : si vous fabriquez et vendez déjà des ~jeans~, choisissez ~veste en cuir~).^^Ce tutoriel se poursuivra lorsque vous aurez réussi à produire~ et à vendre~ un nouveau produit dans votre ~grand magasin~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(If the demand is high, set the operational capacity to a higher value.)</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T142321Z" creationid="Olivier" creationdate="20200504T142321Z">
@@ -37833,6 +37841,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This time you do not need to link the new product to the ~advertising unit~ as it is already covered by your ~apparel product class~ brand.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T103451Z" creationid="Olivier" creationdate="20200825T103451Z">
+        <seg>Cette fois, vous n'avez pas besoin de lier le nouveau produit à ~l'unité de publicité~ car il est déjà couvert par votre marque de ~classe de produit~.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This time, let's use the shortcut key ~F4~ to go to the Stock Exchange.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T205543Z" creationid="Acer" creationdate="20200424T205543Z">
@@ -41517,6 +41533,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T135507Z" creationid="Olivier" creationdate="20200427T135507Z">
         <seg>Avec toutes les compétences et l'expérience que vous avez acquises, vous êtes bien équipé pour réaliser votre ambition de construire un empire commercial que le monde entier admirerait.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With the advertising delivering its effect, your products' ~brand ratings~ will continue to increase, which in turn will raise your products' ~overall ratings~ and thus drive their sales higher.^^While all this is happening, let's open the ~Corporate Details~ report by pressing the shortcut key ~'D'~ (or ~Ctrl-D~) to access some useful market intelligence.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T103646Z" creationid="Olivier" creationdate="20200825T103646Z">
+        <seg>Pendant que la publicité produit ses effets, le ~ classement de la marque~ de vos produits continuera à augmenter, ce qui, à son tour, augmentera le ~ classement général~ de vos produits et donc leurs ventes.^^Pendant que tout cela se produit, ouvrons le rapport ~Détails de l'entreprise~ en appuyant sur la touche de raccourci ~'D'~ (ou ~Ctrl-D~) pour accéder à des informations utiles sur le marché.</seg>
       </tuv>
     </tu>
     <tu>
