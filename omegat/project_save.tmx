@@ -43340,8 +43340,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Your subsidiary company has gone public successfully and raised %1s!|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T114827Z" creationid="Olivier" creationdate="20200819T114827Z">
-        <seg>Félicitations ! Votre filiale a réussi à s'introduire en bourse et à augmenter %1s!|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T222738Z" creationid="Olivier" creationdate="20200819T114827Z">
+        <seg>Votre filiale a réussi à s'introduire en bourse et à augmenter %1s!|</seg>
       </tuv>
     </tu>
     <tu>
@@ -63100,6 +63100,54 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T222441Z" creationid="Olivier" creationdate="20200825T222441Z">
         <seg>[3292]&lt;SWS5&gt;Désolé, les entreprises que vous avez choisies sur cette liste n'achètent pas auprès des mêmes fournisseurs.\n\nPar conséquent, aucune modification n'a été apportée.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3293]&lt;BCH1&gt;Advertising budgets have been changed as per your request.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T222458Z" creationid="Olivier" creationdate="20200825T222458Z">
+        <seg>[3293]&lt;BCH1&gt;Les budgets publicitaires ont été modifiés conformément à votre demande.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3294]&lt;BCH2&gt;Training levels have been changed as per your request.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T222510Z" creationid="Olivier" creationdate="20200825T222510Z">
+        <seg>[3294]&lt;BCH2&gt;Les niveaux de formation ont été modifiés conformément à votre demande.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3295]&lt;BCH3&gt;Units updated:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T222520Z" creationid="Olivier" creationdate="20200825T222520Z">
+        <seg>[3295]&lt;BCH3&gt;Unités mises à jours :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3296]&lt;BCH4&gt;Sorry, the firms you chose on this list do not have any advertising units.\n\nTherefore no changes have been made.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T222543Z" creationid="Olivier" creationdate="20200825T222543Z">
+        <seg>[3296]&lt;BCH4&gt;Désolé, les entreprises que vous avez choisies sur cette liste n'ont pas d'unités de publicité.\n\nPar conséquent, aucune modification n'a été apportée.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3297]&lt;BCH5&gt;Sorry, training is not applicable to the firms you chose on this list.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T222600Z" creationid="Olivier" creationdate="20200825T222600Z">
+        <seg>[3297]&lt;BCH5&gt;Désolé, la formation n'est pas applicable aux entreprises que vous avez choisies dans cette liste.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3298]&lt;SEC1&gt;The Securities and Exchange Commission does not approve your purchase.\nYou cannot use a corporation that you control to buy a stock in which you have ownership.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T222729Z" creationid="Olivier" creationdate="20200825T222729Z">
+        <seg>[3298]&lt;SEC1&gt;La Commission des opérations de bourse n'approuve pas votre achat : vous ne pouvez pas utiliser une société que vous contrôlez pour acheter une action dont vous êtes propriétaire.|</seg>
       </tuv>
     </tu>
     <tu>
