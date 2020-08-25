@@ -63194,8 +63194,32 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>[3304]&lt;RSP1&gt;All publicly-traded stocks are required to maintain a minimum bid price of at least $1.00 per share.|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T223131Z" creationid="Olivier" creationdate="20200825T223131Z">
-        <seg>[3304]&lt;RSP1&gt;Toutes les actions cotées en bourse sont tenues de maintenir un prix d'offre minimum d'au moins 1,00 $ par action|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T223221Z" creationid="Olivier" creationdate="20200825T223131Z">
+        <seg>[3304]&lt;RSP1&gt;Toutes les actions cotées en bourse sont tenues de maintenir un prix d'offre minimum d'au moins 1,00 $ par action.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3305]&lt;RSP2&gt;Your company's stock currently trades at %1s and therefore a reverse stock split is required.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T223215Z" creationid="Olivier" creationdate="20200825T223215Z">
+        <seg>[3305]&lt;RSP2&gt;Les actions de votre société se négocient actuellement à des %1s et un regroupement des actions est donc nécessaire.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3306]&lt;RSP3&gt;A %1s reverse stock split will group every %2s shares into one share.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T223237Z" creationid="Olivier" creationdate="20200825T223237Z">
+        <seg>[3306]&lt;RSP3&gt;Un regroupement des actions de %1s regroupera toutes les actions de %2s en une seule action.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3307]&lt;RSP4&gt;The resulting stock price will be|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T223257Z" creationid="Olivier" creationdate="20200825T223257Z">
+        <seg>[3307]&lt;RSP4&gt;Le cours de l'action en résultant sera|</seg>
       </tuv>
     </tu>
     <tu>
