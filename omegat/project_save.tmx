@@ -11038,6 +11038,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Delete all the original game music files in this folder (\MUSIC).</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200827T124402Z" creationid="Olivier" creationdate="20200827T124402Z">
+        <seg>Supprimez tous les fichiers musicaux originaux du jeu dans ce dossier (\MUSIC).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Delete this layout plan</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T091824Z" creationid="Olivier" creationdate="20200503T091824Z">
@@ -19981,6 +19989,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T164813Z" creationid="Olivier" creationdate="20200502T164813Z">
         <seg>Si vous souhaitez activer #Vente interne# par défaut, vous pouvez ouvrir le menu #Option# (touche de raccourci : 'O') et régler #Vente interne# par défaut sur #Activée#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you want to retain some of the original game music files and mix them with your custom music files,</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200827T124414Z" creationid="Olivier" creationdate="20200827T124414Z">
+        <seg>Si vous souhaitez conserver certains des fichiers musicaux originaux du jeu et les mélanger avec vos fichiers musicaux personnalisés,</seg>
       </tuv>
     </tu>
     <tu>
@@ -64602,6 +64618,14 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>checks the existence of this file to determine whether the game should play custom music or not.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200827T124434Z" creationid="Olivier" creationdate="20200827T124434Z">
+        <seg>checks the existence of this file to determine whether the game should play custom music or not.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>city=Hong Kong</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171448Z" creationid="Olivier" creationdate="20200427T171448Z">
@@ -64806,6 +64830,14 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200827T124352Z" creationid="Olivier" creationdate="20200827T124352Z">
         <seg>veuillez suivre les instructions suivantes : </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>please make sure that this particular file "cap2-long01.aac" is changed to a different name, as the game</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200827T124428Z" creationid="Olivier" creationdate="20200827T124428Z">
+        <seg>veuillez vous assurer que ce fichier particulier "cap2-long01.aac" est changé pour un autre nom, car le jeu</seg>
       </tuv>
     </tu>
     <tu>
