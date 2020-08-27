@@ -59386,8 +59386,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>[2830]&lt;AGS2&gt;(Press the 'G' shortcut key anytime to view the Goal screen)|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T094614Z" creationid="Olivier" creationdate="20200512T094528Z">
-        <seg>[2830]&lt;AGS2&gt;(Appuyez sur la touche de raccourci 'G' à tout moment pour afficher l'écran 'Objectif')|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200827T104440Z" creationid="Olivier" creationdate="20200512T094528Z">
+        <seg>[2830]&lt;AGS2&gt;(Appuyez sur la touche de raccourci "G" à tout moment pour afficher l'écran 'Objectif')|</seg>
       </tuv>
     </tu>
     <tu>
@@ -63372,6 +63372,62 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200827T103825Z" creationid="Olivier" creationdate="20200827T103552Z">
         <seg>[3310]&lt;AGD1&gt;Position dominante dans le marché "%1s"|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3311]&lt;AGD2&gt;Total Market Domaince of All Industries|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200827T103919Z" creationid="Olivier" creationdate="20200827T103919Z">
+        <seg>[3311]&lt;AGD2&gt;Ensemble du marché de toutes les industries|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3312]&lt;AGD3&gt;You have dominated the %1s Industry with a game difficulty rating of %2s|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200827T103945Z" creationid="Olivier" creationdate="20200827T103945Z">
+        <seg>[3312]&lt;AGD3&gt;Vous avez dominé l'industrie %1s avec une note de difficulté de jeu de %2s|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3313]&lt;AGD4&gt;You have dominated All Industries with a game difficulty rating of %1s|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200827T104002Z" creationid="Olivier" creationdate="20200827T104002Z">
+        <seg>[3313]&lt;AGD4&gt;Vous avez dominé toutes les industries avec une note de difficulté de jeu de %1s|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3314]&lt;AGD5&gt;Previous record:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200827T104009Z" creationid="Olivier" creationdate="20200827T104009Z">
+        <seg>[3314]&lt;AGD5&gt;Record précédent :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3315]&lt;AGD6&gt;Highest rating achieved before:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200827T104026Z" creationid="Olivier" creationdate="20200827T104026Z">
+        <seg>[3315]&lt;AGD6&gt;Meilleure note obtenue auparavant :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3316]&lt;AGD7&gt;You have set a new record for the Accomplishment Game|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200827T104109Z" creationid="Olivier" creationdate="20200827T104109Z">
+        <seg>[3316]&lt;AGD7&gt;Vous avez établi un nouveau record pour le jeu d'accomplissement|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3317]&lt;AGD8&gt;You have won the Accomplishment Game.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200827T104127Z" creationid="Olivier" creationdate="20200827T104127Z">
+        <seg>[3317]&lt;AGD8&gt;Vous avez gagner le jeu d'accomplissement.|</seg>
       </tuv>
     </tu>
     <tu>
