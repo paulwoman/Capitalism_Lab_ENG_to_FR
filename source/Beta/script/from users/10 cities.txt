@@ -1,0 +1,45 @@
+[HEADER]
+Title=Sample script - Environment 
+Description=This is a sample script for Capitalism Lab, listing all variables under the [ENVIRONMENT] section. 
+
+[ENVIRONMENT]
+Number of Cities=10
+// Number of Cities=<1 to 10>
+// You will be able to create a game with a maximum of 10 cities using a game script.
+
+Your Start-up Capital=High 
+// Your Start-up Capital=<Very Low, Low, Moderate, High, Very High>
+
+Random Events=Occasional 
+// Random Events=<Never, Seldom, Occasional, Frequent>
+
+Game Starting Year=1990
+// Game Starting Year=<1900 to 2100>
+// You may set the game starting year to any year between 1900 and 2100.  
+
+Retail Store Type=Many
+// Retail Store Type=<One, Many>
+
+Technology Disruption=On
+// Technology Disruption=<Yes, No>
+
+Stock Market=Yes
+// Stock Market=<Yes, No>
+
+Alternative Stock Sim=Yes
+// Alternative Stock Sim=<Yes, No>
+
+Macro Economy Realism=High
+// Macro Economy Realism=<Low, High>
+
+Inflation=On
+// Inflation=<Off, On, Inverse> 
+
+Inflation Strength=Reduced
+// Inflation Strength=<Normal, Reduced>
+
+Number of AI Persons=64
+// Number of AI Persons=<number of competitors+8 to 63>
+// This is the total number of AI persons in a game. You may customize it using the above line, allowing you to create a game with more persons 
+// than a standard game. Please note that the game requires the number of AI persons to be at least equal to the number of competitors + 8. 
+// If you set it lower than this value, the game will automatically reset it to the minimum allowed value. 

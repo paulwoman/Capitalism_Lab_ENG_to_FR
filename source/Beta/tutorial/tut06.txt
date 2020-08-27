@@ -1,0 +1,184 @@
+[TEXT]
+NIL 
+
+[ACTION]
+Hide=Preview
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+In this tutorial you will set up a farm to supply your supermarkets with your own agriculural products. Such backward integration will create a more reliable supply chain and increase your profit margins. 
+
+[POS]
+Flex Text Box=300,280,400,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+In Capitalism, a farm can produce meat, milk, eggs, leather and a variety of crops.^^To build your first farm, click the ~Build~ icon.  
+
+[POS]
+Text Box=100,180,400,0
+Pointer=3,25,52,62
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Select ~Farm~ from the menu. 
+
+[POS]
+Text Box=100,200,300,0
+Pointer=52,104,235,120
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+There are two sizes of farms available. Select ~Farm - Medium~ from the menu and choose a location in a rural area to build your farm. 
+
+[POS]
+Text Box=610,318,380,0
+Pointer=281,60,452,104
+
+[CONDITION]
+Firm Build Count=Farm, 1 
+
+[ACTION]
+Set firm description=My Farm 
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+The first thing we are going to do is to raise some livestock.^^~Double click the top left slot~ and build a ~Livestock Raising Unit~ unit. 
+
+[POS]
+Text Box=32,250,350,0
+Pointer=489,253,573,336
+
+[CONDITION]
+Unit Exists=1, Livestock Raising
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Now you need to set the type of animals to be raised. Click the ~Raise Livestock~ button and then select ~Cattle~ from the popup menu.
+
+[POS]
+Text Box=32,460,350,0
+Pointer=266,386,374,400
+
+[CONDITION]
+Unit has item=1, Cattle
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Good! Your farm has begun rearing cattle.^^To the right of the ~Livestock Raising Unit~, build a ~Livestock Processing Unit~.
+
+[POS]
+Text Box=32,250,350,0
+Pointer=599,253,680,336
+
+[CONDITION]
+Unit Exists=2, Livestock Processing
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Now click the link between the units to connect them. 
+
+[POS]
+Text Box=32,250,350,0
+Pointer=579,292,592,298
+
+[CONDITION]
+Unit Linked=Livestock Raising, Livestock Processing, 1, 2
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+NIL
+
+[ACTION]
+Fast forward days=5
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Products of cattle include ~frozen beef~, ~milk~, and ~leather~. Each ~Livestock Processing Unit~ can only process one product at a time.^^Now click ~Select Product~ and select ~Frozen Beef~ from the available choices. 
+
+[POS]
+Text Box=150,120,600,0
+Pointer=265,384,372,401
+
+[CONDITION]
+Unit has item=2, Frozen Beef
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Your cattle will now be reared and processed as frozen beef.^^Add a ~Sales Unit~ and link it to the ~Livestock Processing Unit~ so that your farm can sell the frozen beef.
+
+[POS]
+Text Box=142,462,690,0
+Pointer=709,253,790,336
+
+[CONDITION]
+Unit Exists=3, Sales
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Now click the link between the units to connect them. 
+
+[POS]
+Text Box=32,250,350,0
+Pointer=687,292,702,298
+
+[CONDITION]
+Unit Linked=Livestock Processing, Sales, 2, 3
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+NIL
+
+[ACTION]
+Fast forward days=5
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Congratulations, you are now selling frozen beef reared on your own farm.^^You may set up additional ~Livestock Processing Units~ to process ~milk~ and ~leather~ from cattle.
+
+[POS]
+Text Box=300,280,400,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+You may also grow crops in farms by using ~Crop Growing Units~. Growing crops is a time consuming process and it has to go through sowing, growing and harvesting before you will see the products coming out from the unit.
+
+[POS]
+Text Box=300,280,400,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Agricultural goods are essential to manufacture of a great number of products and you will find farming an indispensable business of your corporation. 
+
+[POS]
+Text Box=300,280,400,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+To win this game, your company must make at least ~20 types of products~ to demonstrate its ability to produce a wide range of products.^^At the same time you must achieve ~an annual revenue of $100 million~ and ~an annual profit of $10 million~.
+
+[POS]
+Text Box=300,280,400,0
+Next Arrow=Yes
+
