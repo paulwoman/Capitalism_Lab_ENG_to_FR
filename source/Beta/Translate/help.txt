@@ -3392,3 +3392,11 @@ UNIVSUSP
 No Active Research 
 The operation of this University is currently suspended. To enable research, please set the #Operation slider# of this university to a value larger than zero.
 ~
+HIRETAL
+Hire (hotkey: 'W')
+Hire a team lead for the current functional unit.
+~
+HEADHTAL 
+Headhunt (hotkey: 'U')
+To headhunt a person to lead the current functional unit.
+~

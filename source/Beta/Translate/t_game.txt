@@ -1643,7 +1643,7 @@
 [2829]<AGS1>To win this game, you must achieve the given goals.|
 [2830]<AGS2>(Press the 'G' shortcut key anytime to view the Goal screen)|
 [2831]<AGS3>Your possess expertise in the|
-[2832]<AGS4>industry (level:|
+[2832]<AGS4>industry (expertise rating:|
 [2833]<FEGN>The city government does not have enough cash.|
 [2834]<NCT1>To acquire the exclusive rights to develop and run the new city for|
 [2835]<NCT2>years, you must donate|
@@ -2077,7 +2077,7 @@
 [3263]<APIN>Regularly adjust prices based on inflation|
 [3264]<ASIN>Adjust advertising spending based on inflation|
 [3265]<AIN1>Increase all product prices monthly at the same rate as inflation|
-[3266]<AIN2>Increase all advertising spendings monthly based on inflation|
+[3266]<AIN2>Increase all advlertising spendings monthly based on inflation|
 [3267]<ATEC>Acquire Product Tech From Other Companies|
 [3268]<SAD1>Set a new advertising budget for all your advertising units:|
 [3269]<SAD2>Set a new advertising budget for all its advertising units:|
@@ -2119,3 +2119,13 @@
 [3305]<RSP2>Your company's stock currently trades at %1s and therefore a reverse stock split is required.|
 [3306]<RSP3>A %1s reverse stock split will group every %2s shares into one share.|
 [3307]<RSP4>The resulting stock price will be|
+[3308]<HIR1>Hire persons with %1s skills|
+[3309]<HIR2>Hire Research Team Lead|
+[3310]<AGD1>Market Dominance of the %1s Industry|
+[3311]<AGD2>Total Market Domaince of All Industries|
+[3312]<AGD3>You have dominated the %1s Industry with a game difficulty rating of %2s|
+[3313]<AGD4>You have dominated All Industries with a game difficulty rating of %1s|
+[3314]<AGD5>Previous record:|
+[3315]<AGD6>Highest rating achieved before:|
+[3316]<AGD7>You have set a new record for the Accomplishment Game|
+[3317]<AGD8>You have won the Accomplishment Game.|
