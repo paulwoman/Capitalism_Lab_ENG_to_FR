@@ -39,7 +39,7 @@ Add Seaport Product=Aluminum
 //-------------------------------------------------------------------//
 
 [TEXT]
-In this tutorial you will learn how to improve the quality of your products by conducting research in R&D Centers (Research and Development Centers).  
+In this tutorial you will learn how to improve the quality of your products by conducting research in ~R&D Centers~ (Research and Development Centers).
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -48,7 +48,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-As you may recall, a product's rating is based on two factors: the company's production technology rating for the product and the raw material quality.^^Research advances your company's production technology and thus increases your products' quality. 
+As you may recall, a product's ~quality rating~ is based on two factors: the company's ~production technology rating for the product~ and the ~raw material quality~.^^Research advances your company's ~production technologies~ and thus increases your products' ~quality~. 
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -71,8 +71,8 @@ Active Interface=Manufacturer Guide
 Now click ~OUTPUT~ and select ~Air Conditioner~. 
 
 [POS]
-Text Box=300,280,400,0
-Pointer=685, 107, 760, 121
+Text Box=280,500,380,0
+Pointer=623, 472, 698, 487
 
 [CONDITION]
 Manufacturer Guide=Air Conditioner
@@ -83,7 +83,7 @@ Manufacturer Guide=Air Conditioner
 Air conditioners are manufactured using ~Electronic Components~ and ~Steel~.^^Take a look at the percentage points that the ~Production Technology~ and the ~Raw Material Quality~ contribute to Air Conditioners' ~Quality~. 
 
 [POS]
-Text Box=320,280,390,0
+Text Box=320,482,390,0
 Pointer=503,175,682,225
 Next Arrow=Yes
 
