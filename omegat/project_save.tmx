@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Capitalism Lab uses Microsoft Media Foundation to play the music.)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200827T124942Z" creationid="Olivier" creationdate="20200827T124942Z">
+        <seg>(Capitalism Lab utilise Microsoft Media Foundation pour faire jouer la musique).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Click here now to view the supplier.)</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T082348Z" creationid="Olivier" creationdate="20200507T082348Z">
@@ -2106,6 +2114,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150659Z" creationid="Inrepublica" creationdate="20200425T150659Z">
         <seg>3 years|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>3)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200827T124942Z" creationid="Olivier" creationdate="20200827T124942Z">
+        <seg>3)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10414,6 +10430,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Copy the music files that you want the game to play to this folder (\MUSIC).</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200827T124713Z" creationid="Olivier" creationdate="20200827T124713Z">
+        <seg>Copiez les fichiers de musique que vous voulez que le jeu joue dans ce dossier (\MUSIC).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Corporate Brand</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T143243Z" creationid="Olivier" creationdate="20200508T143243Z">
@@ -13994,6 +14018,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T101742Z" creationid="Olivier" creationdate="20200507T101742Z">
         <seg>Pour le smartphone, la note de qualité est déterminée par 1) la qualité de la matière première 2) la qualité de la technologie/de la production 3) la qualité du logiciel du système d'exploitation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For a list of Media Formats supported for the music files, please see:</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200827T124742Z" creationid="Olivier" creationdate="20200827T124742Z">
+        <seg>Pour une liste des formats de médias pris en charge pour les fichiers musicaux, veuillez consulter :</seg>
       </tuv>
     </tu>
     <tu>
@@ -31021,6 +31053,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T083950Z" creationid="Olivier" creationdate="20200507T083950Z">
         <seg>Faites de la publicité pour le site web actuel sur une autre entreprise de médias afin d'augmenter le nombre de visiteurs du site web actuel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Run the game and it will play all the music files in this folder in a random order.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200827T124955Z" creationid="Olivier" creationdate="20200827T124955Z">
+        <seg>Lancez le jeu et il jouera tous les fichiers musicaux de ce dossier dans un ordre aléatoire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64620,8 +64660,8 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
       <tuv lang="en-US">
         <seg>checks the existence of this file to determine whether the game should play custom music or not.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200827T124434Z" creationid="Olivier" creationdate="20200827T124434Z">
-        <seg>checks the existence of this file to determine whether the game should play custom music or not.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200827T124703Z" creationid="Olivier" creationdate="20200827T124434Z">
+        <seg>vérifie l'existence de ce fichier pour déterminer si le jeu doit jouer de la musique personnalisée ou non.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64670,6 +64710,14 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T120841Z" creationid="Olivier" creationdate="20200428T120841Z">
         <seg>http://www.apache.org/licenses/LICENSE-2.0.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>https://docs.microsoft.com/en-us/windows/win32/medfound/supported-media-formats-in-media-foundation</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200827T124928Z" creationid="Olivier" creationdate="20200827T124928Z">
+        <seg>https://docs.microsoft.com/en-us/windows/win32/medfound/supported-media-formats-in-media-foundation</seg>
       </tuv>
     </tu>
     <tu>
