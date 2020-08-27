@@ -63352,6 +63352,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3308]&lt;HIR1&gt;Hire persons with %1s skills|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200827T103418Z" creationid="Olivier" creationdate="20200827T103418Z">
+        <seg>[3308]&lt;HIR1&gt;Embaucher des personnes ayant des compétences en %1s|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3309]&lt;HIR2&gt;Hire Research Team Lead|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200827T103431Z" creationid="Olivier" creationdate="20200827T103431Z">
+        <seg>[3309]&lt;HIR2&gt;Engager un chef d'équipe de recherche|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202555Z" creationid="Inrepublica" creationdate="20200422T202555Z">
