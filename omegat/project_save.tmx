@@ -1790,6 +1790,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>//Subsidiaries=&lt;0 to 3&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200827T095711Z" creationid="Olivier" creationdate="20200827T095711Z">
+        <seg>//Subsidiaries=&lt;0 to 3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>//Tech Cost Modifier =150</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T095134Z" creationid="Olivier" creationdate="20200710T095134Z">
@@ -1802,6 +1810,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T095146Z" creationid="Olivier" creationdate="20200710T095146Z">
         <seg>//Les coûts d'acquisition des technologies deviendront 150% de ceux d'origine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>//The number of subsidiaries that your company owns at the beginning of the game.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200827T095733Z" creationid="Olivier" creationdate="20200827T095713Z">
+        <seg>//Le nombre de filiales que votre entreprise possède au début du jeu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33249,6 +33265,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Subsidiaries=0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200827T095715Z" creationid="Olivier" creationdate="20200827T095715Z">
+        <seg>Subsidiaries=0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Subsidiaries=1</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T171452Z" creationid="Olivier" creationdate="20200430T171452Z">
@@ -34195,8 +34219,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Text Box=150,120,600,0</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200425T214745Z" creationid="Olivier" creationdate="20200425T214745Z">
-        <seg>Text Box=150,120,600,0</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200827T095628Z" creationid="Olivier" creationdate="20200425T214745Z">
+        <seg>Text Box=100,410,700,0</seg>
       </tuv>
     </tu>
     <tu>
