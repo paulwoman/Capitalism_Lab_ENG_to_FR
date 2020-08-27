@@ -29249,6 +29249,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Private Company=No</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200827T125009Z" creationid="Olivier" creationdate="20200827T125009Z">
+        <seg>Private Company=No</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Proceed ?|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T172313Z" creationid="Inrepublica" creationdate="20200422T145255Z">
@@ -63088,6 +63096,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3266]&lt;AIN2&gt;Increase all advlertising spendings monthly based on inflation|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200827T125221Z" creationid="Olivier" creationdate="20200827T125221Z">
+        <seg>[3266]&lt;AIN2&gt;Augmenter tous les mois les dépenses de publicité en fonction de l'inflation|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3267]&lt;ATEC&gt;Acquire Product Tech From Other Companies|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T114111Z" creationid="Olivier" creationdate="20200819T114111Z">
@@ -64380,8 +64396,16 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
       <tuv lang="en-US">
         <seg>[Warehouse Input Unit]</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200821T121402Z" creationid="Olivier" creationdate="20200821T114515Z">
-        <seg>[Unité d'entrée de l’entrepôt]</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200827T125125Z" creationid="Olivier" creationdate="20200821T114515Z">
+        <seg>[Unité d'entrée de l'entrepôt]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Warehouse Output Unit]</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200827T125146Z" creationid="Olivier" creationdate="20200827T125107Z">
+        <seg>[Unité de sortie de l'entrepôt]</seg>
       </tuv>
     </tu>
     <tu>
@@ -64390,6 +64414,14 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200821T121332Z" creationid="Olivier" creationdate="20200821T121332Z">
         <seg>[Sortie de l'entrepôt]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Warehouse Storage Unit]</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200827T125032Z" creationid="Olivier" creationdate="20200827T125032Z">
+        <seg>[Unité de stockage de l'entrepôt]</seg>
       </tuv>
     </tu>
     <tu>
