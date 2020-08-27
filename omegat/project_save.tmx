@@ -34153,6 +34153,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Text Box=100,410,700,0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200826T130140Z" creationid="Olivier" creationdate="20200826T130140Z">
+        <seg>Text Box=100,410,700,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Text Box=100,528,200,0</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T203916Z" creationid="Acer" creationdate="20200424T203916Z">
@@ -42892,8 +42900,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>You will require a good advertising campaign if you want your business to succeed.^^Let's learn some basic concepts of brand and advertising now.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200429T100946Z" creationid="Olivier" creationdate="20200424T101447Z">
-        <seg>Vous aurez besoin d'une bonne campagne publicitaire si vous voulez que votre entreprise réussisse. ^^Apprenons maintenant quelques notions de base sur les marques et la publicité.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200826T131650Z" creationid="Olivier" creationdate="20200424T101447Z">
+        <seg>Vous aurez besoin d'une bonne campagne publicitaire si vous voulez que votre entreprise réussisse.^^Apprenons maintenant quelques notions de base sur les marques et la publicité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63354,7 +63362,7 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>[HEADER]</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T213823Z" creationid="Olivier" creationdate="20200428T213823Z">
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200826T132341Z" creationid="Olivier" creationdate="20200428T213823Z">
         <seg>[HEADER]</seg>
       </tuv>
     </tu>
