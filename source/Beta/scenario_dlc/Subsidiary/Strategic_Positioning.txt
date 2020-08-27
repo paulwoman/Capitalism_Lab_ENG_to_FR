@@ -1,0 +1,70 @@
+[HEADER]
+Title=Strategic Positioning
+Description=In today’s rapidly changing markets, corporate agility is key to success.  Unfortunately, most companies fail to sustain it when they eventually become big and bloated. To steer clear from this undesirable path, you have the foresight of setting up two subsidiary companies and strategically positioning each of them to focus on specific markets. With a CEO at the helm of each company, they can respond more swiftly to market changes and grow at a faster pace.
+Difficulty Rating=80
+DLC=Subsidiary
+
+[ENVIRONMENT]
+Subsidiaries=2
+Number of Cities=5
+Your Start-up Capital=High
+Random Events=Occasional 
+Game Starting Year=1990
+Retail Store Type=Many
+Technology Disruption=On
+Stock Market=Yes
+Alternative Stock Sim=Yes
+Boom-Bust Cycle Volatility=Moderate
+Macro Economy Realism=High
+Inflation=Inverse
+Inflation Strength=Normal
+
+
+[COMPETITORS]
+Number of Competitors=25
+Competitor Start-up Capital=Moderate
+AI Expansion Aggressiveness=Moderate 
+AI Pricing Aggressiveness=Moderate 
+AI Expertise Level=Moderate
+AI Tech Head Start=None
+Show Competitor Trade Secrets=Yes
+AI Friendly Merger=No
+Competence of Local Competitors=Moderate 
+
+[IMPORTS]
+Consumer Goods Seaports=2
+Industrial Goods Seaports=2
+Constant Import Supply=No
+Import Quality=High 
+
+
+//-------------------------------------------------------------------
+
+[MAIN GOAL]
+Goal Title=Strategic Positioning
+Goal Description=In today’s rapidly changing markets, corporate agility is key to success.  Unfortunately, most companies fail to sustain it when they eventually become big and bloated. To steer clear from this undesirable path, you have the foresight of setting up two subsidiary companies and strategically positioning each of them to focus on specific markets. 
+
+Number of Game Years=80
+
+[MAIN GOAL VALUES]
+Subsidiary Annual Revenue=800,2
+Subsidiary Annual Profit=100,2
+
+[MAIN GOAL REWARDS] 
+Score change=200
+
+//-------------------------------------------------------------------
+
+[SUBGOAL]
+Goal Title=High Net Worth Subsidiaries
+Goal Description=You win this subgoal when the net worth of each of your subsidiary companies has reached $1 billion. (Net worth is the value of all the assets of a company minus the value of all its outstanding liabilities. Net worth is also known as shareholders’equity which you can view from the balance sheet in the Corporate Details report.)
+
+Goal Achieved Text=Congratulations! You now have two subsidiary companies with net worth exceeding $1 billion each!
+
+[SUBGOAL VALUES]
+Subsidiary Net Worth=1000,2
+
+[SUBGOAL REWARDS] 
+Score change=100
+Player expertise change=retail, 60
+

@@ -1,0 +1,100 @@
+[HEADER]
+Title=Towards a Better Quality of Life 
+Description=Asides from economic growth, what people really look forward to is a significant improvement in quality of life. In this scenario, your goal is to build two cities from scratch and lead all the cities, including existing ones, to achieve higher quality of life that is sustainable.
+
+Difficulty Rating=120
+DLC=CityEcoSim 
+Survival Mode=No
+
+[ENVIRONMENT]
+Number of Cities=2
+Your Start-up Capital=High 
+Random Events=Occasional 
+Game Starting Year=1990
+Retail Store Type=Many
+Technology Disruption=On
+Stock Market=Yes
+Alternative Stock Sim=Yes
+Boom-Bust Cycle Volatility=Moderate
+Macro Economy Realism=High
+Inflation=Inverse
+Inflation Strength=Normal
+
+[CITIES]
+City=Beijing
+Population=400000
+Real Wage Rate=40
+
+City=Shanghai
+Population=300000
+Real Wage Rate=40
+
+[COMPETITORS]
+Number of Competitors=15
+Competitor Start-up Capital=Moderate  
+AI Expansion Aggressiveness=Moderate 
+AI Pricing Aggressiveness=Moderate 
+AI Expertise Level=Moderate
+AI Tech Head Start=None
+Show Competitor Trade Secrets=Yes
+AI Friendly Merger=No
+Competence of Local Competitors=Moderate 
+
+[IMPORTS]
+Consumer Goods Seaports=2
+Industrial Goods Seaports=2
+Constant Import Supply=No
+Import Quality=Moderate 
+
+
+//-------------------------------------------------------------------//
+
+[MAIN GOAL]
+Goal Title=Towards a Better Quality of Life 
+Goal Description=Asides from economic growth, what people really look forward to is a significant improvement in quality of life. In this scenario, your goal is to build two cities from scratch and lead all the cities, including existing ones, to achieve higher quality of life that is sustainable.
+
+Number of Game Years=50
+
+[MAIN GOAL VALUES]
+Number of Cities You Manage=4
+
+// nation and average ratings 
+National population=1700000
+Food Supply rating=100
+Goods Supply rating=90
+National quality of life index=70
+City GDP per capita=10000
+
+
+[MAIN GOAL REWARDS] 
+Score change=400
+
+//-------------------------------------------------------------------//
+
+[SUBGOAL]
+Goal Title=Corporate Performance 
+Goal Description=You win this subgoal if you manage to deliver impressive business results while you work towards the bigger goal of growing the cities. 
+
+Goal Achieved Text=Congratulations! You have once again proven that you are exceptionally talented as a business person. 
+
+[SUBGOAL VALUES]
+Player Company Annual Revenue=1500
+Player Company Annual Profit=150
+
+[SUBGOAL REWARDS] 
+Score change=180
+
+//-------------------------------------------------------------------//
+
+[SUBGOAL]
+Goal Title=Political Influence 
+Goal Description=Your political influence increases when members of your political party are elected as mayors. You win this subgoal when your Political Influence score has reached the goal target. (To see your Political Influence score, press F7 to open the Score report.)
+
+Goal Achieved Text=Congratulations! Your political influence has reached new heights. 
+
+
+[SUBGOAL VALUES]
+Influence Score=250
+
+[SUBGOAL REWARDS] 
+Score change=180

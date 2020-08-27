@@ -1,0 +1,71 @@
+[HEADER]
+Title=Success in IPO
+Description=The stock market has seen a series of highly successful IPOs (initial public offerings) lately. You see it as an excellent opportunity for your subsidiary companies to raise capital via IPO for funding business expansions. And it goes without saying that the financial reward that you will reap as the majority shareholder is also another great incentive for pursuing an IPO.\n\nIn this scenario, you must set your companies on a sustainable growth trajectory with an eventual goal of having at least one of your subsidiary companies going IPO with a market cap exceeding $1 billion. 
+Difficulty Rating=90
+DLC=Subsidiary
+
+[ENVIRONMENT]
+Subsidiaries=2
+Number of Cities=5
+Your Start-up Capital=High
+Random Events=Occasional 
+Game Starting Year=1990
+Retail Store Type=Many
+Technology Disruption=On
+Stock Market=Yes
+Alternative Stock Sim=Yes
+Boom-Bust Cycle Volatility=Moderate
+Macro Economy Realism=High
+Inflation=Inverse
+Inflation Strength=Normal
+
+
+[COMPETITORS]
+Number of Competitors=25
+Competitor Start-up Capital=High  
+AI Expansion Aggressiveness=Moderate 
+AI Pricing Aggressiveness=Moderate 
+AI Expertise Level=Moderate
+AI Tech Head Start=None
+Show Competitor Trade Secrets=Yes
+AI Friendly Merger=No
+Competence of Local Competitors=Moderate 
+
+[IMPORTS]
+Consumer Goods Seaports=2
+Industrial Goods Seaports=2
+Constant Import Supply=No
+Import Quality=High 
+
+//-------------------------------------------------------------------
+
+[MAIN GOAL]
+Goal Title=Success in IPO
+Goal Description=In this scenario, you must set your companies on a sustainable growth trajectory with an eventual goal of having at least one of your subsidiary companies going IPO with a market cap exceeding $1 billion.
+
+Number of Game Years=80
+
+[MAIN GOAL VALUES]
+Subsidiary IPO=2
+Subsidiary Annual Revenue=1000,2
+Subsidiary Annual Profit=150,2
+
+[MAIN GOAL REWARDS] 
+Score change=250
+
+//-------------------------------------------------------------------
+
+[SUBGOAL]
+Goal Title=Soaring Stock Price
+Goal Description=This goal is achieved when your company's rapid profit growth drives its stock price to soar pass $1000 within 20 years.
+Goal Achieved Text=Congratulations! The stock price of your company has surpassed the $1000 mark!
+
+Number of Game Years=20
+
+[SUBGOAL VALUES]
+Stock Price=500
+
+[SUBGOAL REWARDS] 
+Score change=150
+Player expertise change=training, 60
+

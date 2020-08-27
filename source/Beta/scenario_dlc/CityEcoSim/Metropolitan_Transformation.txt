@@ -1,0 +1,97 @@
+[HEADER]
+Title=Metropolitan Transformation
+Description=Your goal is to grow the cities into prosperous metropolitan areas. To achieve the population growth required for the metropolitan transformations, you must first succeed in getting members from your political party elected as mayors of the cities. 
+Difficulty Rating=80
+DLC=CityEcoSim 
+Survival Mode=No
+
+[ENVIRONMENT]
+Number of Cities=2
+Your Start-up Capital=High 
+Random Events=Occasional 
+Game Starting Year=1990
+Retail Store Type=Many
+Technology Disruption=On
+Stock Market=Yes
+Alternative Stock Sim=Yes
+Boom-Bust Cycle Volatility=Moderate
+Macro Economy Realism=High
+Inflation=Inverse
+Inflation Strength=Normal
+
+[CITIES]
+City=Seoul
+Population=500000
+Real Wage Rate=50
+
+City=Busan
+Population=300000
+Real Wage Rate=35
+
+[COMPETITORS]
+Number of Competitors=15
+Competitor Start-up Capital=Moderate  
+AI Expansion Aggressiveness=Moderate 
+AI Pricing Aggressiveness=Moderate 
+AI Expertise Level=Moderate
+AI Tech Head Start=None
+Show Competitor Trade Secrets=Yes
+AI Friendly Merger=No
+Competence of Local Competitors=Moderate 
+
+[IMPORTS]
+Consumer Goods Seaports=2
+Industrial Goods Seaports=2
+Constant Import Supply=No
+Import Quality=Moderate 
+
+
+//-------------------------------------------------------------------//
+
+[MAIN GOAL]
+Goal Title=Growing the Cities
+Goal Description=Your goal is to successfully get members from your political party elected as mayors of the cities and grow the cities' populations.
+
+Number of Game Years=50
+
+[MAIN GOAL VALUES]
+City population=1000000, Seoul
+Mayor approval rating=60, Seoul
+
+City population=800000, Busan
+Mayor approval rating=60, Busan
+
+
+[MAIN GOAL REWARDS] 
+Score change=200
+
+//-------------------------------------------------------------------//
+
+[SUBGOAL]
+Goal Title=Corporate Performance 
+Goal Description=You win this subgoal if you manage to deliver impressive business results while you work towards the bigger goal of growing the cities. 
+
+Goal Achieved Text=Congratulations! You have once again proven that you are exceptionally talented as a business person. 
+
+[SUBGOAL VALUES]
+Player Company Annual Revenue=500
+Player Company Annual Profit=50
+
+[SUBGOAL REWARDS] 
+Score change=100
+
+//-------------------------------------------------------------------//
+
+[SUBGOAL]
+Goal Title=Political Influence 
+Goal Description=Your political influence increases when members of your political party are elected as mayors. You win this subgoal when your Political Influence score has reached the goal target. (To see your Political Influence score, press F7 to open the Score report.)
+
+Goal Achieved Text=Congratulations! Your political influence has reached new heights. 
+
+
+[SUBGOAL VALUES]
+Influence Score=100
+
+[SUBGOAL REWARDS] 
+Score change=100
+
