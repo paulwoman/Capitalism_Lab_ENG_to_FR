@@ -1798,6 +1798,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>//Private Company=&lt;Yes, No&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200831T090208Z" creationid="Olivier" creationdate="20200831T090208Z">
+        <seg>//Compagnie Privée=&lt;Yes, No&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>//Subsidiaries=&lt;0 to 3&gt;</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200827T095711Z" creationid="Olivier" creationdate="20200827T095711Z">
@@ -17115,8 +17123,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Hire (hotkey: 'W')</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200827T102557Z" creationid="Olivier" creationdate="20200827T102540Z">
-        <seg>Engager (hotkey: 'W')</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200831T090224Z" creationid="Olivier" creationdate="20200827T102540Z">
+        <seg>Engager (Raccourci : 'W')</seg>
       </tuv>
     </tu>
     <tu>
