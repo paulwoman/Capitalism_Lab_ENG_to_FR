@@ -20011,8 +20011,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>If you want Capitalism Lab to play custom music files that you designate instead of the original game music,</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200827T124334Z" creationid="Olivier" creationdate="20200827T124334Z">
-        <seg>Si vous voulez que Capitalism Lab joue des fichiers musicaux personnalisés que vous désignez à la place de la musique de jeu originale,</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200905T172454Z" creationid="Olivier" creationdate="20200827T124334Z">
+        <seg>rSi vous voulez que Capitalism Lab joue des fichiers musicaux personnalisés que vous désignez à la place de la musique de jeu originale,</seg>
       </tuv>
     </tu>
     <tu>
@@ -61242,16 +61242,16 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>[3046]&lt;BCR4&gt;Bank Capital Ratio|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T221347Z" creationid="Olivier" creationdate="20200512T150024Z">
-        <seg>[3046]&lt;BCR4&gt;Ratio de capital bancaire|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200905T172520Z" creationid="Olivier" creationdate="20200512T150024Z">
+        <seg>[3046]&lt;BCR4&gt;Ratio de cap. bancaire|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[3047]&lt;BCR5&gt;Required Bank Capital Ratio|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T150039Z" creationid="Olivier" creationdate="20200512T150039Z">
-        <seg>[3047]&lt;BCR5&gt;Ratio de capital bancaire requis|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200905T172533Z" creationid="Olivier" creationdate="20200512T150039Z">
+        <seg>[3047]&lt;BCR5&gt;Ratio minimum requis|</seg>
       </tuv>
     </tu>
     <tu>
