@@ -63594,8 +63594,16 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>[3324]&lt;SNV1&gt;Sorry, you cannot make a new version at the momemt.|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200908T094600Z" creationid="Olivier" creationdate="20200908T094600Z">
-        <seg>[3324]&lt;SNV1&gt;Désolé, vous ne pouvez pas faire une nouvelle version pour le moment.|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200908T094607Z" creationid="Olivier" creationdate="20200908T094600Z">
+        <seg>[3324]&lt;SNV1&gt;Désolé, vous ne pouvez pas créer une nouvelle version pour le moment.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3325]&lt;SNV2&gt;The current version's overall tech:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200908T094739Z" creationid="Olivier" creationdate="20200908T094739Z">
+        <seg>[3325]&lt;SNV2&gt;Tech. globale de la version actuelle :|</seg>
       </tuv>
     </tu>
     <tu>
