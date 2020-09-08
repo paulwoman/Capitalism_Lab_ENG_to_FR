@@ -63488,6 +63488,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3311]&lt;AGD2&gt;Total Market Dominance of All Industries|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200908T093817Z" creationid="Olivier" creationdate="20200908T093817Z">
+        <seg>[3311]&lt;AGD2&gt;Position dominante totale sur le marché de toutes les industries|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3312]&lt;AGD3&gt;You have dominated the %1s Industry with a game difficulty rating of %2s|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200827T103945Z" creationid="Olivier" creationdate="20200827T103945Z">
@@ -63532,6 +63540,54 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200827T104127Z" creationid="Olivier" creationdate="20200827T104127Z">
         <seg>[3317]&lt;AGD8&gt;Vous avez gagner le jeu d'accomplissement.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3318]&lt;MDSE&gt;Market Dominance of the %1s Sector|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200908T093858Z" creationid="Olivier" creationdate="20200908T093858Z">
+        <seg>[3318]&lt;MDSE&gt;Position dominante sur le marché du secteur des %1s|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3319]&lt;UTNL&gt;US Treasury Notes|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200908T093930Z" creationid="Olivier" creationdate="20200908T093930Z">
+        <seg>[3319]&lt;UTNL&gt;Titres du Trésor américain|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3320]&lt;UTNS&gt;US Treasury Notes|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200908T093945Z" creationid="Olivier" creationdate="20200908T093945Z">
+        <seg>[3320]&lt;UTNS&gt;Titres du Trésor américain|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3321]&lt;YRAN&gt;Your Ranking|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200908T094010Z" creationid="Olivier" creationdate="20200908T094010Z">
+        <seg>[3321]&lt;YRAN&gt;Votre classement|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3322]&lt;CEOE&gt;CEO expertise|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200908T094026Z" creationid="Olivier" creationdate="20200908T094026Z">
+        <seg>[3322]&lt;CEOE&gt;Compétences du PDG|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3323]&lt;NDPC&gt;Sorry, you cannot disable this product class.\n\nThe CEO possesses expertise in this product class and is keen on producing it.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200908T094048Z" creationid="Olivier" creationdate="20200908T094048Z">
+        <seg>[3323]&lt;NDPC&gt;Désolé, vous ne pouvez pas désactiver cette classe de produits. Le PDG possède une expertise dans cette classe de produits et tient à la produire.|</seg>
       </tuv>
     </tu>
     <tu>
