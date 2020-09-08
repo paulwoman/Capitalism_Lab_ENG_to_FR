@@ -62600,6 +62600,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3203]&lt;NOCH&gt;Sorry, there are currently no Challenge Games available.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200908T093716Z" creationid="Olivier" creationdate="20200908T093558Z">
+        <seg>[3203]&lt;NOCH&gt;Désolé, il n'y a actuellement jeux de défi disponibles.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3204]&lt;WVER&gt;(wrong version)|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T095136Z" creationid="Olivier" creationdate="20200819T095136Z">
@@ -63092,6 +63100,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T114043Z" creationid="Olivier" creationdate="20200819T114043Z">
         <seg>[3265]&lt;AIN1&gt;Augmenter tous les prix des produits mensuellement au même rythme que l'inflation|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3266]&lt;AIN2&gt;Increase all advertising spending monthly based on inflation|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200908T093745Z" creationid="Olivier" creationdate="20200908T093745Z">
+        <seg>[3266]&lt;AIN2&gt;Augmenter toutes les dépenses publicitaires mensuelles en fonction de l'inflation|</seg>
       </tuv>
     </tu>
     <tu>
