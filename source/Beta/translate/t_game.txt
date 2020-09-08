@@ -2014,7 +2014,7 @@
 [3200]<DLE1>Sorry, this MOD cannot be loaded because the following DLC that it requires is not enabled:|
 [3201]<DLE2>Sorry, this MOD cannot be loaded because the following DLCs that it requires are not enabled:|
 [3202]<PLTI>Total play time:|
-[3203]<NOCH>Sorry, there are currenlty no Challenge Games available.|
+[3203]<NOCH>Sorry, there are currently no Challenge Games available.|
 [3204]<WVER>(wrong version)|
 [3205]<FIMI>(file missing)|
 [3206]<GVER>Game version:|
@@ -2077,7 +2077,7 @@
 [3263]<APIN>Regularly adjust prices based on inflation|
 [3264]<ASIN>Adjust advertising spending based on inflation|
 [3265]<AIN1>Increase all product prices monthly at the same rate as inflation|
-[3266]<AIN2>Increase all advlertising spendings monthly based on inflation|
+[3266]<AIN2>Increase all advertising spending monthly based on inflation|
 [3267]<ATEC>Acquire Product Tech From Other Companies|
 [3268]<SAD1>Set a new advertising budget for all your advertising units:|
 [3269]<SAD2>Set a new advertising budget for all its advertising units:|
@@ -2122,10 +2122,24 @@
 [3308]<HIR1>Hire persons with %1s skills|
 [3309]<HIR2>Hire Research Team Lead|
 [3310]<AGD1>Market Dominance of the %1s Industry|
-[3311]<AGD2>Total Market Domaince of All Industries|
+[3311]<AGD2>Total Market Dominance of All Industries|
 [3312]<AGD3>You have dominated the %1s Industry with a game difficulty rating of %2s|
 [3313]<AGD4>You have dominated All Industries with a game difficulty rating of %1s|
 [3314]<AGD5>Previous record:|
 [3315]<AGD6>Highest rating achieved before:|
 [3316]<AGD7>You have set a new record for the Accomplishment Game|
 [3317]<AGD8>You have won the Accomplishment Game.|
+[3318]<MDSE>Market Dominance of the %1s Sector|
+[3319]<UTNL>US Treasury Notes|
+[3320]<UTNS>US Treasury Notes|
+[3321]<YRAN>Your Ranking|
+[3322]<CEOE>CEO expertise|
+[3323]<NDPC>Sorry, you cannot disable this product class.\n\nThe CEO possesses expertise in this product class and is keen on producing it.|
+[3324]<SNV1>Sorry, you cannot make a new version at the momemt.|
+[3325]<SNV2>The current version's overall tech:|
+[3326]<SNV3>The new version's overall tech:|
+[3327]<SNV4>The difference between the two is too small to make an impact in the product's quality rating.|
+[3328]<SNV5>You may conduct additional research on the tech and try again later.|
+[3329]<OSAS>Offer %1s Salary + Signup Bonus (1 year salary)|
+[3330]<LPLS>The layout plans in this folder have been sorted by their descriptions.|
+
