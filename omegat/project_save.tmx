@@ -12758,6 +12758,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Earnings Per Share</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200915T124129Z" creationid="Olivier" creationdate="20200915T124129Z">
+        <seg>Bénéfice Par Action</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Economy's Impact on Loan Defaults</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203527Z" creationid="Inrepublica" creationdate="20200422T203527Z">
@@ -35084,6 +35092,14 @@ Choose one of eight pre-set difficulty levels.</seg>
         <seg>The Earning Per Share is a company's operating profit over the past 365 days divided by the total number of outstanding shares.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151955Z" creationid="Olivier" creationdate="20200504T151955Z">
+        <seg>Le bénéfice par action est le bénéfice d'exploitation d'une société au cours des 365 derniers jours divisé par le nombre total d'actions en circulation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Earnings Per Share is a company's operating profit over the past 365 days divided by the total number of outstanding shares.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200915T124147Z" creationid="Olivier" creationdate="20200915T124147Z">
         <seg>Le bénéfice par action est le bénéfice d'exploitation d'une société au cours des 365 derniers jours divisé par le nombre total d'actions en circulation.</seg>
       </tuv>
     </tu>
@@ -63740,6 +63756,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200908T094607Z" creationid="Olivier" creationdate="20200908T094600Z">
         <seg>[3324]&lt;SNV1&gt;Désolé, vous ne pouvez pas créer une nouvelle version pour le moment.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3324]&lt;SNV1&gt;Sorry, you cannot make a new version at the moment.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200915T124215Z" creationid="Olivier" creationdate="20200915T124215Z">
+        <seg>[3324]&lt;SNV1&gt;Désolé, vous ne pouvez pas faire une nouvelle version pour le moment.|</seg>
       </tuv>
     </tu>
     <tu>
