@@ -1,6 +1,6 @@
 B_TOOL
 Toolbox
-Display the Toolbox menu. (hotkey: Ctrl-T) 
+Display the Toolbox menu. Press Ctrl-T to toggle between the standard menu and the extended menu. 
 ~
 B_MINMAP
 Mini Map (hotkey: 'M')
@@ -19,24 +19,24 @@ Event Tracker (hotkey: F5)
 Open the Event Tracker Window
 ~
 B_BACK
-Back to previous firm (hotkey: q)
-Go back to the previously selected firm
+Back to the previous firm (hotkey: q)
+Go back to the previously selected firm.
 ~
 B_CASH
 Your Corporation's Cash
-This figure is the amount of cash your corporation currently has. 
+This figure is the amount of cash that your corporation currently has. Click here to view its #Balance Sheet#.
 ~
 B_PROFIT
 Your Corporation's Operating Profit
-This figure is your corporation's operating profit over the past 12 months. 
+This figure is your corporation's operating profit over the past 12 months. Click here to view its #Income Statement#.
 ~
 B_CHART
 Your Corporation's Monthly Profit & Loss Chart 
-Vertical bars represent your corporation's monthly profit or loss. A red bar indicates a loss; a green bar indicates a profit.
+The vertical bars represent your corporation's monthly profit or loss. A red bar indicates a loss; a green bar indicates a profit.
 ~
 B_DATE
 Current Date
-This is the current game date
+This is the current game date.
 ~
 T_BUILD
 Build Menu (hotkey: B)
@@ -46,7 +46,7 @@ T_BUYLND
 Buy plots of land (hotkey: CTRL-L) 
 Activate the mode for buying plots of land. 
 ~
-T_SETLND
+T_ZONE
 Land-use planning
 Use this tool to restrict different areas of your city to specific uses. 
 ~
@@ -80,7 +80,7 @@ Click to open the Firm Summary Report
 ~
 MMENUHQ
 Headquarters (hotkey: 'H')
-`
+Go to the Headquarters. 
 ~
 MMENUSM
 Stock Market (hotkey: F4)
@@ -95,8 +95,8 @@ Options Menu (hotkey: 'O')
 Display the game options menu.
 ~
 MMENUSP
-Game Speed (hotkey: '1' to '5')
-Click the speed dial to alter the game speed.
+Game Speed (hotkey: '0' to pause, '1' to '5' to set speed)
+Click the speed dial to change the game speed. #Double-click# here to see tips for #improving game running speed#.
 ~
 OM_NEWS
 News Display Option (hotkey: 'N')
@@ -1332,7 +1332,7 @@ Hotkey: F2
 `
 ~
 I_MANAG
-Hotkey: F3
+Hotkey: Ctrl-M
 `
 ~
 I_CITY
@@ -1837,7 +1837,7 @@ The current city's mayor approval rating. For more details, see the Cities page 
 ~
 GOALACHI
 Goal Achievement Progress 
-It indicates your progress in achieving the goals. Click here to open the Goal report. (hotkey: G)
+It indicates your progress in achieving the goals. Click here to open the #Goal report#. (hotkey: G)
 ~
 ECO_MAX
 Show the Economic Info window 
@@ -1872,7 +1872,7 @@ Press [Enter] any time to open the product filter list.
 To locate the product you want, type the first letter of the product name
 ~
 CONFIRMP
-Confirm the price change (hotkey: '*' or ']')
+Confirm the price change (hotkey: ']')
 `
 ~
 PLAN_PS
@@ -1920,8 +1920,8 @@ The market capitalization of a company.
 It equals to its share price times the total number of shares outstanding. In other words, it is the total market value of the company in the stock market. 
 ~
 STK_EARN
-Earning Per Share 
-The Earning Per Share is a company's operating profit over the past 365 days divided by the total number of outstanding shares. When a company issues new shares, the Earning Per Share will be diluted as the company's profit will be divided by a larger number of shares. 
+Earnings Per Share 
+The Earnings Per Share is a company's operating profit over the past 365 days divided by the total number of outstanding shares. When a company issues new shares, the Earning Per Share will be diluted as the company's profit will be divided by a larger number of shares. 
 ~
 STK_EQUI
 Equity Per Share 
@@ -3149,8 +3149,8 @@ The Selling Price
 `
 ~
 NEWPRICE
+Set a New Price 
 It shows the current price. Use [+][-] to set a New Price. 
-`
 ~
 COSTFREI
 Cost + Freight
@@ -3204,7 +3204,7 @@ TOTALCF
 Cost + Freight 
 `
 ~
-QUALITY 
+QUALITY
 Quality Rating 
 `
 ~
@@ -3363,4 +3363,40 @@ When this is enabled, AI will automatically build civic buildings when there is 
 PO_BAPAR
 Auto Build Apartments
 When this is enabled, AI will automatically build apartments when there is unmet demand. 
+~
+MARSHARE
+Market Share Chart
+It shows this product's market share in the current city.
+~
+T_LEVEL
+Experience Level of the Team
+A unit with a higher experience level has #larger capacity# and #higher productivity#. A unit's level can be increased through #training#.
+~
+T_UTIL
+Capacity Utilization Rate
+A high utilization rate means that the team is operating efficiently. A low rate means that the team has idle time and its capacity is underutilized. 
+~
+T_STOCK
+Stock Inventory
+It shows the amount of stock. 
+~
+INC_COMP
+How to increase a city's competitiveness 
+1)A city's competitiveness increases faster when there is a larger number of companies engaging in R&D or production activities in the industry. 2)The city government sponsors a university to conduct research in a specific industry.
+~
+T_ROAD
+Open the Road Editor (hotkey: Ctrl-R)
+`
+~
+UNIVSUSP
+No Active Research 
+The operation of this University is currently suspended. To enable research, please set the #Operation slider# of this university to a value larger than zero.
+~
+HIRETAL
+Hire (hotkey: 'W')
+Hire a team lead for the current functional unit.
+~
+HEADHTAL 
+Headhunt (hotkey: 'U')
+To headhunt a person to lead the current functional unit.
 ~

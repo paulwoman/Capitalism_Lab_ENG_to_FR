@@ -476,7 +476,7 @@
 [1055]<0212>Advertising|
 [1056]<0213>Training|
 [1057]<0214>Write-offs|
-[1058]<0215>Shareholder          Owned Qty   Owned%  Stock Value   Position|
+[1058]<0215>Shareholder          Owned Qty  Owned%  Stock Value|
 [1061]<0218>Confidential|
 [1062]<0219>Current Tech|
 [1063]<0220>Top Tech|
@@ -1616,7 +1616,7 @@
 [2802]<BF05>Customer Traffic Index:|
 [2803]<BF06>Compensation:|
 [2804]<BF07>Price Premium|
-[2805]<BF08>Hold the [SHIFT] key concurrently to build more|
+[2805]<BF08>Hold the [SHIFT] key concurrently to Build More|
 [2806]<PSTO>Stock|
 [2807]<FRE1>Freight Cost Breakdown|
 [2808]<FRE2>Truck - Supplier to Seaport:|
@@ -1643,7 +1643,7 @@
 [2829]<AGS1>To win this game, you must achieve the given goals.|
 [2830]<AGS2>(Press the 'G' shortcut key anytime to view the Goal screen)|
 [2831]<AGS3>Your possess expertise in the|
-[2832]<AGS4>industry (level:|
+[2832]<AGS4>industry (expertise rating:|
 [2833]<FEGN>The city government does not have enough cash.|
 [2834]<NCT1>To acquire the exclusive rights to develop and run the new city for|
 [2835]<NCT2>years, you must donate|
@@ -1698,7 +1698,7 @@
 [2884]<LAN8>Increase the levels of all|
 [2885]<LAN9>in this city by|
 [2886]<NCG1>You have enabled Survival Mode in City Economic Simulation DLC.\n\n|
-[2887]<NCG2>All products are locked, requiring reinvention, except the products under the Food and Beverage mega class and the products in which you have expertise.\n\n\n|
+[2887]<NCG2>All products are locked, requiring reinvention, except the products under the Food and Beverage mega class and the products in which you have expertise.\n\n|
 [2888]<NCG3>You have been assigned with new goals.\n\n|
 [2889]<NCG4>Press the 'G' shortcut key anytime to view the Goal screen.|
 [2890]<NCG5>You have been assigned with a new goal.\n\n|
@@ -2010,4 +2010,136 @@
 [3196]<MOR2>100% more|
 [3197]<MSOS>Market Share of Operating System|
 [3198]<MSHA>Market Share of|
-[3199]<BNOT>Sorry, the company does not meet the bond issuance requirement.\nTry increasing the company's equity.|
+[3199]<BNOT>Sorry, the company does not meet the bond issuance requirement.\nTry increasing the company's equity value.\n(You can view the equity value in the balance sheet.)|
+[3200]<DLE1>Sorry, this MOD cannot be loaded because the following DLC that it requires is not enabled:|
+[3201]<DLE2>Sorry, this MOD cannot be loaded because the following DLCs that it requires are not enabled:|
+[3202]<PLTI>Total play time:|
+[3203]<NOCH>Sorry, there are currently no Challenge Games available.|
+[3204]<WVER>(wrong version)|
+[3205]<FIMI>(file missing)|
+[3206]<GVER>Game version:|
+[3207]<INCO>(Incompatible)|
+[3208]<DECG>This Challenge Game will be deleted. Proceed?|
+[3209]<ASAV>Auto-Save Game|
+[3210]<DIV1>This is your subsidiary company. Who should be in charge of setting the dividend?|
+[3211]<DIV2>I will set the dividend|
+[3212]<DIV3>Let the CEO set the dividend|
+[3213]<PRV1>Congratulations! Your company has been successfully privatized.|
+[3214]<PRV2>Congratulations! You have successfully privatized this company.|
+[3215]<SUB0>Sorry, the maximum number of corporations allowed in the game has been reached.\n\nIt is not possible to set up a new subsidiary company at the moment.|
+[3216]<NSU1>Please enter a name for your new subsidiary company.|
+[3217]<NSU2>Sorry, you cannot form a new subsidiary company as the maximum number of companies allowed in the game has been reached.|
+[3218]<NSU3>Sorry, you cannot set up a new subsidiary company at the moment.|
+[3219]<NSU4>Congratulations! Your new subsidiary company has been set up.|
+[3220]<BHQF>You must build Bank Headquarters first.|
+[3221]<IHQF>You must build Bank Headquarters first.|
+[3222]<JPE1>To start a new project, you must first 1) hire a project manager and 2) link the current Project Management Unit to a Project Programming Unit.|
+[3223]<JPE2>To start a new project, you must first hire a project manager.|
+[3224]<JPE3>To start a new project, you must first link the current Project Management Unit to a Project Programming Unit.|
+[3225]<HNT1>Before hiring the new|
+[3226]<HNT2>you must terminate the employment of the current one.|
+[3227]<PCOD>A Project Programming Unit utilizes technologies developed by Tech Programming Units to implement a software product.|
+[3228]<NPCA>Not enough personal cash|
+[3229]<NPCM>You do not have enough PERSONAL money for building your mansion.|
+[3230]<NCIP>Sorry, you cannot found a new city. You need to belong to a political party in order to do so.\n\nTo form a new political party, access the Information Center and select [Political Parties] and then select [Form Your Own Party].|
+[3231]<MAYO>Mayor of|
+[3232]<MGOA>Main Goal|
+[3233]<SGOA>SubGoal|
+[3234]<PFIT>Attempting to find a supplier for this item...|
+[3235]<MWIT>Waiting for required inputs to manufacture this product...|
+[3236]<MOD1>Reset successfully. The game now no longer uses any MOD.|
+[3237]<MOD2>MOD %1s has been loaded successfully.|
+[3238]<DTEL>Market Dominance of Telecom|
+[3239]<PACQ>Private Acquisitions|
+[3240]<ECRV>Annual E-Commerce Revenue|
+[3241]<ECUB>Annual E-Commerce User Base|
+[3242]<BNPI>Sorry, you cannot issue new bonds at the moment. Please wait until public investors have more money. You can view the "Public Investors' Money Available to Your Company" displayed at the top of the city view screen.|
+[3243]<THH1>The transfer has been executed successfully.|
+[3244]<THH2>Sorry, you don't have sufficient cash to pay the sign up bonus.|
+[3245]<THH3>Congratulations! The headhunt was a success.|
+[3246]<ITRN>(Not including research and development staff)|
+[3247]<ASBI>Regularly adjust team lead salaries based on inflation|
+[3248]<ATL1>Adjust Training Levels for all your firms:|
+[3249]<ATL2>Adjust Training Levels for all its firms:|
+[3250]<ATL3>Sorry, you currently do not have any firms.|
+[3251]<ATL4>Sorry, this corporation currently does not have any firms.|
+[3252]<ATL5>The new training setting has been applied to all your firms.\n(Total: %1d firms)|
+[3253]<ATL6>The new training setting has been applied to all its firms.\n(Total: %1d firms)|
+[3254]<PRD1>Current Brand Strategy:|
+[3255]<PRD2>Monthly Spending:|
+[3256]<PRD3>If your corporation is using 'Corporate Brand' strategy,|
+[3257]<PRD4>If this corporation is using 'Corporate Brand' strategy,|
+[3258]<IRD1>Investor relations efforts will help improve your|
+[3259]<IRD2>Investor relations efforts will help improve this|
+[3260]<IRD3>corporation's stock performance.|
+[3261]<MODU>MOD in use:|
+[3262]<MODF>For MOD:|
+[3263]<APIN>Regularly adjust prices based on inflation|
+[3264]<ASIN>Adjust advertising spending based on inflation|
+[3265]<AIN1>Increase all product prices monthly at the same rate as inflation|
+[3266]<AIN2>Increase all advertising spending monthly based on inflation|
+[3267]<ATEC>Acquire Product Tech From Other Companies|
+[3268]<SAD1>Set a new advertising budget for all your advertising units:|
+[3269]<SAD2>Set a new advertising budget for all its advertising units:|
+[3270]<SAD3>New advertising budget:|
+[3271]<SAD4>Sorry, you currently do not have any advertising units.|
+[3272]<SAD5>Sorry, this corporation currently does not have any advertising units.|
+[3273]<SAD6>The new advertising budget has been applied to all your advertising units.\n(Total: %1d advertising units)|
+[3274]<SAD7>The new advertising budget has been applied to all its advertising units.\n(Total: %1d advertising units)|
+[3275]<MAYO>Mayor of %1s|
+[3276]<IPO1>Congratulations! Your company has gone public successfully and raised %1s!|
+[3277]<IPO2>Congratulations! Your subsidiary company has gone public successfully and raised %1s!|
+[3278]<SUBC>This company is your corporation's subsidiary. You may interfere with its operation when you own 75% or more of its shares.|
+[3279]<OEXP>Operating Expenses|
+[3280]<NAT1>Your Nation's Ranking:|
+[3281]<CDAD>Double-click on an advertising record to go to the relevant firm.|
+[3282]<CDPD>Double-click on a product record to open the Product Detail Report.|
+[3283]<CDR1>indicates Radical R&D projects|
+[3284]<CDR2>Products that are currently in production are shown with orange bars.|
+[3285]<MSP1>Double-click on a product class on the list to change its ink color, which can be:|
+[3286]<MSP2>RED - it means that the CEO should NOT produce any products in the product class.|
+[3287]<MSP3>BLACK - it means that the CEO may produce products in the product class.|
+[3288]<SWS1>Sorry, suppliers information cannot be found the firms you chose on this list.\n\nTherefore, no changes have been made.|
+[3289]<SWS2>Suppliers at your Purchasing Units have been changed as per your request.|
+[3290]<SWS3>Firms updated:|
+[3291]<SWS4>Purchasing Units updated:|
+[3292]<SWS5>Sorry, the firms you chose on this list are not purchasing from the same suppliers.\n\nTherefore, no changes have been made.|
+[3293]<BCH1>Advertising budgets have been changed as per your request.|
+[3294]<BCH2>Training levels have been changed as per your request.|
+[3295]<BCH3>Units updated:|
+[3296]<BCH4>Sorry, the firms you chose on this list do not have any advertising units.\n\nTherefore no changes have been made.|
+[3297]<BCH5>Sorry, training is not applicable to the firms you chose on this list.|
+[3298]<SEC1>The Securities and Exchange Commission does not approve your purchase.\nYou cannot use a corporation that you control to buy a stock in which you have ownership.|
+[3299]<SEC2>The Securities and Exchange Commission does not approve your purchase.\nYou cannot use a corporation that you control to buy a stock in which your corporation has ownership.|
+[3300]<SEC3>The Securities and Exchange Commission does not approve your purchase.\nYour corporation cannot buy a stock in which you have ownership.|
+[3301]<SCE1>Warning: there is an error in your script file.|
+[3302]<SCE2>Warning: there are errors in your script file.|
+[3303]<SCE3>For details, please view the error log in the subfolder %1s under your Capitalism Lab game folder.|
+[3304]<RSP1>All publicly-traded stocks are required to maintain a minimum bid price of at least $1.00 per share.|
+[3305]<RSP2>Your company's stock currently trades at %1s and therefore a reverse stock split is required.|
+[3306]<RSP3>A %1s reverse stock split will group every %2s shares into one share.|
+[3307]<RSP4>The resulting stock price will be|
+[3308]<HIR1>Hire persons with %1s skills|
+[3309]<HIR2>Hire Research Team Lead|
+[3310]<AGD1>Market Dominance of the %1s Industry|
+[3311]<AGD2>Total Market Dominance of All Industries|
+[3312]<AGD3>You have dominated the %1s Industry with a game difficulty rating of %2s|
+[3313]<AGD4>You have dominated All Industries with a game difficulty rating of %1s|
+[3314]<AGD5>Previous record:|
+[3315]<AGD6>Highest rating achieved before:|
+[3316]<AGD7>You have set a new record for the Accomplishment Game|
+[3317]<AGD8>You have won the Accomplishment Game.|
+[3318]<MDSE>Market Dominance of the %1s Sector|
+[3319]<UTNL>US Treasury Notes|
+[3320]<UTNS>US Treasury Notes|
+[3321]<YRAN>Your Ranking|
+[3322]<CEOE>CEO expertise|
+[3323]<NDPC>Sorry, you cannot disable this product class.\n\nThe CEO possesses expertise in this product class and is keen on producing it.|
+[3324]<SNV1>Sorry, you cannot make a new version at the moment.|
+[3325]<SNV2>The current version's overall tech:|
+[3326]<SNV3>The new version's overall tech:|
+[3327]<SNV4>The difference between the two is too small to make an impact in the product's quality rating.|
+[3328]<SNV5>You may conduct additional research on the tech and try again later.|
+[3329]<OSAS>Offer %1s Salary + Signup Bonus (1 year salary)|
+[3330]<LPLS>The layout plans in this folder have been sorted by their descriptions.|
+

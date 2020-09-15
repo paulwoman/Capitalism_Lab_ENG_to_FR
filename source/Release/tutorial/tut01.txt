@@ -40,11 +40,11 @@ Current Firm=My Department Store
 //-------------------------------------------------------------------//
 
 [TEXT]
-Cick the ~Add Product icon~ now. 
+Click the ~Add Product icon~ now. 
 
 [POS]
 Text Box=32,420,300,0
-Pointer=60,120,165,230
+Pointer=70,120,185,230
 
 
 //-------------------------------------------------------------------//
@@ -73,10 +73,10 @@ Interface Select=Select Supplier, Seaport
 //-------------------------------------------------------------------//
 
 [TEXT]
-The window updates to show all products available from the local seaports. At this stage you don't need to concern yourself with the information provided with each product (freight costs, ratings, brand and other information will explained in a later tutorial).^^For now, let's just purchase the first product on the list to get things moving. Click the ~SELECT~ button now.^^
+This window shows all products available from the local seaports. At this stage you don't need to concern yourself with the details provided with each product.^^(Information such as freight costs, ratings, brand will explained in a later tutorial.)^^For now, let's just purchase the first product on the list to get things moving. Click the ~SELECT~ button now.^^
 
 [POS]
-Text Box=32,270,300,0
+Text Box=12,270,320,0
 Pointer=360, 649, 448, 665
 Window=Select Supplier
 
@@ -135,7 +135,7 @@ Good. We are now in the city view. Let's explore.^^See the toolbar at the bottom
 
 [POS]
 Flex Text Box=80,550,400,0
-Pointer=30,0,600,30
+Pointer=30,0,640,30
 Window=Bottom Toolbar 
 Next Arrow=Yes
 
@@ -157,7 +157,7 @@ You can see the current game date here.^^Note that the game runs in real time.Yo
 
 [POS]
 Flex Text Box=80,500,400,0
-Pointer=680,0,764,30
+Pointer=666,0,755,30
 Window=Bottom Toolbar 
 Next Arrow=Yes
 
@@ -168,7 +168,7 @@ There is a row of icons on the toolbar. Let's click on the ~Mini Map~ icon now.
 
 [POS]
 Flex Text Box=60,550,300,0
-Pointer=65,6,94,30
+Pointer=52,6,90,30
 Window=Bottom Toolbar 
 
 //-------------------------------------------------------------------//
@@ -357,7 +357,7 @@ Click the ~Build Menu~ icon on the ~Game Tools Menu~ at the top-left of the scre
 
 [POS]
 Flex Text Box=300,280,400,0
-Pointer=31,30,79,58
+Pointer=3,25,52,62
 
 //-------------------------------------------------------------------//
 
@@ -405,7 +405,7 @@ You win this game when your company's annual revenue reaches $20 million. To see
 
 [POS]
 Extend Text Box=120,500,450,0
-Pointer=156,6,183,30
+Pointer=146,6,183,30
 Window=Bottom Toolbar 
 
 //-------------------------------------------------------------------//
