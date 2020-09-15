@@ -10222,6 +10222,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Contest Deadline=2021-06-30</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200915T123547Z" creationid="Olivier" creationdate="20200915T123547Z">
+        <seg>Contest Deadline=2021-06-30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Contest Started On=2020-03-16</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T145711Z" creationid="Olivier" creationdate="20200426T145711Z">
@@ -10266,6 +10274,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T102751Z" creationid="Olivier" creationdate="20200710T102751Z">
         <seg>Contest Started On=2020-07-08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contest Started On=2020-09-14</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200915T123546Z" creationid="Olivier" creationdate="20200915T123546Z">
+        <seg>Contest Started On=2020-09-14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contest Started On=2020-09-15</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200915T123552Z" creationid="Olivier" creationdate="20200915T123552Z">
+        <seg>Contest Started On=2020-09-15</seg>
       </tuv>
     </tu>
     <tu>
@@ -11338,6 +11362,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200606T142300Z" creationid="Olivier" creationdate="20200606T142300Z">
         <seg>Description=L'avènement d'Internet change tous les aspects de la vie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=The goal of this scenario is to acquire a total of eight private tech companies and consolidate them to reap the benefits of synergy and economies of scale.^^You must act fast as burgeoning valuations of tech companies mean that the rapidly rising acquisition costs may soon exceed your financial reach.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200915T123741Z" creationid="Olivier" creationdate="20200915T123741Z">
+        <seg>Description=L'objectif de ce scénario est d'acquérir un total de huit entreprises technologiques privées et de les consolider afin de récolter les bénéfices de la synergie et des économies d'échelle.^^Vous devez agir rapidement car les évaluations florissantes des entreprises technologiques signifient que les coûts d'acquisition augmentent rapidement et pourraient bientôt dépasser votre portée financière.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38605,6 +38637,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220309Z" creationid="Olivier" creationdate="20200429T220309Z">
         <seg>Title=Multinationale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title=On a Buying Spree</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200915T123622Z" creationid="Olivier" creationdate="20200915T123622Z">
+        <seg>Title=Une frénésie d'achats</seg>
       </tuv>
     </tu>
     <tu>
