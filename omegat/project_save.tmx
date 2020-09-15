@@ -8350,6 +8350,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>City=Munich</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200915T123921Z" creationid="Olivier" creationdate="20200915T123921Z">
+        <seg>City=Munich</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>City=My Home Town</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T103625Z" creationid="Olivier" creationdate="20200428T103625Z">
@@ -8430,6 +8438,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>City=Seattle</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200915T123800Z" creationid="Olivier" creationdate="20200915T123800Z">
+        <seg>City=Seattle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>City=Seoul</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100146Z" creationid="Olivier" creationdate="20200429T100146Z">
@@ -8458,6 +8474,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220345Z" creationid="Olivier" creationdate="20200429T220345Z">
         <seg>City=Sydney</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City=Tel Aviv</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200915T123758Z" creationid="Olivier" creationdate="20200915T123758Z">
+        <seg>City=Tel Aviv</seg>
       </tuv>
     </tu>
     <tu>
@@ -11714,6 +11738,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T210735Z" creationid="Olivier" creationdate="20200423T210735Z">
         <seg>Description=Vous avez fait des progrès impressionnants jusqu'à présent et vous avez acquis la réputation d'être l'une des étoiles montantes du monde des affaires.^^Dans ce dernier tutoriel, vous apprendrez comment construire votre siège social et mettre en place différents départements pour vous permettre de gérer votre empire commercial encore plus efficacement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=You have scored a string of high-profile investments from some of the most sought-after and famed investors.^^Now comes the hard part: your demanding investors are not going to satisfied with anything less than your company reigning supreme in the digital world.^^You will win this scenario and be praised for your achievement when you concurrently dominate all the three digital industries: telecom, the Internet and computer OS and software.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200915T123920Z" creationid="Olivier" creationdate="20200915T123920Z">
+        <seg>Description=Vous avez obtenu une série d'investissements de premier plan de la part de certains des investisseurs les plus recherchés et les plus célèbres.^^ Maintenant, le plus dur est à faire : vos investisseurs exigeants ne se contenteront de rien d'autre que de voir votre entreprise régner en maître dans le monde numérique.^^ Vous gagnerez ce scénario et serez félicité pour votre réussite lorsque vous dominerez simultanément les trois industries numériques : les télécommunications, l'Internet et les systèmes d'exploitation et logiciels informatiques.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15609,6 +15641,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=The goal of this scenario is to acquire a total of eight private tech companies and consolidate them to reap the benefits of synergy and economies of scale.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200915T123850Z" creationid="Olivier" creationdate="20200915T123850Z">
+        <seg>Goal Description=L'objectif de ce scénario est d'acquérir un total de huit entreprises technologiques privées et de les consolider afin de récolter les bénéfices de la synergie et des économies d'échelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=The goals in this scenario can only be achieved by formulating your business strategies expertly and executing them flawlessly.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T100616Z" creationid="Olivier" creationdate="20200802T100549Z">
@@ -15829,6 +15869,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220111Z" creationid="Olivier" creationdate="20200429T220111Z">
         <seg>Goal Description=Vous gagnez ce jeu lorsque vous avez fait monter en flèche votre patrimoine personnel à un milliard de dollars et que vous avez pris le contrôle de cinq sociétés publiques, soit directement, soit par l'intermédiaire de votre holding.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=You will win this scenario and be praised for your achievement when you concurrently dominate all the three digital industries: telecom, the Internet and computer OS and software.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200915T124010Z" creationid="Olivier" creationdate="20200915T124010Z">
+        <seg>Goal Description=Vous gagnerez ce scénario et serez félicité pour votre réussite lorsque vous dominerez simultanément les trois industries numériques : les télécommunications, l'Internet et les systèmes d'exploitation et logiciels informatiques.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16101,6 +16149,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T221015Z" creationid="Olivier" creationdate="20200429T221015Z">
         <seg>Goal Title=Développer un portefeuille de produits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Digital Supremacy</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200915T123940Z" creationid="Olivier" creationdate="20200915T123940Z">
+        <seg>Goal Title=Suprématie numérique</seg>
       </tuv>
     </tu>
     <tu>
@@ -16389,6 +16445,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T215049Z" creationid="Olivier" creationdate="20200429T215049Z">
         <seg>Goal Title=Conglomérat multinational</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=On a Buying Spree</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200915T123822Z" creationid="Olivier" creationdate="20200915T123822Z">
+        <seg>Goal Title=Une frénésie d'achats</seg>
       </tuv>
     </tu>
     <tu>
@@ -20029,6 +20093,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T162402Z" creationid="Inrepublica" creationdate="20200422T162402Z">
         <seg>Si vous fixez cette valeur à une valeur supérieure à zéro, les partis politiques rivaux recevront des dons du grand public au fil du temps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you succeed in executing this plan, the mergers will give you the much-needed technologies and talents to build the digital powerhouse that you have always dreamed of.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200915T123756Z" creationid="Olivier" creationdate="20200915T123756Z">
+        <seg>Si vous réussissez à exécuter ce plan, les fusions vous donneront les technologies et les talents dont vous avez tant besoin pour construire la centrale numérique dont vous avez toujours rêvé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25593,6 +25665,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OS Dominance</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200915T124022Z" creationid="Olivier" creationdate="20200915T124022Z">
+        <seg>OS Dominance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OS Market Share=75</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200606T142212Z" creationid="Olivier" creationdate="20200606T142212Z">
@@ -29277,6 +29357,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T095718Z" creationid="Olivier" creationdate="20200508T095718Z">
         <seg>La synchronisation des prix est désactivée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Private Acquisitions=8</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200915T123851Z" creationid="Olivier" creationdate="20200915T123851Z">
+        <seg>Private Acquisitions=8</seg>
       </tuv>
     </tu>
     <tu>
@@ -34221,6 +34309,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T170603Z" creationid="Olivier" creationdate="20200427T170603Z">
         <seg>Technology Disruption=On</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Telecom Dominance</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200915T124021Z" creationid="Olivier" creationdate="20200915T124021Z">
+        <seg>Telecom Dominance</seg>
       </tuv>
     </tu>
     <tu>
@@ -39429,6 +39525,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151826Z" creationid="Olivier" creationdate="20200507T151826Z">
         <seg>Total des primes d'assurance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Total Internet Market Share=50</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200915T124021Z" creationid="Olivier" creationdate="20200915T124021Z">
+        <seg>Total Internet Market Share=50</seg>
       </tuv>
     </tu>
     <tu>
