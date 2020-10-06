@@ -1,22 +1,22 @@
 B_TOOL
-Toolbox
-Display the Toolbox menu. Press Ctrl-T to toggle between the standard menu and the extended menu. 
+Toolbox (hotkey: Ctrl-T)
+Show or hide the Toolbox menu.
 ~
 B_MINMAP
 Mini Map (hotkey: 'M')
-Display the Mini Map
+Show or hide the Mini Map.
 ~
 B_WORLD
 World Map (hotkey: Ctrl-W)
-Display the World Map
+Show or hide the World Map.
 ~
 B_INFO
 Information Center
-Open the Information Center screen
+Open the Information Center screen.
 ~
 B_WATCH
 Event Tracker (hotkey: F5)
-Open the Event Tracker Window
+Open the Event Tracker Window.
 ~
 B_BACK
 Back to the previous firm (hotkey: q)
@@ -3399,4 +3399,32 @@ Hire a team lead for the current functional unit.
 HEADHTAL 
 Headhunt (hotkey: 'U')
 To headhunt a person to lead the current functional unit.
+~
+GDP_EFF1
+Effects of GDP (part 1)
+The following #GDP components# contribute to the GDP growth and make a huge impact on the economy, leading to booms and #busts in the economic cycle#, affecting #inflation#, #employment rates#, #wage rates#, and #interest rates#.
+~
+GDP_EFF2
+Effects of GDP (part 2)
+For example, when your company embarks on a large-scale business expansion in a city, it increases the #Investment component# of GDP, which in turn contributes to the #GDP growth# and kicks the economy into the high gear. The newly established companies #create jobs# for the city, lowering the #unemployment rate#. Subsequently the #tightening labor market# will force companies to #raise salaries of their employees#.
+~
+GDP_EFF3
+Effects of GDP (part 3)
+Further along in this chain of effects, #a higher wage rate# leads to #increased consumer spending#, setting the stage for #inflation to rise#. When rising inflation is unchecked and eventually runs rampant, the central bank will have no choice but to put a break on it by #hiking the interest rate# aggressively, which will inevitably #drag the economy into recession#.
+~
+GDP_CONS
+Consumption
+Consumption is the total value of goods and services that are bought by the population simulated in the game.
+~
+GDP_INVE
+Investment
+Investment is the total investment made by the player and AI corporations in setting up new businesses.
+~
+GDP_GOVE
+Government Expenditure
+Government Expenditure is the total expenditure of the city government, which can be run by a player controlled mayor.
+~
+GDP_NETE
+Net Exports
+Net Exports equal to #exports# minus #imports#. #Imports# occur when companies in the game purchase products from suppliers in a different city. #Exports# occur when companies sell products to business clients in another city.
 ~
