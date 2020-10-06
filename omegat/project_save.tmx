@@ -102,6 +102,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#Exports# occur when companies sell products to business clients in another city.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T102954Z" creationid="Olivier" creationdate="20201006T102954Z">
+        <seg>#Les exportations# se produisent lorsque des entreprises vendent des produits à des clients commerciaux dans une autre ville.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>#Imports# occur when companies in the game purchase products from suppliers in a different city.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T103001Z" creationid="Olivier" creationdate="20201006T102927Z">
+        <seg>#Les importations# surviennent lorsque les entreprises du jeu achètent des produits à des fournisseurs d'une autre ville.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#Life insurance policies#, which are assumed to last an average of 30 years in this game, will generate premium incomes for the insurance company on a yearly basis until the policies mature.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151139Z" creationid="Olivier" creationdate="20200507T151717Z">
@@ -14582,6 +14598,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GDP_GOVE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T102813Z" creationid="Olivier" creationdate="20201006T102813Z">
+        <seg>GDP_GOVE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GDP_INVE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T102752Z" creationid="Olivier" creationdate="20201006T102752Z">
+        <seg>GDP_INVE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GDP_NETE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T102836Z" creationid="Olivier" creationdate="20201006T102836Z">
+        <seg>GDP_NETE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GENDER_F</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145806Z" creationid="Inrepublica" creationdate="20200422T145806Z">
@@ -16805,6 +16845,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T144914Z" creationid="Olivier" creationdate="20200430T144914Z">
         <seg>Goods Supply rating=90</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Government Expenditure</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T102822Z" creationid="Olivier" creationdate="20201006T102822Z">
+        <seg>Dépenses publiques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Government Expenditure is the total expenditure of the city government, which can be run by a player controlled mayor.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T102835Z" creationid="Olivier" creationdate="20201006T102835Z">
+        <seg>Les dépenses gouvernementales sont les dépenses totales du gouvernement de la ville, qui peuvent être gérées par un maire contrôlé par le joueur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21305,6 +21361,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Investment</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T102757Z" creationid="Olivier" creationdate="20201006T102757Z">
+        <seg>Investissement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Investment Bank|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200607T173124Z" creationid="Olivier" creationdate="20200607T173124Z">
@@ -21333,6 +21397,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T094457Z" creationid="Olivier" creationdate="20200506T094457Z">
         <seg>L'investissement est l'investissement total des entreprises.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Investment is the total investment made by the player and AI corporations in setting up new businesses.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T102811Z" creationid="Olivier" creationdate="20201006T102811Z">
+        <seg>L'investissement est l'investissement total réalisé par le joueur et les sociétés d'IA dans la création de nouvelles entreprises.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24261,6 +24333,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200526T211952Z" creationid="Olivier" creationdate="20200507T152629Z">
         <seg>Ind. des besoins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Net Exports</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T102844Z" creationid="Olivier" creationdate="20201006T102844Z">
+        <seg>Exportations Nettes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Net Exports equal to #exports# minus #imports#.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T102901Z" creationid="Olivier" creationdate="20201006T102901Z">
+        <seg>Les exportations nettes sont égales aux #exportations# moins les #importations#.</seg>
       </tuv>
     </tu>
     <tu>
