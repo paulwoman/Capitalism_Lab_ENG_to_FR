@@ -12806,6 +12806,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Effects of GDP (part 1)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T101145Z" creationid="Olivier" creationdate="20201006T101145Z">
+        <seg>Effets du PIB (partie 1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Electronic Products</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T165438Z" creationid="Olivier" creationdate="20200429T165438Z">
@@ -14490,6 +14498,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T094107Z" creationid="Olivier" creationdate="20200506T094107Z">
         <seg>Le PIB est la somme de la consommation, de l'investissement, des dépenses publiques et des exportations nettes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GDP_EFF1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T101118Z" creationid="Olivier" creationdate="20201006T101118Z">
+        <seg>GDP_EFF1</seg>
       </tuv>
     </tu>
     <tu>
@@ -26105,6 +26121,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open the Event Tracker Window.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T101113Z" creationid="Olivier" creationdate="20201006T101113Z">
+        <seg>Affiche la fenêtre de suivi des événements.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open the Goal report</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T123133Z" creationid="Olivier" creationdate="20200428T123133Z">
@@ -26117,6 +26141,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T131735Z" creationid="Olivier" creationdate="20200427T131629Z">
         <seg>Affiche l'écran du centre d'informations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the Information Center screen.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T101104Z" creationid="Olivier" creationdate="20201006T101104Z">
+        <seg>Affiche l'écran du centre d'informations.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32721,6 +32753,30 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Show or hide the Mini Map.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T101036Z" creationid="Olivier" creationdate="20201006T101036Z">
+        <seg>Affiche ou cache la mini carte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show or hide the Toolbox menu.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T101014Z" creationid="Olivier" creationdate="20201006T101014Z">
+        <seg>Affiche le menu de la boîte à outils.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show or hide the World Map.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T101052Z" creationid="Olivier" creationdate="20201006T101052Z">
+        <seg>Affiche ou cache la carte du monde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Show products that your company produces</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T165910Z" creationid="Olivier" creationdate="20200502T165817Z">
@@ -35933,6 +35989,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T152000Z" creationid="Olivier" creationdate="20200423T152000Z">
         <seg>La première façon est d'ouvrir la ~Carte du monde~ en cliquant sur son icône dans la barre d'outils inférieure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The following #GDP components# contribute to the GDP growth and make a huge impact on the economy, leading to booms and #busts in the economic cycle#, affecting #inflation#, #employment rates#, #wage rates#, and #interest rates#.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T102336Z" creationid="Olivier" creationdate="20201006T102336Z">
+        <seg>Les #composantes du PIB# suivantes contribuent à la croissance du PIB et ont un impact énorme sur l'économie, entraînant des booms et des #saisies dans le cycle économique#, affectant #l'inflation#, #les taux d'emploi#, #les taux de salaire# et #les taux d'intérêt#.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39493,6 +39557,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T120152Z" creationid="Olivier" creationdate="20200427T120152Z">
         <seg>Boite à outils</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Toolbox (hotkey: Ctrl-T)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T101000Z" creationid="Olivier" creationdate="20201006T101000Z">
+        <seg>Boîte à outils (touche de raccourci : Ctrl-T)</seg>
       </tuv>
     </tu>
     <tu>
