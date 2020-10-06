@@ -10230,6 +10230,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Consumption</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T102734Z" creationid="Olivier" creationdate="20201006T102734Z">
+        <seg>Consommation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Consumption is the total value of goods and services that are bought by the population simulated in the game.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T102751Z" creationid="Olivier" creationdate="20201006T102751Z">
+        <seg>La consommation est la valeur totale des biens et services qui sont achetés par la population simulée dans le jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Consumption is the value of goods and services bought by people.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T094126Z" creationid="Olivier" creationdate="20200506T094126Z">
@@ -12822,6 +12838,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Effects of GDP (part 3)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T102555Z" creationid="Olivier" creationdate="20201006T102555Z">
+        <seg>Effets du PIB (partie3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Electronic Products</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T165438Z" creationid="Olivier" creationdate="20200429T165438Z">
@@ -14438,6 +14462,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Further along in this chain of effects, #a higher wage rate# leads to #increased consumer spending#, setting the stage for #inflation to rise#.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T102636Z" creationid="Olivier" creationdate="20201006T102636Z">
+        <seg>Plus loin dans la réaction en chaîne des effets, #un taux de salaire plus élevé# conduit à #une augmentation des dépenses de consommation#, ouvrant la voie à une augmentation de #l'inflation#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fusion amicale IA|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T104653Z" creationid="Olivier" creationdate="20200710T104653Z">
@@ -14518,6 +14550,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GDP_CONS</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T102728Z" creationid="Olivier" creationdate="20201006T102728Z">
+        <seg>GDP_CONS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GDP_EFF1</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T101118Z" creationid="Olivier" creationdate="20201006T101118Z">
@@ -14530,6 +14570,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T102337Z" creationid="Olivier" creationdate="20201006T102337Z">
         <seg>GDP_EFF2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GDP_EFF3</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T102542Z" creationid="Olivier" creationdate="20201006T102542Z">
+        <seg>GDP_EFF3</seg>
       </tuv>
     </tu>
     <tu>
@@ -33585,6 +33633,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Subsequently the #tightening labor market# will force companies to #raise salaries of their employees#.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T102541Z" creationid="Olivier" creationdate="20201006T102541Z">
+        <seg>Par la suite, le #durcissement du marché du travail# obligera les entreprises à augmenter les salaires de leurs employés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Subsidiaries=0</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200827T095715Z" creationid="Olivier" creationdate="20200827T095715Z">
@@ -41461,6 +41517,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T180345Z" creationid="Acer" creationdate="20200424T180345Z">
         <seg>Quand il est écrit "1er", cela signifie que votre société a atteint une position dominante sur le marché pour la classe de produits concernée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When rising inflation is unchecked and eventually runs rampant, the central bank will have no choice but to put a break on it by #hiking the interest rate# aggressively, which will inevitably #drag the economy into recession#.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T102727Z" creationid="Olivier" creationdate="20201006T102727Z">
+        <seg>Lorsque la hausse de l'inflation n'est pas maîtrisée et finit par se généraliser, la banque centrale n'aura pas d'autre choix que de la freiner en #augmentant le taux d'intérêt# de manière agressive, ce qui entraînera inévitablement #la régression de l'économie.#.</seg>
       </tuv>
     </tu>
     <tu>
