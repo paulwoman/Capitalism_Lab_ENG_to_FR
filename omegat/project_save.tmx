@@ -8350,6 +8350,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>City=Munich</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200915T123921Z" creationid="Olivier" creationdate="20200915T123921Z">
+        <seg>City=Munich</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>City=My Home Town</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T103625Z" creationid="Olivier" creationdate="20200428T103625Z">
@@ -8430,6 +8438,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>City=Seattle</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200915T123800Z" creationid="Olivier" creationdate="20200915T123800Z">
+        <seg>City=Seattle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>City=Seoul</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T100146Z" creationid="Olivier" creationdate="20200429T100146Z">
@@ -8458,6 +8474,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220345Z" creationid="Olivier" creationdate="20200429T220345Z">
         <seg>City=Sydney</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City=Tel Aviv</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200915T123758Z" creationid="Olivier" creationdate="20200915T123758Z">
+        <seg>City=Tel Aviv</seg>
       </tuv>
     </tu>
     <tu>
@@ -10222,6 +10246,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Contest Deadline=2021-06-30</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200915T123547Z" creationid="Olivier" creationdate="20200915T123547Z">
+        <seg>Contest Deadline=2021-06-30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Contest Started On=2020-03-16</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T145711Z" creationid="Olivier" creationdate="20200426T145711Z">
@@ -10266,6 +10298,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T102751Z" creationid="Olivier" creationdate="20200710T102751Z">
         <seg>Contest Started On=2020-07-08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contest Started On=2020-09-14</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200915T123546Z" creationid="Olivier" creationdate="20200915T123546Z">
+        <seg>Contest Started On=2020-09-14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contest Started On=2020-09-15</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200915T123552Z" creationid="Olivier" creationdate="20200915T123552Z">
+        <seg>Contest Started On=2020-09-15</seg>
       </tuv>
     </tu>
     <tu>
@@ -11342,6 +11390,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=The goal of this scenario is to acquire a total of eight private tech companies and consolidate them to reap the benefits of synergy and economies of scale.^^You must act fast as burgeoning valuations of tech companies mean that the rapidly rising acquisition costs may soon exceed your financial reach.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200915T123741Z" creationid="Olivier" creationdate="20200915T123741Z">
+        <seg>Description=L'objectif de ce scénario est d'acquérir un total de huit entreprises technologiques privées et de les consolider afin de récolter les bénéfices de la synergie et des économies d'échelle.^^Vous devez agir rapidement car les évaluations florissantes des entreprises technologiques signifient que les coûts d'acquisition augmentent rapidement et pourraient bientôt dépasser votre portée financière.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=The stock market has seen a series of highly successful IPOs (initial public offerings) lately.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T220352Z" creationid="Olivier" creationdate="20200430T220352Z">
@@ -11682,6 +11738,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T210735Z" creationid="Olivier" creationdate="20200423T210735Z">
         <seg>Description=Vous avez fait des progrès impressionnants jusqu'à présent et vous avez acquis la réputation d'être l'une des étoiles montantes du monde des affaires.^^Dans ce dernier tutoriel, vous apprendrez comment construire votre siège social et mettre en place différents départements pour vous permettre de gérer votre empire commercial encore plus efficacement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=You have scored a string of high-profile investments from some of the most sought-after and famed investors.^^Now comes the hard part: your demanding investors are not going to satisfied with anything less than your company reigning supreme in the digital world.^^You will win this scenario and be praised for your achievement when you concurrently dominate all the three digital industries: telecom, the Internet and computer OS and software.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200915T123920Z" creationid="Olivier" creationdate="20200915T123920Z">
+        <seg>Description=Vous avez obtenu une série d'investissements de premier plan de la part de certains des investisseurs les plus recherchés et les plus célèbres.^^ Maintenant, le plus dur est à faire : vos investisseurs exigeants ne se contenteront de rien d'autre que de voir votre entreprise régner en maître dans le monde numérique.^^ Vous gagnerez ce scénario et serez félicité pour votre réussite lorsque vous dominerez simultanément les trois industries numériques : les télécommunications, l'Internet et les systèmes d'exploitation et logiciels informatiques.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12689,6 +12753,14 @@
         <seg>Earning Per Share</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151935Z" creationid="Olivier" creationdate="20200504T151911Z">
+        <seg>Bénéfice Par Action</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Earnings Per Share</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200915T124129Z" creationid="Olivier" creationdate="20200915T124129Z">
         <seg>Bénéfice Par Action</seg>
       </tuv>
     </tu>
@@ -15577,6 +15649,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=The goal of this scenario is to acquire a total of eight private tech companies and consolidate them to reap the benefits of synergy and economies of scale.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200915T123850Z" creationid="Olivier" creationdate="20200915T123850Z">
+        <seg>Goal Description=L'objectif de ce scénario est d'acquérir un total de huit entreprises technologiques privées et de les consolider afin de récolter les bénéfices de la synergie et des économies d'échelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Description=The goals in this scenario can only be achieved by formulating your business strategies expertly and executing them flawlessly.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200802T100616Z" creationid="Olivier" creationdate="20200802T100549Z">
@@ -15797,6 +15877,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220111Z" creationid="Olivier" creationdate="20200429T220111Z">
         <seg>Goal Description=Vous gagnez ce jeu lorsque vous avez fait monter en flèche votre patrimoine personnel à un milliard de dollars et que vous avez pris le contrôle de cinq sociétés publiques, soit directement, soit par l'intermédiaire de votre holding.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Description=You will win this scenario and be praised for your achievement when you concurrently dominate all the three digital industries: telecom, the Internet and computer OS and software.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200915T124010Z" creationid="Olivier" creationdate="20200915T124010Z">
+        <seg>Goal Description=Vous gagnerez ce scénario et serez félicité pour votre réussite lorsque vous dominerez simultanément les trois industries numériques : les télécommunications, l'Internet et les systèmes d'exploitation et logiciels informatiques.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16069,6 +16157,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T221015Z" creationid="Olivier" creationdate="20200429T221015Z">
         <seg>Goal Title=Développer un portefeuille de produits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Digital Supremacy</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200915T123940Z" creationid="Olivier" creationdate="20200915T123940Z">
+        <seg>Goal Title=Suprématie numérique</seg>
       </tuv>
     </tu>
     <tu>
@@ -16357,6 +16453,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T215049Z" creationid="Olivier" creationdate="20200429T215049Z">
         <seg>Goal Title=Conglomérat multinational</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=On a Buying Spree</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200915T123822Z" creationid="Olivier" creationdate="20200915T123822Z">
+        <seg>Goal Title=Une frénésie d'achats</seg>
       </tuv>
     </tu>
     <tu>
@@ -20001,6 +20105,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you succeed in executing this plan, the mergers will give you the much-needed technologies and talents to build the digital powerhouse that you have always dreamed of.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200915T123756Z" creationid="Olivier" creationdate="20200915T123756Z">
+        <seg>Si vous réussissez à exécuter ce plan, les fusions vous donneront les technologies et les talents dont vous avez tant besoin pour construire la centrale numérique dont vous avez toujours rêvé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you update files in other subfolders (e.g. IMAGES\PERSONS folder), you should run the PACK.BAT in those folders to pack the respective files.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T160318Z" creationid="Olivier" creationdate="20200427T160318Z">
@@ -23499,8 +23611,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Manufacturing</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200516T220003Z" creationid="Olivier" creationdate="20200428T102206Z">
-        <seg>Fabrication</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200915T125917Z" creationid="Olivier" creationdate="20200915T125917Z">
+        <seg>Manufacturing</seg>
       </tuv>
     </tu>
     <tu>
@@ -25561,6 +25673,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OS Dominance</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200915T124022Z" creationid="Olivier" creationdate="20200915T124022Z">
+        <seg>OS Dominance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>OS Market Share=75</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200606T142212Z" creationid="Olivier" creationdate="20200606T142212Z">
@@ -26995,8 +27115,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Parent Goal=Develop a Product Portfolio</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T221141Z" creationid="Olivier" creationdate="20200429T221141Z">
-        <seg>Parent Goal=Develop a Product Portfolio</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200915T130247Z" creationid="Olivier" creationdate="20200429T221141Z">
+        <seg>Parent Goal=Développer un portefeuille de produits</seg>
       </tuv>
     </tu>
     <tu>
@@ -29245,6 +29365,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T095718Z" creationid="Olivier" creationdate="20200508T095718Z">
         <seg>La synchronisation des prix est désactivée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Private Acquisitions=8</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200915T123851Z" creationid="Olivier" creationdate="20200915T123851Z">
+        <seg>Private Acquisitions=8</seg>
       </tuv>
     </tu>
     <tu>
@@ -34193,6 +34321,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Telecom Dominance</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200915T124021Z" creationid="Olivier" creationdate="20200915T124021Z">
+        <seg>Telecom Dominance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tendency of AI companies with a diversification business strategy, which may expand into any types of industry, to set up banks.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T194239Z" creationid="Inrepublica" creationdate="20200422T194239Z">
@@ -34956,6 +35092,14 @@ Choose one of eight pre-set difficulty levels.</seg>
         <seg>The Earning Per Share is a company's operating profit over the past 365 days divided by the total number of outstanding shares.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151955Z" creationid="Olivier" creationdate="20200504T151955Z">
+        <seg>Le bénéfice par action est le bénéfice d'exploitation d'une société au cours des 365 derniers jours divisé par le nombre total d'actions en circulation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Earnings Per Share is a company's operating profit over the past 365 days divided by the total number of outstanding shares.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200915T124147Z" creationid="Olivier" creationdate="20200915T124147Z">
         <seg>Le bénéfice par action est le bénéfice d'exploitation d'une société au cours des 365 derniers jours divisé par le nombre total d'actions en circulation.</seg>
       </tuv>
     </tu>
@@ -38609,6 +38753,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Title=On a Buying Spree</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200915T123622Z" creationid="Olivier" creationdate="20200915T123622Z">
+        <seg>Title=Une frénésie d'achats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Title=Opportunities in Small Cities</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T220754Z" creationid="Olivier" creationdate="20200429T220754Z">
@@ -39389,6 +39541,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T151826Z" creationid="Olivier" creationdate="20200507T151826Z">
         <seg>Total des primes d'assurance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Total Internet Market Share=50</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200915T124021Z" creationid="Olivier" creationdate="20200915T124021Z">
+        <seg>Total Internet Market Share=50</seg>
       </tuv>
     </tu>
     <tu>
@@ -46298,8 +46458,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>[0649]&lt;FA13&gt;Past 12 months|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T232823Z" creationid="Olivier" creationdate="20200509T232823Z">
-        <seg>[0649]&lt;FA13&gt;Les 12 derniers mois|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200919T091100Z" creationid="Olivier" creationdate="20200509T232823Z">
+        <seg>[0649]&lt;FA13&gt;12 mois préc.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -47082,8 +47242,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>[0719]&lt;FET5&gt;Please select a location|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T083549Z" creationid="Olivier" creationdate="20200510T083549Z">
-        <seg>[0719]&lt;FET5&gt;Veuillez sélectionner un emplacements|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200916T234247Z" creationid="Olivier" creationdate="20200510T083549Z">
+        <seg>[0719]&lt;FET5&gt;Choisissez  un emplacement|</seg>
       </tuv>
     </tu>
     <tu>
@@ -47098,8 +47258,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>[0721]&lt;FET7&gt;Land cost: |</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T231242Z" creationid="Olivier" creationdate="20200510T083552Z">
-        <seg>[0721]&lt;FET7&gt;Prix du terrain : |</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200924T170006Z" creationid="Olivier" creationdate="20200510T083552Z">
+        <seg>[0721]&lt;FET7&gt;Terrain : |</seg>
       </tuv>
     </tu>
     <tu>
@@ -47114,8 +47274,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>[0722]&lt;FET8&gt;The location is occupied by residential|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T083555Z" creationid="Olivier" creationdate="20200510T083555Z">
-        <seg>[0722]&lt;FET8&gt;L'emplacement est occupé par des résidences|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200924T170438Z" creationid="Olivier" creationdate="20200510T083555Z">
+        <seg>[0722]&lt;FET8&gt;L'emplacement est occupé par des résidences.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -47130,8 +47290,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>[0723]&lt;FET9&gt;buildings.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T083558Z" creationid="Olivier" creationdate="20200510T083558Z">
-        <seg>[0723]&lt;FET9&gt;constructions.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200924T170454Z" creationid="Olivier" creationdate="20200510T083558Z">
+        <seg>[0723]&lt;FET9&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -48466,16 +48626,16 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>[0871]&lt;0086&gt;Production|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T144747Z" creationid="Olivier" creationdate="20200429T144747Z">
-        <seg>[0871]&lt;0086&gt;Production|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200919T091109Z" creationid="Olivier" creationdate="20200429T144747Z">
+        <seg>[0871]&lt;0086&gt;Product°|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[0872]&lt;0087&gt;Retail|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200523T220301Z" creationid="Olivier" creationdate="20200429T144759Z">
-        <seg>[0872]&lt;0087&gt;Distribution|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200919T091116Z" creationid="Olivier" creationdate="20200429T144759Z">
+        <seg>[0872]&lt;0087&gt;Distribut°|</seg>
       </tuv>
     </tu>
     <tu>
@@ -59210,24 +59370,24 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>[2799]&lt;BF02&gt;to relocate the firm.|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093646Z" creationid="Olivier" creationdate="20200512T093646Z">
-        <seg>[2799]&lt;BF02&gt;pour délocaliser cet établissement|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200916T233924Z" creationid="Olivier" creationdate="20200512T093646Z">
+        <seg>[2799]&lt;BF02&gt;pour délocaliser cette firme|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2800]&lt;BF03&gt;to duplicate the firm.|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093700Z" creationid="Olivier" creationdate="20200512T093700Z">
-        <seg>[2800]&lt;BF03&gt;pour dupliquer l'établissement|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200916T233914Z" creationid="Olivier" creationdate="20200512T093700Z">
+        <seg>[2800]&lt;BF03&gt;pour dupliquer la firme|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2801]&lt;BF04&gt;to build the firm.|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093714Z" creationid="Olivier" creationdate="20200512T093714Z">
-        <seg>[2801]&lt;BF04&gt;pour construire l'établissement|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200916T234403Z" creationid="Olivier" creationdate="20200512T093714Z">
+        <seg>[2801]&lt;BF04&gt;où installer la firme.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -59250,16 +59410,16 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>[2804]&lt;BF07&gt;Price Premium|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T093802Z" creationid="Olivier" creationdate="20200512T093802Z">
-        <seg>[2804]&lt;BF07&gt;Prix Premium|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200917T000025Z" creationid="Olivier" creationdate="20200512T093802Z">
+        <seg>[2804]&lt;BF07&gt;Prix Avantageux|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[2805]&lt;BF08&gt;Hold the [SHIFT] key concurrently to Build More|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T093933Z" creationid="Olivier" creationdate="20200819T093933Z">
-        <seg>[2805]&lt;BF08&gt;Maintenez la touche [SHIFT] enfoncée simultanément pour construire plus|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200916T234740Z" creationid="Olivier" creationdate="20200819T093933Z">
+        <seg>[2805]&lt;BF08&gt;Enfoncez [SHIFT] pour plusieurs constructions|</seg>
       </tuv>
     </tu>
     <tu>
@@ -63596,6 +63756,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200908T094607Z" creationid="Olivier" creationdate="20200908T094600Z">
         <seg>[3324]&lt;SNV1&gt;Désolé, vous ne pouvez pas créer une nouvelle version pour le moment.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3324]&lt;SNV1&gt;Sorry, you cannot make a new version at the moment.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20200915T124215Z" creationid="Olivier" creationdate="20200915T124215Z">
+        <seg>[3324]&lt;SNV1&gt;Désolé, vous ne pouvez pas faire une nouvelle version pour le moment.|</seg>
       </tuv>
     </tu>
     <tu>
