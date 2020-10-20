@@ -64080,6 +64080,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3332]&lt;CBR1&gt;The city government of %1s declares bankruptcy.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201020T134043Z" creationid="Olivier" creationdate="20201020T134043Z">
+        <seg>[3332]&lt;CBR1&gt;Le gouvernement de la ville de %1s se déclare en faillite.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3333]&lt;CBR2&gt;Under pressure, mayor %1s resigns from the office.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201020T134058Z" creationid="Olivier" creationdate="20201020T134058Z">
+        <seg>[3333]&lt;CBR2&gt;Sous la pression, le maire %1s démissionne de son poste.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202555Z" creationid="Inrepublica" creationdate="20200422T202555Z">
