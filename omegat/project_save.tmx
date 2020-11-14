@@ -2534,6 +2534,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A growing real wage rate means that people are earning more money, even after adjusting for inflation.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201114T101054Z" creationid="Olivier" creationdate="20201114T101054Z">
+        <seg>Un taux de salaire réel en hausse signifie que les gens gagnent plus d'argent, même après correction de l'inflation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A growing real wage rate means that people are earning more money, even after being adjusted for inflation.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143337Z" creationid="Olivier" creationdate="20200503T143337Z">
@@ -10222,6 +10230,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Consumer Price Index</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201114T101138Z" creationid="Olivier" creationdate="20201114T101138Z">
+        <seg>Indice des prix à la consommation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Consumer Price Index (CPI)</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143624Z" creationid="Olivier" creationdate="20200503T143624Z">
@@ -12462,6 +12478,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ECOSTATE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201114T101207Z" creationid="Olivier" creationdate="20201114T101207Z">
+        <seg>ECOSTATE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ECO_MAX</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150605Z" creationid="Olivier" creationdate="20200504T150605Z">
@@ -12794,6 +12818,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200915T124129Z" creationid="Olivier" creationdate="20200915T124129Z">
         <seg>Bénéfice Par Action</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Economic State</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201114T101225Z" creationid="Olivier" creationdate="20201114T101225Z">
+        <seg>État économique</seg>
       </tuv>
     </tu>
     <tu>
@@ -35769,6 +35801,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The base value is 100.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201114T101205Z" creationid="Olivier" creationdate="20201114T101205Z">
+        <seg>La valeur de base est de 100.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The blue bars increases in length when crops are being harvested.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T155708Z" creationid="Olivier" creationdate="20200426T155708Z">
@@ -36309,6 +36349,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143537Z" creationid="Olivier" creationdate="20200503T143537Z">
         <seg>Le taux d'inflation est influencé par le taux de chômage (les gens dépensent moins lorsqu'ils sont au chômage) et par la demande et l'offre de monnaie (une offre de monnaie plus élevée encourage les dépenses).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The inflation rate is primarily affected by the unemployment rate (people spend less when they are unemployed) and the money demand and supply (increased money supply promotes consumer spending).</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201114T101120Z" creationid="Olivier" creationdate="20201114T101120Z">
+        <seg>Le taux d'inflation est principalement influencé par le taux de chômage (les gens dépensent moins lorsqu'ils sont au chômage) et par l'offre et la demande de monnaie (l'augmentation de la masse monétaire favorise les dépenses de consommation).</seg>
       </tuv>
     </tu>
     <tu>
@@ -37225,6 +37273,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The unemployment rate decreases when the economy is growing, and companies are expanding and creating new jobs.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201114T101031Z" creationid="Olivier" creationdate="20201114T101031Z">
+        <seg>Le taux de chômage diminue lorsque l'économie est en croissance, et que les entreprises se développent et créent de nouveaux emplois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The unemployment rate trends lower when the GDP growth is healthy and private companies are expanding and creating new jobs.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143222Z" creationid="Olivier" creationdate="20200503T143222Z">
@@ -37985,6 +38041,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This indicates the present state of the city's economy.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201114T101236Z" creationid="Olivier" creationdate="20201114T101236Z">
+        <seg>Cela indique l'état actuel de l'économie de la ville.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This indicates whether there are enough application software available for this OS.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T092458Z" creationid="Olivier" creationdate="20200507T092458Z">
@@ -38429,6 +38493,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T141726Z" creationid="Olivier" creationdate="20200503T141726Z">
         <seg>Cela montre l'évolution de la population de la ville au fil du temps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This shows the cumulative change in the price level of consumer goods since the beginning of the game.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201114T101149Z" creationid="Olivier" creationdate="20201114T101149Z">
+        <seg>Cela montre l'évolution cumulative du niveau des prix des biens de consommation depuis le début du jeu.</seg>
       </tuv>
     </tu>
     <tu>
