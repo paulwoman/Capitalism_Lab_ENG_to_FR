@@ -102,6 +102,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#Exports# occur when companies sell products to business clients in another city.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T102954Z" creationid="Olivier" creationdate="20201006T102954Z">
+        <seg>#Les exportations# se produisent lorsque des entreprises vendent des produits à des clients commerciaux dans une autre ville.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>#Imports# occur when companies in the game purchase products from suppliers in a different city.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T103001Z" creationid="Olivier" creationdate="20201006T102927Z">
+        <seg>#Les importations# surviennent lorsque les entreprises du jeu achètent des produits à des fournisseurs d'une autre ville.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#Life insurance policies#, which are assumed to last an average of 30 years in this game, will generate premium incomes for the insurance company on a yearly basis until the policies mature.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151139Z" creationid="Olivier" creationdate="20200507T151717Z">
@@ -10230,6 +10246,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Consumption</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T102734Z" creationid="Olivier" creationdate="20201006T102734Z">
+        <seg>Consommation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Consumption is the total value of goods and services that are bought by the population simulated in the game.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T102751Z" creationid="Olivier" creationdate="20201006T102751Z">
+        <seg>La consommation est la valeur totale des biens et services qui sont achetés par la population simulée dans le jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Consumption is the value of goods and services bought by people.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T094126Z" creationid="Olivier" creationdate="20200506T094126Z">
@@ -12806,6 +12838,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Effects of GDP (part 1)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T101145Z" creationid="Olivier" creationdate="20201006T101145Z">
+        <seg>Effets du PIB (partie 1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Effects of GDP (part 2)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T102350Z" creationid="Olivier" creationdate="20201006T102350Z">
+        <seg>Effets du PIB (partie 2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Effects of GDP (part 3)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T102555Z" creationid="Olivier" creationdate="20201006T102555Z">
+        <seg>Effets du PIB (partie3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Electronic Products</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T165438Z" creationid="Olivier" creationdate="20200429T165438Z">
@@ -14134,6 +14190,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For example, when your company embarks on a large-scale business expansion in a city, it increases the #Investment component# of GDP, which in turn contributes to the #GDP growth# and kicks the economy into the high gear.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T102423Z" creationid="Olivier" creationdate="20201006T102423Z">
+        <seg>Par exemple, lorsque votre entreprise se lance dans une expansion commerciale à grande échelle dans une ville, elle accroît la #composante investissement# du PIB, qui à son tour contribue à la #croissance du PIB# et fait passer l'économie à la vitesse supérieure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, you may set your apartment's rent to be always 10% higher than the market rate.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T102049Z" creationid="Olivier" creationdate="20200503T102049Z">
@@ -14414,6 +14478,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Further along in this chain of effects, #a higher wage rate# leads to #increased consumer spending#, setting the stage for #inflation to rise#.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T102636Z" creationid="Olivier" creationdate="20201006T102636Z">
+        <seg>Plus loin dans la réaction en chaîne des effets, #un taux de salaire plus élevé# conduit à #une augmentation des dépenses de consommation#, ouvrant la voie à une augmentation de #l'inflation#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fusion amicale IA|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T104653Z" creationid="Olivier" creationdate="20200710T104653Z">
@@ -14490,6 +14562,62 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T094107Z" creationid="Olivier" creationdate="20200506T094107Z">
         <seg>Le PIB est la somme de la consommation, de l'investissement, des dépenses publiques et des exportations nettes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GDP_CONS</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T102728Z" creationid="Olivier" creationdate="20201006T102728Z">
+        <seg>GDP_CONS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GDP_EFF1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T101118Z" creationid="Olivier" creationdate="20201006T101118Z">
+        <seg>GDP_EFF1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GDP_EFF2</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T102337Z" creationid="Olivier" creationdate="20201006T102337Z">
+        <seg>GDP_EFF2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GDP_EFF3</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T102542Z" creationid="Olivier" creationdate="20201006T102542Z">
+        <seg>GDP_EFF3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GDP_GOVE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T102813Z" creationid="Olivier" creationdate="20201006T102813Z">
+        <seg>GDP_GOVE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GDP_INVE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T102752Z" creationid="Olivier" creationdate="20201006T102752Z">
+        <seg>GDP_INVE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GDP_NETE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T102836Z" creationid="Olivier" creationdate="20201006T102836Z">
+        <seg>GDP_NETE</seg>
       </tuv>
     </tu>
     <tu>
@@ -16717,6 +16845,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T144914Z" creationid="Olivier" creationdate="20200430T144914Z">
         <seg>Goods Supply rating=90</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Government Expenditure</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T102822Z" creationid="Olivier" creationdate="20201006T102822Z">
+        <seg>Dépenses publiques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Government Expenditure is the total expenditure of the city government, which can be run by a player controlled mayor.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T102835Z" creationid="Olivier" creationdate="20201006T102835Z">
+        <seg>Les dépenses gouvernementales sont les dépenses totales du gouvernement de la ville, qui peuvent être gérées par un maire contrôlé par le joueur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21217,6 +21361,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Investment</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T102757Z" creationid="Olivier" creationdate="20201006T102757Z">
+        <seg>Investissement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Investment Bank|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200607T173124Z" creationid="Olivier" creationdate="20200607T173124Z">
@@ -21245,6 +21397,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T094457Z" creationid="Olivier" creationdate="20200506T094457Z">
         <seg>L'investissement est l'investissement total des entreprises.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Investment is the total investment made by the player and AI corporations in setting up new businesses.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T102811Z" creationid="Olivier" creationdate="20201006T102811Z">
+        <seg>L'investissement est l'investissement total réalisé par le joueur et les sociétés d'IA dans la création de nouvelles entreprises.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24177,6 +24337,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Net Exports</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T102844Z" creationid="Olivier" creationdate="20201006T102844Z">
+        <seg>Exportations Nettes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Net Exports equal to #exports# minus #imports#.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T102901Z" creationid="Olivier" creationdate="20201006T102901Z">
+        <seg>Les exportations nettes sont égales aux #exportations# moins les #importations#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Net Exports equal to exports less imports.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T095750Z" creationid="Olivier" creationdate="20200506T095750Z">
@@ -26105,6 +26281,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open the Event Tracker Window.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T101113Z" creationid="Olivier" creationdate="20201006T101113Z">
+        <seg>Affiche la fenêtre de suivi des événements.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open the Goal report</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T123133Z" creationid="Olivier" creationdate="20200428T123133Z">
@@ -26117,6 +26301,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T131735Z" creationid="Olivier" creationdate="20200427T131629Z">
         <seg>Affiche l'écran du centre d'informations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the Information Center screen.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T101104Z" creationid="Olivier" creationdate="20201006T101104Z">
+        <seg>Affiche l'écran du centre d'informations.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32721,6 +32913,30 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Show or hide the Mini Map.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T101036Z" creationid="Olivier" creationdate="20201006T101036Z">
+        <seg>Affiche ou cache la mini carte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show or hide the Toolbox menu.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T101014Z" creationid="Olivier" creationdate="20201006T101014Z">
+        <seg>Affiche le menu de la boîte à outils.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show or hide the World Map.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T101052Z" creationid="Olivier" creationdate="20201006T101052Z">
+        <seg>Affiche ou cache la carte du monde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Show products that your company produces</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T165910Z" creationid="Olivier" creationdate="20200502T165817Z">
@@ -33501,6 +33717,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T110259Z" creationid="Olivier" creationdate="20200525T110259Z">
         <seg>Soumission des contributions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Subsequently the #tightening labor market# will force companies to #raise salaries of their employees#.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T102541Z" creationid="Olivier" creationdate="20201006T102541Z">
+        <seg>Par la suite, le #durcissement du marché du travail# obligera les entreprises à augmenter les salaires de leurs employés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35937,6 +36161,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The following #GDP components# contribute to the GDP growth and make a huge impact on the economy, leading to booms and #busts in the economic cycle#, affecting #inflation#, #employment rates#, #wage rates#, and #interest rates#.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T135634Z" creationid="Olivier" creationdate="20201006T102336Z">
+        <seg>Les #composantes du PIB# suivantes contribuent à la croissance du PIB et ont un impact énorme sur l'économie, entraînant des booms et des #récessions dans le cycle économique#, affectant #l'inflation#, #les taux d'emploi#, #les taux de salaire# et #les taux d'intérêt#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The funding will help improve the city's competitiveness in the focused area.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T145629Z" creationid="Olivier" creationdate="20200503T145629Z">
@@ -36317,6 +36549,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T145902Z" creationid="Olivier" creationdate="20200502T145902Z">
         <seg>Le nouveau tarif publicitaire (coût pour mille impressions) entrera en vigueur le mois prochain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The newly established companies #create jobs# for the city, lowering the #unemployment rate#.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T102440Z" creationid="Olivier" creationdate="20201006T102440Z">
+        <seg>Les entreprises nouvellement créées #créent des emplois# pour la ville, ce qui fait baisser le #taux de chômage#.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37443,8 +37683,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>This adjusts the economy's impact on consumer demand, which affects GDP and in turn affects the volatility of the boom-bust cycle.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203657Z" creationid="Inrepublica" creationdate="20200422T203657Z">
-        <seg>Cela permet d'ajuster l'impact de l'économie sur la demande des consommateurs, ce qui affecte le PIB et, par conséquent, la volatilité du cycle d'expansion et d'effondrement.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T135534Z" creationid="Inrepublica" creationdate="20200422T203657Z">
+        <seg>Cela permet d'ajuster l'impact de l'économie sur la demande des consommateurs, ce qui affecte le PIB et, par conséquent, la volatilité du cycle d'expansion et  de récession.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39497,6 +39737,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Toolbox (hotkey: Ctrl-T)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T101000Z" creationid="Olivier" creationdate="20201006T101000Z">
+        <seg>Boîte à outils (touche de raccourci : Ctrl-T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Top Tech</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T085140Z" creationid="Olivier" creationdate="20200508T085124Z">
@@ -41357,6 +41605,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T180345Z" creationid="Acer" creationdate="20200424T180345Z">
         <seg>Quand il est écrit "1er", cela signifie que votre société a atteint une position dominante sur le marché pour la classe de produits concernée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When rising inflation is unchecked and eventually runs rampant, the central bank will have no choice but to put a break on it by #hiking the interest rate# aggressively, which will inevitably #drag the economy into recession#.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T102727Z" creationid="Olivier" creationdate="20201006T102727Z">
+        <seg>Lorsque la hausse de l'inflation n'est pas maîtrisée et finit par se généraliser, la banque centrale n'aura pas d'autre choix que de la freiner en #augmentant le taux d'intérêt# de manière agressive, ce qui entraînera inévitablement #la régression de l'économie.#.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63812,6 +64068,30 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200908T094944Z" creationid="Olivier" creationdate="20200908T094944Z">
         <seg>[3330]&lt;LPLS&gt;Les plans d'aménagement de ce dossier ont été triés selon leur description.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3331]&lt;DEXP&gt;The game data has been exported to|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201020T134013Z" creationid="Olivier" creationdate="20201020T134013Z">
+        <seg>[3331]&lt;DEXP&gt;Les données du jeu ont été exportées vers|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3332]&lt;CBR1&gt;The city government of %1s declares bankruptcy.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201020T134043Z" creationid="Olivier" creationdate="20201020T134043Z">
+        <seg>[3332]&lt;CBR1&gt;Le gouvernement de la ville de %1s se déclare en faillite.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3333]&lt;CBR2&gt;Under pressure, mayor %1s resigns from the office.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201020T134058Z" creationid="Olivier" creationdate="20201020T134058Z">
+        <seg>[3333]&lt;CBR2&gt;Sous la pression, le maire %1s démissionne de son poste.|</seg>
       </tuv>
     </tu>
     <tu>
