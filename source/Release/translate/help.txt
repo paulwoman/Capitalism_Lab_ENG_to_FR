@@ -1417,11 +1417,11 @@ The total GDP is the sum of the consumption, private investment, government spen
 ~
 E_UNEMP
 Unemployment Rate 
-The unemployment rate trends lower when the GDP growth is healthy and private companies are expanding and creating new jobs. 
+The unemployment rate decreases when the economy is growing, and companies are expanding and creating new jobs.
 ~
 E_RWAGE
 Real Wage Rate  
-Real wages refers to wages that have been adjusted for inflation. A growing real wage rate means that people are earning more money, even after being adjusted for inflation. 
+Real wages refers to wages that have been adjusted for inflation. A growing real wage rate means that people are earning more money, even after adjusting for inflation. 
 ~
 E_WAGE
 Wage Rate  
@@ -1429,15 +1429,15 @@ A growing wage rate means that people are earning more money.
 ~
 E_INFLAT
 Inflation Rate 
-The inflation rate is affected by the unemployment rate (people spend less when they are unemployed) and the money demand and supply (higher money supply promotes spending). 
+The inflation rate is primarily affected by the unemployment rate (people spend less when they are unemployed) and the money demand and supply (increased money supply promotes consumer spending). 
 ~
 E_IRATE
 Loan Interest Rate
 The interest rate is set by the central bank. When the interest rate is high, the money supply is also tight. 
 ~
 E_CPI
-Consumer Price Index (CPI)
-CPI tells the accumulated effects of inflation over years. It starts with a base value of 100 and increases during inflation times and decreases during deflation times.
+Consumer Price Index
+This shows the cumulative change in the price level of consumer goods since the beginning of the game. The base value is 100.
 ~
 NOWAIT1
 Cancel Waiting 
@@ -3427,4 +3427,28 @@ Government Expenditure is the total expenditure of the city government, which ca
 GDP_NETE
 Net Exports
 Net Exports equal to #exports# minus #imports#. #Imports# occur when companies in the game purchase products from suppliers in a different city. #Exports# occur when companies sell products to business clients in another city.
+~
+ECOSTATE
+Economic State
+This indicates the present state of the city's economy. When the economy is booming, there will be strong demand for consumer goods. Conversely, during a recession, consumers reduce their spending, especially for non-essential goods.
+~
+GDP_GROW
+GDP Growth Rate
+The GDP growth rate indicates how fast the economy is growing. A negative growth rate means that the economy is shrinking.
+~
+CBANKATT
+Central Bank Attitude
+This shows the central bank's attitude toward inflation. Inflation Dove means that the central bank is willing to let inflation run higher before raising the interest rate. 
+~
+CBANKPOL
+Central Bank Policy
+This indicates whether the central bank currently maintains a loose monetary policy with increased money supply and a low interest rate, or a tight monetary policy with reduced money supply and a high interest rate.
+~
+MONEYSD
+Money Supply and Demand 
+This indicates the current levels of money supply and demand. When the central bank maintains a loose monetary policy, there will be an increase to the money supply and the interest rate will fall.
+~
+REDDIT
+Visit the Reddit community of Capitalism Lab. 
+`
 ~
