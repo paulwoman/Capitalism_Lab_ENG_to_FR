@@ -1830,6 +1830,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>//Retail Store Floors=&lt;One, Multiple&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T110530Z" creationid="Olivier" creationdate="20201203T110530Z">
+        <seg>//Étages des magasins de détail=&lt;One, Multiple&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>//Set it to "Multiple" to allow for setting up multiple floors in a single retail store.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T110546Z" creationid="Olivier" creationdate="20201203T110546Z">
+        <seg>//Réglez-le sur "Multiple" pour permettre l'installation de plusieurs étages dans un seul magasin de détail.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>//Subsidiaries=&lt;0 to 3&gt;</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200827T095711Z" creationid="Olivier" creationdate="20200827T095711Z">
@@ -3038,6 +3054,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ACQBANKR</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T110634Z" creationid="Olivier" creationdate="20201203T110634Z">
+        <seg>ACQBANKR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ACTUEL|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150739Z" creationid="Inrepublica" creationdate="20200425T150739Z">
@@ -3906,6 +3930,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200427T075653Z" creationid="Inrepublica" creationdate="20200427T075653Z">
         <seg>Acier|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Acquire Companies Facing Bankruptcy</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T110650Z" creationid="Olivier" creationdate="20201203T110650Z">
+        <seg>Acquérir des entreprises confrontées à la faillite</seg>
       </tuv>
     </tu>
     <tu>
@@ -30665,6 +30697,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Randomly Disable Product Classes=0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T110626Z" creationid="Olivier" creationdate="20201203T110626Z">
+        <seg>Randomly Disable Product Classes=0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Randomly disable product classes</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161033Z" creationid="Inrepublica" creationdate="20200422T161033Z">
@@ -31293,6 +31333,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T162114Z" creationid="Inrepublica" creationdate="20200422T162114Z">
         <seg>Etages des magasins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Retail Store Floors=Multiple</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T110510Z" creationid="Olivier" creationdate="20201203T110510Z">
+        <seg>Retail Store Floors=Multiple</seg>
       </tuv>
     </tu>
     <tu>
@@ -32861,6 +32909,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T153704Z" creationid="Olivier" creationdate="20200507T153619Z">
         <seg>Mettre en place une nouvelle production dans la ferme actuelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Set up a new production for this firm (hotkey: A)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T110718Z" creationid="Olivier" creationdate="20201203T110718Z">
+        <seg>Mettre en place une nouvelle production pour cette entreprise (touche de raccourci : A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -36357,6 +36413,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T101901Z" creationid="Olivier" creationdate="20200819T101901Z">
         <seg>Le jeu n'utilise désormais plus de MOD.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The goal has been achieved.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T110743Z" creationid="Olivier" creationdate="20201203T110743Z">
+        <seg>L'objectif a été achevé.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -42133,6 +42197,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203443Z" creationid="Inrepublica" creationdate="20200422T203443Z">
         <seg>Sur faible, vous pouvez vous attendre à ce que la plupart des produits bénéficient de marges bénéficiaires saines et que les entreprises soient en général plus rentables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When this setting is enabled, when a company is facing bankruptcy, you will be given the option to rescue it by acquiring all the shares of the company.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T110702Z" creationid="Olivier" creationdate="20201203T110702Z">
+        <seg>Lorsque ce paramètre est activé, lorsqu'une entreprise est confrontée à la faillite, vous avez la possibilité de la sauver en acquérant toutes les actions de l'entreprise.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60898,8 +60970,16 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>[2925]&lt;TGW1&gt;Congratulations!</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T135832Z" creationid="Olivier" creationdate="20200512T135832Z">
-        <seg>[2925]&lt;TGW1&gt;Félicitations !!</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T110745Z" creationid="Olivier" creationdate="20200512T135832Z">
+        <seg>[2925]&lt;TGW1&gt;Félicitations !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2926]&lt;TGW2&gt;Congratulations!|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T110756Z" creationid="Olivier" creationdate="20201203T110756Z">
+        <seg>[2926]&lt;TGW2&gt;Félicitations !|</seg>
       </tuv>
     </tu>
     <tu>
@@ -64324,6 +64404,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20201020T134058Z" creationid="Olivier" creationdate="20201020T134058Z">
         <seg>[3333]&lt;CBR2&gt;Sous la pression, le maire %1s démissionne de son poste.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3334]&lt;ABC1&gt;Acquire a Company Near Bankruptcy|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T110819Z" creationid="Olivier" creationdate="20201203T110819Z">
+        <seg>[3334]&lt;ABC1&gt;Acquérir une entreprise au bord de la faillite|</seg>
       </tuv>
     </tu>
     <tu>
