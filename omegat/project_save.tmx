@@ -21785,6 +21785,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is now looking for a buyer.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T110902Z" creationid="Olivier" creationdate="20201203T110902Z">
+        <seg>est à la recherche d'un repreneur.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is the accumulation of of all past political influence values x 50%.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T105005Z" creationid="Olivier" creationdate="20200506T105005Z">
@@ -64412,6 +64420,62 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T110819Z" creationid="Olivier" creationdate="20201203T110819Z">
         <seg>[3334]&lt;ABC1&gt;Acquérir une entreprise au bord de la faillite|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3335]&lt;ABC2&gt;is on the brink of bankruptcy.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T110839Z" creationid="Olivier" creationdate="20201203T110839Z">
+        <seg>[3335]&lt;ABC2&gt;est au bord de la faillite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3336]&lt;ABC3&gt;Would you be interested in acquiring it?|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T110914Z" creationid="Olivier" creationdate="20201203T110914Z">
+        <seg>[3336]&lt;ABC3&gt;Seriez-vous intéressé à l'acquérir ?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3337]&lt;ABC4&gt;If you are interested, the game will be paused, allowing you to take the time to evaluate the company.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T110932Z" creationid="Olivier" creationdate="20201203T110932Z">
+        <seg>[3337]&lt;ABC4&gt;Si vous êtes intéressé, le jeu sera mis en pause, ce qui vous permettra de prendre le temps d'évaluer l'entreprise.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3338]&lt;ABC5&gt;Near Bankruptcy|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T110946Z" creationid="Olivier" creationdate="20201203T110946Z">
+        <seg>[3338]&lt;ABC5&gt;Proche de la banqueroute|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3339]&lt;ABC6&gt;acquires the company|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T110957Z" creationid="Olivier" creationdate="20201203T110957Z">
+        <seg>[3339]&lt;ABC6&gt;acquérir l'entreprise|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3340]&lt;ABC7&gt;rescuing it from bankruptcy.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T111013Z" creationid="Olivier" creationdate="20201203T111013Z">
+        <seg>[3340]&lt;ABC7&gt;la sauver de la faillite.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3341]&lt;SNAM&gt;To locate a specific item, type the first letter of its name.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T111032Z" creationid="Olivier" creationdate="20201203T111032Z">
+        <seg>[3341]&lt;SNAM&gt;Pour localiser un article spécifique, tapez la première lettre de son nom.|</seg>
       </tuv>
     </tu>
     <tu>
