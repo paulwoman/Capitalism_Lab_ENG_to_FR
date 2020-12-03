@@ -1,0 +1,70 @@
+[HEADER]
+Title=Supercharging ROI
+Description=You have devised a solid strategy to supercharge your company's return on investment (ROI), involving the uses of subsidiaries to maximize growth and profitability in the targeted markets.\n\nTo execute this strategy and deliver the results that you have promised your investors, you must first recruit high-caliber executives who excel in the markets that your subsidiaries are to be focused on. But in today's highly competitive business environment, truly good executives are scarce resources, fiercely sought after by numerous companies. Are you confident that you could pull it off?
+Difficulty Rating=100
+DLC=Subsidiary
+
+[ENVIRONMENT]
+Subsidiaries=2
+Number of Cities=5
+Your Start-up Capital=High
+Random Events=Occasional 
+Game Starting Year=1990
+Retail Store Type=Many
+Technology Disruption=On
+Stock Market=Yes
+Alternative Stock Sim=Yes
+Boom-Bust Cycle Volatility=Moderate
+Macro Economy Realism=High
+Inflation=Inverse
+Inflation Strength=Normal
+
+
+[COMPETITORS]
+Number of Competitors=30
+Competitor Start-up Capital=High  
+AI Expansion Aggressiveness=High
+AI Pricing Aggressiveness=Moderate 
+AI Expertise Level=High
+AI Tech Head Start=None
+Show Competitor Trade Secrets=Yes
+AI Friendly Merger=No
+Competence of Local Competitors=Moderate 
+
+[IMPORTS]
+Consumer Goods Seaports=2
+Industrial Goods Seaports=2
+Constant Import Supply=No
+Import Quality=High 
+
+
+//-------------------------------------------------------------------
+
+[MAIN GOAL]
+Goal Title=Supercharging ROI
+Goal Description=You have devised a solid strategy to supercharge your company's return on investment (ROI), involving the uses of subsidiaries to maximize growth and profitability in the targeted markets.^^You must execute this strategy expertly and deliver the results that you have promised your investors.
+
+Number of Game Years=80
+
+[MAIN GOAL VALUES]
+Subsidiary Market Cap=2000,2
+Subsidiary Annual Revenue=1200,3
+Subsidiary Annual Profit=200,3
+
+[MAIN GOAL REWARDS] 
+Score change=300
+
+//-------------------------------------------------------------------
+
+[SUBGOAL]
+Goal Title=Surging Personal Wealth
+Goal Description=You win this subgoal when your personal wealth reaches $500 million. 
+
+Goal Achieved Text=Congratulations! Your personal wealth has surged to a new height. 
+
+[SUBGOAL VALUES]
+Player Wealth=500
+
+[SUBGOAL REWARDS] 
+Score change=100
+Player expertise change=manufacturing, 60

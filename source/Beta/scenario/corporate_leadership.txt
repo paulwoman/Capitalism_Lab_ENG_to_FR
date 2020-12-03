@@ -1,0 +1,169 @@
+[HEADER]
+Title=Corporate Leadership
+Description=You have just assumed the role of CEO of a well funded startup. You must build a solid management team by bringing great managers on board. ^^This scenario uses a special rule where costs of hiring management staff are only 20% of the normal rates. ^^You must demonstrate your leadership by aggressively expanding your business or your executive staff may lose confidence in the company and seek better career opportunities elsewhere. 
+Difficulty Rating=100
+
+[ENVIRONMENT]
+Number of Cities=5
+Your Start-up Capital=High
+Random Events=Occasional 
+Game Starting Year=1990
+Retail Store Type=Many
+Technology Disruption=On
+Stock Market=Yes
+Alternative Stock Sim=Yes
+Boom-Bust Cycle Volatility=Moderate
+Macro Economy Realism=High
+Inflation=Inverse
+Inflation Strength=Normal
+
+
+[COMPETITORS]
+Number of Competitors=20
+Competitor Start-up Capital=Moderate  
+AI Expansion Aggressiveness=Moderate 
+AI Pricing Aggressiveness=Moderate 
+AI Expertise Level=Moderate
+AI Tech Head Start=None
+Show Competitor Trade Secrets=Yes
+AI Friendly Merger=No
+Competence of Local Competitors=Moderate 
+
+[IMPORTS]
+Consumer Goods Seaports=2
+Industrial Goods Seaports=2
+Constant Import Supply=No
+Import Quality=High 
+
+
+//-------------------------------------------------------------------
+
+[MAIN GOAL]
+Goal Title=Ultimate Goal 
+Goal Description=Your ultimate goal in this game is to achieve a corporate revenue of $1 billion and an annual profit of $100 million, and let the financial performance of your company boost the company stock price to over $500. 
+
+Number of Game Years=80
+
+[MAIN GOAL VALUES]
+Player Company Annual Revenue=1000
+Player Company Annual Profit=100
+Stock Price=500
+
+[MAIN GOAL REWARDS] 
+Score change=200
+
+//-------------------------------------------------------------------
+
+[SUBGOAL]
+Goal Title=Growth Expectation 1
+Goal Description=There are tremendous expectations from the shareholders and your staff for the company to grow rapidly under your leadership. Prove your ability and do not disappoint them!
+
+Goal Achieved Text=Well done! Under your leadership, the company continues to grow. Your senior management staff are confident about the company's prospects for the future. 
+
+Goal Failed Text=Your senior management staff are very disappointed by the mediocre performance of the company and decided to resign and seek better career opportunities elsewhere. 
+
+Number of Game Years=10
+
+[SUBGOAL VALUES]
+Player Company Annual Revenue=100
+Player Company Annual Profit=10
+Stock Price=50
+
+[SUBGOAL REWARDS] 
+Score change=50
+COO expertise change=manufacturing, 20 
+CTO expertise change=research and development, 20 
+CMO expertise change=marketing, 20 
+Personal Cash Change=5
+
+[SUBGOAL PENALTIES] 
+Staff resign=COO
+Staff attitude change=COO, -100
+COO salary modifier=50
+
+Staff resign=CTO
+Staff attitude change=CTO, -100
+CTO salary modifier=50
+
+Staff resign=CMO
+Staff attitude change=CMO, -100
+CMO salary modifier=50
+
+//-------------------------------------------------------------------
+
+[SUBGOAL]
+Goal Title=Growth Expectation 2
+Goal Description=You must continue to prove to the shareholders and your staff that you are the right person to lead the company for further growth. 
+
+Goal Achieved Text=Well done! Under your leadership, the company continues to grow. Your senior management staff are confident about the company's prospects for the future. 
+
+Goal Failed Text=Your senior management staff are very disappointed by the mediocre performance of the company and decided to resign and seek better career opportunities elsewhere. 
+
+Number of Game Years=20
+
+[SUBGOAL VALUES]
+Player Company Annual Revenue=200
+Player Company Annual Profit=20
+Stock Price=100
+
+[SUBGOAL REWARDS] 
+Score change=75
+COO expertise change=manufacturing, 20 
+CTO expertise change=research and development, 20 
+CMO expertise change=marketing, 20 
+Personal Cash Change=10
+
+[SUBGOAL PENALTIES] 
+COO salary modifier=75
+Staff attitude change=COO, -100
+Staff resign=COO
+CTO salary modifier=75
+Staff attitude change=CTO, -100
+Staff resign=CTO
+CMO salary modifier=75
+Staff attitude change=CMO, -100
+Staff resign=CMO
+
+//-------------------------------------------------------------------
+
+[SUBGOAL]
+Goal Title=Growth Expectation 3
+Goal Description=Keep on impressing the shareholders and your staff by delivering the performance results they expect.  
+
+Goal Achieved Text=Excellent! Under your leadership, the company continues to grow. Your senior management staff are confident about the company's prospects for the future. 
+
+Goal Failed Text=Your senior management staff are very disappointed by the mediocre performance of the company and decided to resign and seek better career opportunities elsewhere. 
+
+Number of Game Years=30
+
+[SUBGOAL VALUES]
+Player Company Annual Revenue=400
+Player Company Annual Profit=40
+Stock Price=200
+
+[SUBGOAL REWARDS] 
+Score change=100
+COO expertise change=manufacturing, 20 
+CTO expertise change=research and development, 20 
+CMO expertise change=marketing, 20 
+Personal Cash Change=15
+
+[SUBGOAL PENALTIES] 
+COO salary modifier=100
+Staff attitude change=COO, -100
+Staff resign=COO
+CTO salary modifier=100
+Staff attitude change=CTO, -100
+Staff resign=CTO
+CMO salary modifier=100
+Staff attitude change=CMO, -100
+Staff resign=CMO
+
+
+//-------------------------------------------------------------------//
+
+[CHALLENGE GAME]
+Number of Game Years=30
+Ranking Method=Score
+
+

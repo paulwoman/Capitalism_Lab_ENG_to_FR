@@ -1,0 +1,436 @@
+GM_DIFF
+Game difficulty level
+Choose one of eight pre-set difficulty levels. You may also #Customize# or #Randomize# the game settings
+~
+GM_NOC
+Number of Cities
+Play with single or multiple cities.
+~
+GM_SUC
+Your start-up capital
+Set the level of cash your corporation has at the beginning of the game.
+~
+GM_ADV
+Your Advantage
+`
+~
+GM_ASI
+Stock Market
+The stock market allows for stock trading. 
+~
+GM_CUST
+Product Customization
+If this is set to On, you will find the Product Customization tool in the Manufacturer's Guide. ("Technology Disruption" option is disabled when "Product Customization" is enabled.)
+~
+GM_CUSTR
+Product Customization Range
+Low - product customization applies to your company only; Medium - it applies to your company and your subsidiaries; High - it applies to all companies. 
+~
+GM_PRI
+Private Company (Subsidiary DLC)
+If this is set to On, your company will start as a private company.  
+~
+GM_SUE
+Alternative Stock Sim 
+If this is set to Yes, 1) stock prices are unaffected by the current economic state, and 2) stock trading between the player's company and its subsidiaries is prohibited, thus making it harder to speculate stocks for quick profits. 
+~
+GM_RE
+Random Events
+Allow such occurences as plagues, animal disease and power black-outs and their economic consequences.
+~
+GM_TEC
+Technology Disruption
+If it is set to On, technology disruption occurs constantly and all technology variables decrease by 10% every year. 
+~
+GM_FM
+AI Friendly Merger 
+If it is set to On, two AI corporations may merge with each other on mutually beneficial terms.
+~
+GM_MER
+Macro Economy Realism 
+If it is set to High, the macro economy in the game will be simulated with a high level of realism.
+~
+GM_INF
+Inflation 
+Inflation is enabled when this option is set to On. If it is set to Inverse Inflation, monetary amounts are adjusted based on their net purchasing power. The Purchasing Power Index starts at 100% and diminishes over those years with inflation. All cash and loan amounts will shrink in accordance to this Purchasing Power Index. 
+~
+GM_INFS
+Inflation Strength 
+Select Reduced Inflation Strength if you prefer less strong inflation. As such, it will have the inflation artificially suppressed. 
+~
+GM_RST
+Retail store type
+Choose 'Many' to allow specialist stores, such as supermarkets, furniture stores etc., or 'One' to have only department stores. 
+~
+GM_GSY
+Game starting year
+If you set it to a later year, there will be fewer types of technology that you have to research, as some of them will be already available when the game starts. 
+~
+GM_NOCO
+Number of AI Competitors
+This determines the number of AI controlled corporations.
+~
+GM_CSC
+Competitors' Start-up Capital
+This determines the sizes of start-up capital of AI controlled corporations. There will be AI corporations focused on real estate, media and technology if this is set to High or above.  
+~
+GM_CA
+AI Expansion Aggressiveness
+This determines how aggressive AI companies are in pursuing business expansions. 
+~
+GM_CEL
+AI Expertise Level
+This determines the expertise levels of AI persons in the game.  
+~
+GM_CTS
+Show competitors' trade secrets
+If you select "Yes", you will be able to access the trade secrets of all AI companies in the game. 
+~
+GM_CLC
+Competence of local competitors
+It determines the competence of local competitors - their general capabilities to sell high quality products at competitive prices. 
+~
+GM_NOSC
+Number of seaports Importing Consumer Goods per City
+A high number of consumer seaports increases the availability of consumer goods which companies may import and sell at retail. 
+~
+GM_NOSI
+Number of seaports Importing Industrial Goods per City
+A high number of industrial seaports increases the availability of manufacturing materials.
+~
+GM_SN
+New seaports Emerge during the game
+Choose to allow the creation of new import sources.
+~
+GM_SCI
+Constant import supply
+Constant supplies ease the problems of stockpiling products and the search for alternative supplies.
+~
+GM_SIQ
+Import quality
+Low quality products offer the chance for fledgling local manufacturers to compete. High quality products offer a more attractive retail prospect to the consumer.
+~
+CHALCONF
+You must confirm this before sending this Challenge Game to other players.
+You may start the game first, then adjust the challenge game and goal settings as needed, and finally confirm them. 
+~ 
+CHALHOW
+How-to web page 
+Launch a web browser and open the web page with instructions on how to set up a private challenge game.
+~
+GENDER_M
+Male 
+`
+~
+GENDER_F
+Female 
+`
+~
+GM_RDI1
+Randomly disable product classes
+When you select this check box, the system will randomly disable a specific percentage of product classes in the new game. 
+~
+GM_RDI2
+Percentage of product classes to be disabled
+Set the percentage of product classes to be disabled. This will make the competition more intense and improve gameplay, especially when playing a MOD game with a large variety of products. 
+~
+AIPRIVAT
+Percentage of competitors that are private companies (Subsidiary DLC)
+AI companies are randomly set up as private companies based on this preference. 
+~
+SUBCOUNT
+Your subsidiaries (Subsidiary DLC)
+The number of subsidiaries that your company owns at the beginning of the game. 
+~
+GS_PLIST
+Product List 
+You may exclude specific products from the game by either selecting them manually, or using the 'Random Disable Product Classes' feature to select them automatically. 
+~
+GM_CCITY
+First City Cash Level (City Economic Simulation DLC)
+The first city's cash level at the beginning of the game.  
+~
+GM_PUBEX
+Public Expenses Index
+This index affects the recurring expenses of public facilities, which impacts the game's difficulty when playing as a mayor. When it is set to a higher value, the same public facility incurs larger operating expenses.
+~
+GM_RFL
+Retail Store Floors
+Choose 'Multiple' to allow for setting up multiple floors in a single retail store. 
+~
+GM_DONPP
+Donations to Rival Political Parties 
+If you set this to a value greater than zero, rival political parties will receive donations from the general public over time. This setting is mainly for increasing the difficulty level of the game. 
+~
+GM_RINV1
+Random Product Reinvention
+When you select this check box, the system will randomly lock a specific percentage of product classes in the new game and require the player to "reinvent" them in R&D centers. 
+~
+GM_RINV2
+Percentage of products requiring reinvention
+Set the percentage of products to be locked initially in the game, which can be unlocked via R&D invention projects. Note that the player person's expertise product class will not be locked. 
+~
+LANDPRIC
+Land Price Index
+If this index is higher than 100, land prices in this game will be higher than normal. Conversely, if this index is lower than 100, companies can buy land at generally lower costs.
+~
+SOFT_IDX
+Software Revenue Index
+If this index is higher than 100, the demand and revenue from software products in this game will be higher than normal. Conversely, if this index is lower than 100, software businesses will be less profitable.
+~
+WEB_IDX
+Internet Revenue Index
+If this index is higher than 100, revenue generated by Internet companies will be higher than normal. Conversely, if this index is lower than 100, Internet companies will be less profitable.
+~
+AI_AC_PI
+AI Acquires Private Companies
+This determines whether AI corporations may acquire independent private companies or not. 
+~
+AI_IPO
+Will AI tech companies go IPO?
+If this is enabled, private AI tech companies from the Digital Age DLC may go public on the stock exchange. If it is set to a value, AI companies will go public within the specified number of years. 
+~
+ECOM_SET
+E-commerce 
+If this is enabled, companies will be able to build e-commerce firms and sell products via e-commerce. 
+~
+SPADV
+AI Smart Phone Company First-mover Advantage
+Smart phone companies run by AI will have higher initial capital and start with more advanced tech for Smart Phone and OS.
+~
+VGADV
+AI Game Console Company First-mover Advantage
+Game console companies run by AI will have higher initial capital.
+~
+LOANINT
+Base Loan Interest Rate 
+This modifies the base interest rate which affects #bonds# and #bank loans#. A higher interest rate increases borrowing costs, posing greater challenges for companies that take on debt to expand.
+~
+OSTECH
+Player Starts with Operating System (OS) Technologies 
+If this is enabled, the player will possess tech technologies in Operating System (OS) in the beginning of the game. 
+~
+MAXAIDIG
+Max AI Software and Internet Companies
+This option limits the maximum number of AI software and Internet companies in a game. A lower value means an easier game. (You may set the limits for software and Internet companies separately using a script.)
+~
+TALENT
+Talent System 
+If this is set to Simplified, all talents start with a skill level of 50. If this is set to Greatly Simplified, loyalty and headhunting features of the talent system are disabled too. 
+~
+MORE_TAL
+More Talents
+You may use this option to have the game duplicate talent data to increase the supply of talents. 
+~
+GC_RAND
+Randomize Global Competitiveness Ratings
+If this is enabled, global competitiveness ratings across industries will be randomized in the beginning of the game. If this is disabled, global competitiveness ratings will be initialized with a constant value of 30. 
+~
+GC_INC
+Global Competitiveness Rating Increases
+This option determines whether global competitiveness ratings will increase over time, progressively making the game more challenging. A higher value means that it increases at a faster rate. 
+~
+AIBANKAG
+Aggressiveness of AI banks and insurance companies
+A higher value means that AI banks will aggressively lure customers from competitors by offering higher deposit interest rates, and AI insurance companies will offer more competitively priced insurance products.
+~
+SAVERATE
+Personal Savings Rate Modifier 
+This slider modifies the personal savings rate. A higher personal savings rate means that people will save and deposit more money into banks, thus boosting the profitability of banks in general.
+~
+MORETAL2
+More Talents
+You may have the game duplicate talent data to increase the supply of talents. Use this slider to set the percentage of additional talents that you want the game to generate for this new game. 
+~
+APART_SC
+Apartment Capacity Modifier
+Use this slider to modify the capacity of all apartments. 100 is the standard value. Lowering it decreases the number of people each apartment houses. This means that more apartments need to be built and the real estate business will be more profitable. 
+~
+COMME_SC
+Commercial Capacity Modifier
+Use this slider to modify the capacity of all commercial buildings. 100 is the standard value. Lowering it will decrease the amount of office space each commercial building provides. This means that more commercial buildings need to be built and the real estate business will be more profitable. 
+~
+GM_TEC0
+Technology Disruption
+When Product Customization is enabled, Technology Disruption will be automatically turned off. The logic behind this is that Product Customization relies on technology levels to increase linearly to function properly, whereas Technology Disruption reduces all technology levels across the board by 10% annually.
+~
+AIBANKFO
+Number of AI Companies Focused on Banking
+This determines the number of AI companies focused on banking in the beginning of the game. 
+~
+AIINSUFO
+Number of AI Companies Focused on Insurance
+This determines the number of AI companies focused on insurance business in the beginning of the game. 
+~
+AIBANKT
+Tendency of AI to set up banks
+Tendency of AI companies with a diversification business strategy, which may expand into any types of industry, to set up banks. 
+~
+AIINSURT
+Tendency of AI to set up insurance companies
+Tendency of AI companies with a diversification business strategy, which may expand into any types of industry, to set up insurance companies.
+~
+INSUPREM
+Insurance Premiums Modifier
+Setting this to a value higher than 100 will increase revenues of all insurance companies.
+~
+INSCLAIM
+Insurance Claims 
+You may customize the average amounts of insurance claims that insurance companies have to pay. A #lower insurance claims ratio# means a #higher profit margin# for insurance companies. 
+~
+DEPOSCAP
+Corporate Deposit Cap, as a percentage of the total bank deposits. 
+The bank regulation stipulates that deposits should be not concentrated on a small number of large depositors. There is a cap that limits the maximum amount of deposit each depositor can make.
+~
+EXPRESS
+Express Mode 
+When the Express mode is enabled, a new streamlined user interface will be used for retail stores, replacing the original 3x3 layout.
+~
+MLOANDEP
+Maximum Loans-to-Assets Ratio
+This determines the #Absolute Maximum amount of loans# that a bank can lend out (including your bank and AI banks). A conservative bank may set a lower #Maximum Loans-to-Assets ratio# on the bank HQ interface, provided that it does not exceed the one defined here. 
+~
+DEVCITY
+Developed City at the Beginning
+In Survival mode, there is only one city in the beginning of the game. You may set it as a developed city or a new city created from scratch.
+~
+CITCASH1
+City Initial Cash Level
+This is for setting the cash levels of cities at the beginning of the game.  
+~
+CITCASH2
+City Initial Cash Level
+This is for setting the cash levels of cities at the beginning of the game. If you want to see cities issuing bonds more often, so that you could invest into municipal bonds, you may set this setting to 'Low'.  
+~
+BOND_PCB
+Percentage of Player Capital Funded by Bond
+If you are an experienced player looking for greater challenge, you may set a percentage of your corporation's #initial capital# to be #funded by a bond issue#, requiring you to pay bond interests and repay the bond principal upon its maturity. 
+~
+BOND_CRE
+Bond Credit Standard
+With a #loose credit assessment standard#, all corporations will receive #better credit ratings# and benefit from #lower bond interest expenses#.
+~
+BOND_LIM
+Bond Issue Limit
+The #maximum amounts of bonds# that a corporation can issue is limited to a #multiple of its capitalization#, which is set here. A higher value will allow a corporation to issue larger amounts of bonds.
+~
+BOND_ON
+Feature: Bond 
+When this feature is enabled, corporations will able to able to issue bonds to raise capital, and the bond market will be accessible. 
+~
+BANK_ON
+Feature: Bank
+This setting determines whether banks can be set up in the game or not.
+~
+INT_SPRE
+Initial Net Interest Spread 
+Net interest spread refers to the difference in the #rate at which a bank takes deposits from customers# and the #rate at which it offers loans#. A larger net interest spread means a greater profit margin for a bank. 
+~
+BCAPREQ
+Required Bank Capital Ratio
+The central bank requires banks to set aside enough capital to cover unexpected losses and keep themselves solvent in a crisis. A #capital ratio# is the ratio of a bank's #equity capital# to its #total assets#. 
+~
+INSUR_ON
+Feature: Insurance Business 
+This setting determines whether insurance companies can be set up in the game or not.
+~
+GSTOCKON
+Feature: Global Stock Market 
+This setting determines whether the global stock market is enabled in the game or not. 
+~
+PRICAGGR
+AI Pricing Aggressiveness
+This determines how far the AI companies will go in lowering prices of their products in order to grab market share from competitors. When this is set to low, you can expect most products to enjoy healthy profit margins and companies will be in general more profitable. 
+~
+ECOONDEF
+Economy's Impact on Loan Defaults
+It determines the economy's impact on the loan default rate. When this is set to a higher value, loan defaults will soar at a higher rate during an economic downturn, leading to a potential liquidity crisis.
+~
+BOOMBUST
+Boom-Bust Cycle Volatility
+This adjusts the economy's impact on consumer demand, which affects GDP and in turn affects the volatility of the boom-bust cycle. (The boom-bust cycle is the expansion and contraction in the economic cycle that occurs repeatedly.) 
+~
+GSTKINIT
+Initial Stock Price Modifier
+The initial prices of the global stocks are loaded from a database. You may use this modifier to change the initial prices of all global stocks. A lower Modifier value leads to lower initial stock prices, which promise more gain for the global stock market down the road. 
+~
+BANKDIFF
+Difficulty Level for Banking and Finance DLC 
+Use this to set the overall difficulty level for operating banks and insurance companies. 
+~
+RMONEYS
+Realistic Money Supply
+If this is enabled, money supply is more realistically simulated. It will be more difficult for player and AI companies to raise funds from IPO, issuing new shares and bonds. 
+~
+PREPARE
+Prepare Unit
+If this is enabled and you are using a #MOD# with defined #service firms#, you will be able to set up #Prepare Units# in #service firms#. 
+~
+IMPORT
+Import Firm
+If this is enabled, you will be able to set up Import Firms for importing products and materials.
+~
+IMP_VAR
+Import Product Variety 
+This determines the variety of products available via imports in the beginning of the game. 
+~
+IMP_INC
+Import Increase
+If this is enabled, the variety of products available via imports will increase over time. 
+~
+IMP_CONS
+Constant Supply
+This determines whether product supplies via imports are constantly available. 
+~
+IMP_SEMI
+Semi Products
+If this is enabled, only #Semi Products# are available via imports. (Consumer products are not available via imports.) 
+~
+REALLOAN
+Realistic Loan Demand
+If this is enabled, the #demand for bank loans# is correlated to the total GDP of the cities. 
+~
+SELICON
+Corporate Logo Selection
+Click here to open the Corporate Logo selection window. 
+~
+SELPHOTO
+Portrait Selection
+Click here to open the Portrait selection window. 
+~
+WAREMULT
+Warehouse Floors
+Choose #Multiple# to allow for setting up multiple floors in a warehouse.
+~
+AITECHAD
+AI Tech Head Start
+If you want a more challenging game, you may give AI companies head starts in fields of technology that they specialize in, which means #higher starting tech levels#.
+~
+DISRUPTM
+Disruption to Traditional Media
+When this is enabled, the traditional media (TV, Radio and Newspaper) will be disrupted by the Internet. As people embrace the Internet, they will spend more time online and less time on the traditional media.
+~
+VCAPITAL
+Venture Capitalists
+#Venture Capitalists# with #billions of net worth# will join the game when this feature is enabled. #Venture Capitalists# only invest in companies in #pre-IPO rounds#. They are committed to long-term investment and do not actively trade stock. 
+~
+VCAPITA2
+The Number of Venture Capitalists
+For gameplay balance, when #Realistic Money Supply# is enabled, the game will automatically assign a minimum of #5 Venture Capitalists# to the game. However, if #Survival Mode# is enabled, then #Venture Capitalists# can be set to any number.
+~
+VC_CAPIT
+VC Capital Size
+This sets the average capital size of a venture capitalist.
+~
+VC_DIVER
+Investment Diversification
+This determines how #diversified# a venture capitalist's investment portfolio will be. Typically a single investment, as a percentage of the VC's total #net worth#, will not exceed the percent specified here.
+~
+RMONEYS0
+Realistic Money Supply 
+This option can only be used in conjuction with #City Economic Simulation DLC#. When it is enabled, money supply is more realistically simulated. It will be more difficult for player and AI companies to raise funds from IPO, issuing new shares and bonds.
+~
+ACQBANKR
+Acquire Companies Facing Bankruptcy
+When this setting is enabled, when a company is facing bankruptcy, you will be given the option to rescue it by acquiring all the shares of the company.
+~

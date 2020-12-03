@@ -1,0 +1,54 @@
+[HEADER]
+Title=Sample script - Products 
+Description=This is a sample script for Capitalism Lab, listing all variables under the [PRODUCTS] section. 
+
+[PRODUCTS]
+Consumer Goods Seaports=2
+// Consumer Goods Seaports per City=<0-4>
+
+Industrial Goods Seaports=2
+// Industrial Goods Seaports per City=<0-4>
+
+// Please note that you may create a game up with no seaport using a game script. But the AI companies¡¯ performances will suffer and 
+// this should only be used if you intend to create a game scenario with such characteristics.
+
+Constant Import Supply=No
+// Constant Import Supply=<Yes,No>
+
+Import Quality=Moderate 
+// Import Quality=<Low,Moderate,High>
+
+Randomly Disable Product Classes=0
+//Randomly Disable Product Classes=<0-90>
+//When this is set, the system will randomly disable a specific percentage of product classes in the new game. 
+
+Random Product Reinvention=0
+//Random Product Reinvention=<0-100>  
+//When this is set, the system will randomly lock a specific percentage of product classes in the new game and require the player to “reinvent” them in R&D centers. 
+
+Add Seaport Product=Steel
+//Add Seaport Product=<Product Type>
+//The above line assigns a specific product to a seaport. Note that the seaport to be assigned with the products is always the seaport located in the first city of the game.
+
+
+//----- The following settings are only available when the Subsidiary DLC or the Digital Age DLC is enabled. -----//
+
+Product Customization=On
+//Product Customization=<On,Off>
+//If this is set to On, you will find the Product Customization tool in the Manufacturer’s Guide. (“Technology Disruption” option is disabled when “Product Customization” is enabled.)
+
+Product Customization Range=Moderate
+//Product Customization Range=<Low,Moderate,High>
+//Low – product customization applies to your company only
+//Medium – it applies to your company and your subsidiaries
+//High – it applies to all companies. 
+
+
+//----- You may use the following syntax to disable specific product classes in the game: ------------//
+
+// Example: 
+[DISABLED PRODUCTS]
+Apparel
+Beverage
+Drugs
+Leather Goods

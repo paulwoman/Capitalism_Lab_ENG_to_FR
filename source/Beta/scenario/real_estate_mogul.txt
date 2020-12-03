@@ -1,0 +1,94 @@
+[HEADER]
+Title=Real Estate Mogul 
+Description=You are the CEO of a corporation which has recently raised hundreds of millions of funds from investors. ^^You are entrusted by your shareholders with the task of growing your corporation to become the largest real estate developer in the world. ^^Are you competent enough to achieve this monumental task?
+Difficulty Rating=90
+
+[ENVIRONMENT]
+Number of Cities=5
+Your Start-up Capital=High 
+Random Events=Occasional 
+Game Starting Year=1990
+Retail Store Type=Many
+Technology Disruption=On
+Stock Market=Yes
+Alternative Stock Sim=Yes
+Boom-Bust Cycle Volatility=Moderate
+Macro Economy Realism=High
+Inflation=Inverse
+Inflation Strength=Normal
+
+[COMPETITORS]
+Number of Competitors=20
+Competitor Start-up Capital=Moderate 
+AI Expansion Aggressiveness=Moderate 
+AI Pricing Aggressiveness=Moderate 
+AI Expertise Level=Moderate
+AI Tech Head Start=None
+Show Competitor Trade Secrets=Yes
+AI Friendly Merger=No
+Competence of Local Competitors=Moderate 
+
+[IMPORTS]
+Consumer Goods Seaports=2
+Industrial Goods Seaports=2
+Constant Import Supply=Yes
+Import Quality=High 
+
+//-------------------------------------------------------------------//
+
+[MAIN GOAL]
+Goal Title=Real Estate Mogul 
+Goal Description=You are the CEO of a corporation which has recently raised hundreds of millions of funds from investors. You are entrusted by your shareholders with the task of growing your corporation to become the largest real estate developer in the world. Are you competent enough to acheive this monumental task?
+
+Number of Game Years=100
+
+[MAIN GOAL VALUES]
+Player Company Annual Revenue=1000
+Player Company Annual Profit=100
+
+[MAIN GOAL INDUSTRIES]
+Real Estate 
+
+[MAIN GOAL REWARDS] 
+Score change=200
+
+//-------------------------------------------------------------------//
+
+[SUBGOAL]
+Goal Title=Return on Equity subgoal
+Goal Description=Prove your ability to run your company efficiently and attain a sound return-on-equity ratio.
+
+Goal Achieved Text=Congratulations! You have proven yourself to be a CEO that cares about the return-on-equity bottomline. 
+
+[SUBGOAL VALUES]
+Player Company Annual Revenue=800
+Player Company Annual Profit=80
+Return on Equity=8
+
+[SUBGOAL REWARDS] 
+Score change=100
+Personal Cash Change=10
+
+//-------------------------------------------------------------------//
+
+[SUBGOAL]
+Goal Title=$2 Billion Market Cap
+Goal Description=Increase your company's financial performances and reach your goal of becoming a corporation with $2 billion market cap.
+
+Goal Achieved Text=Bravo! Your corporation's market capitalization has reached $2 billion! 
+
+[SUBGOAL VALUES]
+Player Company Market Cap=2000
+
+[SUBGOAL REWARDS] 
+Score change=100
+Personal Cash Change=10
+
+//-------------------------------------------------------------------//
+
+[CHALLENGE GAME]
+Number of Game Years=30
+Ranking Method=Score
+
+
+

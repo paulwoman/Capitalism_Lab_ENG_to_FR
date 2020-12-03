@@ -1,0 +1,590 @@
+[TEXT]
+NIL 
+
+[ACTION]
+Hide=Preview
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+NIL 
+
+[ACTION]
+Add Seaport Product=Textiles
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+NIL 
+
+[ACTION]
+Add Seaport Product=Linen
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+NIL 
+
+[ACTION]
+Add Seaport Product=Wool
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+NIL 
+
+[ACTION]
+Add Seaport Product=Dyestuff
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+NIL 
+
+[ACTION]
+Add Seaport Product=Leather
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Now that you know how to find suppliers, manufacture and sell products, it's time to look at ~advertising~ your products.^^Your corporation will be competing against other corporations selling the same product types. You will require a good advertising campaign if you want your business to succeed.^^Let's learn some basic concepts of brand and advertising now.  
+
+[POS]
+Flex Text Box=300,280,400,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+When a consumer buys a product they consider the ~price~, the ~quality~ and the ~brand~ of the product.^^For the ~quality~, it is affected by the qualities of raw materials used and the production technology, which you have already learned in the previous tutorial.^^For the ~price~, it is very straightforward - a lower price makes a product more competitive in the market.^^A ~brand~ is a distinguishing name intended to identify and differentiate a seller's products from competitor's products.
+
+[POS]
+Flex Text Box=300,280,400,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+To gain a better understanding about how brands work, let's open the ~Product Detail Report~.^^Click the ~Information Center~ icon now. 
+
+[POS]
+Extend Text Box=36,600,500,0
+Pointer=146,6,183,30
+Window=Bottom Toolbar 
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Click ~Product Detail Report~.
+
+[POS]
+Text Box=300,280,350,0
+Pointer=36,125,146,136
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Now click the ~Search Product~ button and select ~Jeans~.
+
+[POS]
+Text Box=300,470,400,0
+Pointer=360,127,512,144
+
+[CONDITION]
+Interface Select=Product Details Report, Jeans
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Here you can see ratings for ~Price~, ~Quality~, ~Brand~ and the ~Overall rating~. They are split into two columns.^^The ~Local~ column displays the ratings for local competitors - these are local small companies that you do not see in the corporation list.^^The ~Average~ column combines the ratings of local and corporate competitors. 
+
+[POS]
+Text Box=280,320,400,0
+Pointer=555,169,723,268
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Next to them you will see the ~Concern~ column. The figures in this column indicate the factors that a consumer will consider when selecting a product to buy.
+
+[POS]
+Text Box=280,320,400,0
+Pointer=727,169,782,247
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+For ~Jeans~, the concerns are: ~Price~ 27%, ~Quality~ 29% and ~Brand~ 44%. This means that the ~brand~ is a significantly more important factor for jeans.^^So if you plan to start a business selling jeans, it is critical that you spend aggressively on advertising your jeans, so long as your budget permits.  
+
+[POS]
+Text Box=300,320,400,0
+Pointer=727,169,782,247
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+On the other hand, for some products like ~frozen meat~, consumers are concerned less about ~brands~, and are concerned more about ~quality~ and ~prices~.^^For such products, advertising should be limited and the focus should be on optimizing your business operations to offer consumers with products of lower prices and higher quality.
+
+[POS]
+Text Box=300,280,400,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+It is true that different product types require different marketing strategies.^^As a rule, the higher the ~brand concern~ of the product you are selling, the more aggressively you should spend in its advertisement. 
+
+[POS]
+Text Box=300,280,400,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Now click the ~Search Product~ button and select ~Camera~.
+
+[POS]
+Text Box=300,470,400,0
+Pointer=360,127,512,144
+
+[CONDITION]
+Interface Select=Product Details Report, Camera 
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Another important piece of information you can see here is the ~Necessity Index~. For ~cameras~, it's 20%, which means that it is not an everyday necessity item. When the economy is in a downturn, consumers will cut back spending on products of low necessity indices.
+
+[POS]
+Text Box=300,295,400,0
+Pointer=317,95,459,113
+Next Arrow=Yes
+
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Now let's check out the ~Necessity Index~ for ~Bath Lotion~.^^Click the ~Search Product~ button again and this time select ~Bath Lotion~.
+
+[POS]
+Text Box=300,470,400,0
+Pointer=360,127,512,144
+
+[CONDITION]
+Interface Select=Product Details Report, Bath Lotion
+
+
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+The ~Necessity Index~ of ~Bath Lotion~ is 80% and it means that it is an everyday necessity item.^^Even if the economy is in a recession, people will still buy bath lotions. (Otherwise they'd all be smelly wouldn't they?)
+
+[POS]
+Text Box=300,295,400,0
+Pointer=317,95,459,113
+Next Arrow=Yes
+
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Great! You have just learned concepts about brands. It's time to put them into use!^^ Let's build a factory to manufacture ~apparel products~.
+
+[POS]
+Text Box=300,295,400,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Apparel products include ~Blazer~, ~Jeans~, ~Leather Jacket~ and ~Sweater~ and each will require different raw materials.^^Before you decide which apparel product to manufacture, you must look at what ~raw material supplies~ are available from the ~seaports~ and study the ~Manufacturer's Guide~ to see what products you can manufacture from the available supplies.^^Now go back to the city view by right-clicking anywhere on the screen.
+
+[POS]
+Text Box=300,295,400,0
+
+[CONDITION]
+Active Interface=City View
+
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Now go ahead and build a factory.^^This tutorial will continue when you have built a factory. If at any point you are lost and you want to restart the tutorial, you can ~press the ESC key and select Restart Tutorial~.
+
+[POS]
+Flex Text Box=300,280,400,0
+Next Arrow=Yes
+
+[ACTION] 
+Hide=Tutorial window 
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Now go ahead and build a factory.^^This tutorial will continue when you have built a factory. If at any point you are lost and you want to restart the tutorial, you can ~press the ESC key and select Restart Tutorial~.
+
+[POS]
+Flex Text Box=300,280,400,0
+Next Arrow=Yes
+
+[CONDITION]
+Firm count=Factory, 1
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+In the previous tutorial, you have learned how to set up production facilities in a factory manually.^^This time, let's click the [+] icon to use the Manfacturer's Tool to set up the factory facilities for you automatically. 
+
+[POS]
+Text Box=220,135,400,0
+Pointer=72,124,176,226
+
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Select an Apparel product from the list and click the [SET UP FACTORY] button.^^This tutorial will continue when your factory starts to produce Apparel products. 
+
+[POS]
+Text Box=200,260,400,0
+Next Arrow=Yes
+
+[ACTION] 
+Hide=Tutorial window 
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+This tutorial will continue when your factory starts to produce Apparel products. 
+
+[POS]
+Flex Text Box=200,280,400,0
+Next Arrow=Yes
+
+[CONDITION]
+Your factory sells product class=Apparel  
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Good work with your factory! Now we will start dealing with branding and advertising.^^There are three different brand strategies available. Before starting to advertise, you should first decide which brand strategy you want to use. 
+
+[POS]
+Flex Text Box=300,280,400,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+To access the ~Brand Strategy~ screen, open the ~Corporate Detail~ report by pressing the shortcut key ~D~ now (or ~Ctrl-D~ if you have changed the shortcut key setting in the Options menu). 
+
+[POS]
+Flex Text Box=300,280,400,0
+
+[CONDITION]
+Active Interface=Corporate Detail Report 
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Select ~Brand~ from the menu list.
+
+[POS]
+Text Box=380,250,350,0
+Pointer=643,107,680,119
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+If you wish to have a single brand covering every product you sell, then you should choose the ~Corporate brand strategy~.^^The ~advantage~ to this approach is that any new products you launch will instantly benefit from the recognition of the existing corporate brand.^^The ~disadvantage~ is that brand loyalty will suffer if any of your products fail to live up to consumers' quality expectations of your corporate brand. 
+
+[POS]
+Flex Text Box=300,280,400,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+The second strategy, ~Range brand strategy~ is similar to corporate branding but its coverage is limited to product classes.^^For example ~leather bags~ and ~leather briefcases~ fall into the ~leather goods~ product class.^^If you decided to sell ~leather briefcases~ and ~bath lotions~ to accompany the ~leather bags~ you already sell, you ~leather briefcases~ would immediately inherit the brand rating of your ~leather bags~ (~same product class~) but your ~bath lotions~ would not. 
+
+[POS]
+Flex Text Box=300,280,400,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+The default strategy is ~Unique brand strategy~ in which every product has a unique brand.^^It will cost more to promote each individual product but it may be worth it because you will never have to worry about existing brands being damaged by new but low quality products.
+
+[POS]
+Flex Text Box=300,280,400,0
+Next Arrow=Yes
+
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+For the purpose of this tutorial you will adopt the ~range brand strategy~.^^Click ~Range Brand~ to set your company's brand strategy to the Range Brand strategy.
+
+[POS]
+Text Box=252,65,450,0
+Pointer=185,255,271,271
+
+[CONDITION]
+Brand strategy=2
+// 2 means range brand 
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+It is important to decide upon your brand strategy at the start of a game as there is a heavy cost for switching your brand strategy - it resets all existing brand ratings to zero. 
+
+[POS]
+Flex Text Box=300,280,400,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Now let's roll out your products to the market and set your range brand strategy in motion.^^~Build a department store~ and ~have it buy products from your factory~. This tutorial will continue when you have done so. 
+
+[POS]
+Flex Text Box=300,280,400,0
+Next Arrow=Yes
+
+[ACTION] 
+Hide=Tutorial window 
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Now let's roll out your products to the market and set your range brand strategy in motion.^^~Build a department store~ and ~have it buy the apparel products from your factory~. This tutorial will continue when you have done so. 
+
+[POS]
+Flex Text Box=300,280,400,0
+
+[CONDITION]
+Your store sells your product class=Apparel  
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Great job! You should now add a new unit to your department store: the ~Advertising unit~, and link it to your sales unit.^^It is often a good idea to place the ~advertising unit~ in the center square of your layout so that it may link to any sales units.^^~Double click the center square~ and select ~Advertising Unit~.
+
+[POS]
+Text Box=32,250,350,0
+Pointer=599,361,680,445
+
+[CONDITION]
+Unit Exists=5, Advertising
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Click the ~Link Media~ button to link your ~advertising unit~ to a media. 
+
+[POS]
+Text Box=170,250,210,0
+Pointer=203,384,278,402
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+All available media firms in the current city are displayed. When it comes to choosing a media to advertise, you should consider the ~Ratings Points~ and the ~Advertising Cost~ of each media.^^The higher the ~rating points~, the greater the ~audience share~.^^The ~advertising cost~ is simply the cost for your advertisement to be ~seen a thousand times~ by potential customers. 
+
+[POS]
+Text Box=20,230,310,0
+Next Arrow=Yes
+
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Find a media firm with a high rating points score to maximize your advertising coverage. Be mindful not to choose a firm that charges too much though.^^When you have decided which media firm to advertise on, ~double-click it~ to select it. 
+
+[POS]
+Text Box=20,230,310,0
+
+[CONDITION]
+Advertising unit is linked=5
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Now link your ~Advertising~ unit and your ~Sale~ unit by ~clicking the linkage line~ between them. 
+
+[POS]
+Text Box=430,150,350,0
+Pointer=641,342,646,357
+
+[CONDITION]	
+Unit Linked=Sales, Advertising, 3, 5 
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Now the unit detail section of your advertising unit displays the media firm you have just selected.^^You may adjust the ~Monthly Spending Per Product~ slider but for now leave it set at $100,000.
+
+[POS]
+Text Box=330,120,450,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Click your ~Sales~ unit now.
+
+[POS]
+Text Box=430,150,350,0
+Pointer=599,253,680,336
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+You can see your product's ~brand rating~ on the ~Sales unit~. Currently it is zero but with the advertising, it should be increasing soon. 
+
+[POS]
+Text Box=330,130,450,0
+Pointer=324,314,386,338
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+To leverage the effect of the ~Range Brand strategy~, you should add another product from one of the product classes you are already selling. 
+
+[POS]
+Text Box=330,130,450,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Build another factory to produce a different ~apparel~ product. (Hint: If you are already manufacturing and selling ~jeans~, choose ~leather jacket~).^^This tutorial will continue when you successful ~produce~ and ~sell~ a new ~apparel~ product in your ~department store~.  
+
+[POS]
+Flex Text Box=300,280,400,0
+Next Arrow=Yes
+
+[ACTION] 
+Hide=Tutorial window 
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Build another factory to produce a different ~apparel~ product. (Hint: If you are already manufacturing and selling jeans, choose leather jacket). This tutorial will continue when you successful produce and sell a new ~apparel~ product in your department store.  
+
+[POS]
+Flex Text Box=300,280,400,0
+
+[CONDITION]
+
+Your store sells your product class=Apparel, 2  
+// 2 means that the condition is met when your department store is selling 2 different products of the specified item class 
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Well done! This time you do not need to link the new product to the ~advertising unit~ as it is already covered by your ~apparel product class~ brand. 
+
+[POS]
+Text Box=32,250,350,0
+Next Arrow=Yes
+
+----------------------------------------------------------------//
+
+[TEXT]
+With the advertising delivering its effect, your products' ~brand ratings~ will continue to increase, which in turn will raise your products' ~overall ratings~ and thus drive their sales higher.^^While all this is happening, let's open the ~Corporate Details~ report by pressing the shortcut key ~'D'~ (or ~Ctrl-D~) to access some useful market intelligence.
+
+[POS]
+Flex Text Box=300,280,400,0
+
+[CONDITION]
+Active Interface=Corporate Detail Report 
+
+----------------------------------------------------------------//
+
+[TEXT]
+Select the ~Dominance~ option to see how your corporation is faring against the competition. 
+
+[POS]
+Text Box=32,250,350,0
+Pointer=639,128,710,139
+
+----------------------------------------------------------------//
+
+[TEXT]
+The report displays ~market dominance by industry~ as well as ~by product class~. You can see your corporation's market shares for each product that it is currently selling.^^The ~rank~ columns indicates your company's sales ranking. When it reads "1st", it means your corporation has achieved market dominance for the respective product class. 
+
+[POS]
+Text Box=170,380,580,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Select the ~Brand~ menu option to view the current brand ratings of your products. 
+
+[POS]
+Text Box=32,250,350,0
+Pointer=639,108,710,119
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Here you will see that the advertising is slowly increasing brand ratings for your products.^^Notice that the ~brand rating~ equals to the sum of ~Brand Awareness~ and ~Brand Loyalty~. 
+
+[POS]
+Text Box=170,380,580,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+~Brand awareness~ is simply a measure the consumers' knowledge of the brand.^^Besides driven by advertising, it also increases automatically over time, if the products featuring the brand are widely distributed and enjoy constant retail exposure.
+
+[POS]
+Text Box=170,380,580,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+~Brand loyalty~ is a measure of the consumers' attachment to a brand.^^If you allow quality of your products to fluctuate, the brand loyalty will suffer as consumers can easily lose faith in products with inconsistent quality. 
+
+[POS]
+Text Box=170,380,580,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+You have learned fast and had a great start with building brands for your products.^^To take it to the next level, you should expand your retail presence to other cities and make your brands global ones!
+
+[POS]
+Text Box=170,380,580,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+A strategy advice for you: concentrate on the products you are already manufacturing, build new retail stores and ultimately dominate the market!^^And when you are ready to expand your business into other cities, remember to use the ~Mini map~ to switch between cities. 
+
+[POS]
+Text Box=170,380,580,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+You will complete this tutorial when you ~dominate the Apparel market~ while achieving ~an annual profit~ of not less than ~$2 million~. Good luck!
+
+[POS]
+Text Box=170,380,580,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//

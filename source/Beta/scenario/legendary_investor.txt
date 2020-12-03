@@ -1,0 +1,60 @@
+[HEADER]
+Title=Legendary Investor
+Description=You are always fascinated by stories of legendary investors who have amassed astronomical wealth and exerted great influence over the corporate world. ^^Can you become a legendary investor yourself one day? ^^In this scenario game, your will just attempt to realize this dream. You win this game when you have snowballed your personal wealth to $1 billion and gained control of 5 public companies either directly or via your holding company. 
+
+Difficulty Rating=110
+
+[ENVIRONMENT]
+Number of Cities=5
+Your Start-up Capital=High 
+Random Events=Occasional 
+Game Starting Year=1990
+Retail Store Type=Many
+Technology Disruption=On
+Stock Market=Yes
+Alternative Stock Sim=Yes
+Boom-Bust Cycle Volatility=Moderate
+Macro Economy Realism=High
+Inflation=Inverse
+Inflation Strength=Normal
+
+[COMPETITORS]
+Number of Competitors=30
+Competitor Start-up Capital=High  
+AI Expansion Aggressiveness=High 
+AI Pricing Aggressiveness=Moderate 
+AI Expertise Level=Moderate
+AI Tech Head Start=None
+Show Competitor Trade Secrets=Yes
+AI Friendly Merger=Yes
+Competence of Local Competitors=Moderate 
+
+[IMPORTS]
+Consumer Goods Seaports=2
+Industrial Goods Seaports=2
+Constant Import Supply=No
+Import Quality=Low
+
+//-------------------------------------------------------------------//
+
+[MAIN GOAL]
+Goal Title=Legendary Investor 
+Goal Description=You will earn the title of the Legendary Investor when you have snowballed your personal wealth to $1 billion and gained control of 5 public companies either directly or via your holding company! 
+
+Number of Game Years=100
+
+[MAIN GOAL VALUES]
+Player Wealth=1000
+Number of Controlled Companies=5
+
+[MAIN GOAL REWARDS] 
+Score change=300
+
+//-------------------------------------------------------------------//
+
+[CHALLENGE GAME]
+Number of Game Years=30
+Ranking Method=Score
+
+
+

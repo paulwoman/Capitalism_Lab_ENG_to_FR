@@ -1,0 +1,66 @@
+[HEADER]
+Title=Sample script - Competitors 
+Description=This is a sample script for Capitalism Lab, listing all variables under the [COMPETITORS] section. 
+
+[COMPETITORS]
+Number of Competitors=20
+// Number of Competitors=<1 to 30>
+// You may set the number of competitors to any number between 1 and 30. 
+
+Competitor Start-up Capital=High
+// Competitor Start-up Capital=<Very Low, Low, Moderate, High, Very High>
+ 
+AI Expansion Aggressiveness=High
+// AI Expansion Aggressiveness=<Very Low, Low, Moderate, High, Very High>
+
+AI Pricing Aggressiveness=Moderate
+AI Pricing Aggressiveness=<Very Low, Low, Moderate, High>
+
+AI Expertise Level=Moderate
+// AI Expertise Level=<None, Low, Moderate, High>
+
+AI Tech Head Start=None
+//AI Tech Head Start=<None, Low, Moderate, High>
+
+Show Competitor Trade Secrets=Yes
+// Show Competitor Trade Secrets=<Yes, No>
+
+AI Friendly Merger=On
+// AI Friendly Merger=<On, Off>
+
+Competence of Local Competitors=High 
+// Competence of Local Competitors=<Very Low, Low, Moderate, High, Very High>
+
+//--------------------------------------------------------------------------------------------------------------------//
+// You may influence how the game sets the business focuses of the AI companies by setting your preferred mix of business focuses
+// using the following script lines.
+//
+// Given that there are other factors also affecting the AI business focuses, the game will attempt to set the AI business focuses 
+// following your preference whenever possible.
+
+Diversified Companies=4
+Retail Focused Companies=2
+Stock Focused Companies=2
+Real Estate Focused Companies=2
+Tech Focused Companies=2
+Media Focused Companies=2
+Banking Focused Companies=2
+Insurance Focused Companies=2
+
+AI Product Expertise=Apparel, 3
+// With the above statement, there will be 3 AI competitors possessing expertise in Apparel in the beginning of the game. 
+
+// AI Product Expertise=<Expertise Product Class>, <Number of AI competitors> 
+
+// Use this statement to assign a specified type of expertise to AI competitors. 
+// <Expertise Product Class> is the expertise product class. For example, ¡°apparel¡±
+// <Number of AI competitors> is the number of AI competitors possessing this type of expertise. 
+// Please note that this only applies to AI competitors with a diversified business strategy. (e.g. retail focused companies and companies with other focuses are not affected.)
+
+
+//-------- The following setting is for Subsidiary DLC only --------------//
+
+AI Private Companies Percent=0
+//AI Private Companies Percent=<0 to 80>
+//Percentage of competitors that are private companies.
+//AI companies are randomly set up as private companies based on this preference. 

@@ -1,0 +1,2155 @@
+[0001]<VERS>Version %1s|
+[0011]<QUIT>Quit|
+[0012]<TRAN>Training|
+[0017]<CANC>Cancel|
+[0019]<NEWP>New Player|
+[0020]<DELP>Delete|
+[0021]<SELP>Continue|
+[0022]<PRF1>Please select your name from this list|
+[0023]<PRF2>If your name is not here, click on "New Player" below|
+[0024]<PRFN>Please enter your name|
+[0025]<PRFD>Are you Certain that you wish to delete this person from the list?|
+[0026]<PRDY>Yes|
+[0027]<PRDN>No|
+[0028]<PRED>Same profile has already been created|
+[0029]<PREI>Error creating %1s directory|
+[0030]<PREC>Error creating profile|
+[0038]<NAH_>Human|
+[0040]<DIFF>Difficulty Level|
+[0092]<RNDE>Random Events|
+[0118]<RFU0>The host refuses you|
+[0119]<RFU1>Cannot join a new game session|
+[0120]<RFU2>Cannot join a load game session|
+[0121]<RFU3>You cannot join the game because the save game is different from the host|
+[0122]<RFU4>You cannot join the game because the host does not accept your game version|
+[0123]<RFU5>You cannot join the game because the session is full|
+[0148]<SV_G>Save Game|
+[0149]<0SAV>You haven't saved any games yet.|
+[0150]<SAVE>Save|
+[0152]<LOAD>Load|
+[0154]<EMGS>Empty Game Slot|
+[0155]<PAGE>page %1d/%2d|
+[0156]<-DSL>Cannot delete this slot|
+[0158]<GDAT>Game date: |
+[0159]<FDAT>File date: |
+[0160]<FNAM>File name: |
+[0161]<AOVW>It will overwrite the existing save game. Proceed ?|
+[0162]<SE-L>Cannot load in scenario editor|
+[0163]<ADLS>This save game will be deleted. Proceed ?|
+[0164]<DESV>Description of the save game:|
+[0165]<OUTD>Insufficient disk space ! The game is not saved.|
+[0166]<LE_O>Cannot open the save game file|
+[0167]<LE_H>Cannot read file header|
+[0168]<LE_P>Cannot load the save game. It was saved with a different version of Capitalism.|
+[0169]<LE_G>Load game error|
+[0170]<SE_C>Error creating save game file.|
+[0171]<SE_H>Error creating save game header.|
+[0172]<SE_G>Error writing save game data.|
+[0174]<LOB?>Cannot connect to lobby|
+[0175]<LOBC>Cannot get connection string from lobby|
+[0186]<STAY>Do you want to continue to stay in the game?|
+[0188]<RSTT>Restart Game|
+[0189]<RETI>Retire|
+[0190]<RETR>Retreat|
+[0196]<ASRS>Do you really want to restart?|
+[0241]<CHEA>Cheat Mode Enabled.|
+[0257]<SVSU>Game Saved Successfully|
+[0258]<WAIT>Waiting for %1s %2s|
+[0274]<GOAW>You will be victorious when you have:|
+[0286]<IPXL>Join a local area network game|
+[0287]<TCPL>Join a local area network or Internet game|
+[0288]<MODL>Join with another player by Modem|
+[0289]<COML>Join with another player linked by serial cable|
+[0298]<PRFL>Warning: This will delete all information in your multiplayer lobby account that is linked to this player profile.|
+[0299]<#rL0>%1s %2s : P:%3d M:%4d E:%5d R:%6d FB:%7d Total:%8d|
+[0300]<#?L0>#r - ranking of players|
+[0301]<#?L1>#? - help|
+[0322]<ENVI>ENVIRONMENT|
+[0323]<CMPT>COMPETITORS|
+[0324]<IMPT>PRODUCTS|
+[0325]<GOAL>GOALS|
+[0326]<CITY>Number of Cities|
+[0327]<SCAP>Your Start-up Capital|
+[0329]<ALLS>Stock Market|
+[0341]<NCOM>Number of Competitors|
+[0342]<CCAP>Competitor Start-up Capital|
+[0343]<CAGG>AI Expansion Aggressiveness|
+[0344]<COML>AI Expertise Level|
+[0346]<CSEC>Show Competitor Trade Secrets|
+[0347]<CCOM>Competence of Local Competitors|
+[0348]<CSEA>Seaports Importing Consumer Goods per City|
+[0349]<ISEA>Seaports Importing Industrial Goods per City|
+[0351]<ISUP>Constant Import Supply|
+[0352]<IQUA>Import Quality|
+[0460]<CCTI>Macro Economy Realism|
+[0462]<DSMI>Retail Store Type|
+[0463]<DSM1>Many|
+[0464]<DSM2>One|
+[0467]<GSYI>Game Starting Year|
+[0504]<AIG1>Grand strategy failed, cannot find location to build.|
+[0505]<GP41>Declare Bankruptcy, ARE YOU SURE ?|
+[0506]<GP42>Yes|
+[0507]<GP43>No|
+[0508]<IGM1>Do you really want to retire?|
+[0509]<IGM2>Yes|
+[0510]<IGM3>No|
+[0511]<IGM4>Do you really want to quit to the Main Menu?|
+[0512]<IGM5>Yes|
+[0513]<IGM6>No|
+[0514]<IGM7>Do you really want to quit to Windows?|
+[0515]<IGM8>Yes|
+[0516]<IGM9>No|
+[0517]<PR31>Yes|
+[0518]<PR32>No|
+[0519]<PLB1>The plan will replace the existing layout of the current firm. Proceed?|
+[0520]<PLB2>Delete the current plan, confirm ?|
+[0521]<PLB3>Replace the current plan with the highlighted firm's plan, confirm ?|
+[0522]<STK1>Sorry, you don't have enough cash.|
+[0531]<SYF1>Fail Loading Game|
+[0536]<CHE1>Wrong Firm|
+[0537]<CHE2>Firm can not be taken by player!!|
+[0539]<FAP2>Null|
+[0540]<FAP3>Confirm|
+[0541]<FAP4>Cancel|
+[0543]<FAP6>Sorry, you don't have enough cash.|
+[0546]<AII1>Game Design Mode Warning|
+[0547]<AII2>Grand strategy plan|
+[0548]<AII3> building farm input failed.|
+[0549]<AII4> building factory input failed.|
+[0551]<FHQ1>Acquire Technology From Other Companies|
+[0552]<FHQ2>You cannot acquire new technology now. None of the other companies have a technology more advanced than yours.|
+[0553]<FIN1>Switch Brand Strategy|
+[0554]<FIN2>When you switch your brand strategy, all products will be labeled with the new brand and their brand ratings will be reset to zero as a result. Proceed?|
+[0555]<FIN3>Employment Termination|
+[0556]<FIN4>Employment rejected|
+[0557]<FIN5>Employment|
+[0558]<FIN6>Employment Policy|
+[0559]<FIN7>Cannot purchase the stock|
+[0560]<FIN8>Issue New Shares|
+[0561]<FIN9>OK|
+[0562]<FMN1>Mansion Demolish|
+[0564]<FM21>Change Group Manager|
+[0567]<GAM1>GOAL|
+[0568]<GME1>Lost Ownership|
+[0569]<GP21>Stock Exchange News|
+[0570]<JMF1>Upgrade Production Technology|
+[0571]<JMF2>Yes|
+[0572]<JMF3>No|
+[0573]<NGO1>Cannot purchase the mansion|
+[0574]<NGO2>Cannot purchase the firm|
+[0575]<NGO3>Cannot purchase the technology|
+[0576]<PR31>Salary Raise Request|
+[0577]<PLB1>Layout Plan|
+[0578]<PLB2>The highlighted firm doesn't have a layout.|
+[0579]<PLB3>The firm type of the current plan is different from that of the highlighted firm.|
+[0580]<SK21>Stock Exchange News|
+[0581]<SK51>Tender Offer|
+[0582]<SYD1>CHEAT ENABLE|
+[0583]<SYF1>Save Game|
+[0584]<AIG0>Diversified|
+[0585]<AIG1>Retail Focused|
+[0586]<AIG2>Stock Focused|
+[0587]<AIG3>Real Estate Focused|
+[0588]<AIS0>All|
+[0589]<AIS1>Retail|
+[0590]<AIS2>Stock|
+[0591]<AIS3>Real Estate|
+[0592]<CET1>Sowing Month|
+[0593]<CET2>Harvesting Month|
+[0606]<DIJ1>Supplier|
+[0607]<DIJ2>City|
+[0608]<DIJ3>Distance|
+[0609]<DIJ4>Price|
+[0610]<DIJ5>Freight Cost|
+[0611]<DIJ6>Supply|
+[0612]<DIJ7>Demand|
+[0613]<DIJ8>Seaports|
+[0614]<DIJ9>Quality|
+[0615]<DI10>Brand|
+[0616]<DI11>OVERALL|
+[0617]<DI12>SELECT SUPPLIER|
+[0619]<DI14>Select Building Location|
+[0620]<DI15>Cancel|
+[0621]<DI16>Ok|
+[0622]<DI17>CLIENT LIST|
+[0624]<DI19>SELECT ADVERTISING MEDIA|
+[0625]<DI20>Go to Media|
+[0626]<DI21>All products|
+[0627]<DI22>All cities|
+[0628]<DI23>All suppliers|
+[0629]<DI24>Client|
+[0630]<DI25>Media|
+[0631]<DI26>Rating Points|
+[0632]<DI27>Advertising Cost (CPM)|
+[0633]<ECO0>Retailing|
+[0634]<ECO1>Manufacturing|
+[0635]<ECO2>Farming|
+[0637]<FAT1>Small|
+[0638]<FAT2>Medium|
+[0639]<FAT3>Large|
+[0640]<FAT4>Demolish the apartment and sell the land|
+[0641]<FAT5>Put this apartment on sale for|
+[0642]<FAT6>Owner|
+[0643]<FAT7>Annual rent per square foot|
+[0644]<FAT8>Occupancy|
+[0645]<FAT9>You bought this Apartment at|
+[0646]<FA10>Land and Building Cost|
+[0647]<FA11>Market Value|
+[0648]<FA12>Profit Graph|
+[0649]<FA13>Past 12 months|
+[0650]<FA14>Occupancy graph|
+[0651]<FA15>Put this apartment on sale|
+[0652]<FA16>Buy this apartment|
+[0653]<FA17>Offer now|
+[0655]<FA19>Demolish the building and sell the land |
+[0656]<FA20>Put this building on sale for:|
+[0658]<FA22>This commercial building is for sale at|
+[0661]<FR00>Sales Revenue|
+[0662]<FR01>Raw Material Cost|
+[0663]<FR02>Freight Cost|
+[0664]<FR03>Salaries Expense|
+[0665]<FR04>Factory Overhead|
+[0666]<FR05>Advertising & PR Expense|
+[0667]<FR06>Training|
+[0668]<FR07>Write-offs|
+[0669]<FR10>Salaries Expense|
+[0670]<FR11>Operating Overhead|
+[0671]<FR12>Training|
+[0672]<FR13>Write-offs|
+[0673]<FR20>Sales Revenue|
+[0674]<FR21>Salaries Expense|
+[0675]<FR22>Operating Overhead|
+[0676]<FR23>Advertising & PR Expense|
+[0677]<FR24>Training|
+[0678]<FR25>Write-offs|
+[0679]<FR30>Sales Revenue|
+[0680]<FR31>Salaries Expense|
+[0681]<FR32>Operating Overhead|
+[0682]<FR33>Advertising & PR Expense|
+[0683]<FR34>Training|
+[0684]<FR35>Write-offs|
+[0685]<FR40>Sales Revenue|
+[0686]<FR41>Consumption of Reserve|
+[0687]<FR42>Salaries Expense|
+[0688]<FR43>Operating Overhead|
+[0689]<FR44>Advertising & PR Expense|
+[0690]<FR45>Training|
+[0691]<FR46>Write-offs|
+[0703]<FBK2>Total Loan|
+[0704]<FBK3>Monthly Interest|
+[0705]<FBK4>Credit Limit|
+[0706]<FBK5>Interest Rate|
+[0707]<FBK6>Borrow|
+[0708]<FBK7>Repay|
+[0715]<FET1>Building Types|
+[0716]<FET2>Select|
+[0717]<FET3>Setup:|
+[0718]<FET4>Monthly:|
+[0719]<FET5>Please select a location|
+[0721]<FET7>Land cost: |
+[0722]<FET8>The location is occupied by residential|
+[0723]<FET9>buildings. You may acquire them for |
+[0724]<FE10>LEFT CLICK TO BUILD|
+[0725]<FE11>Natural Resource|
+[0726]<FE12>Reserve|
+[0727]<FE13>Quality|
+[0728]<FE14>Land Cost|
+[0729]<FE15>Cannot set up here:|
+[0730]<FE16>The area does not have enough trees.|
+[0731]<FE17>The area does not have any mineral deposit.|
+[0732]<FE18>The area does not have any oil deposit.|
+[0733]<FE19>The land is not available.|
+[0734]<FE20>Location is not next to roads|
+[0736]<FE22>Cannot set up:|
+[0737]<FE23>Your company does not have enough cash.|
+[0740]<FAT1>Link This Item|
+[0741]<FAT2>Can be sold in:|
+[0742]<FAT3>Cannot be sold in:|
+[0743]<FAT4>retail stores.|
+[0744]<FAT5>Double-click here to view the product detail report.|
+[0745]<FAT6>Profit|
+[0746]<FAT7>Revenue|
+[0747]<FAT8>Quantity|
+[0748]<FAT9>Market Share|
+[0749]<FA10>Price|
+[0750]<FA11>Cost|
+[0751]<FA12>Price Agreement|
+[0752]<FA13>New Price|
+[0753]<FA14>Brand|
+[0754]<FA15>Quality|
+[0755]<FA16>Price|
+[0756]<FA17>Overall Rating|
+[0758]<FA19>Firm Profit|
+[0759]<FA20>Firm Revenue|
+[0761]<FA22>retail stores.|
+[0763]<FHQ1>Finance Department|
+[0764]<FHQ2>Human Resources Department|
+[0765]<FHQ3>Public Relations Department|
+[0766]<FHQ4>Investor Relations Department|
+[0767]<FHQ5>Chief Executive Officer's Office|
+[0768]<FHQ6>Chief Operating Officer's Office|
+[0769]<FHQ7>Chief Marketing Officer's Office|
+[0770]<FHQ8>Chief Technical Officer's Office|
+[0771]<FHQ9>Acquire Technology From Other Companies|
+[0772]<FH10>Set New Dividend|
+[0773]<FH11>FINANCE DEPARTMENT|
+[0774]<FH12>Current Dividend Payout Ratio:|
+[0775]<FH13>New Dividend Payout Ratio:|
+[0776]<FH14>Organize an Intensive Training Program|
+[0777]<FH15>HUMAN RESOURCES DEPARTMENT|
+[0778]<FH16>Total no. of frontline employees|
+[0779]<FH17>Total no. of frontline employees|
+[0780]<0000>Average employee experience level|
+[0781]<0001>Average training level per firm|
+[0782]<0002>Days since last intensive training|
+[0785]<0005>Total cost|
+[0786]<0006>The Training Program has been executed|
+[0788]<0008> Employees|
+[0789]<0009> Employee|
+[0790]<0010>out of a total of|
+[0791]<0011>have gained improvements|
+[0792]<0012>has gained improvements|
+[0793]<0013>in their skills and productivity.|
+[0794]<0014>in his skills and productivity.|
+[0795]<0015>PUBLIC RELATIONS DEPARTMENT|
+[0796]<0016>Monthly spending on public relations efforts per active city|
+[0798]<0018>If your company is using 'Corporate Brand' strategy,|
+[0799]<0019>the brand will benefit from public relations efforts.|
+[0801]<0021>Corporate Brand|
+[0802]<0022>Brand Awareness|
+[0803]<0023>Brand Loyalty|
+[0804]<0024>Range Band|
+[0805]<0025>Unique Band|
+[0806]<0026>INVESTOR RELATIONS DEPARTMENT|
+[0807]<0027>Monthly spending on investor relations efforts|
+[0809]<0029>corporation's stock performance.|
+[0810]<0030>Detail|
+[0811]<0031>Chief Executive Officer's Office|
+[0812]<0032>Chief Executive Officer|
+[0813]<0033>Years of service|
+[0814]<0034>Retailing|
+[0815]<0035>Research and Development|
+[0816]<0036>Raw Material Production|
+[0817]<0037>Marketing|
+[0818]<0038>Training|
+[0819]<0039>Look for Candidates|
+[0820]<0040>CHIEF OPERATING OFFICER'S OFFICE|
+[0821]<0041>Chief Operating Officer|
+[0822]<0042>Expertise|
+[0823]<0043>Value|
+[0824]<0044>POSITION VACANT|
+[0825]<0045>CHIEF MARKETING OFFICER'S OFFICE|
+[0826]<0046>Chief Marketing Officer|
+[0828]<0048>Acquire Technology From Other Companies|
+[0829]<0049>CHIEF TECHNICAL OFFICER'S OFFICE|
+[0830]<0050>Stock Price|
+[0832]<0052>Dividend Yield|
+[0837]<0057>Offer|
+[0845]<0060>Corporate|
+[0848]<0063>Product|
+[0849]<0064>Firm|
+[0850]<0065>Financial Report|
+[0855]<0070>Manufacturer's|
+[0856]<0071>Guide|
+[0857]<0072>Farmer's Guide|
+[0858]<0073>Manager's Guide|
+[0860]<0075>Stock Exchange|
+[0861]<0076>Revenue Graph |
+[0862]<0077>Quantity Sold Graph |
+[0863]<0078>Previous|
+[0864]<0079>Next|
+[0865]<0080>Go|
+[0866]<0081>Product Class: |
+[0867]<0082>Necessity Index:|
+[0868]<0083>City Total|
+[0869]<0084>One Product|
+[0870]<0085>Market Share |
+[0871]<0086>Production|
+[0872]<0087>Retail|
+[0873]<0088>Producer |
+[0874]<0089>Retailer |
+[0875]<0090>Product Quality|
+[0876]<0091>Production Quality|
+[0877]<0092>Raw Material Quality|
+[0879]<A300>Corporate Brand|
+[0880]<A301>Range Brand|
+[0881]<A302>Unique Brand|
+[0882]<0094>Brand Strategy|
+[0883]<0095>Brand Rating|
+[0884]<0096>Brand Awareness|
+[0885]<0097>Brand Loyalty|
+[0886]<0098>Advertising Expense|
+[0887]<0099> per|
+[0891]<0103>New Price|
+[0892]<0104>All companies|
+[0893]<0105>All cities|
+[0894]<0106>(Tech unknown to you)|
+[0896]<0108>Import|
+[0897]<0109>No Longer in Business|
+[0898]<A400>Financial Overview|
+[0899]<A401>Stock Overview|
+[0900]<A402>Business Relations|
+[0901]<A403>Firm Overview|
+[0902]<0110>Buy|
+[0903]<0111>Overview|
+[0904]<0112>Firms|
+[0905]<0113>Products|
+[0906]<0114>Graphs 1|
+[0907]<0115>Graphs 2|
+[0908]<0116>Stock|
+[0909]<0117>Balance Sheet|
+[0910]<0118>Income Statement|
+[0911]<0119>Technology|
+[0912]<0120>Advertising|
+[0913]<0121>Brand|
+[0914]<0122>Dominance|
+[0915]<0123>Rankings|
+[0916]<0124>All|
+[0917]<0125>Delegate|
+[0918]<0126>City|
+[0919]<0127>Operating Years|
+[0920]<0128>Lifetime Revenue|
+[0921]<0129>Lifetime Profit|
+[0922]<0130>No.of Employees|
+[0923]<0131>No.of Units|
+[0925]<0133>Utilization|
+[0926]<0134>Units|
+[0928]<0136>Lifetime Profit|
+[0929]<0137>Ad. Spending|
+[0930]<0138>Daily Ad. Freq.|
+[0931]<0139>Rating Points|
+[0932]<0140>Sort By Product Name|
+[0933]<0141>Sort By City Name|
+[0934]<0142>Corporate Brand|
+[0935]<0143>Range Brand|
+[0936]<0144>Unique Brand|
+[0937]<0145>A Single Brand Covers All Products|
+[0938]<0146>A Brand Covers a Range of Products|
+[0939]<0147>Each Product has a Unique Brand|
+[0940]<0148>Industry|
+[0941]<0149>Leader Market Share|
+[0942]<0150>Market Share|
+[0943]<0151>Rank|
+[0944]<0152>Product Class|
+[0945]<0153>Product Name|
+[0949]<0157>With Market Share|
+[0950]<0158>Only Dominated|
+[0951]<0159>Description|
+[0952]<0160>Value|
+[0953]<0161>Rank|
+[0954]<0162>Leader|
+[1007]<0164>Description|
+[1013]<0170>Operating Profit|
+[1015]<0172>Net Profit|
+[1016]<0173>Shareholders|
+[1017]<0174>Chart|
+[1018]<0175>Total|
+[1021]<0178>Management|
+[1022]<0179>Strategy:|
+[1024]<0181>Chairman and CEO|
+[1025]<0182>Chairman|
+[1027]<0184>Chief Technical Officer|
+[1028]<0185>Financial Overview|
+[1029]<0186>Stock Overview|
+[1031]<0188>Private Corporation|
+[1032]<0189>Firm Overview|
+[1033]<0190>Annual Revenue|
+[1034]<0191>Annual Gross Profit|
+[1035]<0192>Production & Retail|
+[1036]<0193>Production|
+[1037]<0194>Retail|
+[1039]<0196>Revenue|
+[1040]<0197>Operating Profit|
+[1041]<0198>Net Profit|
+[1042]<0199>Net Worth|
+[1043]<0200>Stock Price|
+[1044]<0201>Past 30 Years|
+[1046]<0203>Cash|
+[1047]<0204>Inventory|
+[1048]<0205>Business Assets|
+[1049]<0206>Land & Resource|
+[1050]<0207>Stock Assets|
+[1051]<0208>Total Loans|
+[1052]<0209>Dividend Paid|
+[1053]<0210>Stock Return|
+[1054]<0211>Salaries Expense|
+[1055]<0212>Advertising|
+[1056]<0213>Training|
+[1057]<0214>Write-offs|
+[1058]<0215>Shareholder          Owned Qty  Owned%  Stock Value|
+[1061]<0218>Confidential|
+[1062]<0219>Current Tech|
+[1063]<0220>Top Tech|
+[1064]<0221>Target Tech|
+[1065]<0222>R&D Progress|
+[1067]<0224>YTD Trade|
+[1068]<0225>Lifetime Trade|
+[1069]<0226>Annual Revenue|
+[1070]<0227>Annual Operating Profit|
+[1071]<0228>Annual Net Profit|
+[1072]<0229>Total Assets|
+[1073]<0230>Total Loans|
+[1074]<0231>Stock Asset|
+[1075]<0231>No. of Years of Operation|
+[1076]<0232>No. of Employees|
+[1077]<0233>No. of Product Classes|
+[1078]<0234>No. of Product Types|
+[1079]<0235>Return on Equity|
+[1080]<0236>Return on Total Assets|
+[1081]<0237>Dividend Yield|
+[1082]<0238>Stock Return to Investors|
+[1083]<0239>Operating Profit Margin|
+[1084]<0240>Net Profit Margin|
+[1085]<0241>Inventory Turnover|
+[1086]<0242>Assets Turnover|
+[1087]<0243>Equity-to-Assets Ratio|
+[1088]<0244>Researching new product|
+[1089]<0245>years|
+[1090]<0246>year|
+[1091]<0247>units|
+[1092]<0248>unit|
+[1093]<0249>Public Shareholders|
+[1094]<0250>total|
+[1095]<0251>Annual Profit|
+[1096]<0252>Stock Price|
+[1099]<0255>P/E Ratio|
+[1100]<0256>Dividend Yield|
+[1102]<0257>Annual Return|
+[1104]<0259>Merger|
+[1105]<0260>Buy|
+[1106]<0261>Sell|
+[1107]<0262>Price    P/E    Owned%  Stock Value|
+[1108]<0263>Stock Price|
+[1109]<0264>Total Shares|
+[1110]<0265>Equity Per Share|
+[1111]<0266>Earnings Per Share|
+[1112]<0267>P/E Ratio|
+[1113]<0268>Dividend Yield|
+[1114]<0269>Annual Return|
+[1116]<0271>Who             Cash|
+[1117]<0272>Buy Stock|
+[1118]<0273>Sell Stock|
+[1119]<0274>Offer Price|
+[1122]<0277>100 Billionaires|
+[1123]<0278>Local Billionaires|
+[1124]<0279>Issue New Shares|
+[1125]<0280>Borrow/Repay Loan|
+[1126]<0281>Public Shareholders|
+[1127]<0282>Past 30 Days|
+[1128]<0283>of|
+[1129]<0284>ISSUE NOW|
+[1130]<0285>BORROW|
+[1131]<0286>REPAY|
+[1132]<0287>Issues|
+[1133]<0288>New Shares at|
+[1134]<0289> Per Share.|
+[1135]<0290>Total Loan|
+[1136]<0291>Monthly Interest|
+[1137]<0292>Credit Limit|
+[1138]<0293>Interest Rate|
+[1139]<0294>Borrow|
+[1140]<0295>Repay|
+[1141]<0296>Loan Interest Rate|
+[1142]<0296>Loan Amount|
+[1143]<0297>ISSUE NOW|
+[1144]<0298>Owner:|
+[1145]<0299>Your purchase price|
+[1146]<0300>Land and building cost|
+[1147]<0301>Market value|
+[1148]<0302>Put this mansion on sale for:|
+[1149]<0303>Put this mansion on sale|
+[1150]<0304>Demolish the mansion and sell the land|
+[1151]<0305>This mansion is for sale|
+[1152]<0306>Buy this mansion|
+[1154]<0308>Are you sure that you want to demolish the mansion and sell the land? \n \nThe land can be sold for |
+[1155]<0309>Manager|
+[1156]<0310>TV Broadcast|
+[1157]<0311>Radio Broadcast|
+[1158]<0312>Newspaper|
+[1163]<0317>retail stores.|
+[1164]<0318>Double-click here to view the product detail report.|
+[1175]<0329>City Overall|
+[1181]<0335>New Product|
+[1182]<0336>Development|
+[1185]<0339>Target Technology:|
+[1186]<0340>Duration:|
+[1187]<0341>Progress|
+[1188]<0342>NONE|
+[1189]<0343>There is no space for adding new products|
+[1190]<0344>This item can be sold in...|
+[1194]<A700>Frozen|
+[1195]<A701>Cold|
+[1196]<A702>Cool|
+[1197]<A703>Warm|
+[1198]<A704>Hot|
+[1199]<A800>Dry|
+[1200]<A801>Little|
+[1201]<A802>Moderate|
+[1202]<A803>Plentiful|
+[1203]<0348>Warm, Cool or Cold|
+[1235]<0349>No. of Employees|
+[1236]<0350>No. of Units|
+[1237]<0351>Average Unit Level|
+[1238]<0352>Average Utilization|
+[1239]<0353>Who manages this firm?|
+[1240]<0354>C.E.O.|
+[1241]<0355>President|
+[1242]<0356>Do you want to manage all of your firms yourself?|
+[1243]<0357>Do you want President |
+[1244]<0358> to manage all of your firms|
+[1245]<0359>Layout Plan Library - |
+[1247]<0361>Description|
+[1249]<0363>Output|
+[1250]<0364>Input|
+[1251]<0365>Available|
+[1253]<0367>Chief Operating Officer|
+[1255]<0369>He currently manages this firm|
+[1256]<0370>She currently manages this firm|
+[1263]<0377>Market Value:|
+[1264]<0378>This mansion is for sale|
+[1265]<0379>FOR SALE|
+[1267]<0381>Function: Issuing new shares|
+[1268]<0382>Function: Borrowing bank loans|
+[1269]<0383>Function: Trading stocks|
+[1270]<0384>Function: Advertising your products|
+[1271]<0385>Function: Provide information|
+[1272]<0386>Rating Points|
+[1273]<0387>Rating Points for past 36 months|
+[1274]<0388>Content Volume|
+[1275]<0389>Content Quality|
+[1278]<0392>Rating Points|
+[1281]<0395>Monthly Budget for New Content Development|
+[1287]<0401>Next Month Advertising Pricing|
+[1289]<0403>Current Advertising Pricing|
+[1292]<0406>Buy Firm|
+[1298]<AA00>All|
+[1299]<AA01>Has Trade Sales|
+[1300]<AA02>Has Retail Sales|
+[1301]<AB00>All|
+[1302]<AB01>Consumer Goods|
+[1303]<AB02>Industrial Goods|
+[1304]<AC00>Sales Revenue|
+[1305]<AC01>Raw Material Cost|
+[1306]<AC02>Freight Cost|
+[1307]<AC03>Salaries Expense|
+[1308]<AC04>Factory Overhead|
+[1309]<AC05>Advertising & PR Expense|
+[1310]<AC06>Training|
+[1311]<AC07>Write-offs|
+[1312]<AD00>Salaries Expense|
+[1313]<AD01>Operating Overhead|
+[1314]<AD02>Training|
+[1315]<AD03>Write-offs|
+[1316]<AE00>Sales Revenue|
+[1317]<AE01>Purchase Cost|
+[1318]<AE02>Freight Cost|
+[1319]<AE03>Salaries Expense|
+[1320]<AE04>Operating Overhead|
+[1321]<AE05>Advertising & PR Expense|
+[1322]<AE06>Training|
+[1323]<AE07>Write-offs|
+[1324]<AF00>Sales Revenue|
+[1325]<AF01>Salaries Expense|
+[1326]<AF02>Operating Overhead|
+[1327]<AF03>Advertising & PR Expense|
+[1328]<AF04>Training|
+[1329]<AF05>Write-offs|
+[1330]<AG00>Sales Revenue|
+[1331]<AG01>Consumption of Reserve|
+[1332]<AG02>Salaries Expense|
+[1333]<AG03>Operating Overhead|
+[1334]<AG04>Advertising & PR Expense|
+[1335]<AG05>Training|
+[1336]<AG06>Write-offs|
+[1347]<0412>Summary|
+[1348]<0413>Wealth|
+[1349]<0414>Career|
+[1350]<0415>Personality|
+[1351]<0416>Expertise|
+[1352]<0417>Score|
+[1353]<0418>Corporate Balance Sheet|
+[1354]<0419>Corporate Income Statement|
+[1355]<0420>Firm Income Statement|
+[1358]<0423>No. of years passed|
+[1360]<0425>TARGET|
+[1361]<0426>CURRENT|
+[1362]<0427>ACHIEVED|
+[1363]<0428>SCORE|
+[1364]<0429>Personal Wealth|
+[1365]<0430>Value of Companies Controlled by You|
+[1366]<0431>Dominated Industries|
+[1367]<0432>Dominated Products|
+[1370]<0435> Points|
+[1372]<0437> x 20|
+[1373]<0438> x 5|
+[1374]<0439>Total Score: -1 (You have enabled the cheated mode.)|
+[1375]<0440>Total Score:|
+[1376]<0441> x |
+[1377]<0442> (Difficulty)|
+[1379]<0444> (Goal Bonus) =|
+[1380]<0445> x 2 (Goal Bonus) =|
+[1381]<0446> =|
+[1382]<0447> (Years)|
+[1383]<0448> x 2 (Goal Bonus)|
+[1384]<0449>INPUT|
+[1385]<0450>OUTPUT|
+[1386]<0451>MORE|
+[1387]<0452> million|
+[1389]<0454>Rating (0-100)|
+[1390]<0455>Farming|
+[1391]<0456>Manufacturing|
+[1392]<0457>Research and Development|
+[1393]<0458>Raw Material Production|
+[1394]<0459>Marketing|
+[1395]<0460>Training|
+[1396]<0461>Career|
+[1397]<0462>Corporation|
+[1398]<0463>Job Title|
+[1399]<0464>Years of Service|
+[1400]<0465>Retired|
+[1401]<0466>Independent Investor|
+[1402]<0467>Attitude Towards You|
+[1403]<0468>Annual Salary|
+[1404]<0469>Terminate Employment|
+[1405]<0470>Hire Chief Operating Officer|
+[1406]<0471>Hire Chief Marketing Officer|
+[1407]<0472>Hire Chief Technical Officer|
+[1408]<0473>MANAGEMENT POLICIES|
+[1409]<0474>Pricing Policy|
+[1411]<0476>Aggressive|
+[1412]<0477>Very Aggressive|
+[1419]<0484>The severance for terminating the employment of \n|
+[1424]<0489>, is \n|
+[1425]<0490> (monthly salary)|
+[1426]<0491> (weekly salary) x|
+[1427]<0492> (years of service)|
+[1428]<0493>Do you want to proceed ?|
+[1445]<0510>You offered|
+[1448]<0513>She|
+[1449]<0514>He|
+[1450]<0515> rejected your offer.|
+[1451]<0516> requested an annual salary of|
+[1452]<0517>Do you accept?|
+[1474]<0539>Crop Name|
+[1475]<0540>Crop in Barn|
+[1476]<0541>Growth Progress|
+[1477]<0542> units|
+[1478]<0543> unit|
+[1479]<0544>Quality: |
+[1480]<0545>Quality is determined by:|
+[1481]<0546>Production Tech|
+[1482]<0547>Raw Material Quality|
+[1483]<0548>Tech Invented|
+[1484]<0549>Tech Known to You|
+[1485]<0550>Character:|
+[1487]<0552>Degree (0-100)|
+[1488]<0553>Investing in Research and Development|
+[1489]<0554>Investing in Training|
+[1490]<0555>Frequency of Upgrading Production Facilities|
+[1491]<0556>Spending on Advertising|
+[1492]<0557>Paying Dividend|
+[1493]<0558>Investing in Stocks|
+[1494]<0559>Corporation Takeover and Merger|
+[1495]<0560>Strengthening Corporation Ownership|
+[1496]<0561>Endure Loss for Avoiding Layoff|
+[1497]<0562>Purchasing Goods from Own Firms|
+[1498]<0563>Personal Wealth|
+[1499]<0564>Market Cap of Companies Controlled|
+[1500]<0565>Score:|
+[1501]<0566> billion x 100|
+[1502]<0567>Score:|
+[1503]<0568> billion x 10|
+[1504]<0569>Dominated Industries|
+[1505]<0570>Dominated Products|
+[1506]<0571>Score:|
+[1507]<0572> x 20 =|
+[1509]<0574> x 5 =|
+[1510]<0575>Total Score: -1 (You have enabled the cheated mode.)|
+[1511]<0576>Total Score:|
+[1512]<0577> (Difficulty)|
+[1513]<0578> (Goal Bonus) =|
+[1515]<0580> (Years)|
+[1517]<0582>Character  |
+[1518]<0583>Job Title  |
+[1519]<0584>Corporation|
+[1520]<0585>Cash|
+[1521]<0586>Stock|
+[1522]<0587>Total Wealth|
+[1546]<0611>Personal Wealth|
+[1547]<0612>Cash|
+[1548]<0613>Stock|
+[1549]<0614>Mansions market|
+[1550]<0615>   values|
+[1551]<0616>Total|
+[1552]<0617>Owned Stocks|
+[1553]<0618>Corporation|
+[1554]<0619>Price|
+[1555]<0620>Owned Qty|
+[1556]<0621>Owned %|
+[1557]<0622>Stock Value|
+[1558]<0623>Position|
+[1559]<0624>Total|
+[1600]<0625>YTD Changes|
+[1601]<0626>Last Year Changes|
+[1602]<0627>YTD Changes|
+[1603]<0628>YTD Changes|
+[1604]<0629>Last Year Changes|
+[1605]<0630>Lifetime |
+[1606]<0631>Description|
+[1607]<0632>Current Month|
+[1608]<0633>Last Month|
+[1615]<0640>Description|
+[1616]<0641>Current Month|
+[1617]<0642>Last Month|
+[1619]<0644>OPERATING REVENUE|
+[1620]<0645>OPERATING EXPENSES|
+[1621]<0646>OPERATING PROFIT|
+[1622]<0647>Sowing Month|
+[1623]<0648>Product|
+[1624]<0649>Harvesting Month|
+[1625]<0650>Livestock Products:|
+[1626]<0651> Unit|
+[1632]<AK00>Operating Revenue|
+[1633]<AK01>Cost of Sales|
+[1634]<AK02>Salaries Expense|
+[1635]<AK03>Operating Overhead|
+[1636]<AK04>Advertising & PR Expense|
+[1637]<AK05>Training|
+[1638]<AK06>R&D Expense|
+[1639]<AK07>Donation to Public Facilities|
+[1640]<AK08>Write-offs|
+[1641]<AK09>Stock Return|
+[1642]<AL00>6 months|
+[1643]<AL01>1 year|
+[1644]<AL02>2 years|
+[1645]<AL03>3 years|
+[1646]<AL04>5 years|
+[1647]<AL05>10 years|
+[1648]<0652>Stock Price Graph|
+[1650]<0654>Day|
+[1651]<0655>Month|
+[1652]<0656>Mansion|
+[1653]<0657> year|
+[1654]<0658> years|
+[1656]<0660>Your Personal Wealth|
+[1657]<0661>Net Worth of Your Corporation|
+[1658]<0662>Market Cap of Your Corporation|
+[1659]<0663>Annual Revenue of Your Corporation|
+[1660]<0664>Annual Operating Profit of Your Corporation|
+[1661]<0665>Net Worth of Companies Under Your Control|
+[1662]<0666>Market Cap of Companies Under Your Control|
+[1663]<0667>Annual Revenue of Companies Under Your Control|
+[1664]<0668>Annual Operating Profit of Your Companies|
+[1665]<0669>No. of Companies Under Your Control|
+[1666]<0670>Total No. of Employees in Your Corporation|
+[1667]<0671>Operating Profit Margin of Your Corporation|
+[1668]<0672>Return on Equity of Your Corporation|
+[1669]<0673>Stock Price of Your Corporation|
+[1670]<0674>Your Ownership of Your Corporation|
+[1671]<0675>No. of Product Classes Produced by Your Corporation|
+[1672]<0676>No. of Product Types Produced by Your Corporation|
+[1673]<0677>Market Dominance of the |
+[1674]<0678> Sector|
+[1675]<0679>Market Dominance of the |
+[1676]<0680> Industry|
+[1678]<0681>Score: |
+[1679]<0682>Wealth: |
+[1680]<0683> billion|
+[1681]<0684> million|
+[1682]<0685>Period: |
+[1712]<0715>You have |
+[1715]<0718> left to achieve the main goal. Hurry Up!|
+[1721]<0724>Corporation Name|
+[1722]<0725>Your Name|
+[1787]<0790>You corporation has been taken over by |
+[1788]<0791>You have lost the ownership of your corporation !|
+[1789]<0792>Government|
+[1790]<0793>Creating a New Game . . . . .|
+[1791]<0794>FINAL SCORE UPON RETIREMENT|
+[1792]<0795>FINAL SCORE UPON TAKEOVER|
+[1797]<0800>Score:|
+[1807]<0811>Values 1|
+[1808]<0812>Values 2|
+[1809]<0813>Industries|
+[1810]<0814>Products|
+[1811]<0815>CORPORATE COLOR|
+[1812]<0816>CORPORATE LOGO|
+[1813]<0817>YOUR PORTRAIT|
+[1817]<0821>NEW SINGLE-PLAYER GAME|
+[1818]<0822>Start|
+[1819]<0823>Back|
+[1820]<0824>Goal Values|
+[1821]<0825>No. of Years|
+[1822]<0826>Goal Score Bonus|
+[1823]<0827>Player's Wealth ($million)|
+[1824]<0828>Goals of the Player's Own Corporation ($million)|
+[1825]<0829>Annual Revenue|
+[1826]<0830>Net Worth|
+[1827]<0831>Annual Operating Profit|
+[1828]<0832>Market Cap|
+[1829]<0833>Goals of Companies Controlled by the Player ($million)|
+[1830]<0834>Annual Revenue|
+[1831]<0835>Net Worth|
+[1832]<0836>Annual Operating Profit|
+[1833]<0837>Market Cap|
+[1834]<0838>No. of Controlled Companies|
+[1835]<0839>Goals of the Player's Own Corporation|
+[1836]<0840>Total No. of Employees|
+[1837]<0841>Operating Profit Margin|
+[1838]<0842>Return on Equity|
+[1839]<0843>Stock Price|
+[1840]<0844>Ownership|
+[1841]<0845>No. of Product Classes Being Produced|
+[1842]<0846>No. of Product Types Being Produced|
+[1843]<0847>Goal Industries - Goals of Industry Dominance|
+[1844]<0848>Excluded Industries|
+[1845]<0849>Included Industries|
+[1846]<0850>Goal Products - Goals of Product Market Dominance|
+[1847]<0851>Excluded products|
+[1848]<0852>Included products|
+[1849]<0853>Add|
+[1850]<0854>Add All|
+[1851]<0855>Remove|
+[1852]<0856>Remove All|
+[1855]<0859> year)|
+[1856]<0860> years)|
+[1857]<AL00>|
+[1858]<AL01> million|
+[1859]<AL02> billion|
+[1861]<AM00>Finance Department|
+[1862]<AM01>Human Resources Department|
+[1863]<AM02>Public Relations Department|
+[1864]<AM03>Investor Relations Department|
+[1865]<AM04>Chief Executive Officer's Office|
+[1866]<AM05>Chief Operating Officer's Office|
+[1867]<AM06>Chief Marketing Officer's Office|
+[1868]<AM07>Chief Technical Officer's Office|
+[1869]<AM08>NONE|
+[1870]<AN00>OPTIONS (O)|
+[1871]<AN01>SAVE GAME (S or Alt-S)|
+[1872]<AN02>LOAD GAME (L)|
+[1873]<AN03>RESTART GAME|
+[1874]<AN04>RETIRE|
+[1875]<AN05>GAME SETTINGS (F9)|
+[1876]<AN06>QUIT TO MAIN MENU|
+[1877]<AN07>QUIT TO WINDOWS|
+[1878]<AN08>CONTINUE GAME|
+[1879]<AN09>HOTKEY LIST (K)|
+[1913]<0862>Revenue Graph|
+[1914]<0863>Qty Sold Graph|
+[1916]<0865>Go|
+[1917]<0866>Product Class|
+[1923]<0872>Market Share|
+[1929]<0878>Price|
+[1930]<0879>Quality|
+[1931]<0880>Brand|
+[1932]<0881>Overall|
+[1957]<0906>Cash:|
+[1958]<0907>Profit:|
+[1960]<0909>Local|
+[1961]<0910>Price|
+[1962]<0911>Quality|
+[1963]<0912>Brand|
+[1964]<0913>Overall|
+[1965]<0914>Ours|
+[1966]<0915>Average|
+[1967]<0916>Concern|
+[1968]<AQ00>Waiting for Sowing Season|
+[1969]<AQ01>Sowing|
+[1970]<AQ02>Growing|
+[1971]<AQ03>Harvesting|
+[1972]<0917>Stop Linkage|
+[1973]<0918>Link Media|
+[1974]<0919>Advertising Unit|
+[1975]<0920>Unit Level|
+[1976]<0921>Advertising on TV|
+[1977]<0922>Advertising on Newspaper|
+[1978]<0923>Advertising on Radio|
+[1979]<0924>Monthly Spending Per Product|
+[1980]<0925>Advertising cost (CPM)|
+[1981]<0926>Rating Points|
+[1982]<0927>Link|
+[1983]<0928>Abort|
+[1984]<0929>Grow A Crop|
+[1987]<0932>Quality|
+[1988]<0933>Growth Days|
+[1991]<0936>Raise Livestock|
+[1994]<0939>Quality|
+[1995]<0940>Baby Quantity|
+[1996]<0941>Adult Quantity|
+[1998]<0943>Select Product|
+[2005]<0950>Clear Stock|
+[2015]<0960>Brand Awareness|
+[2016]<0961>Brand Loyalty|
+[2017]<0962>Brand Rating|
+[2020]<0965>Upgrade Tech|
+[2024]<0969>Current Technology Level: |
+[2025]<0970>\n\nTarget Technology Level: |
+[2026]<0971>\n\nThe current functional unit will be downgraded |
+[2027]<0972>from level |
+[2028]<0973> to level |
+[2029]<0974>\n\nUpgrade now ?|
+[2030]<0975>Product Quality|
+[2032]<0977>Production Quality|
+[2033]<0978>Raw Material Quality|
+[2037]<0982>Link|
+[2038]<0983>Supplier|
+[2039]<0984>Stop Purchase|
+[2041]<0986>Unit Level|
+[2042]<0987>Cost+Freight|
+[2043]<0988>Quality|
+[2044]<0989>Brand|
+[2045]<0990>Supply|
+[2046]<0991>Demand|
+[2049]<0994>SUPPLY STOPPED|
+[2056]<1001>Reserve|
+[2059]<1004> years|
+[2060]<1005> year|
+[2062]<1007>R&D New Product|
+[2063]<1008>R&D Tech|
+[2064]<1009>Apply Tech|
+[2065]<1010>Terminate R&D|
+[2070]<1015>New Product R&D|
+[2073]<1018>Original Tech|
+[2074]<1019>Target Tech|
+[2075]<1020>Progress|
+[2078]<1023>Internal Sale|
+[2084]<1029>Price|
+[2091]<1036>Select|
+[2092]<1037>Input Material|
+[2093]<AR00>Cattle|
+[2094]<AR01>Sheep|
+[2095]<AR02>Pig|
+[2096]<AR03>Chicken|
+[2097]<AR04>Goat|
+[2098]<AR05>Goose|
+[2099]<AR06>Ostrich|
+[2100]<AR07>Turkey|
+[2101]<AS00>Cattle|
+[2102]<AS01>Sheep|
+[2103]<AS02>Pigs|
+[2104]<AS03>Chickens|
+[2105]<AS04>Goats|
+[2106]<AS05>Geese|
+[2107]<AS06>Ostriches|
+[2108]<AS07>Turkeys|
+[2109]<AT00>Operations News|
+[2110]<AT01>Financial News|
+[2111]<AT02>Technology News|
+[2112]<AT03>Special News|
+[2113]<AU00>News related to all corporations|
+[2114]<AU01>News related to corporations that you control + Special news|
+[2115]<AU02>News related to your corporation + Special news|
+[2116]<AU03>Special news only|
+[2117]<1038> New Competitor|
+[2118]<1039> Firm Setting Up|
+[2119]<1040> Firm Closing Down|
+[2120]<1041> Competitor Bankrupts|
+[2121]<1042> Resource Reserve Exhausted|
+[2122]<1043> Resource DISCOVERY|
+[2123]<1044> Competitor Borrows Bank Loan|
+[2124]<1045> Competitor Repaies Bank Loan|
+[2125]<1046> Competitor Issues New Share|
+[2126]<1047> Competitor Buys/Sells Share|
+[2127]<1048> Competitor Takes/Loses Ownership|
+[2128]<1049> MERGER|
+[2129]<1050> Annual Stock Dividend|
+[2130]<1051> Competitors Retires|
+[2131]<1052> Resource Discovered|
+[2132]<1053> New City|
+[2133]<1054> Competitor Declares a Price War|
+[2134]<1055> Ultimate Dominance|
+[2135]<1056> Tender Offering|
+[2136]<1057> Tender Offer|
+[2137]<1058> Succeeding CEO|
+[2138]<1059> New Invention|
+[2139]<1060> Technology Acquisition|
+[2140]<1061> Animal Disease!|
+[2141]<1062> Fire!|
+[2142]<1063> Plague of Insects! |
+[2143]<1064> Technology Breakthrough!|
+[2146]<1067> Firm Acquisition|
+[2147]<1068> Stock Offer|
+[2148]<1069> Merger!|
+[2149]<1070> sets up Headquarters|
+[2152]<1073> sets up a Factory|
+[2153]<1074> opens a R&D Center|
+[2154]<1075> sets up a Farm|
+[2155]<1076> sets up a Logging Camp|
+[2156]<1077> sets up a Mine|
+[2157]<1078> Drills an Oil Well|
+[2158]<1079>TV Station Started|
+[2159]<1080>Newspaper Publisher Started|
+[2160]<1081>Radio Station Started|
+[2161]<1082>Seaport Opened|
+[2162]<1083> Builds a Mansion|
+[2163]<1084> Builds an Apartment|
+[2164]<1085> Builds a Commercial Building|
+[2165]<1086> in |
+[2170]<1091> Closes Down its |
+[2171]<1092> in |
+[2172]<1093> near |
+[2173]<1094> after |
+[2174]<1095> Year |
+[2175]<1096> Years |
+[2176]<1097>of Operation.|
+[2177]<1098>NEWCOMER! |
+[2178]<1099> Joins the Competition.|
+[2179]<1100>BANKRUPTCY! |
+[2181]<1102> Goes Bankrupt after |
+[2182]<1103> Year|
+[2183]<1104> Years|
+[2184]<1105> of Operation.|
+[2185]<1106> The Shareholders Received |
+[2186]<1107> Per Share.|
+[2187]<1108> Reserve near |
+[2188]<1109> Exhausted. |
+[2189]<1110>Production at the |
+[2190]<1111> Owned by |
+[2191]<1112> Ceases.|
+[2192]<1113> Deposit Discovered near |
+[2193]<1114> Deposit Discovered Accidentally on the Construction Site of |
+[2194]<1115>'s New |
+[2198]<1119> Issues |
+[2199]<1120> New Shares at |
+[2200]<1121> Per Share|
+[2201]<1122> Buys Back |
+[2202]<1123> Buys |
+[2203]<1124> Sells |
+[2204]<1125> Shares of |
+[2205]<1126>its Own Stock|
+[2206]<1127> at |
+[2207]<1128> Per Share.|
+[2208]<1129> Takes Control of |
+[2209]<1130> Loses Control of |
+[2210]<1131>FRIENDLY MERGER! |
+[2211]<1132>MERGER! |
+[2212]<1133> Merges with |
+[2213]<1134> Pays an Annual Stock Dividend of |
+[2214]<1135> Per Share.|
+[2215]<1136> of the Stock Price).|
+[2216]<1137> Retires after |
+[2217]<1138> Years of Service as the CEO of |
+[2227]<1148> Buys |
+[2228]<1149>Back |
+[2229]<1150> Shares of |
+[2230]<1151>its Own Stock|
+[2231]<1152> from |
+[2232]<1153> at |
+[2233]<1154> Per Share.|
+[2234]<1155> Succeeds |
+[2235]<1156> as the CEO of |
+[2236]<1157>Researchers at |
+[2237]<1158>'s R&D Center Announce Invention. |
+[2238]<1159> Unveiled at Press Conference.|
+[2241]<1162>Unknown Disease Decimates |
+[2242]<1163> Population in |
+[2243]<1164> Area. |
+[2244]<1165> Are Destroyed.|
+[2245]<1166>Researchers at |
+[2246]<1167>'s R&D Center Make a Breakthrough. |
+[2247]<1168> Unveiled at Press Conference.|
+[2248]<1169>Researchers at |
+[2249]<1170>'s R&D Center Make a Breakthrough in |
+[2250]<1171>'s Production Technology.|
+[2251]<1172>Fire Destroyed the |
+[2252]<1173>'s |
+[2253]<1174> in |
+[2254]<1175> near |
+[2255]<1176>Plague of Insects Descends on Crops in |
+[2256]<1177> Area. Fields are Completely Stripped of Vegetation.|
+[2257]<1178> Blacked Out for |
+[2258]<1179> Hours! Looters Steal |
+[2259]<1180> Worth of Goods from City's Retail Stores.|
+[2260]<1181>Stock Exchange Dives |
+[2261]<1182>! Panic Selling Ensues!|
+[2278]<1198>Player group |
+[2279]<1199> has left the game. AI will take over the duties.|
+[2280]<1200>Forget it!|
+[2281]<1201>I'll pay this much.|
+[2282]<1202>I accept.|
+[2283]<1203>Pay Cash|
+[2284]<1204>Issue Shares|
+[2285]<1205>I pay this much.|
+[2286]<1206>Accept resignation|
+[2287]<1207>Offer a salary raise|
+[2288]<1208>Accept Resignation|
+[2289]<1209>Offer this much|
+[2290]<1210>I want to sell this firm for |
+[2291]<1211>I want to sell this firm. How much can you pay?|
+[2292]<1212>I would like to buy this firm for |
+[2293]<1213>OK, I agree to sell this firm for |
+[2294]<1214>The Securities and Exchange Commission does not approve your purchase. \nYou cannot use a corporation that you control to buy a stock in which you personally have ownership.|
+[2295]<1215>The Securities and Exchange Commission does not approve your purchase. \nYou cannot use a corporation that you control to buy a stock in which your corporation or its subsidiary has ownership.|
+[2296]<1216>The Securities and Exchange Commission does not approve your purchase. \nYou cannot buy a stock in which your corporation or its subsidiary has ownership.|
+[2297]<1217>I don't want to sell my firm at this price to you.|
+[2298]<1218>I don't want to sell my stock to you.|
+[2299]<1219>I reject your offer and demand |
+[2300]<1220> per share. \nWill you accept this offer?|
+[2301]<1221>( Total payment: |
+[2302]<1222>You don't have enough cash to purchase my stock.|
+[2303]<1223>How would you prefer to acquire the remaining shares of |
+[2304]<1224>1) By paying |
+[2305]<1225>) cash|
+[2306]<1226>2) By issuing |
+[2307]<1227> new shares of |
+[2308]<1228> in exchange with |
+[2309]<1229> shares|
+[2310]<1230> offers you |
+[2311]<1231> per share for buying |
+[2312]<1232>back |
+[2313]<1233> shares (|
+[2314]<1234>) of |
+[2315]<1235>its own stock|
+[2316]<1236> held by |
+[2317]<1237>The market price of the stock is |
+[2318]<1238>. Will you accept this offer?|
+[2319]<1239>I want to sell this mansion for |
+[2320]<1240> \nThe market value of this mansion is |
+[2321]<1241>The market value of this mansion is |
+[2322]<1242>. \nHow much can you pay ?|
+[2323]<1243>I would like to buy this mansion for |
+[2324]<1244>OK, I agree to sell this mansion for |
+[2325]<1245>I am the |
+[2326]<1246> of your company. \n|
+[2327]<1247>Will you accept my resignation ?|
+[2328]<1248>What is your offer ? \n|
+[2329]<1249>My current salary is |
+[2330]<1250>I'll increase your annual salary to |
+[2331]<1251>I accept your offer and withdraw my resignation.|
+[2332]<1252>I reject your offer and affirm my resignation.|
+[2333]<1253>I accept your offer and agree to buy the technology from you.|
+[2334]<1254>I reject your offer.|
+[2336]<1256> counter offers you |
+[2337]<1257> offers you |
+[2338]<1258> per share for buying |
+[2339]<1259>back |
+[2340]<1260> shares (|
+[2341]<1261>) of |
+[2342]<1262>its own stock|
+[2343]<1263> held by |
+[2344]<1264>The market price of the stock is |
+[2345]<1265>. Will you accept this offer?|
+[2346]<1266>I would like to sell this stock for |
+[2347]<1267>I reject your offer and demand |
+[2348]<1268> per share. \nWill you accept this offer?|
+[2349]<1269>( Total payment: |
+[2350]<1270>I would like to buy this stock for |
+[2351]<1271>I want to buy this mansion for |
+[2352]<1272> \nThe market value of this mansion is |
+[2353]<1273>I would like to sell this mansion for |
+[2354]<1274>I would like to sell this mansion.\n|
+[2355]<1275>How much can you offer?|
+[2356]<1276> \nThe market value of this mansion is |
+[2357]<1277>I want to sell this mansion for |
+[2358]<1278> \nThe market value of this mansion is |
+[2359]<1279>I would like to buy this mansion for |
+[2360]<1280>I want to buy this firm for |
+[2361]<1281> \nIts market value is |
+[2362]<1282>I would like to sell it for |
+[2363]<1283>I would like to sell this firm.\n|
+[2364]<1284>How much can you offer?|
+[2365]<1285> \nThe market value of this firm is |
+[2366]<1286>I want to sell this firm for |
+[2367]<1287> \nThe market value of this firm is |
+[2368]<1288>I would like to buy this firm for |
+[2369]<1289>I want to buy the production technology of %1s from you for %2s. Your current technology level is %3s.|
+[2370]<1290>I will only sell this technology for |
+[2371]<1291>I would like to sell this technology.\n|
+[2372]<1292>How much can you offer?|
+[2373]<1293>I want to sell this technology for |
+[2374]<1294>I would like to buy this technology for |
+[2375]<1295>, CEO, |
+[2377]<1297>LOG|
+[2378]<1298>PREVIOUS|
+[2379]<1299>NEXT|
+[2380]<1300>CLOSE|
+[2381]<1301>Invented|
+[2382]<1302>Known to You|
+[2383]<AT00>DISABLED|
+[2384]<AT01>ENABLED|
+[2385]<AU00>OFF|
+[2386]<AU01>ON|
+[2387]<AV00>NONE|
+[2388]<AV01>BRIEF|
+[2389]<AV02>DETAILED|
+[2390]<1303>Game Options|
+[2392]<1305>Default Internal Sale|
+[2393]<1306>Default Auto Link Supplier|
+[2394]<1307>Consider Stock Offers from AI|
+[2395]<1308>Music|
+[2396]<1309>Sound Effects|
+[2397]<1310>Context Sensitive Help|
+[2398]<1311>Auto Save|
+[2400]<1313>YOU HAVE RUN OUT OF CASH!!|
+[2401]<1314>WHAT WOULD YOU LIKE TO DO ?|
+[2402]<1315>If you do not respond in |
+[2403]<1316> seconds, you will be forced to declare bankruptcy.|
+[2404]<1317>CASH|
+[2405]<1318>NET WORTH|
+[2406]<1319>BORROW MONEY FROM BANK|
+[2407]<1320>SELL STOCK|
+[2408]<1321>DECLARE BANKRUPTCY|
+[2409]<1322>ISSUE NEW SHARES|
+[2410]<1323>CLOSE DOWN FIRMS|
+[2411]<1324>BANKRUPTCY|
+[2412]<1325>Cash|
+[2413]<1326>Sale of Land|
+[2414]<1327>Sale of Stocks|
+[2415]<1328>Bank Loan Repayment|
+[2416]<1329>Cash|
+[2417]<1330>Payment Per Share|
+[2435]<AU00>Conservative|
+[2436]<AU01>Moderate|
+[2437]<AU02>Aggressive|
+[2438]<AU03>Very Aggressive|
+[2439]<AU04>Human Player|
+[2440]<AV00>CEO|
+[2441]<AV01>Chairman|
+[2442]<AV02>CEO & Chairman|
+[2443]<AV03>COO|
+[2444]<AV04>COO & Chairman|
+[2445]<AV05>CMO|
+[2446]<AV06>CMO & Chairman|
+[2447]<AV07>CTO|
+[2448]<AV08>CTO & Chairman|
+[2449]<AW00>Chief Executive Officer|
+[2450]<AW01>Chairman|
+[2451]<AW02>Chief Executive Officer & Chairman|
+[2452]<AW03>Chief Operating Officer|
+[2453]<AW04>Chief Operating Officer & Chairman|
+[2454]<AW05>Chief Marketing Officer|
+[2455]<AW06>Chief Marketing Officer & Chairman|
+[2456]<AW07>Chief Technical Officer|
+[2457]<AW08>Chief Technical Officer & Chairman|
+[2458]<1348>Independent Investor|
+[2459]<1349>Independent Investor|
+[2460]<1350>Very Bad|
+[2461]<1351>Bad|
+[2462]<1352>Neutral|
+[2463]<1353>Good|
+[2464]<1354>Very Good|
+[2466]<1356> to |
+[2467]<1357>Do you agree?|
+[2468]<1358>president|
+[2469]<1359>C.E.O.|
+[2470]<1360>, you must terminate the employment of the current one.|
+[2471]<1361>The severance for terminating the employment of \n|
+[2472]<1362>President of |
+[2473]<1363>C.E.O. of |
+[2474]<1364>, is |
+[2475]<1365> (weekly salary) x |
+[2476]<1366> (years of service)|
+[2477]<1367>Do you want to proceed?|
+[2478]<1368>Which job you want to offer ?|
+[2479]<1369>Offer|
+[2480]<1370>Cancel|
+[2481]<1371>President of |
+[2482]<1372>C.E.O. of |
+[2483]<1373> is disappointed by your rejection.|
+[2484]<1374>Select|
+[2485]<1375>Cancel|
+[2495]<1385>Add|
+[2496]<1386>Delete|
+[2497]<1387>Replace|
+[2498]<1388>Sort|
+[2499]<1389>Use|
+[2500]<1390>Exit|
+[2502]<1392> layout plan found|
+[2503]<1393>All products|
+[2504]<1394>Product|
+[2505]<1395>Research on which product?|
+[2506]<1396>Duration|
+[2508]<1398>Current Tech|
+[2509]<1399>Top Tech|
+[2510]<1400> years|
+[2511]<1401> year|
+[2512]<1402> proceeds with a multiplayer save game.|
+[2513]<1403>Save game|
+[2515]<1405> You have enabled the cheat mode.|
+[2516]<1406>CHEAT ENABLE|
+[2517]<1407>How Long is the Research?|
+[2518]<1408>Your large quantity stock purchase put an upward pressure on the stock price. |
+[2519]<1409>Your large quantity stock sale put a downward pressure on the stock price. |
+[2520]<1410>The stock price rose from |
+[2521]<1411>The stock price fell from |
+[2522]<1412> to |
+[2523]<1413>Your Average Price|
+[2524]<1414>Your Average Purchase Price|
+[2525]<1415>Your Total Sale Amount|
+[2526]<1416>Your Total Purchase Cost|
+[2533]<1423>My Firms|
+[2534]<1424>Corp.|
+[2535]<1425>Firm|
+[2536]<1426>Product|
+[2541]<AW00>Underdeveloped|
+[2542]<AW01>Developing|
+[2543]<AW02>Newly Industrialized|
+[2544]<AW03>Industrial|
+[2552]<1433>Your supply of |
+[2553]<1434> has stopped.|
+[2554]<1435>Your supply of |
+[2555]<1436> was stopped and has been automatically relinked.|
+[2556]<1437>Your R&D of |
+[2557]<1438> is complete.\nYour technology is now |
+[2558]<1439>Your R&D of |
+[2559]<1440> is complete.\n|
+[2560]<1441>You now have the technology to produce |
+[2561]<1442>Your |
+[2562]<1443> reserve is now exhausted.\nThe production at your |
+[2563]<1444> has stopped.|
+[2564]<1445>Your total cost for producing |
+[2565]<1446> is higher than your selling price.|
+[2566]<1447>A firm has been acquired in the merger.|
+[2567]<1448>Message |
+[2568]<1449>Prev|
+[2569]<1450>Next|
+[2570]<1451>Go|
+[2571]<1452>Ignore|
+[2572]<1453>Ignore All|
+[2573]<1454>Apply Latest Production Technology to This Manufacturing Unit|
+[2574]<1455>Current Technology Level: |
+[2575]<1456>Target Technology Level: |
+[2576]<1457>\nUpdate production facilities now ?|
+[2577]<1458>Message |
+[2578]<1459>Prev|
+[2579]<1460>Next|
+[2580]<1461>Go|
+[2581]<1462>Yes|
+[2582]<1463>Yes All|
+[2583]<1464>Ignore|
+[2584]<1465>Ignore All|
+[2585]<1466>City|
+[2586]<1467>Population|
+[2588]<1469>Real Wage Rate|
+[2589]<1470>Unemployment Rate|
+[2590]<1471>Current city|
+[2591]<1472>Your Final Score|
+[2594]<1475>The Corporation Name and Player Name cannot be empty.|
+[2595]<1476>The Player Name cannot be empty.|
+[2596]<1477>The Corporation Name cannot be empty.|
+[2599]<1479>Select Building Type|
+[2600]<1480>Not enough cash|
+[2601]<1481>OK, I agree to sell my stock.|
+[2602]<1482>Randomize|
+[2605]<1485>enabled the cheat mode.|
+[2606]<1486>Setup Cost|
+[2607]<1487>I want to buy your %1s for %2s.|
+[2608]<1488>Year|
+[2609]<1489>Building cost: |
+[2610]<1490>Annual return on investment:|
+[2611]<1491>Market Share for past 36 months|
+[2612]<1492> Point|
+[2613]<1493>Clear|
+[2614]<1494>Clients|
+[2615]<1495>Firm Type|
+[2616]<1496>Monthly Purchase|
+[2618]<1498>NEWS|
+[2619]<1499>Price|
+[2621]<1501>New Price|
+[2622]<1502>Size|
+[2623]<1503>All Cities|
+[2624]<1504>This City|
+[2626]<1506>View Clients|
+[2628]<1508>YOUR FINANCIAL REPORT|
+[2629]<1509>You do not have enough cash.|
+[2630]<1510>You must resign your Chief Operating Officer before you can remove the office.|
+[2631]<1511>You must resign your Chief Marketing Officer before you can remove the office.|
+[2632]<1512>You must resign your Chief Technical Officer before you can remove the office.|
+[2635]<1515>Annual Salary|
+[2636]<1516>SELECT MEDIA|
+[2637]<1517>Auto Apply R&D Results To Factories|
+[2638]<1518>Alert Messages (Hotkey: F5)|
+[2639]<1519>I don't want to sell my mansion at this price to you.|
+[2641]<1521>, CTO, |
+[2642]<1522>The media does not have any advertising space available currently.|
+[2643]<1523>Advertisers Shares|
+[2644]<1524>Local Advertisers |
+[2645]<1525>I accept your offer and agree to sell my technology to you.|
+[2646]<1526>Your corporation has been acquired by |
+[2647]<1527>You cannot use this plan yet as you have not invented the product.|
+[2648]<1528>You do not have enough cash to setup this unit.|
+[2649]<1529>SKIP TUTORIAL|
+[2650]<1530>Are you sure that you want to skip this tutorial?|
+[2651]<1531>RESTART TUTORIAL|
+[2652]<1532>Are you sure that you want to restart this tutorial?|
+[2653]<1533>SCENARIO DESCRIPTION|
+[2654]<1534>This Game is Over!|
+[2655]<1535>%1s of %2s has achieved the goal and won the game.|
+[2656]<1536>Paused|
+[2657]<1537>This dialog box will be automatically closed in %1d %1p{day|days}|
+[2658]<1538>Auto Set Up Purchase Links|
+[2659]<1539>Do you want the purchase links to be automatically set up for you?|
+[2663]<1543>Go to Goal Report|
+[2664]<1544>View Supplier|
+[2665]<1545>View Clients|
+[2666]<1546>Show all layout plans|
+[2667]<1547>Only show plans with all inputs available|
+[2668]<1548>Annual rent per square foot|
+[2669]<1549>Occupancy|
+[2670]<1550>Annual return|
+[2672]<1552>Market value|
+[2673]<1553>Spending on Public Relations|
+[2674]<1554>Spending on Investor Relations|
+[2675]<1555>Media Firms|
+[2676]<1556>Current advertising pricing (CPM)|
+[2677]<1557>New content development budget|
+[2678]<1558>Products sold in|
+[2679]<C001>Enlight Software|
+[2680]<C002>Game Design &|
+[2681]<C003>Trevor Chan|
+[2682]<C004>Project Management:|
+[2683]<C005>Programming:|
+[2684]<C006>Thomas Lam, Charles Wong, Stephen Ho|
+[2685]<C007>Graphics:|
+[2686]<C008>Ada Chui, Yanwei|
+[2687]<C009> |
+[2688]<C010>Marketing &|
+[2689]<C011>David Lee|
+[2690]<C012>User Community:|
+[2691]<C013>Testing:|
+[2692]<C014>Daniel Yip, Eva Cheung, Alan Ng|
+[2693]<C015> |
+[2694]<C016> |
+[2696]<NANA>N/A|
+[2697]<YOUR>Your |
+[2698]<RESI> resigned from your corporation.|
+[2699]<RES2>Resignation|
+[2700]<LAYS> layout plans found|
+[2701]<LAYM>You do not have enough cash to setup this layout.|
+[2702]<DOWR>You cannot join the game because your Capitalism II version is different from that of this multiplayer game's creator. The creator's version is %1s while your version is %2s.|
+[2705]<NCUR>CURRENCY REVALUED! The government announced that the currency will be revalued at a ratio of 1 to 100. Banknotes and coins for the revalued currency will enter into circulation.|
+[2708]<BL01>Buy Land|
+[2709]<BL02>Sorry, you cannot buy this land plot.|
+[2710]<P36M>Past 36 months|
+[2711]<AIG4>Tech Focused|
+[2712]<AIG5>Media Focused|
+[2713]<AIS4>Tech|
+[2714]<AIS5>Media|
+[2715]<RDTL>Tech level|
+[2716]<NCJ1>founded|
+[2717]<NCJ2>and serves as its|
+[2718]<NCJ3>joins|
+[2719]<NCJ4>as|
+[2720]<NCJ5>becomes|
+[2721]<NCJ6>of|
+[2722]<NCJ7>resigns from his job at|
+[2723]<NCJ8>resigns from her job at|
+[2724]<NCJ9>discharged by|
+[2725]<NCK1>went bankrupt and|
+[2726]<NCK2>loses his job as|
+[2727]<NCK3>loses her job as|
+[2728]<NCK4>after serving as|
+[2729]<NCK5>after serving as|
+[2730]<MTH1>month|
+[2731]<MTH2>months|
+[2732]<NBF1>opens an|
+[2733]<NBF2>opens a|
+[2734]<NBF3>sets up a Warehouse|
+[2735]<NBF4>sets up a TV Station|
+[2736]<NBF5>sets up a Newspaper Publisher|
+[2737]<NBF6>sets up a Radio Station|
+[2738]<NBF7>builds a|
+[2739]<NBF8>donates to build a|
+[2740]<NBF9>sets up|
+[2741]<NBG1>builds|
+[2742]<NDF1>demolishes his Mansion and sells the land.|
+[2743]<NDF2>demolishes her Mansion and sells the land.|
+[2744]<NAC1>changes its corporate strategy from|
+[2745]<NAC2>to|
+[2746]<NBF1>acquires an|
+[2747]<NBF2>acquires a|
+[2748]<NBF3>in|
+[2749]<NBF4>from|
+[2750]<NBF5>for|
+[2751]<NSS1>splits its share|
+[2752]<NSS2>-for-1. Each shareholder now holds|
+[2753]<NSS3>times as many shares.|
+[2754]<NSS4>undergoes a 1-|
+[2755]<NSS5>stock merge, which groups every|
+[2756]<NSS6>shares into one share.|
+[2757]<NBM1>buys an|
+[2758]<NBM2>buys a|
+[2759]<NBM3>in|
+[2760]<NBM4>from|
+[2761]<NBM5>for|
+[2762]<NCI1>The central bank increases the interest rate from|
+[2763]<NCI2>The central bank decreases the interest rate from|
+[2764]<NCI3>to|
+[2765]<NCB1>A new chairman with|
+[2766]<NCB2>attitude is now at the helm of the central bank.|
+[2767]<NAT1>acquires technology for|
+[2768]<NAT2>from|
+[2769]<NAT3>for|
+[2770]<NGV1>The Government|
+[2771]<NGV2>the Government|
+[2772]<NAC0>Corporation Changes Strategy|
+[2773]<NIR0>Central Bank Changes Interest Rate|
+[2774]<NBC0>The New Central Bank Chairman|
+[2775]<NCC0>Career Change|
+[2776]<NRI0>Riot|
+[2777]<NSC0>Stock Crash|
+[2778]<NCR0>Currency Revalued!|
+[2779]<CBA1>Inflation Hawk (modest)|
+[2780]<CBA2>Inflation Hawk (strong)|
+[2781]<CBA3>Neutral|
+[2782]<CBA4>Inflation Dove (modest)|
+[2783]<CBA5>Inflation Dove (strong)|
+[2784]<CBP1>Ultra Tight|
+[2785]<CBP2>Very Tight|
+[2786]<CBP3>Tight|
+[2787]<CBP4>Slightly Tight|
+[2788]<CBP5>Normal|
+[2789]<CBP6>Slightly Loose|
+[2790]<CBP7>Loose|
+[2791]<CBP8>Very Loose|
+[2792]<CBP9>Ultra Loose|
+[2793]<AAS1>Sorry, the AI is having an advance start and you cannot build any buildings until year|
+[2794]<AAS2>Sorry, the AI is having an advance start and you cannot buy land until year|
+[2795]<AAS3>Sorry, the AI is having an advance start and you cannot buy stock until year|
+[2796]<SCO1>Score:|
+[2797]<SCO2>billion x 100 x inflation adjustment|
+[2798]<BF01>Use your personal money to build your mansion.|
+[2799]<BF02>to relocate the firm.|
+[2800]<BF03>to duplicate the firm.|
+[2801]<BF04>to build the firm.|
+[2802]<BF05>Customer Traffic Index:|
+[2803]<BF06>Compensation:|
+[2804]<BF07>Price Premium|
+[2805]<BF08>Hold the [SHIFT] key concurrently to Build More|
+[2806]<PSTO>Stock|
+[2807]<FRE1>Freight Cost Breakdown|
+[2808]<FRE2>Truck - Supplier to Seaport:|
+[2809]<FRE3>Cargo Ship - City to City:|
+[2810]<FRE4>Truck - Seaport to Buyer:|
+[2811]<FRE5>TOTAL:|
+[2812]<FRE6>Freight Cost|
+[2813]<FRE7>Shipment from Supplier to Buyer:|
+[2814]<SOW1>Sowing in|
+[2815]<HARV>Harvest in|
+[2816]<ITP1>Organize an Intensive Training Program|
+[2817]<ITP2>Training effect will be instant but|
+[2818]<ITP3>its cost-effectiveness is 30% lower than normal training.|
+[2819]<ITP4>How much will you allocate for training per employee?|
+[2820]<RDC1>firm|
+[2821]<RDC2>firms|
+[2822]<RDC3> of yours have been redirected to purchase |
+[2823]<RDC4> from the current firm.|
+[2824]<RDC5>To view the new client list, click the [Clients] button on your Sales Unit's interface.|
+[2825]<RDC6>None of the Purchasing Units in any of your firms presently lack supply of this type of product.\n\nThus no actions have been taken.|
+[2826]<KOC1>King of Capitalism|
+[2827]<KOC2>To become the undisputed King of Capitalism, you must be financially savvy enough to grow your company's market cap to|
+[2828]<KOC3>billion while retaining at least 80 % of its equity shares, and achieve all the subgoals.|
+[2829]<AGS1>To win this game, you must achieve the given goals.|
+[2830]<AGS2>(Press the 'G' shortcut key anytime to view the Goal screen)|
+[2831]<AGS3>Your possess expertise in the|
+[2832]<AGS4>industry (expertise rating:|
+[2833]<FEGN>The city government does not have enough cash.|
+[2834]<NCT1>To acquire the exclusive rights to develop and run the new city for|
+[2835]<NCT2>years, you must donate|
+[2836]<NCT3>to the city's treasury.|
+[2837]<AIG6>OS Focused|
+[2838]<AIS6>OS|
+[2839]<AIG7>Software Focused|
+[2840]<AIS7>Software|
+[2841]<AIG8>Internet Focused|
+[2842]<AIS8>Internet|
+[2843]<FEQU>Features Quality|
+[2844]<FEBU>Monthly budget for new features development|
+[2845]<TECH>Tech|
+[2846]<ADSC>Data Server Cost|
+[2847]<REAC>Reach|
+[2848]<LTEX>Lifetime Expense|
+[2849]<CIT1>For all|
+[2850]<CIT2>s|
+[2851]<CIT3>in this city (Total:|
+[2852]<AIG9>Telecom Focused|
+[2853]<AIS9>Telecom|
+[2854]<AK10>Received Dividends|
+[2855]<AK11>Increase in Asset Value|
+[2856]<AK12>Loan Interest|
+[2857]<AK20>Data Server Cost|
+[2858]<DIFF>DIFFICULTY RATING|
+[2859]<CORP>CORPORATIONS (Total|
+[2860]<FLR0>Sorry, you do not have sufficient cash. The cost of adding a new floor is|
+[2861]<FLR1>The cost of adding a new floor is|
+[2862]<FLR2>Do you want to proceed?|
+[2863]<NSUB>Set Up a New Subsidiary Company|
+[2864]<NSN1>Sorry, the requirement is not met.|
+[2865]<NSN2>The initial capital of your new subsidiary company must be at least|
+[2866]<NSN3>million|
+[2867]<NSC1>You must now hire a CEO for your new subsidiary company.|
+[2868]<NSC2>To do so, in the next screen, select a CEO candidate and click the [Hire Chief Executive] button.|
+[2869]<NSH1>the job as the|
+[2870]<NSH2>of|
+[2871]<NSH3>the new subsidiary company|
+[2872]<SUB1>Your corporation owns|
+[2873]<SUB2>shares of this company.|
+[2874]<LAN1>Decrease All Civic Building Setup Costs by|
+[2875]<LAN2>Decrease All Civic Building Operating Costs by|
+[2876]<LAN3>Decrease All Commercial Firm Setup Costs by|
+[2877]<LAN4>Decrease All Commercial Firm Fixed Operating Costs by|
+[2878]<LAN5>Increase Industry Competitiveness by|
+[2879]<LAN6>Increase a Selected Firm Unit Type's Level by|
+[2880]<EVRY>Every|
+[2881]<ATS1>This cannot be done because [|
+[2882]<ATS2>] which is outside the subsidiary company's Scope of Production.|
+[2883]<LAN7>Increase this city's competitiveness in|
+[2884]<LAN8>Increase the levels of all|
+[2885]<LAN9>in this city by|
+[2886]<NCG1>You have enabled Survival Mode in City Economic Simulation DLC.\n\n|
+[2887]<NCG2>All products are locked, requiring reinvention, except the products under the Food and Beverage mega class and the products in which you have expertise.\n\n|
+[2888]<NCG3>You have been assigned with new goals.\n\n|
+[2889]<NCG4>Press the 'G' shortcut key anytime to view the Goal screen.|
+[2890]<NCG5>You have been assigned with a new goal.\n\n|
+[2891]<NCG6>Press the 'G' shortcut key anytime to view the Goal screen.|
+[2892]<NCG7>Are you sure that you want to remove all the goals in this game?|
+[2893]<PLG1>Set up a factory to produce|
+[2894]<PLG2>and launch it onto the market.|
+[2895]<OWNT>Owned Tech|
+[2896]<TOPT>Top Tech|
+[2897]<QUAR>Quality Rating|
+[2898]<FLVL>Factory Level|
+[2899]<ECOM>E-commerce Sale %:|
+[2900]<GDIF>Current Game's Difficulty Level|
+[2901]<BSOF>sets up a Software Company|
+[2902]<BINT>sets up an Internet Company|
+[2903]<BTEL>sets up a Telecom|
+[2904]<BOND>Bond|
+[2905]<BCOU>Coupon|
+[2906]<BYIE>Yield|
+[2907]<BMAT>Maturity|
+[2908]<BPRI>Price|
+[2909]<BOWQ>Owned Qty|
+[2910]<BOWV>Owned Value|
+[2911]<BCRE>Credit Rating|
+[2912]<BHOL>Public Bondholders|
+[2913]<ACP1>Acquisition!|
+[2914]<ACP2>acquires the private company|
+[2915]<IPO1>IPO!|
+[2916]<IPO2>goes public raising|
+[2917]<IPO3>in IPO.|
+[2918]<ELE1>The mayoral election in|
+[2919]<ELE2>and|
+[2920]<ELE3>will take place in one year.|
+[2921]<ELE4>Those who wish to run for mayor should act now.|
+[2922]<ELE5>(Press the '!' shortcut key to open the Political Party screen.)|
+[2923]<TGD1>Grow the city of|
+[2924]<TGD2>and improve the quality of life of its citizens.|
+[2925]<TGW1>Congratulations! The goal has been achieved.|
+[2926]<TGW2>Congratulations!|
+[2927]<TGT1>City Goal:|
+[2928]<TGT2>Town Goal:|
+[2929]<TGT3>Village Goal:|
+[2930]<PEDU>% of population with education from:|
+[2931]<PUB1>For this|
+[2932]<APR1>can be acquired for|
+[2933]<APR2>But you do not have enough cash at the moment.|
+[2934]<APR3>Do you want to acquire it now?|
+[2935]<TUT1>If this is your first time playing Capitalism Lab, you are advised to start with tutorial #1.\n\n|
+[2936]<TUT2>The last tutorial you have finished is tutorial #|
+[2937]<TUT3>.\n\nYou are advised to follow the tutorials in a sequential order.\n\n|
+[2938]<TUT4>Are you sure that you want to start tutorial #|
+[2939]<TUT5> now? This will skip the tutorial|
+[2940]<TUT6> now? This will skip the tutorials|
+[2941]<TUT7> prior to it and you will be missing important information.\n\n|
+[2942]<TUT8> in between and you will be missing important information.\n\n|
+[2943]<AK30>Stock and Bond Return|
+[2944]<AK31>Loan and Bond Interests|
+[2945]<BF01>Net Interest Income|
+[2946]<BF02>Loan Defaults (Losses)|
+[2947]<SLD1>Do you want to sell this land plot for|
+[2948]<SLD2>This land plot is owned by your subsidiary company.\nDo you want to sell it for|
+[2949]<SLD3>The owner will sell this land plot for|
+[2950]<SLD4>Price premium:|
+[2951]<SLD5>Do you want to buy it?|
+[2952]<SLD6>But you don't have enough cash.|
+[2953]<AK13>Deposit Interest Income|
+[2954]<BI01>Premium Income|
+[2955]<BI02>Investment Income|
+[2956]<BI03>Claims|
+[2957]<BDOF> Bonds of |
+[2958]<FREI>Freight|
+[2959]<BAO1>Bank owned by |
+[2960]<BAO2>went out of business!|
+[2961]<BAO3>Depositors received 100% of their money back.|
+[2962]<BAO4>Depositors only received|
+[2963]<BAO5>of their money back.|
+[2964]<LDE1>defaults on a loan from Bank|
+[2965]<LDE2>Default amount:|
+[2966]<BDR1>INSUFFICIENT CASH FOR BOND REDEMPTION|
+[2967]<BDR2>A Corporate Bond issued by your company has matured, you must redeem it now.|
+[2968]<BDR3>A Corporate Bond issued by your subsidiary |
+[2969]<BDR4> has matured, you must redeem it now.|
+[2970]<BDR5>Bond Issue Date|
+[2971]<COUP>Coupon Rate|
+[2972]<TERM>Term Length|
+[2973]<BDD1> defaults on the bond [maturity date: |
+[2974]<BDD2> coupon: |
+[2975]<BDD3>Default amount: |
+[2976]<LNR1>INSUFFICIENT CASH FOR LOAN REPAYMENT|
+[2977]<LNR2>A Bank Loan taken by your company has matured, you must repay it now.|
+[2978]<LNR3>A Bank Loan taken your subsidiary |
+[2979]<LNR4> has matured, you must repay it now.|
+[2980]<CASN>CASH NEEDED|
+[2981]<MCOS>Monthly Cost|
+[2982]<SCO3>billion x 10 x inflation adjustment|
+[2983]<SDIV>Pays a Special Dividend of|
+[2984]<AIB1>Bank Focused|
+[2985]<AIC1>Bank|
+[2986]<AIB2>Insurance Focused|
+[2987]<AIC2>Insurance|
+[2988]<AIB3>Global Stock Focused|
+[2989]<AIC3>Global Stock|
+[2990]<BIPR>Claims Reserves|
+[2991]<ISBP>Bank Net Profit|
+[2992]<ISLP>Insurance Net Profit|
+[2993]<BLBA>Bank Net Asset|
+[2994]<BLIA>Insurance Net Asset|
+[2995]<EXPE>Expenses|
+[2996]<SEHQ>Salaries Expense (HQ)|
+[2997]<SEBR>Salaries Expense (Branches)|
+[2998]<OOHQ>Operating Overhead (HQ)|
+[2999]<OOBR>Operating Overhead (Branches)|
+[3000]<AM09>Real Estate Department|
+[3001]<KNO1>You must first possess the knowhow for|
+[3002]<KNO2>(click to view it now)|
+[3003]<KNO3>and|
+[3004]<KNO4>And talents required for the invention project is expected to be available in year|
+[3005]<KNO5>Talents required for the invention project is expected to be available in year|
+[3006]<KNO6>You must first own an IP or have access to open-source tech.|
+[3007]<KNO7>Missing knowhow for input(s):|
+[3008]<KNO8>Nil|
+[3009]<KNO9>Invention Pre-requisites:|
+[3010]<KN10>Invention Pre-requisite:|
+[3011]<BIP2>Claims Reserves|
+[3012]<BIP3>Claims Reserves|
+[3013]<CBK1>You must first close down all the Bank Branches before you can close down the Bank Headquarters.|
+[3014]<CBK2>Sorry, you cannot close down the bank. The bank does not have sufficient cash to let all depositors withdraw their money. To remedy this, you may transfer funds from the parent corporation to the bank.|
+[3015]<CIN1>You must first close down all the Insurance Front Offices before you can close down the Insurance Headquarters.|
+[3016]<CIN2>Sorry, you cannot close down the insurance company. The insurance company does not have sufficient cash to repay all its insurance contract liabilities in claims reserves. To remedy this, you may transfer funds from the parent corporation to the insurance company.|
+[3017]<SOC1>Your subsidiary |
+[3018]<SOC2> has run out of cash!|
+[3019]<BOC1>Your Bank Has Run Out of Cash!|
+[3020]<BOC2>Your Subsidiary Bank |
+[3021]<BOC3> Has Run Out of Cash!|
+[3022]<BOC4>Transfer funds from your corporation to your bank.|
+[3023]<BOC5>Raise funds from your corporation.|
+[3024]<BOC6>Transfer funds from your subsidiary company to the bank.|
+[3025]<BOC7>Raise funds from your subsidiary company|
+[3026]<IOC1>Your Insurance Company Has Run Out of Cash!|
+[3027]<IOC2>The insurance company of your subsidiary |
+[3028]<IOC3> has run out of cash!|
+[3029]<IOC4>Transfer funds from your corporation to your insurance company.|
+[3030]<IOC5>Raise funds from your corporation.|
+[3031]<IOC6>Transfer funds from your subsidiary company to the insurance company.|
+[3032]<IOC7>Raise funds from your subsidiary company.|
+[3033]<BD01>Bond Value Return|
+[3034]<BD02>Received Bond Interests|
+[3035]<AP01>Rental Income|
+[3036]<AP02>Property Maintenance Cost|
+[3037]<DEBT>Total Debt|
+[3038]<DEAS>Debt-to-Assets Ratio|
+[3039]<STOC>Stocks|
+[3040]<BOND>Bonds|
+[3041]<DEPO>Bank Deposits|
+[3042]<MANS>Mansions Market Values|
+[3043]<BCR1>Your Bank's Capital Ratio is Too Low!|
+[3044]<BCR2>The Capital Ratio of Your Subsidiary Bank |
+[3045]<BCR3> is Too Low!|
+[3046]<BCR4>Bank Capital Ratio|
+[3047]<BCR5>Required Bank Capital Ratio|
+[3048]<DLC1>The Subsidiary DLC offers you a new set of powerful tools for conquering the business world on a grander scale!|
+[3049]<DLC2>The City Economic Simulation DLC lets you build new cities from scratch, form your own political party, and assume the role of mayor while simultaneously growing your business empire!|
+[3050]<DLC3>The Digital Age DLC offers you an exciting opportunity to build a tech startup at the dawn of the digital age and oversee its growth to eventually become a tech powerhouse that joins the ranks of tech titans such as Microsoft and Google!|
+[3051]<DLC4>The Banking and Finance DLC simulates the financial world with a level of realism that is unprecedented in video games. It offers a powerful suite of features that allow you to set up banks and insurance companies, issue and trade bonds, and invest in global stocks.|
+[3052]<LTAX>Accumulated losses for future tax deduction|
+[3053]<UNVI>Unique Visitors|
+[3054]<UNVM>Monthly Unique Visitors|
+[3055]<INTT>This Internet company does not have the required technology to start operation yet. Build an R&D center and set up Tech R&D units to research the required tech.|
+[3056]<BCRW>Your bank's Capital Ratio is too low and has stopped issuing new loans. To resume loan issuance, access the bank, select [Financial] and [Fund Transfer]. Then inject capital into the bank. 
+[3057]<RRD1>Your radical R&D of|
+[3058]<RRD2>is a success!\nYour technology is now|
+[3059]<RRF1>Unfortunately, your radical R&D project of|
+[3060]<RRF2>failed. (Success chance:|
+[3061]<EMP1>Your employee|
+[3062]<EMP2>working on|
+[3063]<EMP3>working in|
+[3064]<EMP4>was headhunted.|
+[3065]<EMP5>was headhunted by|
+[3066]<EMP6>has resigned.|
+[3067]<PARC>to Parent Company|
+[3068]<INSU>Insurance Company|
+[3069]<BRB1>Bankruptcy!|
+[3070]<BRB2>liquidates its assets and redeems all its outstanding bonds at the full issue price.|
+[3071]<BRB3>went under with a negative balance in its shareholders' equity. Its bondholders lost all their investments in the bonds.|
+[3072]<BRB4>liquidates its assets. Its bondholders receive|
+[3073]<BRB5>of the original bond values.|
+[3074]<BCA1>Must Take Action|
+[3075]<BCA2>Notification Only|
+[3076]<BCA3>No Notification|
+[3077]<PTAS>% of Total Assets|
+[3078]<3YRA>30-Year Average|
+[3079]<SABD>Sale of Bonds|
+[3080]<BDRD>Bond Redemption|
+[3081]<NCAS>Net Cash|
+[3082]<BKRU>Is BANKRUPT|
+[3083]<FTRA>When you transfer a R&D center, its existing R&D projects will be cancelled as they depend on the company's technological foundation. The dependence is broken when the firm is transferred to a new owner.\n\nAre you sure that you want to proceed?|
+[3084]<FTC1>Sorry, the selected company does not have sufficient cash to buy the firm.|
+[3085]<FTC2>Sorry, the selected company does not have sufficient cash to buy the firms.|
+[3086]<FTM1>Sell this firm to another company under your control.|
+[3087]<FTM2>Sell these firms to another company under your control.|
+[3088]<FFMP>Fair Market Value|
+[3089]<GACQ>Which company under your control will acquire the target company?|
+[3090]<ACQP>Acquisition Cost|
+[3091]<FTSU>All the selected firms have been transferred successfully.|
+[3092]<ACP1>Congratulations! You have successfully acquired and merged|
+[3093]<ACP2>into your company.|
+[3094]<ACP3>Congratulations! You have successfully acquired|
+[3095]<ACP4>It is now a wholly owned subsidiary of your company.|
+[3096]<SENO>Sorry, you have not selected any firms.|
+[3097]<VCLF>VIEW / CLOSE DOWN FIRMS|
+[3098]<IPN1>Sorry, the company fails to meet the conditions for going public. Its current equity value is negative.|
+[3099]<IPN2>Sorry, under the current market conditions, no investors are interested in subscribing new shares of the company.|
+[3100]<SCRO>Map Scrolling Speed|
+[3101]<CTEC>Consider Tech Offers|
+[3102]<RDCN>R&D Completion Notification|
+[3103]<WSAD>WSAD Keys|
+[3104]<SFIC>Sell factory "Internal Sale" products at cost|
+[3105]<SUBS>The new game options for the Subsidiary DLC are available on the [Environment], [Competitors] and [Products] pages.|
+[3106]<PSYN>Default Price Synchronization|
+[3107]<ENBL>Enabled|
+[3108]<DISA>Disabled|
+[3109]<RETA>Retail Only|
+[3110]<TFNO>Sorry, you cannot transfer this factory as it is making #packaged software products#. A factory can only make packaged versions of software that is #developed by the same corporation#|
+[3111]<STB1>Sorry, you cannot execute this share buyback transaction, as a public company's total number of shares outstanding must not be lower than 1,000,000 shares.|
+[3112]<STB2>You cannot use a corporation that you control to buy back its own shares.|
+[3113]<MER1>How would you like|
+[3114]<MER2>to acquire the remaining shares of|
+[3115]<MERI>(You cannot issue new shares for the merger because that will exceed the maximum number of shares that a company is allowed to issue.)|
+[3116]<TEC1>Not interested, unless you offer|
+[3117]<TEC2>for the technology.|
+[3118]<TEC3>We are not interested in selling this technology to our competitors.|
+[3119]<TEC4>We are not in need of cash and thus not interested in selling our technology.|
+[3120]<SRA1>Your|
+[3121]<SRA2>asked for a salary raise from|
+[3122]<GNPL>New Product Launch|
+[3123]<BNC1>Build a New City|
+[3124]<BNC2>Use your corporation to acquire the rights and build a new city, and assign a member from your political party as the city's mayor.|
+[3125]<KOC1>King of Capitalism|
+[3126]<KOC2>To become the undisputed King of Capitalism, you must build a sprawling business empire with an impressive list of subsidiary companies by achieving all the subgoals|
+[3127]<DAD1>Digital Age Dominance|
+[3128]<DAD2>Achieve market dominance in Mobile Operating System and gain a significant market share in the Internet sector.|
+[3129]<DAD3>Achieve market dominance in Computer Operating System and gain a significant market share in the Internet sector.|
+[3130]<MDOM>Achieve market dominance in|
+[3131]<LAU1>Launch|
+[3132]<LAU2>Set up a farm to produce|
+[3133]<LAU3>Set up a factory to produce|
+[3134]<LAU4>and launch it onto the market|
+[3135]<GSU1>Subsidiaries with Net Worth of|
+[3136]<GSU2>Subsidiaries with Market Value of|
+[3137]<GSU3>Subsidiaries with Annual Revenue of|
+[3138]<GSU4>Subsidiaries with Operating Profit of|
+[3139]<GSU5>Subsidiaries with Dominance in|
+[3140]<IND1>Industry|
+[3141]<IND2>Industries|
+[3142]<GSU6>Subsidiaries IPOs with $1 billion market cap|
+[3143]<GLSR>Lifetime Shareholder Return|
+[3144]<GOW1>Own at least|
+[3145]<GOW2>equity in|
+[3146]<GBNC>Build a New City|
+[3147]<NCIT>Number of Cities You Manage|
+[3148]<GNPO>National Population|
+[3149]<NQOL>National Quality of Life index|
+[3150]<NUNE>National Unemployment Rate|
+[3151]<NGDP>National GDP|
+[3152]<NGDC>National GDP per capita|
+[3153]<NWAG>National Wage Rate|
+[3154]<NSCO>National Score|
+[3155]<POIS>Political Influence Score|
+[3156]<DMOS>Market Dominance of Mobile OS|
+[3157]<DCOS>Market Dominance of Computer OS|
+[3158]<MINT>Revenue Market Share of Internet Sites|
+[3159]<GTEC>Leadership in Technology for|
+[3160]<GMDO>Market Dominance of|
+[3161]<OCI1>of Your City|
+[3162]<OCI2>of Your Cities|
+[3163]<NGOA>You have been given a new goal!|
+[3164]<INS1>Sorry, you are not allowed to use cash from your insurance company to buy shares of your corporation.|
+[3165]<INS2>Sorry, you are not allowed to use cash from this insurance company to buy shares of its parent corporation.|
+[3166]<ICR1>Your Insurance Company's Capital Ratio is Negative!|
+[3167]<ICR2>The Capital Ratio of Your Subsidiary Insurance Company |
+[3168]<ICR3> is Too Low!|
+[3169]<ICR4>Insurance Company Capital Ratio|
+[3170]<CE01>The CEO previously considered setting up new a firm but decided not to do so because the company's debt level was too high.|
+[3171]<CE02>The CEO previously considered setting up|
+[3172]<CE03>but decided not to do so because the company's cash and profit situation was not good enough to support business expansion.|
+[3173]<CE04>but decided not to do so because the company's cash level was too low to support business expansion.|
+[3174]<CE05>This cash level of this subsidiary company is too low. The CEO is not comfortable with setting up new businesses.|
+[3175]<CE06>Adequate cash level for expansion:|
+[3176]<CE07>Adequate annual profit for expansion:|
+[3177]<RDB1>Increase Retail Demand Bonus in the following ways:|
+[3178]<RDB2>-A specialty store focusing on a specific range of products is more attractive to customers interested in such products.|
+[3179]<RDB3>-Build more stores of the same store type in the same city.|
+[3180]<RDB4>-Stores in areas with high customer traffic will boost the chain popularity more.|
+[3181]<SCT1>This service firm is capable of increasing the customer traffic in this area.|
+[3182]<SCT2>Customer Traffic Effect Index|
+[3183]<BDE1>Sorry, you cannot make a deposit at the moment as no commercial banks have been set up yet.|
+[3184]<BDE2>Sorry, you cannot make a deposit at the moment as this bank is not accepting new deposits from corporate clients.|
+[3185]<DIF1>A Fun Gaming Experience for New Players.|
+[3186]<DIF2>Normal Difficulty. Enjoyable for Most Players.|
+[3187]<DIF3>For Experienced Players looking for More Challenge.|
+[3188]<DIF4>Hard. Only choose this if you have won in easier games.|
+[3189]<DIF5>For Expert Players Only. Not recommended for normal players.|
+[3190]<DIF6>Extremely Difficult! Not recommended for most players.|
+[3191]<DIF7>Insanely Difficult! Not enjoyable unless you have achieved mastery in this game.|
+[3192]<DIF8>A Humanly Impossible Challenge! Do not choose this if you want a winnable game.|
+[3193]<ISBN>%1s issues new bonds, raising %2s.|
+[3194]<NORM>Normal|
+[3195]<MOR1>50% more|
+[3196]<MOR2>100% more|
+[3197]<MSOS>Market Share of Operating System|
+[3198]<MSHA>Market Share of|
+[3199]<BNOT>Sorry, the company does not meet the bond issuance requirement.\nTry increasing the company's equity value.\n(You can view the equity value in the balance sheet.)|
+[3200]<DLE1>Sorry, this MOD cannot be loaded because the following DLC that it requires is not enabled:|
+[3201]<DLE2>Sorry, this MOD cannot be loaded because the following DLCs that it requires are not enabled:|
+[3202]<PLTI>Total play time:|
+[3203]<NOCH>Sorry, there are currently no Challenge Games available.|
+[3204]<WVER>(wrong version)|
+[3205]<FIMI>(file missing)|
+[3206]<GVER>Game version:|
+[3207]<INCO>(Incompatible)|
+[3208]<DECG>This Challenge Game will be deleted. Proceed?|
+[3209]<ASAV>Auto-Save Game|
+[3210]<DIV1>This is your subsidiary company. Who should be in charge of setting the dividend?|
+[3211]<DIV2>I will set the dividend|
+[3212]<DIV3>Let the CEO set the dividend|
+[3213]<PRV1>Congratulations! Your company has been successfully privatized.|
+[3214]<PRV2>Congratulations! You have successfully privatized this company.|
+[3215]<SUB0>Sorry, the maximum number of corporations allowed in the game has been reached.\n\nIt is not possible to set up a new subsidiary company at the moment.|
+[3216]<NSU1>Please enter a name for your new subsidiary company.|
+[3217]<NSU2>Sorry, you cannot form a new subsidiary company as the maximum number of companies allowed in the game has been reached.|
+[3218]<NSU3>Sorry, you cannot set up a new subsidiary company at the moment.|
+[3219]<NSU4>Congratulations! Your new subsidiary company has been set up.|
+[3220]<BHQF>You must build Bank Headquarters first.|
+[3221]<IHQF>You must build Bank Headquarters first.|
+[3222]<JPE1>To start a new project, you must first 1) hire a project manager and 2) link the current Project Management Unit to a Project Programming Unit.|
+[3223]<JPE2>To start a new project, you must first hire a project manager.|
+[3224]<JPE3>To start a new project, you must first link the current Project Management Unit to a Project Programming Unit.|
+[3225]<HNT1>Before hiring the new|
+[3226]<HNT2>you must terminate the employment of the current one.|
+[3227]<PCOD>A Project Programming Unit utilizes technologies developed by Tech Programming Units to implement a software product.|
+[3228]<NPCA>Not enough personal cash|
+[3229]<NPCM>You do not have enough PERSONAL money for building your mansion.|
+[3230]<NCIP>Sorry, you cannot found a new city. You need to belong to a political party in order to do so.\n\nTo form a new political party, access the Information Center and select [Political Parties] and then select [Form Your Own Party].|
+[3231]<MAYO>Mayor of|
+[3232]<MGOA>Main Goal|
+[3233]<SGOA>SubGoal|
+[3234]<PFIT>Attempting to find a supplier for this item...|
+[3235]<MWIT>Waiting for required inputs to manufacture this product...|
+[3236]<MOD1>Reset successfully. The game now no longer uses any MOD.|
+[3237]<MOD2>MOD %1s has been loaded successfully.|
+[3238]<DTEL>Market Dominance of Telecom|
+[3239]<PACQ>Private Acquisitions|
+[3240]<ECRV>Annual E-Commerce Revenue|
+[3241]<ECUB>Annual E-Commerce User Base|
+[3242]<BNPI>Sorry, you cannot issue new bonds at the moment. Please wait until public investors have more money. You can view the "Public Investors' Money Available to Your Company" displayed at the top of the city view screen.|
+[3243]<THH1>The transfer has been executed successfully.|
+[3244]<THH2>Sorry, you don't have sufficient cash to pay the sign up bonus.|
+[3245]<THH3>Congratulations! The headhunt was a success.|
+[3246]<ITRN>(Not including research and development staff)|
+[3247]<ASBI>Regularly adjust team lead salaries based on inflation|
+[3248]<ATL1>Adjust Training Levels for all your firms:|
+[3249]<ATL2>Adjust Training Levels for all its firms:|
+[3250]<ATL3>Sorry, you currently do not have any firms.|
+[3251]<ATL4>Sorry, this corporation currently does not have any firms.|
+[3252]<ATL5>The new training setting has been applied to all your firms.\n(Total: %1d firms)|
+[3253]<ATL6>The new training setting has been applied to all its firms.\n(Total: %1d firms)|
+[3254]<PRD1>Current Brand Strategy:|
+[3255]<PRD2>Monthly Spending:|
+[3256]<PRD3>If your corporation is using 'Corporate Brand' strategy,|
+[3257]<PRD4>If this corporation is using 'Corporate Brand' strategy,|
+[3258]<IRD1>Investor relations efforts will help improve your|
+[3259]<IRD2>Investor relations efforts will help improve this|
+[3260]<IRD3>corporation's stock performance.|
+[3261]<MODU>MOD in use:|
+[3262]<MODF>For MOD:|
+[3263]<APIN>Regularly adjust prices based on inflation|
+[3264]<ASIN>Adjust advertising spending based on inflation|
+[3265]<AIN1>Increase all product prices monthly at the same rate as inflation|
+[3266]<AIN2>Increase all advertising spending monthly based on inflation|
+[3267]<ATEC>Acquire Product Tech From Other Companies|
+[3268]<SAD1>Set a new advertising budget for all your advertising units:|
+[3269]<SAD2>Set a new advertising budget for all its advertising units:|
+[3270]<SAD3>New advertising budget:|
+[3271]<SAD4>Sorry, you currently do not have any advertising units.|
+[3272]<SAD5>Sorry, this corporation currently does not have any advertising units.|
+[3273]<SAD6>The new advertising budget has been applied to all your advertising units.\n(Total: %1d advertising units)|
+[3274]<SAD7>The new advertising budget has been applied to all its advertising units.\n(Total: %1d advertising units)|
+[3275]<MAYO>Mayor of %1s|
+[3276]<IPO1>Congratulations! Your company has gone public successfully and raised %1s!|
+[3277]<IPO2>Congratulations! Your subsidiary company has gone public successfully and raised %1s!|
+[3278]<SUBC>This company is your corporation's subsidiary. You may interfere with its operation when you own 75% or more of its shares.|
+[3279]<OEXP>Operating Expenses|
+[3280]<NAT1>Your Nation's Ranking:|
+[3281]<CDAD>Double-click on an advertising record to go to the relevant firm.|
+[3282]<CDPD>Double-click on a product record to open the Product Detail Report.|
+[3283]<CDR1>indicates Radical R&D projects|
+[3284]<CDR2>Products that are currently in production are shown with orange bars.|
+[3285]<MSP1>Double-click on a product class on the list to change its ink color, which can be:|
+[3286]<MSP2>RED - it means that the CEO should NOT produce any products in the product class.|
+[3287]<MSP3>BLACK - it means that the CEO may produce products in the product class.|
+[3288]<SWS1>Sorry, suppliers information cannot be found the firms you chose on this list.\n\nTherefore, no changes have been made.|
+[3289]<SWS2>Suppliers at your Purchasing Units have been changed as per your request.|
+[3290]<SWS3>Firms updated:|
+[3291]<SWS4>Purchasing Units updated:|
+[3292]<SWS5>Sorry, the firms you chose on this list are not purchasing from the same suppliers.\n\nTherefore, no changes have been made.|
+[3293]<BCH1>Advertising budgets have been changed as per your request.|
+[3294]<BCH2>Training levels have been changed as per your request.|
+[3295]<BCH3>Units updated:|
+[3296]<BCH4>Sorry, the firms you chose on this list do not have any advertising units.\n\nTherefore no changes have been made.|
+[3297]<BCH5>Sorry, training is not applicable to the firms you chose on this list.|
+[3298]<SEC1>The Securities and Exchange Commission does not approve your purchase.\nYou cannot use a corporation that you control to buy a stock in which you have ownership.|
+[3299]<SEC2>The Securities and Exchange Commission does not approve your purchase.\nYou cannot use a corporation that you control to buy a stock in which your corporation has ownership.|
+[3300]<SEC3>The Securities and Exchange Commission does not approve your purchase.\nYour corporation cannot buy a stock in which you have ownership.|
+[3301]<SCE1>Warning: there is an error in your script file.|
+[3302]<SCE2>Warning: there are errors in your script file.|
+[3303]<SCE3>For details, please view the error log in the subfolder %1s under your Capitalism Lab game folder.|
+[3304]<RSP1>All publicly-traded stocks are required to maintain a minimum bid price of at least $1.00 per share.|
+[3305]<RSP2>Your company's stock currently trades at %1s and therefore a reverse stock split is required.|
+[3306]<RSP3>A %1s reverse stock split will group every %2s shares into one share.|
+[3307]<RSP4>The resulting stock price will be|
+[3308]<HIR1>Hire persons with %1s skills|
+[3309]<HIR2>Hire Research Team Lead|
+[3310]<AGD1>Market Dominance of the %1s Industry|
+[3311]<AGD2>Total Market Dominance of All Industries|
+[3312]<AGD3>You have dominated the %1s Industry with a game difficulty rating of %2s|
+[3313]<AGD4>You have dominated All Industries with a game difficulty rating of %1s|
+[3314]<AGD5>Previous record:|
+[3315]<AGD6>Highest rating achieved before:|
+[3316]<AGD7>You have set a new record for the Accomplishment Game|
+[3317]<AGD8>You have won the Accomplishment Game.|
+[3318]<MDSE>Market Dominance of the %1s Sector|
+[3319]<UTNL>US Treasury Notes|
+[3320]<UTNS>US Treasury Notes|
+[3321]<YRAN>Your Ranking|
+[3322]<CEOE>CEO expertise|
+[3323]<NDPC>Sorry, you cannot disable this product class.\n\nThe CEO possesses expertise in this product class and is keen on producing it.|
+[3324]<SNV1>Sorry, you cannot make a new version at the moment.|
+[3325]<SNV2>The current version's overall tech:|
+[3326]<SNV3>The new version's overall tech:|
+[3327]<SNV4>The difference between the two is too small to make an impact in the product's quality rating.|
+[3328]<SNV5>You may conduct additional research on the tech and try again later.|
+[3329]<OSAS>Offer %1s Salary + Signup Bonus (1 year salary)|
+[3330]<LPLS>The layout plans in this folder have been sorted by their descriptions.|
+[3331]<DEXP>The game data has been exported to|
+[3332]<CBR1>The city government of %1s declares bankruptcy.|
+[3333]<CBR2>Under pressure, mayor %1s resigns from the office.|
+[3334]<ABC1>Acquire a Company Near Bankruptcy|
+[3335]<ABC2>is on the brink of bankruptcy. It is now looking for a buyer.|
+[3336]<ABC3>Would you be interested in acquiring it?|
+[3337]<ABC4>If you are interested, the game will be paused, allowing you to take the time to evaluate the company.|
+[3338]<ABC5>Near Bankruptcy|
+[3339]<ABC6>acquires the company|
+[3340]<ABC7>rescuing it from bankruptcy.|
+[3341]<SNAM>To locate a specific item, type the first letter of its name.|

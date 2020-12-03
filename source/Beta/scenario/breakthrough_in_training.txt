@@ -1,0 +1,92 @@
+[HEADER]
+Title=Breakthrough in Training
+Description=Years of research in training methodology by a consortium of leading business schools has finally produced astonishing results. ^^The new training methodology is able to increase corporate training efficiency by as much as 100% and companies around the globe are rapidly adopting this new training methodology. ^^Your company has jumped on this bandwagon as well and you are planning to leverage it to greatly improve the productivity of your workforce. 
+
+Difficulty Rating=90
+
+[ENVIRONMENT]
+Number of Cities=5
+Your Start-up Capital=High 
+Random Events=Occasional 
+Game Starting Year=1990
+Retail Store Type=Many
+Technology Disruption=On
+Stock Market=Yes
+Alternative Stock Sim=Yes
+Boom-Bust Cycle Volatility=Moderate
+Macro Economy Realism=High
+Inflation=Inverse
+Inflation Strength=Normal
+
+[COMPETITORS]
+Number of Competitors=20
+Competitor Start-up Capital=Moderate  
+AI Expansion Aggressiveness=Moderate 
+AI Pricing Aggressiveness=Moderate 
+AI Expertise Level=Moderate
+AI Tech Head Start=None
+Show Competitor Trade Secrets=Yes
+AI Friendly Merger=No
+Competence of Local Competitors=Moderate 
+
+[IMPORTS]
+Consumer Goods Seaports=2
+Industrial Goods Seaports=2
+Constant Import Supply=No
+Import Quality=Moderate 
+
+[SPECIAL RULES]
+Training Effect Modifier=200
+
+//-------------------------------------------------------------------//
+
+[MAIN GOAL]
+Goal Title=Aggressive Growth Plan 
+Goal Description=With the breakthrough in training, you now have the tool to improve the operating efficiency of your corporation to new heights and deliver truly outstanding financial returns to your shareholders. 
+
+Number of Game Years=70
+
+[MAIN GOAL VALUES]
+Player Company Annual Revenue=800
+Player Company Annual Profit=100
+Lifetime shareholder return=1000
+
+[MAIN GOAL REWARDS] 
+Score change=200
+
+//-------------------------------------------------------------------//
+
+[SUBGOAL]
+Goal Title=Operating Performance Target
+Goal Description=Leverage the new training methodology to improve your corporation's operating profit margin. 
+
+Goal Achieved Text=Congratulations! You have significantly improved your corporation's operating profit margin. 
+
+[SUBGOAL VALUES]
+Operating Profit Margin=15
+
+[SUBGOAL REWARDS] 
+Score change=100
+Corporate Cash Change=100
+
+//-------------------------------------------------------------------//
+
+[SUBGOAL]
+Goal Title=Growing the Talent Base 
+Goal Description=Be more aggressive in hiring and look for new talents to join your corporation.
+
+Goal Achieved Text=Congratulations! Your corporation has reached the milestone of having a staff size surpassing 1000 people. 
+
+[SUBGOAL VALUES]
+Total Number of Employees=1000
+
+[SUBGOAL REWARDS] 
+Score change=100
+Corporate Cash Change=100
+
+//-------------------------------------------------------------------//
+
+[CHALLENGE GAME]
+Number of Game Years=30
+Ranking Method=Score
+

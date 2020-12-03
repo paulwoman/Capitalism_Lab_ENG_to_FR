@@ -1,0 +1,71 @@
+[HEADER]
+Title=Industry Dominance
+Description=You are utterly determined to be number one in a few strategically targeted industries.\n\nYou win this scenario game when each of your three subsidiary companies have successfully achieved market dominance in at least one industry, with stellar performances.
+Difficulty Rating=110
+DLC=Subsidiary
+
+[ENVIRONMENT]
+Subsidiaries=1
+Number of Cities=5
+Your Start-up Capital=High
+Random Events=Occasional 
+Game Starting Year=1990
+Retail Store Type=Many
+Technology Disruption=On
+Stock Market=Yes
+Alternative Stock Sim=Yes
+Boom-Bust Cycle Volatility=Moderate
+Macro Economy Realism=High
+Inflation=Inverse
+Inflation Strength=Normal
+
+
+[COMPETITORS]
+Number of Competitors=35
+Competitor Start-up Capital=High  
+AI Expansion Aggressiveness=High
+AI Pricing Aggressiveness=Moderate 
+AI Expertise Level=High
+AI Tech Head Start=None
+Show Competitor Trade Secrets=No
+AI Friendly Merger=Yes
+Competence of Local Competitors=Moderate 
+
+[IMPORTS]
+Consumer Goods Seaports=1
+Industrial Goods Seaports=2
+Constant Import Supply=No
+Import Quality=Moderate
+
+
+//-------------------------------------------------------------------
+
+[MAIN GOAL]
+Goal Title=Industry Dominance
+Goal Description=You are utterly determined to be number one in a few strategically targeted industries.\n\nYou win this scenario game when each of your three subsidiary companies have successfully achieved market dominance in at least one industry, with stellar performances.
+
+Number of Game Years=80
+
+[MAIN GOAL VALUES]
+Subsidiary Dominance=1,3
+Subsidiary Annual Revenue=1400,3
+Subsidiary Annual Profit=250,3
+
+[MAIN GOAL REWARDS] 
+Score change=350
+
+//-------------------------------------------------------------------
+
+[SUBGOAL]
+Goal Title=Upstream Dominance
+Goal Description=You achive this goal when your main company has dominated the upstream mining and farming sectors. 
+
+Goal Achieved Text=Congratulations! You have dominated the upstream mining and farming sectors! 
+
+[SUBGOAL INDUSTRIES] 
+Farming
+Raw Material Production 
+
+[SUBGOAL REWARDS] 
+Score change=100
+Corporate cash change=200

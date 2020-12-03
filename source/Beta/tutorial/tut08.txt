@@ -1,0 +1,198 @@
+[TEXT]
+NIL 
+
+[ACTION]
+Hide=Preview
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+In this tutorial, you will learn about setting up various useful departments in ~your headquarters~. Each department has a unique function and enable you to run your corporation with greater efficiency.
+
+[POS]
+Flex Text Box=300,280,400,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Press the shortcut key ~B~ to open the the Build menu now.
+ 
+[POS]
+Flex Text Box=300,280,400,0
+
+[CONDITION]
+Active Interface=Build Menu
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Select ~Headquarters~ from the building menu and find a location to build it.^^If your corporation is flush in cash, you may choose a prime location in the downtown for building your headquarters. Otherwise, you may simply choose a less expensive location and save the money for future business expansions. 
+
+[POS]
+Text Box=50,240,350,0
+
+[CONDITION]
+Firm count=Headquarters, 1 
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Inside your headquarters (HQ), you will see the usual 3x3 layout grid.^^There are functional units specifically for HQ. But unlike other functional units you have added before, the units in HQ need not to be linked to each other, as each unit represents a department that operates independently.
+
+[POS]
+Text Box=300,280,400,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Let's set up a ~Human Resources Department~. Double click the indicated empty slot and select ~Human Resources Department~.
+
+[POS]
+Text Box=60,250,350,0
+Pointer=599,242,680,322
+
+[CONDITION]
+Unit Exists=2, Human Resources Department
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+The Human Resources Department allows you to organize a ~corporate-wide intensive training program~. Such a training program helps to ~improve the efficiency and productivity~ of your employees, thereby making your company more competitive as a whole.^^It is particularly useful when your corporation has grown to a large size with hundreds or even thousands of employees - it allows you to organize a corporate-wide training with a single interface without having to micromanage individual firms. 
+
+[POS]
+Text Box=300,200,400,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+You may also set up offices for your senior management executives.
+
+[POS]
+Text Box=300,280,400,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+
+You may hire a ~Chief Marketing Officer (CMO)~ to run advertising campaigns for your products, and a ~Chief Technical Officer (CTO)~ to oversee you research and development projects. 
+
+[POS]
+Text Box=300,280,400,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+You may also hire a ~Chief Operating Officer (COO)~ and place him or her in charge of any of your firms.^^You could, for example, hire someone with ~expertise in manufacturing~ as your COO for managing all of your factories. All the ~manufacturing units~ in your factories will get an instant boost in productivity thanks to the COO's expertise. 
+
+[POS]
+Text Box=300,280,400,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Finally you may set up an office for the ~Chief Executive Officer~. As you are the CEO, that would be your office.
+
+[POS]
+Text Box=300,280,400,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Now exit your Headquarters and return to the city view.^^~Right click anywhere~ on the screen to do so. 
+
+[POS]
+Flex Text Box=300,280,400,0
+
+[CONDITION]
+Active Interface=City View
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+With all the skills and experiences you have acquired, you are well equipped to realize your ambition of building a business empire that the world would admire. 
+
+[POS]
+Text Box=300,280,400,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+You can take vertical integration to a new level by setting up your ~own mining operations~ to supply ~your factories~ with the ~raw materials~ they need. 
+
+[POS]
+Text Box=300,280,400,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+There is a handy tool at the mini map that enables you to find natural resource sites easily.^^Click the ~Resource Mode~ icon and all natural resources sites currently available will be shown on the mini map. 
+
+[POS]
+Extend Text Box=450,50,300,0
+Pointer=174,34,197,57
+Window=Minimap
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+The letters on the mini-map indicate the types of natural resources available. For example, ~A~ means Aluminum.^^You can always click on the mini-map to bring the city view's focus to a resource site, where you will be able to see details of the resource site by hovering your mouse over it. 
+
+[POS]
+Text Box=300,280,400,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+When you have located a natural resource site which you intend to buy, you may go ahead and select ~Mine~ from the build menu and build a mine on the resource site. 
+
+[POS]
+Text Box=300,280,400,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Asides from mines, you may also build ~Oil Wells~ for extracting ~Crude Oil~ (represented by letter ~O~ on the mini-map), and ~Logging Camps~ for processing ~Timber~ (represented by letter ~T~ on the mini-map). 
+
+[POS]
+Text Box=300,280,400,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+As you have seen throughout the tutorial series, there are so many possible ways to expand your business. Becoming a producer of natural resources on your own to strengthen your supply chain is just one of them. 
+
+[POS]
+Text Box=300,280,400,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Now the tutorial series has come to an end.^^You have done a magnificent job broadening your business knowledge and sharpening your business skills while going through the tutorials! 
+
+[POS]
+Text Box=300,280,400,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Your final goal is to grow your company to a large corporation with ~1000 or more employees~, and achieve ~an annual revenue of $1 billion~ and ~an annual profit of $100 million~.^^This is a lofty goal, for sure. If you manage to pull it off, it will prove to the world that you have emerged as a formidable force in the business world!^^Good luck!
+
+[POS]
+Text Box=200,250,500,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//

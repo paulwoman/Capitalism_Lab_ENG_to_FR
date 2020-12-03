@@ -1,0 +1,427 @@
+[TEXT]
+NIL 
+
+[ACTION]
+Hide=Minimap and Filter 
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+NIL 
+
+[ACTION]
+Hide=Preview
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+You have graduated with an MBA from a renowned business school. Can you apply what you have learned into running a business in the real world? Now it is your chance to prove your ability!^^Click the flashing Next icon to continue. Alternatively, you may press the ~Enter~ key to continue whenever the Next icon is flashing. 
+
+[POS]
+Flex Text Box=300,280,400,0
+Next Arrow=Yes
+
+[ACTION]
+Build Firm=Department Store, My Department Store
+Center on firm=My Department Store
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+You have been assigned to run this department store. Now left click it to view its detail. 
+
+[POS]
+Extend Text Box=32,420,300,0
+Point at Firm=My Department Store
+
+[CONDITION]
+Current Firm=My Department Store
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Click the ~Add Product icon~ now. 
+
+[POS]
+Text Box=32,420,300,0
+Pointer=70,120,185,230
+
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+This is the ~Select a Supplier~ window. It lists all the products currently available within the game. You may use the three filters at the top of the window to help you find the products you want.^^You intend to purchase products from the local seaports, so click the ~Suppliers~ filter box, as indicated.
+
+[POS]
+Text Box=32,270,300,0
+Pointer=200,40,353,57
+Window=Select Supplier
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Double-click ~Seaport~ from the drop-down list.
+
+[POS]
+Text Box=32,270,300,0
+Pointer=202,85,348,102
+Window=Select Supplier
+
+[CONDITION]
+Interface Select=Select Supplier, Seaport 
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+This window shows all products available from the local seaports. At this stage you don't need to concern yourself with the details provided with each product.^^(Information such as freight costs, ratings, brand will explained in a later tutorial.)^^For now, let's just purchase the first product on the list to get things moving. Click the ~SELECT~ button now.^^
+
+[POS]
+Text Box=12,270,320,0
+Pointer=360, 649, 448, 665
+Window=Select Supplier
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+NIL
+
+[ACTION]
+Fast forward days=5
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+You are now back in your department store. Your store automatically purchases the product you selected from the seaport and makes it available for sale to your customers.^^Look at the left of the product image. See the vertical yellow and orange bars? The ~yellow SUPPLY bar~ indicates the quantity of the product you have in store and the ~orange DEMAND bar~ measures the consumer demand for that product.
+
+[POS]
+Text Box=40,270,350,0
+Pointer=38,121,55,238
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Each retail store has four product slots. Increase the variety of products in your store and make use of the available slots.^^Repeat what you did just now. Click the ~Add Product icon~, then choose ~Seaport~ from the supplier list, and select a product to add to your store.^^This time, make sure that you select a different product than the one already on sale in your store. 
+
+[POS]
+Text Box=20,270,280,0
+
+[CONDITION]
+Firm product count=My Department Store, 2 
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+NIL
+
+[ACTION]
+Fast forward days=5 
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Well done! Keep on adding more products to your store. Besides clicking the ~Select~ button, you may simply ~double-click~ a product on the list to select it.^^When you are ready to move on, ~RIGHT clicking anywhere~ on the screen to exit your store and return to the city view.
+
+[POS]
+Text Box=10,270,220,0
+
+[CONDITION]
+Active Interface=City View
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Good. We are now in the city view. Let's explore.^^See the toolbar at the bottom of the screen?
+
+[POS]
+Flex Text Box=80,550,400,0
+Pointer=30,0,640,30
+Window=Bottom Toolbar 
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+It shows the amount of cash your corporation currently has and its operating profit in the past 12 months. 
+
+[POS]
+Flex Text Box=80,550,400,0
+Pointer=262,0,580,30
+Window=Bottom Toolbar 
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+You can see the current game date here.^^Note that the game runs in real time.You may change the game speed using the shortcut keys ~'1' (slowest) to '5' (fastest)~.^^You may also pause the game by pressing the ~key '0'~.  
+
+[POS]
+Flex Text Box=80,500,400,0
+Pointer=666,0,755,30
+Window=Bottom Toolbar 
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+There is a row of icons on the toolbar. Let's click on the ~Mini Map~ icon now. 
+
+[POS]
+Flex Text Box=60,550,300,0
+Pointer=52,6,90,30
+Window=Bottom Toolbar 
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+The mini map shows the entire city. Along its top border you see the ~City Select icon~ (represented by a down arrow), which is for showing a list of cities in the current game.^^The ~left and right arrow icons~ next to the city name allow you to cycle through the previous or next city. 
+
+[POS]
+Extend Text Box=450,50,300,0
+Pointer=43,5,165,20
+Window=Minimap
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+The animated rectangle frame on the mini map represents the area displayed in the city view. 
+
+[POS]
+Extend Text Box=450,50,300,0
+Window=Minimap
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+There are several icons around the mini map for switching to different map modes. 
+
+[POS]
+Extend Text Box=450,50,300,0
+Window=Minimap
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+The first icon, the one that looks like a building, toggles the ~Ownership~ mode. On the mini map, the white areas represent the city's buildings that are not owned by corporations, like houses and parks.^^Colored areas represent corporation owned buildings and are shown in the corporate color.^^~Seaports~ are represented by the letter 'C' or 'I' - ~'C' for Consumer products~ (like televisions or jeans) and ~'I' for industrial products~ (like coal or steel). 
+
+[POS]
+Extend Text Box=450,50,300,0
+Pointer=9,33,32,57
+Window=Minimap
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Now click the ~Land Value~ icon to change to that mode.
+
+[POS]
+Extend Text Box=450,50,300,0
+Pointer=44,31,67,56
+Window=Minimap
+
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+The mini map display changes to show Land Value data. ~The darker the color, the more valuable the land.~ Building in light areas may be expensive but it may provide your stores with a richer clientele willing to pay higher prices.
+
+[POS]
+Extend Text Box=450,50,300,0
+Window=Minimap
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Now click the ~Profit~ icon to change to that mode.
+
+[POS]
+Extend Text Box=450,50,300,0
+Pointer=140,31,162,58
+Window=Minimap
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+In this mode, buildings represented by ~green dots are profitable~ whereas buildings shown in ~red dots are losing money~. The darker the color, the greater the profit or loss. The white colored buildings on display are government owned and as such do not show a profit or a loss.
+
+[POS]
+Extend Text Box=450,50,300,0
+Window=Minimap
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Now we are going to have a quick look at the ~Building Filter~ interface.^^The filter interface has five selection buttons labelled ~Firm~, ~Corp.~, ~This City~, ~My Firms~ and ~Product~.^^When any of these filters are enabled, only firms within the filter will be shown on the mini map at ~Profit~ or ~Ownership~ mode. 
+
+[POS]
+Extend Text Box=450,100,300,0
+Pointer=2,237,185,284
+Window=Minimap
+Next Arrow=Yes
+
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+To browse the firms within the filter, use the up and down buttons. 
+
+[POS]
+Extend Text Box=450,100,300,0
+Pointer=36,239,52,282
+Window=Minimap
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Click the ~My Firms~ button and the mini map display changes to show only ambient buildings and the firms you own. 
+
+[POS]
+Extend Text Box=450,100,300,0
+Pointer=55,262,128,282
+Window=Minimap
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+As your corporation currently only has one firm - your department store, only one dot in your corporate color is shown. You can cancel this mode by clicking the ~My Firms~ button again. But for now keep it active. 
+
+[POS]
+Extend Text Box=450,100,300,0
+Window=Minimap
+Next Arrow=Yes
+
+[ACTION]
+Center on firm=My Department Store, Select
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Did you wonder which seaports are supplying products to your department store? Well now it is your chance to find that out. 
+
+[POS]
+Extend Text Box=450,100,300,0
+Window=Minimap
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+With the display still only showing your department store (as a colored square), click the ~Business Relationship~ mode icon.
+
+[POS]
+Extend Text Box=450,100,300,0
+Pointer=172,71,196,91
+Window=Minimap
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Now the display is updated to show from which seaports your department store is receiving the products that you are selling. 
+
+[POS]
+Extend Text Box=450,100,300,0
+Window=Minimap
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT] 
+While we were exploring the interfaces, your department store was already generating revenue.^^Take a look at the ~cash and profit figures~ on the toolbar. Do you have enough money to build a second department store yet?
+
+[POS]
+Flex Text Box=300,280,400,0
+Pointer=267, 10, 575,24
+Window=Bottom Toolbar 
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+A new department store costs $1,000,000 to build, plus the cost of the land, and a further $100,000 per month to operate. It seems within your budget, so let's proceed. 
+
+[POS]
+Flex Text Box=300,280,400,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Click the ~Build Menu~ icon on the ~Game Tools Menu~ at the top-left of the screen.
+
+[POS]
+Flex Text Box=300,280,400,0
+Pointer=3,25,52,62
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Now choose ~Retail Store~ from the menu.
+
+[POS]
+Flex Text Box=300,280,400,0
+Pointer=52,61,235,75
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+And choose ~Department Store~.
+
+[POS]
+Flex Text Box=300,280,400,0
+Pointer=282,52,450,100
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Your cursor now highlights a square on the city. Try to find a location close to residential buildings to benefit from high customer traffic.^^If the location is shaded in ~yellow~, it means a valid location for building your department store.^^When you have chosen a location, left click and the department store will be built. 
+
+[POS]
+Flex Text Box=400,16,400,0
+Allow=Detect Other
+
+[CONDITION]
+Firm Build Count=Department Store, 2 
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Congratulations! You have just expanded your business! You now have to set up products in your new department store. To so, simply repeat the steps that you just did for setting up your first department store.
+
+[POS]
+Flex Text Box=300,280,400,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+You win this game when your company's annual revenue reaches $20 million. To see the ~goal report~, click the ~Information Center~ icon on the menu bar at the bottom of the screen. 
+
+[POS]
+Extend Text Box=120,500,450,0
+Pointer=146,6,183,30
+Window=Bottom Toolbar 
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Click the ~Goal~ option.
+
+[POS]
+Flex Text Box=150,280,250,0
+Pointer=38,68,122,78
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Well done! You have completed this tutorial. You must apply what you have just learned into running your company. Now go and add products to your new department store and grow your business! 
+
+[POS]
+Flex Text Box=150,280,400,0
+Next Arrow=Yes

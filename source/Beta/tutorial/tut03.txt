@@ -1,0 +1,421 @@
+[TEXT]
+NIL 
+
+[ACTION]
+Hide=Preview
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+NIL 
+
+[ACTION]
+Add Seaport Product=Timber
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+NIL 
+
+[ACTION]
+Add Seaport Product=Steel
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+In the previous tutorials you have learned how to purchase products from suppliers and simply put them on sale in your stores. Now you get the chance to actually manufacture products in your own factory. 
+
+[POS]
+Flex Text Box=300,280,400,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+You have decided to leave your family-owned business and branch out on your own. You've spotted an opportunity in the market. There's high quality timber available for import, from which you can manufacture a variety of products.
+
+[POS]
+Flex Text Box=300,280,400,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Starting your own corporation takes money - and lot's of it. You must first obtain a loan to finance your grand plans.^^Click the ~Information Center icon~ on the bottom toolbar.
+
+[POS]
+Extend Text Box=36,600,500,0
+Pointer=146,6,183,30
+Window=Bottom Toolbar 
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Select ~Financial Actions~ from the Information Center.
+
+[POS]
+Flex Text Box=300,280,400,0
+Pointer=33,296,151,306
+ 
+//-------------------------------------------------------------------//
+
+[TEXT]
+Your company's credit limit varies throughout the game depending on the state of your company. At this moment the maximum amount you may borrow is $30,000,000.^^ 
+
+[POS]
+Text Box=300,525,400,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Click the ~[+]~ button next to the ~Borrow~ button.^^When you have increased the the amount to $20,000,000 or more, click the ~Borrow~ button.
+
+[POS]
+Text Box=300,525,400,0
+
+[CONDITION]
+Loan=20000000
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Excellent! You now have the funds to start your company.^^The next step is to get an understanding about the manufacturing process. Click ~Manufacturer's Guide~ on the left of the screen to proceed.
+
+[POS]
+Text Box=300,295,400,0
+Pointer=35,223,138,249
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+We want to find out what products can be made from ~Timber~, so click the ~INPUT~ button.
+
+[POS]
+Text Box=280,580,400,0
+Pointer=533, 473, 606, 486
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Look for ~Timber~ in the list and double-click it. 
+
+[POS]
+Text Box=280,530,400,0
+
+[CONDITION]
+Manufacturer Guide=Bed
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+It shows that ~Timber~ can be used to produce ~Bed~. Fairly obvious eh? Take a close look at the information shown here.^^It tells that ~120 lbs of Timber~ is needed to make ~1 unit of Bed~.^^Notice that Timber has a ~quality influence of 50%~, which means that the quality of the finished product is 50% affected by the quality of Timber.  
+
+[POS]
+Text Box=230,510,500,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+The ~quality of Bed~ is determined by two factors: ~Production Technology~ and ~Raw Material Quality~.^^The ~raw materials~, as just stated, represent ~50%~ of the Bed's quality and the remaining ~50%~ is determined by ~production technology of the manufacturer~. We will discuss production technology later.
+
+[POS]
+Text Box=230,510,500,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Let's explore more products that can be made with Timber. Click the ~MORE~ button below the image of the Timber.
+
+[POS]
+Flex Text Box=300,280,400,0
+Pointer=318,184,398,200
+
+[CONDITION]
+Manufacturer Guide=Chair
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+It shows that ~Timber~ may also be combined with ~Cotton~ and ~Linen~ to produce ~Chair~.^^The quality of ~Chair~ is 60% influenced by the raw materials. Among that 60%, ~Timber~ contributes 40%; ~Cotton~ contributes 10%; and ~Linen~ contributes the remaining 10%. 
+
+[POS]
+Text Box=230,550,500,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+You may click the ~MORE~ button below the image of the Timber again to see more products that can be made with Timber.
+
+[POS]
+Text Box=300,430,400,0
+Pointer=318,334,398,350
+
+[CONDITION]
+Manufacturer Guide=Sofa
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Good! You've got a basic understanding about manufacturing. Let's proceed to set up your production facility.^^Right click anywhere on the screen to exit back to the city view.
+
+[POS]
+Text Box=300,510,400,0
+
+[CONDITION]
+Active Interface=City View
+
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Now you must build a factory. Click the ~Build icon~. 
+
+[POS]
+Text Box=100,150,400,0
+Pointer=3,25,52,62
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Select ~Factory~ from the menu and find a location to build it.^^It's a good idea to build your factory in the rural area as the land is cheaper there.
+
+[POS]
+Text Box=10,130,180,0
+
+[CONDITION]
+Firm count=Factory, 1 
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+In order for your factory to manufacture goods and sell them, it requires three unit types to be linked within the layout grid.^^You already know ~Purchasing and Sales units~. The third type you require is the ~Manufacturing Unit~.
+
+[POS]
+Text Box=32,250,350,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Let's get your factory producing something. Double click the top left hand unit space in the layout grid and build a ~Purchasing Unit~. 
+
+[POS]
+Text Box=32,250,350,0
+Pointer=489,253,573,336
+
+[CONDITION]
+Unit Exists=1, Purchasing 
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+To the right of the Purchasing Unit, build a ~Manufacturing Unit~.
+
+[POS]
+Text Box=32,250,350,0
+Pointer=599,253,680,336
+
+[CONDITION]
+Unit Exists=2, Manufacturing
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+And to the right of the Manufacturing Unit, build a ~Sales Unit~. 
+
+[POS]
+Text Box=32,250,350,0
+Pointer=709,253,790,336
+
+[CONDITION]
+Unit Exists=3, Sales
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Now click the link between the units to connect them. 
+
+[POS]
+Text Box=32,250,350,0
+Pointer=579,292,592,298
+
+[CONDITION]
+Unit Linked=Purchasing, Manufacturing, 1, 2 
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Connect these units as well.
+
+[POS]
+Text Box=350,280,200,0
+Pointer=687,292,702,298
+
+[CONDITION]
+Unit Linked=Manufacturing, Sales, 2, 3
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Great Job! Now you need to purchase raw materials. Click your ~Purchasing Unit~ to select it.
+
+[POS]
+Text Box=32,250,350,0
+Pointer=489,253,573,336
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Click the ~Link~ button to open the ~Select a Supplier~ interface. 
+
+[POS]
+Text Box=32,250,350,0
+Pointer=202,385,246,400
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Use the ~Product~ filter to select ~Timber~. Then choose a supplier that sells timber.
+
+[POS]
+Text Box=20,250,180,0
+Pointer=14,40,168,56
+Window=Select Supplier
+
+[CONDITION]
+Unit has item=1, Timber
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+As soon as your factory receives Timber from the supplier, the Manufacturing Unit begins to produce Bed.^^Shortly afterwards, the Manufacturing Unit will send finished products to the Sales Unit and your Bed will be available for sale to the world. 
+
+[POS]
+Text Box=32,250,350,0
+Next Arrow=Yes
+
+----------------------------------------------------------------//
+
+[TEXT]
+There's a lot of unused space in your factory - six empty units to be exact - so let's utilize them.^^In the row of empty units immediately below your existing units ~add~ another set of ~Purchasing Unit, Manufacturing unit and Sales unit~ from left to right. Remember to ~link~ the three new units as well. 
+
+[POS]
+Text Box=32,250,350,0
+
+[CONDITION]
+Unit Linked=Purchasing, Manufacturing, 4, 5
+
+----------------------------------------------------------------//
+
+[TEXT]
+There's a lot of unused space in your factory - six empty units to be exact - so let's utilize them.^^In the row of empty units immediately below your existing units ~add~ another set of ~Purchasing Unit, Manufacturing unit and Sales unit~ from left to right. Remember to ~link~ the three new units as well. 
+
+[POS]
+Text Box=32,250,350,0
+
+[CONDITION]
+Unit Linked=Manufacturing, Sales, 5, 6 
+
+[ACTION]
+Game speed=0
+// to prevent the mft unit from using Steel to produce Engine immediately. Wait until it is linked with Timber, to produce Golf club 
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Now click the new ~Purchasing unit~ and click the ~Link~ button to open the Supplier List. Then select ~Steel~ from the supplier list. 
+
+[POS]
+Text Box=40,250,256,0
+
+[ACTION]
+Game speed=0
+// to prevent the mft unit from using Steel to produce Engine immediately. Wait until it is linked with Timber, to produce Golf club 
+
+[CONDITION]
+Unit has item=4, Steel
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Now link the very first ~Purchasing unit~ to the new ~Manufacturing unit~.
+
+[POS]
+Text Box=40,422,380,0
+Pointer=576,340,595,358
+
+[CONDITION]
+Unit Linked=Purchasing, Manufacturing, 1, 5
+
+[ACTION]
+Game Speed=3
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+This ~Manufacturing unit~ will now produce ~Golf Club~.^^See how we utilized an existing ~Purchasing unit~ supplying ~Timber~, and in conjunction with a new unit purchasing ~Steel~, to manufacture a different product. 
+
+[POS]
+Text Box=70,422,380,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Now let's have a closer look at the ~Manufacturing unit~ itself. Select your Golf Club Manufacturing unit by clicking on it. 
+
+[POS]
+Text Box=70,422,380,0
+Pointer=601,365,680,444
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Here it shows the ~Quality Rating~ of your Golf Club, and the factors that contribute to this quality rating, which include ~raw material qualities~, and your ~production technology~ for this product. 
+
+[POS]
+Text Box=424,124,330,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Remember the ~Manufacturer's Guide~ you looked at a moment ago? From it, you will see that the overall quality of Golf Club was ~45% affected by the qualities of its raw materials~ and ~55% affected by the production technology~.^^That corresponds to the display of ~Production Quality~ and ~Raw Material Quality~ on this screen.
+
+[POS]
+Text Box=424,124,330,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+The ~Raw Material Quality~ can be increased by sourcing supplies of higher quality raw materials.^^The ~Production Quality~ can be increased by setting up R&D centers (research and development centers) to develop better technology. We will cover this in a later tutorial.
+
+[POS]
+Text Box=424,124,330,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Now that your factory has been in operation, your products may already be purchased by other corporations for sale in their shops.^^To grow your business, you are advised to build retail stores to sell your own goods, and set up more factories to produce additional products. 
+
+
+[POS]
+Flex Text Box=300,280,400,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+To complete your objectives in this game, you need to achieve ~an annual revenue of $30 million~ and ~an annual profit of $3 million~.^^But remember that you still owe the bank money. You can repay part or all of your loan by accessing the ~Financial Actions~ screen of the ~Information Center~ and using the ~Repay~ section of the screen.^^Good Luck!
+
+[POS]
+Flex Text Box=300,280,400,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//

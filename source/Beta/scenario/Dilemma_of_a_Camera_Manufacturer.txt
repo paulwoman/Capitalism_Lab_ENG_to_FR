@@ -1,0 +1,98 @@
+[HEADER]
+Title=Dilemma of a Camera Manufacturer
+Description=With over twenty of years of experience in producing world-class photography equipment under your belt, you have earned the trust of a group of investors for funding your startup. ^^While traditional film cameras still dominate the market at the moment, development in digital photography technology has been gaining momentum.^^You see a great opportunity here but it requires committing a long term investment in research and development before any commercial products will materialize.^^Should you dedicate your resources to it at the outset or start with traditional film cameras and transit to digital cameras later for a hopefully smoother ride?
+
+Difficulty Rating=130
+
+[ENVIRONMENT]
+Number of Cities=5
+Your Start-up Capital=Moderate
+Random Events=Occasional 
+Game Starting Year=1990
+Retail Store Type=Many
+Technology Disruption=On
+Stock Market=Yes
+Alternative Stock Sim=Yes
+Boom-Bust Cycle Volatility=Moderate
+Macro Economy Realism=High
+Inflation=Inverse
+Inflation Strength=Normal
+
+[COMPETITORS]
+Number of Competitors=30
+Competitor Start-up Capital=High  
+AI Expansion Aggressiveness=High
+AI Pricing Aggressiveness=Moderate 
+AI Expertise Level=High
+AI Tech Head Start=None
+Show Competitor Trade Secrets=Yes
+AI Friendly Merger=Yes
+Competence of Local Competitors=Moderate 
+
+
+[IMPORTS]
+Consumer Goods Seaports=2
+Industrial Goods Seaports=2
+Constant Import Supply=No
+Import Quality=Moderate 
+
+[PLAYER EXPERTISE] 
+Product Expertise=Photography Products, 100
+
+[LOCKS]
+Product=All
+
+[UNLOCKS]
+Product=Photography Products 
+
+//-------------------------------------------------------------------//
+
+[SUBGOAL]
+Goal Title=Market Leader 
+Goal Description=Establish your company a producer of high quality camera products and strive to outperform the competition to become the market leader. (You are limited to production of photography products only until you have achieved this goal.)
+
+Goal Achieved Text=Congratulations! Your company has become the number one manufacturer of cameras. Now you may move on to even bigger goals. 
+
+Number of Game Years=20
+
+
+[SUBGOAL VALUES]
+Player Company Annual Revenue=200
+Player Company Annual Profit=20
+
+[SUBGOAL PRODUCTS]
+Photography Products
+
+[SUBGOAL REWARDS] 
+Score change=150
+Corporate cash change=100
+Unlock product=All
+
+//-------------------------------------------------------------------//
+
+[MAIN GOAL]
+Goal Title=Consumer Electronics Giant 
+Goal Description=With your success in the photography product market, you have the capital and resources to diversify your business into the consumer electronics market and take your corporation to new heights. 
+
+Number of Game Years=40
+
+Parent Goal=Market Leader
+
+[MAIN GOAL VALUES]
+Player Company Annual Revenue=1500
+Player Company Annual Profit=150
+
+[MAIN GOAL PRODUCTS]
+Photography Products
+Electronic Products
+Communication Devices
+
+[MAIN GOAL REWARDS] 
+Score change=350
+
+//-------------------------------------------------------------------//
+
+[CHALLENGE GAME]
+Number of Game Years=30
+Ranking Method=Score
+

@@ -1,0 +1,66 @@
+[HEADER]
+Title=On a Buying Spree
+Description=The goal of this scenario is to acquire a total of eight private tech companies and consolidate them to reap the benefits of synergy and economies of scale.^^You must act fast as burgeoning valuations of tech companies mean that the rapidly rising acquisition costs may soon exceed your financial reach. If you succeed in executing this plan, the mergers will give you the much-needed technologies and talents to build the digital powerhouse that you have always dreamed of. 
+
+DLC=DigitalAge
+
+Difficulty Rating=110
+
+[ENVIRONMENT]
+Number of Cities=5
+Your Start-up Capital=Very High
+Random Events=Occasional 
+Game Starting Year=1990
+Retail Store Type=Many
+Technology Disruption=On
+Stock Market=Yes
+Alternative Stock Sim=Yes
+Boom-Bust Cycle Volatility=Moderate
+Macro Economy Realism=High
+Inflation=Inverse
+Inflation Strength=Normal
+
+[CITIES]
+City=San Francisco 
+City=Toronto 
+City=Tel Aviv 
+City=Sydney
+City=Seattle 
+
+[COMPETITORS]
+Number of Competitors=35
+Competitor Start-up Capital=Moderate  
+AI Expansion Aggressiveness=Moderate
+AI Pricing Aggressiveness=Moderate 
+AI Expertise Level=Moderate
+AI Tech Head Start=None
+Show Competitor Trade Secrets=Yes
+AI Friendly Merger=No
+Competence of Local Competitors=Moderate 
+
+[IMPORTS]
+Consumer Goods Seaports=2
+Industrial Goods Seaports=2
+Constant Import Supply=No
+Import Quality=Moderate 
+
+//-------------------------------------------------------------------//
+
+[MAIN GOAL]
+Goal Title=On a Buying Spree
+Goal Description=The goal of this scenario is to acquire a total of eight private tech companies and consolidate them to reap the benefits of synergy and economies of scale. 
+
+Number of Game Years=70
+
+[MAIN GOAL VALUES]
+Private Acquisitions=8
+
+[MAIN GOAL REWARDS] 
+Score change=350
+
+//-------------------------------------------------------------------//
+
+[CHALLENGE GAME]
+Number of Game Years=30
+Ranking Method=Score
+

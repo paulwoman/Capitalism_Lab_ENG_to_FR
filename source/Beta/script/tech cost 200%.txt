@@ -1,0 +1,8 @@
+[HEADER]
+Title=200% technology acquisition costs 
+Description=This script modifies technology acquisition costs to 200% of their original values.  
+
+//------------------------------------------------------------------------------------------------//
+
+[SPECIAL RULES]
+Tech Cost Modifier=200
