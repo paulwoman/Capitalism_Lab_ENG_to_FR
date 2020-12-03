@@ -1790,6 +1790,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>//If this is set to On, your company will start as a private company.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T110507Z" creationid="Olivier" creationdate="20201203T110507Z">
+        <seg>//Si cette option est activée, votre entreprise démarrera en tant qu'entreprise privée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>//If you prefer to customize the exact amount of start-up capital for your company, you may use the following line instead:</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T075001Z" creationid="Olivier" creationdate="20200819T075001Z">
