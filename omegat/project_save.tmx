@@ -2534,6 +2534,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A growing real wage rate means that people are earning more money, even after adjusting for inflation.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201114T101054Z" creationid="Olivier" creationdate="20201114T101054Z">
+        <seg>Un taux de salaire réel en hausse signifie que les gens gagnent plus d'argent, même après correction de l'inflation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A growing real wage rate means that people are earning more money, even after being adjusted for inflation.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143337Z" creationid="Olivier" creationdate="20200503T143337Z">
@@ -2818,6 +2826,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T105036Z" creationid="Olivier" creationdate="20200506T105036Z">
         <seg>La croissance démographique d'une nation est soutenue par 1) #un faible taux de chômage#, 2) #une qualité de vie élevée#, et 3) #une offre de logement suffisante#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A negative growth rate means that the economy is shrinking.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201114T101335Z" creationid="Olivier" creationdate="20201114T101335Z">
+        <seg>Un taux de croissance négatif signifie que l'économie se contracte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6758,6 +6774,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CBANKATT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201114T101336Z" creationid="Olivier" creationdate="20201114T101336Z">
+        <seg>CBANKATT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CBANKPOL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201114T101432Z" creationid="Olivier" creationdate="20201114T101432Z">
+        <seg>CBANKPOL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CCD|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200505T161830Z" creationid="Olivier" creationdate="20200505T161830Z">
@@ -7826,6 +7858,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T131301Z" creationid="Inrepublica" creationdate="20200423T131301Z">
         <seg>Center on firm=My Department Store, Select</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Central Bank Attitude</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201114T101407Z" creationid="Olivier" creationdate="20201114T101345Z">
+        <seg>Attitude de la banque centrale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Central Bank Policy</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201114T101441Z" creationid="Olivier" creationdate="20201114T101441Z">
+        <seg>Politique de la banque centrale</seg>
       </tuv>
     </tu>
     <tu>
@@ -10222,6 +10270,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Consumer Price Index</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201114T101138Z" creationid="Olivier" creationdate="20201114T101138Z">
+        <seg>Indice des prix à la consommation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Consumer Price Index (CPI)</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143624Z" creationid="Olivier" creationdate="20200503T143624Z">
@@ -10482,6 +10538,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155434Z" creationid="Olivier" creationdate="20200507T155434Z">
         <seg>À l'inverse, les emprunteurs ayant une mauvaise cote de crédit présentent les risques de défaillance les plus élevés, de sorte que la banque applique des taux d'intérêt plus élevés pour justifier ces risques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Conversely, during a recession, consumers reduce their spending, especially for non-essential goods.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201114T101257Z" creationid="Olivier" creationdate="20201114T101257Z">
+        <seg>À l'inverse, en période de récession, les consommateurs réduisent leurs dépenses, notamment pour les biens non essentiels.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12462,6 +12526,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ECOSTATE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201114T101207Z" creationid="Olivier" creationdate="20201114T101207Z">
+        <seg>ECOSTATE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ECO_MAX</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150605Z" creationid="Olivier" creationdate="20200504T150605Z">
@@ -12794,6 +12866,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200915T124129Z" creationid="Olivier" creationdate="20200915T124129Z">
         <seg>Bénéfice Par Action</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Economic State</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201114T101225Z" creationid="Olivier" creationdate="20201114T101225Z">
+        <seg>État économique</seg>
       </tuv>
     </tu>
     <tu>
@@ -14550,6 +14630,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GDP Growth Rate</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201114T101311Z" creationid="Olivier" creationdate="20201114T101311Z">
+        <seg>Taux de croissance du PIB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GDP growth is affected by consumer spending, private investment, government spending and net exports.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T142327Z" creationid="Olivier" creationdate="20200503T142327Z">
@@ -14602,6 +14690,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T102813Z" creationid="Olivier" creationdate="20201006T102813Z">
         <seg>GDP_GOVE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GDP_GROW</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201114T101300Z" creationid="Olivier" creationdate="20201114T101300Z">
+        <seg>GDP_GROW</seg>
       </tuv>
     </tu>
     <tu>
@@ -20745,6 +20841,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Inflation Dove means that the central bank is willing to let inflation run higher before raising the interest rate.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201114T101430Z" creationid="Olivier" creationdate="20201114T101430Z">
+        <seg>L'inflation colombe signifie que la banque centrale est prête à laisser l'inflation augmenter avant de relever le taux d'intérêt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Inflation Rate</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143520Z" creationid="Olivier" creationdate="20200503T143520Z">
@@ -23537,6 +23641,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MONEYSD</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201114T101454Z" creationid="Olivier" creationdate="20201114T101454Z">
+        <seg>MONEYSD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MORETAL2</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T145924Z" creationid="Inrepublica" creationdate="20200422T145924Z">
@@ -24085,6 +24197,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200505T161934Z" creationid="Olivier" creationdate="20200505T161934Z">
         <seg>Modéré|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money Supply and Demand</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201114T101510Z" creationid="Olivier" creationdate="20201114T101510Z">
+        <seg>Offre et demande monétaires</seg>
       </tuv>
     </tu>
     <tu>
@@ -30249,6 +30369,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>REDDIT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201114T101535Z" creationid="Olivier" creationdate="20201114T101535Z">
+        <seg>REDDIT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>REDEMARRER TUTORIEL|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T155524Z" creationid="Inrepublica" creationdate="20200425T155524Z">
@@ -35329,6 +35457,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The GDP growth rate indicates how fast the economy is growing.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201114T101322Z" creationid="Olivier" creationdate="20201114T101322Z">
+        <seg>Le taux de croissance du PIB indique la vitesse à laquelle l'économie se développe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Global Competitiveness Rating of the industry.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200505T162840Z" creationid="Olivier" creationdate="20200505T162840Z">
@@ -35765,6 +35901,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T155821Z" creationid="Olivier" creationdate="20200426T155821Z">
         <seg>La barre indique la progression de la croissance de la culture.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The base value is 100.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201114T101205Z" creationid="Olivier" creationdate="20201114T101205Z">
+        <seg>La valeur de base est de 100.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36309,6 +36453,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143537Z" creationid="Olivier" creationdate="20200503T143537Z">
         <seg>Le taux d'inflation est influencé par le taux de chômage (les gens dépensent moins lorsqu'ils sont au chômage) et par la demande et l'offre de monnaie (une offre de monnaie plus élevée encourage les dépenses).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The inflation rate is primarily affected by the unemployment rate (people spend less when they are unemployed) and the money demand and supply (increased money supply promotes consumer spending).</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201114T101120Z" creationid="Olivier" creationdate="20201114T101120Z">
+        <seg>Le taux d'inflation est principalement influencé par le taux de chômage (les gens dépensent moins lorsqu'ils sont au chômage) et par l'offre et la demande de monnaie (l'augmentation de la masse monétaire favorise les dépenses de consommation).</seg>
       </tuv>
     </tu>
     <tu>
@@ -37225,6 +37377,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The unemployment rate decreases when the economy is growing, and companies are expanding and creating new jobs.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201114T101031Z" creationid="Olivier" creationdate="20201114T101031Z">
+        <seg>Le taux de chômage diminue lorsque l'économie est en croissance, et que les entreprises se développent et créent de nouveaux emplois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The unemployment rate trends lower when the GDP growth is healthy and private companies are expanding and creating new jobs.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T143222Z" creationid="Olivier" creationdate="20200503T143222Z">
@@ -37977,10 +38137,34 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This indicates the current levels of money supply and demand.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201114T101519Z" creationid="Olivier" creationdate="20201114T101519Z">
+        <seg>Cela indique les niveaux actuels de l'offre et de la demande de monnaie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This indicates the level of #demand for bank loans# which is correlated to the total GDP of the cities.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200606T144137Z" creationid="Olivier" creationdate="20200606T144137Z">
         <seg>Cela indique le niveau de #demande de prêts bancaires# qui est corrélé au PIB total des villes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This indicates the present state of the city's economy.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201114T101236Z" creationid="Olivier" creationdate="20201114T101236Z">
+        <seg>Cela indique l'état actuel de l'économie de la ville.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This indicates whether the central bank currently maintains a loose monetary policy with increased money supply and a low interest rate, or a tight monetary policy with reduced money supply and a high interest rate.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201114T101453Z" creationid="Olivier" creationdate="20201114T101453Z">
+        <seg>Cela indique si la banque centrale maintient actuellement une politique monétaire souple avec une masse monétaire accrue et un taux d'intérêt bas, ou une politique monétaire stricte avec une masse monétaire réduite et un taux d'intérêt élevé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38425,10 +38609,26 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This shows the central bank's attitude toward inflation.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201114T101355Z" creationid="Olivier" creationdate="20201114T101355Z">
+        <seg>Cela montre l'attitude de la banque centrale face à l'inflation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This shows the city's population changes over time.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T141726Z" creationid="Olivier" creationdate="20200503T141726Z">
         <seg>Cela montre l'évolution de la population de la ville au fil du temps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This shows the cumulative change in the price level of consumer goods since the beginning of the game.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201114T101149Z" creationid="Olivier" creationdate="20201114T101149Z">
+        <seg>Cela montre l'évolution cumulative du niveau des prix des biens de consommation depuis le début du jeu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41249,6 +41449,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Visit the Reddit community of Capitalism Lab.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201114T101601Z" creationid="Olivier" creationdate="20201114T101601Z">
+        <seg>Visitez la communauté  Reddit de Capitalism Lab.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Votre nom|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200427T080114Z" creationid="Inrepublica" creationdate="20200427T080114Z">
@@ -41713,6 +41921,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When the central bank maintains a loose monetary policy, there will be an increase to the money supply and the interest rate will fall.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201114T101532Z" creationid="Olivier" creationdate="20201114T101532Z">
+        <seg>Lorsque la banque centrale maintient une politique monétaire souple, il y aura une augmentation de la masse monétaire et le taux d'intérêt baissera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When the city has a high level of business activity, more jobs will be created, lowering the unemployment rate.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T085601Z" creationid="Olivier" creationdate="20200508T085601Z">
@@ -41741,6 +41957,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150701Z" creationid="Olivier" creationdate="20200502T150701Z">
         <seg>Lorsque la barre de demande (orange) est plus longue que la barre d'offre (jaune), cela signifie que vous n'avez pas assez d'offre pour répondre à la demande.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the economy is booming, there will be strong demand for consumer goods.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201114T101248Z" creationid="Olivier" creationdate="20201114T101248Z">
+        <seg>Lorsque l'économie est en plein essor, il y aura une forte demande de biens de consommation.</seg>
       </tuv>
     </tu>
     <tu>
