@@ -1790,6 +1790,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>//If this is set to On, your company will start as a private company.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T110507Z" creationid="Olivier" creationdate="20201203T110507Z">
+        <seg>//Si cette option est activée, votre entreprise démarrera en tant qu'entreprise privée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>//If you prefer to customize the exact amount of start-up capital for your company, you may use the following line instead:</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T075001Z" creationid="Olivier" creationdate="20200819T075001Z">
@@ -1818,6 +1826,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200831T090208Z" creationid="Olivier" creationdate="20200831T090208Z">
         <seg>//Compagnie Privée=&lt;Yes, No&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>//Retail Store Floors=&lt;One, Multiple&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T110530Z" creationid="Olivier" creationdate="20201203T110530Z">
+        <seg>//Étages des magasins de détail=&lt;One, Multiple&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>//Set it to "Multiple" to allow for setting up multiple floors in a single retail store.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T110546Z" creationid="Olivier" creationdate="20201203T110546Z">
+        <seg>//Réglez-le sur "Multiple" pour permettre l'installation de plusieurs étages dans un seul magasin de détail.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3030,6 +3054,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ACQBANKR</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T110634Z" creationid="Olivier" creationdate="20201203T110634Z">
+        <seg>ACQBANKR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ACTUEL|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150739Z" creationid="Inrepublica" creationdate="20200425T150739Z">
@@ -3898,6 +3930,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200427T075653Z" creationid="Inrepublica" creationdate="20200427T075653Z">
         <seg>Acier|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Acquire Companies Facing Bankruptcy</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T110650Z" creationid="Olivier" creationdate="20201203T110650Z">
+        <seg>Acquérir des entreprises confrontées à la faillite</seg>
       </tuv>
     </tu>
     <tu>
@@ -15218,8 +15258,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Game Speed (hotkey: '0' to pause, '1' to '5' to set speed)</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T092430Z" creationid="Olivier" creationdate="20200819T092337Z">
-        <seg>Vitesse du jeu (touche de raccourci : "0" pour mettre en pause, "1" à "5" pour régler la vitesse)</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T154145Z" creationid="Olivier" creationdate="20200819T092337Z">
+        <seg>Vitesse du jeu ( "0" pour mettre en pause, "1" à "5" pour la vitesse)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21741,6 +21781,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200606T144437Z" creationid="Olivier" creationdate="20200606T144437Z">
         <seg>Il est plus difficile pour les acteurs et les sociétés d'IA de  #lever des fonds # lors de l'introduction en bourse, en émettant de nouvelles actions et obligations, car l'offre  #d'argent des investisseurs publics# est limitée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is now looking for a buyer.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T153856Z" creationid="Olivier" creationdate="20201203T110902Z">
+        <seg>L'entreprise est à la recherche d'un repreneur.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -30657,6 +30705,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Randomly Disable Product Classes=0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T110626Z" creationid="Olivier" creationdate="20201203T110626Z">
+        <seg>Randomly Disable Product Classes=0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Randomly disable product classes</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T161033Z" creationid="Inrepublica" creationdate="20200422T161033Z">
@@ -31285,6 +31341,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T162114Z" creationid="Inrepublica" creationdate="20200422T162114Z">
         <seg>Etages des magasins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Retail Store Floors=Multiple</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T110510Z" creationid="Olivier" creationdate="20201203T110510Z">
+        <seg>Retail Store Floors=Multiple</seg>
       </tuv>
     </tu>
     <tu>
@@ -32853,6 +32917,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T153704Z" creationid="Olivier" creationdate="20200507T153619Z">
         <seg>Mettre en place une nouvelle production dans la ferme actuelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Set up a new production for this firm (hotkey: A)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T110718Z" creationid="Olivier" creationdate="20201203T110718Z">
+        <seg>Mettre en place une nouvelle production pour cette entreprise (touche de raccourci : A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -36353,6 +36425,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The goal has been achieved.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T110743Z" creationid="Olivier" creationdate="20201203T110743Z">
+        <seg>L'objectif a été achevé.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The government announced that the currency will be revalued at a ratio of 1 to 100.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200511T172547Z" creationid="Olivier" creationdate="20200511T172547Z">
@@ -38467,8 +38547,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>This product uses Noto fonts from Google.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T120847Z" creationid="Olivier" creationdate="20200428T120614Z">
-        <seg>This product uses Noto fonts from Google.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T105844Z" creationid="Olivier" creationdate="20200428T120614Z">
+        <seg>Ce produit utilise la police Noto de Google</seg>
       </tuv>
     </tu>
     <tu>
@@ -42125,6 +42205,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T203443Z" creationid="Inrepublica" creationdate="20200422T203443Z">
         <seg>Sur faible, vous pouvez vous attendre à ce que la plupart des produits bénéficient de marges bénéficiaires saines et que les entreprises soient en général plus rentables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When this setting is enabled, when a company is facing bankruptcy, you will be given the option to rescue it by acquiring all the shares of the company.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T110702Z" creationid="Olivier" creationdate="20201203T110702Z">
+        <seg>Lorsque ce paramètre est activé, lorsqu'une entreprise est confrontée à la faillite, vous avez la possibilité de la sauver en acquérant toutes les actions de l'entreprise.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49282,8 +49370,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>[0894]&lt;0106&gt;(Tech unknown to you)|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T145534Z" creationid="Olivier" creationdate="20200429T145534Z">
-        <seg>[0894]&lt;0106&gt;(Une technologie qui vous est inconnue)|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T154829Z" creationid="Olivier" creationdate="20200429T145534Z">
+        <seg>[0894]&lt;0106&gt;(Cette technologies vous est inconnue)|</seg>
       </tuv>
     </tu>
     <tu>
@@ -51986,24 +52074,24 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>[1353]&lt;0418&gt;Corporate Balance Sheet|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T140203Z" creationid="Olivier" creationdate="20200509T140203Z">
-        <seg>[1353]&lt;0418&gt;Bilan financier de l'entreprise|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T141240Z" creationid="Olivier" creationdate="20200509T140203Z">
+        <seg>[1353]&lt;0418&gt;Bilan financier de la firme|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1354]&lt;0419&gt;Corporate Income Statement|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T140219Z" creationid="Olivier" creationdate="20200509T140219Z">
-        <seg>[1354]&lt;0419&gt;Compte de résultat de la société|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T141228Z" creationid="Olivier" creationdate="20200509T140219Z">
+        <seg>[1354]&lt;0419&gt;Compte de résultat de la firme|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[1355]&lt;0420&gt;Firm Income Statement|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T140232Z" creationid="Olivier" creationdate="20200509T140232Z">
-        <seg>[1355]&lt;0420&gt;Compte de résultat de l'entreprise|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T141249Z" creationid="Olivier" creationdate="20200509T140232Z">
+        <seg>[1355]&lt;0420&gt;Compte de résultat de la firme|</seg>
       </tuv>
     </tu>
     <tu>
@@ -54578,8 +54666,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>[1967]&lt;0916&gt;Concern|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T085153Z" creationid="Olivier" creationdate="20200510T085147Z">
-        <seg>[1967]&lt;0916&gt;Préoccupations|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T140852Z" creationid="Olivier" creationdate="20200510T085147Z">
+        <seg>[1967]&lt;0916&gt;Attentions|</seg>
       </tuv>
     </tu>
     <tu>
@@ -55378,8 +55466,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>[2128]&lt;1049&gt; MERGER|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T233952Z" creationid="Olivier" creationdate="20200510T093733Z">
-        <seg>[2128]&lt;1049&gt;FUSIONNER|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T135434Z" creationid="Olivier" creationdate="20200510T093733Z">
+        <seg>[2128]&lt;1049&gt;FUSION|</seg>
       </tuv>
     </tu>
     <tu>
@@ -55946,8 +56034,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>[2211]&lt;1132&gt;MERGER!</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200510T161837Z" creationid="Olivier" creationdate="20200510T161837Z">
-        <seg>[2211]&lt;1132&gt;FUSIONNER !</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T135501Z" creationid="Olivier" creationdate="20200510T161837Z">
+        <seg>[2211]&lt;1132&gt;FUSION !</seg>
       </tuv>
     </tu>
     <tu>
@@ -56082,8 +56170,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>[2237]&lt;1158&gt;'s R&amp;D Center Announce Invention.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200525T115942Z" creationid="Olivier" creationdate="20200510T162335Z">
-        <seg>[2237]&lt;1158&gt;centre de R&amp;D annoncent une invention.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T150611Z" creationid="Olivier" creationdate="20200510T162335Z">
+        <seg>[2237]&lt;1158&gt; centre de R&amp;D annoncent une invention.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60890,8 +60978,16 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>[2925]&lt;TGW1&gt;Congratulations!</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T135832Z" creationid="Olivier" creationdate="20200512T135832Z">
-        <seg>[2925]&lt;TGW1&gt;Félicitations !!</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T110745Z" creationid="Olivier" creationdate="20200512T135832Z">
+        <seg>[2925]&lt;TGW1&gt;Félicitations !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2926]&lt;TGW2&gt;Congratulations!|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T110756Z" creationid="Olivier" creationdate="20201203T110756Z">
+        <seg>[2926]&lt;TGW2&gt;Félicitations !|</seg>
       </tuv>
     </tu>
     <tu>
@@ -61706,16 +61802,16 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>[3024]&lt;BOC6&gt;Transfer funds from your subsidiary company to the bank.|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T145432Z" creationid="Olivier" creationdate="20200512T145432Z">
-        <seg>[3024]&lt;BOC6&gt;Transférer des fonds de votre filiale à la banque..|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T134128Z" creationid="Olivier" creationdate="20200512T145432Z">
+        <seg>[3024]&lt;BOC6&gt;Transférer des fonds de votre filiale à la banque.|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[3025]&lt;BOC7&gt;Raise funds from your subsidiary company|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T145444Z" creationid="Olivier" creationdate="20200512T145444Z">
-        <seg>[3025]&lt;BOC7&gt;Collectez des fonds auprès de votre filiale|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T134135Z" creationid="Olivier" creationdate="20200512T145444Z">
+        <seg>[3025]&lt;BOC7&gt;Collectez des fonds auprès de votre filiale.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -62322,8 +62418,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>[3097]&lt;VCLF&gt;VIEW / CLOSE DOWN FIRMS|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T152146Z" creationid="Olivier" creationdate="20200512T152146Z">
-        <seg>[3097]&lt;VCLF&gt;VOIR / FERMER DES ÉTABLISSEMENTS|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T134317Z" creationid="Olivier" creationdate="20200512T152146Z">
+        <seg>[3097]&lt;VCLF&gt;VOIR / FERMER DES FIRMES|</seg>
       </tuv>
     </tu>
     <tu>
@@ -63906,8 +64002,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>[3284]&lt;CDR2&gt;Products that are currently in production are shown with orange bars.|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T222201Z" creationid="Olivier" creationdate="20200825T222201Z">
-        <seg>[3284]&lt;CDR2&gt;Les produits qui sont actuellement en production sont indiqués par des barres orange.|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T143851Z" creationid="Olivier" creationdate="20200825T222201Z">
+        <seg>[3284]&lt;CDR2&gt;Les produits actuellement en production sont indiqués par des barres orange.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -64316,6 +64412,70 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20201020T134058Z" creationid="Olivier" creationdate="20201020T134058Z">
         <seg>[3333]&lt;CBR2&gt;Sous la pression, le maire %1s démissionne de son poste.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3334]&lt;ABC1&gt;Acquire a Company Near Bankruptcy|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T110819Z" creationid="Olivier" creationdate="20201203T110819Z">
+        <seg>[3334]&lt;ABC1&gt;Acquérir une entreprise au bord de la faillite|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3335]&lt;ABC2&gt;is on the brink of bankruptcy.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T110839Z" creationid="Olivier" creationdate="20201203T110839Z">
+        <seg>[3335]&lt;ABC2&gt;est au bord de la faillite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3336]&lt;ABC3&gt;Would you be interested in acquiring it?|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T153936Z" creationid="Olivier" creationdate="20201203T110914Z">
+        <seg>[3336]&lt;ABC3&gt;Voulez-vous l'acquérir ?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3337]&lt;ABC4&gt;If you are interested, the game will be paused, allowing you to take the time to evaluate the company.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T110932Z" creationid="Olivier" creationdate="20201203T110932Z">
+        <seg>[3337]&lt;ABC4&gt;Si vous êtes intéressé, le jeu sera mis en pause, ce qui vous permettra de prendre le temps d'évaluer l'entreprise.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3338]&lt;ABC5&gt;Near Bankruptcy|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T110946Z" creationid="Olivier" creationdate="20201203T110946Z">
+        <seg>[3338]&lt;ABC5&gt;Proche de la banqueroute|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3339]&lt;ABC6&gt;acquires the company|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T110957Z" creationid="Olivier" creationdate="20201203T110957Z">
+        <seg>[3339]&lt;ABC6&gt;acquérir l'entreprise|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3340]&lt;ABC7&gt;rescuing it from bankruptcy.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T111013Z" creationid="Olivier" creationdate="20201203T111013Z">
+        <seg>[3340]&lt;ABC7&gt;la sauver de la faillite.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3341]&lt;SNAM&gt;To locate a specific item, type the first letter of its name.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T111032Z" creationid="Olivier" creationdate="20201203T111032Z">
+        <seg>[3341]&lt;SNAM&gt;Pour localiser un article spécifique, tapez la première lettre de son nom.|</seg>
       </tuv>
     </tu>
     <tu>
