@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_2950a4bc" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -66208,17 +66208,6 @@ At the initial setting, a bank lends money evenly to borrowers of different cred
     </tu>
 <!-- Alternative translations -->
     <tu>
-      <prop type="file">t_game.txt</prop>
-      <prop type="prev">[1651]&lt;0655&gt;Month|</prop>
-      <prop type="next">[1653]&lt;0657&gt; year|</prop>
-      <tuv lang="en-US">
-        <seg>[1652]&lt;0656&gt;Mansion|</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T171141Z" creationid="Inrepublica" creationdate="20200423T171004Z">
-        <seg>[1652]&lt;0656&gt;Manoir|</seg>
-      </tuv>
-    </tu>
-    <tu>
       <prop type="file">scenario/Dilemma_of_a_Camera_Manufacturer.txt</prop>
       <prop type="prev">Description=With over twenty of years of experience in producing world-class photography equipment under your belt, you have earned the trust of a group of investors for funding your startup.</prop>
       <prop type="next">Difficulty Rating=120</prop>
@@ -66227,6 +66216,17 @@ At the initial setting, a bank lends money evenly to borrowers of different cred
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T171302Z" creationid="Olivier" creationdate="20200429T171302Z">
         <seg>^^Tandis que les appareils photo argentiques traditionnels dominent encore le marché pour le moment, le développement de la technologie de la photographie numérique a pris de l'ampleur.^^Vous y voyez une grande opportunité, mais il faut investir à long terme dans la recherche et le développement avant de pouvoir réaliser des produits commerciaux.^^Devriez-vous y consacrer vos ressources dès le départ ou commencer par les appareils photo argentiques traditionnels et passer ensuite aux appareils numériques pour une conduite plus souple ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">t_game.txt</prop>
+      <prop type="prev">[1651]&lt;0655&gt;Month|</prop>
+      <prop type="next">[1653]&lt;0657&gt; year|</prop>
+      <tuv lang="en-US">
+        <seg>[1652]&lt;0656&gt;Mansion|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T171141Z" creationid="Inrepublica" creationdate="20200423T171004Z">
+        <seg>[1652]&lt;0656&gt;Manoir|</seg>
       </tuv>
     </tu>
   </body>
