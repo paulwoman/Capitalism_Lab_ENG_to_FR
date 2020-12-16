@@ -297,7 +297,7 @@ Here it shows the ~purchasing cost~ of the product and its ~freight cost~.
 
 [POS]
 Text Box=500,100,250,0
-Pointer=193,280,380,300
+Pointer=193,280,303,350
 Next Arrow=Yes
 
 //-------------------------------------------------------------------//
@@ -307,7 +307,7 @@ Here it shows the product's ~quality~ and ~brand levels~. The greater the qualit
 
 [POS]
 Text Box=400,12,250,0
-Pointer=193,300,380,330
+Pointer=320,284,408,344
 Next Arrow=Yes
 
 //-------------------------------------------------------------------//
