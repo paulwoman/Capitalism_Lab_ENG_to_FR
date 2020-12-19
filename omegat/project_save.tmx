@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1826,6 +1826,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200831T090208Z" creationid="Olivier" creationdate="20200831T090208Z">
         <seg>//Compagnie Privée=&lt;Yes, No&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>//Randomly Disable Product Classes=&lt;0-90&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201219T113402Z" creationid="Olivier" creationdate="20201219T113402Z">
+        <seg>//Désactiver aléatoirement une classe de produits=&lt;0-90&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28537,6 +28545,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pointer=193,280,303,350</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201219T113322Z" creationid="Olivier" creationdate="20201219T113322Z">
+        <seg>Pointer=193,280,303,350</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pointer=193,280,380,300</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200424T121316Z" creationid="Inrepublica" creationdate="20200424T121316Z">
@@ -28749,6 +28765,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T092042Z" creationid="Olivier" creationdate="20200424T092042Z">
         <seg>Pointer=318,334,398,350</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pointer=320,284,408,344</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201219T113326Z" creationid="Olivier" creationdate="20201219T113326Z">
+        <seg>Pointer=320,284,408,344</seg>
       </tuv>
     </tu>
     <tu>
