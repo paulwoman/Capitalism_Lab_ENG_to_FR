@@ -1902,6 +1902,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>//When this is set, the system will randomly disable a specific percentage of product classes in the new game.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201220T090910Z" creationid="Olivier" creationdate="20201220T090910Z">
+        <seg>//Lorsque ce paramètre est défini, le système désactive de manière aléatoire un pourcentage spécifique de classes de produits dans le nouveau jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>//With the same training expenditure, your staff¡¯s experience level will increase two times as fast.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T095314Z" creationid="Olivier" creationdate="20200710T095314Z">
