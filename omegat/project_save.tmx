@@ -1918,6 +1918,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>//When this is set, the system will randomly lock a specific percentage of product classes in the new game and require the player to “reinvent” them in R&amp;D centers.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201225T160356Z" creationid="Olivier" creationdate="20201225T160356Z">
+        <seg>//Lorsque ce paramètre est défini, le système verrouille aléatoirement un pourcentage spécifique de classes de produits dans le nouveau jeu et oblige le joueur à les "réinventer" dans des centres de R&amp;D.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>//With the same training expenditure, your staff¡¯s experience level will increase two times as fast.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T095314Z" creationid="Olivier" creationdate="20200710T095314Z">
