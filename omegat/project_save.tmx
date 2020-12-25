@@ -1830,6 +1830,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>//Random Product Reinvention=&lt;0-100&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201225T155743Z" creationid="Olivier" creationdate="20201225T155743Z">
+        <seg>//Réinvention alléatoire du produit:&lt;0-100&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>//Randomly Disable Product Classes=&lt;0-90&gt;</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20201219T113402Z" creationid="Olivier" creationdate="20201219T113402Z">
@@ -30717,6 +30725,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T162812Z" creationid="Inrepublica" creationdate="20200422T162812Z">
         <seg>Réinvention aléatoire des produits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Random Product Reinvention=0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201225T155719Z" creationid="Olivier" creationdate="20201225T155719Z">
+        <seg>Random Product Reinvention=0</seg>
       </tuv>
     </tu>
     <tu>
