@@ -926,14 +926,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>// Constant Import Supply=&lt;Yes,No&gt;</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151357Z" creationid="Inrepublica" creationdate="20200423T151357Z">
-        <seg>// Constant Import Supply=&lt;Yes,No&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>// Consumer Goods Seaports per City=&lt;0-4&gt;</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151350Z" creationid="Inrepublica" creationdate="20200423T151350Z">
@@ -1070,14 +1062,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>// Import Quality=&lt;Low,Moderate,High&gt;</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151401Z" creationid="Inrepublica" creationdate="20200423T151401Z">
-        <seg>// Import Quality=&lt;Low,Moderate,High&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>// In the current example, the player has to first achieve the "First Subgoal" before the "Second Subgoal" will become available.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T224311Z" creationid="Olivier" creationdate="20200430T224311Z">
@@ -1090,14 +1074,6 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T223640Z" creationid="Olivier" creationdate="20200430T223640Z">
         <seg>// Dans l'exemple actuel, nous avons fixé la date limite pour atteindre cet objectif.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>// Industrial Goods Seaports per City=&lt;0-4&gt;</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151352Z" creationid="Inrepublica" creationdate="20200423T151352Z">
-        <seg>// Industrial Goods Seaports per City=&lt;0-4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1186,14 +1162,6 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T223409Z" creationid="Olivier" creationdate="20200430T223409Z">
         <seg>// Veuillez noter que cela ne s'applique qu'aux concurrents de l'IA ayant une stratégie commerciale diversifiée.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>// Please note that you may create a game up with no seaport using a game script.</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151353Z" creationid="Inrepublica" creationdate="20200423T151353Z">
-        <seg>// Please note that you may create a game up with no seaport using a game script.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1546,14 +1514,6 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T075605Z" creationid="Olivier" creationdate="20200430T222246Z">
         <seg>// qu'une partie classique</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>// this should only be used if you intend to create a game scenario with such characteristics.</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151355Z" creationid="Inrepublica" creationdate="20200423T151355Z">
-        <seg>// this should only be used if you intend to create a game scenario with such characteristics.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6662,14 +6622,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>But the AI companies¡¯ performances will suffer and</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151354Z" creationid="Inrepublica" creationdate="20200423T151354Z">
-        <seg>But the AI companies¡¯ performances will suffer and</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>But unlike other functional units you have added before, the units in HQ need not to be linked to each other, as each unit represents a department that operates independently.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T134359Z" creationid="Olivier" creationdate="20200427T134359Z">
@@ -11634,6 +11586,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T094205Z" creationid="Olivier" creationdate="20200710T094205Z">
         <seg>Description=Ceci est un exemple de script pour Capitalism Lab, listant toutes les variables sous la section [COMPÉTENCE DU JOUEUR].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=This is a sample script for Capitalism Lab, listing all variables under the [PRODUCTS] section.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201225T160746Z" creationid="Olivier" creationdate="20201225T160746Z">
+        <seg>Description=Voici un exemple de script pour Capitalism Lab, listant toutes les variables de la section [PRODUITS].</seg>
       </tuv>
     </tu>
     <tu>
@@ -30757,14 +30717,6 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150844Z" creationid="Inrepublica" creationdate="20200425T150844Z">
         <seg>Randomize|</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Randomly Disable Product Classes=0</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20201203T110626Z" creationid="Olivier" creationdate="20201203T110626Z">
-        <seg>Randomly Disable Product Classes=0</seg>
       </tuv>
     </tu>
     <tu>
