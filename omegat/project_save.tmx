@@ -926,6 +926,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// Constant Import Supply=&lt;Yes,No&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201231T171311Z" creationid="Olivier" creationdate="20201231T171311Z">
+        <seg>// Offre constante d'importations=&lt;Yes,No&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// Consumer Goods Seaports per City=&lt;0-4&gt;</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151350Z" creationid="Inrepublica" creationdate="20200423T151350Z">
@@ -1078,6 +1086,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// Industrial Goods Seaports per City=&lt;0-4&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201231T170233Z" creationid="Olivier" creationdate="20201231T170233Z">
+        <seg>// Ports maritimes de marchandises industrielles par ville=&lt;0-4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// Inflation Strength=&lt;Normal, Reduced&gt;</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T075448Z" creationid="Olivier" creationdate="20200430T222146Z">
@@ -1162,6 +1178,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T223409Z" creationid="Olivier" creationdate="20200430T223409Z">
         <seg>// Veuillez noter que cela ne s'applique qu'aux concurrents de l'IA ayant une stratégie commerciale diversifiée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// Please note that you may create a game up with no seaport using a game script.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201231T170355Z" creationid="Olivier" creationdate="20201231T170355Z">
+        <seg>// Veuillez noter que vous pouvez créer un jeu sans port maritime en utilisant un script de jeu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10216,7 +10240,7 @@
       <tuv lang="en-US">
         <seg>Constant Import Supply=Yes</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151356Z" creationid="Inrepublica" creationdate="20200423T151356Z">
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201231T171245Z" creationid="Olivier" creationdate="20201231T171245Z">
         <seg>Constant Import Supply=Yes</seg>
       </tuv>
     </tu>
@@ -10366,6 +10390,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Contest Deadline=2021-12-31</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201231T165944Z" creationid="Olivier" creationdate="20201231T165944Z">
+        <seg>Contest Deadline=2021-12-31</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Contest Started On=2020-03-16</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T145711Z" creationid="Olivier" creationdate="20200426T145711Z">
@@ -10426,6 +10458,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200915T123552Z" creationid="Olivier" creationdate="20200915T123552Z">
         <seg>Contest Started On=2020-09-15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contest Started On=2021-01-01</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201231T165941Z" creationid="Olivier" creationdate="20201231T165941Z">
+        <seg>Contest Started On=2021-01-01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contest Started On=2021-01-02</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201231T170137Z" creationid="Olivier" creationdate="20201231T170137Z">
+        <seg>Contest Started On=2021-01-02</seg>
       </tuv>
     </tu>
     <tu>
@@ -20395,8 +20443,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>If you want Capitalism Lab to play custom music files that you designate instead of the original game music,</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200905T172454Z" creationid="Olivier" creationdate="20200827T124334Z">
-        <seg>rSi vous voulez que Capitalism Lab joue des fichiers musicaux personnalisés que vous désignez à la place de la musique de jeu originale,</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201231T170315Z" creationid="Olivier" creationdate="20200827T124334Z">
+        <seg>Si vous voulez que Capitalism Lab joue des fichiers musicaux personnalisés que vous désignez à la place de la musique de jeu originale,</seg>
       </tuv>
     </tu>
     <tu>
@@ -20637,6 +20685,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200424T204452Z" creationid="Acer" creationdate="20200424T204452Z">
         <seg>Dans les tutoriels précédents, vous avez déjà vu comment obtenir des liquidités en contractant un prêt. Cette fois, vous utiliserez les attentes des investisseurs pour réunir l'argent dont vous avez tant besoin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the "Wallpaper" folder under the game folder, you may set custom wallpaper images</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201231T171549Z" creationid="Olivier" creationdate="20201231T171549Z">
+        <seg>Dans le dossier "Wallpaper" situé sous le dossier du jeu, vous pouvez définir des images de fond d'écran personnalisées</seg>
       </tuv>
     </tu>
     <tu>
@@ -41301,6 +41357,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T165043Z" creationid="Olivier" creationdate="20200503T165043Z">
         <seg>Utilisez cet outil pour assigner des parcelles de terrain sélectionnées à des zones résidentielles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>User-defined wallpaper images for the main menu screen.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201231T171533Z" creationid="Olivier" creationdate="20201231T171533Z">
+        <seg>Images de fond d'écran définies par l'utilisateur pour l'écran du menu principal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65714,6 +65778,22 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>font=Noto.otf</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201231T170206Z" creationid="Olivier" creationdate="20201231T170206Z">
+        <seg>font=Noto.otf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>for different screen modes of the game.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201231T172340Z" creationid="Olivier" creationdate="20201231T171602Z">
+        <seg>pour les différentes définitions du jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>http://www.apache.org/licenses/</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T120853Z" creationid="Olivier" creationdate="20200428T120853Z">
@@ -65910,6 +65990,102 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T115516Z" creationid="Olivier" creationdate="20200429T115516Z">
         <seg>retour</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>wp1024.jpg - wallpaper file for 1280x1024 screen mode</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201231T172340Z" creationid="Olivier" creationdate="20201231T171836Z">
+        <seg>wp1024.jpg - Fichier de fond d'écran pour la définition 1280x1024</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>wp1080.jpg - wallpaper file for 1920x1080 screen mode</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201231T172340Z" creationid="Olivier" creationdate="20201231T171845Z">
+        <seg>wp1080.jpg - fichier de fond d'écran pour la définition 1920x1080</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>wp1200.jpg - wallpaper file for 1600x1200 screen mode</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201231T172340Z" creationid="Olivier" creationdate="20201231T171854Z">
+        <seg>wp1200.jpg - Fichier de fond d'écran pour la définition 1600x1200</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>wp1440.jpg - wallpaper file for 2560x1440 screen mode</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201231T172340Z" creationid="Olivier" creationdate="20201231T171903Z">
+        <seg>wp1440.jpg - Fichier de fond d'écran pour la définition 2560x1440</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>wp2160.jpg - wallpaper file for 3840x2160 screen mode</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201231T172340Z" creationid="Olivier" creationdate="20201231T171917Z">
+        <seg>wp2160.jpg - Fichier de fond d'écran pour la définition 3840x2160</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>wp768.jpg - wallpaper file for 1024x768 screen mode</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201231T172340Z" creationid="Olivier" creationdate="20201231T171707Z">
+        <seg>wp768.jpg - Fichier de fond d'écran pour la définition 1024x768</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>wp768B.jpg - wallpaper file for 1366x768 screen mode</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201231T172340Z" creationid="Olivier" creationdate="20201231T171716Z">
+        <seg>wp768B.jpg - fichier de fond d'écran pour la définition 1366x768</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>wp864.jpg - wallpaper file for 1536x864 screen mode</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201231T172340Z" creationid="Olivier" creationdate="20201231T171727Z">
+        <seg>wp864.jpg - Fichier de fond d'écran pour la définition 1536x864</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>wp900.jpg - wallpaper file for 1200x900 screen mode</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201231T172340Z" creationid="Olivier" creationdate="20201231T171743Z">
+        <seg>wp900.jpg - fichier de fond d'écran pour la définition 1200x900</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>wp900A.jpg - wallpaper file for 1440x900 screen mode</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201231T172340Z" creationid="Olivier" creationdate="20201231T171753Z">
+        <seg>wp900A.jpg - Fichier de fond d'écran pour la définition 1440x900</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>wp900B.jpg - wallpaper file for 1600x900 screen mode</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201231T172340Z" creationid="Olivier" creationdate="20201231T171806Z">
+        <seg>wp900B.jpg - Fichier de fond d'écran pour la définition</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>wp960.jpg - wallpaper file for 1280x960 screen mode</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201231T172340Z" creationid="Olivier" creationdate="20201231T171824Z">
+        <seg>wp960.jpg - fichier de fond d'écran pour la définition 1280x960</seg>
       </tuv>
     </tu>
     <tu>
