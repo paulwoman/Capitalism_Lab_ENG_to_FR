@@ -926,6 +926,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// Constant Import Supply=&lt;Yes,No&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201231T171311Z" creationid="Olivier" creationdate="20201231T171311Z">
+        <seg>// Offre constante d'importations=&lt;Yes,No&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// Consumer Goods Seaports per City=&lt;0-4&gt;</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151350Z" creationid="Inrepublica" creationdate="20200423T151350Z">
@@ -6638,14 +6646,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>But the AI companies¡¯ performances will suffer and</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20201231T171159Z" creationid="Olivier" creationdate="20201231T171159Z">
-        <seg>But the AI companies¡¯ performances will suffer and</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>But unlike other functional units you have added before, the units in HQ need not to be linked to each other, as each unit represents a department that operates independently.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T134359Z" creationid="Olivier" creationdate="20200427T134359Z">
@@ -10240,7 +10240,7 @@
       <tuv lang="en-US">
         <seg>Constant Import Supply=Yes</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151356Z" creationid="Inrepublica" creationdate="20200423T151356Z">
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201231T171245Z" creationid="Olivier" creationdate="20201231T171245Z">
         <seg>Constant Import Supply=Yes</seg>
       </tuv>
     </tu>
@@ -41349,6 +41349,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T165043Z" creationid="Olivier" creationdate="20200503T165043Z">
         <seg>Utilisez cet outil pour assigner des parcelles de terrain sélectionnées à des zones résidentielles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>User-defined wallpaper images for the main menu screen.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201231T171533Z" creationid="Olivier" creationdate="20201231T171533Z">
+        <seg>Images de fond d'écran définies par l'utilisateur pour l'écran du menu principal.</seg>
       </tuv>
     </tu>
     <tu>
