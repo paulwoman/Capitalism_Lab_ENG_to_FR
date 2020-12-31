@@ -1736,8 +1736,8 @@
 [2922]<ELE5>(Press the '!' shortcut key to open the Political Party screen.)|
 [2923]<TGD1>Grow the city of|
 [2924]<TGD2>and improve the quality of life of its citizens.|
-[2925]<TGW1>Congratulations! You have done an excellent job as the mayor of|
-[2926]<TGW2>and achieved the goals. Keep up the good work and try to achieve even higher goals.|
+[2925]<TGW1>Congratulations! The goal has been achieved.|
+[2926]<TGW2>Congratulations!|
 [2927]<TGT1>City Goal:|
 [2928]<TGT2>Town Goal:|
 [2929]<TGT3>Village Goal:|
@@ -2145,3 +2145,11 @@
 [3331]<DEXP>The game data has been exported to|
 [3332]<CBR1>The city government of %1s declares bankruptcy.|
 [3333]<CBR2>Under pressure, mayor %1s resigns from the office.|
+[3334]<ABC1>Acquire a Company Near Bankruptcy|
+[3335]<ABC2>is on the brink of bankruptcy. It is now looking for a buyer.|
+[3336]<ABC3>Would you be interested in acquiring it?|
+[3337]<ABC4>If you are interested, the game will be paused, allowing you to take the time to evaluate the company.|
+[3338]<ABC5>Near Bankruptcy|
+[3339]<ABC6>acquires the company|
+[3340]<ABC7>rescuing it from bankruptcy.|
+[3341]<SNAM>To locate a specific item, type the first letter of its name.|

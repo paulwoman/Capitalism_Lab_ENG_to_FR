@@ -430,3 +430,7 @@ RMONEYS0
 Realistic Money Supply 
 This option can only be used in conjuction with #City Economic Simulation DLC#. When it is enabled, money supply is more realistically simulated. It will be more difficult for player and AI companies to raise funds from IPO, issuing new shares and bonds.
 ~
+ACQBANKR
+Acquire Companies Facing Bankruptcy
+When this setting is enabled, when a company is facing bankruptcy, you will be given the option to rescue it by acquiring all the shares of the company.
+~

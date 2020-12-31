@@ -1,8 +1,8 @@
 [HEADER]
-Title=Sample script - Imports 
-Description=This is a sample script for Capitalism Lab, listing all variables under the [IMPORTS] section. 
+Title=Sample script - Products 
+Description=This is a sample script for Capitalism Lab, listing all variables under the [PRODUCTS] section. 
 
-[IMPORTS]
+[PRODUCTS]
 Consumer Goods Seaports=2
 // Consumer Goods Seaports per City=<0-4>
 
@@ -30,6 +30,7 @@ Add Seaport Product=Steel
 //Add Seaport Product=<Product Type>
 //The above line assigns a specific product to a seaport. Note that the seaport to be assigned with the products is always the seaport located in the first city of the game.
 
+
 //----- The following settings are only available when the Subsidiary DLC or the Digital Age DLC is enabled. -----//
 
 Product Customization=On
@@ -41,3 +42,13 @@ Product Customization Range=Moderate
 //Low – product customization applies to your company only
 //Medium – it applies to your company and your subsidiaries
 //High – it applies to all companies. 
+
+
+//----- You may use the following syntax to disable specific product classes in the game: ------------//
+
+// Example: 
+[DISABLED PRODUCTS]
+Apparel
+Beverage
+Drugs
+Leather Goods
