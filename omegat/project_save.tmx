@@ -1174,6 +1174,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// Please note that you may create a game up with no seaport using a game script.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201231T170355Z" creationid="Olivier" creationdate="20201231T170355Z">
+        <seg>// Veuillez noter que vous pouvez créer un jeu sans port maritime en utilisant un script de jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// Product Expertise=&lt;Product Class&gt;, &lt;Expertise Rating, which ranges from 0 to 100&gt;</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T094424Z" creationid="Olivier" creationdate="20200710T094315Z">
@@ -20427,8 +20435,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>If you want Capitalism Lab to play custom music files that you designate instead of the original game music,</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200905T172454Z" creationid="Olivier" creationdate="20200827T124334Z">
-        <seg>rSi vous voulez que Capitalism Lab joue des fichiers musicaux personnalisés que vous désignez à la place de la musique de jeu originale,</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201231T170315Z" creationid="Olivier" creationdate="20200827T124334Z">
+        <seg>Si vous voulez que Capitalism Lab joue des fichiers musicaux personnalisés que vous désignez à la place de la musique de jeu originale,</seg>
       </tuv>
     </tu>
     <tu>
