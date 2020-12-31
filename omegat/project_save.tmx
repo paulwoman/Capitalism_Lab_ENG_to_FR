@@ -20689,6 +20689,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In the "Wallpaper" folder under the game folder, you may set custom wallpaper images</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201231T171549Z" creationid="Olivier" creationdate="20201231T171549Z">
+        <seg>Dans le dossier "Wallpaper" situé sous le dossier du jeu, vous pouvez définir des images de fond d'écran personnalisées</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the game, each player is given an ability to create one IP from scratch.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T161234Z" creationid="Olivier" creationdate="20200506T161234Z">
@@ -65778,6 +65786,14 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>for different screen modes of the game.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201231T171602Z" creationid="Olivier" creationdate="20201231T171602Z">
+        <seg>pour les différents modes d'écran du jeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>http://www.apache.org/licenses/</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T120853Z" creationid="Olivier" creationdate="20200428T120853Z">
@@ -65974,6 +65990,54 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T115516Z" creationid="Olivier" creationdate="20200429T115516Z">
         <seg>retour</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>wp768.jpg - wallpaper file for 1024x768 screen mode</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201231T171707Z" creationid="Olivier" creationdate="20201231T171707Z">
+        <seg>wp768.jpg - Fichier de fond d'écran pour le mode écran 1024x768</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>wp768B.jpg - wallpaper file for 1366x768 screen mode</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201231T171716Z" creationid="Olivier" creationdate="20201231T171716Z">
+        <seg>wp768B.jpg - fichier de fond d'écran pour le mode écran 1366x768</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>wp864.jpg - wallpaper file for 1536x864 screen mode</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201231T171727Z" creationid="Olivier" creationdate="20201231T171727Z">
+        <seg>wp864.jpg - Fichier de fond d'écran pour le mode 1536x864</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>wp900.jpg - wallpaper file for 1200x900 screen mode</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201231T171743Z" creationid="Olivier" creationdate="20201231T171743Z">
+        <seg>wp900.jpg - fichier de fond d'écran pour le mode écran 1200x900</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>wp900A.jpg - wallpaper file for 1440x900 screen mode</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201231T171753Z" creationid="Olivier" creationdate="20201231T171753Z">
+        <seg>wp900A.jpg - Fichier de fond d'écran pour le mode 1440x900</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>wp900B.jpg - wallpaper file for 1600x900 screen mode</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20201231T171806Z" creationid="Olivier" creationdate="20201231T171806Z">
+        <seg>wp900B.jpg - Fichier de fond d'écran pour le mode 1600x900</seg>
       </tuv>
     </tu>
     <tu>
