@@ -167,21 +167,21 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Now let's check out the ~Necessity Index~ for ~Bath Lotion~.^^Click the ~Search Product~ button again and this time select ~Bath Lotion~.
+Now let's check out the ~Necessity Index~ for ~Body Lotion~.^^Click the ~Search Product~ button again and this time select ~Body Lotion~.
 
 [POS]
 Text Box=300,470,400,0
 Pointer=360,127,512,144
 
 [CONDITION]
-Interface Select=Product Details Report, Bath Lotion
+Interface Select=Product Details Report, Body Lotion
 
 
 
 //-------------------------------------------------------------------//
 
 [TEXT]
-The ~Necessity Index~ of ~Bath Lotion~ is 80% and it means that it is an everyday necessity item.^^Even if the economy is in a recession, people will still buy bath lotions. (Otherwise they'd all be smelly wouldn't they?)
+The ~Necessity Index~ of ~Body Lotion~ is 80% and it means that it is an everyday necessity item.^^Even if the economy is in a recession, people will still buy body lotions.
 
 [POS]
 Text Box=300,295,400,0
@@ -309,7 +309,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-The second strategy, ~Range brand strategy~ is similar to corporate branding but its coverage is limited to product classes.^^For example ~leather bags~ and ~leather briefcases~ fall into the ~leather goods~ product class.^^If you decided to sell ~leather briefcases~ and ~bath lotions~ to accompany the ~leather bags~ you already sell, you ~leather briefcases~ would immediately inherit the brand rating of your ~leather bags~ (~same product class~) but your ~bath lotions~ would not. 
+The second strategy, ~Range brand strategy~ is similar to corporate branding but its coverage is limited to product classes.^^For example ~leather bags~ and ~leather briefcases~ fall into the ~leather goods~ product class.^^If you decided to sell ~leather briefcases~ and ~body lotions~ to accompany the ~leather bags~ you already sell, you ~leather briefcases~ would immediately inherit the brand rating of your ~leather bags~ (~same product class~) but your ~body lotions~ would not. 
 
 [POS]
 Flex Text Box=300,280,400,0
