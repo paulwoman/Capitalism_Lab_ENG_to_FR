@@ -43033,6 +43033,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You cannot add more.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210305T102104Z" creationid="Olivier" creationdate="20210305T102104Z">
+        <seg>Vous ne pouvez pas en ajouter d'autres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You cannot build any more new ones.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T083139Z" creationid="Olivier" creationdate="20200507T083139Z">
@@ -64716,6 +64724,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20210305T102047Z" creationid="Olivier" creationdate="20210305T102047Z">
         <seg>[3350]&lt;HDMR&gt;Désolé, le nombre maximum de types de matériel pris en charge par un système d'exploitation a été atteint.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3351]&lt;NLOA&gt;Sorry, you cannot borrow a loan at the moment as no commercial banks have been set up yet.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210305T102429Z" creationid="Olivier" creationdate="20210305T102429Z">
+        <seg>[3351]&lt;NLOA&gt;Désolé, vous ne pouvez pas emprunter pour le moment car aucune banque commerciale n'a encore été créée.|</seg>
       </tuv>
     </tu>
     <tu>
