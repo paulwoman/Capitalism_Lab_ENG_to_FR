@@ -3694,6 +3694,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>AVGRENT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210305T100710Z" creationid="Olivier" creationdate="20210305T100710Z">
+        <seg>AVGRENT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Abort|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T115459Z" creationid="Olivier" creationdate="20200429T115459Z">
@@ -4942,6 +4950,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Annual Rent Per Square Foot</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210305T100728Z" creationid="Olivier" creationdate="20210305T100728Z">
+        <seg>Rente annuel par pied au carré|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Annual limit on immigrants</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T145006Z" creationid="Olivier" creationdate="20200504T145006Z">
@@ -5210,6 +5226,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T153023Z" creationid="Inrepublica" creationdate="20200422T153023Z">
         <seg>En tant que telle, l'inflation sera supprimée artificiellement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As such, the #Annual Rent Per Square Foot# does not reflect the change you made to the rent immediately.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210305T100806Z" creationid="Olivier" creationdate="20210305T100806Z">
+        <seg>En tant que tel, le #Loyer annuel par pied carré# ne reflète pas la modification que vous avez apportée au loyer immédiatement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42365,6 +42389,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T120702Z" creationid="Olivier" creationdate="20200819T120702Z">
         <seg>Lorsque vous visualisez la #fenêtre détails de la firme# ou le #Centre d'information#, le jeu n'a #pas# besoin de mettre à jour les graphiques de la ville sous la fenêtre d'information.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you change the rent, the new rent only affects new tenants and existing tenants who renew their leases.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210305T100744Z" creationid="Olivier" creationdate="20210305T100744Z">
+        <seg>Lorsque vous modifiez le loyer, le nouveau loyer ne concerne que les nouveaux locataires et les locataires existants qui renouvellent leur bail.</seg>
       </tuv>
     </tu>
     <tu>
