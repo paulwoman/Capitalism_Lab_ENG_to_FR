@@ -12038,6 +12038,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Difficulty Rating=115</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210305T100022Z" creationid="Olivier" creationdate="20210305T100022Z">
+        <seg>Difficulty Rating=115</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Difficulty Rating=120</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200429T164755Z" creationid="Olivier" creationdate="20200429T164755Z">
@@ -13274,6 +13282,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150737Z" creationid="Olivier" creationdate="20200502T150737Z">
         <seg>Niveau d'expérience de l'unité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Experienced workers are denoted by stars.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210305T100059Z" creationid="Olivier" creationdate="20210305T100059Z">
+        <seg>Les travailleurs expérimentés sont indiqués par des étoiles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41949,6 +41965,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T143335Z" creationid="Olivier" creationdate="20200508T143335Z">
         <seg>Lorsqu'une entreprise utilise une seule marque collective pour tous ses produits, les produits nouvellement lancés bénéficieront de la marque collective existante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When all the workers in a functional unit have become experienced, the unit level will increase by one (training will speed this up).</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210305T100113Z" creationid="Olivier" creationdate="20210305T100113Z">
+        <seg>Lorsque tous les travailleurs d'une unité fonctionnelle auront acquis de l'expérience, le niveau de l'unité augmentera d'une unité (la formation accélérera ce processus).</seg>
       </tuv>
     </tu>
     <tu>
