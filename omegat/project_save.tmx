@@ -64784,6 +64784,54 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3357]&lt;ICTN&gt;Sorry, you cannot select this as it is not known to you yet.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210305T102801Z" creationid="Olivier" creationdate="20210305T102801Z">
+        <seg>[3357]&lt;ICTN&gt;Désolé, vous ne pouvez pas sélectionner cette option car vous ne la connaissez pas encore.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3358]&lt;ICOC&gt;Sorry, you cannot select this as it is owned by another company already.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210305T102814Z" creationid="Olivier" creationdate="20210305T102814Z">
+        <seg>[3358]&lt;ICOC&gt;Désolé, vous ne pouvez pas sélectionner cette option car elle est déjà détenue par une autre société.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3359]&lt;DEVN&gt;Sorry, you have not developed any software yet.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210305T102840Z" creationid="Olivier" creationdate="20210305T102836Z">
+        <seg>[3359]&lt;DEVN&gt;Désolé, vous n'avez pas encore développé de logiciel.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3360]&lt;NOSD&gt;Sorry, nobody has developed an operation system yet.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210305T102913Z" creationid="Olivier" creationdate="20210305T102913Z">
+        <seg>[3360]&lt;NOSD&gt;Désolé, personne n'a encore développé un système d'exploitation.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3361]&lt;NOFI&gt;Sorry, the company no longer owns any firms.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210305T102932Z" creationid="Olivier" creationdate="20210305T102932Z">
+        <seg>[3361]&lt;NOFI&gt;Désolé, la société ne possède plus aucune entreprise.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3362]&lt;LAY1&gt;Sorry, this factory layout plan cannot be saved because it contains a software product.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210305T103014Z" creationid="Olivier" creationdate="20210305T103014Z">
+        <seg>[3362]&lt;LAY1&gt;Désolé, ce plan d'implantation de l'usine ne peut être sauvegardé car il contient un logiciel.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202555Z" creationid="Inrepublica" creationdate="20200422T202555Z">
