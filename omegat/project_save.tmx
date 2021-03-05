@@ -64672,10 +64672,18 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>[3344]&lt;DIS2&gt;uses|</seg>
+        <seg>[3345]&lt;DLCN&gt;Sorry, this game requires %1s but you do not have this DLC yet.|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20210305T101425Z" creationid="Olivier" creationdate="20210305T101425Z">
-        <seg>[3344]&lt;DIS2&gt;uses|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210305T101530Z" creationid="Olivier" creationdate="20210305T101427Z">
+        <seg>[3345]&lt;DLCN&gt;Désolé, ce jeu nécessite %1s mais vous n'avez pas encore ce DLC.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3346]&lt;DMOD&gt;Sorry, the current MOD is not compatible with the Digital Age DLC.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210305T101606Z" creationid="Olivier" creationdate="20210305T101606Z">
+        <seg>[3346]&lt;DMOD&gt;Désolé, le MOD actuel n'est pas compatible avec le DLC ère numérique.</seg>
       </tuv>
     </tu>
     <tu>
