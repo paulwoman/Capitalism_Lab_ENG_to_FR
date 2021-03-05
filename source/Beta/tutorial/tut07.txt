@@ -1,0 +1,440 @@
+[TEXT]
+NIL 
+
+[ACTION]
+Hide=Preview
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+NIL 
+
+[ACTION]
+Add Seaport Product=Electronic Components
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+NIL 
+
+[ACTION]
+Add Seaport Product=Steel
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+NIL 
+
+[ACTION]
+Add Seaport Product=Glass
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+NIL 
+
+[ACTION]
+Add Seaport Product=Aluminum
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+In this tutorial you will learn how to improve the quality of your products by conducting research in ~R&D Centers~ (Research and Development Centers).
+
+[POS]
+Flex Text Box=300,280,400,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+As you may recall, a product's ~quality rating~ is based on two factors: the company's ~production technology rating for the product~ and the ~raw material quality~.^^Research advances your company's ~production technologies~ and thus increases your products' ~quality~. 
+
+[POS]
+Flex Text Box=300,280,400,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+To demonstrate how research works, we are going to set up a factory manufacturing ~Air Conditioners~.^^First, you should view the ~Manufacturer's Guide~ to see what materials are required. Press the shortcut key ~F1~ to open it now. 
+
+[POS]
+Flex Text Box=300,280,400,0
+
+[CONDITION]
+Active Interface=Manufacturer Guide
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Now click ~OUTPUT~ and select ~Air Conditioner~. 
+
+[POS]
+Text Box=280,500,380,0
+Pointer=623, 472, 698, 487
+
+[CONDITION]
+Manufacturer Guide=Air Conditioner
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Air conditioners are manufactured using ~Electronic Components~ and ~Steel~.^^Take a look at the percentage points that the ~Production Technology~ and the ~Raw Material Quality~ contribute to Air Conditioners' ~Quality~. 
+
+[POS]
+Text Box=320,482,390,0
+Pointer=503,175,682,225
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+As you see here, ~Technology~ contributes 80% to Air Conditioners' ~Quality~. You must invest into technological development if you want your Air Conditioners to be competitive in the market. 
+
+[POS]
+Text Box=320,280,390,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Research and Development, or R&D, is aptly conducted in ~R&D Centers~. Research projects can take some time to complete, so it's a good idea to begin research as soon as possible. 
+
+[POS]
+Text Box=320,280,390,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Let's build an ~R&D Center~ now. Press the shortcut key ~B~ to open the the Build menu now. 
+ 
+[POS]
+Text Box=320,280,390,0
+
+[CONDITION]
+Active Interface=Build Menu
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Select ~R&D Center~ from the menu and find a location to build it.^^It's a good idea to build your R&D Center on the outskirts of the city as the land is cheaper there.
+
+[POS]
+Text Box=100,200,300,0
+
+[CONDITION]
+Firm count=R&D Center, 1 
+ 
+//-------------------------------------------------------------------//
+
+[TEXT]
+There is only one type of functional unit to build in an R&D Center, which is the ~R&D unit~.^^You can set up a maximum of ~nine~ R&D units in an R&D center. You may have them work independently as ~nine separate teams~ or link them into ~a large, single team~ for increased performance. 
+
+[POS]
+Flex Text Box=300,280,400,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Let's create an R&D team with ~3 R&D units~. ~Double-click~ here to set up the first R&D unit.
+
+[POS]
+Text Box=32,250,350,0
+Pointer=489,253,573,336
+
+[CONDITION]
+Unit Exists=1, Product R&D
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+When you start an R&D project with more R&D units linked together, you get a boost in R&D performance and thus get a bigger tech gain.^^Now ~Double-click~ here to set up the second R&D unit. 
+
+[POS]
+Text Box=32,250,350,0
+Pointer=599,253,680,336
+
+[CONDITION]
+Unit Exists=2, Product R&D
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Now click the link between the units to connect them. 
+
+[POS]
+Text Box=32,250,350,0
+Pointer=579,292,592,298
+
+[CONDITION]
+Unit Linked=Product R&D, Product R&D, 1, 2 
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Now set up the third one.
+
+[POS]
+Text Box=32,250,350,0
+Pointer=489,363,573,446
+
+[CONDITION]
+Unit Exists=4, Product R&D
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Link it to the first one as well. 
+
+[POS]
+Text Box=32,250,350,0
+Pointer=528,344,534,359
+
+[CONDITION]
+Unit Linked=Product R&D, Product R&D, 1, 4 
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Now your R&D team is ready to commence research. All they need is your direction.^^Click the "leader" unit of your R&D team, which is the one with connections to all other R&D units in the team.
+
+[POS]
+Text Box=32,460,350,0
+Pointer=489,253,573,336
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Click the ~Start R&D~ button. 
+
+[POS]
+Text Box=60,250,200,0
+Pointer=203,387,278,402
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+You use this interface to select the type of product you want to conduct R&D for.^^The column ~Current Tech~ indicates your current production technology level. 
+
+[POS]
+Text Box=150,120,600,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+The next column ~Top Tech~ indicates the top technology level for each product type. This value will be updated whenever a company has achieved a higher tech level than the current top tech level. It is an important indicator as it tells how your company fare against the competition in technology. 
+
+[POS]
+Text Box=150,120,600,0
+Next Arrow=Yes
+ 
+//-------------------------------------------------------------------//
+
+[TEXT]
+Now select ~Air Conditioner~ from the list by double-clicking it. 
+
+[POS]
+Text Box=150,120,600,0
+
+[CONDITION]
+Interface select=Select R&D Item, Air Conditioner 
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Next you must decide how long your research project will run.^^The list shows the ~R&D time duration~ and the ~expected increase in the technology level~ for the product. The tech increase is greater for projects with longer durations.^^Since this is your first R&D project, let's select ~6 months~ for the time duration to get the result sooner. 
+
+[POS]
+Text Box=150,120,600,0
+Pointer=450,360,660,370
+
+[CONDITION]
+Unit has item=1, Air Conditioner
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Excellent! Your R&D project has commenced. Its progress can be viewed in the unit detail section. 
+
+[POS]
+Text Box=60,120,360,0
+Pointer=197,283,411,354
+Next Arrow=Yes
+
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+While waiting for the R&D project to complete, let's go ahead and ~set up a factory~ to manufacture ~Air Conditioners~.^^Right click anywhere on the screen to exit back to the city view.
+
+[POS]
+Flex Text Box=300,280,400,0
+
+[CONDITION]
+Active Interface=City View
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+This tutorial will continue when ~your factory starts to produce and sell Air Conditioners~.^^If at any point you are lost and you want to restart the tutorial, you can ~press the ESC key and select Restart Tutorial~.
+
+[POS]
+Flex Text Box=300,280,400,0
+Next Arrow=Yes
+
+[ACTION] 
+Hide=Tutorial window 
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+This tutorial will continue when ~your factory starts to produce and sell Air Conditioners~.^^If at any point you are lost and you want to restart the tutorial, you can ~press the ESC key and select Restart Tutorial~.
+
+[POS]
+Flex Text Box=300,280,400,0
+
+[CONDITION]
+Your factory sells product type=Air Conditioner
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Great job! You are now in the business of selling air conditioners! ^^To see the effect of R&D on your manufacturing operations, press ~shortcut key '5'~ to set the game speed to ~the Fastest~.
+
+[POS]
+Flex Text Box=300,280,400,0
+
+[CONDITION]
+Game speed=5
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+NIL 
+
+[ACTION]
+Fast forward days=190 
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+When a R&D project of yours is finished, you will see a flashing ~Event Tracker~ icon at the bottom menu bar.^^Keep your eyes on this area. Once the ~Event Tracker~ icon (indicated by an ~'!'~ sign) appears, you can go ahead and click it. 
+
+[POS]
+Extend Text Box=36,600,700,0
+Pointer=200,6,228,30
+Window=Bottom Toolbar 
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+The above ~Event Tracker~ message window indicates that the your R&D project has been completed, increasing your ~production technology level~ for Air Conditioners to 33.^^All your factories producing air conditioners will benefit from the technological advancement, enabling them to produce air conditioners of higher quality. 
+
+[POS]
+Text Box=120,300,500,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+On the ~Event Tracker~ window, you may click the ~Go~ button to access your R&D center where the R&D project is completed and decide if you want to continue to research better technology for the same product or direct your R&D team to research on something else. 
+
+[POS]
+Text Box=120,300,500,0
+Pointer=379,209,403,223
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Great! You have demonstrated your ability to manage R&D projects and use them to boost your products' quality.^^Next we'll take a quick look at the managerial option of providing training to your employees, which is essential for improving the overall competitiveness of your company. 
+
+[POS]
+Text Box=150,200,500,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Depending on the type of the functional unit, training may increase its productivity and/or its capacity. 
+
+[POS]
+Text Box=150,200,500,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+For R&D units, training improves their R&D efficiency.^^For ~manufacturing units~, training increases their productivity and capacities.^^For ~livestock raising units~ and ~crop growing units~, training improves the quality of their output as well as their capacities.^^For ~purchasing units~ and ~sale units~, training increases their efficiency and capacities. 
+
+[POS]
+Text Box=150,200,500,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+The ~training bar~ is situated at the lower center of the firm detail window.^^You may adjust the amount of training the current firm receives by clicking a point on the training bar. When the bar is set to full, it means you have allocated the maximum possible training budget to it.^^Try it now by setting the training for the current firm. 
+
+[POS]
+Text Box=150,200,500,0
+Pointer=450,484,459,534
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Now all the staff in the firm will receive training. Click an R&D unit to see the details of the staff.  
+
+[POS]
+Text Box=150,160,500,0
+Pointer=489,253,573,336
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+There are 12 staff members in each R&D unit. Those who have been trained are denoted by stars.
+
+[POS]
+Text Box=150,200,500,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+When the entire staff of a functional unit has been trained, the unit's ~experience level~ will increase by one point.
+
+[POS]
+Text Box=150,200,500,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Training can be costly for a company with limited cash but the end results are worth the initial outlay of money.^^In this tutorial game, you are fortune to start with ample cash. So feel free to set the training slider to maximum. 
+
+[POS]
+Text Box=150,200,500,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+You have done a great job laying a solid foundation for your business to grow with sound R&D facilities and familiarized yourself with the training interface. Your efforts will pay off as you attempt to take your business to the next level. 
+
+[POS]
+Text Box=150,200,500,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//
+
+[TEXT]
+Your goal in this tutorial game is to grow your business from a humble manufacturer of Air Conditioners to a successful enterprise ~dominating the entire Home Appliances market~, and at the same time generating ~an annual profit of at least $20 million~.^^Good Luck!
+
+[POS]
+Text Box=150,200,500,0
+Next Arrow=Yes
+
+//-------------------------------------------------------------------//

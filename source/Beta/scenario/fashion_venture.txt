@@ -1,0 +1,141 @@
+[HEADER]
+Title=Fashion Venture 
+Description=You have been trying to raise capital for your fashion startup for years. Unfortunately the fund raising process is difficult and slow. When you eventually succeed in launching your own fashion company (expected to happen in year 2000), there will be established competitors in the market. Do you have what it takes to carve out a niche with your new fashion brand and thrive in the market?
+Difficulty Rating=110
+
+[ENVIRONMENT]
+Number of Cities=4
+Your Start-up Capital=High
+Random Events=Occasional 
+Game Starting Year=1990
+Retail Store Type=Many
+Technology Disruption=On
+Stock Market=Yes
+Alternative Stock Sim=Yes
+Boom-Bust Cycle Volatility=Moderate
+Macro Economy Realism=High
+Inflation=Inverse
+Inflation Strength=Normal
+
+[CITIES]
+City=Seoul
+City=Warsaw
+City=Paris
+City=Miami
+
+[COMPETITORS]
+Number of Competitors=20
+Competitor Start-up Capital=Moderate  
+AI Expansion Aggressiveness=Low
+AI Pricing Aggressiveness=Low 
+AI Expertise Level=Low
+AI Tech Head Start=None
+Show Competitor Trade Secrets=Yes
+AI Friendly Merger=No
+Competence of Local Competitors=Low
+
+
+Retail Focused Companies=4
+Stock Focused Companies=2
+Real Estate Focused Companies=2
+Tech Focused Companies=2
+Media Focused Companies=2
+Diversified Companies=13
+
+AI Product Expertise=Apparel,1
+//of the 13 diversified companies, 1 of them have expertise in apparel 
+
+[IMPORTS]
+Consumer Goods Seaports=2
+Industrial Goods Seaports=2
+Constant Import Supply=Yes
+Import Quality=Moderate 
+
+[PLAYER EXPERTISE] 
+Product Expertise=Apparel, 80
+
+[SPECIAL RULES]
+Years of Advanced Start for AI=5
+
+//-------------------------------------------------------------------//
+
+[SUBGOAL]
+Goal Title=Launching a New Brand 
+Goal Description=Facing tough competition from established fashion companies, your near term goal is to stay afloat and carve out a niche with your new fashion brand.
+
+Goal Achieved Text=Congratulations! Your company's performance has impressed investors and led to a new round of investment of $100 million into your company!   
+
+[SUBGOAL VALUES]
+Player Company Annual Revenue=100
+Player Company Annual Profit=10
+
+[SUBGOAL REWARDS] 
+Score change=50
+Corporate cash change=10
+
+//-------------------------------------------------------------------//
+
+[SUBGOAL]
+Goal Title=Growing Your Business
+Goal Description=Having secured a foothold in the market with your brand and strengthened your war chest with the new investment, you can now afford to expand your business aggressively and seize market shares from your competitors. 
+
+Goal Achieved Text=Excellent! You have developed your company into a force to be reckoned with! 
+
+Parent Goal=Launching a New Brand 
+
+[SUBGOAL VALUES]
+Player Company Annual Revenue=200
+Player Company Annual Profit=20
+
+[SUBGOAL REWARDS] 
+Score change=100
+Personal Cash Change=5
+
+//-------------------------------------------------------------------//
+
+[SUBGOAL]
+Goal Title=Market Leadership
+Goal Description=Thanks to your recent rounds of successful expansions, you are now in a position to take another leap and eventually become the market leader in the apparel industry.
+
+Goal Achieved Text=Congratulations! You have come a long way since your humble beginning! 
+
+Parent Goal=Growing Your Business 
+
+[SUBGOAL VALUES]
+Player Company Annual Revenue=300
+Player Company Annual Profit=30
+
+[SUBGOAL PRODUCTS]
+Apparel
+
+[SUBGOAL REWARDS] 
+Score change=150
+
+
+//-------------------------------------------------------------------//
+
+[MAIN GOAL]
+Goal Title=Fashion Dominance 
+Goal Description=The leather product market is highly lucrative, you should leverage your success in the fashion market to broaden your product lines to cover leather products. You win this game when you achieve market dominance in both apparel and leather products. 
+
+Number of Game Years=20
+
+Parent Goal=Market Leadership 
+
+[MAIN GOAL VALUES]
+Player Company Annual Revenue=500
+Player Company Annual Profit=50
+
+[MAIN GOAL PRODUCTS]
+Apparel 
+Leather Goods
+
+[MAIN GOAL REWARDS] 
+Score change=300
+
+//-------------------------------------------------------------------//
+
+[CHALLENGE GAME]
+Number of Game Years=30
+Ranking Method=Score
+
