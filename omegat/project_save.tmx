@@ -36049,6 +36049,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The bank does not grant a new loan.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210305T102501Z" creationid="Olivier" creationdate="20210305T102501Z">
+        <seg>La banque n'accorde pas de nouveau prêt.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The bank does not have sufficient cash to let all depositors withdraw their money.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T145037Z" creationid="Olivier" creationdate="20200512T145037Z">
@@ -64732,6 +64740,46 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20210305T102429Z" creationid="Olivier" creationdate="20210305T102429Z">
         <seg>[3351]&lt;NLOA&gt;Désolé, vous ne pouvez pas emprunter pour le moment car aucune banque commerciale n'a encore été créée.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3352]&lt;PCRE&gt;Sorry, the credit rating of the company is too poor.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210305T102504Z" creationid="Olivier" creationdate="20210305T102447Z">
+        <seg>[3352]&lt;PCRE&gt;Désolé, la cote de crédit de l'entreprise est trop faible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3353]&lt;NPBD&gt;Cannot purchase the bond|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210305T102547Z" creationid="Olivier" creationdate="20210305T102547Z">
+        <seg>[3353]&lt;NPBD&gt;Impossible d'ajouter la technologie|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3354]&lt;NCBS&gt;Sorry, you are not allowed to change your brand strategy in this game.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210305T102618Z" creationid="Olivier" creationdate="20210305T102618Z">
+        <seg>[3354]&lt;NCBS&gt;Désolé, vous n'êtes pas autorisé à modifier votre stratégie de marque dans ce jeu.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3355]&lt;NSBB&gt;Sorry, you cannot execute this share buyback transaction, as a public company's total number of shares outstanding must not be lower than 1,000,000 shares.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210305T102653Z" creationid="Olivier" creationdate="20210305T102653Z">
+        <seg>[3355]&lt;NSBB&gt;Désolé, vous ne pouvez pas exécuter cette opération de rachat d'actions, car le nombre total d'actions en circulation d'une société publique ne doit pas être inférieur à 1 000 000 d'actions.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3356]&lt;ICTL&gt;Sorry, you cannot select this as your current tech level is lower than the required tech level.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210305T102730Z" creationid="Olivier" creationdate="20210305T102730Z">
+        <seg>[3356]&lt;ICTL&gt;Désolé, vous ne pouvez pas sélectionner cette option car votre niveau technologique actuel est inférieur au niveau technique requis.|</seg>
       </tuv>
     </tu>
     <tu>
