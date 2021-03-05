@@ -6670,6 +6670,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>But no [Tech] is defined in this game.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210305T103136Z" creationid="Olivier" creationdate="20210305T103136Z">
+        <seg>Mais aucune [Tech] est définie dans cette partie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>But the AI companies¡¯ performances will suffer and</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20210104T163341Z" creationid="Olivier" creationdate="20210104T163341Z">
@@ -28461,6 +28469,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T075618Z" creationid="Olivier" creationdate="20200430T222248Z">
         <seg>Veuillez noter que le jeu exige que le nombre de personnes AI soit au moins égal au nombre de concurrents + 8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please set up [R&amp;D Units] instead.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210305T103155Z" creationid="Olivier" creationdate="20210305T103155Z">
+        <seg>Veuillez créer des [unités de R&amp;D] à la place.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64828,6 +64844,38 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20210305T103014Z" creationid="Olivier" creationdate="20210305T103014Z">
         <seg>[3362]&lt;LAY1&gt;Désolé, ce plan d'implantation de l'usine ne peut être sauvegardé car il contient un logiciel.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3363]&lt;LAY2&gt;Each software product in the factory is associated with a software development project in a software company and therefore cannot be saved as a template.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210305T103031Z" creationid="Olivier" creationdate="20210305T103031Z">
+        <seg>[3363]&lt;LAY2&gt;Chaque logiciel de l'usine est associé à un projet de développement de logiciel dans une société de logiciels et ne peut donc pas être enregistré comme modèle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3364]&lt;LAYO&gt;Sorry, you cannot use this layout plan on this firm because the plan contains [%1s] which is outside the subsidiary company's Scope of Production.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210305T103056Z" creationid="Olivier" creationdate="20210305T103056Z">
+        <seg>[3364]&lt;LAYO&gt;Désolé, vous ne pouvez pas utiliser ce plan d'aménagement sur cette entreprise car le plan contient [%1s] qui est en dehors du périmètre de production de la filiale.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3365]&lt;LAT1&gt;Sorry, You cannot use this layout plan because it contains [Tech R&amp;D] units.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210305T103119Z" creationid="Olivier" creationdate="20210305T103119Z">
+        <seg>[3365]&lt;LAT1&gt;Désolé, vous ne pouvez pas utiliser ce plan d'aménagement car il contient des unités [Tech R&amp;D].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3366]&lt;LAT2&gt;Sorry, you cannot use this layout plan because it contains [Tech R&amp;D] units, which can only be used when you have enabled either the Subisidary DLC or the Digital Age DLC.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210305T103359Z" creationid="Olivier" creationdate="20210305T103359Z">
+        <seg>[3366]&lt;LAT2&gt;Désolé, vous ne pouvez pas utiliser ce plan d'aménagement car il contient des unités [Tech R&amp;D], qui ne peuvent être utilisées que si vous avez activé soit le DLC filiale, soit le DLC de l'ère numérique|</seg>
       </tuv>
     </tu>
     <tu>
