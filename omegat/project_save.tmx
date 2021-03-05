@@ -64688,6 +64688,38 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3347]&lt;NCHA&gt;Sorry, there are currenlty no Challenge Games available.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210305T101846Z" creationid="Olivier" creationdate="20210305T101846Z">
+        <seg>[3347]&lt;NCHA&gt;Désolé, il n'y a actuellement aucun jeu de défi disponible.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3348]&lt;MEOS&gt;Sorry, it is prohibited by the Antitrust Law to merge two companies who both an operating system.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210305T101908Z" creationid="Olivier" creationdate="20210305T101908Z">
+        <seg>[3348]&lt;MEOS&gt;Désolé, il est interdit par la loi antitrust de fusionner deux sociétés qui ont toutes deux un système d'exploitation.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3349]&lt;NRHD&gt;Sorry, you cannot remove the hardware already supported by the current version of the OS.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210305T102023Z" creationid="Olivier" creationdate="20210305T102023Z">
+        <seg>[3349]&lt;NRHD&gt;Désolé, vous ne pouvez pas supprimer le matériel déjà pris en charge par la version actuelle de l'OS.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3350]&lt;HDMR&gt;Sorry, the maximum number of hardware types supported by an OS has been reached.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210305T102047Z" creationid="Olivier" creationdate="20210305T102047Z">
+        <seg>[3350]&lt;HDMR&gt;Désolé, le nombre maximum de types de matériel pris en charge par un système d'exploitation a été atteint.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202555Z" creationid="Inrepublica" creationdate="20200422T202555Z">
