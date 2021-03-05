@@ -64880,6 +64880,38 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3367]&lt;RESK&gt;Sorry, there are no new product invention plans that fit the researcher's skill at the moment.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210305T103424Z" creationid="Olivier" creationdate="20210305T103424Z">
+        <seg>[3367]&lt;RESK&gt;Désolé, aucun plan d'invention de nouveau produit ne correspond à la compétence du chercheur pour le moment.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3368]&lt;CHE1&gt;You have enabled the cheat mode.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210305T103444Z" creationid="Olivier" creationdate="20210305T103444Z">
+        <seg>[3368]&lt;CHE1&gt;Vous avez activé le mode "tricheur".|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3369]&lt;CHE2&gt;Sorry, cheat mode cannot be enabled in a Challenge game.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210305T103501Z" creationid="Olivier" creationdate="20210305T103501Z">
+        <seg>[3369]&lt;CHE2&gt;Désolé, le mode tricheur ne peut pas être activé dans un jeu de défi.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3370]&lt;FISP&gt;Sorry, you cannot change the game speed of the current game as it is fixed by a game script.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210305T103515Z" creationid="Olivier" creationdate="20210305T103515Z">
+        <seg>[3370]&lt;FISP&gt;Désolé, vous ne pouvez pas modifier la vitesse du jeu en cours car elle est fixée par un script de jeu.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202555Z" creationid="Inrepublica" creationdate="20200422T202555Z">
