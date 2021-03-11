@@ -1542,6 +1542,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// this should only be used if you intend to create a game scenario with such characteristics.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210311T093447Z" creationid="Olivier" creationdate="20210311T093447Z">
+        <seg>// cette option ne doit être utilisée que si vous avez l'intention de créer un scénario de jeu avec de telles caractéristiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// to prevent the mft unit from using Steel to produce Engine immediately.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200826T102240Z" creationid="Olivier" creationdate="20200424T095435Z">
@@ -6674,6 +6682,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20210305T103136Z" creationid="Olivier" creationdate="20210305T103136Z">
         <seg>Mais aucune [Tech] est définie dans cette partie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>But the AI companies' performances will suffer and</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210311T093413Z" creationid="Olivier" creationdate="20210311T093413Z">
+        <seg>Mais les performences des compagnies gérées par l'IA en soufriront et</seg>
       </tuv>
     </tu>
     <tu>
@@ -64704,6 +64720,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3344]&lt;DIS2&gt;uses|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210311T093345Z" creationid="Olivier" creationdate="20210311T093345Z">
+        <seg>[3344]&lt;DIS2&gt;uses|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[3345]&lt;DLCN&gt;Sorry, this game requires %1s but you do not have this DLC yet.|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20210305T101530Z" creationid="Olivier" creationdate="20210305T101427Z">
@@ -64723,6 +64747,14 @@ Choose one of eight pre-set difficulty levels.</seg>
         <seg>[3347]&lt;NCHA&gt;Sorry, there are currenlty no Challenge Games available.|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20210305T101846Z" creationid="Olivier" creationdate="20210305T101846Z">
+        <seg>[3347]&lt;NCHA&gt;Désolé, il n'y a actuellement aucun jeu de défi disponible.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3347]&lt;NCHA&gt;Sorry, there are currently no Challenge Games available.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210311T093357Z" creationid="Olivier" creationdate="20210311T093357Z">
         <seg>[3347]&lt;NCHA&gt;Désolé, il n'y a actuellement aucun jeu de défi disponible.|</seg>
       </tuv>
     </tu>
