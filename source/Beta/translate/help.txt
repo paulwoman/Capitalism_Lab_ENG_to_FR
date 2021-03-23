@@ -308,7 +308,7 @@ Toggle Corporate Filter to display a specific corporation in the Mini Map. Right
 ~
 SFM_KP
 Product Filter
-Toggle Product Filter to display locations of a specific product in the Mini Map. 
+Toggle Product Filter to display locations of a specific product in the Mini Map. Right-click to set the filter based on the current firm's selected product.
 ~
 SFM_KPB
 Previous Building (hotkey: PgUp)
@@ -1261,11 +1261,11 @@ Search for a specific product (Hotkey: Tab)
 ~
 P_PREV  
 Previous Product (Hotkey: 'u')
-`
+View the previous product in the filtered list. To change the filtered list, access the #Products Summary# (hotkey: 'p') and choose different settings.
 ~
 P_NEXT  
 Next Product (Hotkey: 'x')
-`
+View the next product in the filtered list. To change the filtered list, access the #Products Summary# (hotkey: 'p') and choose different settings. 
 ~
 P_GO  
 Go to the firm selling or producing this product (Hotkey: Enter) 
