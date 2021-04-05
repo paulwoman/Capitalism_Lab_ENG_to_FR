@@ -11982,6 +11982,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description=You have scored a string of high-profile investments from some of the most sought-after and famed investors.^^Now comes the hard part: your demanding investors are not going to be satisfied with anything less than your company reigning supreme in the digital world.^^You will win this scenario and be praised for your achievement when you concurrently dominate all the three digital industries: telecom, the Internet and computer OS and software.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210405T102241Z" creationid="Olivier" creationdate="20210405T102241Z">
+        <seg>Description=Vous avez obtenu une série d'investissements de premier plan de la part de certains des investisseurs les plus recherchés et les plus célèbres.^^ Maintenant, le plus dur est à faire : vos investisseurs exigeants ne se contenteront de rien d'autre que de voir votre entreprise régner en maître dans le monde numérique.^^ Vous gagnerez ce scénario et serez félicité pour votre réussite lorsque vous dominerez simultanément les trois industries numériques : les télécommunications, l'Internet et les systèmes d'exploitation et logiciels informatiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Description=You have scored a string of high-profile investments from some of the most sought-after and famed investors.^^Now comes the hard part: your demanding investors are not going to satisfied with anything less than your company reigning supreme in the digital world.^^You will win this scenario and be praised for your achievement when you concurrently dominate all the three digital industries: telecom, the Internet and computer OS and software.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200915T123920Z" creationid="Olivier" creationdate="20200915T123920Z">
@@ -30877,6 +30885,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200425T150844Z" creationid="Inrepublica" creationdate="20200425T150844Z">
         <seg>Randomize|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Randomly Disable Product Classes=0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210405T102243Z" creationid="Olivier" creationdate="20210405T102243Z">
+        <seg>Randomly Disable Product Classes=0</seg>
       </tuv>
     </tu>
     <tu>
