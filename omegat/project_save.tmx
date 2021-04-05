@@ -1070,6 +1070,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// Import Quality=&lt;Low,Moderate,High&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210323T085934Z" creationid="Olivier" creationdate="20210323T085934Z">
+        <seg>// Import Quality=&lt;Bas,Modéré,Elevé&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>// In the current example, the player has to first achieve the "First Subgoal" before the "Second Subgoal" will become available.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T224311Z" creationid="Olivier" creationdate="20200430T224311Z">
@@ -31713,6 +31721,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Right-click to set the filter based on the current firm's selected product.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210323T085729Z" creationid="Olivier" creationdate="20210323T085729Z">
+        <seg>Cliquez avec le bouton droit de la souris pour définir le filtre basé sur le produit sélectionné de la firme actuelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Right-click to set the filter based on the current firm.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T172119Z" creationid="Olivier" creationdate="20200428T172119Z">
@@ -39745,6 +39761,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To change the filtered list, access the #Products Summary# (hotkey: 'p') and choose different settings.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210323T085842Z" creationid="Olivier" creationdate="20210323T085745Z">
+        <seg>Pour modifier la liste filtrée, accédez au # Résumé des produits#  (touche de raccourci : 'p') et choisissez différents paramètres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To complete your objectives in this game, you need to achieve ~an annual revenue of $30 million~ and ~an annual profit of $3 million~.^^But remember that you still owe the bank money.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200426T130126Z" creationid="Olivier" creationdate="20200424T100128Z">
@@ -41705,6 +41729,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>View the next product in the filtered list.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210323T085854Z" creationid="Olivier" creationdate="20210323T085854Z">
+        <seg>Afficher le produit suivant dans la liste filtrée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>View the operating expenses of this bank branch.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155219Z" creationid="Olivier" creationdate="20200507T155219Z">
@@ -41717,6 +41749,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155247Z" creationid="Olivier" creationdate="20200507T155247Z">
         <seg>Consultez les frais de fonctionnement de ce bureau d'assurance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View the previous product in the filtered list.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210323T085803Z" creationid="Olivier" creationdate="20210323T085741Z">
+        <seg>Affiche le produit précédent dans la liste filtrée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61652,6 +61692,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T142632Z" creationid="Olivier" creationdate="20200512T142632Z">
         <seg>[2977]&lt;LNR2&gt;Un emprunt bancaire contracté par votre entreprise est arrivé à échéance, vous devez le rembourser maintenant.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[2978]&lt;LNR3&gt;A Bank Loan taken by your subsidiary |</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210323T085913Z" creationid="Olivier" creationdate="20210323T085913Z">
+        <seg>[2978]&lt;LNR3&gt;Un emprunt bancaire contracté par votre filiale |</seg>
       </tuv>
     </tu>
     <tu>
