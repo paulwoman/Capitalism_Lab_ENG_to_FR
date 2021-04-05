@@ -1,0 +1,74 @@
+[HEADER]
+Title=Digital Supremacy
+Description=You have scored a string of high-profile investments from some of the most sought-after and famed investors.^^Now comes the hard part: your demanding investors are not going to be satisfied with anything less than your company reigning supreme in the digital world.^^You will win this scenario and be praised for your achievement when you concurrently dominate all the three digital industries: telecom, the Internet and computer OS and software.  
+
+DLC=DigitalAge
+
+Difficulty Rating=120
+
+[ENVIRONMENT]
+Number of Cities=5
+Your Start-up Capital=Very High
+Random Events=Occasional 
+Game Starting Year=1990
+Retail Store Type=Many
+Technology Disruption=On
+Stock Market=Yes
+Alternative Stock Sim=Yes
+Boom-Bust Cycle Volatility=Moderate
+Macro Economy Realism=High
+Inflation=Inverse
+Inflation Strength=Normal
+
+[CITIES]
+City=Los Angeles 
+City=London 
+City=Munich 
+City=Guangzhou 
+City=Helsinki
+
+[COMPETITORS]
+Number of Competitors=40
+Competitor Start-up Capital=High  
+AI Expansion Aggressiveness=High
+AI Pricing Aggressiveness=Moderate 
+AI Expertise Level=High
+AI Tech Head Start=None
+Show Competitor Trade Secrets=No
+AI Friendly Merger=Yes
+Competence of Local Competitors=Moderate 
+
+[IMPORTS]
+Consumer Goods Seaports=2
+Industrial Goods Seaports=2
+Constant Import Supply=No
+Import Quality=Moderate 
+
+//-------------------------------------------------------------------//
+
+[MAIN GOAL]
+Goal Title=Digital Supremacy
+Goal Description=You will win this scenario and be praised for your achievement when you concurrently dominate all the three digital industries: telecom, the Internet and computer OS and software.
+
+Number of Game Years=80
+
+[MAIN GOAL VALUES]
+Telecom Dominance 
+Total Internet Market Share=50
+OS Dominance
+Software Dominance=Audio Software
+Software Dominance=Computer Security
+Software Dominance=Graphic Design Software
+Software Dominance=Office Software
+Software Dominance=Utility Software
+Software Dominance=Video Software
+
+[MAIN GOAL REWARDS] 
+Score change=400
+
+//-------------------------------------------------------------------//
+
+[CHALLENGE GAME]
+Number of Game Years=30
+Ranking Method=Score
+

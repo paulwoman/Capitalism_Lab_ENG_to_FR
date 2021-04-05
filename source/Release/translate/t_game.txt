@@ -1789,7 +1789,7 @@
 [2975]<BDD3>Default amount: |
 [2976]<LNR1>INSUFFICIENT CASH FOR LOAN REPAYMENT|
 [2977]<LNR2>A Bank Loan taken by your company has matured, you must repay it now.|
-[2978]<LNR3>A Bank Loan taken your subsidiary |
+[2978]<LNR3>A Bank Loan taken by your subsidiary |
 [2979]<LNR4> has matured, you must repay it now.|
 [2980]<CASN>CASH NEEDED|
 [2981]<MCOS>Monthly Cost|
@@ -2153,3 +2153,32 @@
 [3339]<ABC6>acquires the company|
 [3340]<ABC7>rescuing it from bankruptcy.|
 [3341]<SNAM>To locate a specific item, type the first letter of its name.|
+[3342]<NTEC>Sorry, no technologies are available for research at the moment.|
+[3343]<DIS1>Sorry, you cannot disable this product as it is the input for other products that are currently enabled in the Scope of Production list.|
+[3344]<DIS2>uses|
+[3345]<DLCN>Sorry, this game requires %1s but you do not have this DLC yet.|
+[3346]<DMOD>Sorry, the current MOD is not compatible with the Digital Age DLC.|
+[3347]<NCHA>Sorry, there are currently no Challenge Games available.|
+[3348]<MEOS>Sorry, it is prohibited by the Antitrust Law to merge two companies who both an operating system.|
+[3349]<NRHD>Sorry, you cannot remove the hardware already supported by the current version of the OS.|
+[3350]<HDMR>Sorry, the maximum number of hardware types supported by an OS has been reached. You cannot add more.|
+[3351]<NLOA>Sorry, you cannot borrow a loan at the moment as no commercial banks have been set up yet.|
+[3352]<PCRE>Sorry, the credit rating of the company is too poor. The bank does not grant a new loan.|
+[3353]<NPBD>Cannot purchase the bond|
+[3354]<NCBS>Sorry, you are not allowed to change your brand strategy in this game.|
+[3355]<NSBB>Sorry, you cannot execute this share buyback transaction, as a public company's total number of shares outstanding must not be lower than 1,000,000 shares.|
+[3356]<ICTL>Sorry, you cannot select this as your current tech level is lower than the required tech level.|
+[3357]<ICTN>Sorry, you cannot select this as it is not known to you yet.|
+[3358]<ICOC>Sorry, you cannot select this as it is owned by another company already.|
+[3359]<DEVN>Sorry, you have not developed any software yet.|
+[3360]<NOSD>Sorry, nobody has developed an operation system yet.|
+[3361]<NOFI>Sorry, the company no longer owns any firms.|
+[3362]<LAY1>Sorry, this factory layout plan cannot be saved because it contains a software product.|
+[3363]<LAY2>Each software product in the factory is associated with a software development project in a software company and therefore cannot be saved as a template.|
+[3364]<LAYO>Sorry, you cannot use this layout plan on this firm because the plan contains [%1s] which is outside the subsidiary company's Scope of Production.|
+[3365]<LAT1>Sorry, You cannot use this layout plan because it contains [Tech R&D] units. But no [Tech] is defined in this game. Please set up [R&D Units] instead.|
+[3366]<LAT2>Sorry, you cannot use this layout plan because it contains [Tech R&D] units, which can only be used when you have enabled either the Subisidary DLC or the Digital Age DLC.|
+[3367]<RESK>Sorry, there are no new product invention plans that fit the researcher's skill at the moment.|
+[3368]<CHE1>You have enabled the cheat mode.|
+[3369]<CHE2>Sorry, cheat mode cannot be enabled in a Challenge game.|
+[3370]<FISP>Sorry, you cannot change the game speed of the current game as it is fixed by a game script.|

@@ -308,7 +308,7 @@ Toggle Corporate Filter to display a specific corporation in the Mini Map. Right
 ~
 SFM_KP
 Product Filter
-Toggle Product Filter to display locations of a specific product in the Mini Map. 
+Toggle Product Filter to display locations of a specific product in the Mini Map. Right-click to set the filter based on the current firm's selected product.
 ~
 SFM_KPB
 Previous Building (hotkey: PgUp)
@@ -936,7 +936,7 @@ The stock kept at the current unit.
 ~
 U_WORKER
 Workers at the Unit 
-Novice workers wear red uniforms, whereas experienced workers wear blue. When all the workers in a unit become experienced, the unit level will increase by one (training will speed this up).
+Experienced workers are denoted by stars. When all the workers in a functional unit have become experienced, the unit level will increase by one (training will speed this up).
 ~
 LO_IN_E1
 Single-click here to select this functional unit. Double-click to change it
@@ -1261,11 +1261,11 @@ Search for a specific product (Hotkey: Tab)
 ~
 P_PREV  
 Previous Product (Hotkey: 'u')
-`
+View the previous product in the filtered list. To change the filtered list, access the #Products Summary# (hotkey: 'p') and choose different settings.
 ~
 P_NEXT  
 Next Product (Hotkey: 'x')
-`
+View the next product in the filtered list. To change the filtered list, access the #Products Summary# (hotkey: 'p') and choose different settings. 
 ~
 P_GO  
 Go to the firm selling or producing this product (Hotkey: Enter) 
@@ -3451,4 +3451,8 @@ This indicates the current levels of money supply and demand. When the central b
 REDDIT
 Visit the Reddit community of Capitalism Lab. 
 `
+~
+AVGRENT
+Annual Rent Per Square Foot
+When you change the rent, the new rent only affects new tenants and existing tenants who renew their leases. As such, the #Annual Rent Per Square Foot# does not reflect the change you made to the rent immediately.
 ~

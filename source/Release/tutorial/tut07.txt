@@ -395,7 +395,7 @@ Pointer=489,253,573,336
 //-------------------------------------------------------------------//
 
 [TEXT]
-There are 12 staff members in each R&D unit, represented by 12 figures in ~red overalls~.^^During training, those who have been trained already will be shown wearing ~blue overalls~.
+There are 12 staff members in each R&D unit. Those who have been trained are denoted by stars.
 
 [POS]
 Text Box=150,200,500,0
@@ -404,7 +404,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-When the entire staff of a functional unit has been trained (all in ~blue overalls~), the unit's ~experience level~ will increase by one point and the staff's overall color will revert to red. 
+When the entire staff of a functional unit has been trained, the unit's ~experience level~ will increase by one point.
 
 [POS]
 Text Box=150,200,500,0
