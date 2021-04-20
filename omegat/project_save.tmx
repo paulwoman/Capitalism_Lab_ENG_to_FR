@@ -592,8 +592,8 @@
       <tuv lang="en-US">
         <seg>(hotkey: '+' or '=')</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T135749Z" creationid="Olivier" creationdate="20200502T135749Z">
-        <seg>(Touche de raccourci '+' ou '=')</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210420T100742Z" creationid="Olivier" creationdate="20200502T135749Z">
+        <seg>(Touche de raccourci "+" ou "=")</seg>
       </tuv>
     </tu>
     <tu>
@@ -43723,8 +43723,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>You may open it anytime by opening the ~Information Center~ and then selecting ~Goal Report~, or by pressing the ~shortcut key 'G'~.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T101608Z" creationid="Olivier" creationdate="20200423T152342Z">
-        <seg>Vous pouvez l'ouvrir à tout moment en ouvrant le ~Centre d'informations~ puis en sélectionnant ~Rapport d'objectif~, ou en appuyant sur la touche de raccourci 'G'~.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210420T100759Z" creationid="Olivier" creationdate="20200423T152342Z">
+        <seg>Vous pouvez l'ouvrir à tout moment en ouvrant le ~Centre d'informations~ puis en sélectionnant ~Rapport d'objectif~, ou en appuyant sur la touche de raccourci "G"~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60986,8 +60986,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>[2889]&lt;NCG4&gt;Press the 'G' shortcut key anytime to view the Goal screen.|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100831Z" creationid="Olivier" creationdate="20200512T100831Z">
-        <seg>[2889]&lt;NCG4&gt;Appuyez sur la touche de raccourci 'G' à tout moment pour afficher l'écran 'Objectif'|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210420T100751Z" creationid="Olivier" creationdate="20200512T100831Z">
+        <seg>[2889]&lt;NCG4&gt;Appuyez sur la touche de raccourci "G" à tout moment pour afficher l'écran 'Objectif'|</seg>
       </tuv>
     </tu>
     <tu>
@@ -63426,32 +63426,32 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>[3177]&lt;RDB1&gt;Increase Retail Demand Bonus in the following ways:|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200606T145054Z" creationid="Olivier" creationdate="20200606T145033Z">
-        <seg>[3177]&lt;RDB1&gt;Augmente la prime à la demande au détail de la manière suivante :|&lt;/RDB1&gt;</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210420T100525Z" creationid="Olivier" creationdate="20200606T145033Z">
+        <seg>[3177]&lt;RDB1&gt;Augmente le bonus de demande ainsi : |</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[3178]&lt;RDB2&gt;-A specialty store focusing on a specific range of products is more attractive to customers interested in such products.|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200606T145131Z" creationid="Olivier" creationdate="20200606T145045Z">
-        <seg>[3178]&lt;RDB2&gt;-Un magasin spécialisé se concentrant sur une gamme spécifique de produits est plus attractif pour les clients intéressés par ces produits.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210420T100528Z" creationid="Olivier" creationdate="20200606T145045Z">
+        <seg>[3178]&lt;RDB2&gt;- Un magasin spécialisé se concentrant sur une gamme spécifique de produits est plus attractif pour les clients intéressés par ces produits.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[3179]&lt;RDB3&gt;-Build more stores of the same store type in the same city.|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200606T145236Z" creationid="Olivier" creationdate="20200606T145159Z">
-        <seg>[3179]&lt;RDB3&gt;-Construisez d'autres magasins du même type dans la même ville.|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210420T100530Z" creationid="Olivier" creationdate="20200606T145159Z">
+        <seg>[3179]&lt;RDB3&gt;- Construisez d'autres magasins du même type dans la même ville.|</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[3180]&lt;RDB4&gt;-Stores in areas with high customer traffic will boost the chain popularity more.|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200606T145305Z" creationid="Olivier" creationdate="20200606T145305Z">
-        <seg>[3180]&lt;RDB4&gt;-Les magasins situés dans des zones à forte fréquentation augmenteront davantage la popularité de la chaîne.|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210420T100533Z" creationid="Olivier" creationdate="20200606T145305Z">
+        <seg>[3180]&lt;RDB4&gt;- Les magasins situés dans des zones à forte fréquentation augmenteront davantage la popularité de la chaîne.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -66108,8 +66108,8 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
       <tuv lang="en-US">
         <seg>^^To see the effect of R&amp;D on your manufacturing operations, press ~shortcut key '5'~ to set the game speed to ~the Fastest~.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T135648Z" creationid="Olivier" creationdate="20200426T135415Z">
-        <seg>^^Pour voir l'effet de la R&amp;D sur vos opérations de fabrication, appuyez sur la ~touche de raccourci '5' ~pour régler la vitesse du jeu sur 'le plus rapide'.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210420T100806Z" creationid="Olivier" creationdate="20200426T135415Z">
+        <seg>^^Pour voir l'effet de la R&amp;D sur vos opérations de fabrication, appuyez sur la ~touche de raccourci "5" ~pour régler la vitesse du jeu sur 'le plus rapide'.</seg>
       </tuv>
     </tu>
     <tu>
