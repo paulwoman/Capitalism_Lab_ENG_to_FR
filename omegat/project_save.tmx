@@ -65256,6 +65256,86 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3383]&lt;ESB1&gt;Score Bonus (plus early completion bonus)|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210514T083120Z" creationid="Olivier" creationdate="20210514T083120Z">
+        <seg>[3383]&lt;ESB1&gt;Prime de score (plus prime d'achèvement anticipé)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3384]&lt;ESB2&gt;Score Bonus|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210514T083137Z" creationid="Olivier" creationdate="20210514T083137Z">
+        <seg>[3384]&lt;ESB2&gt;Bonus de score|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3385]&lt;ECCP&gt;Corporate Cash Penalty|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210514T083202Z" creationid="Olivier" creationdate="20210514T083202Z">
+        <seg>[3385]&lt;ECCP&gt;Pénalité de trésorerie des entreprises|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3386]&lt;ECCB&gt;Corporate Cash Bonus|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210514T083213Z" creationid="Olivier" creationdate="20210514T083213Z">
+        <seg>[3386]&lt;ECCB&gt;Bonus en espèces de l'entreprise|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3387]&lt;EPCP&gt;Personal Cash Penalty|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210514T083235Z" creationid="Olivier" creationdate="20210514T083235Z">
+        <seg>[3387]&lt;EPCP&gt;Pénalité financière personnelle|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3388]&lt;EPCB&gt;Personal Cash Bonus|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210514T083306Z" creationid="Olivier" creationdate="20210514T083306Z">
+        <seg>[3388]&lt;EPCB&gt;Bonus liquidité personnelle|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3389]&lt;EICP&gt;City Cash Penalty|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210514T083335Z" creationid="Olivier" creationdate="20210514T083335Z">
+        <seg>[3389]&lt;EICP&gt;Pénalité liquidité de la ville|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3390]&lt;EICB&gt;City Cash Bonus|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210514T083345Z" creationid="Olivier" creationdate="20210514T083345Z">
+        <seg>[3390]&lt;EICB&gt;Bonus liquidité de la ville|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3391]&lt;EEX1&gt;Player Expertise on|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210514T083356Z" creationid="Olivier" creationdate="20210514T083356Z">
+        <seg>[3391]&lt;EEX1&gt;Expertise du joueur en|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3392]&lt;EEX2&gt;Your COO's Expertise on|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210514T084637Z" creationid="Olivier" creationdate="20210514T084637Z">
+        <seg>u[3392]&lt;EEX2&gt;L'expertise de votre COO sur|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202555Z" creationid="Inrepublica" creationdate="20200422T202555Z">
