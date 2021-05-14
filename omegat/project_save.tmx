@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.3_0_dc1f7028" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.4_0_ab439459" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3998,6 +3998,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Acquire technology from other companies.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210514T082328Z" creationid="Olivier" creationdate="20210514T082328Z">
+        <seg>Aquérir de la technologie auprès d'autres entreprises</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Acquire tech|</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T104645Z" creationid="Olivier" creationdate="20200710T104645Z">
@@ -6078,6 +6086,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Back to the previous firm (hotkey: Q)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210514T082256Z" creationid="Olivier" creationdate="20210514T082256Z">
+        <seg>Revenir à l'entreprise précédente (touche de raccourci : Q)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Back to the previous firm (hotkey: q)</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T091753Z" creationid="Olivier" creationdate="20200819T091723Z">
@@ -7874,6 +7890,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T153403Z" creationid="Olivier" creationdate="20200507T153403Z">
         <seg>Impossible de réduire la capacité de vente au détail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cannot acquire technology</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210514T082341Z" creationid="Olivier" creationdate="20210514T082341Z">
+        <seg>Impossible d'acheter la technologie|</seg>
       </tuv>
     </tu>
     <tu>
@@ -21137,6 +21161,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Information Center (hotkey: I)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210514T082221Z" creationid="Olivier" creationdate="20210514T082221Z">
+        <seg>Centre d'informations (raccourci : I)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Information Center, Billionaires 100</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151417Z" creationid="Inrepublica" creationdate="20200423T151417Z">
@@ -23521,6 +23553,22 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MGATECH0</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210514T082332Z" creationid="Olivier" creationdate="20210514T082332Z">
+        <seg>MGATECH0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MGATECH1</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210514T082307Z" creationid="Olivier" creationdate="20210514T082307Z">
+        <seg>MGATECH1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MG_EX1</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T145932Z" creationid="Olivier" creationdate="20200502T145932Z">
@@ -24345,6 +24393,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mini Map (hotkey: M)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210514T082201Z" creationid="Olivier" creationdate="20210514T082201Z">
+        <seg>Mini Map (hotkey: M)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mini Map - Public Service mode</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150019Z" creationid="Olivier" creationdate="20200504T150019Z">
@@ -24909,6 +24965,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200427T080112Z" creationid="Inrepublica" creationdate="20200427T080112Z">
         <seg>Nom de votre société|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>None of the other companies have a technology more advanced than yours.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210514T082439Z" creationid="Olivier" creationdate="20210514T082439Z">
+        <seg>Aucune des autres entreprises ne dispose d'une technologie plus avancée que la vôtre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43149,6 +43213,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T102541Z" creationid="Olivier" creationdate="20200819T102541Z">
         <seg>Vous pouvez consulter "l'argent des investisseurs publics disponible pour votre entreprise" affiché en haut de l'écran de visualisation de la ville.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You cannot acquire new technology now.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210514T082428Z" creationid="Olivier" creationdate="20210514T082428Z">
+        <seg>Vous ne pouvez pas acquérir une nouvelle technologie maintenant.</seg>
       </tuv>
     </tu>
     <tu>
