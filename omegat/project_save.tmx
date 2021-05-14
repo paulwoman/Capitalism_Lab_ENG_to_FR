@@ -65192,6 +65192,70 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3373]&lt;CNLD&gt;Cannot load the game as it was saved using a later game version.\nPlease first update your %1s to Version %2s or later.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210514T082833Z" creationid="Olivier" creationdate="20210514T082833Z">
+        <seg>[3373]&lt;CNLD&gt;Impossible de charger le jeu car il a été sauvegardé avec une version ultérieure du jeu. Veuillez d'abord mettre à jour votre %1s avec la version %2s ou ultérieure..|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3374]&lt;MTRC&gt;Monthly Training Cost|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210514T082848Z" creationid="Olivier" creationdate="20210514T082848Z">
+        <seg>[3374]&lt;MTRC&gt;Coût mensuel de la formation|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3375]&lt;RDB7&gt;This Firm's Retail Demand Bonus:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210514T082900Z" creationid="Olivier" creationdate="20210514T082900Z">
+        <seg>[3375]&lt;RDB7&gt;La prime de demande de détail de cette entreprise :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3378]&lt;RDS1&gt;Increase Demand Bonus in the following ways:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210514T082916Z" creationid="Olivier" creationdate="20210514T082916Z">
+        <seg>[3378]&lt;RDS1&gt;Augmentez la prime à la demande de la manière suivante :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3379]&lt;RDS3&gt;-Build more service firms of the same type in the same city.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210514T082942Z" creationid="Olivier" creationdate="20210514T082934Z">
+        <seg>[3379]&lt;RDS3&gt;- Construire plus d'entreprises de services du même type dans la même ville.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3380]&lt;RDS4&gt;-Service firms in areas with high customer traffic will boost the chain popularity more.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210514T083014Z" creationid="Olivier" creationdate="20210514T082940Z">
+        <seg>[3380]&lt;RDS4&gt;-Les entreprises de services situées dans des zones à fort trafic de clients renforceront la popularité de la chaîne.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3381]&lt;RDS7&gt;This Service Firm's Demand Bonus:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210514T083031Z" creationid="Olivier" creationdate="20210514T083031Z">
+        <seg>[3381]&lt;RDS7&gt;La prime à la demande de cette entreprise de services : |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3382]&lt;ESP1&gt;Score Penalty|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210514T083059Z" creationid="Olivier" creationdate="20210514T083059Z">
+        <seg>[3382]&lt;ESP1&gt;Pénalité|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202555Z" creationid="Inrepublica" creationdate="20200422T202555Z">
