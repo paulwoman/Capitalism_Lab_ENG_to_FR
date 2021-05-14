@@ -3582,6 +3582,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ALMETHOD</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210514T082447Z" creationid="Olivier" creationdate="20210514T082447Z">
+        <seg>ALMETHOD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ANALYSIS</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T100555Z" creationid="Olivier" creationdate="20200507T100555Z">
@@ -4806,6 +4814,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alternative Production Blueprints</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210514T082511Z" creationid="Olivier" creationdate="20210514T082511Z">
+        <seg>Plans de production alternatifs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alternative Stock Sim</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T151230Z" creationid="Inrepublica" creationdate="20200422T151230Z">
@@ -5802,6 +5818,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T102739Z" creationid="Olivier" creationdate="20200507T102739Z">
         <seg>BKHQWAIT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BKMSHARE</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210514T082539Z" creationid="Olivier" creationdate="20210514T082539Z">
+        <seg>BKMSHARE</seg>
       </tuv>
     </tu>
     <tu>
@@ -9222,6 +9246,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click the arrow icons to browse the different production blueprints.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210514T082536Z" creationid="Olivier" creationdate="20210514T082536Z">
+        <seg>Cliquez sur les icônes en forme de flèche pour parcourir les différents plans de production.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click the speed dial to alter the game speed.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144757Z" creationid="Olivier" creationdate="20200428T144757Z">
@@ -11474,6 +11506,22 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200507T192055Z" creationid="Acer" creationdate="20200507T192055Z">
         <seg>Dépôt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Deposit Market Share</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210514T082555Z" creationid="Olivier" creationdate="20210514T082555Z">
+        <seg>Part de marché des dépôts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Deposit Market Share = the amount on deposit at a particular bank divided by the total amount on deposit at all banks.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210514T082617Z" creationid="Olivier" creationdate="20210514T082617Z">
+        <seg>Part de marché des dépôts = le montant en dépôt dans une banque spécifique divisé par le montant total en dépôt dans toutes les banques.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36409,6 +36457,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The current game version supports a different number of DLCs than the save game.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210514T082725Z" creationid="Olivier" creationdate="20210514T082725Z">
+        <seg>La version actuelle du jeu supporte un nombre de DLC différent de celui de la partie sauvegardée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The current stock price.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151742Z" creationid="Olivier" creationdate="20200504T151742Z">
@@ -36661,6 +36717,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T152425Z" creationid="Olivier" creationdate="20200507T152425Z">
         <seg>Ce financement permettra d'accroître la compétitivité de la ville dans le domaine ciblé et d'améliorer les compétences et l'offre de talents spécialisés dans ce domaine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The game is incompatible with the current game version.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210514T082806Z" creationid="Olivier" creationdate="20210514T082806Z">
+        <seg>La partie est incompatible avec la version de ce jeu.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -38093,6 +38157,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T151919Z" creationid="Olivier" creationdate="20200423T151919Z">
         <seg>Il y a plus d'une ville dans ce tutoriel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There is more than one way to make this product.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210514T082525Z" creationid="Olivier" creationdate="20210514T082525Z">
+        <seg>Il y a plus d'une façon de fabriquer ce produit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65100,6 +65172,22 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20210305T103515Z" creationid="Olivier" creationdate="20210305T103515Z">
         <seg>[3370]&lt;FISP&gt;Désolé, vous ne pouvez pas modifier la vitesse du jeu en cours car elle est fixée par un script de jeu.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3371]&lt;DVE1&gt;Error: Cannot load game.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210514T082636Z" creationid="Olivier" creationdate="20210514T082636Z">
+        <seg>[3371]&lt;DVE1&gt;Erreur : Impossible de charger la partie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3372]&lt;DVE2&gt;Error: Cannot load game.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210514T082743Z" creationid="Olivier" creationdate="20210514T082743Z">
+        <seg>[3372]&lt;DVE2&gt;Erreur : impossible de charger la partie.</seg>
       </tuv>
     </tu>
     <tu>
