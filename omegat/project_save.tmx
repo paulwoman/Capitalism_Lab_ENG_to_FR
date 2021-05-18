@@ -65210,8 +65210,24 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>[3375]&lt;RDB7&gt;This Firm's Retail Demand Bonus:|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20210514T082900Z" creationid="Olivier" creationdate="20210514T082900Z">
-        <seg>[3375]&lt;RDB7&gt;La prime de demande de détail de cette entreprise :|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210518T060839Z" creationid="Olivier" creationdate="20210514T082900Z">
+        <seg>[3375]&lt;RDB7&gt;Bonus de demande cette entreprise :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3376]&lt;RDB8&gt;star|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210518T060649Z" creationid="Olivier" creationdate="20210518T060649Z">
+        <seg>[3376]&lt;RDB8&gt;étoile|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3377]&lt;RDB9&gt;stars|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210518T060656Z" creationid="Olivier" creationdate="20210518T060656Z">
+        <seg>[3377]&lt;RDB9&gt;étoiles|</seg>
       </tuv>
     </tu>
     <tu>
