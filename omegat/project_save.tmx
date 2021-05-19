@@ -592,8 +592,8 @@
       <tuv lang="en-US">
         <seg>(hotkey: '+' or '=')</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20210420T100742Z" creationid="Olivier" creationdate="20200502T135749Z">
-        <seg>(Touche de raccourci "+" ou "=")</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200502T135749Z">
+        <seg>(raccourci "+" ou "=")</seg>
       </tuv>
     </tu>
     <tu>
@@ -5056,8 +5056,8 @@
       <tuv lang="en-US">
         <seg>Apartments and Commercial Buildings Display (hotkey: Ctrl-C)</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T101848Z" creationid="Olivier" creationdate="20200502T101848Z">
-        <seg>Affichage des appartements et des immeubles commerciaux (touche de raccourci : Ctrl-C)</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200502T101848Z">
+        <seg>Affichage des appartements et des immeubles commerciaux (raccourci : Ctrl-C)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6064,8 +6064,8 @@
       <tuv lang="en-US">
         <seg>B_TOOL</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20210516T170249Z" creationid="Olivier" creationdate="20200428T115426Z">
-        <seg>fB_TOOL</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T132914Z" creationid="Olivier" creationdate="20210519T132914Z">
+        <seg>B_TOOL</seg>
       </tuv>
     </tu>
     <tu>
@@ -6112,16 +6112,16 @@
       <tuv lang="en-US">
         <seg>Back to the previous firm (hotkey: Q)</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20210514T082256Z" creationid="Olivier" creationdate="20210514T082256Z">
-        <seg>Revenir à l'entreprise précédente (touche de raccourci : Q)</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20210514T082256Z">
+        <seg>Revenir à l'entreprise précédente (raccourci : Q)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Back to the previous firm (hotkey: q)</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T091753Z" creationid="Olivier" creationdate="20200819T091723Z">
-        <seg>Revenir à l'entreprise précédente (touche de raccourci : q)</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200819T091723Z">
+        <seg>Revenir à l'entreprise précédente (raccourci : q)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6544,8 +6544,8 @@
       <tuv lang="en-US">
         <seg>Build Menu (hotkey: B)</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200429T091714Z" creationid="Olivier" creationdate="20200428T122555Z">
-        <seg>Menu -Construction- (touche de raccourci : B / Build)</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200428T122555Z">
+        <seg>Menu -Construction- (raccourci : B / Build)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6672,8 +6672,8 @@
       <tuv lang="en-US">
         <seg>Business Mode  (hotkey: Tab)</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150642Z" creationid="Olivier" creationdate="20200504T150247Z">
-        <seg>Mode commercial (touche de raccourci : Tab)</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200504T150247Z">
+        <seg>Mode commercial (raccourci : Tab)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6856,8 +6856,8 @@
       <tuv lang="en-US">
         <seg>Buy plots of land (hotkey: CTRL-L)</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T122959Z" creationid="Olivier" creationdate="20200428T122959Z">
-        <seg>Acheter des parcelles de terrain (touche de raccourci : CTRL-L / Land)</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200428T122959Z">
+        <seg>Acheter des parcelles de terrain (raccourci : CTRL-L / Land)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8880,8 +8880,8 @@
       <tuv lang="en-US">
         <seg>Click here to add a new product (hotkey: A)</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T150141Z" creationid="Olivier" creationdate="20200502T150141Z">
-        <seg>Cliquez ici pour ajouter un nouveau produit (touche de raccourci : A)</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200502T150141Z">
+        <seg>Cliquez ici pour ajouter un nouveau produit (raccourci : A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9136,16 +9136,16 @@
       <tuv lang="en-US">
         <seg>Click here to set the manager of this firm (hotkey: 'z').</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T103728Z" creationid="Olivier" creationdate="20200503T103728Z">
-        <seg>Cliquez ici pour définir le directeur de cette entreprise (touche de raccourci : 'z').</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200503T103728Z">
+        <seg>Cliquez ici pour définir le directeur de cette entreprise (raccourci : 'z').</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Click here to set up the layout (hotkey: A)</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200606T144031Z" creationid="Olivier" creationdate="20200606T144031Z">
-        <seg>Cliquez ici pour mettre en place la mise en page (touche de raccourci : A)</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200606T144031Z">
+        <seg>Cliquez ici pour mettre en place la mise en page (raccourci : A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9936,8 +9936,8 @@
       <tuv lang="en-US">
         <seg>Close News Log window (hotkey: 'V')</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141408Z" creationid="Olivier" creationdate="20200502T141408Z">
-        <seg>Fermer la fenêtre du journal des actualités (touche de raccourci : 'V')</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200502T141408Z">
+        <seg>Fermer la fenêtre du journal des actualités (raccourci : 'V')</seg>
       </tuv>
     </tu>
     <tu>
@@ -10272,8 +10272,8 @@
       <tuv lang="en-US">
         <seg>Confirm the price change (hotkey: ']')</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T092703Z" creationid="Olivier" creationdate="20200819T092703Z">
-        <seg>Confirmer le changement de prix (touche de raccourci : ']' )</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200819T092703Z">
+        <seg>Confirmer le changement de prix (raccourci : ']' )</seg>
       </tuv>
     </tu>
     <tu>
@@ -10880,8 +10880,8 @@
       <tuv lang="en-US">
         <seg>Corporate Summary Report (hotkey: 'C')</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200429T085120Z" creationid="Olivier" creationdate="20200428T123356Z">
-        <seg>Rapport de synthèse de l'entreprise (touche de raccourci : 'C' / Corporate) </seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200428T123356Z">
+        <seg>Rapport de synthèse de l'entreprise (raccourci : 'C' / Corporate) </seg>
       </tuv>
     </tu>
     <tu>
@@ -13344,8 +13344,8 @@
       <tuv lang="en-US">
         <seg>Event Tracker (hotkey: F5)</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T131646Z" creationid="Olivier" creationdate="20200427T131646Z">
-        <seg>Suivi des événements (touche de raccourci : F5)</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200427T131646Z">
+        <seg>Suivi des événements (raccourci : F5)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13984,8 +13984,8 @@
       <tuv lang="en-US">
         <seg>Financial Report (hotkey: F6)</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141849Z" creationid="Olivier" creationdate="20200502T141849Z">
-        <seg>Rapport financier (touche de raccourci : F6)</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200502T141849Z">
+        <seg>Rapport financier (raccourci : F6)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14000,8 +14000,8 @@
       <tuv lang="en-US">
         <seg>Financial report (hotkey: F6)</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T103157Z" creationid="Olivier" creationdate="20200506T103157Z">
-        <seg>Rapport financier (touche de raccourci : F6)</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200506T103157Z">
+        <seg>Rapport financier (raccourci : F6)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14064,8 +14064,8 @@
       <tuv lang="en-US">
         <seg>Firm Summary Report (hotkey: 'F')</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200429T085126Z" creationid="Olivier" creationdate="20200428T144042Z">
-        <seg>Rapport de synthèse de l'entreprise (touche de raccourci : 'F' / Firm)</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200428T144042Z">
+        <seg>Rapport de synthèse de l'entreprise (raccourci : 'F' / Firm)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15610,8 +15610,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Global Stock Market (hotkey: Ctrl-G)</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T092016Z" creationid="Olivier" creationdate="20200508T092016Z">
-        <seg>Bourse mondiale (touche de raccourci : Ctrl-G)</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200508T092016Z">
+        <seg>Bourse mondiale (raccourci : Ctrl-G)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15674,8 +15674,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Go to the firm selling or producing this product (Hotkey: Enter)</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T103918Z" creationid="Olivier" creationdate="20200503T103918Z">
-        <seg>Se rendre à l'établissement qui vend ou fabrique ce produit (touche de raccourci : Entrée)</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200503T103918Z">
+        <seg>Se rendre à l'établissement qui vend ou fabrique ce produit (raccourci : Entrée)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16555,8 +16555,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Goal Report (hotkey: G)</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T123121Z" creationid="Olivier" creationdate="20200428T123121Z">
-        <seg>Rapport sur les objectifs (touche de raccourci : G / Goal)</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200428T123121Z">
+        <seg>Rapport sur les objectifs (raccourci : G / Goal)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17203,8 +17203,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Government Mode (hotkey: Tab)</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T150139Z" creationid="Olivier" creationdate="20200504T150139Z">
-        <seg>Mode gouvernemental (touche de raccourci : Tab)</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200504T150139Z">
+        <seg>Mode gouvernemental (raccourci : Tab)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17571,8 +17571,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Hence, if you just want the game time to pass without needing to interact with any game user interfaces, you could #just open Farmer's Guide# (hotkey: F2) and the game time will advance #much faster#.^</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T121036Z" creationid="Olivier" creationdate="20200819T121036Z">
-        <seg>Par conséquent, si vous voulez simplement que le temps de jeu passe sans avoir besoin d'interagir avec les interfaces utilisateur du jeu, vous pouvez #juste ouvrir le Guide du fermier# (touche de raccourci : F2) et le temps de jeu avancera #beaucoup plus vite#.^</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200819T121036Z">
+        <seg>Par conséquent, si vous voulez simplement que le temps de jeu passe sans avoir besoin d'interagir avec les interfaces utilisateur du jeu, vous pouvez #juste ouvrir le Guide du fermier# (raccourci : F2) et le temps de jeu avancera #beaucoup plus vite#.^</seg>
       </tuv>
     </tu>
     <tu>
@@ -17931,8 +17931,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Hotkey: Ctrl-M</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T092550Z" creationid="Olivier" creationdate="20200819T092550Z">
-        <seg>Touche de raccourci : Ctrl-M</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200819T092550Z">
+        <seg>raccourci : Ctrl-M</seg>
       </tuv>
     </tu>
     <tu>
@@ -20619,8 +20619,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>If you want to enable #Internal Sale# by default, you can open the #Option menu# (hotkey: 'O') and set #Default Internal Sale# to #Enabled#.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T164813Z" creationid="Olivier" creationdate="20200502T164813Z">
-        <seg>Si vous souhaitez activer #Vente interne# par défaut, vous pouvez ouvrir le menu #Option# (touche de raccourci : 'O') et régler #Vente interne# par défaut sur #Activée#.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200502T164813Z">
+        <seg>Si vous souhaitez activer #Vente interne# par défaut, vous pouvez ouvrir le menu #Option# (raccourci : 'O') et régler #Vente interne# par défaut sur #Activée#.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22915,8 +22915,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Largest zoom level (hotkey: '/')</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T123251Z" creationid="Olivier" creationdate="20200428T123251Z">
-        <seg>Plus grand niveau de zoom (touche de raccourci : '/')</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200428T123251Z">
+        <seg>Plus grand niveau de zoom (raccourci : '/')</seg>
       </tuv>
     </tu>
     <tu>
@@ -22955,8 +22955,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Layout Plan Library (hotkey: F7)</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141807Z" creationid="Olivier" creationdate="20200502T141807Z">
-        <seg>Bibliothèque de plans d'aménagement (touche de raccourci : F7)</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200502T141807Z">
+        <seg>Bibliothèque de plans d'aménagement (raccourci : F7)</seg>
       </tuv>
     </tu>
     <tu>
@@ -24435,16 +24435,16 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Mini Map (hotkey: 'M')</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200429T084925Z" creationid="Olivier" creationdate="20200427T120241Z">
-        <seg>Mini carte (touche de raccourci : 'M')</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200427T120241Z">
+        <seg>Mini carte (raccourci : 'M')</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Mini Map (hotkey: M)</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20210514T082201Z" creationid="Olivier" creationdate="20210514T082201Z">
-        <seg>Mini Map (hotkey: M)</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20210514T082201Z">
+        <seg>Mini Map (raccourci  : M)</seg>
       </tuv>
     </tu>
     <tu>
@@ -24883,8 +24883,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>News Display Option (hotkey: 'N')</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144823Z" creationid="Olivier" creationdate="20200428T144823Z">
-        <seg>Option d'affichage des nouvelles (touche de raccourci : 'N' / News)</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200428T144823Z">
+        <seg>Option d'affichage des nouvelles (raccourci : 'N' / News)</seg>
       </tuv>
     </tu>
     <tu>
@@ -24899,16 +24899,16 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Next Building (hotkey: PgDn)</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T102619Z" creationid="Olivier" creationdate="20200502T102619Z">
-        <seg>Bâtiment suivant (touche de raccourci : PgDn)</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200502T102619Z">
+        <seg>Bâtiment suivant (raccourci : PgDn)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Next City (hotkey: ']')</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200429T085326Z" creationid="Olivier" creationdate="20200428T171816Z">
-        <seg>Ville suivante (touche de raccourci : ' ]')</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200428T171816Z">
+        <seg>Ville suivante (raccourci : ' ]')</seg>
       </tuv>
     </tu>
     <tu>
@@ -25043,8 +25043,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Normal zoom level (hotkey: '.')</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T123220Z" creationid="Olivier" creationdate="20200428T123220Z">
-        <seg>Niveau de zoom normal (touche de raccourci : '.')</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200428T123220Z">
+        <seg>Niveau de zoom normal (raccourci : '.')</seg>
       </tuv>
     </tu>
     <tu>
@@ -26699,8 +26699,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Open News Log window (hotkey: 'V')</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141121Z" creationid="Olivier" creationdate="20200502T141121Z">
-        <seg>Ouvrir la fenêtre du journal des actualités (touche de raccourci : 'V')</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200502T141121Z">
+        <seg>Ouvrir la fenêtre du journal des actualités (raccourci : 'V')</seg>
       </tuv>
     </tu>
     <tu>
@@ -26763,8 +26763,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Open the Road Editor (hotkey: Ctrl-R)</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200819T093634Z" creationid="Olivier" creationdate="20200819T093634Z">
-        <seg>Ouvrir l'éditeur de route (touche de raccourci : Ctrl-R)</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200819T093634Z">
+        <seg>Ouvrir l'éditeur de route (raccourci : Ctrl-R)</seg>
       </tuv>
     </tu>
     <tu>
@@ -28595,8 +28595,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Player's Firm Filter (hotkey: F8)</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T102038Z" creationid="Olivier" creationdate="20200502T102038Z">
-        <seg>Filtre entreprises du joueur (touche de raccourci : F8)</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200502T102038Z">
+        <seg>Filtre entreprises du joueur (raccourci : F8)</seg>
       </tuv>
     </tu>
     <tu>
@@ -29915,32 +29915,32 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Press the shortcut key ~B~ to open the the Build menu now.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T133311Z" creationid="Olivier" creationdate="20200426T133311Z">
-        <seg>Appuyez sur la touche de raccourci ~B~ pour ouvrir le menu Construire maintenant.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200426T133311Z">
+        <seg>Appuyez sur la raccourci ~B~ pour ouvrir le menu Construire maintenant.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Press the shortcut key ~F1~ to open it now.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200426T132813Z" creationid="Olivier" creationdate="20200426T132813Z">
-        <seg>Appuyez sur la touche de raccourci ~F1~ pour l'ouvrir maintenant.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200426T132813Z">
+        <seg>Appuyez sur la raccourci ~F1~ pour l'ouvrir maintenant.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Previous Building (hotkey: PgUp)</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T102223Z" creationid="Olivier" creationdate="20200502T102223Z">
-        <seg>Bâtiment précédent (touche de raccourci : PgUp)</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200502T102223Z">
+        <seg>Bâtiment précédent (raccourci : PgUp)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Previous City (hotkey: '[')</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200429T085305Z" creationid="Olivier" creationdate="20200428T171736Z">
-        <seg>Ville précédente (touche de raccourci : ' [')</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200428T171736Z">
+        <seg>Ville précédente (raccourci : ' [')</seg>
       </tuv>
     </tu>
     <tu>
@@ -30083,8 +30083,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Product Customization (hotkey: 'z')</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T090322Z" creationid="Olivier" creationdate="20200506T090322Z">
-        <seg>Personnalisation du produit (touche de raccourci : 'z')</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200506T090322Z">
+        <seg>Personnalisation du produit (raccourci : 'z')</seg>
       </tuv>
     </tu>
     <tu>
@@ -30227,8 +30227,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Product Summary Report (hotkey: 'P')</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200429T085042Z" creationid="Olivier" creationdate="20200428T123320Z">
-        <seg>Rapport de synthèse sur le produit (touche de raccourci : 'P' / Product)</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200428T123320Z">
+        <seg>Rapport de synthèse sur le produit (raccourci : 'P' / Product)</seg>
       </tuv>
     </tu>
     <tu>
@@ -31275,8 +31275,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Relocate or Demolish this firm (hotkey: Ctrl-X)</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200503T103639Z" creationid="Olivier" creationdate="20200503T103639Z">
-        <seg>Déplacer ou démolir cet établissement (touche de raccourci : Ctrl-X)</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200503T103639Z">
+        <seg>Déplacer ou démolir cet établissement (raccourci : Ctrl-X)</seg>
       </tuv>
     </tu>
     <tu>
@@ -31307,8 +31307,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Relocate, Demolish or Transfer this firm (hotkey: Ctrl-X)</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092351Z" creationid="Olivier" creationdate="20200506T092351Z">
-        <seg>Délocaliser, démolir ou transférer cette entreprise (touche de raccourci : Ctrl-X)</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200506T092351Z">
+        <seg>Délocaliser, démolir ou transférer cette entreprise (raccourci : Ctrl-X)</seg>
       </tuv>
     </tu>
     <tu>
@@ -32627,8 +32627,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Search for a specific product (Hotkey: Tab)</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200607T075308Z" creationid="Olivier" creationdate="20200503T103756Z">
-        <seg>Recherche d'un produit spécifique (touche de raccourci : TAB)</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200503T103756Z">
+        <seg>Recherche d'un produit spécifique (raccourci : TAB)</seg>
       </tuv>
     </tu>
     <tu>
@@ -33227,8 +33227,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Set up a new production for this firm (hotkey: A)</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20210406T150737Z" creationid="Olivier" creationdate="20201203T110718Z">
-        <seg>Mise en place d'une nouvelle production pour cette firme (touche de raccourci : A)</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20201203T110718Z">
+        <seg>Mise en place d'une nouvelle production pour cette firme (raccourci : A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -33395,8 +33395,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Show filtered firms only (hotkey: Ctrl-F)</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T152335Z" creationid="Olivier" creationdate="20200507T152335Z">
-        <seg>Afficher uniquement les établissements filtrés (touche de raccourci : Ctrl-F)</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200507T152335Z">
+        <seg>Afficher uniquement les établissements filtrés (raccourci : Ctrl-F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -33499,8 +33499,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Show the current supplier (hotkey: W or U)</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T103306Z" creationid="Olivier" creationdate="20200506T103306Z">
-        <seg>Afficher le fournisseur actuel (touche de raccourci : W ou U)</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200506T103306Z">
+        <seg>Afficher le fournisseur actuel (raccourci : W ou U)</seg>
       </tuv>
     </tu>
     <tu>
@@ -33563,8 +33563,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Smallest zoom level (hotkey: ',')</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T123147Z" creationid="Olivier" creationdate="20200428T123147Z">
-        <seg>Plus petit niveau de zoom (touche de raccourci : ',')</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200428T123147Z">
+        <seg>Plus petit niveau de zoom (raccourci : ',')</seg>
       </tuv>
     </tu>
     <tu>
@@ -34491,8 +34491,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Switch View (hotkey: 'A')</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T091038Z" creationid="Olivier" creationdate="20200508T091038Z">
-        <seg>Changer de vue (touche de raccourci : 'A')</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200508T091038Z">
+        <seg>Changer de vue (raccourci : 'A')</seg>
       </tuv>
     </tu>
     <tu>
@@ -39107,8 +39107,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>This time, let's use the shortcut key ~F4~ to go to the Stock Exchange.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Acer" changedate="20200424T205543Z" creationid="Acer" creationdate="20200424T205543Z">
-        <seg>Cette fois, utilisons la touche de raccourci ~F4~ pour aller à la Bourse.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Acer" creationdate="20200424T205543Z">
+        <seg>Cette fois, utilisons la raccourci ~F4~ pour aller à la Bourse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39867,8 +39867,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>To access the ~Brand Strategy~ screen, open the ~Corporate Detail~ report by pressing the shortcut key ~D~ now (or ~Ctrl-D~ if you have changed the shortcut key setting in the Options menu).</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T103206Z" creationid="Olivier" creationdate="20200825T103206Z">
-        <seg>Pour accéder à l'écran ~Stratégie de marque~, ouvrez le rapport ~Détail de l'entreprise~ en appuyant sur la touche de raccourci ~D~ maintenant (ou ~Ctrl-D~ si vous avez modifié le paramètre de la touche de raccourci dans le menu Options).</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200825T103206Z">
+        <seg>Pour accéder à l'écran ~Stratégie de marque~, ouvrez le rapport ~Détail de l'entreprise~ en appuyant sur la raccourci ~D~ maintenant (ou ~Ctrl-D~ si vous avez modifié le paramètre de la raccourci dans le menu Options).</seg>
       </tuv>
     </tu>
     <tu>
@@ -39931,8 +39931,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>To change the filtered list, access the #Products Summary# (hotkey: 'p') and choose different settings.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20210323T085842Z" creationid="Olivier" creationdate="20210323T085745Z">
-        <seg>Pour modifier la liste filtrée, accédez au # Résumé des produits#  (touche de raccourci : 'p') et choisissez différents paramètres.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20210323T085745Z">
+        <seg>Pour modifier la liste filtrée, accédez au # Résumé des produits#  (raccourci : 'p') et choisissez différents paramètres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40235,8 +40235,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Toggle Display (Hotkey: Ctrl-A)</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200509T104431Z" creationid="Olivier" creationdate="20200509T104431Z">
-        <seg>Basculer l'affichage (touche de raccourci : Ctrl-A)</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200509T104431Z">
+        <seg>Basculer l'affichage (raccourci : Ctrl-A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -40307,8 +40307,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Toggle between the Analysis Mode and the standard 3x3 layout mode.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T100911Z" creationid="Olivier" creationdate="20200507T100911Z">
-        <seg>Passer en mode d'analyse (touche de raccourci : X)</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200507T100911Z">
+        <seg>Passer en mode d'analyse (raccourci : X)</seg>
       </tuv>
     </tu>
     <tu>
@@ -40403,8 +40403,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Toolbox (hotkey: Ctrl-T)</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20201006T101000Z" creationid="Olivier" creationdate="20201006T101000Z">
-        <seg>Boîte à outils (touche de raccourci : Ctrl-T)</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20201006T101000Z">
+        <seg>Boîte à outils (raccourci : Ctrl-T)</seg>
       </tuv>
     </tu>
     <tu>
@@ -42947,8 +42947,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>With the advertising delivering its effect, your products' ~brand ratings~ will continue to increase, which in turn will raise your products' ~overall ratings~ and thus drive their sales higher.^^While all this is happening, let's open the ~Corporate Details~ report by pressing the shortcut key ~'D'~ (or ~Ctrl-D~) to access some useful market intelligence.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200825T103646Z" creationid="Olivier" creationdate="20200825T103646Z">
-        <seg>Pendant que la publicité produit ses effets, le ~ classement de la marque~ de vos produits continuera à augmenter, ce qui, à son tour, augmentera le ~ classement général~ de vos produits et donc leurs ventes.^^Pendant que tout cela se produit, ouvrons le rapport ~Détails de l'entreprise~ en appuyant sur la touche de raccourci ~'D'~ (ou ~Ctrl-D~) pour accéder à des informations utiles sur le marché.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200825T103646Z">
+        <seg>Pendant que la publicité produit ses effets, le ~ classement de la marque~ de vos produits continuera à augmenter, ce qui, à son tour, augmentera le ~ classement général~ de vos produits et donc leurs ventes.^^Pendant que tout cela se produit, ouvrons le rapport ~Détails de l'entreprise~ en appuyant sur la raccourci ~'D'~ (ou ~Ctrl-D~) pour accéder à des informations utiles sur le marché.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42995,8 +42995,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>World Map (hotkey: Ctrl-W)</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T120315Z" creationid="Olivier" creationdate="20200427T120315Z">
-        <seg>Carte du monde (touche de raccourci : Ctrl-W)</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200427T120315Z">
+        <seg>Carte du monde (raccourci : Ctrl-W)</seg>
       </tuv>
     </tu>
     <tu>
@@ -43867,8 +43867,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>You may open it anytime by opening the ~Information Center~ and then selecting ~Goal Report~, or by pressing the ~shortcut key 'G'~.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20210420T100759Z" creationid="Olivier" creationdate="20200423T152342Z">
-        <seg>Vous pouvez l'ouvrir à tout moment en ouvrant le ~Centre d'informations~ puis en sélectionnant ~Rapport d'objectif~, ou en appuyant sur la touche de raccourci "G"~.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200423T152342Z">
+        <seg>Vous pouvez l'ouvrir à tout moment en ouvrant le ~Centre d'informations~ puis en sélectionnant ~Rapport d'objectif~, ou en appuyant sur la raccourci "G"~.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60642,8 +60642,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>[2830]&lt;AGS2&gt;(Press the 'G' shortcut key anytime to view the Goal screen)|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200827T104440Z" creationid="Olivier" creationdate="20200512T094528Z">
-        <seg>[2830]&lt;AGS2&gt;(Appuyez sur la touche de raccourci "G" à tout moment pour afficher l'écran 'Objectif')|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200512T094528Z">
+        <seg>[2830]&lt;AGS2&gt;(Appuyez sur la raccourci "G" à tout moment pour afficher l'écran 'Objectif')|</seg>
       </tuv>
     </tu>
     <tu>
@@ -61130,8 +61130,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>[2889]&lt;NCG4&gt;Press the 'G' shortcut key anytime to view the Goal screen.|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20210420T100751Z" creationid="Olivier" creationdate="20200512T100831Z">
-        <seg>[2889]&lt;NCG4&gt;Appuyez sur la touche de raccourci "G" à tout moment pour afficher l'écran 'Objectif'|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200512T100831Z">
+        <seg>[2889]&lt;NCG4&gt;Appuyez sur la raccourci "G" à tout moment pour afficher l'écran 'Objectif'|</seg>
       </tuv>
     </tu>
     <tu>
@@ -61146,8 +61146,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>[2891]&lt;NCG6&gt;Press the 'G' shortcut key anytime to view the Goal screen.|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T100910Z" creationid="Olivier" creationdate="20200512T100910Z">
-        <seg>[2891]&lt;NCG6&gt;Appuyez sur la touche de raccourci 'G' à tout moment pour afficher l'écran 'Objectif'|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200512T100910Z">
+        <seg>[2891]&lt;NCG6&gt;Appuyez sur la raccourci 'G' à tout moment pour afficher l'écran 'Objectif'|</seg>
       </tuv>
     </tu>
     <tu>
@@ -66612,8 +66612,8 @@ Pendant que nous explorions les interfaces, votre grand magasin générait déj�
       <tuv lang="en-US">
         <seg>^^To see the effect of R&amp;D on your manufacturing operations, press ~shortcut key '5'~ to set the game speed to ~the Fastest~.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20210420T100806Z" creationid="Olivier" creationdate="20200426T135415Z">
-        <seg>^^Pour voir l'effet de la R&amp;D sur vos opérations de fabrication, appuyez sur la ~touche de raccourci "5" ~pour régler la vitesse du jeu sur 'le plus rapide'.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200426T135415Z">
+        <seg>^^Pour voir l'effet de la R&amp;D sur vos opérations de fabrication, appuyez sur la ~raccourci "5" ~pour régler la vitesse du jeu sur 'le plus rapide'.</seg>
       </tuv>
     </tu>
     <tu>
