@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.4_0_ab439459" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10598,6 +10598,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Contest Started On=2021-05-27</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210531T152637Z" creationid="Olivier" creationdate="20210531T152637Z">
+        <seg>Contest Started On=2021-05-27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Controlled Companies Annual Profit=1500</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T221603Z" creationid="Olivier" creationdate="20200430T221603Z">
@@ -12114,6 +12122,16 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T104909Z" creationid="Olivier" creationdate="20200430T104909Z">
         <seg>Description=Votre objectif est de transformer les villes en zones métropolitaines prospères.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description=Your goal is to grow your company from a humble e-commerce startup to a formidable behemoth, ultimately dominating the e-commerce sector and posing existential threats to incompetent retailers.^^You will win this scenario when your company’s e-commerce sales reach $200 million annually and your company’s market capitalization surpasses the $1 billion mark.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210531T153046Z" creationid="Olivier" creationdate="20210531T153046Z">
+        <seg>Description=Votre objectif est de faire passer votre entreprise d'une modeste start-up de commerce électronique à un formidable mastodonte, qui finira par dominer le secteur du commerce électronique et par menacer les détaillants incompétents. Vous remporterez ce scénario lorsque les ventes de commerce électronique de votre entreprise atteindront 200 millions de dollars par an et que sa capitalisation boursière dépassera le milliard de dollars.
+
+Traduit avec www.DeepL.com/Translator (version gratuite).</seg>
       </tuv>
     </tu>
     <tu>
