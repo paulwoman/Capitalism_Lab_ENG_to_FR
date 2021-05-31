@@ -4230,14 +4230,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Add Seaport Product=Steel</seg>
-      </tuv>
-      <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200424T121325Z" creationid="Inrepublica" creationdate="20200424T121325Z">
-        <seg>Add Seaport Product=Steel</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Add Seaport Product=Textiles</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T101323Z" creationid="Olivier" creationdate="20200424T101323Z">
@@ -10606,6 +10598,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Contest Started On=2021-05-28</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210531T153059Z" creationid="Olivier" creationdate="20210531T153059Z">
+        <seg>Contest Started On=2021-05-28</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Controlled Companies Annual Profit=1500</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200430T221603Z" creationid="Olivier" creationdate="20200430T221603Z">
@@ -12128,10 +12128,8 @@
       <tuv lang="en-US">
         <seg>Description=Your goal is to grow your company from a humble e-commerce startup to a formidable behemoth, ultimately dominating the e-commerce sector and posing existential threats to incompetent retailers.^^You will win this scenario when your company’s e-commerce sales reach $200 million annually and your company’s market capitalization surpasses the $1 billion mark.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20210531T153046Z" creationid="Olivier" creationdate="20210531T153046Z">
-        <seg>Description=Votre objectif est de faire passer votre entreprise d'une modeste start-up de commerce électronique à un formidable mastodonte, qui finira par dominer le secteur du commerce électronique et par menacer les détaillants incompétents. Vous remporterez ce scénario lorsque les ventes de commerce électronique de votre entreprise atteindront 200 millions de dollars par an et que sa capitalisation boursière dépassera le milliard de dollars.
-
-Traduit avec www.DeepL.com/Translator (version gratuite).</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210531T153054Z" creationid="Olivier" creationdate="20210531T153046Z">
+        <seg>Description=Votre objectif est de faire passer votre entreprise d'une modeste start-up de commerce électronique à un formidable mastodonte, qui finira par dominer le secteur du commerce électronique et par menacer les détaillants incompétents. Vous remporterez ce scénario lorsque les ventes de commerce électronique de votre entreprise atteindront 200 millions de dollars par an et que sa capitalisation boursière dépassera le milliard de dollars.</seg>
       </tuv>
     </tu>
     <tu>
