@@ -3,7 +3,7 @@ Toolbox (hotkey: Ctrl-T)
 Show or hide the Toolbox menu.
 ~
 B_MINMAP
-Mini Map (hotkey: 'M')
+Mini Map (hotkey: M)
 Show or hide the Mini Map.
 ~
 B_WORLD
@@ -11,7 +11,7 @@ World Map (hotkey: Ctrl-W)
 Show or hide the World Map.
 ~
 B_INFO
-Information Center
+Information Center (hotkey: I)
 Open the Information Center screen.
 ~
 B_WATCH
@@ -19,7 +19,7 @@ Event Tracker (hotkey: F5)
 Open the Event Tracker Window.
 ~
 B_BACK
-Back to the previous firm (hotkey: q)
+Back to the previous firm (hotkey: Q)
 Go back to the previously selected firm.
 ~
 B_CASH
@@ -3455,4 +3455,20 @@ Visit the Reddit community of Capitalism Lab.
 AVGRENT
 Annual Rent Per Square Foot
 When you change the rent, the new rent only affects new tenants and existing tenants who renew their leases. As such, the #Annual Rent Per Square Foot# does not reflect the change you made to the rent immediately.
+~
+MGATECH1
+Acquire technology from other companies. 
+`
+~
+MGATECH0
+Cannot acquire technology
+You cannot acquire new technology now. None of the other companies have a technology more advanced than yours.
+~
+ALMETHOD
+Alternative Production Blueprints
+There is more than one way to make this product. Click the arrow icons to browse the different production blueprints. 
+~
+BKMSHARE
+Deposit Market Share 
+Deposit Market Share = the amount on deposit at a particular bank divided by the total amount on deposit at all banks.
 ~
