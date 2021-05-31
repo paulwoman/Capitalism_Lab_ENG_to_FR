@@ -4230,6 +4230,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Add Seaport Product=Steel</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210531T154833Z" creationid="Olivier" creationdate="20210531T154833Z">
+        <seg>Add Seaport Product=Steel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Add Seaport Product=Textiles</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T101323Z" creationid="Olivier" creationdate="20200424T101323Z">
@@ -13112,8 +13120,8 @@
       <tuv lang="en-US">
         <seg>Earnings Per Share</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200915T124129Z" creationid="Olivier" creationdate="20200915T124129Z">
-        <seg>Bénéfice Par Action</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210531T155006Z" creationid="Olivier" creationdate="20200915T124129Z">
+        <seg>Bénéfice par action</seg>
       </tuv>
     </tu>
     <tu>
@@ -60658,8 +60666,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>[2830]&lt;AGS2&gt;(Press the 'G' shortcut key anytime to view the Goal screen)|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200512T094528Z">
-        <seg>[2830]&lt;AGS2&gt;(Appuyez sur la raccourci "G" à tout moment pour afficher l'écran 'Objectif')|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210531T154945Z" creationid="Olivier" creationdate="20200512T094528Z">
+        <seg>[2830]&lt;AGS2&gt;(Appuyez sur la raccourci "G" à tout moment pour afficher l'écran "Objectif")|</seg>
       </tuv>
     </tu>
     <tu>
@@ -61146,8 +61154,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>[2889]&lt;NCG4&gt;Press the 'G' shortcut key anytime to view the Goal screen.|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200512T100831Z">
-        <seg>[2889]&lt;NCG4&gt;Appuyez sur la raccourci "G" à tout moment pour afficher l'écran 'Objectif'|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210531T154822Z" creationid="Olivier" creationdate="20200512T100831Z">
+        <seg>[2889]&lt;NCG4&gt;Appuyez sur la raccourci "G" à tout moment pour afficher l'écran "Objectif"|</seg>
       </tuv>
     </tu>
     <tu>
@@ -61162,8 +61170,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>[2891]&lt;NCG6&gt;Press the 'G' shortcut key anytime to view the Goal screen.|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200512T100910Z">
-        <seg>[2891]&lt;NCG6&gt;Appuyez sur la raccourci 'G' à tout moment pour afficher l'écran 'Objectif'|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210531T154813Z" creationid="Olivier" creationdate="20200512T100910Z">
+        <seg>[2891]&lt;NCG6&gt;Appuyez sur la raccourci "G" à tout moment pour afficher l'écran "Objectif"|</seg>
       </tuv>
     </tu>
     <tu>
