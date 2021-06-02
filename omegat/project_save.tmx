@@ -592,16 +592,16 @@
       <tuv lang="en-US">
         <seg>(hotkey: '+' or '=')</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200502T135749Z">
-        <seg>(raccourci "+" ou "=")</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210602T171428Z" creationid="Olivier" creationdate="20200502T135749Z">
+        <seg>(raccourci + ou =)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>(hotkey: '-' )</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T140301Z" creationid="Olivier" creationdate="20200502T140301Z">
-        <seg>(Raccourci: '-' )</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210602T171445Z" creationid="Olivier" creationdate="20200502T140301Z">
+        <seg>(Raccourci : " - " )</seg>
       </tuv>
     </tu>
     <tu>
@@ -9136,8 +9136,8 @@
       <tuv lang="en-US">
         <seg>Click here to set the manager of this firm (hotkey: 'z').</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200503T103728Z">
-        <seg>Cliquez ici pour définir le directeur de cette entreprise (raccourci : 'z').</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210602T171625Z" creationid="Olivier" creationdate="20200503T103728Z">
+        <seg>Cliquez ici pour définir le directeur de cette entreprise (raccourci : Z).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9936,8 +9936,8 @@
       <tuv lang="en-US">
         <seg>Close News Log window (hotkey: 'V')</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20210602T165741Z" creationid="Olivier" creationdate="20200502T141408Z">
-        <seg>Fermer la fenêtre du journal des actualités (raccourci : "V")</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210602T171459Z" creationid="Olivier" creationdate="20200502T141408Z">
+        <seg>Fermer la fenêtre du journal des actualités (raccourci : V)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18019,8 +18019,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Hotkey: Press the first letter of the name of a functional unit to add it instantly.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20210406T145922Z" creationid="Olivier" creationdate="20200502T151122Z">
-        <seg>Raccourcis : Appuyez sur la première lettre du nom d'une unitépour l'ajouter instantanément.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210602T171514Z" creationid="Olivier" creationdate="20200502T151122Z">
+        <seg>Raccourcis: Appuyez sur la première lettre du nom d'une unitépour l'ajouter instantanément.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20643,8 +20643,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>If you want to enable #Internal Sale# by default, you can open the #Option menu# (hotkey: 'O') and set #Default Internal Sale# to #Enabled#.</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200502T164813Z">
-        <seg>Si vous souhaitez activer #Vente interne# par défaut, vous pouvez ouvrir le menu #Option# (raccourci : 'O') et régler #Vente interne# par défaut sur #Activée#.</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210602T171522Z" creationid="Olivier" creationdate="20200502T164813Z">
+        <seg>Si vous souhaitez activer #Vente interne# par défaut, vous pouvez ouvrir le menu #Option# (raccourci : O) et régler #Vente interne# par défaut sur #Activée#.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26723,8 +26723,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Open News Log window (hotkey: 'V')</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20210602T165741Z" creationid="Olivier" creationdate="20200502T141121Z">
-        <seg>Ouvrir la fenêtre du journal des actualités (raccourci : "V")</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210602T171453Z" creationid="Olivier" creationdate="20200502T141121Z">
+        <seg>Ouvrir la fenêtre du journal des actualités (raccourci : V)</seg>
       </tuv>
     </tu>
     <tu>
