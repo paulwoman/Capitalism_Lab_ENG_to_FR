@@ -9736,8 +9736,8 @@
       <tuv lang="en-US">
         <seg>Click to open the Product Summary Report</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T123338Z" creationid="Olivier" creationdate="20200428T123338Z">
-        <seg>Cliquez pour ouvrir le rapport de synthèse du produit</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T165844Z" creationid="Olivier" creationdate="20200428T123338Z">
+        <seg>Cliquez pour ouvrir le rapport sommaire du produit</seg>
       </tuv>
     </tu>
     <tu>
@@ -10906,6 +10906,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20210602T171244Z" creationid="Olivier" creationdate="20200428T123356Z">
         <seg>Rapport de synthèse de l'entreprise (raccourci : C / Corporate) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Corporate Summary Report (hotkey: C)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T165941Z" creationid="Olivier" creationdate="20210717T165913Z">
+        <seg>Rapport sommaire de l'entreprise (raccourcis : C / Corporate)</seg>
       </tuv>
     </tu>
     <tu>
@@ -30271,6 +30279,14 @@ please follow the below instructions:Q</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20210602T171239Z" creationid="Olivier" creationdate="20200428T123320Z">
         <seg>Rapport de synthèse sur le produit (raccourci : P / Product)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product Summary Report (hotkey: P)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T165931Z" creationid="Olivier" creationdate="20210717T165758Z">
+        <seg>Rapport sommaire du produit (touche de raccourci : P / Product)</seg>
       </tuv>
     </tu>
     <tu>
