@@ -1728,8 +1728,8 @@
       <tuv lang="en-US">
         <seg>//Add Seaport Product=&lt;Product Type&gt;</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T174930Z" creationid="Olivier" creationdate="20210717T174930Z">
-        <seg>//Add Port maritime Produit=&lt;Produit Type&gt;</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T175014Z" creationid="Olivier" creationdate="20210717T174930Z">
+        <seg>//Ajouter un produit portuaire=&lt;Type de produit&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1890,6 +1890,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T095146Z" creationid="Olivier" creationdate="20200710T095146Z">
         <seg>//Les coûts d'acquisition des technologies deviendront 150% de ceux d'origine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>//The above line assigns a specific product to a seaport.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T175033Z" creationid="Olivier" creationdate="20210717T174948Z">
+        <seg>//La ligne ci-dessus attribue un produit spécifique à un port maritime.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30383,6 +30391,14 @@ please follow the below instructions:Q</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T153203Z" creationid="Inrepublica" creationdate="20200422T151113Z">
         <seg>Gamme de personnalisation du produit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product Customization=On</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T174951Z" creationid="Olivier" creationdate="20210717T174951Z">
+        <seg>Produit Customization=On</seg>
       </tuv>
     </tu>
     <tu>
