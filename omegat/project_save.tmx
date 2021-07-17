@@ -1726,6 +1726,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>//Add Seaport Product=&lt;Product Type&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T174930Z" creationid="Olivier" creationdate="20210717T174930Z">
+        <seg>//Add Port maritime Produit=&lt;Produit Type&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>//Auto Save Interval Days=20</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T101839Z" creationid="Olivier" creationdate="20200428T101839Z">
@@ -12598,6 +12606,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Do you confirm?|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T174725Z" creationid="Olivier" creationdate="20210717T174725Z">
+        <seg>Voulez-vous confirmer ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Do you have enough money to build a second department store yet?</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T211314Z" creationid="Olivier" creationdate="20200422T211314Z">
@@ -20839,6 +20855,14 @@ please follow the below instructions:Q</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T195853Z" creationid="Inrepublica" creationdate="20200422T195853Z">
         <seg>Si vous souhaitez que les villes émettent des obligations plus souvent, afin que vous puissiez investir dans des obligations municipales, vous pouvez régler ce paramètre sur "faible".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you want to withdraw from it now, the time deposit will be cancelled and the interest will be forfeited.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T174657Z" creationid="Olivier" creationdate="20210717T174657Z">
+        <seg>Si vous voulez le retirer maintenant, le dépôt à terme sera annulé et les intérêts seront perdus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36503,6 +36527,14 @@ please follow the below instructions:Q</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200512T151139Z" creationid="Olivier" creationdate="20200507T150642Z">
         <seg>Le budget moyen de formation de l'ensemble des guichets de la compagnie d'assurances.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The balance will be transferred to your saving account.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T174711Z" creationid="Olivier" creationdate="20210717T174711Z">
+        <seg>Le solde sera transféré sur votre compte d'épargne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66134,6 +66166,46 @@ please follow the below instructions:Q</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T174635Z" creationid="Olivier" creationdate="20210717T174635Z">
         <seg>[3452]&lt;OEXF&gt;Ouvrir le dossier d'exportation|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3453]&lt;WBMD&gt;This time deposit has not reached its maturity date yet.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T174647Z" creationid="Olivier" creationdate="20210717T174647Z">
+        <seg>[3453]&lt;WBMD&gt;Ce dépôt à terme n'a pas encore atteint sa date d'échéance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3454]&lt;SGT1&gt;Which type of game do you want to save?|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T174742Z" creationid="Olivier" creationdate="20210717T174742Z">
+        <seg>[3454]&lt;SGT1&gt;Quel type de partie voulez-vous sauver ?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3455]&lt;SGT2&gt;Challenge Game|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T174812Z" creationid="Olivier" creationdate="20210717T174812Z">
+        <seg>[3455]&lt;SGT2&gt;Jeu de défi|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3456]&lt;SGT3&gt;Normal Savegame|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T174825Z" creationid="Olivier" creationdate="20210717T174825Z">
+        <seg>[3456]&lt;SGT3&gt;Sauvegarde normale|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3457]&lt;SCDL&gt;Warning: Are you sure that you want to save a Challenge Game with DLC enabled?|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T174849Z" creationid="Olivier" creationdate="20210717T174849Z">
+        <seg>[3457]&lt;SCDL&gt;Avertissement : Êtes-vous sûr de vouloir sauvegarder un jeu de défi avec le DLC activé ?|</seg>
       </tuv>
     </tu>
     <tu>
