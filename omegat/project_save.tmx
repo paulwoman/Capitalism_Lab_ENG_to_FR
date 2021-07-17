@@ -22019,6 +22019,14 @@ please follow the below instructions:Q</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It cannot be copied at the moment.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T172521Z" creationid="Olivier" creationdate="20210717T172521Z">
+        <seg>Cela ne peut pas être copié pour le moment.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It consolidates the financial data from the Bank HQ and all its bank branches.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Acer" changedate="20200507T192602Z" creationid="Acer" creationdate="20200507T192602Z">
@@ -65894,6 +65902,22 @@ please follow the below instructions:Q</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T172442Z" creationid="Olivier" creationdate="20210717T172442Z">
         <seg>[3424]&lt;SVAL&gt;Valeur du stock|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3425]&lt;NCPY&gt;Sorry, this factory has not started production yet.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T172501Z" creationid="Olivier" creationdate="20210717T172501Z">
+        <seg>[3425]&lt;NCPY&gt;Désolé, cette usine n'a pas encore commencé à produire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3426]&lt;PMAY&gt;Your party's member is Mayor|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T173207Z" creationid="Olivier" creationdate="20210717T173207Z">
+        <seg>[3426]&lt;PMAY&gt;Le membre de votre parti est maire|</seg>
       </tuv>
     </tu>
     <tu>
