@@ -27699,6 +27699,14 @@ please follow the below instructions:Q</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>PRODOSAL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T171818Z" creationid="Olivier" creationdate="20210717T171818Z">
+        <seg>PRODOSAL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>PRODQUA1</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T142047Z" creationid="Olivier" creationdate="20200508T142047Z">
@@ -36735,6 +36743,14 @@ please follow the below instructions:Q</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151742Z" creationid="Olivier" creationdate="20200504T151742Z">
         <seg>Le cours actuel de l'action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The current store is already selling this product.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T171834Z" creationid="Olivier" creationdate="20210717T171834Z">
+        <seg>Le magasin actuel vend déjà ce produit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65806,6 +65822,38 @@ please follow the below instructions:Q</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20210514T085934Z" creationid="Olivier" creationdate="20210514T085934Z">
         <seg>[3415]&lt;TIOC&gt;Pensez-y : Vous pouvez trouver d'autres candidats à l'emploi dans d'autres villes.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3416]&lt;DISG&gt;is disabled in this game.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T171914Z" creationid="Olivier" creationdate="20210717T171914Z">
+        <seg>[3416]&lt;DISG&gt;is désactivé durant cette partie.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3417]&lt;TWE1&gt;Tech Importance Weight|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T172032Z" creationid="Olivier" creationdate="20210717T172032Z">
+        <seg>[3417]&lt;TWE1&gt;Importance de l'influence technologique |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3418]&lt;TWE2&gt;Weight of this tech contributing to the overall product:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T172056Z" creationid="Olivier" creationdate="20210717T172056Z">
+        <seg>[3418]&lt;TWE2&gt;Importance de cette technologie contribuant à l'ensemble du produit :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3419]&lt;BNOC&gt;Sorry, the city government already has too much debt.\nIt cannot issue new bonds at the moment.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T172138Z" creationid="Olivier" creationdate="20210717T172138Z">
+        <seg>[3419]&lt;BNOC&gt;Désolé, le gouvernement de la ville a déjà trop de dettes.\nIl ne peut pas émettre de nouvelles obligations pour le moment.|</seg>
       </tuv>
     </tu>
     <tu>
