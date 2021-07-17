@@ -8094,6 +8094,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Change Sort Order</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T171157Z" creationid="Olivier" creationdate="20210717T171157Z">
+        <seg>Changer l'ordre de tri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Change Training Budget</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T095406Z" creationid="Olivier" creationdate="20200508T095406Z">
@@ -9250,6 +9258,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141533Z" creationid="Olivier" creationdate="20200502T141533Z">
         <seg>Cliquez ici pour voir les détails de la personne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on a column header to sort the stock list.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T171815Z" creationid="Olivier" creationdate="20210717T171815Z">
+        <seg>Cliquez sur un intitulé de colonne pour trier la liste des actions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17577,6 +17593,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Headhunt (hotkey: U)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T171143Z" creationid="Olivier" creationdate="20210717T171143Z">
+        <seg>Recrutement (raccourci : "U")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Headhunt Targets Include Subsidiaries</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T091447Z" creationid="Olivier" creationdate="20200507T091447Z">
@@ -17785,6 +17809,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hire (hotkey: W)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T171134Z" creationid="Olivier" creationdate="20210717T171134Z">
+        <seg>Engager (raccourci : W)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hire Chief Marketing Officer</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T104221Z" creationid="Olivier" creationdate="20200502T104221Z">
@@ -17891,8 +17923,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Hotkey: '!'</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20210602T170216Z" creationid="Olivier" creationdate="20200505T173124Z">
-        <seg>Raccourci : "!"</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T171056Z" creationid="Olivier" creationdate="20200505T173124Z">
+        <seg>Raccourci : !</seg>
       </tuv>
     </tu>
     <tu>
@@ -32387,6 +32419,14 @@ please follow the below instructions:Q</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>STKSORT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T171145Z" creationid="Olivier" creationdate="20210717T171145Z">
+        <seg>STKSORT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>STKSPLIT</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T153914Z" creationid="Olivier" creationdate="20200507T153914Z">
@@ -34711,6 +34751,14 @@ please follow the below instructions:Q</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200508T091038Z">
         <seg>Changer de vue (raccourci : 'A')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Switch View (hotkey: A)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T171108Z" creationid="Olivier" creationdate="20210717T171108Z">
+        <seg>Changer de vue (raccourci : A)</seg>
       </tuv>
     </tu>
     <tu>
