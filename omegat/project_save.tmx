@@ -9150,6 +9150,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click here to set the manager of this firm (hotkey: Z).</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T170230Z" creationid="Olivier" creationdate="20210717T170230Z">
+        <seg>Cliquez ici pour définir le directeur de cette entreprise (raccourci : Z).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click here to set up the layout (hotkey: A)</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200606T144031Z">
@@ -9696,8 +9704,8 @@
       <tuv lang="en-US">
         <seg>Click to open the Corporate Summary Report</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144010Z" creationid="Olivier" creationdate="20200428T144010Z">
-        <seg>Cliquez pour ouvrir le rapport de synthèse de la société</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T165953Z" creationid="Olivier" creationdate="20200428T144010Z">
+        <seg>Cliquez pour ouvrir le rapport sommaire de la société</seg>
       </tuv>
     </tu>
     <tu>
@@ -9945,6 +9953,14 @@
         <seg>Close News Log window (hotkey: 'V')</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20210602T171459Z" creationid="Olivier" creationdate="20200502T141408Z">
+        <seg>Fermer la fenêtre du journal des actualités (raccourci : V)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Close News Log window (hotkey: V)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T170208Z" creationid="Olivier" creationdate="20210717T170208Z">
         <seg>Fermer la fenêtre du journal des actualités (raccourci : V)</seg>
       </tuv>
     </tu>
@@ -14110,6 +14126,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Firm Summary Report (hotkey: F)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T170037Z" creationid="Olivier" creationdate="20210717T170037Z">
+        <seg>Rapport sommaire de l'entreprise (raccourci : F / Firme)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Firm count=Factory, 1</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200424T092737Z" creationid="Olivier" creationdate="20200424T092737Z">
@@ -17573,6 +17597,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20210602T171307Z" creationid="Olivier" creationdate="20200723T095213Z">
         <seg>Quartier Général (raccourci : H)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Headquarters (hotkey: H)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T170129Z" creationid="Olivier" creationdate="20210717T170129Z">
+        <seg>Siège social (Raccourcis : H / Headquarters)</seg>
       </tuv>
     </tu>
     <tu>
@@ -24939,6 +24971,14 @@ please follow the below instructions:Q</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>News Display Option (hotkey: N)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T170150Z" creationid="Olivier" creationdate="20210717T170150Z">
+        <seg>Option d'affichage des nouvelles (raccourci : N / News)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Next Arrow=Yes</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202608Z" creationid="Inrepublica" creationdate="20200422T202608Z">
@@ -24982,6 +25022,14 @@ please follow the below instructions:Q</seg>
         <seg>Next Product (Hotkey: 'x')</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20210602T171849Z" creationid="Olivier" creationdate="20200503T103827Z">
+        <seg>Produit suivant (raccourci  : X)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Next Product (Hotkey: X)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T170250Z" creationid="Olivier" creationdate="20210717T170250Z">
         <seg>Produit suivant (raccourci  : X)</seg>
       </tuv>
     </tu>
@@ -26755,6 +26803,14 @@ please follow the below instructions:Q</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open News Log window (hotkey: V)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T170215Z" creationid="Olivier" creationdate="20210717T170203Z">
+        <seg>Ouvrir la fenêtre du journal des actualités (raccourci : V)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open the Event Tracker Window</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T131742Z" creationid="Olivier" creationdate="20200427T131742Z">
@@ -26927,6 +26983,14 @@ please follow the below instructions:Q</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20210602T171317Z" creationid="Olivier" creationdate="20200428T144523Z">
         <seg>Menu Options (Raccourci : O)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Options Menu (hotkey: O)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T170140Z" creationid="Olivier" creationdate="20210717T170140Z">
+        <seg>Options Menu (Raccourcis: O)</seg>
       </tuv>
     </tu>
     <tu>
@@ -30006,6 +30070,14 @@ please follow the below instructions:Q</seg>
         <seg>Previous Product (Hotkey: 'u')</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20210602T171828Z" creationid="Olivier" creationdate="20200503T103814Z">
+        <seg>Produit précédent (raccourci  : U )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Previous Product (Hotkey: U)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T170236Z" creationid="Olivier" creationdate="20210717T170236Z">
         <seg>Produit précédent (raccourci  : U )</seg>
       </tuv>
     </tu>
@@ -39990,6 +40062,14 @@ please follow the below instructions:Q</seg>
         <seg>To change the filtered list, access the #Products Summary# (hotkey: 'p') and choose different settings.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20210602T172357Z" creationid="Olivier" creationdate="20210323T085745Z">
+        <seg>Pour modifier la liste filtrée, accédez au # Résumé des produits#  (raccourci : P) et choisissez différents paramètres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To change the filtered list, access the #Products Summary# (hotkey: P) and choose different settings.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T170246Z" creationid="Olivier" creationdate="20210717T170246Z">
         <seg>Pour modifier la liste filtrée, accédez au # Résumé des produits#  (raccourci : P) et choisissez différents paramètres.</seg>
       </tuv>
     </tu>
