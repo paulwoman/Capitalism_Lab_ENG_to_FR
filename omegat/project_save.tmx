@@ -17977,6 +17977,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hotkey: C</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T170301Z" creationid="Olivier" creationdate="20210717T170301Z">
+        <seg>Raccourci : C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hotkey: Ctrl-B</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T101234Z" creationid="Olivier" creationdate="20200507T101234Z">
@@ -18005,6 +18013,30 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200819T092550Z">
         <seg>raccourci : Ctrl-M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hotkey: D or F10</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T170309Z" creationid="Olivier" creationdate="20210717T170309Z">
+        <seg>Raccourcis: D or F10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hotkey: E</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T170339Z" creationid="Olivier" creationdate="20210717T170339Z">
+        <seg>Raccourci : E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hotkey: F</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T170326Z" creationid="Olivier" creationdate="20210717T170326Z">
+        <seg>Raccourci : F</seg>
       </tuv>
     </tu>
     <tu>
@@ -18057,10 +18089,34 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hotkey: G</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T170349Z" creationid="Olivier" creationdate="20210717T170349Z">
+        <seg>Raccourci : G / Goal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hotkey: I</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T170333Z" creationid="Olivier" creationdate="20210717T170333Z">
+        <seg>Raccourci : I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hotkey: Left arrow key to go to the previous layout plan.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151438Z" creationid="Olivier" creationdate="20200504T151438Z">
         <seg>Raccourci : Flèche gauche pour aller au plan d'aménagement précédent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hotkey: P</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T170315Z" creationid="Olivier" creationdate="20210717T170315Z">
+        <seg>Raccourci : P</seg>
       </tuv>
     </tu>
     <tu>
@@ -18073,10 +18129,34 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hotkey: R</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T170322Z" creationid="Olivier" creationdate="20210717T170322Z">
+        <seg>Raccourci : R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hotkey: Right arrow key to go to the next layout plan.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151509Z" creationid="Olivier" creationdate="20200504T151509Z">
         <seg>Raccourci : Flèche droite pour passer au plan d'aménagement suivant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hotkey: T</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T170356Z" creationid="Olivier" creationdate="20210717T170356Z">
+        <seg>Raccourci : T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hotkey: Y</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T170400Z" creationid="Olivier" creationdate="20210717T170400Z">
+        <seg>Raccourci : Y</seg>
       </tuv>
     </tu>
     <tu>
@@ -30207,6 +30287,14 @@ please follow the below instructions:Q</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200506T090322Z">
         <seg>Personnalisation du produit (raccourci : 'z')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product Customization (hotkey: Z)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T170404Z" creationid="Olivier" creationdate="20210717T170404Z">
+        <seg>Produit Customization (Raccourcis: Z)</seg>
       </tuv>
     </tu>
     <tu>
