@@ -66074,6 +66074,70 @@ please follow the below instructions:Q</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[3445]&lt;NMER&gt;You cannot merge the two companies because the target company owns stock in the acquiring company.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T174359Z" creationid="Olivier" creationdate="20210717T174359Z">
+        <seg>[3445]&lt;NMER&gt;Vous ne pouvez pas fusionner les deux sociétés car la société cible possède des actions de la société acquéreuse.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3446]&lt;AMER&gt;Under the special anti-exploitation game rules, your company can only merge with another company in which it DIRECTLY owns a majority of the shares.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T174430Z" creationid="Olivier" creationdate="20210717T174430Z">
+        <seg>[3446]&lt;AMER&gt;En vertu des règles spéciales du jeu anti-exploitation, votre société ne peut fusionner qu'avec une autre société dont elle détient DIRECTEMENT la majorité des actions.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3447]&lt;HRPD&gt;Please hire a researcher with product development skill first.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T174445Z" creationid="Olivier" creationdate="20210717T174445Z">
+        <seg>[3447]&lt;HRPD&gt;Veuillez d'abord engager un chercheur ayant des compétences en développement de produits..|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3448]&lt;HRTK&gt;Please hire a researcher with technology knowhow first.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T174504Z" creationid="Olivier" creationdate="20210717T174504Z">
+        <seg>[3448]&lt;HRTK&gt;Veuillez d'abord engager un chercheur ayant des connaissances en technologie.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3449]&lt;QSAV&gt;Quick save done.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T174531Z" creationid="Olivier" creationdate="20210717T174531Z">
+        <seg>[3449]&lt;QSAV&gt;Sauvegarde rapide effectuée.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3450]&lt;CDEL&gt;This Challenge Game will be deleted.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T174556Z" creationid="Olivier" creationdate="20210717T174556Z">
+        <seg>[3450]&lt;CDEL&gt;Cette partie du défi sera supprimée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3451]&lt;COWR&gt;Overwrite this Challenge Game?|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T174621Z" creationid="Olivier" creationdate="20210717T174621Z">
+        <seg>[3451]&lt;COWR&gt;Écraser cette partie du défi?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3452]&lt;OEXF&gt;Open Export Folder|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T174635Z" creationid="Olivier" creationdate="20210717T174635Z">
+        <seg>[3452]&lt;OEXF&gt;Ouvrir le dossier d'exportation|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[ACTION]</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202555Z" creationid="Inrepublica" creationdate="20200422T202555Z">
