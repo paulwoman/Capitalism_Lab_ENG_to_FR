@@ -6246,6 +6246,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Because of this, the system has automatically enabled them in the Scope of Production list for you.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T174128Z" creationid="Olivier" creationdate="20210717T174128Z">
+        <seg>De ce fait, le système les a automatiquement activés dans la liste du périmètre de production pour vous.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Because you have already reached the maximum number of product designs you can add to your library.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T174000Z" creationid="Olivier" creationdate="20200504T174000Z">
@@ -66030,6 +66038,38 @@ please follow the below instructions:Q</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T174045Z" creationid="Olivier" creationdate="20210717T174045Z">
         <seg>[3440]&lt;CHSA&gt;Le jeu de défi a été sauvegardé avec succès.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3441]&lt;PCAI&gt;Some products in this product class depend on inputs that must be enabled.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T174105Z" creationid="Olivier" creationdate="20210717T174105Z">
+        <seg>[3441]&lt;PCAI&gt;Certains produits de cette classe de produits dépendent d'entrées qui doivent être activées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3442]&lt;NCIC&gt;Unfortunately, you do not have sufficient cash at the moment.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T174141Z" creationid="Olivier" creationdate="20210717T174141Z">
+        <seg>[3442]&lt;NCIC&gt;Malheureusement, vous ne disposez pas d'une trésorerie suffisante pour le moment.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3443]&lt;MERO&gt;In order to execute a merger, your player character must have some ownership of your main corporation.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T174244Z" creationid="Olivier" creationdate="20210717T174244Z">
+        <seg>[3443]&lt;MERO&gt;Afin d'exécuter une fusion, votre personnage joueur doit posséder une partie de votre société principale.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3444]&lt;NOPR&gt;Sorry, no products can be produced in the current firm.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T174334Z" creationid="Olivier" creationdate="20210717T174334Z">
+        <seg>[3444]&lt;NOPR&gt;Désolé, aucun produit ne peut être fabriqué dans l'établissement actuel.|</seg>
       </tuv>
     </tu>
     <tu>
