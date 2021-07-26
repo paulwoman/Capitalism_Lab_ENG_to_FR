@@ -19401,6 +19401,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>IMP_QUAL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210726T092837Z" creationid="Olivier" creationdate="20210726T092837Z">
+        <seg>IMP_QUAL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>IMP_SEMI</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200606T143232Z" creationid="Olivier" creationdate="20200606T143232Z">
@@ -20963,6 +20971,14 @@ please follow the below instructions:Q</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Import Quality</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210726T092847Z" creationid="Olivier" creationdate="20210726T092847Z">
+        <seg>Qualité des importations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Import Quality=High</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200423T151400Z" creationid="Inrepublica" creationdate="20200423T151400Z">
@@ -20983,6 +20999,22 @@ please follow the below instructions:Q</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T171351Z" creationid="Olivier" creationdate="20200427T171351Z">
         <seg>Import Quality=Moderate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Import Semi Products Only</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210726T092835Z" creationid="Olivier" creationdate="20210726T092835Z">
+        <seg>Importation de produits semi-finis uniquement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Import Variety Increase</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210726T092812Z" creationid="Olivier" creationdate="20210726T092812Z">
+        <seg>Augmentation de la variété d'importation</seg>
       </tuv>
     </tu>
     <tu>
@@ -38815,6 +38847,14 @@ please follow the below instructions:Q</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T153228Z" creationid="Inrepublica" creationdate="20200422T153228Z">
         <seg>Détermine le nombre de compétiteurs contre lesquels vous allez jouer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This determines the quality of products imported via import companies.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210726T093542Z" creationid="Olivier" creationdate="20210726T093542Z">
+        <seg>Cela détermine la qualité des produits importés par les sociétés d'importation.</seg>
       </tuv>
     </tu>
     <tu>
