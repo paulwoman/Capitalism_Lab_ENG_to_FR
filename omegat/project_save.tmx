@@ -1726,6 +1726,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>//Add Seaport Product=&lt;Product Type&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T175014Z" creationid="Olivier" creationdate="20210717T174930Z">
+        <seg>//Ajouter un produit portuaire=&lt;Type de produit&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>//Auto Save Interval Days=20</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T101839Z" creationid="Olivier" creationdate="20200428T101839Z">
@@ -1882,6 +1890,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200710T095146Z" creationid="Olivier" creationdate="20200710T095146Z">
         <seg>//Les coûts d'acquisition des technologies deviendront 150% de ceux d'origine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>//The above line assigns a specific product to a seaport.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T175033Z" creationid="Olivier" creationdate="20210717T174948Z">
+        <seg>//La ligne ci-dessus attribue un produit spécifique à un port maritime.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6246,6 +6262,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Because of this, the system has automatically enabled them in the Scope of Production list for you.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T174128Z" creationid="Olivier" creationdate="20210717T174128Z">
+        <seg>De ce fait, le système les a automatiquement activés dans la liste du périmètre de production pour vous.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Because you have already reached the maximum number of product designs you can add to your library.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T174000Z" creationid="Olivier" creationdate="20200504T174000Z">
@@ -8094,6 +8118,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Change Sort Order</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T171157Z" creationid="Olivier" creationdate="20210717T171157Z">
+        <seg>Changer l'ordre de tri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Change Training Budget</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T095406Z" creationid="Olivier" creationdate="20200508T095406Z">
@@ -9150,6 +9182,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click here to set the manager of this firm (hotkey: Z).</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T170230Z" creationid="Olivier" creationdate="20210717T170230Z">
+        <seg>Cliquez ici pour définir le directeur de cette entreprise (raccourci : Z).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click here to set up the layout (hotkey: A)</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200606T144031Z">
@@ -9242,6 +9282,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T141533Z" creationid="Olivier" creationdate="20200502T141533Z">
         <seg>Cliquez ici pour voir les détails de la personne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on a column header to sort the stock list.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T171815Z" creationid="Olivier" creationdate="20210717T171815Z">
+        <seg>Cliquez sur un intitulé de colonne pour trier la liste des actions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9696,8 +9744,8 @@
       <tuv lang="en-US">
         <seg>Click to open the Corporate Summary Report</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T144010Z" creationid="Olivier" creationdate="20200428T144010Z">
-        <seg>Cliquez pour ouvrir le rapport de synthèse de la société</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T165953Z" creationid="Olivier" creationdate="20200428T144010Z">
+        <seg>Cliquez pour ouvrir le rapport sommaire de la société</seg>
       </tuv>
     </tu>
     <tu>
@@ -9736,8 +9784,8 @@
       <tuv lang="en-US">
         <seg>Click to open the Product Summary Report</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20200428T123338Z" creationid="Olivier" creationdate="20200428T123338Z">
-        <seg>Cliquez pour ouvrir le rapport de synthèse du produit</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T165844Z" creationid="Olivier" creationdate="20200428T123338Z">
+        <seg>Cliquez pour ouvrir le rapport sommaire du produit</seg>
       </tuv>
     </tu>
     <tu>
@@ -9945,6 +9993,14 @@
         <seg>Close News Log window (hotkey: 'V')</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20210602T171459Z" creationid="Olivier" creationdate="20200502T141408Z">
+        <seg>Fermer la fenêtre du journal des actualités (raccourci : V)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Close News Log window (hotkey: V)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T170208Z" creationid="Olivier" creationdate="20210717T170208Z">
         <seg>Fermer la fenêtre du journal des actualités (raccourci : V)</seg>
       </tuv>
     </tu>
@@ -10906,6 +10962,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20210602T171244Z" creationid="Olivier" creationdate="20200428T123356Z">
         <seg>Rapport de synthèse de l'entreprise (raccourci : C / Corporate) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Corporate Summary Report (hotkey: C)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T165941Z" creationid="Olivier" creationdate="20210717T165913Z">
+        <seg>Rapport sommaire de l'entreprise (raccourcis : C / Corporate)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12550,6 +12614,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Do you confirm?|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210720T180818Z" creationid="Olivier" creationdate="20210717T174725Z">
+        <seg>Voulez-vous confirmer ?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Do you have enough money to build a second department store yet?</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200422T211314Z" creationid="Olivier" creationdate="20200422T211314Z">
@@ -14098,6 +14170,14 @@
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20210602T171252Z" creationid="Olivier" creationdate="20200428T144042Z">
         <seg>Rapport de synthèse de l'entreprise (raccourci : F / Firm)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firm Summary Report (hotkey: F)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T170037Z" creationid="Olivier" creationdate="20210717T170037Z">
+        <seg>Rapport sommaire de l'entreprise (raccourci : F / Firme)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17545,6 +17625,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Headhunt (hotkey: U)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T171143Z" creationid="Olivier" creationdate="20210717T171143Z">
+        <seg>Recrutement (raccourci : "U")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Headhunt Targets Include Subsidiaries</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T091447Z" creationid="Olivier" creationdate="20200507T091447Z">
@@ -17565,6 +17653,14 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20210602T171307Z" creationid="Olivier" creationdate="20200723T095213Z">
         <seg>Quartier Général (raccourci : H)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Headquarters (hotkey: H)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T170129Z" creationid="Olivier" creationdate="20210717T170129Z">
+        <seg>Siège social (Raccourcis : H / Headquarters)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17745,6 +17841,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hire (hotkey: W)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T171134Z" creationid="Olivier" creationdate="20210717T171134Z">
+        <seg>Engager (raccourci : W)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hire Chief Marketing Officer</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T104221Z" creationid="Olivier" creationdate="20200502T104221Z">
@@ -17851,8 +17955,8 @@ Choose one of eight pre-set difficulty levels.</seg>
       <tuv lang="en-US">
         <seg>Hotkey: '!'</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20210602T170216Z" creationid="Olivier" creationdate="20200505T173124Z">
-        <seg>Raccourci : "!"</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T171056Z" creationid="Olivier" creationdate="20200505T173124Z">
+        <seg>Raccourci : !</seg>
       </tuv>
     </tu>
     <tu>
@@ -17937,6 +18041,14 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hotkey: C</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T170301Z" creationid="Olivier" creationdate="20210717T170301Z">
+        <seg>Raccourci : C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hotkey: Ctrl-B</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T101234Z" creationid="Olivier" creationdate="20200507T101234Z">
@@ -17965,6 +18077,30 @@ Choose one of eight pre-set difficulty levels.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20210519T133223Z" creationid="Olivier" creationdate="20200819T092550Z">
         <seg>raccourci : Ctrl-M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hotkey: D or F10</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T170309Z" creationid="Olivier" creationdate="20210717T170309Z">
+        <seg>Raccourcis: D or F10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hotkey: E</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T170339Z" creationid="Olivier" creationdate="20210717T170339Z">
+        <seg>Raccourci : E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hotkey: F</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T170326Z" creationid="Olivier" creationdate="20210717T170326Z">
+        <seg>Raccourci : F</seg>
       </tuv>
     </tu>
     <tu>
@@ -18017,10 +18153,34 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hotkey: G</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T170349Z" creationid="Olivier" creationdate="20210717T170349Z">
+        <seg>Raccourci : G / Goal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hotkey: I</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T170333Z" creationid="Olivier" creationdate="20210717T170333Z">
+        <seg>Raccourci : I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hotkey: Left arrow key to go to the previous layout plan.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151438Z" creationid="Olivier" creationdate="20200504T151438Z">
         <seg>Raccourci : Flèche gauche pour aller au plan d'aménagement précédent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hotkey: P</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T170315Z" creationid="Olivier" creationdate="20210717T170315Z">
+        <seg>Raccourci : P</seg>
       </tuv>
     </tu>
     <tu>
@@ -18033,10 +18193,34 @@ Choose one of eight pre-set difficulty levels.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hotkey: R</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T170322Z" creationid="Olivier" creationdate="20210717T170322Z">
+        <seg>Raccourci : R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hotkey: Right arrow key to go to the next layout plan.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151509Z" creationid="Olivier" creationdate="20200504T151509Z">
         <seg>Raccourci : Flèche droite pour passer au plan d'aménagement suivant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hotkey: T</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T170356Z" creationid="Olivier" creationdate="20210717T170356Z">
+        <seg>Raccourci : T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hotkey: Y</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T170400Z" creationid="Olivier" creationdate="20210717T170400Z">
+        <seg>Raccourci : Y</seg>
       </tuv>
     </tu>
     <tu>
@@ -20683,6 +20867,14 @@ please follow the below instructions:Q</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you want to withdraw from it now, the time deposit will be cancelled and the interest will be forfeited.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T174657Z" creationid="Olivier" creationdate="20210717T174657Z">
+        <seg>Si vous voulez le retirer maintenant, le dépôt à terme sera annulé et les intérêts seront perdus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you want, you may revert its production technology to a lower level and associate it with a different custom product image.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200506T092035Z" creationid="Olivier" creationdate="20200506T092035Z">
@@ -21863,6 +22055,14 @@ please follow the below instructions:Q</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T101137Z" creationid="Olivier" creationdate="20200427T101137Z">
         <seg>Elle ne peut plus fabriquer de biens même si l'offre et la demande augmentent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It cannot be copied at the moment.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T172521Z" creationid="Olivier" creationdate="20210717T172521Z">
+        <seg>Cela ne peut pas être copié pour le moment.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -24931,6 +25131,14 @@ please follow the below instructions:Q</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>News Display Option (hotkey: N)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T170150Z" creationid="Olivier" creationdate="20210717T170150Z">
+        <seg>Option d'affichage des nouvelles (raccourci : N / News)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Next Arrow=Yes</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Inrepublica" changedate="20200422T202608Z" creationid="Inrepublica" creationdate="20200422T202608Z">
@@ -24974,6 +25182,14 @@ please follow the below instructions:Q</seg>
         <seg>Next Product (Hotkey: 'x')</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20210602T171849Z" creationid="Olivier" creationdate="20200503T103827Z">
+        <seg>Produit suivant (raccourci  : X)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Next Product (Hotkey: X)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T170250Z" creationid="Olivier" creationdate="20210717T170250Z">
         <seg>Produit suivant (raccourci  : X)</seg>
       </tuv>
     </tu>
@@ -26747,6 +26963,14 @@ please follow the below instructions:Q</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open News Log window (hotkey: V)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T170215Z" creationid="Olivier" creationdate="20210717T170203Z">
+        <seg>Ouvrir la fenêtre du journal des actualités (raccourci : V)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open the Event Tracker Window</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200427T131742Z" creationid="Olivier" creationdate="20200427T131742Z">
@@ -26919,6 +27143,14 @@ please follow the below instructions:Q</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20210602T171317Z" creationid="Olivier" creationdate="20200428T144523Z">
         <seg>Menu Options (Raccourci : O)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Options Menu (hotkey: O)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T170140Z" creationid="Olivier" creationdate="20210717T170140Z">
+        <seg>Options Menu (Raccourcis: O)</seg>
       </tuv>
     </tu>
     <tu>
@@ -27511,6 +27743,14 @@ please follow the below instructions:Q</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T082823Z" creationid="Olivier" creationdate="20200507T082823Z">
         <seg>PRIVONLY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PRODOSAL</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T171818Z" creationid="Olivier" creationdate="20210717T171818Z">
+        <seg>PRODOSAL</seg>
       </tuv>
     </tu>
     <tu>
@@ -30003,6 +30243,14 @@ please follow the below instructions:Q</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Previous Product (Hotkey: U)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T170236Z" creationid="Olivier" creationdate="20210717T170236Z">
+        <seg>Produit précédent (raccourci  : U )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Previous Research Project</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200502T142550Z" creationid="Olivier" creationdate="20200502T142550Z">
@@ -30131,10 +30379,26 @@ please follow the below instructions:Q</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Product Customization (hotkey: Z)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T170404Z" creationid="Olivier" creationdate="20210717T170404Z">
+        <seg>Produit Customization (Raccourcis: Z)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Product Customization Range</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200423T153203Z" creationid="Inrepublica" creationdate="20200422T151113Z">
         <seg>Gamme de personnalisation du produit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product Customization=On</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T174951Z" creationid="Olivier" creationdate="20210717T174951Z">
+        <seg>Produit Customization=On</seg>
       </tuv>
     </tu>
     <tu>
@@ -30271,6 +30535,14 @@ please follow the below instructions:Q</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20210602T171239Z" creationid="Olivier" creationdate="20200428T123320Z">
         <seg>Rapport de synthèse sur le produit (raccourci : P / Product)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Product Summary Report (hotkey: P)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T165931Z" creationid="Olivier" creationdate="20210717T165758Z">
+        <seg>Rapport sommaire du produit (touche de raccourci : P / Product)</seg>
       </tuv>
     </tu>
     <tu>
@@ -32207,6 +32479,14 @@ please follow the below instructions:Q</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200508T085656Z" creationid="Olivier" creationdate="20200508T085656Z">
         <seg>STKBNDAC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>STKSORT</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T171145Z" creationid="Olivier" creationdate="20210717T171145Z">
+        <seg>STKSORT</seg>
       </tuv>
     </tu>
     <tu>
@@ -34539,6 +34819,14 @@ please follow the below instructions:Q</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Switch View (hotkey: A)</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T171108Z" creationid="Olivier" creationdate="20210717T171108Z">
+        <seg>Changer de vue (raccourci : A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Switch information display mode</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T101642Z" creationid="Olivier" creationdate="20200507T101642Z">
@@ -36259,6 +36547,14 @@ please follow the below instructions:Q</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The balance will be transferred to your saving account.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T174711Z" creationid="Olivier" creationdate="20210717T174711Z">
+        <seg>Le solde sera transféré sur votre compte d'épargne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The bank collects interest payments from loan borrowers.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200507T155515Z" creationid="Olivier" creationdate="20200507T155515Z">
@@ -36511,6 +36807,14 @@ please follow the below instructions:Q</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20200504T151742Z" creationid="Olivier" creationdate="20200504T151742Z">
         <seg>Le cours actuel de l'action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The current store is already selling this product.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T171834Z" creationid="Olivier" creationdate="20210717T171834Z">
+        <seg>Le magasin actuel vend déjà ce produit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39974,6 +40278,14 @@ please follow the below instructions:Q</seg>
         <seg>To change the filtered list, access the #Products Summary# (hotkey: 'p') and choose different settings.</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20210602T172357Z" creationid="Olivier" creationdate="20210323T085745Z">
+        <seg>Pour modifier la liste filtrée, accédez au # Résumé des produits#  (raccourci : P) et choisissez différents paramètres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To change the filtered list, access the #Products Summary# (hotkey: P) and choose different settings.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T170246Z" creationid="Olivier" creationdate="20210717T170246Z">
         <seg>Pour modifier la liste filtrée, accédez au # Résumé des produits#  (raccourci : P) et choisissez différents paramètres.</seg>
       </tuv>
     </tu>
@@ -65292,8 +65604,8 @@ please follow the below instructions:Q</seg>
       <tuv lang="en-US">
         <seg>[3380]&lt;RDS4&gt;-Service firms in areas with high customer traffic will boost the chain popularity more.|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20210514T083014Z" creationid="Olivier" creationdate="20210514T082940Z">
-        <seg>[3380]&lt;RDS4&gt;-Les entreprises de services situées dans des zones à fort trafic de clients renforceront la popularité de la chaîne.|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210718T172546Z" creationid="Olivier" creationdate="20210514T082940Z">
+        <seg>[3380]&lt;RDS4&gt;- Les entreprises de services situées dans des zones à fort trafic de clients renforceront la popularité de la chaîne.|</seg>
       </tuv>
     </tu>
     <tu>
@@ -65524,8 +65836,8 @@ please follow the below instructions:Q</seg>
       <tuv lang="en-US">
         <seg>[3409]&lt;EUF0&gt;Unlock firm type &lt;unknown&gt;|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20210514T085841Z" creationid="Olivier" creationdate="20210514T085841Z">
-        <seg>[3409]&lt;EUF0&gt;Débloquer la firme de tyoe &lt;inconnu&gt;|</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210720T084956Z" creationid="Olivier" creationdate="20210514T085841Z">
+        <seg>[3409]&lt;EUF0&gt;Débloquer la firme de type &lt;inconnu&gt;|</seg>
       </tuv>
     </tu>
     <tu>
@@ -65540,8 +65852,8 @@ please follow the below instructions:Q</seg>
       <tuv lang="en-US">
         <seg>[3411]&lt;ELM2&gt;Unlock landmark|</seg>
       </tuv>
-      <tuv lang="fr-FR" changeid="Olivier" changedate="20210514T085857Z" creationid="Olivier" creationdate="20210514T085857Z">
-        <seg>[3411]&lt;ELM2&gt;Débloquer un repère</seg>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210720T063946Z" creationid="Olivier" creationdate="20210514T085857Z">
+        <seg>[3411]&lt;ELM2&gt;Débloquer un repère|</seg>
       </tuv>
     </tu>
     <tu>
@@ -65574,6 +65886,342 @@ please follow the below instructions:Q</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20210514T085934Z" creationid="Olivier" creationdate="20210514T085934Z">
         <seg>[3415]&lt;TIOC&gt;Pensez-y : Vous pouvez trouver d'autres candidats à l'emploi dans d'autres villes.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3416]&lt;DISG&gt;is disabled in this game.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210718T162418Z" creationid="Olivier" creationdate="20210717T171914Z">
+        <seg>[3416]&lt;DISG&gt;est désactivé durantesette partie.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3417]&lt;TWE1&gt;Tech Importance Weight|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T172032Z" creationid="Olivier" creationdate="20210717T172032Z">
+        <seg>[3417]&lt;TWE1&gt;Importance de l'influence technologique |</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3418]&lt;TWE2&gt;Weight of this tech contributing to the overall product:|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T172056Z" creationid="Olivier" creationdate="20210717T172056Z">
+        <seg>[3418]&lt;TWE2&gt;Importance de cette technologie contribuant à l'ensemble du produit :|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3419]&lt;BNOC&gt;Sorry, the city government already has too much debt.\nIt cannot issue new bonds at the moment.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T172138Z" creationid="Olivier" creationdate="20210717T172138Z">
+        <seg>[3419]&lt;BNOC&gt;Désolé, le gouvernement de la ville a déjà trop de dettes.\nIl ne peut pas émettre de nouvelles obligations pour le moment.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3420]&lt;MACA&gt;Mayoral candidate of|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T172150Z" creationid="Olivier" creationdate="20210717T172150Z">
+        <seg>[3420]&lt;MACA&gt;Candidat de maire de|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3421]&lt;SKPR&gt;Price|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T172153Z" creationid="Olivier" creationdate="20210717T172153Z">
+        <seg>[3421]&lt;SKPR&gt;Prix|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3422]&lt;SKPE&gt;P/E|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T172209Z" creationid="Olivier" creationdate="20210717T172209Z">
+        <seg>[3422]&lt;SKPE&gt;P/E|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3423]&lt;SOWN&gt;Owned%|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T172222Z" creationid="Olivier" creationdate="20210717T172222Z">
+        <seg>[3423]&lt;SOWN&gt;%possédé|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3424]&lt;SVAL&gt;Stock Value|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T215311Z" creationid="Olivier" creationdate="20210717T172442Z">
+        <seg>[3424]&lt;SVAL&gt;Valeur boursière|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3425]&lt;NCPY&gt;Sorry, this factory has not started production yet.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T172501Z" creationid="Olivier" creationdate="20210717T172501Z">
+        <seg>[3425]&lt;NCPY&gt;Désolé, cette usine n'a pas encore commencé à produire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3426]&lt;PMAY&gt;Your party's member is Mayor|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T173207Z" creationid="Olivier" creationdate="20210717T173207Z">
+        <seg>[3426]&lt;PMAY&gt;Le membre de votre parti est maire|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3427]&lt;MAPR&gt;Mayor Approval Rating|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T173247Z" creationid="Olivier" creationdate="20210717T173247Z">
+        <seg>[3427]&lt;MAPR&gt;Evaluation de l'approbation du maire|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3428]&lt;HCFR&gt;Housing and Community Facilities rating|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T173501Z" creationid="Olivier" creationdate="20210717T173501Z">
+        <seg>[3428]&lt;HCFR&gt;Évaluation du logement et des équipements collectifs|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3429]&lt;JINR&gt;Jobs and Income rating|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T173543Z" creationid="Olivier" creationdate="20210717T173543Z">
+        <seg>[3429]&lt;JINR&gt;Évaluation des emplois et des revenus|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3430]&lt;EDUR&gt;Education rating|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T173651Z" creationid="Olivier" creationdate="20210717T173651Z">
+        <seg>[3430]&lt;EDUR&gt;Taux de scolarité|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3431]&lt;HEAR&gt;Health rating|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T173725Z" creationid="Olivier" creationdate="20210717T173725Z">
+        <seg>[3431]&lt;HEAR&gt;Classement de la santé|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3432]&lt;SOCR&gt;Social Security rating|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T173739Z" creationid="Olivier" creationdate="20210717T173739Z">
+        <seg>[3432]&lt;SOCR&gt;Taux de sécurité sociale|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3433]&lt;FOSR&gt;Food Supply rating|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T173808Z" creationid="Olivier" creationdate="20210717T173808Z">
+        <seg>[3433]&lt;FOSR&gt;Évaluation de l'approvisionnement alimentaire|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3434]&lt;GOSR&gt;Goods Supply rating|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T173842Z" creationid="Olivier" creationdate="20210717T173842Z">
+        <seg>[3434]&lt;GOSR&gt;Taux de fourniture de biens|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3435]&lt;ENVR&gt;Environment rating|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T173900Z" creationid="Olivier" creationdate="20210717T173900Z">
+        <seg>[3435]&lt;ENVR&gt;Cote environnementale|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3436]&lt;SAFR&gt;Safety rating|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T173913Z" creationid="Olivier" creationdate="20210717T173913Z">
+        <seg>[3436]&lt;SAFR&gt;Cote de sécurité|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3437]&lt;CULR&gt;Culture rating|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T173920Z" creationid="Olivier" creationdate="20210717T173920Z">
+        <seg>[3437]&lt;CULR&gt;Taux de culture|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3438]&lt;SPOR&gt;Sports rating|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T173935Z" creationid="Olivier" creationdate="20210717T173935Z">
+        <seg>[3438]&lt;SPOR&gt;Classement des sports|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3439]&lt;BALB&gt;You have bought back all outstanding issues of your bond and the bond is thus removed from the market.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T173958Z" creationid="Olivier" creationdate="20210717T173958Z">
+        <seg>[3439]&lt;BALB&gt;Vous avez racheté toutes les obligations en circulation et l'obligation est donc retirée du marché.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3440]&lt;CHSA&gt;Challenge Game saved successfully.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T174045Z" creationid="Olivier" creationdate="20210717T174045Z">
+        <seg>[3440]&lt;CHSA&gt;Le jeu de défi a été sauvegardé avec succès.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3441]&lt;PCAI&gt;Some products in this product class depend on inputs that must be enabled.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T174105Z" creationid="Olivier" creationdate="20210717T174105Z">
+        <seg>[3441]&lt;PCAI&gt;Certains produits de cette classe de produits dépendent d'entrées qui doivent être activées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3442]&lt;NCIC&gt;Unfortunately, you do not have sufficient cash at the moment.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T174141Z" creationid="Olivier" creationdate="20210717T174141Z">
+        <seg>[3442]&lt;NCIC&gt;Malheureusement, vous ne disposez pas d'une trésorerie suffisante pour le moment.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3443]&lt;MERO&gt;In order to execute a merger, your player character must have some ownership of your main corporation.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T174244Z" creationid="Olivier" creationdate="20210717T174244Z">
+        <seg>[3443]&lt;MERO&gt;Afin d'exécuter une fusion, votre personnage joueur doit posséder une partie de votre société principale.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3444]&lt;NOPR&gt;Sorry, no products can be produced in the current firm.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T174334Z" creationid="Olivier" creationdate="20210717T174334Z">
+        <seg>[3444]&lt;NOPR&gt;Désolé, aucun produit ne peut être fabriqué dans l'établissement actuel.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3445]&lt;NMER&gt;You cannot merge the two companies because the target company owns stock in the acquiring company.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T174359Z" creationid="Olivier" creationdate="20210717T174359Z">
+        <seg>[3445]&lt;NMER&gt;Vous ne pouvez pas fusionner les deux sociétés car la société cible possède des actions de la société acquéreuse.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3446]&lt;AMER&gt;Under the special anti-exploitation game rules, your company can only merge with another company in which it DIRECTLY owns a majority of the shares.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T174430Z" creationid="Olivier" creationdate="20210717T174430Z">
+        <seg>[3446]&lt;AMER&gt;En vertu des règles spéciales du jeu anti-exploitation, votre société ne peut fusionner qu'avec une autre société dont elle détient DIRECTEMENT la majorité des actions.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3447]&lt;HRPD&gt;Please hire a researcher with product development skill first.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210718T162641Z" creationid="Olivier" creationdate="20210717T174445Z">
+        <seg>[3447]&lt;HRPD&gt;Veuillez d'abord engager un chercheur ayant des compétences en développement de produits.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3448]&lt;HRTK&gt;Please hire a researcher with technology knowhow first.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T174504Z" creationid="Olivier" creationdate="20210717T174504Z">
+        <seg>[3448]&lt;HRTK&gt;Veuillez d'abord engager un chercheur ayant des connaissances en technologie.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3449]&lt;QSAV&gt;Quick save done.|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T174531Z" creationid="Olivier" creationdate="20210717T174531Z">
+        <seg>[3449]&lt;QSAV&gt;Sauvegarde rapide effectuée.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3450]&lt;CDEL&gt;This Challenge Game will be deleted.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T174556Z" creationid="Olivier" creationdate="20210717T174556Z">
+        <seg>[3450]&lt;CDEL&gt;Cette partie du défi sera supprimée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3451]&lt;COWR&gt;Overwrite this Challenge Game?|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210718T162606Z" creationid="Olivier" creationdate="20210717T174621Z">
+        <seg>[3451]&lt;COWR&gt;Écraser cette partie du défi ?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3452]&lt;OEXF&gt;Open Export Folder|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T174635Z" creationid="Olivier" creationdate="20210717T174635Z">
+        <seg>[3452]&lt;OEXF&gt;Ouvrir le dossier d'exportation|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3453]&lt;WBMD&gt;This time deposit has not reached its maturity date yet.</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T174647Z" creationid="Olivier" creationdate="20210717T174647Z">
+        <seg>[3453]&lt;WBMD&gt;Ce dépôt à terme n'a pas encore atteint sa date d'échéance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3454]&lt;SGT1&gt;Which type of game do you want to save?|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T174742Z" creationid="Olivier" creationdate="20210717T174742Z">
+        <seg>[3454]&lt;SGT1&gt;Quel type de partie voulez-vous sauver ?|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3455]&lt;SGT2&gt;Challenge Game|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T174812Z" creationid="Olivier" creationdate="20210717T174812Z">
+        <seg>[3455]&lt;SGT2&gt;Jeu de défi|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3456]&lt;SGT3&gt;Normal Savegame|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T174825Z" creationid="Olivier" creationdate="20210717T174825Z">
+        <seg>[3456]&lt;SGT3&gt;Sauvegarde normale|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[3457]&lt;SCDL&gt;Warning: Are you sure that you want to save a Challenge Game with DLC enabled?|</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210717T174849Z" creationid="Olivier" creationdate="20210717T174849Z">
+        <seg>[3457]&lt;SCDL&gt;Avertissement : Êtes-vous sûr de vouloir sauvegarder un jeu de défi avec le DLC activé ?|</seg>
       </tuv>
     </tu>
     <tu>
