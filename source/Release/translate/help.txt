@@ -67,19 +67,19 @@ Largest zoom level (hotkey: '/')
 Click to change city view to largest zoom level
 ~
 MMENUPSR
-Product Summary Report (hotkey: 'P')
+Product Summary Report (hotkey: P)
 Click to open the Product Summary Report 
 ~
 MMENUCSR
-Corporate Summary Report (hotkey: 'C')
+Corporate Summary Report (hotkey: C)
 Click to open the Corporate Summary Report
 ~
 MMENUFR
-Firm Summary Report (hotkey: 'F')
+Firm Summary Report (hotkey: F)
 Click to open the Firm Summary Report
 ~
 MMENUHQ
-Headquarters (hotkey: 'H')
+Headquarters (hotkey: H)
 Go to the Headquarters. 
 ~
 MMENUSM
@@ -91,7 +91,7 @@ Game Menu (hotkey: ESC)
 Save, Load, Retire, return to main menu or return to Windows.
 ~
 MMENUOM
-Options Menu (hotkey: 'O')
+Options Menu (hotkey: O)
 Display the game options menu.
 ~
 MMENUSP
@@ -99,7 +99,7 @@ Game Speed (hotkey: '0' to pause, '1' to '5' to set speed)
 Click the speed dial to change the game speed. #Double-click# here to see tips for #improving game running speed#.
 ~
 OM_NEWS
-News Display Option (hotkey: 'N')
+News Display Option (hotkey: N)
 Open the News Display options screen
 ~
 OM_OK
@@ -471,11 +471,11 @@ Enable/Disable Stock News
 Click to toggle the stock news option on or off. If this option is on stock purchases and sales will be headlined in the city view
 ~
 NEWS_L
-Open News Log window (hotkey: 'V')
+Open News Log window (hotkey: V)
 `
 ~
 NEWS_LC
-Close News Log window (hotkey: 'V')
+Close News Log window (hotkey: V)
 `
 ~
 NEWS_B
@@ -1248,7 +1248,7 @@ Demolish this firm
 `
 ~
 ASSIGN_M
-Click here to set the manager of this firm (hotkey: 'z').
+Click here to set the manager of this firm (hotkey: Z).
 `
 ~
 F_GRAPH
@@ -1260,12 +1260,12 @@ Search for a specific product (Hotkey: Tab)
 `
 ~
 P_PREV  
-Previous Product (Hotkey: 'u')
-View the previous product in the filtered list. To change the filtered list, access the #Products Summary# (hotkey: 'p') and choose different settings.
+Previous Product (Hotkey: U)
+View the previous product in the filtered list. To change the filtered list, access the #Products Summary# (hotkey: P) and choose different settings.
 ~
 P_NEXT  
-Next Product (Hotkey: 'x')
-View the next product in the filtered list. To change the filtered list, access the #Products Summary# (hotkey: 'p') and choose different settings. 
+Next Product (Hotkey: X)
+View the next product in the filtered list. To change the filtered list, access the #Products Summary# (hotkey: P) and choose different settings. 
 ~
 P_GO  
 Go to the firm selling or producing this product (Hotkey: Enter) 
@@ -1288,35 +1288,35 @@ Click here to go to the Stock Market.
 `
 ~
 I_CSUM
-Hotkey: 'C'
+Hotkey: C
 `
 ~
 I_CDET
-Hotkey: 'D' or F10
+Hotkey: D or F10
 `
 ~
 I_PSUM
-Hotkey: 'P'
+Hotkey: P
 `
 ~
 I_PDET
-Hotkey: 'R'
+Hotkey: R
 `
 ~
 I_FIRM
-Hotkey: 'F'
+Hotkey: F
 `
 ~
 I_FINAN
-Hotkey: 'I'
+Hotkey: I
 `
 ~
 I_PERSON
-Hotkey: 'E'
+Hotkey: E
 `
 ~
 I_GOAL
-Hotkey: 'G'
+Hotkey: G
 `
 ~
 I_SCORE
@@ -1336,15 +1336,15 @@ Hotkey: Ctrl-M
 `
 ~
 I_CITY
-Hotkey: 'T'
+Hotkey: T
 `
 ~
 I_NATION
-Hotkey: 'Y'
+Hotkey: Y
 `
 ~
 I_ECO
-Hotkey: 'Y'
+Hotkey: Y
 `
 ~
 I_FINACT
@@ -2036,7 +2036,7 @@ Hotkey: '!'
 `
 ~
 MFT_CUST
-Product Customization (hotkey: 'z')
+Product Customization (hotkey: Z)
 Click to open the Product Customization Editor to define custom images for the current product type. A tick sign indicates that there are custom images defined for the product type. 
 ~
 INSALE_GR
@@ -3017,7 +3017,7 @@ Return on Equity
 Return on Equity (ROE) is calculated by dividing the insurance company's Net Profit by its Equity Capital. It is capped to a range from -50% to 50% for the purpose of calculating the average ROE.  
 ~
 SWITMODE
-Switch View (hotkey: 'A')
+Switch View (hotkey: A)
 Click here to switch between the standard view and the Cumulative Performance view. 
 ~
 INBRSKIL
@@ -3393,11 +3393,11 @@ No Active Research
 The operation of this University is currently suspended. To enable research, please set the #Operation slider# of this university to a value larger than zero.
 ~
 HIRETAL
-Hire (hotkey: 'W')
+Hire (hotkey: W)
 Hire a team lead for the current functional unit.
 ~
 HEADHTAL 
-Headhunt (hotkey: 'U')
+Headhunt (hotkey: U)
 To headhunt a person to lead the current functional unit.
 ~
 GDP_EFF1
@@ -3471,4 +3471,12 @@ There is more than one way to make this product. Click the arrow icons to browse
 BKMSHARE
 Deposit Market Share 
 Deposit Market Share = the amount on deposit at a particular bank divided by the total amount on deposit at all banks.
+~
+STKSORT
+Change Sort Order 
+Click on a column header to sort the stock list. 
+~
+PRODOSAL
+The current store is already selling this product. 
+`
 ~

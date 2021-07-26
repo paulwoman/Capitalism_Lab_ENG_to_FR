@@ -372,10 +372,10 @@ If this is enabled, you will be able to set up Import Firms for importing produc
 ~
 IMP_VAR
 Import Product Variety 
-This determines the variety of products available via imports in the beginning of the game. 
+This determines the variety of products available via imports in the beginning of the game (as a percentage of the total number of product types).
 ~
 IMP_INC
-Import Increase
+Import Variety Increase
 If this is enabled, the variety of products available via imports will increase over time. 
 ~
 IMP_CONS
@@ -383,7 +383,7 @@ Constant Supply
 This determines whether product supplies via imports are constantly available. 
 ~
 IMP_SEMI
-Semi Products
+Import Semi Products Only
 If this is enabled, only #Semi Products# are available via imports. (Consumer products are not available via imports.) 
 ~
 REALLOAN
@@ -433,4 +433,8 @@ This option can only be used in conjuction with #City Economic Simulation DLC#. 
 ACQBANKR
 Acquire Companies Facing Bankruptcy
 When this setting is enabled, when a company is facing bankruptcy, you will be given the option to rescue it by acquiring all the shares of the company.
+~
+IMP_QUAL
+Import Quality 
+This determines the quality of products imported via import companies. 
 ~
