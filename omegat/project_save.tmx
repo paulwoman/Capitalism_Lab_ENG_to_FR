@@ -1854,6 +1854,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>//Product Customization=&lt;On,Off&gt;</seg>
+      </tuv>
+      <tuv lang="fr-FR" changeid="Olivier" changedate="20210812T163619Z" creationid="Olivier" creationdate="20210812T163619Z">
+        <seg>//Customisation des produits=&lt;On,Off&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>//Random Product Reinvention=&lt;0-100&gt;</seg>
       </tuv>
       <tuv lang="fr-FR" changeid="Olivier" changedate="20201225T155743Z" creationid="Olivier" creationdate="20201225T155743Z">
